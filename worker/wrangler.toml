@@ -1,0 +1,8 @@
+name = "snipstack-go"
+main = "src/index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+routes = [
+  { pattern = "snipstack.io/go/*", zone_id = "9c4f14de827e651f28acb867defc6a79" }
+]
