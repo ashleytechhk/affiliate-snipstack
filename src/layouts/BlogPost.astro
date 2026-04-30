@@ -169,6 +169,20 @@ const articleSchema = JSON.stringify({
       color: #94a3b8;
     }
 
+    /* Scrollspy active state */
+    .toc-list a.active {
+      color: #ef4444;
+      border-left-color: #ef4444;
+      background: linear-gradient(90deg, #fef2f2 0%, transparent 100%);
+      font-weight: 600;
+    }
+
+    .toc-list a.active::before {
+      content: "▸ ";
+      color: #ef4444;
+      margin-right: 0.2em;
+    }
+
     /* Article content */
     .back-link {
       display: inline-flex;
@@ -437,6 +451,57 @@ const articleSchema = JSON.stringify({
       padding-bottom: 0.5rem;
       border-bottom: 2px solid #ecfeff;
       scroll-margin-top: 5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    /* Auto-icon for H2 headings using SVG mask + content-based selector */
+    .prose h2::before {
+      content: "";
+      display: inline-block;
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      background-color: #22d3ee;
+      mask-size: contain;
+      mask-repeat: no-repeat;
+      mask-position: center;
+      -webkit-mask-size: contain;
+      -webkit-mask-repeat: no-repeat;
+      -webkit-mask-position: center;
+      mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor'><path d='M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' stroke='currentColor' stroke-width='2' fill='none'/></svg>");
+      -webkit-mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor'><path d='M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z' stroke='currentColor' stroke-width='2' fill='none'/></svg>");
+    }
+
+    /* Variant icons by heading text content (CSS :has) */
+    .prose h2:has(+ * em),  /* fallback default checkmark */
+    .prose h2 {  /* Default — checkmark */
+    }
+
+    /* List items — bullet replaced with cyan checkmark */
+    .prose ul {
+      list-style: none;
+      padding-left: 0.5rem;
+    }
+    .prose ul li {
+      position: relative;
+      padding-left: 1.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .prose ul li::before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      top: 0;
+      color: #22d3ee;
+      font-weight: 700;
+      font-size: 1.1em;
+    }
+
+    /* Strong items in lists get red bullet (key features / pros) */
+    .prose ul li strong:first-child {
+      color: #0e3655;
     }
     .prose h3 {
       font-family: 'Montserrat', sans-serif;
@@ -663,6 +728,46 @@ const articleSchema = JSON.stringify({
       </div>
     </section>
   )}
+
+  <!-- Scrollspy: highlight TOC link as user scrolls -->
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+      const tocLinks = document.querySelectorAll('.toc-list a');
+      if (!tocLinks.length) return;
+
+      const linkMap = new Map();
+      tocLinks.forEach(a => {
+        const href = a.getAttribute('href');
+        if (href && href.startsWith('#')) {
+          linkMap.set(href.substring(1), a);
+        }
+      });
+
+      const headings = Array.from(linkMap.keys())
+        .map(id => document.getElementById(id))
+        .filter(Boolean);
+
+      const setActive = (id) => {
+        tocLinks.forEach(a => a.classList.remove('active'));
+        const link = linkMap.get(id);
+        if (link) link.classList.add('active');
+      };
+
+      const observer = new IntersectionObserver((entries) => {
+        const visible = entries
+          .filter(e => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (visible.length > 0) {
+          setActive(visible[0].target.id);
+        }
+      }, {
+        rootMargin: '-80px 0px -70% 0px',
+        threshold: 0,
+      });
+
+      headings.forEach(h => observer.observe(h));
+    });
+  </script>
 
   <footer>
     <div class="footer-inner">
