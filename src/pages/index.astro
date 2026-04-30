@@ -133,7 +133,7 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft))
       font-weight: 700;
       letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: #22d3ee;
+      color: #ef4444;
       margin-bottom: 0.5rem;
       text-align: center;
     }
@@ -147,7 +147,7 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft))
     .section-title-divider {
       width: 60px;
       height: 3px;
-      background: #22d3ee;
+      background: linear-gradient(90deg, #ef4444 0%, #22d3ee 100%);
       margin: 0.75rem auto 2rem;
       border-radius: 2px;
     }
@@ -170,10 +170,31 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft))
       transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
     }
 
+    .article-card {
+      position: relative;
+    }
+
     .article-card:hover {
       transform: translateY(-4px);
       box-shadow: 0 10px 20px -5px rgba(0,0,0,0.1);
       border-color: #22d3ee;
+    }
+
+    /* Editor's Pick badge */
+    .editors-pick-badge {
+      position: absolute;
+      top: 0.75rem;
+      right: 0.75rem;
+      background: #ef4444;
+      color: white;
+      font-size: 0.65rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      padding: 0.25rem 0.6rem;
+      border-radius: 100px;
+      text-transform: uppercase;
+      z-index: 2;
+      box-shadow: 0 2px 4px rgba(239, 68, 68, 0.3);
     }
 
     .card-image {
@@ -292,8 +313,9 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft))
       <div class="section-title-divider"></div>
 
       <div class="article-grid">
-        {posts.map(post => (
+        {posts.map((post, idx) => (
           <a href={`/${post.id}/`} class="article-card">
+            {idx === 0 && <span class="editors-pick-badge">⭐ Editor's Pick</span>}
             {post.data.heroImage && (
               <img src={post.data.heroImage} alt={post.data.title} class="card-image" loading="lazy" />
             )}
