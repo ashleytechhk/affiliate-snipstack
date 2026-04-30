@@ -34,6 +34,10 @@ It is not a replacement for a browser extension if you want cosmetic filtering (
 
 ---
 
+![A modern desk with a laptop, smartphone, and tablet all simultaneously showing clean ad-free pages, with a smart TV in the background](/og/surfshark-cleanweb-review-2026-inline-1.png)
+
+*The CleanWeb test setup — one subscription enabled across laptop, phone, tablet, and smart TV, all delivering ad-free pages at the same time.*
+
 ## What Is Surfshark CleanWeb?
 
 CleanWeb is Surfshark's DNS-level ad and tracker blocking feature. It is not a browser extension — it is a setting inside the Surfshark VPN application that, when enabled, routes your DNS queries through Surfshark's servers and blocks requests to domains on their blocklist.
@@ -115,6 +119,10 @@ Test: Opened ad-supported apps (free games, news apps, utility apps) on Android 
 **Comparison:** Browser extensions cannot block in-app ads at all. CleanWeb's 70% in-app blocking is significantly better than the 0% that any extension can achieve.
 
 ---
+
+![Schematic of a DNS query flow where a resolver checks a blocklist database and either returns a green allowed arrow to a legitimate site or a red blocked shield over an ad server icon](/og/surfshark-cleanweb-review-2026-inline-2.png)
+
+*Every page load is dozens of DNS queries. CleanWeb resolves the legitimate ones and drops the ones on its blocklist before the request leaves your device.*
 
 ## Test Results: Where CleanWeb Falls Short
 
@@ -228,6 +236,10 @@ The value calculation is also different from most ad blockers because CleanWeb i
 > [Get Surfshark](/go/vpn?sub=surfshark-cleanweb-review-2026__vpn__cross-sell-section)
 
 ---
+
+![Abstract glowing network mesh with red translucent X marks dissolving into particles at certain nodes while clean cyan light flows through unblocked paths](/og/surfshark-cleanweb-review-2026-inline-3.png)
+
+*A blocklist is a network with holes carved into it — the trackers fail silently, and the rest of the connection keeps moving.*
 
 ## Pricing
 

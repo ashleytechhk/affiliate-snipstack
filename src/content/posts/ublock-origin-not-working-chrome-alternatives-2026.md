@@ -28,6 +28,10 @@ If you want to stay with a browser extension, **AdGuard** is the best MV3-native
 
 ---
 
+![Frustrated person at a laptop facing a Chrome browser cluttered with banner ads sidebar ads and a popup blocking the content](/og/ublock-origin-not-working-chrome-alternatives-2026-inline-1.png)
+
+*The post-Manifest-V3 Chrome experience for users still relying on the legacy uBlock Origin install — the extension is technically running, but the ads come through anyway.*
+
 ## What Changed in 2026: Manifest V3 and the End of uBlock Origin
 
 Google's Manifest V3 (MV3) was announced in 2019, fought by extension developers for years, and finally enforced in full by late 2025. The stated goal was security and performance. The practical effect was eliminating `webRequestBlocking`, the only API that let extensions intercept network requests synchronously — which is exactly how uBlock Origin, AdBlock Plus, and every serious ad blocker worked.
@@ -137,6 +141,10 @@ For users comfortable with networking, running Pi-hole or AdGuard Home on a loca
 
 ---
 
+![Schematic comparing Manifest V2 and Manifest V3 extension architectures side by side, with V2 showing a flexible API and dynamic blocking and V3 showing a static rules list with limited capacity bars](/og/ublock-origin-not-working-chrome-alternatives-2026-inline-2.png)
+
+*The architectural change: V2 let extensions inspect and block requests in real time. V3 reduced them to a fixed list of pre-approved rules with hard caps.*
+
 ## How DNS-Level Ad Blocking Works
 
 Browser extensions intercept requests inside the browser tab — they are constrained to what the browser's extension API allows. Manifest V3 specifically limits this.
@@ -167,6 +175,10 @@ CleanWeb as a standalone product is priced competitively. With the VPN included,
 > [Get the bundle](/go/vpn?sub=ublock-origin-not-working-chrome-alternatives-2026__vpn__cross-sell-section)
 
 ---
+
+![Abstract broken puzzle with translucent shield pieces floating apart and a ghostly second shield assembling itself from cyan light particles in the background](/og/ublock-origin-not-working-chrome-alternatives-2026-inline-3.png)
+
+*The browser-extension model is breaking down. The replacement is already taking shape — outside the browser, where Chrome's policies cannot reach it.*
 
 ## FAQ
 

@@ -28,6 +28,10 @@ Here is what actually works in 2026, why most methods fail, and which virtual nu
 
 ---
 
+![Smartphone displaying two messaging app icons side by side on the home screen labeled Personal and Work on a wooden cafe table](/og/virtual-phone-number-for-whatsapp-2026-inline-1.png)
+
+*One device, two distinct messaging identities — a virtual number lets a single phone hold a personal and a work account without ever sharing the same digits.*
+
 ## Why You Need a Separate Number for WhatsApp
 
 WhatsApp is not just a messaging app for most people — it is a primary communication channel, and the phone number attached to it becomes a permanent identifier.
@@ -61,6 +65,10 @@ WhatsApp has invested significantly in preventing mass account creation via virt
 What works: Services that provide numbers through legitimate telecom infrastructure (not pure software VoIP), that have maintained good standing with WhatsApp's number verification system, and that offer permanent (not temporary) numbers.
 
 ---
+
+![Schematic showing two SMS verification flows where a VoIP number is blocked with a red X and a telecom-routed virtual number passes through a carrier tower with a green check](/og/virtual-phone-number-for-whatsapp-2026-inline-2.png)
+
+*The verification difference: WhatsApp blocks pure VoIP at the database lookup. Numbers routed through real carrier infrastructure pass the same check that any prepaid SIM passes.*
 
 ## Virtual Number Options That Work for WhatsApp in 2026
 
@@ -202,6 +210,10 @@ This is the most common friction point for iOS users. WhatsApp officially suppor
 | WhatsApp Business API (large business) | Yes | Volume pricing | No | Medium | Yes |
 
 ---
+
+![Abstract illustration of two ghostly silhouette profiles facing opposite directions separated by a translucent vertical privacy mask glowing in cyan, each silhouette with its own faint orbit of icons](/og/virtual-phone-number-for-whatsapp-2026-inline-3.png)
+
+*Two identities on one device — work and personal kept on parallel tracks, with no telecom record that ties them back together.*
 
 ## FAQ
 
