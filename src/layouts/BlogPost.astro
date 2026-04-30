@@ -1,0 +1,294 @@
+---
+import Layout from './Layout.astro';
+
+export interface Props {
+  title: string;
+  description: string;
+  publishDate: Date;
+  heroImage?: string;
+  tags?: string[];
+  slug: string;
+}
+
+const { title, description, publishDate, heroImage, tags = [], slug } = Astro.props;
+
+const formattedDate = publishDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const articleSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "datePublished": publishDate.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "name": "Snipstack"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Snipstack",
+    "url": "https://snipstack.io"
+  },
+  "url": `https://snipstack.io/${slug}/`
+});
+---
+
+<Layout title={title} description={description} ogImage={heroImage ?? '/og-default.png'}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={articleSchema} />
+  </Fragment>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0f0f1a;
+      color: #e2e8f0;
+      margin: 0;
+      padding: 0;
+    }
+
+    .site-header {
+      background: rgba(15, 15, 26, 0.95);
+      border-bottom: 1px solid rgba(99, 179, 237, 0.15);
+      padding: 1rem 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .site-header a {
+      color: #63b3ed;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1.1rem;
+      letter-spacing: -0.02em;
+    }
+
+    .container {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    .meta {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    .meta time {
+      color: #64748b;
+      font-size: 0.875rem;
+    }
+
+    .tag {
+      background: rgba(99, 179, 237, 0.1);
+      border: 1px solid rgba(99, 179, 237, 0.25);
+      color: #63b3ed;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.2rem 0.6rem;
+      border-radius: 100px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    h1.article-title {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      font-weight: 800;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      margin: 0 0 1.5rem;
+      background: linear-gradient(135deg, #e2e8f0 0%, #63b3ed 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero-img {
+      width: 100%;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+      aspect-ratio: 1200/630;
+      object-fit: cover;
+    }
+
+    /* Article content styles */
+    .prose {
+      line-height: 1.75;
+      color: #cbd5e1;
+    }
+
+    .prose h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #e2e8f0;
+      margin: 2.5rem 0 1rem;
+      letter-spacing: -0.02em;
+      border-bottom: 1px solid rgba(99, 179, 237, 0.15);
+      padding-bottom: 0.5rem;
+    }
+
+    .prose h3 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #e2e8f0;
+      margin: 2rem 0 0.75rem;
+    }
+
+    .prose h4 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #e2e8f0;
+      margin: 1.5rem 0 0.5rem;
+    }
+
+    .prose p {
+      margin: 0 0 1.25rem;
+    }
+
+    .prose ul, .prose ol {
+      margin: 0 0 1.25rem 1.5rem;
+    }
+
+    .prose li {
+      margin-bottom: 0.5rem;
+    }
+
+    .prose a {
+      color: #63b3ed;
+      text-decoration: underline;
+      text-decoration-color: rgba(99, 179, 237, 0.4);
+    }
+
+    .prose a:hover {
+      text-decoration-color: #63b3ed;
+    }
+
+    .prose strong {
+      color: #e2e8f0;
+    }
+
+    .prose table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.9rem;
+      overflow-x: auto;
+      display: block;
+    }
+
+    .prose thead {
+      background: rgba(99, 179, 237, 0.1);
+    }
+
+    .prose th {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      font-weight: 700;
+      color: #e2e8f0;
+      border-bottom: 2px solid rgba(99, 179, 237, 0.25);
+      white-space: nowrap;
+    }
+
+    .prose td {
+      padding: 0.65rem 1rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .prose tr:hover td {
+      background: rgba(99, 179, 237, 0.04);
+    }
+
+    /* CTA boxes */
+    .prose blockquote {
+      background: linear-gradient(135deg, rgba(99, 179, 237, 0.08) 0%, rgba(99, 179, 237, 0.04) 100%);
+      border: 1px solid rgba(99, 179, 237, 0.3);
+      border-left: 4px solid #63b3ed;
+      border-radius: 8px;
+      padding: 1.25rem 1.5rem;
+      margin: 1.75rem 0;
+      color: #e2e8f0;
+    }
+
+    .prose blockquote p {
+      margin: 0;
+    }
+
+    .prose blockquote a {
+      font-weight: 700;
+      text-decoration: none;
+      background: linear-gradient(135deg, #63b3ed, #90cdf4);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .prose hr {
+      border: none;
+      border-top: 1px solid rgba(99, 179, 237, 0.12);
+      margin: 2.5rem 0;
+    }
+
+    .prose code {
+      background: rgba(255, 255, 255, 0.06);
+      padding: 0.15em 0.4em;
+      border-radius: 4px;
+      font-size: 0.875em;
+      color: #90cdf4;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: #64748b;
+      text-decoration: none;
+      font-size: 0.875rem;
+      margin-bottom: 2rem;
+      transition: color 0.15s;
+    }
+
+    .back-link:hover {
+      color: #63b3ed;
+    }
+  </style>
+
+  <header class="site-header">
+    <a href="/">Snipstack</a>
+  </header>
+
+  <div class="container">
+    <a href="/" class="back-link">← All articles</a>
+
+    <div class="meta">
+      <time datetime={publishDate.toISOString()}>{formattedDate}</time>
+      {tags.map(tag => <span class="tag">{tag}</span>)}
+    </div>
+
+    <h1 class="article-title">{title}</h1>
+
+    {heroImage && (
+      <img
+        src={heroImage}
+        alt={title}
+        class="hero-img"
+        width="1200"
+        height="630"
+        loading="eager"
+      />
+    )}
+
+    <div class="prose">
+      <slot />
+    </div>
+  </div>
+</Layout>

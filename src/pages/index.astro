@@ -1,25 +1,39 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 ---
-<Layout title="Snipstack — Coming Soon" description="Privacy & streaming tools that actually work.">
+
+<Layout title="Snipstack — Privacy & Streaming Tools That Actually Work" description="Independent reviews and comparisons for VPNs, ad blockers, and privacy tools. No fluff. Just what works.">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%);
+      background: #0f0f1a;
       color: #e2e8f0;
     }
 
-    main {
+    .site-header {
+      background: rgba(15, 15, 26, 0.95);
+      border-bottom: 1px solid rgba(99, 179, 237, 0.15);
+      padding: 1rem 2rem;
+    }
+
+    .site-header a {
+      color: #63b3ed;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1.1rem;
+    }
+
+    .hero {
       text-align: center;
-      padding: 2rem;
-      max-width: 640px;
+      padding: 5rem 1.5rem 3rem;
+      max-width: 680px;
+      margin: 0 auto;
     }
 
     .badge {
@@ -33,15 +47,15 @@ import Layout from '../layouts/Layout.astro';
       text-transform: uppercase;
       padding: 0.35rem 0.9rem;
       border-radius: 100px;
-      margin-bottom: 1.75rem;
+      margin-bottom: 1.5rem;
     }
 
     h1 {
-      font-size: clamp(2rem, 6vw, 3.25rem);
+      font-size: clamp(2rem, 5vw, 3rem);
       font-weight: 800;
       letter-spacing: -0.025em;
       line-height: 1.1;
-      margin-bottom: 1.25rem;
+      margin-bottom: 1rem;
       background: linear-gradient(135deg, #e2e8f0 0%, #63b3ed 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -49,26 +63,126 @@ import Layout from '../layouts/Layout.astro';
     }
 
     .tagline {
-      font-size: 1.125rem;
+      font-size: 1.1rem;
       color: #94a3b8;
       line-height: 1.6;
     }
 
-    footer {
-      position: fixed;
-      bottom: 1.5rem;
+    .articles-section {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 5rem;
+    }
+
+    .section-label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #475569;
+      margin-bottom: 1.5rem;
+    }
+
+    .article-grid {
+      display: grid;
+      gap: 1.25rem;
+    }
+
+    .article-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-radius: 12px;
+      padding: 1.5rem;
+      text-decoration: none;
+      display: block;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .article-card:hover {
+      border-color: rgba(99, 179, 237, 0.35);
+      background: rgba(99, 179, 237, 0.04);
+    }
+
+    .card-tags {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.75rem;
+    }
+
+    .card-tag {
+      background: rgba(99, 179, 237, 0.1);
+      border: 1px solid rgba(99, 179, 237, 0.2);
+      color: #63b3ed;
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.15rem 0.5rem;
+      border-radius: 100px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .card-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #e2e8f0;
+      line-height: 1.3;
+      margin-bottom: 0.6rem;
+      letter-spacing: -0.01em;
+    }
+
+    .card-desc {
+      font-size: 0.9rem;
+      color: #94a3b8;
+      line-height: 1.55;
+      margin-bottom: 0.75rem;
+    }
+
+    .card-date {
       font-size: 0.8rem;
       color: #475569;
     }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.8rem;
+      color: #334155;
+      border-top: 1px solid rgba(255,255,255,0.04);
+    }
   </style>
 
-  <main>
-    <div class="badge">Coming Soon</div>
-    <h1>Snipstack</h1>
-    <p class="tagline">Privacy &amp; streaming tools that actually work.</p>
-  </main>
+  <header class="site-header">
+    <a href="/">Snipstack</a>
+  </header>
+
+  <div class="hero">
+    <div class="badge">Independent Reviews</div>
+    <h1>Privacy tools that actually work</h1>
+    <p class="tagline">Ad blockers, VPNs, and second phone numbers — tested, ranked, no fluff.</p>
+  </div>
+
+  <section class="articles-section">
+    <p class="section-label">Latest articles</p>
+    <div class="article-grid">
+      {posts.map(post => (
+        <a href={`/${post.id}/`} class="article-card">
+          <div class="card-tags">
+            {post.data.tags.slice(0, 3).map(tag => (
+              <span class="card-tag">{tag}</span>
+            ))}
+          </div>
+          <div class="card-title">{post.data.title}</div>
+          <p class="card-desc">{post.data.description}</p>
+          <time class="card-date" datetime={post.data.publishDate.toISOString()}>
+            {post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </time>
+        </a>
+      ))}
+    </div>
+  </section>
 
   <footer>
-    &copy; 2026 Snipstack
+    &copy; 2026 Snipstack &nbsp;·&nbsp; Independent reviews, affiliate links disclosed
   </footer>
 </Layout>
