@@ -747,10 +747,22 @@ const articleSchema = JSON.stringify({
         .map(id => document.getElementById(id))
         .filter(Boolean);
 
+      const tocContainer = document.querySelector('.article-toc');
+
       const setActive = (id) => {
         tocLinks.forEach(a => a.classList.remove('active'));
         const link = linkMap.get(id);
-        if (link) link.classList.add('active');
+        if (!link) return;
+        link.classList.add('active');
+
+        // Auto-scroll TOC sidebar to keep active link in viewport center
+        if (tocContainer) {
+          const containerRect = tocContainer.getBoundingClientRect();
+          const linkRect = link.getBoundingClientRect();
+          const linkOffsetInContainer = linkRect.top - containerRect.top + tocContainer.scrollTop;
+          const targetScroll = linkOffsetInContainer - containerRect.height / 2 + linkRect.height / 2;
+          tocContainer.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
+        }
       };
 
       const observer = new IntersectionObserver((entries) => {
