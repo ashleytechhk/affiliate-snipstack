@@ -11,178 +11,317 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft))
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      background: #0f0f1a;
-      color: #e2e8f0;
-    }
-
-    .site-header {
-      background: rgba(15, 15, 26, 0.95);
-      border-bottom: 1px solid rgba(99, 179, 237, 0.15);
-      padding: 1rem 2rem;
-    }
-
-    .site-header a {
-      color: #63b3ed;
-      text-decoration: none;
-      font-weight: 700;
-      font-size: 1.1rem;
-    }
-
-    .hero {
-      text-align: center;
-      padding: 5rem 1.5rem 3rem;
-      max-width: 680px;
-      margin: 0 auto;
-    }
-
-    .badge {
-      display: inline-block;
-      background: rgba(99, 179, 237, 0.12);
-      border: 1px solid rgba(99, 179, 237, 0.3);
-      color: #63b3ed;
-      font-size: 0.75rem;
-      font-weight: 600;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      padding: 0.35rem 0.9rem;
-      border-radius: 100px;
-      margin-bottom: 1.5rem;
-    }
-
-    h1 {
-      font-size: clamp(2rem, 5vw, 3rem);
-      font-weight: 800;
-      letter-spacing: -0.025em;
-      line-height: 1.1;
-      margin-bottom: 1rem;
-      background: linear-gradient(135deg, #e2e8f0 0%, #63b3ed 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-    }
-
-    .tagline {
-      font-size: 1.1rem;
-      color: #94a3b8;
+      font-family: 'Istok Web', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #ffffff;
+      color: #1f2937;
       line-height: 1.6;
     }
 
-    .articles-section {
-      max-width: 860px;
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      color: #0e3655;
+    }
+
+    /* Header — Ashley Tech style */
+    .site-header {
+      background: #ffffff;
+      border-bottom: 1px solid #e5e7eb;
+      padding: 1rem 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .header-inner {
+      max-width: 1200px;
       margin: 0 auto;
-      padding: 2rem 1.5rem 5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 800;
+      font-size: 1.4rem;
+      color: #0e3655;
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+
+    .logo span {
+      color: #22d3ee;
+    }
+
+    .nav {
+      display: flex;
+      gap: 1.75rem;
+    }
+
+    .nav a {
+      color: #6b7280;
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+
+    .nav a:hover {
+      color: #22d3ee;
+    }
+
+    /* Hero — cyan/teal instead of ashleytech green */
+    .hero {
+      background: linear-gradient(135deg, #06b6d4 0%, #22d3ee 50%, #67e8f9 100%);
+      padding: 5rem 1.5rem;
+      text-align: center;
+      color: #ffffff;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      color: #ffffff;
+      max-width: 720px;
+      margin: 0 auto 1rem;
+      line-height: 1.15;
+    }
+
+    .hero p {
+      font-size: 1.1rem;
+      color: rgba(255, 255, 255, 0.95);
+      max-width: 640px;
+      margin: 0 auto 2rem;
+    }
+
+    .hero-cta {
+      display: inline-block;
+      background: #ffffff;
+      color: #0e3655;
+      font-weight: 700;
+      padding: 0.9rem 2rem;
+      border-radius: 4px;
+      text-decoration: none;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+
+    .hero-cta:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 15px -3px rgba(0,0,0,0.15);
+    }
+
+    /* Section — articles */
+    .section {
+      padding: 4rem 1.5rem;
+    }
+
+    .section-bg-light {
+      background: #f8fafc;
+    }
+
+    .section-inner {
+      max-width: 1100px;
+      margin: 0 auto;
     }
 
     .section-label {
       font-size: 0.8rem;
-      font-weight: 600;
-      letter-spacing: 0.12em;
+      font-weight: 700;
+      letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: #475569;
-      margin-bottom: 1.5rem;
+      color: #22d3ee;
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+
+    .section-title {
+      font-size: clamp(1.6rem, 3vw, 2rem);
+      text-align: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .section-title-divider {
+      width: 60px;
+      height: 3px;
+      background: #22d3ee;
+      margin: 0.75rem auto 2rem;
+      border-radius: 2px;
     }
 
     .article-grid {
       display: grid;
-      gap: 1.25rem;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
     }
 
     .article-card {
-      background: rgba(255, 255, 255, 0.03);
-      border: 1px solid rgba(255, 255, 255, 0.07);
-      border-radius: 12px;
-      padding: 1.5rem;
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      overflow: hidden;
       text-decoration: none;
-      display: block;
-      transition: border-color 0.15s, background 0.15s;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
     }
 
     .article-card:hover {
-      border-color: rgba(99, 179, 237, 0.35);
-      background: rgba(99, 179, 237, 0.04);
+      transform: translateY(-4px);
+      box-shadow: 0 10px 20px -5px rgba(0,0,0,0.1);
+      border-color: #22d3ee;
+    }
+
+    .card-image {
+      width: 100%;
+      aspect-ratio: 1200/630;
+      object-fit: cover;
+      background: #f1f5f9;
+    }
+
+    .card-body {
+      padding: 1.25rem 1.5rem 1.5rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
     }
 
     .card-tags {
       display: flex;
-      gap: 0.5rem;
+      gap: 0.4rem;
       flex-wrap: wrap;
       margin-bottom: 0.75rem;
     }
 
     .card-tag {
-      background: rgba(99, 179, 237, 0.1);
-      border: 1px solid rgba(99, 179, 237, 0.2);
-      color: #63b3ed;
+      background: #ecfeff;
+      color: #06b6d4;
       font-size: 0.7rem;
-      font-weight: 600;
-      padding: 0.15rem 0.5rem;
+      font-weight: 700;
+      padding: 0.15rem 0.55rem;
       border-radius: 100px;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.06em;
     }
 
     .card-title {
       font-size: 1.15rem;
       font-weight: 700;
-      color: #e2e8f0;
-      line-height: 1.3;
+      color: #0e3655;
+      line-height: 1.35;
       margin-bottom: 0.6rem;
-      letter-spacing: -0.01em;
     }
 
     .card-desc {
       font-size: 0.9rem;
-      color: #94a3b8;
+      color: #6b7280;
       line-height: 1.55;
-      margin-bottom: 0.75rem;
+      margin-bottom: 1rem;
+      flex: 1;
     }
 
     .card-date {
-      font-size: 0.8rem;
-      color: #475569;
+      font-size: 0.78rem;
+      color: #9ca3af;
     }
 
+    /* Footer */
     footer {
+      background: #0e3655;
+      color: #cbd5e1;
+      padding: 3rem 1.5rem;
       text-align: center;
-      padding: 2rem;
-      font-size: 0.8rem;
-      color: #334155;
-      border-top: 1px solid rgba(255,255,255,0.04);
+    }
+
+    footer .footer-inner {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    footer .footer-logo {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: #ffffff;
+      margin-bottom: 0.5rem;
+    }
+
+    footer .footer-logo span {
+      color: #22d3ee;
+    }
+
+    footer .footer-tagline {
+      font-size: 0.95rem;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1.5rem;
+    }
+
+    footer .footer-disclosure {
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.5;
+      max-width: 580px;
+      margin: 0 auto;
     }
   </style>
 
   <header class="site-header">
-    <a href="/">Snipstack</a>
+    <div class="header-inner">
+      <a href="/" class="logo">Snip<span>stack</span></a>
+      <nav class="nav">
+        <a href="/">Reviews</a>
+        <a href="#articles">Guides</a>
+      </nav>
+    </div>
   </header>
 
-  <div class="hero">
-    <div class="badge">Independent Reviews</div>
+  <section class="hero">
     <h1>Privacy tools that actually work</h1>
-    <p class="tagline">Ad blockers, VPNs, and second phone numbers — tested, ranked, no fluff.</p>
-  </div>
+    <p>Independent reviews of VPNs, ad blockers, and second phone numbers. No fluff. No paid placement bias. Just what we tested.</p>
+    <a href="#articles" class="hero-cta">Browse Reviews →</a>
+  </section>
 
-  <section class="articles-section">
-    <p class="section-label">Latest articles</p>
-    <div class="article-grid">
-      {posts.map(post => (
-        <a href={`/${post.id}/`} class="article-card">
-          <div class="card-tags">
-            {post.data.tags.slice(0, 3).map(tag => (
-              <span class="card-tag">{tag}</span>
-            ))}
-          </div>
-          <div class="card-title">{post.data.title}</div>
-          <p class="card-desc">{post.data.description}</p>
-          <time class="card-date" datetime={post.data.publishDate.toISOString()}>
-            {post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-          </time>
-        </a>
-      ))}
+  <section class="section section-bg-light" id="articles">
+    <div class="section-inner">
+      <p class="section-label">Latest Reviews</p>
+      <h2 class="section-title">Tested in 2026</h2>
+      <div class="section-title-divider"></div>
+
+      <div class="article-grid">
+        {posts.map(post => (
+          <a href={`/${post.id}/`} class="article-card">
+            {post.data.heroImage && (
+              <img src={post.data.heroImage} alt={post.data.title} class="card-image" loading="lazy" />
+            )}
+            <div class="card-body">
+              <div class="card-tags">
+                {post.data.tags.slice(0, 3).map(tag => (
+                  <span class="card-tag">{tag}</span>
+                ))}
+              </div>
+              <h3 class="card-title">{post.data.title}</h3>
+              <p class="card-desc">{post.data.description}</p>
+              <time class="card-date" datetime={post.data.publishDate.toISOString()}>
+                {post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </time>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 
   <footer>
-    &copy; 2026 Snipstack &nbsp;·&nbsp; Independent reviews, affiliate links disclosed
+    <div class="footer-inner">
+      <div class="footer-logo">Snip<span>stack</span></div>
+      <p class="footer-tagline">Privacy & streaming tools that actually work.</p>
+      <p class="footer-disclosure">
+        © 2026 Snipstack · Independent product reviews · Affiliate disclosure: this site may earn a commission when you purchase through links on our pages. We only recommend products we've tested.
+      </p>
+    </div>
   </footer>
 </Layout>
