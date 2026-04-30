@@ -3,15 +3,25 @@ import { getCollection, render } from 'astro:content';
 import BlogPost from '../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('posts', ({ data }) => !data.draft);
-  return posts.map(post => ({
+  const posts = (await getCollection('posts', ({ data }) => !data.draft))
+    .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+  return posts.map((post, idx) => ({
     params: { slug: post.id },
-    props: { post },
+    props: {
+      post,
+      prev: posts[idx + 1] ?? null,
+      next: posts[idx - 1] ?? null,
+      related: posts.filter(p => p.id !== post.id).slice(0, 3),
+    },
   }));
 }
 
-const { post } = Astro.props;
-const { Content } = await render(post);
+const { post, prev, next, related } = Astro.props;
+const { Content, headings } = await render(post);
+
+// Filter to H2 + H3 for TOC
+const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
 ---
 
 <BlogPost
@@ -21,6 +31,10 @@ const { Content } = await render(post);
   heroImage={post.data.heroImage}
   tags={post.data.tags}
   slug={post.id}
+  toc={toc}
+  prev={prev}
+  next={next}
+  related={related}
 >
   <Content />
 </BlogPost>
