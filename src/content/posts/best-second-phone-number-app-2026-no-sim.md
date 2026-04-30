@@ -30,6 +30,10 @@ Here are the best options, ranked by use case and value.
 
 ---
 
+![A hand holding a smartphone with multiple incoming spam call notifications stacked on screen, dimly lit modern living room background](/og/best-second-phone-number-app-2026-no-sim-inline-1.png)
+
+*The reality of leaked phone numbers in 2026 — once your number is in the database, the calls do not stop.*
+
 ## Why You Need a Second Phone Number in 2026
 
 Your phone number is an identifier that is much harder to change than an email address. Unlike an email you can delete and recreate in two minutes, replacing a real phone number means notifying every bank, service, and contact that has it.
@@ -187,6 +191,10 @@ Skype allows you to purchase a real local number in 25+ countries — UK, German
 
 ---
 
+![Technical diagram showing how virtual phone number calls route through cloud servers with privacy shielding before reaching your real phone](/og/best-second-phone-number-app-2026-no-sim-inline-2.png)
+
+*How virtual phone numbers work: incoming calls route through the service's cloud infrastructure (which strips your real number from telecom records) before reaching your device.*
+
 ## Comparison Table
 
 | App | Countries | WhatsApp Support | Disposable | Privacy Focus | Free Tier | Monthly Cost |
@@ -216,6 +224,10 @@ Skype allows you to purchase a real local number in 25+ countries — UK, German
 **International second number:** Skype Number is the only service here with strong international coverage. Surfshark Alternative Number currently offers US and UK numbers.
 
 ---
+
+![Abstract illustration of a person silhouette with digital identity fragments dissolving into ghosted duplicates, evoking the multiplied digital self](/og/best-second-phone-number-app-2026-no-sim-inline-3.png)
+
+*Each layer of digital identity you give up — phone, email, IP — becomes a permanent thread tied to you. Reclaiming privacy means choosing what to share carefully.*
 
 ## A Note on Privacy: Not All Virtual Numbers Are Equal
 

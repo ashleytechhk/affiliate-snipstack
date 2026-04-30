@@ -232,37 +232,78 @@ const articleSchema = JSON.stringify({
       font-weight: 700;
     }
 
-    /* Tables */
+    /* Tables — Premium comparison style */
+    .prose .table-wrap {
+      margin: 2rem 0;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(14, 54, 85, 0.08);
+      border: 1px solid #e5e7eb;
+    }
+
     .prose table {
       width: 100%;
       border-collapse: collapse;
-      margin: 1.5rem 0;
+      margin: 2rem 0;
       font-size: 0.92rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(14, 54, 85, 0.08);
+      border-radius: 12px;
       overflow: hidden;
+      border: 1px solid #e5e7eb;
     }
 
     .prose thead {
-      background: #ecfeff;
+      background: linear-gradient(135deg, #0e3655 0%, #1e5a8e 100%);
     }
 
     .prose th {
-      padding: 0.85rem 1rem;
+      padding: 1rem 1.1rem;
       text-align: left;
       font-weight: 700;
-      color: #0e3655;
-      border-bottom: 2px solid #06b6d4;
+      color: #ffffff;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.85rem;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
       white-space: nowrap;
+      border-bottom: 3px solid #22d3ee;
     }
 
     .prose td {
-      padding: 0.7rem 1rem;
-      border-bottom: 1px solid #e5e7eb;
+      padding: 0.85rem 1.1rem;
+      border-bottom: 1px solid #f1f5f9;
+      transition: background 0.15s;
     }
 
     .prose tr:nth-child(even) td {
-      background: #f9fafb;
+      background: #f8fafc;
+    }
+
+    .prose tr:first-child td {
+      background: linear-gradient(90deg, #ecfeff 0%, #f0fdfa 100%);
+      font-weight: 600;
+      position: relative;
+    }
+
+    .prose tr:first-child td:first-child::before {
+      content: "⭐";
+      margin-right: 0.4em;
+    }
+
+    .prose tr:hover td {
+      background: #ecfeff !important;
+    }
+
+    /* Auto-style "Yes" / "No" / "Limited" / "High" / "Low" / "Medium" cells */
+    .prose td:contains("Yes") { color: #059669; }
+
+    /* Responsive table on mobile — horizontal scroll */
+    @media (max-width: 720px) {
+      .prose table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+      }
     }
 
     /* CTA boxes (blockquote) */
