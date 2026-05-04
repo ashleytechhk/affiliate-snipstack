@@ -22,7 +22,7 @@ It is not a replacement for a browser extension if you want cosmetic filtering (
 
 **Rating summary:**
 - Ad blocking effectiveness: 8.5/10
-- YouTube ad blocking: 9/10
+- [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/) blocking: 9/10
 - Setup simplicity: 9.5/10
 - Cross-device coverage: 10/10
 - Granular control: 5/10

@@ -158,6 +158,6 @@ Yes. AdGuard DNS blocks at the domain level — entire domains that are known ad
 
 For most users: `dns.adguard-dns.com` (hostname, for Private DNS on Android / DoH profile on iOS). For manual IP entry: `94.140.14.14` (primary) and `94.140.14.15` (secondary). The hostname approach is preferred because it enforces encryption automatically.
 
-### Does AdGuard DNS block YouTube ads on mobile?
+### Does AdGuard DNS block [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s on mobile?
 
 Partially. YouTube serves ads from its own domains, which DNS cannot block without also breaking video playback. DNS removes ads from third-party networks. For YouTube-specific ad blocking on mobile, you need a browser extension or a modified client — DNS alone is not sufficient for YouTube in-app ads.

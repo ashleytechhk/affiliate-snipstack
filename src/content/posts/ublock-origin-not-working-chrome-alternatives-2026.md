@@ -42,7 +42,7 @@ Under MV3, extensions can only use a static declarative rules list (`declarative
 - **No real-time interception.** Requests that don't match the static list get through.
 - **Extension developers must pre-approve every rule.** You lose adaptive blocking against new ad domains.
 
-uBlock Origin Lite shipped as a compliance patch, but Raymond Hill (gorhill), the original developer, was clear: the Lite version cannot match the original's blocking power. Independent tests in 2025 showed uBlock Origin Lite blocking 55-68% of ads that the original version caught. YouTube ads — arguably the most complained-about category — slip through regularly.
+uBlock Origin Lite shipped as a compliance patch, but Raymond Hill (gorhill), the original developer, was clear: the Lite version cannot match the original's blocking power. Independent tests in 2025 showed uBlock Origin Lite blocking 55-68% of ads that the original version caught. [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s — arguably the most complained-about category — slip through regularly.
 
 Firefox is the exception: Firefox still supports the old Manifest V2 API for extensions. uBlock Origin works fully on Firefox. But if Chrome is your primary browser — and for most people it is — you need to look elsewhere.
 

@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Microsoft Defender Antivirus for Windows 11 guide](/og/microsoft-defender-antivirus-for-windows-11-2026.png)
 
-Worried about viruses on your Windows 11 computer? You are not alone. Scams and malicious software are more common than ever, and older adults are often the main targets. The good news: Windows 11 already comes with a built-in antivirus called **Microsoft Defender Antivirus** — and it is free, automatic, and easy to use.
+Worried about viruses on your Windows 11 computer? You are not alone. Scams and malicious software are more common than ever, and older adults are often the main targets. The good news: Windows 11 already comes with a built-in antivirus called **[Microsoft Defender Antivirus](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/)** — and it is free, automatic, and easy to use.
 
 This plain-language guide will show you exactly how to check that Defender is running, how to do a manual scan, and what to do when something goes wrong. No technical background needed.
 
@@ -37,7 +37,7 @@ That is all. You do not need to buy anything or install any extra software to us
 First, let us make sure Defender is active on your computer.
 
 1. Click the **Start** button (the Windows logo at the bottom-left of your screen).
-2. Type **"Windows Security"** and press **Enter**.
+2. Type **"[Windows Security](https://snipstack.io/windows-security-2026/)"** and press **Enter**.
 3. The Windows Security app opens. Look for **Virus & threat protection** — it should show a green checkmark.
 
 ![Windows Security dashboard showing green checkmarks](/og/microsoft-defender-antivirus-for-windows-11-2026-inline-1.png)

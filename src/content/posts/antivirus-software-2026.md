@@ -64,7 +64,7 @@ Pricing is competitive: roughly $40 per year for NOD32 on one device, or around 
 
 ---
 
-## 5. Microsoft Defender — Best Free Option
+## 5. [Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) — Best Free Option
 
 **Microsoft Defender** comes pre-installed on every Windows 10 and 11 machine and, as of 2026, it is a legitimately good antivirus product. AV-TEST scores for Defender have tracked upward year over year and now sit solidly in the "good" range for detection. It updates automatically through Windows Update, integrates natively into the OS with near-zero overhead, and costs nothing.
 

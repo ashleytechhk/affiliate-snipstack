@@ -75,7 +75,7 @@ What it blocks well:
 - Most banner and interstitial ads in free apps
 
 What it does not block:
-- YouTube ads (YouTube serves ads from the same domain as video content; no DNS blocker can separate them)
+- [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s (YouTube serves ads from the same domain as video content; no DNS blocker can separate them)
 - Meta in-app ads inside Facebook and Instagram feeds (same first-party domain reason)
 - Ads in apps that bundle ad content into their own binary
 
