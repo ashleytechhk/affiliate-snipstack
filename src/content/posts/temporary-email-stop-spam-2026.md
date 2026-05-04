@@ -79,7 +79,7 @@ These three services are the most widely used throwaway options. They cost nothi
 
 ## The Permanent Alternative: Surfshark Alt-ID
 
-[Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-stop-spam-2026__mid) is a masked email alias service included with Surfshark subscriptions. It works differently from throwaway services in three important ways:
+[Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-stop-spam-2026__mid) is a masked [email alias](https://snipstack.io/email-alias-gmail-2026/) service included with Surfshark subscriptions. It works differently from throwaway services in three important ways:
 
 **1. It forwards to your real inbox.** You create an alias (e.g., `random-string@surfshark.id`). Any email sent there arrives in your Gmail, Outlook, or Apple Mail — exactly as normal. No separate inbox to check.
 

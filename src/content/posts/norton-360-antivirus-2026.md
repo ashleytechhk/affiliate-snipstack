@@ -30,7 +30,7 @@ Norton 360 is a capable security suite with a long track record — but its pric
 | Real-time threat detection | Yes | Yes |
 | VPN included | Yes (limited servers) | Yes (100+ countries, unlimited) |
 | Simultaneous devices | Up to 5 | Unlimited |
-| Ad blocker | No (separate add-on) | Yes (CleanWeb, built-in) |
+| [Ad blocker](https://snipstack.io/top-ad-blocker-2026/) | No (separate add-on) | Yes (CleanWeb, built-in) |
 | Data breach / dark web alerts | Yes (LifeLock add-on, costs extra) | Yes (Surfshark Alert, included) |
 | Password manager | Yes | No |
 | Webcam protection | Windows only | No |
@@ -143,7 +143,7 @@ The whole process takes under 30 minutes. There's no protection gap during a cle
 
 ### Is Norton 360 still worth buying in 2026?
 
-For new users taking advantage of an introductory offer, Norton 360 is solid antivirus software with a proven track record. The problem is the renewal pricing, which climbs steeply after year one. If you're past your first year and researching the current price, you've likely already found a reason to look elsewhere. Alternatives like [Surfshark One Bundle](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-360-antivirus-2026__faq) offer comparable malware protection with better VPN quality and more consistent renewal pricing.
+For new users taking advantage of an introductory offer, Norton 360 is solid [antivirus software](https://snipstack.io/antivirus-software-2026/) with a proven track record. The problem is the renewal pricing, which climbs steeply after year one. If you're past your first year and researching the current price, you've likely already found a reason to look elsewhere. Alternatives like [Surfshark One Bundle](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-360-antivirus-2026__faq) offer comparable malware protection with better VPN quality and more consistent renewal pricing.
 
 ### Does Surfshark antivirus actually work?
 

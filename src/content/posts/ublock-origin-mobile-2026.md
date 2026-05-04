@@ -109,7 +109,7 @@ AdGuard has separate apps for iOS and Android, with meaningfully different capab
 
 **Android:** The paid version uses a local VPN to intercept all traffic system-wide — similar principle to CleanWeb, without needing an external VPN. The free version is browser-only (AdGuard browser).
 
-**iOS:** Runs as a Safari Content Blocker (free). System-wide DNS-level blocking requires AdGuard DNS, which is a separate product. Native in-app ad blocking at the depth Android has is not available on iOS due to Apple platform restrictions.
+**iOS:** Runs as a Safari Content Blocker (free). System-wide DNS-level blocking requires [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/), which is a separate product. Native in-app ad blocking at the depth Android has is not available on iOS due to Apple platform restrictions.
 
 **Pricing:** Free (browser only) or around $2.99/month for premium. The free tier is useful but limited.
 

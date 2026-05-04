@@ -86,7 +86,7 @@ Surfshark Alternative Number provides virtual US and UK numbers through legitima
 - A real US or UK [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/)
 - Works for calls and texts
 - Usable for WhatsApp verification and account management
-- Part of Surfshark's privacy suite — can combine with VPN, Alt-ID email alias
+- Part of Surfshark's privacy suite — can combine with VPN, Alt-ID [email alias](https://snipstack.io/email-alias-gmail-2026/)
 
 **Privacy advantage:** Most virtual number services are telecom adjacent — they know your real identity for billing. Surfshark is a privacy company. Their data handling is built around minimal retention, consistent with their independently audited no-logs VPN policy. Your second WhatsApp number is not tied back to you in the same way it would be through a traditional carrier.
 

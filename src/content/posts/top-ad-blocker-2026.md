@@ -98,7 +98,7 @@ The ceiling is Safari. 1Blocker cannot block ads in Chrome, in other apps, or in
 
 ### 7. DNS Filtering Services — Best Lightweight Network-Level Option
 
-**Why it's on the list:** DNS-level filtering services — including NextDNS, ControlD, and AdGuard DNS — offer Pi-hole-style network blocking without the hardware requirement. You configure your device or router to use a custom DNS server, and the service filters ad and tracker domains before your connection resolves them.
+**Why it's on the list:** DNS-level filtering services — including NextDNS, ControlD, and [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) — offer Pi-hole-style network blocking without the hardware requirement. You configure your device or router to use a custom DNS server, and the service filters ad and tracker domains before your connection resolves them.
 
 NextDNS in particular has emerged as the go-to managed option: you get a dashboard to manage blocklists, see query logs, and customize filtering per device or profile. It works on mobile (iOS and Android both support encrypted DNS configuration), meaning you can maintain some level of protection off your home network. The free tier covers around 300,000 queries per month — enough for light use.
 

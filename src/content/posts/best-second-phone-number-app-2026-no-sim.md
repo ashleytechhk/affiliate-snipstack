@@ -69,7 +69,7 @@ Surfshark Alternative Number gives you a [virtual phone number](https://snipstac
 
 **Why it stands out:** Most virtual number apps are built by telecom resellers who still tie your account to your real identity for billing. Surfshark is a privacy company first — their data handling is built around minimizing what they know about you, consistent with their no-logs VPN policy.
 
-**Cross-sell value:** Surfshark Alternative Number pairs naturally with Alt-ID (email alias service) and Surfshark VPN for users who want a comprehensive privacy setup. One subscription covers multiple privacy layers.
+**Cross-sell value:** Surfshark Alternative Number pairs naturally with Alt-ID ([email alias](https://snipstack.io/email-alias-gmail-2026/) service) and Surfshark VPN for users who want a comprehensive privacy setup. One subscription covers multiple privacy layers.
 
 **Pricing:** Included in Surfshark's subscription options — check current pricing at the link below.
 
@@ -264,7 +264,7 @@ Each of these is available individually or bundled. The privacy argument for bun
 
 ## FAQ
 
-### Do virtual phone numbers work for WhatsApp activation?
+### Do [virtual phone number](https://snipstack.io/virtual-phone-number-free-2026/)s work for WhatsApp activation?
 
 It depends on the service. WhatsApp has historically rejected many VoIP numbers because they require carrier-registered numbers. Surfshark Alternative Number supports WhatsApp activation. Google Voice, TextNow, and Talkatone are commonly rejected by WhatsApp. Check the service's specific compatibility before purchasing if WhatsApp is your primary use case.
 

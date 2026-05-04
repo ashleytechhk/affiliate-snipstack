@@ -153,7 +153,7 @@ Truecaller's spam-blocking relies on a crowdsourced database built from users' c
 
 ### How does Surfshark Alternative Number work?
 
-Surfshark Alt Number assigns you a virtual phone number in your chosen country. Calls and texts to that number are routed through the Surfshark app to your real device — you receive and make calls normally, but the other party only ever sees the Alt Number. There is no second SIM, no second phone, and no carrier change involved. You can delete the number at any time, immediately cutting off access from anyone who had it.
+Surfshark Alt Number assigns you a [virtual phone number](https://snipstack.io/virtual-phone-number-free-2026/) in your chosen country. Calls and texts to that number are routed through the Surfshark app to your real device — you receive and make calls normally, but the other party only ever sees the Alt Number. There is no second SIM, no second phone, and no carrier change involved. You can delete the number at any time, immediately cutting off access from anyone who had it.
 
 ---
 

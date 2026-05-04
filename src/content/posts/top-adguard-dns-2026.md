@@ -48,7 +48,7 @@ The Family servers also block crypto-mining scripts and scam sites — useful ev
 
 **Best for: power users who want a privacy-respecting DNS without block lists**
 
-The non-filtering servers (`94.140.14.140` / `94.140.14.141`) give you AdGuard's infrastructure — DoH, DoT, DNSSEC validation, no logging — without any block lists. Why use this? Some users run their own Pi-hole or uBlock Origin and want a fast, clean upstream resolver that does not double-filter.
+The non-filtering servers (`94.140.14.140` / `94.140.14.141`) give you AdGuard's infrastructure — DoH, DoT, DNSSEC validation, no logging — without any block lists. Why use this? Some users run their own Pi-hole or [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) and want a fast, clean upstream resolver that does not double-filter.
 
 On mobile, this pairs well with apps like AdGuard for Android (paid) where you control the block lists locally. You get the privacy guarantees of AdGuard's no-log policy without delegating content decisions to a remote list.
 
@@ -70,11 +70,11 @@ The profile approach also survives reboots, VPN switches, and cellular/Wi-Fi han
 
 ---
 
-### 5. AdGuard DNS + Surfshark CleanWeb — The Full Stack
+### 5. AdGuard DNS + [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) — The Full Stack
 
 **Best for: users who want maximum mobile ad blocking across all apps**
 
-This is the combination that actually works in 2026. DNS-level blocking catches domain-level ad calls. CleanWeb — Surfshark's built-in ad blocker — catches ad content delivered over allowed domains, strips tracking parameters from URLs, and blocks malware sites at the VPN layer before a connection is even established.
+This is the combination that actually works in 2026. DNS-level blocking catches domain-level ad calls. CleanWeb — Surfshark's built-in [ad blocker](https://snipstack.io/top-ad-blocker-2026/) — catches ad content delivered over allowed domains, strips tracking parameters from URLs, and blocks malware sites at the VPN layer before a connection is even established.
 
 Together they handle 95%+ of mobile ad scenarios: in-app banner ads, video pre-rolls, retargeting trackers, social media pixel fires, and DNS rebinding attacks. Neither tool alone gets this coverage.
 
