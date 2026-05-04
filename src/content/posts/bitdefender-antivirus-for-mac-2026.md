@@ -106,7 +106,7 @@ For seniors, the more practical question is: **which app warns you when somethin
 
 ### Scam and Phishing Protection
 
-Phishing is the biggest real-world threat for most older users — fake emails and websites designed to steal your bank login or Social Security details. Both apps block known phishing sites in your browser. Surfshark also includes a browser extension that blocks trackers and ads, which reduces exposure. Fewer ads means fewer chances to accidentally click a malicious one.
+Phishing is the biggest real-world threat for most older users — [fake email](https://snipstack.io/top-fake-email-2026/)s and websites designed to steal your bank login or Social Security details. Both apps block known phishing sites in your browser. Surfshark also includes a browser extension that blocks trackers and ads, which reduces exposure. Fewer ads means fewer chances to accidentally click a malicious one.
 
 ---
 
@@ -165,7 +165,7 @@ If the alert appeared inside your web browser (Safari, Chrome, or Firefox), it i
 No. Running two antivirus programs simultaneously causes conflicts and significantly slows your computer. Pick one and uninstall the other.
 
 **Do I still need to update macOS if I have antivirus installed?**
-Yes. macOS updates and antivirus software work together — neither replaces the other. Keep both current.
+Yes. macOS updates and [antivirus software](https://snipstack.io/antivirus-software-2026/) work together — neither replaces the other. Keep both current.
 
 **What if I try Surfshark and don't like it?**
 Surfshark offers a 30-day money-back guarantee. You can request a full refund within 30 days, no questions asked.

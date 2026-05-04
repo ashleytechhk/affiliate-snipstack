@@ -20,7 +20,7 @@ This guide covers four real options for getting a burner number for dating apps,
 
 ## Quick Verdict
 
-**Best overall: [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-dating-apps-2026__above-fold)** — a virtual phone number that works anywhere in the world, requires no new SIM card, and lets you give out a real-looking number that you can disable the moment things go sideways. No Google account required. No US-only restrictions. No second phone.
+**Best overall: [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-dating-apps-2026__above-fold)** — a [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/) that works anywhere in the world, requires no new SIM card, and lets you give out a real-looking number that you can disable the moment things go sideways. No Google account required. No US-only restrictions. No second phone.
 
 ---
 
@@ -76,7 +76,7 @@ The Burner app (iOS/Android) gives you temporary numbers you can "burn" — dele
 
 ### Option 4: Surfshark Alt-Number (Recommended)
 
-[Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-dating-apps-2026__mid) is a virtual phone number service that gives you a real phone number — not a VoIP number that apps can easily flag — without requiring a second SIM or device. It runs through the Surfshark app, which most people already associate with privacy tools.
+[Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-dating-apps-2026__mid) is a [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-2026/) service that gives you a real phone number — not a VoIP number that apps can easily flag — without requiring a second SIM or device. It runs through the Surfshark app, which most people already associate with privacy tools.
 
 **Pros:**
 - Works globally, not just the US or Canada

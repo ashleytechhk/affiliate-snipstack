@@ -6,7 +6,7 @@ heroImage: "/og/ublock-origin-not-working-chrome-alternatives-2026.png"
 tags: ["ad blocker", "chrome", "manifest v3", "privacy"]
 ---
 
-You open Chrome, try to load a page, and the ads are still there. You check — uBlock Origin is installed. It says it's running. But something is clearly wrong. You are not imagining it.
+You open Chrome, try to load a page, and the ads are still there. You check — [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) is installed. It says it's running. But something is clearly wrong. You are not imagining it.
 
 Chrome's Manifest V3 extension framework, which Google began enforcing across all extensions in 2024 and completed in 2025, stripped out the permissions that uBlock Origin depended on to do its job properly. The `webRequestBlocking` API — the mechanism that let uBlock intercept and kill network requests before they loaded — is gone. What you have now is uBlock Origin Lite, a stripped-down version that catches maybe 60-70% of what the original blocked. The rest gets through.
 
@@ -18,7 +18,7 @@ The good news: better alternatives exist. Some are browser extensions built for 
 
 ## Quick Verdict
 
-**Surfshark CleanWeb** is the strongest replacement if you want ad blocking that Chrome can never break — because it works at the network level, not inside the browser. It blocks ads across every app and device on your connection, not just web tabs.
+**[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/)** is the strongest replacement if you want ad blocking that Chrome can never break — because it works at the network level, not inside the browser. It blocks ads across every app and device on your connection, not just web tabs.
 
 If you want to stay with a browser extension, **AdGuard** is the best MV3-native alternative to uBlock Origin.
 

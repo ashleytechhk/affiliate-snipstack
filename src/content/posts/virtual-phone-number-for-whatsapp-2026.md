@@ -83,7 +83,7 @@ Surfshark Alternative Number provides virtual US and UK numbers through legitima
 - Number is separate from your real telecom account — no linkage to your identity
 
 **What you get:**
-- A real US or UK virtual phone number
+- A real US or UK [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/)
 - Works for calls and texts
 - Usable for WhatsApp verification and account management
 - Part of Surfshark's privacy suite — can combine with VPN, Alt-ID email alias
