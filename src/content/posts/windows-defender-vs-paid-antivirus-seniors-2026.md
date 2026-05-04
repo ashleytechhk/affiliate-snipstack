@@ -84,7 +84,7 @@ Before adding anything new, let's make sure your current protection is switched 
 
 **Step 1.** Click the **Start** button (the Windows logo in the bottom-left corner of your screen).
 
-**Step 2.** Type **Windows Security** and press Enter.
+**Step 2.** Type **[Windows Security](https://snipstack.io/windows-security-2026/)** and press Enter.
 
 **Step 3.** You will see a screen with green checkmarks or red warnings.
 - Green checkmarks = good, protection is on

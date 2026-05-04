@@ -22,7 +22,7 @@ This guide breaks down exactly what Email on Deck does well, where it fails you,
 
 ## What Is Email on Deck?
 
-Email on Deck (emailondeck.com) is a free, browser-based temporary email service. You land on the site, you get a randomly generated address, and you use it for a signup. The inbox sits open in your browser tab. The moment you close it — or after a short expiry window — that address is effectively dead.
+Email on Deck (emailondeck.com) is a free, browser-based [temporary email](https://snipstack.io/temporary-email-generator-2026/) service. You land on the site, you get a randomly generated address, and you use it for a signup. The inbox sits open in your browser tab. The moment you close it — or after a short expiry window — that address is effectively dead.
 
 **What it gets right:**
 
@@ -77,7 +77,7 @@ Here is how the main options stack up across the use cases that matter.
 
 ### 1. Surfshark Alt ID — Best Overall for Ongoing Privacy
 
-[Surfshark Alt ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-email-on-deck-2026__mid) solves the core problem that disposable email cannot: you need a fake email address that actually works long-term.
+[Surfshark Alt ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-email-on-deck-2026__mid) solves the core problem that disposable email cannot: you need a [fake email](https://snipstack.io/top-fake-email-2026/) address that actually works long-term.
 
 Alt ID generates a persistent email alias — something like `randomwords@surfsharkaltid.com` — that forwards everything to your real inbox. You receive the emails. You can even reply through the alias. Sites never see your actual address.
 

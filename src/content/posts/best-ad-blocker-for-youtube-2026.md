@@ -8,7 +8,7 @@ tags: ["ad blocker", "youtube", "privacy", "streaming"]
 
 YouTube ran five ads before a three-minute video last week. Not exaggerating — five. Two were unskippable. One lasted 30 seconds. The video itself was a cooking tutorial.
 
-This is not an accident. YouTube has been systematically increasing ad load since 2023, expanding from 2-3 ads per session to 5-7, making more of them unskippable, and running back-to-back ad pairs before longer videos. At the same time, they have waged an active war on ad blockers — deploying detection scripts that identify browser extension fingerprints and force users to either disable the blocker or pay for YouTube Premium.
+This is not an accident. YouTube has been systematically increasing ad load since 2023, expanding from 2-3 ads per session to 5-7, making more of them unskippable, and running back-to-back ad pairs before longer videos. At the same time, they have waged an active war on [ad blocker](https://snipstack.io/top-ad-blocker-2026/)s — deploying detection scripts that identify browser extension fingerprints and force users to either disable the blocker or pay for YouTube Premium.
 
 The result: the ad blocker that worked fine on YouTube in 2023 probably does not work well today. Some are completely blocked.
 

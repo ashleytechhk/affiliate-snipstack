@@ -34,7 +34,7 @@ If you want to stay with a browser extension, **AdGuard** is the best MV3-native
 
 ## What Changed in 2026: Manifest V3 and the End of uBlock Origin
 
-Google's Manifest V3 (MV3) was announced in 2019, fought by extension developers for years, and finally enforced in full by late 2025. The stated goal was security and performance. The practical effect was eliminating `webRequestBlocking`, the only API that let extensions intercept network requests synchronously — which is exactly how uBlock Origin, [AdBlock Plus](https://snipstack.io/top-adblock-plus-2026/), and every serious ad blocker worked.
+Google's Manifest V3 (MV3) was announced in 2019, fought by extension developers for years, and finally enforced in full by late 2025. The stated goal was security and performance. The practical effect was eliminating `webRequestBlocking`, the only API that let extensions intercept network requests synchronously — which is exactly how uBlock Origin, [AdBlock Plus](https://snipstack.io/top-adblock-plus-2026/), and every serious [ad blocker](https://snipstack.io/top-ad-blocker-2026/) worked.
 
 Under MV3, extensions can only use a static declarative rules list (`declarativeNetRequest`) to block content. The problem:
 

@@ -141,7 +141,7 @@ No. Truecaller identifies and blocks incoming spam calls. It does not mask or re
 
 ### What is the best spam call blocker for online dating?
 
-For purely blocking spam calls, Hiya and RoboKiller lead the field in 2026. But for online dating privacy specifically, a virtual phone number is a better solution than any spam blocker. [Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=truecaller-spam-call-blocker-2026__faq) gives you a real local number to share with matches, so your actual number stays private regardless of how things go.
+For purely blocking spam calls, Hiya and RoboKiller lead the field in 2026. But for online dating privacy specifically, a [virtual phone number](https://snipstack.io/virtual-phone-number-2026/) is a better solution than any spam blocker. [Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=truecaller-spam-call-blocker-2026__faq) gives you a real local number to share with matches, so your actual number stays private regardless of how things go.
 
 ### Can I get a temporary phone number for dating apps?
 

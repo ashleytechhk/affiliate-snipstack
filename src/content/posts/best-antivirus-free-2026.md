@@ -31,7 +31,7 @@ If your computer runs Windows 10 or Windows 11, Microsoft has already installed 
 **How to check that Windows Defender is turned on:**
 
 1. Click the **Start** button (the Windows logo at the bottom left of your screen).
-2. Type **Windows Security** in the search bar and press Enter.
+2. Type **[Windows Security](https://snipstack.io/windows-security-2026/)** in the search bar and press Enter.
 3. Click on **Windows Security** when it appears.
 4. Look for a green checkmark next to **Virus and threat protection**. Green means it is on and working.
 5. If you see a yellow or red warning instead, click **Turn on** to enable it.
