@@ -41,7 +41,7 @@ The math is straightforward: a VPN subscription that costs $2–4/month and lets
 
 ## Head-to-Head Comparison
 
-| Feature | Surfshark | NordVPN | ExpressVPN | ProtonVPN |
+| Feature | Surfshark | NordVPN | ExpressVPN | [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) |
 |---|---|---|---|---|
 | Simultaneous devices | **Unlimited** | 10 | 8 | 10 |
 | Price (annual, approx.) | **~$2.19/mo** | ~$3.69/mo | ~$6.67/mo | ~$4.99/mo |
