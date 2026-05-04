@@ -1,0 +1,355 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+export async function getStaticPaths({ paginate }) {
+  const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+
+  const CATEGORIES = [
+    { slug: 'vpn',           label: 'VPN & Streaming',     tags: ['vpn'] },
+    { slug: 'adblock',       label: 'Ad Blockers',          tags: ['adblock', 'ad blocker'] },
+    { slug: 'antivirus',     label: 'Antivirus & Security', tags: ['antivirus', 'one'] },
+    { slug: 'phone-privacy', label: 'Phone Privacy',        tags: ['altnumber'] },
+    { slug: 'email-privacy', label: 'Email Privacy',        tags: ['altid'] },
+  ];
+
+  return CATEGORIES.flatMap(cat => {
+    const catPosts = allPosts
+      .filter(p => p.data.tags.some(t => cat.tags.includes(t)))
+      .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+    return paginate(catPosts, {
+      params: { category: cat.slug },
+      props: { categoryLabel: cat.label, categorySlug: cat.slug },
+      pageSize: 12,
+    });
+  });
+}
+
+const { page, categoryLabel, categorySlug } = Astro.props;
+const pageTitle = page.currentPage === 1
+  ? `${categoryLabel} Reviews — Snipstack`
+  : `${categoryLabel} Reviews — Page ${page.currentPage} — Snipstack`;
+const pageDesc = `Independent ${categoryLabel.toLowerCase()} reviews and comparisons. Tested and ranked.`;
+---
+
+<Layout title={pageTitle} description={pageDesc}>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Istok Web', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #ffffff;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3 {
+      font-family: 'Montserrat', -apple-system, sans-serif;
+      font-weight: 700;
+      color: #0e3655;
+    }
+
+    .site-header {
+      background: #ffffff;
+      border-bottom: 1px solid #e5e7eb;
+      padding: 1rem 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    .logo {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 800;
+      font-size: 1.4rem;
+      color: #0e3655;
+      text-decoration: none;
+    }
+
+    .logo span { color: #22d3ee; }
+
+    .nav {
+      display: flex;
+      gap: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    .nav a {
+      color: #6b7280;
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+
+    .nav a:hover, .nav a.active { color: #22d3ee; }
+
+    .page-hero {
+      background: linear-gradient(135deg, #0e3655 0%, #1e5f8a 100%);
+      padding: 3rem 1.5rem;
+      text-align: center;
+      color: #fff;
+    }
+
+    .breadcrumb {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.6);
+      margin-bottom: 0.75rem;
+    }
+
+    .breadcrumb a { color: rgba(255,255,255,0.7); text-decoration: none; }
+    .breadcrumb a:hover { color: #22d3ee; }
+
+    .page-hero h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+
+    .page-hero p {
+      color: rgba(255,255,255,0.8);
+      font-size: 1rem;
+    }
+
+    .main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+    }
+
+    .article-card {
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      overflow: hidden;
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+    }
+
+    .article-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 20px -5px rgba(0,0,0,0.1);
+      border-color: #22d3ee;
+    }
+
+    .card-image {
+      width: 100%;
+      aspect-ratio: 1200/630;
+      object-fit: cover;
+      background: #f1f5f9;
+    }
+
+    .card-body {
+      padding: 1.1rem 1.25rem 1.25rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-tags {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.6rem;
+    }
+
+    .card-tag {
+      background: #ecfeff;
+      color: #06b6d4;
+      font-size: 0.68rem;
+      font-weight: 700;
+      padding: 0.1rem 0.5rem;
+      border-radius: 100px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #0e3655;
+      line-height: 1.35;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-desc {
+      font-size: 0.85rem;
+      color: #6b7280;
+      line-height: 1.5;
+      margin-bottom: 0.75rem;
+      flex: 1;
+    }
+
+    .card-date { font-size: 0.75rem; color: #9ca3af; }
+
+    /* Pagination */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      padding: 1rem 0 2rem;
+      flex-wrap: wrap;
+    }
+
+    .pagination-info {
+      font-size: 0.85rem;
+      color: #6b7280;
+    }
+
+    .pagination a, .pagination span {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 2.5rem;
+      height: 2.5rem;
+      padding: 0 0.75rem;
+      border-radius: 4px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .pagination a {
+      background: #ffffff;
+      border: 1.5px solid #e5e7eb;
+      color: #0e3655;
+    }
+
+    .pagination a:hover {
+      background: #06b6d4;
+      border-color: #06b6d4;
+      color: #ffffff;
+    }
+
+    .pagination .current {
+      background: #0e3655;
+      border: 1.5px solid #0e3655;
+      color: #ffffff;
+    }
+
+    .pagination .disabled {
+      background: #f9fafb;
+      border: 1.5px solid #e5e7eb;
+      color: #d1d5db;
+      cursor: not-allowed;
+    }
+
+    footer {
+      background: #0e3655;
+      color: #cbd5e1;
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+    }
+
+    footer .footer-inner { max-width: 720px; margin: 0 auto; }
+    footer .footer-logo {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: #fff;
+      margin-bottom: 0.4rem;
+    }
+    footer .footer-logo span { color: #22d3ee; }
+    footer .footer-disclosure {
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.45);
+      line-height: 1.5;
+      max-width: 560px;
+      margin: 0.75rem auto 0;
+    }
+  </style>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="logo">Snip<span>stack</span></a>
+      <nav class="nav">
+        <a href="/category/vpn/" class={categorySlug === 'vpn' ? 'active' : ''}>VPN</a>
+        <a href="/category/adblock/" class={categorySlug === 'adblock' ? 'active' : ''}>Ad Blockers</a>
+        <a href="/category/antivirus/" class={categorySlug === 'antivirus' ? 'active' : ''}>Antivirus</a>
+        <a href="/category/phone-privacy/" class={categorySlug === 'phone-privacy' ? 'active' : ''}>Phone Privacy</a>
+        <a href="/category/email-privacy/" class={categorySlug === 'email-privacy' ? 'active' : ''}>Email Privacy</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="page-hero">
+    <p class="breadcrumb"><a href="/">Home</a> › {categoryLabel}</p>
+    <h1>{categoryLabel} Reviews</h1>
+    <p>
+      {page.total} reviews · Page {page.currentPage} of {page.lastPage}
+    </p>
+  </section>
+
+  <main class="main">
+    <div class="article-grid">
+      {page.data.map(post => (
+        <a href={`/${post.id}/`} class="article-card">
+          {post.data.heroImage && (
+            <img src={post.data.heroImage} alt={post.data.title} class="card-image" loading="lazy" />
+          )}
+          <div class="card-body">
+            <div class="card-tags">
+              {post.data.tags.slice(0, 2).map(tag => (
+                <span class="card-tag">{tag}</span>
+              ))}
+            </div>
+            <h2 class="card-title">{post.data.title}</h2>
+            <p class="card-desc">{post.data.description}</p>
+            <time class="card-date" datetime={post.data.publishDate.toISOString()}>
+              {post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </time>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <nav class="pagination" aria-label="Page navigation">
+      {page.url.prev
+        ? <a href={page.url.prev}>← Prev</a>
+        : <span class="disabled">← Prev</span>
+      }
+
+      <span class="pagination-info">
+        Page {page.currentPage} of {page.lastPage}
+      </span>
+
+      {page.url.next
+        ? <a href={page.url.next}>Next →</a>
+        : <span class="disabled">Next →</span>
+      }
+    </nav>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-logo">Snip<span>stack</span></div>
+      <p class="footer-disclosure">
+        © 2026 Snipstack · Affiliate disclosure: this site may earn a commission when you purchase through links. We only recommend products we've tested.
+      </p>
+    </div>
+  </footer>
+</Layout>
