@@ -36,6 +36,8 @@ People who've dealt with persistent texters, unexpected call-blocking battles, o
 
 ## 4 Options Compared
 
+![Photorealistic smartphone mockup showing a dating app profile with a virtual phone number and red privacy shield badge overlay](/og/burner-number-dating-apps-2026-inline-1.png)
+
 ### Option 1: Buy a Second SIM (Real Burner Phone)
 
 The old-school approach. Pick up a prepaid SIM from a carrier like T-Mobile or AT&T, pop it in an old phone, done.
@@ -124,6 +126,8 @@ The registry has no enforcement mechanism for personal contacts. If a Hinge matc
 ---
 
 ## Comparison Table
+
+![Isometric 3D illustration of a smartphone with a virtual number shield deflecting incoming call arrows with a red protective barrier](/og/burner-number-dating-apps-2026-inline-2.png)
 
 | Option | Cost | Works Globally | Easy to Cancel | App Detection Risk |
 |---|---|---|---|---|

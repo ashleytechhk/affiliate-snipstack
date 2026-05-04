@@ -43,6 +43,8 @@ Most people who Googled "temporary email" today actually need the second type â€
 
 ## Free Temporary Email Services: What They're Good For
 
+![Side-by-side illustration of an overflowing inbox with red spam envelopes on the left versus a clean inbox with a green shield checkmark on the right](/og/temporary-email-stop-spam-2026-inline-1.png)
+
 These three services are the most widely used throwaway options. They cost nothing and require zero sign-up.
 
 ### Guerrilla Mail
@@ -153,6 +155,8 @@ Alt-ID is a receive-only forwarding alias â€” replies go from your real address.
 ---
 
 ## Free vs. Permanent: Side-by-Side Comparison
+
+![Isometric 3D email filter funnel blocking red spam envelopes at the top while clean blue emails pass through to a tidy inbox below](/og/temporary-email-stop-spam-2026-inline-2.png)
 
 | Feature | Guerrilla Mail | Temp-Mail.org | 10 Minute Mail | Surfshark Alt-ID |
 |---------|---------------|---------------|----------------|-----------------|

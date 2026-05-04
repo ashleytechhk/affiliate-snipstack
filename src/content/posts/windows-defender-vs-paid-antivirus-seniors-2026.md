@@ -39,6 +39,8 @@ For basic protection, it works. Independent security labs rate it as "good" — 
 
 ## Is Microsoft Defender Enough? Quick Verdict
 
+![Bold editorial comparison infographic showing Windows Defender with 3 basic checkmarks versus Surfshark Antivirus with 8 feature checkmarks including VPN and dark web alerts](/og/windows-defender-vs-paid-antivirus-seniors-2026-inline-1.png)
+
 | What you need | Defender covers it? |
 |---|---|
 | Basic virus protection | Yes |
@@ -131,6 +133,8 @@ It costs a little more per month, but for anyone who uses a laptop outside the h
 ---
 
 ## Why Surfshark?
+
+![Photorealistic laptop screen mockup with senior-friendly antivirus UI showing large green checkmark shield and 'You are Protected' message in extra-large font](/og/windows-defender-vs-paid-antivirus-seniors-2026-inline-2.png)
 
 There are many antivirus programs out there. Here is why Surfshark stands out for people who want something simple:
 

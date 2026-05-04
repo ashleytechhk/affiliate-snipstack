@@ -30,6 +30,8 @@ Pricing lands well below the Norton 360 or McAfee Total Protection equivalent wh
 
 **[See current Surfshark One pricing](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=antivirus-software-2026__mid)**
 
+![Isometric 3D illustration of a digital security bundle — VPN lock, antivirus shield, and ad-blocker badge surrounding a central red shield](/og/antivirus-software-2026-inline-1.png)
+
 ---
 
 ## 2. Bitdefender Total Security — Best Pure Antivirus
@@ -107,6 +109,8 @@ The price-to-value comparison also cuts against McAfee at current renewal rates.
 ```
 
 *Prices reflect approximate renewal rates as of mid-2026. First-year promotional pricing is typically 40–60% lower. Always verify current pricing at checkout.*
+
+![Antivirus software pricing comparison cards showing four products with star ratings and monthly price tags, one highlighted as Best Value](/og/antivirus-software-2026-inline-2.png)
 
 ---
 

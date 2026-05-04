@@ -44,6 +44,9 @@ For iOS users or anyone who uses Chrome, Firefox with uBlock is simply not an op
 
 ## The Real Problem With uBlock Origin on Mobile
 
+![Dark mode smartphone screen mockup showing mobile browser with three red X overlays blocking ad placeholders, green shield badge showing 127 ads blocked](/og/ublock-origin-mobile-2026-inline-1.png)
+
+
 uBlock Origin is a browser extension. Extensions require a browser that allows them. On desktop, Chrome, Firefox, and Edge all permit extensions. On mobile, only Firefox for Android keeps that door open — and even then, only a subset of extensions are approved.
 
 That means:
@@ -135,6 +138,8 @@ The free tier shows some ads within the app itself (whitelisted "acceptable ads"
 ---
 
 ## Which Should You Choose?
+
+![Isometric 3D illustration of a web browser window with a large translucent red shield deflecting incoming ad banners](/og/ublock-origin-mobile-2026-inline-2.png)
 
 **Most mobile users → Surfshark CleanWeb.** System-wide blocking, both iOS and Android, two-minute setup, VPN included.
 
