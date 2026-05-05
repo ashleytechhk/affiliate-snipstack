@@ -79,7 +79,7 @@ Here is how the main options stack up across the use cases that matter.
 
 [Surfshark Alt ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-email-on-deck-2026__mid) solves the core problem that disposable email cannot: you need a [fake email](https://snipstack.io/top-fake-email-2026/) address that actually works long-term.
 
-Alt ID generates a persistent email alias — something like `randomwords@surfsharkaltid.com` — that forwards everything to your real inbox. You receive the emails. You can even reply through the alias. Sites never see your actual address.
+Alt ID generates a persistent [email alias](https://snipstack.io/how-email-alias-2026/) — something like `randomwords@surfsharkaltid.com` — that forwards everything to your real inbox. You receive the emails. You can even reply through the alias. Sites never see your actual address.
 
 What separates it from other alias services is the **virtual identity layer**. When you sign up somewhere, Alt ID also generates a believable fake name and date of birth to fill in the form. Your real name stays out of data broker lists. If the service gets breached, there is nothing tied back to you.
 

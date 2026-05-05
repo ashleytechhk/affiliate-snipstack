@@ -91,7 +91,7 @@ For the typical mobile user, CleanWeb will visibly reduce the ad load across the
 
 ### 2. uBlock Origin (Firefox for Android) — Best for Android Power-Users
 
-If you are an Android user who is comfortable living inside Firefox, uBlock Origin remains the most powerful browser-level ad blocker available. The filter list customization, element picker, and zapper are unmatched.
+If you are an Android user who is comfortable living inside Firefox, uBlock Origin remains the most powerful browser-level [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) available. The filter list customization, element picker, and zapper are unmatched.
 
 Practical limitations in 2026:
 - Android-only (iOS is a hard no)

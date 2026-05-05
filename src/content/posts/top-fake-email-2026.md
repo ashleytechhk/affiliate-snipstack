@@ -56,7 +56,7 @@ Where 10 Minute Mail falls short is anything beyond instant use. No persistence,
 
 ### 4. SimpleLogin — Best Open-Source Alias Manager
 
-SimpleLogin takes a different approach: rather than generating burner addresses that expire, it creates permanent email aliases that forward to your real inbox. You can create as many aliases as you want (unlimited on paid plans), route them to different real addresses, and delete any alias if it starts attracting spam.
+SimpleLogin takes a different approach: rather than generating burner addresses that expire, it creates permanent [email alias](https://snipstack.io/how-email-alias-2026/)es that forward to your real inbox. You can create as many aliases as you want (unlimited on paid plans), route them to different real addresses, and delete any alias if it starts attracting spam.
 
 The open-source nature of SimpleLogin is a genuine differentiator. The code is publicly audited, and you can even self-host if you're technically inclined. The free tier allows up to 15 aliases, which is enough for light users. Paid plans unlock unlimited aliases, custom domains, and priority support.
 

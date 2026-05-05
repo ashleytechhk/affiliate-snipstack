@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 If your Gmail inbox looks like a dumpster fire — promotions from stores you visited once, newsletters you never subscribed to, and phishing attempts dressed up as shipping notifications — you are not alone. The average person receives over 50 spam emails per day, and the volume keeps climbing every year.
 
-The fix is not another unsubscribe button. It is an **email alias**: a throwaway address that forwards to your real Gmail, so your actual address never touches a risky signup form again.
+The fix is not another unsubscribe button. It is an **[email alias](https://snipstack.io/how-email-alias-2026/)**: a throwaway address that forwards to your real Gmail, so your actual address never touches a risky signup form again.
 
 This guide walks you through the fastest, most practical way to set up email aliases for Gmail in 2026, including the tool that makes it genuinely effortless.
 

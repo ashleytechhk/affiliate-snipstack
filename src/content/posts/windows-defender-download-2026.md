@@ -14,7 +14,7 @@ This plain-English guide walks you through every step. No confusing jargon, no r
 
 > **Quick Verdict**
 >
-> Windows Defender (now called Microsoft Defender Antivirus) is a solid, free security tool that comes pre-installed on every Windows 10 and Windows 11 computer. For most seniors, turning it on and keeping it updated is enough for everyday browsing, email, and online banking. It guards against viruses, spyware, and ransomware automatically. The only gap: it does not protect your internet connection on public Wi-Fi. For that extra layer, a trusted antivirus bundle like **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-download-2026__above-fold)** adds real-time web protection and a privacy shield — all in one affordable package.
+> Windows Defender (now called [Microsoft Defender Antivirus](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)) is a solid, free security tool that comes pre-installed on every Windows 10 and Windows 11 computer. For most seniors, turning it on and keeping it updated is enough for everyday browsing, email, and online banking. It guards against viruses, spyware, and ransomware automatically. The only gap: it does not protect your internet connection on public Wi-Fi. For that extra layer, a trusted antivirus bundle like **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-download-2026__above-fold)** adds real-time web protection and a privacy shield — all in one affordable package.
 
 ---
 
@@ -44,7 +44,7 @@ Many people ask: "Where do I download Windows Defender?" The honest answer is �
 
 Click the **Start** button. It looks like four colored squares in the bottom-left corner of your screen. If you are using a touchscreen, tap it gently once.
 
-### Step 2 — Find Windows Security
+### Step 2 — Find [Windows Security](https://snipstack.io/windows-security-2026/)
 
 In the search bar at the top of the Start Menu, type the words:
 

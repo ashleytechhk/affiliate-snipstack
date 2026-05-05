@@ -121,7 +121,7 @@ Alt-ID also generates alternative identity details (name, date of birth) so you'
 
 **Step 3.** Open the extension and navigate to the **Alternative ID** section.
 
-**Step 4.** Click **Generate new identity**. Surfshark creates a masked email alias for you (e.g., `m7x2kp9q@surfshark.id`). It also generates an alternative name and profile details you can use on the sign-up form.
+**Step 4.** Click **Generate new identity**. Surfshark creates a masked [email alias](https://snipstack.io/how-email-alias-2026/) for you (e.g., `m7x2kp9q@surfshark.id`). It also generates an alternative name and profile details you can use on the sign-up form.
 
 **Step 5.** When you visit a site with a sign-up form, the Surfshark extension prompts you to auto-fill with your alternative identity details. Click to auto-fill, or paste the alias manually into the email field.
 

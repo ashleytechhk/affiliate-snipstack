@@ -24,7 +24,7 @@ The short answer: Defender is a solid starting point, but it has real gaps — e
 
 ## What Is Microsoft Defender?
 
-Microsoft Defender (sometimes called Windows Defender) is a built-in security program that Microsoft includes with Windows. You do not have to install it. You do not have to pay for it. It turns on automatically.
+Microsoft Defender (sometimes called [Windows Defender](https://snipstack.io/windows-defender-download-2026/)) is a built-in security program that Microsoft includes with Windows. You do not have to install it. You do not have to pay for it. It turns on automatically.
 
 It does a few important things:
 - Scans files you download for known viruses

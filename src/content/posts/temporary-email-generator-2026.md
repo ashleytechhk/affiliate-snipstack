@@ -59,7 +59,7 @@ Tools like **Guerrilla Mail**, **10 Minute Mail**, and **Temp Mail** give you a 
 - Can't receive password resets or confirmation emails later
 - Some services block known disposable domains
 
-### Permanent Email Aliases (Surfshark Alt ID)
+### Permanent [Email Alias](https://snipstack.io/how-email-alias-2026/)es (Surfshark Alt ID)
 
 An **email alias** is a persistent forwarding address that routes messages to your real inbox — but never reveals your actual email. **Surfshark Alt ID** goes further: it also generates a virtual identity (name, address, country) so you can fill in forms without exposing real personal data.
 
