@@ -145,7 +145,7 @@ CleanWeb blocks at DNS level across all devices — the same fundamental technol
 
 ### 2. uBlock Origin on Firefox — Best Free Option (If You'll Switch Browsers)
 
-Firefox still supports the original Manifest V2 API, and uBlock Origin runs fully on Firefox with no restrictions. It is the most capable browser extension ad blocker available anywhere in 2026 — significantly more powerful than AdGuard's MV3 extension on Chrome.
+Firefox still supports the original Manifest V2 API, and uBlock Origin runs fully on Firefox with no restrictions. It is the most capable browser extension [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) available anywhere in 2026 — significantly more powerful than AdGuard's MV3 extension on Chrome.
 
 **For Chrome users:** uBlock Origin Lite (the MV3-compatible Chrome version) is weaker than AdGuard's free Chrome extension. If you are staying on Chrome, AdGuard is the better free extension.
 

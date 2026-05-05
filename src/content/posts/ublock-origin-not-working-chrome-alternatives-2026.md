@@ -220,7 +220,7 @@ It takes ten minutes to set up, covers every device on your account, and blocks 
 
 If you want to stay in the browser, **AdGuard** is the best MV3-native extension available.
 
-> **Get Surfshark CleanWeb — the ad blocker Chrome can't break**
+> **Get Surfshark CleanWeb — the [ad blocker Chrome](https://snipstack.io/ad-blocker-chrome-2026/) can't break**
 > DNS-level blocking · Unlimited devices · 30-day money-back guarantee
 > [Start blocking ads](/go/adblock?sub=ublock-origin-not-working-chrome-alternatives-2026__adblock__bottom-cta)
 

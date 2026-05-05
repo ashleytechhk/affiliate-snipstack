@@ -99,7 +99,7 @@ Practical limitations in 2026:
 - Zero protection outside the browser
 - Firefox for Android has improved but still lags behind Chrome in performance on lower-end devices
 
-Rating: Outstanding browser ad blocker, severely limited platform reach. If you want to go deep on custom filter lists and do not mind staying in Firefox, this is your tool. For everyone else, it is a compromise too far.
+Rating: Outstanding browser [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/), severely limited platform reach. If you want to go deep on custom filter lists and do not mind staying in Firefox, this is your tool. For everyone else, it is a compromise too far.
 
 ---
 

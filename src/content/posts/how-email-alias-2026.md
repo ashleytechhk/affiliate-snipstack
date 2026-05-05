@@ -167,7 +167,7 @@ This matters for any situation where you want to communicate with a business, se
 
 ## The Bigger Picture: Aliases Are Not Enough on Their Own
 
-Aliases protect your email address. They do not protect your IP address, your browsing history, or the data you hand over when you fill in your real name and location alongside a fake email.
+Aliases protect your email address. They do not protect your IP address, your browsing history, or the data you hand over when you fill in your real name and location alongside a [fake email](https://snipstack.io/top-fake-email-2026/).
 
 For full-stack privacy, you need a layered approach:
 
