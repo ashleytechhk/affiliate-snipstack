@@ -144,7 +144,7 @@ Not in the traditional sense — iOS prevents apps from scanning other apps, so 
 
 ### Is Norton 360 worth it for iPhone users?
 
-For iPhone-only users, Norton 360 is overbuilt and overpriced. You're paying for Windows antivirus infrastructure that iOS won't let the app use. The VPN has a monthly data cap on standard plans, and the renewal price is significantly higher than the introductory rate. It's a better fit for multi-platform households.
+For iPhone-only users, Norton 360 is overbuilt and overpriced. You're paying for [Windows antivirus](https://snipstack.io/windows-antivirus-2026/) infrastructure that iOS won't let the app use. The VPN has a monthly data cap on standard plans, and the renewal price is significantly higher than the introductory rate. It's a better fit for multi-platform households.
 
 ### What is the Surfshark One bundle?
 

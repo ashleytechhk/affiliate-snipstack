@@ -221,7 +221,7 @@ For existing users who have been using CleanWeb for a while, the 2.0 upgrade imp
 
 ---
 
-## Is CleanWeb Worth It If You Already Have an Ad Blocker?
+## Is CleanWeb Worth It If You Already Have an [Ad Blocker](https://snipstack.io/ad-blocker-firefox-2026/)?
 
 The honest answer: it depends on what devices you are using.
 

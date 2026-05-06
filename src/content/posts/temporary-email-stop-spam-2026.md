@@ -204,7 +204,7 @@ Surfshark allows you to generate multiple alternative identities and aliases. Fo
 **Will deleting an alias stop all spam immediately?**
 Emails already in transit when you delete the alias may still arrive. Any email sent to that address after deletion will bounce permanently — the sender has no path to your real inbox.
 
-**What's the difference between a temporary email and a masked email?**
+**What's the difference between a [temporary email and](https://snipstack.io/temporary-email-and-password-2026/) a masked email?**
 Temporary email is a disposable inbox you check separately — it expires and has no connection to your real account. A masked email (like Surfshark Alt-ID) is an alias that permanently forwards to your real inbox. Masked email is better for anything you need to actually receive long-term while keeping your real address hidden.
 
 ---

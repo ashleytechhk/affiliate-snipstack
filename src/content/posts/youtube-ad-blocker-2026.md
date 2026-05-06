@@ -142,7 +142,7 @@ Yes. Brave Browser, NextDNS, and Surfshark CleanWeb all work on unmodified iPhon
 
 ### Will blocking YouTube ads get my account banned?
 
-Using a VPN or DNS-based ad blocker carries essentially no ban risk — YouTube has no way to detect what DNS resolver or VPN you're using. Using a modified app like ReVanced carries a small theoretical risk since it violates YouTube's terms of service, but mass account bans for ReVanced use have not been widely reported.
+Using a VPN or DNS-based [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) carries essentially no ban risk — YouTube has no way to detect what DNS resolver or VPN you're using. Using a modified app like ReVanced carries a small theoretical risk since it violates YouTube's terms of service, but mass account bans for ReVanced use have not been widely reported.
 
 ### Does YouTube Premium work on family members' devices?
 

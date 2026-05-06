@@ -38,7 +38,7 @@ Three things changed between 2023 and 2026 that make blocking YouTube ads harder
 
 **1. Chrome Manifest V3 eliminated the most effective browser extensions.** [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) — for years the standard YouTube [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) — lost its core blocking capability in Chrome when Google enforced Manifest V3. The stripped-down [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) Lite misses a significant percentage of YouTube's ad calls.
 
-**2. YouTube's anti-adblock detection became aggressive.** YouTube deployed JavaScript that fingerprints browser extension behavior. If an ad blocker extension is detected, YouTube triggers a warning ("It looks like you may be using an ad blocker") and eventually restricts playback. This detection catches most browser extension-based blockers.
+**2. YouTube's anti-adblock detection became aggressive.** YouTube deployed JavaScript that fingerprints browser extension behavior. If an [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) extension is detected, YouTube triggers a warning ("It looks like you may be using an ad blocker") and eventually restricts playback. This detection catches most browser extension-based blockers.
 
 **3. YouTube moved ads inside the video stream.** Some ad formats are now injected directly into the video manifest (the playlist file that streams video chunks), making them indistinguishable from the video content to browser-level interceptors. DNS-level blocking catches these because the ad serving request still goes to an external domain.
 

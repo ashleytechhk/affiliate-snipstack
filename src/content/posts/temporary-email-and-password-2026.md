@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 ![How to set up a temporary email and password in 2026](/og/temporary-email-and-password-2026.png)
 
-If your inbox looks like a landfill — promo blasts, password reset emails for accounts you never opened, newsletters you never signed up for — you are not alone. The average person receives over 120 emails per day, and a large slice of that is spam generated the moment you hand your real address to a website that immediately sells it. The fix is simpler than you think: use a **temporary email and password** for every throwaway signup, and keep your real identity locked away.
+If your inbox looks like a landfill — promo blasts, password reset emails for accounts you never opened, newsletters you never signed up for — you are not alone. The average person receives over 120 emails per day, and a large slice of that is spam generated the moment you hand your real address to a website that immediately sells it. The fix is simpler than you think: use a **[temporary email](https://snipstack.io/temporary-email-generator-2026/) and password** for every throwaway signup, and keep your real identity locked away.
 
 This guide walks you through the exact process, step by step, using Surfshark Alt-ID — a tool built specifically for this problem.
 
@@ -22,7 +22,7 @@ Alt-ID generates a masked email address and random personal details so your real
 
 ---
 
-## What Is a Temporary Email and Password — and Why You Need One
+## What Is a [Temporary Email](https://snipstack.io/temporary-email-stop-spam-2026/) and Password — and Why You Need One
 
 A temporary email address is a disposable alias that forwards mail to your real account. When a site asks for your email during signup, you hand over the alias instead of your real address. If that site leaks your data or sells it to spammers, the alias takes the hit — not your actual inbox. You delete the alias, the spam stops.
 
@@ -65,7 +65,7 @@ Inside the extension, navigate to the **Alt-ID** tab. You will see an option to 
 
 ![Alt-ID setup flow showing alias generation and forwarding configuration](/og/temporary-email-and-password-2026-inline-1.png)
 
-The system generates a random email alias (something like `spruce.raindrop47@altid.email`) and a full set of alternative personal details: a random name, date of birth, and gender. These are decoys. Use them on signup forms so the site's database never links back to the real you.
+The system generates a random [email alias](https://snipstack.io/email-alias-gmail-2026/) (something like `spruce.raindrop47@altid.email`) and a full set of alternative personal details: a random name, date of birth, and gender. These are decoys. Use them on signup forms so the site's database never links back to the real you.
 
 ### Step 3 — Set Your Forwarding Address
 

@@ -158,6 +158,6 @@ No. 1Blocker is built for Apple platforms only — iPhone, iPad, and Mac. Androi
 
 A browser extension intercepts requests made inside a specific browser. DNS-level blocking intercepts domain lookups before any app or browser even attempts a connection — if the domain resolves to a blocked ad server, the request is dropped regardless of which app made it. VPN-level blocking (like Surfshark CleanWeb) works similarly but with additional flexibility and security since all traffic is also encrypted and routed through a private server.
 
-### Will using an ad blocker break websites?
+### Will using an [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) break websites?
 
 Occasionally. Aggressive filter lists can block assets that websites need to function — like login scripts or video players hosted on CDN domains that overlap with tracking infrastructure. All tools on this list include an easy allowlist or pause feature for when this happens.

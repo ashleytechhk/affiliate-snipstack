@@ -32,7 +32,7 @@ A spam call blocker alone filters out nuisance calls after the fact. A virtual s
 
 ### 1. Surfshark Alt-Number — Best Overall for Dating Privacy
 
-**Alt-Number gives you a real, working second phone number that forwards calls and texts to your actual device.** You share the Alt-Number with matches; your real number stays invisible. If things go sideways with someone, you delete the number or change it — they can never reach you again.
+**Alt-Number gives you a real, working [second phone number](https://snipstack.io/second-phone-number-app-free-2026/) that forwards calls and texts to your actual device.** You share the Alt-Number with matches; your real number stays invisible. If things go sideways with someone, you delete the number or change it — they can never reach you again.
 
 What makes it particularly well-suited to dating: the number works exactly like a real one. Matches can call and text it naturally without knowing it's a relay. You receive everything on your normal phone, just through a privacy filter. There's no weird app-to-app calling that telegraphs "I'm using a fake number."
 

@@ -32,7 +32,7 @@ The table below covers the five VPNs with the most significant iPhone user bases
 | NordVPN | ~$3.39 | 4.6 | 60+ countries | 10 devices | Yes | Partial |
 | ExpressVPN | ~$6.67 | 4.7 | 105 countries | 8 devices | Yes | Yes |
 | Private Internet Access | ~$2.03 | 4.2 | 91 countries | Unlimited | Yes | Yes |
-| ProtonVPN | ~$4.99 | 4.5 | 91 countries | 10 devices | Yes | No (iOS) |
+| [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) | ~$4.99 | 4.5 | 91 countries | 10 devices | Yes | No (iOS) |
 
 *Prices and ratings sourced May 2026. Always verify current pricing before purchase.*
 

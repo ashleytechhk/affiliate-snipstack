@@ -119,7 +119,7 @@ AdGuard has separate apps for iOS and Android, with meaningfully different capab
 
 ### 4. Brave Browser — Best Free Option (Browser-Only)
 
-Brave bundles Shields — an ad blocker — directly into the browser. No setup required: install Brave, open a website, ads are blocked. It works on both iOS and Android.
+Brave bundles Shields — an [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) — directly into the browser. No setup required: install Brave, open a website, ads are blocked. It works on both iOS and Android.
 
 The ceiling is the browser. Brave Shields only blocks ads on pages you load in Brave. The moment you use another app, you are unprotected. There is no system-wide blocking.
 
