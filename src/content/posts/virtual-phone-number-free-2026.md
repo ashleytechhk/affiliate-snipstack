@@ -89,7 +89,7 @@ Like TextNow, Talkatone numbers are often categorized as VOIP by dating platform
 
 Burner was one of the first apps to popularize the concept of throwaway phone numbers, and it still works. You create a number, use it for a dating conversation, and burn it when you're done. The concept is exactly right for the use case. Unfortunately, the execution hasn't kept pace with the competition.
 
-The free trial gives you one number for seven days with limited minutes and texts. After that, it's subscription-based — and pricing has crept up over the years without significant feature improvements. Burner numbers also run into VOIP-blocking issues on some dating apps. It's worth knowing about, but unless you have a specific nostalgia for the brand, better options exist at similar price points.
+The free trial gives you one number for seven days with limited minutes and texts. After that, it's subscription-based — and pricing has crept up over the years without significant feature improvements. [Burner number](https://snipstack.io/burner-number-free-2026/)s also run into VOIP-blocking issues on some dating apps. It's worth knowing about, but unless you have a specific nostalgia for the brand, better options exist at similar price points.
 
 ---
 

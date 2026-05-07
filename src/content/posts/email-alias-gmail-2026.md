@@ -10,7 +10,7 @@ If your Gmail inbox looks like a dumpster fire — promotions from stores you vi
 
 The fix is not another unsubscribe button. It is an **[email alias](https://snipstack.io/how-email-alias-2026/)**: a throwaway address that forwards to your real Gmail, so your actual address never touches a risky signup form again.
 
-This guide walks you through the fastest, most practical way to set up email aliases for Gmail in 2026, including the tool that makes it genuinely effortless.
+This guide walks you through the fastest, most practical way to set up [email alias](https://snipstack.io/email-alias-outlook-2026/)es for Gmail in 2026, including the tool that makes it genuinely effortless.
 
 [![Stop spam dead — try Surfshark Alt-ID free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-gmail-2026__above-fold)](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-gmail-2026__above-fold)
 

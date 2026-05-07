@@ -166,7 +166,7 @@ When you sign up for a service with your real email and real name, that data com
 
 [Get Surfshark Alt ID bundled with Surfshark One](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-email-on-deck-2026__cta) and you get:
 
-- Unlimited persistent email aliases
+- Unlimited persistent [email alias](https://snipstack.io/email-alias-outlook-2026/)es
 - A virtual identity (fake name + DOB) so your real details never touch the signup form
 - A top-tier VPN to mask your IP at the same time
 - Real-time data breach monitoring for your actual email

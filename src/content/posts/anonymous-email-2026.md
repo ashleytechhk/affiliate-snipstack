@@ -61,7 +61,7 @@ Once logged in:
 
 ---
 
-## Step 3 — Generate Your First Email Alias
+## Step 3 — Generate Your First [Email Alias](https://snipstack.io/email-alias-outlook-2026/)
 
 1. Click **Create new Alt-ID**.
 2. Alt-ID auto-generates a random alias like `dusty.harbor.29@altid.email`. You can accept this or click the refresh icon for a different one.

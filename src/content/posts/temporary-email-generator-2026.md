@@ -61,7 +61,7 @@ Tools like **Guerrilla Mail**, **10 Minute Mail**, and **Temp Mail** give you a 
 
 ### Permanent [Email Alias](https://snipstack.io/how-email-alias-2026/)es (Surfshark Alt ID)
 
-An **email alias** is a persistent forwarding address that routes messages to your real inbox — but never reveals your actual email. **Surfshark Alt ID** goes further: it also generates a virtual identity (name, address, country) so you can fill in forms without exposing real personal data.
+An **[email alias](https://snipstack.io/email-alias-outlook-2026/)** is a persistent forwarding address that routes messages to your real inbox — but never reveals your actual email. **Surfshark Alt ID** goes further: it also generates a virtual identity (name, address, country) so you can fill in forms without exposing real personal data.
 
 ![Surfshark Alt ID email alias vs disposable email comparison](/og/temporary-email-generator-2026-inline-2.png)
 

@@ -72,7 +72,7 @@ The numbers work well for dating app verification. Hushed uses real mobile numbe
 
 **Burner** is probably the best-known dedicated second number app. It's built around one idea: give out a number, use it, burn it when you're done. The disposal mechanic is smooth — one tap and the number is gone, replaced with a fresh one if you want.
 
-For dating specifically, Burner's logic maps perfectly to how things actually go. You meet someone, use the Burner number for a few weeks, things don't work out, you burn it. Clean break. No lingering number stored in someone's phone.
+For dating specifically, Burner's logic maps perfectly to how things actually go. You meet someone, use the [Burner number](https://snipstack.io/burner-number-free-2026/) for a few weeks, things don't work out, you burn it. Clean break. No lingering number stored in someone's phone.
 
 The catch: Burner is not free. Plans start around $4.99/month for a single line. There's occasionally a free trial, but it's short. It's also US and Canada only. If you're a heavy dater who goes through multiple matches a month and wants clean disposal, Burner is worth the cost. If you're looking for free, this isn't it.
 

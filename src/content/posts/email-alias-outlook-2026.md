@@ -12,7 +12,7 @@ If your Outlook inbox looks like a skip fire — newsletters you never signed up
 
 The fix is deceptively simple: stop giving out your real address. Use an alias instead.
 
-This guide walks you through every method for setting up an email alias in Outlook in 2026, from Microsoft's own built-in alias system to a smarter, more powerful option that lets you spin up unlimited burner addresses on demand — [Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-outlook-2026__above-fold).
+This guide walks you through every method for setting up an [email alias](https://snipstack.io/email-alias-gmail-2026/) in Outlook in 2026, from Microsoft's own built-in alias system to a smarter, more powerful option that lets you spin up unlimited burner addresses on demand — [Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-outlook-2026__above-fold).
 
 ---
 
@@ -155,7 +155,7 @@ Yes. In Outlook on the web, go to **Settings → Mail → Sync email → Manage 
 **Does deleting an alias delete my emails?**
 For Outlook built-in aliases: deleting the alias does not delete any emails already received. For Alt-ID: disabling or deleting an alias stops forwarding but does not affect emails already delivered to your Outlook inbox.
 
-**Is an email alias the same as a forwarding address?**
+**Is an [email alias](https://snipstack.io/how-email-alias-2026/) the same as a forwarding address?**
 Not exactly. A built-in Outlook alias is a second name on the same mailbox — no forwarding involved. Alt-ID is a separate address that forwards to your real inbox. Both achieve the goal of hiding your primary address, but they work differently under the hood.
 
 **How many aliases can I have with Surfshark Alt-ID?**

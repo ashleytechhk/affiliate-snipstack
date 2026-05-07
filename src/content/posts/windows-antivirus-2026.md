@@ -18,7 +18,7 @@ This guide cuts through the noise. We compared five major Windows antivirus solu
 
 ## Quick Verdict
 
-Norton and McAfee deliver solid malware detection but impose a real performance tax, and their pricing models are built around locking you into upsell tiers. Surfshark One Bundle matches the detection rates of the legacy players while adding a VPN, data breach alerts, and an ad blocker under one flat subscription — typically at a lower total cost than stacking [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe with a separate VPN. For the average Windows user who wants comprehensive protection without a PhD in subscription management, Surfshark One Bundle is the pick for 2026.
+Norton and McAfee deliver solid malware detection but impose a real performance tax, and their pricing models are built around locking you into upsell tiers. Surfshark One Bundle matches the detection rates of the legacy players while adding a VPN, data breach alerts, and an [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) under one flat subscription — typically at a lower total cost than stacking [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe with a separate VPN. For the average Windows user who wants comprehensive protection without a PhD in subscription management, Surfshark One Bundle is the pick for 2026.
 
 ---
 

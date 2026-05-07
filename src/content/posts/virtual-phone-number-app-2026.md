@@ -88,7 +88,7 @@ Burner invented the category and still does it well. The app is designed around 
 
 Recent updates have added a persistent number option (called a "subscription line") alongside the classic disposable model, so you're not forced to keep rotating numbers if you find a stable connection. The UI is clean, the onboarding is quick, and call quality is consistently good.
 
-Pricing is slightly higher than Hushed for equivalent usage, and Burner numbers have the same occasional VoIP detection issues on Tinder. Where Burner pulls ahead is the user experience: it feels purpose-built for exactly this use case, without enterprise features cluttering the interface.
+Pricing is slightly higher than Hushed for equivalent usage, and [Burner number](https://snipstack.io/burner-number-free-2026/)s have the same occasional VoIP detection issues on Tinder. Where Burner pulls ahead is the user experience: it feels purpose-built for exactly this use case, without enterprise features cluttering the interface.
 
 **Best for:** Anyone who wants the simplest possible disposable number experience with a proven track record.
 

@@ -97,7 +97,7 @@ For people who need a one-off number for a specific task (a Craigslist listing, 
 
 ### 4. Burner — Best for US Disposable Numbers
 
-**Quick, app-only burner numbers with auto-destruction.**
+**Quick, app-only [burner number](https://snipstack.io/burner-number-free-2026/)s with auto-destruction.**
 
 Burner is the app that popularized the concept of a disposable phone number, and it's still one of the better options for US users who want fast, throwaway numbers. The name says it all: you get a number, use it, and burn it — the number disappears along with all associated messages and call history. Privacy by design.
 

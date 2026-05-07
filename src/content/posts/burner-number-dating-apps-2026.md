@@ -14,7 +14,7 @@ That's the cold truth. You can register every number you own with the FTC, and i
 
 So if you've ever handed out your real phone number too early — and regretted it — you're not alone. And you don't need to keep doing it.
 
-This guide covers four real options for getting a burner number for dating apps, how they compare, and which one actually works without drama.
+This guide covers four real options for getting a [burner number](https://snipstack.io/burner-number-free-2026/) for dating apps, how they compare, and which one actually works without drama.
 
 ---
 
