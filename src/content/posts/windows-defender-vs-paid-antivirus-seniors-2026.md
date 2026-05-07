@@ -12,7 +12,7 @@ tags: ["antivirus", "windows", "seniors", "security"]
 
 You got a Windows computer. Your son or daughter set it up. They said, "Don't worry, Windows already has protection built in."
 
-That protection is called **[Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)**. And yes — it comes free with every Windows 10 and Windows 11 PC.
+That protection is called **[Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)**. And yes — it comes free with every [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and Windows 11 PC.
 
 But here is the big question people are asking in 2026: **Is free good enough?**
 

@@ -22,7 +22,7 @@ For most seniors in 2026, **Surfshark [Antivirus](https://snipstack.io/vs-antivi
 
 **Prerequisites — check these off before following the steps below:**
 
-- A Windows 10 or Windows 11 computer (these steps do not apply to Mac or iPad)
+- A [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) or Windows 11 computer (these steps do not apply to Mac or iPad)
 - An internet connection (any Wi-Fi or wired connection is fine)
 - About 10–15 minutes of free time
 - Your email address (you will need it to create an account)

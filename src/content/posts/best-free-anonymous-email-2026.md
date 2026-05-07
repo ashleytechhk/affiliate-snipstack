@@ -14,7 +14,7 @@ The fix is simpler than you think. An anonymous [email alias](https://snipstack.
 
 **[Get Surfshark Alt-ID free — stop spam before it starts](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-free-anonymous-email-2026__above-fold)**
 
-This guide walks through exactly how to set that up using **Surfshark Alt-ID**, one of the most practical anonymous email tools available in 2026. No technical skills required.
+This guide walks through exactly how to set that up using **Surfshark Alt-ID**, one of the most practical [anonymous email](https://snipstack.io/anonymous-email-2026/) tools available in 2026. No technical skills required.
 
 ---
 
@@ -65,7 +65,7 @@ You will land on a clean interface showing any existing aliases (empty on a new 
 
 ---
 
-## Step 3 — Generate Your First Anonymous Email Alias
+## Step 3 — Generate Your First Anonymous [Email Alias](https://snipstack.io/how-email-alias-2026/)
 
 1. Click **Create new Alt-ID** (or **Generate alias**, depending on your app version).
 2. Surfshark instantly produces a randomized alias — something like `trout.meadow2847@altid.surfshark.net`.

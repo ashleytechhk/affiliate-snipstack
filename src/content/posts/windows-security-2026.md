@@ -20,7 +20,7 @@ Windows does come with built-in security software — it's called Windows Securi
 
 ## What Is Windows Security and What Does It Do?
 
-Windows Security is a free program that Microsoft builds into every Windows 10 and Windows 11 computer. You do not need to install anything — it is already running in the background right now.
+Windows Security is a free program that Microsoft builds into every [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and Windows 11 computer. You do not need to install anything — it is already running in the background right now.
 
 Here is what it does:
 
