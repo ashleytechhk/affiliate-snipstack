@@ -17,7 +17,7 @@ Scammers are getting smarter every year. If you use an Android phone, you are a 
 
 ## Quick Verdict
 
-Surfshark Antivirus is our top pick for Android users over 60. It runs quietly in the background, scans new apps automatically, and does not slow your phone down. Setup takes about five minutes, the interface uses big clear buttons, and one subscription covers all your devices — including your tablet. If you only read one thing on this page, that is it.
+Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/) is our top pick for Android users over 60. It runs quietly in the background, scans new apps automatically, and does not slow your phone down. Setup takes about five minutes, the interface uses big clear buttons, and one subscription covers all your devices — including your tablet. If you only read one thing on this page, that is it.
 
 ---
 

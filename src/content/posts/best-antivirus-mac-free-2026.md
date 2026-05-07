@@ -59,7 +59,7 @@ You are done with Step 1. No restart needed.
 
 Apple's tools protect you going forward, but what about threats already sitting on your Mac? A free scan clears the slate.
 
-**Recommended free tool: Surfshark Antivirus (free trial)**
+**Recommended free tool: Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/) (free trial)**
 
 Surfshark Antivirus is designed to be simple. The interface is large, clear, and does not overwhelm you with technical warnings.
 

@@ -36,7 +36,7 @@ That is the full list. You do not need a separate email provider, a browser exte
 
 ## Step 1 — Sign Up for Surfshark One
 
-Navigate to the Alt-ID signup page using the link below. Alt-ID is bundled inside Surfshark One, which includes the VPN, antivirus, and the Alert data-breach monitor alongside the alias feature.
+Navigate to the Alt-ID signup page using the link below. Alt-ID is bundled inside Surfshark One, which includes the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and the Alert data-breach monitor alongside the alias feature.
 
 [Start your Surfshark One plan](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-anonymous-email-2026__above-fold)
 

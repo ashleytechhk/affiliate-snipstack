@@ -14,7 +14,7 @@ This guide walks you through exactly what [antivirus software](https://snipstack
 
 ## Quick Verdict
 
-**Surfshark Antivirus is our top pick for seniors in 2026.** It is easy to install, runs quietly in the background without slowing your computer down, and costs less than most competitors. You get real-time protection against viruses, online scams, and dangerous websites — all managed from one simple screen. If you want protection without the headache, this is the one to start with.
+**Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/) is our top pick for seniors in 2026.** It is easy to install, runs quietly in the background without slowing your computer down, and costs less than most competitors. You get real-time protection against viruses, online scams, and dangerous websites — all managed from one simple screen. If you want protection without the headache, this is the one to start with.
 
 [Get Surfshark Antivirus — Protected in Minutes](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-best-antivirus-2026__above-fold)
 

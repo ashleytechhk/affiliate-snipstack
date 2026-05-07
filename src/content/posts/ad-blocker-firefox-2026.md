@@ -64,7 +64,7 @@ Privacy Badger takes a different approach from filter lists. Instead of blocking
 
 The EFF's credibility as a civil liberties organization means Privacy Badger has no commercial incentive to whitelist advertising partners — a real concern with some "free" [ad blocker](https://snipstack.io/top-ad-blocker-2026/)s that run acceptable-ads programs. What you see is what you get: tracking domains get flagged and blocked based on evidence.
 
-Performance on mobile is light. Privacy Badger is not a full ad blocker in the traditional sense — it will not remove banner ads unless those banners are also tracking you across sites. For users who want comprehensive ad removal, pair it with uBlock Origin. For users who primarily care about cross-site tracking and behavioral profiling, Privacy Badger alone is a strong choice.
+Performance on mobile is light. Privacy Badger is not a full [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) in the traditional sense — it will not remove banner ads unless those banners are also tracking you across sites. For users who want comprehensive ad removal, pair it with uBlock Origin. For users who primarily care about cross-site tracking and behavioral profiling, Privacy Badger alone is a strong choice.
 
 ---
 

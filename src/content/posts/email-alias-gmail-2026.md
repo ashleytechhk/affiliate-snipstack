@@ -138,7 +138,7 @@ Not directly through Gmail. Alt-ID is a forwarding service, not a full two-way i
 
 Free alias services exist — SimpleLogin (free tier), AnonAddy, DuckDuckGo Email Protection. They work. So why consider paying for Alt-ID?
 
-**Bundled value is the main reason.** Alt-ID is not a standalone subscription — it ships inside Surfshark One, which also includes a VPN, antivirus, data breach alerts, and a private search engine. If you want those tools anyway (and in 2026, most privacy-aware users do), Alt-ID is effectively zero additional cost on top.
+**Bundled value is the main reason.** Alt-ID is not a standalone subscription — it ships inside Surfshark One, which also includes a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), data breach alerts, and a private search engine. If you want those tools anyway (and in 2026, most privacy-aware users do), Alt-ID is effectively zero additional cost on top.
 
 **No alias ceiling.** Free tiers on most standalone services cap you at 10–15 aliases. That fills up fast once you start using aliases consistently across every new signup.
 

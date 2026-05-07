@@ -88,7 +88,7 @@ Key features:
 - Full forwarding to your real inbox
 - Virtual identity (fake name + DOB) per alias
 - Pause or delete any alias instantly to stop spam from a specific source
-- Bundled with Surfshark One — VPN + antivirus + data breach alerts + Alt ID in one subscription
+- Bundled with Surfshark One — VPN + [antivirus](https://snipstack.io/vs-antivirus-2026/) + data breach alerts + Alt ID in one subscription
 
 **Pricing:** Included in Surfshark One. Plans start under $3/month when billed annually.
 

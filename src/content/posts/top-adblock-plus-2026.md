@@ -38,7 +38,7 @@ The alternatives below each take a different architectural approach — content 
 
 This is the single biggest functional gap between Adblock Plus and a tool like CleanWeb. Adblock Plus sees browser traffic. CleanWeb sees everything. For mobile power users who bounce between a dozen apps a day, that difference shows up immediately — feeds load cleaner, games stop auto-playing video ads, and data usage drops noticeably.
 
-Setup is straightforward: install Surfshark, toggle CleanWeb on in the settings, connect to any server. No separate configuration, no technical knowledge required. The plan also includes a VPN, data breach alerts, and an antivirus layer, making it one of the more complete privacy packages at its price point.
+Setup is straightforward: install Surfshark, toggle CleanWeb on in the settings, connect to any server. No separate configuration, no technical knowledge required. The plan also includes a VPN, data breach alerts, and an [antivirus](https://snipstack.io/vs-antivirus-2026/) layer, making it one of the more complete privacy packages at its price point.
 
 ![Mobile ad blocker comparison — Adblock Plus vs alternatives](/og/top-adblock-plus-2026-inline-1.png)
 

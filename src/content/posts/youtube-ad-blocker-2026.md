@@ -148,7 +148,7 @@ Using a VPN or DNS-based [ad blocker](https://snipstack.io/ad-blocker-firefox-20
 
 Yes. The YouTube Premium family plan covers up to 6 people in the same household for $22.99/month in the US. Each person gets their own ad-free YouTube account with background play and downloads. If split across 6 people, that's under $4 per person per month.
 
-### Is it legal to use a YouTube ad blocker?
+### Is it legal to use a YouTube [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)?
 
 In most jurisdictions, using an ad blocker or VPN for personal use is entirely legal. It may violate YouTube's Terms of Service (which is a civil matter between you and Google, not a legal one). YouTube's response has been to show warnings and degrade the experience for some browser extension users, not to pursue legal action against individual users.
 

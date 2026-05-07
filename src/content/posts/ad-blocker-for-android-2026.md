@@ -68,7 +68,7 @@ The catch is the same one that affects all DNS approaches: it only blocks domain
 
 ## 5. 1Blocker / Blokada — Best Lightweight Free Apps
 
-**Blokada** is one of the most downloaded free ad blockers on Android. The free version uses DNS blocking; Blokada Plus upgrades to VPN-layer filtering (paid). The UI is clean and approachable — it's a good stepping stone for users new to ad blocking who aren't ready to pay.
+**Blokada** is one of the most downloaded free [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s on Android. The free version uses DNS blocking; Blokada Plus upgrades to VPN-layer filtering (paid). The UI is clean and approachable — it's a good stepping stone for users new to ad blocking who aren't ready to pay.
 
 The free tier's DNS-only approach hits the same ceiling as AdGuard DNS above. Blokada Plus competes more directly with CleanWeb, though Surfshark's ecosystem is more mature and the pricing comparable when bundled.
 

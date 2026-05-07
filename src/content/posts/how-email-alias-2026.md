@@ -69,7 +69,7 @@ Here are the main options in 2026:
 
 **What to look for:** unlimited aliases (you will make more than you expect), the ability to reply anonymously through the alias, and a kill-switch to disable any alias instantly.
 
-[Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-email-alias-2026__mid) stands out because it pairs alias generation with a built-in identity randomizer — it can also generate a fake name, birthday, and profile photo to go with each alias. For anyone who fills out forms regularly, that extra layer of separation is genuinely useful. It is included in the Surfshark One plan alongside a VPN and antivirus, so you are not paying for a one-trick tool.
+[Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-email-alias-2026__mid) stands out because it pairs alias generation with a built-in identity randomizer — it can also generate a fake name, birthday, and profile photo to go with each alias. For anyone who fills out forms regularly, that extra layer of separation is genuinely useful. It is included in the Surfshark One plan alongside a VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/), so you are not paying for a one-trick tool.
 
 ![Step-by-step flowchart: how an email alias routes mail from a website to your real inbox without exposing your address](/og/how-email-alias-2026-inline-1.png)
 

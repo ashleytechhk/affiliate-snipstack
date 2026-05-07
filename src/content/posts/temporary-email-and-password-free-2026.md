@@ -59,7 +59,7 @@ You will see a clean interface with two main actions: **Generate Alt ID** (for t
 
 ---
 
-## Step 3 — Generate Your Temporary Email Address
+## Step 3 — Generate Your [Temporary Email](https://snipstack.io/temporary-email-stop-spam-2026/) Address
 
 1. Click **"Generate Alt ID"**.
 2. Surfshark creates a random alias such as `amber.lighthouse92@altid.me`. This is your burner address.

@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Microsoft Defender Antivirus for Windows 11 guide](/og/microsoft-defender-antivirus-for-windows-11-2026.png)
 
-Worried about viruses on your Windows 11 computer? You are not alone. Scams and malicious software are more common than ever, and older adults are often the main targets. The good news: Windows 11 already comes with a built-in antivirus called **[Microsoft Defender Antivirus](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/)** — and it is free, automatic, and easy to use.
+Worried about viruses on your Windows 11 computer? You are not alone. Scams and malicious software are more common than ever, and older adults are often the main targets. The good news: Windows 11 already comes with a built-in [antivirus](https://snipstack.io/vs-antivirus-2026/) called **[Microsoft Defender Antivirus](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/)** — and it is free, automatic, and easy to use.
 
 This plain-language guide will show you exactly how to check that Defender is running, how to do a manual scan, and what to do when something goes wrong. No technical background needed.
 

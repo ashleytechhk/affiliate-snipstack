@@ -109,7 +109,7 @@ If any of these apply, Windows Security alone is not enough for your situation.
 
 [Surfshark One](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-security-2026__mid) is a full security package that adds what Windows Security is missing, without replacing what it already does. It includes:
 
-- **Antivirus** — A second layer of virus scanning that works alongside Windows Defender
+- **[Antivirus](https://snipstack.io/vs-antivirus-2026/)** — A second layer of virus scanning that works alongside Windows Defender
 - **VPN** — Encrypts your connection on any Wi-Fi, including public hotspots
 - **Breach alerts** — Notifies you if your email or password shows up in a data leak
 - **Alternative ID** — Generates a private email address for signing up to websites, keeping your real address safe from spam and scammers

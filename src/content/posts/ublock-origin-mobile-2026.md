@@ -165,7 +165,7 @@ Yes. uBlock Origin is open-source, has been audited, and is maintained by a repu
 ### Does Surfshark CleanWeb slow down my connection?
 DNS-level filtering adds negligible latency — typically under 1ms for a lookup against a known blocklist. The VPN itself adds some overhead (usually 10–30ms depending on server distance), but CleanWeb within the VPN does not meaningfully add to that.
 
-### Do I need a VPN and a separate ad blocker?
+### Do I need a VPN and a separate [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)?
 Not if you choose Surfshark. CleanWeb is built into the Surfshark app. When you connect to Surfshark, CleanWeb is active — no separate app, no separate subscription, no configuration juggling. It is one of the more practical all-in-one setups available on mobile.
 
 ### What about AdGuard DNS as a free option?
