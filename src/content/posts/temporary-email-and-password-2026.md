@@ -51,7 +51,7 @@ That is it. No technical knowledge required. No command line. No configuration f
 
 ---
 
-## Step-by-Step: How to Set Up a Temporary Email and Password
+## Step-by-Step: How to Set Up a [Temporary Email and](https://snipstack.io/temporary-email-and-password-free-2026/) Password
 
 ### Step 1 — Install the Surfshark Extension
 

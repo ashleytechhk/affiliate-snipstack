@@ -23,7 +23,7 @@ Your inbox is a disaster. You signed up for a discount code five years ago, and 
 | Kill an address the moment spam starts | **Surfshark Alt-ID** |
 | Permanent privacy with no email client changes | **Surfshark Alt-ID** |
 
-**Bottom line:** Free temporary email services work for a five-minute job. For anything you actually need to receive (receipts, password resets, newsletters you like), you need a permanent masked email that forwards cleanly and can be deleted the instant it goes bad.
+**Bottom line:** Free [temporary email](https://snipstack.io/temporary-email-and-password-free-2026/) services work for a five-minute job. For anything you actually need to receive (receipts, password resets, newsletters you like), you need a permanent masked email that forwards cleanly and can be deleted the instant it goes bad.
 
 ---
 

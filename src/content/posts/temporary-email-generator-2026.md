@@ -18,7 +18,7 @@ A **[temporary email](https://snipstack.io/temporary-email-and-password-2026/) g
 
 ## Quick Verdict
 
-Free temporary email tools like Guerrilla Mail and 10 Minute Mail work fine for one-off signups where you never need the address again. But if you want to actually manage your spam problem — without losing access to accounts you care about — you need a permanent alias that forwards to your real inbox. **Surfshark Alt ID** does exactly that, and it bundles an entire virtual identity so your real name and address stay private too.
+Free [temporary email](https://snipstack.io/temporary-email-and-password-free-2026/) tools like Guerrilla Mail and 10 Minute Mail work fine for one-off signups where you never need the address again. But if you want to actually manage your spam problem — without losing access to accounts you care about — you need a permanent alias that forwards to your real inbox. **Surfshark Alt ID** does exactly that, and it bundles an entire virtual identity so your real name and address stay private too.
 
 **Bottom line:** Use a throwaway for junk. Use Alt ID for anything you might need later.
 
