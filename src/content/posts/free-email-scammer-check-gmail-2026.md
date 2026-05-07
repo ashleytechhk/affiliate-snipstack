@@ -88,7 +88,7 @@ HIBP is completely free. You can also sign up for free breach notifications so y
 
 **Before you click any link in a suspicious Gmail, paste it here first.**
 
-VirusTotal is a free service owned by Google that scans URLs and file attachments against more than 70 antivirus engines simultaneously. If even one engine flags a link as malicious, VirusTotal displays the result. This is particularly valuable for the "click here to verify your account" style of phishing, where the destination URL is designed to look legitimate but leads to a credential-harvesting page.
+VirusTotal is a free service owned by Google that scans URLs and file attachments against more than 70 [antivirus](https://snipstack.io/vs-antivirus-2026/) engines simultaneously. If even one engine flags a link as malicious, VirusTotal displays the result. This is particularly valuable for the "click here to verify your account" style of phishing, where the destination URL is designed to look legitimate but leads to a credential-harvesting page.
 
 To check a link without clicking it, right-click it in Gmail and copy the URL, then paste it into virustotal.com. Do not shorten or visit the link first — paste it directly. For attachments, download the file to a safe location and upload it to VirusTotal before opening it. The scan typically takes under 30 seconds.
 

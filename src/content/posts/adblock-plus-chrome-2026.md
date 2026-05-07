@@ -136,7 +136,7 @@ Occasionally. Most sites load fine with standard filter lists. If a site breaks,
 
 ### Is it safe to use a free [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)?
 
-It depends on the developer. Well-known open-source projects like uBlock Origin and Brave are trustworthy. Many "free" ad blockers in app stores inject their own ads or collect browsing data. Stick to reputable names with audited code or choose a paid service with a clear privacy policy.
+It depends on the developer. Well-known open-source projects like uBlock Origin and Brave are trustworthy. Many "free" [ad blocker](https://snipstack.io/ad-blocker-free-2026/)s in app stores inject their own ads or collect browsing data. Stick to reputable names with audited code or choose a paid service with a clear privacy policy.
 
 ### Does Surfshark CleanWeb slow down my connection?
 

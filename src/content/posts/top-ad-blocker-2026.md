@@ -46,7 +46,7 @@ Setup is close to zero effort: download Surfshark, toggle CleanWeb on, connect. 
 
 ### 2. [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) — Best Free Browser Extension (Firefox)
 
-**Why it's still the gold standard for desktop:** uBlock Origin is the most respected open-source ad blocker ever built. On Firefox, it runs with full permissions under the older extension model and delivers near-perfect block rates across display ads, video pre-rolls, and tracking scripts. It's lightweight, actively maintained, and completely free.
+**Why it's still the gold standard for desktop:** uBlock Origin is the most respected open-source [ad blocker](https://snipstack.io/ad-blocker-free-2026/) ever built. On Firefox, it runs with full permissions under the older extension model and delivers near-perfect block rates across display ads, video pre-rolls, and tracking scripts. It's lightweight, actively maintained, and completely free.
 
 The catch in 2026 is Chrome. Manifest V3 hit uBlock Origin hard on Chromium-based browsers — the extension still works, but it's operating in "lite" mode with reduced filter capacity. If you're on Firefox, uBlock Origin is unmatched. If you're on Chrome or Edge, you'll notice gaps. The developer has been transparent about this, which is worth respecting.
 

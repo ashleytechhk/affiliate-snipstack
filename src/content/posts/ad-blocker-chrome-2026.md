@@ -142,7 +142,7 @@ Not in the way desktop Chrome does. Google's Manifest v3 transition significantl
 
 Chrome on iOS doesn't support content-blocking extensions at all — that's an Apple restriction, not a Google one. Your best options are: a VPN with built-in ad blocking like [Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ad-blocker-chrome-2026__faq), a DNS-based filtering service configured at the system level, or switching to Safari where content-blocking extensions are supported natively.
 
-### Will an ad blocker slow down my phone or Chrome?
+### Will an [ad blocker](https://snipstack.io/ad-blocker-free-2026/) slow down my phone or Chrome?
 
 Network-level blockers like CleanWeb typically make browsing faster, not slower — they prevent ad requests from being made in the first place, reducing the data and render time for each page. DNS-based filtering is essentially zero latency since it only affects domain lookups. Extension-based blockers on desktop Chrome can occasionally add a few milliseconds of processing, but the net effect of not loading ads is almost always a speed improvement.
 

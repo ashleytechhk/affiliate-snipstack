@@ -194,7 +194,7 @@ Yes. Because CleanWeb operates at the DNS level rather than inside the browser, 
 
 Yes — Firefox still supports Manifest V2, and uBlock Origin runs fully on Firefox with no restrictions. If Chrome is not essential to your workflow, Firefox plus uBlock Origin is the closest experience to what Chrome users had before MV3.
 
-### Are DNS-level ad blockers detectable by websites?
+### Are DNS-level [ad blocker](https://snipstack.io/ad-blocker-free-2026/)s detectable by websites?
 
 It is significantly harder for websites to detect DNS-level blocking than browser extension-based blocking. Extensions leave fingerprints (specific DOM elements missing, script execution patterns). DNS blocking leaves no browser-side trace — from the website's perspective, the ad domain simply did not respond.
 

@@ -179,7 +179,7 @@ AdGuard DNS is a free DNS resolver you can configure manually in your iOS or And
 
 uBlock Origin earned its reputation on desktop. On mobile, the platform walls are real: iOS has no path, Chrome has no path, and even Firefox for Android keeps you trapped inside one browser. That is not good enough for a phone you live on.
 
-If you want genuine mobile ad blocking — across browsers, across apps, on whatever device you carry — you need something that works at a lower level than the browser. Surfshark CleanWeb does that, is easy to set up, and comes with a full VPN for the same price you would pay for a standalone ad blocker.
+If you want genuine mobile ad blocking — across browsers, across apps, on whatever device you carry — you need something that works at a lower level than the browser. Surfshark CleanWeb does that, is easy to set up, and comes with a full VPN for the same price you would pay for a standalone [ad blocker](https://snipstack.io/ad-blocker-free-2026/).
 
 Your phone deserves the same protection your desktop gets.
 
