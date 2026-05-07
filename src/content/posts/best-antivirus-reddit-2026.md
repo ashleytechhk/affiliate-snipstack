@@ -30,7 +30,7 @@ This guide translates those Reddit conversations into clear, numbered steps you 
 
 ## Prerequisites — What You Need Before You Start
 
-Before installing any antivirus software, run through this short checklist:
+Before installing any [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/), run through this short checklist:
 
 - **A Windows PC or Mac computer** (Surfshark Antivirus works on both)
 - **A working internet connection** — you need this to download the software

@@ -146,7 +146,7 @@ It is better than nothing. It is not a substitute for the original.
 | Ad Blocker | YouTube Web | YouTube App | Smart TV | Detection Risk | Free |
 |---|---|---|---|---|---|
 | Surfshark CleanWeb | Excellent | Excellent | Excellent | Very low | No (subscription) |
-| AdGuard Extension | Good | No | No | Medium | Yes (free tier) |
+| [AdGuard Extension](https://snipstack.io/adguard-extension-2026/) | Good | No | No | Medium | Yes (free tier) |
 | uBlock Origin (Firefox) | Excellent | No | No | Low | Yes |
 | Brave Browser | Good | No | No | Low | Yes |
 | SponsorBlock | Sponsor skip only | No | No | None | Yes |

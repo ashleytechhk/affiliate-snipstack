@@ -154,7 +154,7 @@ CleanWeb 2.0 added some cookie consent banner blocking, but coverage is inconsis
 
 ## CleanWeb vs. Browser Extensions: The Trade-off
 
-| Feature | Surfshark CleanWeb | AdGuard Extension (Free) | uBlock Origin (Firefox) |
+| Feature | Surfshark CleanWeb | [AdGuard Extension](https://snipstack.io/adguard-extension-2026/) (Free) | uBlock Origin (Firefox) |
 |---|---|---|---|
 | Works on YouTube app | Yes | No | No |
 | Works on smart TV | Yes | No | No |

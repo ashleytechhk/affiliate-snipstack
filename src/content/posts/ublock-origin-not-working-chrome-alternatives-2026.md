@@ -126,7 +126,7 @@ For users comfortable with networking, running Pi-hole or AdGuard Home on a loca
 
 ## Comparison Table
 
-| Feature | Surfshark CleanWeb | AdGuard Extension | uBlock Origin Lite | Brave Browser | Pi-hole |
+| Feature | Surfshark CleanWeb | [AdGuard Extension](https://snipstack.io/adguard-extension-2026/) | uBlock Origin Lite | Brave Browser | Pi-hole |
 |---|---|---|---|---|---|
 | Works after MV3 | Yes | Yes | Degraded | Yes | Yes |
 | YouTube ad blocking | Strong | Good | Weak | Strong | Good |
