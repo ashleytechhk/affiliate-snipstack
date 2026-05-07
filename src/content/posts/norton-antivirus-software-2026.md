@@ -30,7 +30,7 @@ Norton [antivirus software](https://snipstack.io/antivirus-software-2026/) is so
 | VPN included | Yes (limited servers) | Yes (unlimited, 100+ countries) |
 | Password manager | Yes | Yes (via Surfshark Alert) |
 | Data breach monitoring | Yes | Yes |
-| Ad blocker | No | Yes (CleanWeb) |
+| [Ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) | No | Yes (CleanWeb) |
 | Device limit | 1–5 (plan-dependent) | Unlimited |
 | System performance impact | Moderate–High | Low |
 | Renewal price transparency | Poor (discounts expire) | Consistent pricing |

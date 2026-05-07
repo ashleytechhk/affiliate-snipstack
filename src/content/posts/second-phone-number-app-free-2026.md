@@ -158,7 +158,7 @@ Cancel or replace the number. Unlike blocking — which stops future contact but
 
 ## Bottom Line
 
-Free second phone number apps are a real and practical option for dating privacy. Google Voice is the most reliable free choice for US users. TextNow and TextFree work for texting on a budget. For anything beyond basic texting — especially if you need to pass SMS verification reliably, or you're dating outside the US — free options start showing their cracks quickly.
+[Free second phone](https://snipstack.io/free-second-phone-number-for-whatsapp-2026/) number apps are a real and practical option for dating privacy. Google Voice is the most reliable free choice for US users. TextNow and TextFree work for texting on a budget. For anything beyond basic texting — especially if you need to pass SMS verification reliably, or you're dating outside the US — free options start showing their cracks quickly.
 
 If you've been handing out your real number because you assumed the alternatives were too complicated or expensive, this list should change that. A second number takes five minutes to set up and means you never have to think twice about sharing it.
 

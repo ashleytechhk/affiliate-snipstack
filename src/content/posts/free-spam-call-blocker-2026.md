@@ -80,7 +80,7 @@ For dating-app scenarios specifically, Nomorobo is less relevant because it targ
 
 ---
 
-## 6. Google Voice — Free Second Number with Basic Spam Filtering
+## 6. Google Voice — [Free Second](https://snipstack.io/free-second-phone-number-for-whatsapp-2026/) Number with Basic Spam Filtering
 
 **Best for: US users who want a free virtual number with built-in spam protection.**
 

@@ -12,7 +12,7 @@ You matched with someone interesting on Hinge. Conversation is going well. They 
 
 Handing out your real phone number to a stranger you met online is a leap of faith most people are not comfortable with. Your number ties back to your full name via Google searches, social media lookups, and caller-ID apps. One bad match and you are fielding unwanted messages with no clean way out.
 
-The fix is simple: use a **free second phone number for WhatsApp** that you control completely. If things go sideways, you kill the number. Your real number stays untouched.
+The fix is simple: use a **free [second phone number](https://snipstack.io/second-phone-number-app-free-2026/) for WhatsApp** that you control completely. If things go sideways, you kill the number. Your real number stays untouched.
 
 This guide walks you through the fastest way to get that second number set up in 2026 using Surfshark Alt-Number — no second SIM, no extra phone, no carrier contract required.
 
@@ -39,7 +39,7 @@ WhatsApp supports dual accounts natively on Android (Settings > Account > Add ac
 
 ---
 
-## Step-by-Step: Setting Up Your Free Second Phone Number for WhatsApp
+## Step-by-Step: Setting Up Your Free [Second Phone Number](https://snipstack.io/second-phone-number-2026/) for WhatsApp
 
 ### Step 1 — Download Surfshark Alt-Number
 

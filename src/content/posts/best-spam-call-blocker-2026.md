@@ -40,7 +40,7 @@ The downside is that Alt-Number is a Surfshark subscription add-on rather than a
 
 ## 2. Google Voice — Best Free Option (US Only)
 
-**The core idea:** a free secondary number from Google, forwarded to your real phone. You hand out the Voice number on dating apps, and real calls ring through to your device.
+**The core idea:** a [free second](https://snipstack.io/free-second-phone-number-for-whatsapp-2026/)ary number from Google, forwarded to your real phone. You hand out the Voice number on dating apps, and real calls ring through to your device.
 
 Google Voice has been around long enough that it handles spam filtering reasonably well. It automatically labels likely spam calls and lets you block individual numbers with one tap. The number itself is a genuine US area code, so it does not raise eyebrows when you share it.
 
