@@ -153,7 +153,7 @@ Use the label field consistently from the start. Brief, descriptive labels like 
 Alt-ID is included with Surfshark One. There is no standalone free tier, but Surfshark One bundles the VPN, antivirus, data-breach monitor, and Alt-ID together, which makes the per-feature cost low. You can start with a free trial. [See current pricing here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-anonymous-email-2026__faq)
 
 **Does this make me truly untraceable?**
-Using an email alias hides your real address from the services you sign up to. It does not make you fully untraceable across the internet — that would require additional tools. Think of it as preventing your inbox address from being exposed, not as complete anonymity online.
+Using an [email alias](https://snipstack.io/how-email-alias-2026/) hides your real address from the services you sign up to. It does not make you fully untraceable across the internet — that would require additional tools. Think of it as preventing your inbox address from being exposed, not as complete anonymity online.
 
 **Can I reply from an alias?**
 As of 2026, Alt-ID aliases are receive-only by default. Replies sent from your real inbox will show your real address unless you use a separate anonymous email provider for replies. For most spam-reduction use cases — newsletters, free trials, shopping — receive-only is sufficient.

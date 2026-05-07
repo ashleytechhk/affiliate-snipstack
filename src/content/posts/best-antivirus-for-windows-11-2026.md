@@ -162,7 +162,7 @@ You can also set Windows 11 to update itself automatically. Go to **Start Menu >
 
 Here is a quick comparison of what matters most for older users:
 
-| Feature | Surfshark Antivirus | Typical Free Antivirus |
+| Feature | Surfshark Antivirus | Typical [Free Antivirus](https://snipstack.io/vs-free-antivirus-2026/) |
 |---|---|---|
 | Real-time protection | Yes | Limited |
 | Web threat blocking | Yes | Rarely included |

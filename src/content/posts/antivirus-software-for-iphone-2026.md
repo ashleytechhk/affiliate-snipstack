@@ -158,7 +158,7 @@ For most iPhone users, yes. Surfshark One covers the three areas that matter on 
 
 Surfshark's VPN uses the WireGuard protocol, which is notably more battery-efficient than older OpenVPN-based implementations. Norton and McAfee both support modern protocols on iOS, but Surfshark's VPN-first architecture tends to be leaner in practice. Auto-connect features (connecting only on untrusted networks) on any of these apps will reduce battery impact compared to running VPN constantly.
 
-### Is there a free antivirus for iPhone worth using?
+### Is there a [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) for iPhone worth using?
 
 Free tiers from major vendors either cap the VPN data (often at 200MB–500MB/day), strip out breach monitoring, or are designed to upsell you into a paid plan within the first week. For day-to-day protection that actually works, a paid plan is worth it — and Surfshark One's pricing at the long-term rate is low enough that it's genuinely competitive with "free plus VPN."
 

@@ -14,7 +14,7 @@ You pause.
 
 That number is connected to your bank alerts, your work calendar, your family group chat. Handing it to a stranger you met three days ago is a bigger commitment than it sounds. And if things go sideways, blocking them only does so much — they still have your digits saved.
 
-A second phone number solves this cleanly. Use it for dating, keep your real number private, and cut the thread whenever you need to. The challenge is finding one that actually works — especially if you want a free or low-cost option.
+A [second phone number](https://snipstack.io/second-phone-number-2026/) solves this cleanly. Use it for dating, keep your real number private, and cut the thread whenever you need to. The challenge is finding one that actually works — especially if you want a free or low-cost option.
 
 Here are the 7 [best second phone](https://snipstack.io/best-second-phone-number-app-2026-no-sim/) number apps for online dating in 2026, ranked from free-first to premium.
 

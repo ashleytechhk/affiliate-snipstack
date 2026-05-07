@@ -65,7 +65,7 @@ Surfshark Antivirus checks every one of these boxes. It was built with simplicit
 
 ## Step 2 — Visit the Official Download Page
 
-Open your internet browser (Chrome, Safari, Edge, or Firefox) and go to the official download page using the link below. **Do not search for "free antivirus" on Google** — many fake antivirus programs show up in search ads and are actually scams themselves.
+Open your internet browser (Chrome, Safari, Edge, or Firefox) and go to the official download page using the link below. **Do not search for "[free antivirus](https://snipstack.io/vs-free-antivirus-2026/)" on Google** — many fake antivirus programs show up in search ads and are actually scams themselves.
 
 Use only this safe link:
 

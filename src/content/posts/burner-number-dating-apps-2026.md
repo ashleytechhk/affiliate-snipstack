@@ -80,7 +80,7 @@ The Burner app (iOS/Android) gives you temporary numbers you can "burn" — dele
 
 **Pros:**
 - Works globally, not just the US or Canada
-- No second SIM or second phone needed
+- No second SIM or [second phone](https://snipstack.io/second-phone-number-2026/) needed
 - Numbers are real mobile numbers, not easily detectable VoIP lines
 - You control it entirely: pause it, replace it, or disable it whenever you want
 - Bundled with Surfshark's broader privacy suite (VPN, data breach alerts, identity tools)

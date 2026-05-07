@@ -155,11 +155,11 @@ Yes. The threat level is lower than on some other platforms, but it is not zero.
 **Do I need to pay for antivirus on a Mac?**
 Not necessarily. Apple's built-in tools plus a free trial like [Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-mac-free-2026__faq) cover the basics well. Paid plans add convenience features like continuous real-time scanning, but the free setup in this guide is a strong starting point.
 
-**Will antivirus software slow down my Mac?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) slow down my Mac?**
 Modern antivirus apps are designed to be light. Surfshark Antivirus in particular is built to run in the background without making your Mac feel sluggish. Scheduled scans (Step 3) run during quiet periods so they do not interrupt what you are doing.
 
 **What is the difference between antivirus and a firewall?**
-The firewall (Step 1) controls which network connections are allowed to reach your Mac. Antivirus software (Steps 2 and 3) scans files on your Mac for harmful code. Both work together — you want both active.
+The firewall (Step 1) controls which network connections are allowed to reach your Mac. [Antivirus software](https://snipstack.io/antivirus-software-2026/) (Steps 2 and 3) scans files on your Mac for harmful code. Both work together — you want both active.
 
 **What should I do if I get a scary pop-up saying my Mac is infected?**
 Do not click anything in the pop-up. Do not call any phone number it displays. Close the browser tab or window (press Command + W). Then run a scan using the Surfshark app as described in Step 2. Real security alerts come from apps already installed on your Mac — not from websites.
