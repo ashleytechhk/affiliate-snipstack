@@ -68,7 +68,7 @@ The Burner app (iOS/Android) gives you temporary numbers you can "burn" — dele
 
 **Pros:** Purpose-built for privacy. Easy to burn and replace numbers. Works for calls and texts.
 
-**Cons:** Subscription-based — starts around $4.99/month per line, more if you want multiple numbers. Number availability can be limited. Like Google Voice, some platforms detect and reject Burner numbers. US and Canada only.
+**Cons:** Subscription-based — starts around $4.99/month per line, more if you want multiple numbers. Number availability can be limited. Like Google Voice, some platforms detect and reject [Burner number](https://snipstack.io/burner-number-online-2026/)s. US and Canada only.
 
 **Verdict:** Good concept, real limitations. Worth it if you date heavily and want to churn through numbers. Less ideal if you want a number that just works without app detection issues.
 

@@ -76,7 +76,7 @@ The case for Surfshark over managing your own OpenVPN setup: unlimited simultane
 
 ---
 
-## 6. ProtonVPN Free (OpenVPN-Backed Free Tier)
+## 6. [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) Free (OpenVPN-Backed Free Tier)
 
 **What it is:** ProtonVPN's permanently free tier, which uses the OpenVPN and WireGuard protocols. Available on all major platforms with no data cap.
 

@@ -168,7 +168,7 @@ Yes. The Surfshark app, including Alt-ID, is available on iOS and Android. Alias
 
 ## The Bottom Line
 
-Getting a free anonymous email alias in 2026 is a five-minute task, not a complex privacy project. The core flow is: create an alias, give that alias to websites instead of your real address, and delete the alias if it ever turns noisy. Your primary inbox stays clean without touching your existing accounts or migrating anywhere.
+Getting a free anonymous [email alias](https://snipstack.io/email-alias-sign-2026/) in 2026 is a five-minute task, not a complex privacy project. The core flow is: create an alias, give that alias to websites instead of your real address, and delete the alias if it ever turns noisy. Your primary inbox stays clean without touching your existing accounts or migrating anywhere.
 
 Alt-ID handles all of this inside the Surfshark app, with multi-device sync and an easy alias manager. If a flood of daily spam is eating your time and attention, this is the most direct fix available.
 

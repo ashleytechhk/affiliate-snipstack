@@ -115,7 +115,7 @@ From the main dashboard, tap or click **Alt ID** in the left sidebar (desktop) o
 
 **Step 3: Generate your alternative identity.**
 Click **Generate Alt ID**. Surfshark creates:
-- A unique email alias (e.g., `silverlake.harbor@altid.surfsharkcloud.com`)
+- A unique [email alias](https://snipstack.io/email-alias-sign-2026/) (e.g., `silverlake.harbor@altid.surfsharkcloud.com`)
 - A fictional name
 - A generated home address and date of birth
 

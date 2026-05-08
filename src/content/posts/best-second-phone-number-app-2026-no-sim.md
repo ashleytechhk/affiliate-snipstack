@@ -255,7 +255,7 @@ For users who take online privacy seriously, a second phone number is one piece 
 - **[Antivirus](https://snipstack.io/vs-antivirus-2026/)** — device-level protection against malware and spyware
 - **CleanWeb** — network-level ad and tracker blocking
 
-Each of these is available individually or bundled. The privacy argument for bundling: each layer plugs a gap the others leave open. A VPN hides your IP but not your phone number. A second number hides your real number but not your email. Email aliases hide your inbox but not your IP. A full stack closes all the obvious vectors simultaneously.
+Each of these is available individually or bundled. The privacy argument for bundling: each layer plugs a gap the others leave open. A VPN hides your IP but not your phone number. A second number hides your real number but not your email. [Email alias](https://snipstack.io/email-alias-sign-2026/)es hide your inbox but not your IP. A full stack closes all the obvious vectors simultaneously.
 
 > **Get Surfshark VPN — complete privacy stack, one subscription**
 > [Explore Surfshark plans](/blog/vpn?sub=best-second-phone-number-app-2026-no-sim__vpn__cross-sell-section)

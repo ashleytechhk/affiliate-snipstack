@@ -39,7 +39,7 @@ Alt-ID is bundled into Surfshark One, which also includes a VPN, [antivirus](htt
 
 **The best open-source alias manager.**
 
-SimpleLogin lets you create unlimited email aliases on its free tier (up to 10 aliases, then paid) and routes incoming mail straight to your real inbox. Replies work through the alias too, so two-way email stays anonymous. The service is open-source, audited, and — since its acquisition by Proton — tightly integrated with ProtonMail accounts.
+SimpleLogin lets you create unlimited [email alias](https://snipstack.io/email-alias-sign-2026/)es on its free tier (up to 10 aliases, then paid) and routes incoming mail straight to your real inbox. Replies work through the alias too, so two-way email stays anonymous. The service is open-source, audited, and — since its acquisition by Proton — tightly integrated with ProtonMail accounts.
 
 The browser extension makes alias creation one-click while you are filling out a signup form, which is where most unwanted subscriptions start. Power users appreciate the custom domain support: point your own domain at SimpleLogin and you get branded aliases like `shopping@yourdomain.com` that look intentional rather than disposable.
 

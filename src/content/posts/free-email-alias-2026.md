@@ -24,7 +24,7 @@ Alt-ID solves the spam problem without the hassle of juggling multiple inboxes. 
 
 ## What Is an [Email Alias](https://snipstack.io/how-email-alias-2026/) (and Why You Need One)?
 
-An email alias is a forwarding address — it looks like a real email, accepts messages, and routes them to your actual inbox. The sender never sees your real address. When that alias starts attracting spam, you turn it off. Your real address stays untouched.
+An [email alias](https://snipstack.io/email-alias-sign-2026/) is a forwarding address — it looks like a real email, accepts messages, and routes them to your actual inbox. The sender never sees your real address. When that alias starts attracting spam, you turn it off. Your real address stays untouched.
 
 **Common use cases:**
 

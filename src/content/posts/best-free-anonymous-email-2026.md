@@ -92,7 +92,7 @@ From the recipient's perspective, your alias looks like a real email address. Fr
 
 ## Step 5 — Disable or Delete an Alias Instantly
 
-This is where anonymous email aliases earn their keep.
+This is where anonymous [email alias](https://snipstack.io/email-alias-sign-2026/)es earn their keep.
 
 1. Return to the Alt-ID dashboard.
 2. Find the alias that is generating spam.

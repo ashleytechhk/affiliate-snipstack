@@ -160,7 +160,7 @@ It is both. [CleanWeb](/blog/surfshark?sub=ad-blocker-extensions-2026__faq) is a
 
 Not easily. AdGuard on Android uses the local VPN slot to intercept traffic, and Android only allows one VPN profile active at a time. Surfshark CleanWeb solves this because the ad blocking is built into the VPN rather than requiring its own VPN slot. If you want both system-wide ad blocking and VPN privacy on Android, CleanWeb is currently the cleanest solution.
 
-### Are free ad blockers safe to use?
+### Are [free ad blocker](https://snipstack.io/free-ad-blocker-chrome-2026/)s safe to use?
 
 Open-source tools like uBlock Origin, AdGuard (free tier), and DNS66 are safe and well-audited. Be cautious with lesser-known "ad blocker" apps on the Play Store and App Store — some are adware themselves, collecting browsing data to sell. Stick to apps with verifiable open-source repositories or well-established publishers.
 

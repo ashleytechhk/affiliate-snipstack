@@ -129,7 +129,7 @@ SponsorBlock uses a community database of manually tagged sponsor timestamps and
 
 $13.99/month (US price) removes all ads natively. Worth mentioning for completeness: if you watch YouTube for several hours daily and the ad load is genuinely disruptive, YouTube Premium also adds offline downloads and YouTube Music.
 
-The value calculation depends entirely on your usage. For casual viewers, a free ad blocker is the obvious choice. For heavy users, Premium is worth evaluating.
+The value calculation depends entirely on your usage. For casual viewers, a [free ad blocker](https://snipstack.io/free-ad-blocker-chrome-2026/) is the obvious choice. For heavy users, Premium is worth evaluating.
 
 ---
 
