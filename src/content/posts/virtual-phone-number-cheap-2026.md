@@ -112,7 +112,7 @@ The Burner app is one of the older players in this space and is built specifical
 
 Burner supports US and Canadian numbers. Subscription starts at $4.99/month for one line. You can add more lines for additional cost. Numbers work for calls and texts through the app.
 
-The limitation is the same as most VoIP-based services: some dating apps and verification systems flag and reject Burner numbers. It works well once you're past account setup and into the direct messaging phase. Geographic restriction (US/Canada only) is a hard stop for international users.
+The limitation is the same as most VoIP-based services: some dating apps and verification systems flag and reject [Burner number](https://snipstack.io/burner-number-free-2026/)s. It works well once you're past account setup and into the direct messaging phase. Geographic restriction (US/Canada only) is a hard stop for international users.
 
 **Cost:** ~$4.99/month per line.
 
