@@ -55,7 +55,7 @@ That's it. No technical skill required.
 If you already have a qualifying Surfshark account, skip to Step 2.
 
 1. Go to the [Surfshark One offer page](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-alias-2026__above-fold).
-2. Choose a plan. Surfshark One includes Alt-ID, the VPN, Antivirus, and Search.
+2. Choose a plan. Surfshark One includes Alt-ID, the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and Search.
 3. Create your account with your email and a strong password.
 4. Complete payment and confirm your email address.
 
@@ -88,7 +88,7 @@ This step is easy to miss. If you skip it, aliases will generate fine but no ema
 
 ---
 
-## Step 4 — Create Your First Free Email Alias
+## Step 4 — Create Your First [Free Email](https://snipstack.io/free-email-scammer-check-gmail-2026/) Alias
 
 1. Back on the Alt-ID main screen, click **Create alias** (or the **+** button, depending on your app version).
 2. You can either:
@@ -166,7 +166,7 @@ Some sites block browser extensions from injecting into input fields. In those c
 
 ## Frequently Asked Questions
 
-**Is a free email alias actually free with Alt-ID?**
+**Is a [free email](https://snipstack.io/free-email-scammer-check-2026/) alias actually free with Alt-ID?**
 Alt-ID is included in Surfshark One — there is no separate per-alias fee. The cost is the Surfshark One subscription, which also includes a VPN and antivirus. [See current pricing here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-alias-2026__faq)
 
 **How many aliases can I create?**

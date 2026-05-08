@@ -30,7 +30,7 @@ A good antivirus catches these threats before they land. It scans downloads auto
 
 ### 1. [Microsoft Defender Antivirus](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) (Built-In, Zero Cost)
 
-**What it is:** Microsoft Defender is already on your Windows 10 computer. You do not need to download anything. Just make sure it is turned on by searching "Windows Security" in your Start menu.
+**What it is:** Microsoft Defender is already on your Windows 10 computer. You do not need to download anything. Just make sure it is turned on by searching "[Windows Security](https://snipstack.io/windows-security-2026/)" in your Start menu.
 
 Defender has improved enormously since its early days. It now scores well on independent lab tests, blocking over 99% of common malware in real-world scenarios. For a senior who mostly checks email, watches videos, and reads news, Defender is a perfectly reasonable baseline.
 
@@ -132,13 +132,13 @@ Surfshark Antivirus   | Trial        | Yes            | Yes          | Full (pai
 
 **Scans at night are your friend.** Schedule a full scan for 2:00 AM when you are asleep. By morning the report is ready and your daytime browsing is uninterrupted.
 
-**If a pop-up says "call this number," do not call.** Legitimate antivirus software never asks you to call a phone number. These are scams. Close the window and run a scan from your antivirus program directly.
+**If a pop-up says "call this number," do not call.** Legitimate [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) never asks you to call a phone number. These are scams. Close the window and run a scan from your antivirus program directly.
 
 ---
 
 ## Frequently Asked Questions
 
-**Q: Is Windows Defender enough for seniors in 2026?**
+**Q: Is [Windows Defender](https://snipstack.io/windows-defender-download-2026/) enough for seniors in 2026?**
 Windows Defender handles most common threats well. However, it lacks website-safety warnings in non-Microsoft browsers and has no email link scanner. Adding a free tool like AVG or Bitdefender Free fills those gaps without any extra cost.
 
 **Q: Can I install antivirus software myself, or do I need help?**
