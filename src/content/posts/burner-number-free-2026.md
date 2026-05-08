@@ -18,7 +18,7 @@ The good news: getting a [burner number](https://snipstack.io/top-burner-number-
 
 If you want a burner number free with no strings attached for a few days, Google Voice is the safest bet. For ongoing privacy across dating apps without juggling a second SIM, **Surfshark Alt-Number** is the strongest all-around choice — it ties into a broader privacy suite, works on your existing device, and does not demand a carrier contract. Free trials exist; long-term value beats every standalone option on this list.
 
-**[Get Surfshark Alt-Number — try it risk-free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-free-2026__above-fold)**
+**[Get Surfshark Alt-Number — try it risk-free](/blog/surfshark?sub=burner-number-free-2026__above-fold)**
 
 ---
 
@@ -40,7 +40,7 @@ Alt-Number gives you a real US or UK phone number that works for calls and texts
 
 The free trial period lets you test the full feature set before committing. Paid tiers are priced sensibly when bundled with Surfshark One, making this the most cost-effective privacy stack for someone who already wants a VPN and an [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) alongside their burner number.
 
-**[Start your Alt-Number free trial here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-free-2026__mid)**
+**[Start your Alt-Number free trial here](/blog/surfshark?sub=burner-number-free-2026__mid)**
 
 ---
 
@@ -138,7 +138,7 @@ One angle many daters overlook: area codes. Some services let you pick your numb
 
 Mostly, yes — but "private" is relative. A burner number prevents the other person from tying your number to your carrier account, your full name, or your billing address. It does not make your communications encrypted or untraceable by law enforcement. For everyday dating privacy against fellow app users, a burner number is a strong, practical layer of protection. For anything beyond that, combine it with a VPN.
 
-[Surfshark bundles a VPN with Alt-Number in its One plan](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-free-2026__faq) — worth considering if you want both.
+[Surfshark bundles a VPN with Alt-Number in its One plan](/blog/surfshark?sub=burner-number-free-2026__faq) — worth considering if you want both.
 
 ### Can I use a burner number to sign up for dating apps?
 
@@ -164,4 +164,4 @@ For most people reading this, the calculus is straightforward: start with the Su
 
 Your real phone number is more personal than you realize. Keeping it private in early dating conversations is not paranoia — it is basic digital hygiene in 2026.
 
-**[Get Surfshark Alt-Number and protect your number today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=burner-number-free-2026__cta)**
+**[Get Surfshark Alt-Number and protect your number today](/blog/surfshark?sub=burner-number-free-2026__cta)**

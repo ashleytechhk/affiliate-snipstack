@@ -26,7 +26,7 @@ Here are the best options, ranked by use case and value.
 
 > **Get Surfshark Alternative Number — keep your real number private**
 > Virtual US/UK number, no SIM, no telecom contract.
-> [Get your second number](/go/altnumber?sub=best-second-phone-number-app-2026-no-sim__altnumber__above-fold)
+> [Get your second number](/blog/altnumber?sub=best-second-phone-number-app-2026-no-sim__altnumber__above-fold)
 
 ---
 
@@ -74,7 +74,7 @@ Surfshark Alternative Number gives you a [virtual phone number](https://snipstac
 **Pricing:** Included in Surfshark's subscription options — check current pricing at the link below.
 
 > **Get Surfshark Alternative Number — true privacy, no telecom paper trail**
-> [Protect your real number](/go/altnumber?sub=best-second-phone-number-app-2026-no-sim__altnumber__listicle-row1)
+> [Protect your real number](/blog/altnumber?sub=best-second-phone-number-app-2026-no-sim__altnumber__listicle-row1)
 
 ---
 
@@ -241,7 +241,7 @@ Surfshark Alternative Number is designed within a privacy-first framework. Surfs
 
 > **Surfshark Alt-ID: Pair your second number with a private [email alias](https://snipstack.io/how-email-alias-2026/)**
 > Keep your real email and real phone out of every form you fill in.
-> [Add Surfshark Alt-ID](/go/altid?sub=best-second-phone-number-app-2026-no-sim__altid__cross-sell-section)
+> [Add Surfshark Alt-ID](/blog/altid?sub=best-second-phone-number-app-2026-no-sim__altid__cross-sell-section)
 
 ---
 
@@ -258,7 +258,7 @@ For users who take online privacy seriously, a second phone number is one piece 
 Each of these is available individually or bundled. The privacy argument for bundling: each layer plugs a gap the others leave open. A VPN hides your IP but not your phone number. A second number hides your real number but not your email. Email aliases hide your inbox but not your IP. A full stack closes all the obvious vectors simultaneously.
 
 > **Get Surfshark VPN — complete privacy stack, one subscription**
-> [Explore Surfshark plans](/go/vpn?sub=best-second-phone-number-app-2026-no-sim__vpn__cross-sell-section)
+> [Explore Surfshark plans](/blog/vpn?sub=best-second-phone-number-app-2026-no-sim__vpn__cross-sell-section)
 
 ---
 
@@ -306,7 +306,7 @@ If you are building a comprehensive privacy setup across your phone, email, and 
 
 > **Get Surfshark Alternative Number — keep your real number out of the wrong hands**
 > Virtual US/UK number · No SIM · No telecom paper trail
-> [Get your second number](/go/altnumber?sub=best-second-phone-number-app-2026-no-sim__altnumber__bottom-cta)
+> [Get your second number](/blog/altnumber?sub=best-second-phone-number-app-2026-no-sim__altnumber__bottom-cta)
 
 ---
 

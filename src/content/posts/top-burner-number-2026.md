@@ -16,7 +16,7 @@ Handing out your real phone number to a stranger from a dating app is a bigger r
 
 This guide covers the seven best burner number options available in 2026, with a special focus on what matters most to online daters: easy setup, reliable calling and texting, and the ability to disappear when things go sideways.
 
-**Quick Verdict:** Surfshark Alt-Number is the standout pick for most dating app users. It pairs a real secondary phone number with a broader privacy suite, costs less than a coffee per month, and works on both iOS and Android without a second SIM. If you want a dedicated privacy tool rather than a throwaway Google Voice line, [get Alt-Number here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-burner-number-2026__above-fold).
+**Quick Verdict:** Surfshark Alt-Number is the standout pick for most dating app users. It pairs a real secondary phone number with a broader privacy suite, costs less than a coffee per month, and works on both iOS and Android without a second SIM. If you want a dedicated privacy tool rather than a throwaway Google Voice line, [get Alt-Number here](/blog/surfshark?sub=top-burner-number-2026__above-fold).
 
 ---
 
@@ -42,7 +42,7 @@ Alt-Number gives you a real secondary phone number in a country of your choice, 
 
 What sets Alt-Number apart from every other option on this list is context. It sits inside Surfshark's privacy suite, meaning you can pair it with a VPN, [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/), and data breach alerts in one subscription. For dating app users who care about their broader digital footprint — not just their phone number — that integration is genuinely useful.
 
-Pricing is bundled with Surfshark One, which covers multiple devices. For the price of a single burner app subscription elsewhere, you get a full privacy toolkit. [Try Alt-Number with Surfshark One](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-burner-number-2026__mid).
+Pricing is bundled with Surfshark One, which covers multiple devices. For the price of a single burner app subscription elsewhere, you get a full privacy toolkit. [Try Alt-Number with Surfshark One](/blog/surfshark?sub=top-burner-number-2026__mid).
 
 ---
 
@@ -146,7 +146,7 @@ A burner number puts meaningful distance between a stranger and your real identi
 
 ### Can I use a burner number on Tinder, Hinge, or Bumble?
 
-Yes. Dating apps only need a number that can receive SMS verification. Any number from this list will work for verification and for giving to matches. Surfshark Alt-Number is purpose-built for exactly this use case — [see how it works here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-burner-number-2026__faq).
+Yes. Dating apps only need a number that can receive SMS verification. Any number from this list will work for verification and for giving to matches. Surfshark Alt-Number is purpose-built for exactly this use case — [see how it works here](/blog/surfshark?sub=top-burner-number-2026__faq).
 
 ### Will people know I am using a burner number?
 
@@ -170,4 +170,4 @@ If you use Surfshark as your VPN, yes — Alt-Number is included in Surfshark On
 
 A burner number is one of the simplest and most effective privacy moves you can make as an online dater. You do not need to be paranoid to want one — you just need to recognize that handing a stranger your real number on a first match is an unnecessary risk when good alternatives exist.
 
-Surfshark Alt-Number is the cleanest option for most people: real-looking number, full call and SMS support, and it slots into a broader privacy setup rather than sitting as a standalone app you forget about. If you are ready to stop giving your real number to strangers, [start with Alt-Number today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-burner-number-2026__cta).
+Surfshark Alt-Number is the cleanest option for most people: real-looking number, full call and SMS support, and it slots into a broader privacy setup rather than sitting as a standalone app you forget about. If you are ready to stop giving your real number to strangers, [start with Alt-Number today](/blog/surfshark?sub=top-burner-number-2026__cta).

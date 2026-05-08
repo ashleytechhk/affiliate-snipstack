@@ -14,7 +14,7 @@ The catch: not every VPN consistently unblocks Netflix. And the VPN itself is a 
 
 This article breaks down NordVPN and Surfshark head-to-head on the metrics that actually matter for subscription arbitrage.
 
-**[Start saving with Surfshark — try it risk-free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-netflix-2026__above-fold)**
+**[Start saving with Surfshark — try it risk-free](/blog/surfshark?sub=nordvpn-netflix-2026__above-fold)**
 
 ---
 
@@ -77,7 +77,7 @@ Here is the rough math at current prices:
 
 NordVPN's higher price narrows that margin. At ~$48 / year annualized (2-year plan), the net saving drops by about $22 compared to Surfshark for an identical arbitrage setup.
 
-**[Run the numbers with Surfshark — 30-day money-back guarantee](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-netflix-2026__mid)**
+**[Run the numbers with Surfshark — 30-day money-back guarantee](/blog/surfshark?sub=nordvpn-netflix-2026__mid)**
 
 ---
 
@@ -131,7 +131,7 @@ For subscription arbitrage and streaming savings, **Surfshark is the better pick
 
 Choose NordVPN if raw speed or an extensive server network is your primary concern — it leads on both. But for the cost-motivated streamer doing the subscription math, Surfshark's value proposition is hard to beat.
 
-**[Get Surfshark and start saving on subscriptions](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-netflix-2026__cta)**
+**[Get Surfshark and start saving on subscriptions](/blog/surfshark?sub=nordvpn-netflix-2026__cta)**
 
 ---
 
@@ -139,7 +139,7 @@ Choose NordVPN if raw speed or an extensive server network is your primary conce
 
 ### Does Surfshark reliably unblock Netflix in 2026?
 
-Yes. Surfshark maintains dedicated streaming servers that regularly rotate IPs to stay ahead of Netflix's detection systems. It unblocks Netflix in 15+ regions including the US, UK, Japan, and Australia. Occasional temporary blocks happen with any VPN — Surfshark typically resolves these within hours. [Check current performance](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-netflix-2026__faq).
+Yes. Surfshark maintains dedicated streaming servers that regularly rotate IPs to stay ahead of Netflix's detection systems. It unblocks Netflix in 15+ regions including the US, UK, Japan, and Australia. Occasional temporary blocks happen with any VPN — Surfshark typically resolves these within hours. [Check current performance](/blog/surfshark?sub=nordvpn-netflix-2026__faq).
 
 ### Is using a VPN to access cheaper Netflix pricing legal?
 

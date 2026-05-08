@@ -12,7 +12,7 @@ You open your inbox and there it is — 63 unread messages, 58 of which are news
 
 Getting a **[temporary email and password](https://snipstack.io/temporary-email-and-password-2026/) free** is the fastest way to reclaim your inbox without lifting more than a few fingers. This guide walks you through the exact steps using **Surfshark Alt ID**, a privacy tool that generates disposable email addresses and strong passwords at no extra cost when you are already a Surfshark subscriber — and shows you the free trial path if you are not yet.
 
-**[Get Alt ID free via Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-free-2026__above-fold)** — takes under two minutes to set up.
+**[Get Alt ID free via Surfshark](/blog/surfshark?sub=temporary-email-and-password-free-2026__above-fold)** — takes under two minutes to set up.
 
 ---
 
@@ -36,7 +36,7 @@ No technical knowledge required. This tutorial takes roughly five minutes end to
 
 ## Step 1 — Create or Log In to Your Surfshark Account
 
-1. Go to **[Surfshark via this link](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-free-2026__above-fold)** to start a free trial or log in if you already have an account.
+1. Go to **[Surfshark via this link](/blog/surfshark?sub=temporary-email-and-password-free-2026__above-fold)** to start a free trial or log in if you already have an account.
 2. Choose the **Surfshark One** or **One+** plan — both include Alt ID. The basic VPN-only plan does not include it.
 3. Complete sign-up with your real email address. This is the inbox where forwarded messages will land later.
 4. Confirm your email address when the verification message arrives.
@@ -145,14 +145,14 @@ If you need a zero-cost disposable inbox for a one-off signup right now and cann
 
 The free tools work for a quick burner check — paste it in, grab the verification code, move on. But they offer no forwarding, no password generation, and their inboxes are often publicly accessible to anyone who guesses the address. For ongoing inbox hygiene, they are not a long-term fix.
 
-**[Try Alt ID free with Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-free-2026__mid)** — cancel any time during the trial window.
+**[Try Alt ID free with Surfshark](/blog/surfshark?sub=temporary-email-and-password-free-2026__mid)** — cancel any time during the trial window.
 
 ---
 
 ## FAQ
 
 **Is a temporary email and password really free with Surfshark?**
-Alt ID is included at no additional charge on Surfshark One and One+ plans. Both plans offer a free trial, so you can test the full feature set before paying anything. [Start a free trial here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-free-2026__faq)
+Alt ID is included at no additional charge on Surfshark One and One+ plans. Both plans offer a free trial, so you can test the full feature set before paying anything. [Start a free trial here.](/blog/surfshark?sub=temporary-email-and-password-free-2026__faq)
 
 **Will the temporary email address expire?**
 Unlike throwaway services that expire in an hour, Alt ID aliases stay active for as long as you keep them. You control when they are paused or deleted — there is no automatic expiry.
@@ -177,4 +177,4 @@ Spam is a solved problem — you just need the right tool. A **temporary email a
 
 Delete the alias when you are done with a service. Generate a new one when the next sign-up wall appears. Keep your real email address for people who actually matter.
 
-**[Get Alt ID with Surfshark now](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-free-2026__cta)** — the free trial gives you full access to test every feature before you commit.
+**[Get Alt ID with Surfshark now](/blog/surfshark?sub=temporary-email-and-password-free-2026__cta)** — the free trial gives you full access to test every feature before you commit.

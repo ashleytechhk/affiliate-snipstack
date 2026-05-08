@@ -18,7 +18,7 @@ But here is the big question people are asking in 2026: **Is free good enough?**
 
 The short answer: Defender is a solid starting point, but it has real gaps — especially for the kinds of scams and threats that are most common right now. Adding a layer like **Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/)** fills those gaps without making your computer complicated.
 
-[Get Surfshark Antivirus — Simple, Affordable Protection](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-seniors-2026__above-fold)
+[Get Surfshark Antivirus — Simple, Affordable Protection](/blog/surfshark?sub=windows-defender-seniors-2026__above-fold)
 
 ---
 
@@ -102,7 +102,7 @@ If everything is green, Defender is working. But remember — working does not m
 
 Surfshark Antivirus is simple to install. You do not need to be a tech person. Here is exactly what to do:
 
-[Get Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-seniors-2026__mid)
+[Get Surfshark Antivirus](/blog/surfshark?sub=windows-defender-seniors-2026__mid)
 
 **Step 1.** Click the link above and go to the Surfshark website.
 
@@ -154,7 +154,7 @@ Microsoft Defender is not bad. It is much better than having nothing. But in 202
 
 For less than the cost of a cup of coffee each month, you get meaningfully stronger protection — without making your computer harder to use.
 
-[Try Surfshark Antivirus — Get Protected Today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-seniors-2026__cta)
+[Try Surfshark Antivirus — Get Protected Today](/blog/surfshark?sub=windows-defender-seniors-2026__cta)
 
 ---
 
@@ -170,7 +170,7 @@ Very little. Surfshark is designed to run quietly in the background. Most people
 
 **Q: Is Surfshark safe to download?**
 
-Yes. Surfshark is a well-known, established company with millions of users worldwide. The download comes directly from their official website. [Download here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-seniors-2026__faq)
+Yes. Surfshark is a well-known, established company with millions of users worldwide. The download comes directly from their official website. [Download here.](/blog/surfshark?sub=windows-defender-seniors-2026__faq)
 
 **Q: What is the difference between Surfshark Antivirus and Surfshark One?**
 

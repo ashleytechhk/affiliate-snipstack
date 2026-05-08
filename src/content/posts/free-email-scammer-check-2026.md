@@ -12,7 +12,7 @@ You got an email from your bank. Or maybe from a delivery company. Or a friend a
 
 You are not alone. Email scams have become so convincing that even tech-savvy people get fooled. The good news: you do not need to be an expert to check whether an email is legitimate. This guide walks you through a [free email scammer](https://snipstack.io/free-email-scammer-check-gmail-2026/) check, step by step, using tools that cost nothing and take less than five minutes.
 
-**[Check suspicious emails safely with Surfshark's Alert tool →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-2026__above-fold)**
+**[Check suspicious emails safely with Surfshark's Alert tool →](/blog/surfshark?sub=free-email-scammer-check-2026__above-fold)**
 
 ---
 
@@ -71,7 +71,7 @@ This is where a free tool saves you a lot of guesswork. Scam email addresses and
 
 Surfshark Alert lets you search whether an email address has appeared in known data breaches or scam reports. It is free to use with a Surfshark account.
 
-1. Go to **[Surfshark Alert via this link](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-2026__mid)**
+1. Go to **[Surfshark Alert via this link](/blog/surfshark?sub=free-email-scammer-check-2026__mid)**
 2. Sign in or create a free account
 3. Enter the sender's email address in the search field
 4. Review the results — if the address appears in multiple breach records or has been flagged as a sender in phishing campaigns, treat the email as suspicious
@@ -172,7 +172,7 @@ Surfshark Alert monitors your email addresses against breach databases and alert
 
 **Q: Is there a completely free email scammer check?**
 
-Yes. You can check a sender's email address against HaveIBeenPwned for free without creating an account. For more detailed monitoring and breach alerts, [Surfshark Alert](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-2026__faq) offers a free tier that covers essential email lookups.
+Yes. You can check a sender's email address against HaveIBeenPwned for free without creating an account. For more detailed monitoring and breach alerts, [Surfshark Alert](/blog/surfshark?sub=free-email-scammer-check-2026__faq) offers a free tier that covers essential email lookups.
 
 **Q: How do I check if an email address is valid or fake?**
 
@@ -188,7 +188,7 @@ Yes — if your account credentials appear in a data breach, scammers can use th
 
 **Q: How often should I run an email scammer check?**
 
-Run a manual check whenever you receive an unexpected or unusual email. For ongoing background monitoring, set up an alert service like [Surfshark Alert](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-2026__faq) so you are notified automatically when your address is exposed.
+Run a manual check whenever you receive an unexpected or unusual email. For ongoing background monitoring, set up an alert service like [Surfshark Alert](/blog/surfshark?sub=free-email-scammer-check-2026__faq) so you are notified automatically when your address is exposed.
 
 ---
 
@@ -198,7 +198,7 @@ Running a one-off check is a great start. But scammers constantly find new ways 
 
 It is free to get started, and setting it up takes under two minutes.
 
-**[Start your free email scammer check with Surfshark Alert →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-2026__cta)**
+**[Start your free email scammer check with Surfshark Alert →](/blog/surfshark?sub=free-email-scammer-check-2026__cta)**
 
 ---
 

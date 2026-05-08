@@ -30,7 +30,7 @@ Truecaller works by crowdsourcing caller ID data and flagging numbers that other
 
 When you share your real number with a match and things go badly — harassment, obsessive texts, unexpected calls at 2 a.m. — Truecaller cannot help you. Your number is already in their phone. Blocking one contact does not stop them from calling from a different number, or sharing your number with others. The only way to prevent that scenario entirely is to never share your real number in the first place.
 
-**[Get a virtual number before your next date — try Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=truecaller-spam-call-blocker-2026__above-fold)**
+**[Get a virtual number before your next date — try Surfshark Alt Number](/blog/surfshark?sub=truecaller-spam-call-blocker-2026__above-fold)**
 
 ---
 
@@ -112,7 +112,7 @@ For dating privacy, YouMail is a solid defensive layer, but it still operates on
 
 ![Surfshark Alternative Number virtual phone number for dating safety](/og/truecaller-spam-call-blocker-2026-inline-2.png)
 
-**[Stop sharing your real number — get Surfshark Alt Number today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=truecaller-spam-call-blocker-2026__mid)**
+**[Stop sharing your real number — get Surfshark Alt Number today](/blog/surfshark?sub=truecaller-spam-call-blocker-2026__mid)**
 
 ---
 
@@ -141,7 +141,7 @@ No. Truecaller identifies and blocks incoming spam calls. It does not mask or re
 
 ### What is the best spam call blocker for online dating?
 
-For purely blocking spam calls, Hiya and RoboKiller lead the field in 2026. But for online dating privacy specifically, a [virtual phone number](https://snipstack.io/virtual-phone-number-2026/) is a better solution than any spam blocker. [Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=truecaller-spam-call-blocker-2026__faq) gives you a real local number to share with matches, so your actual number stays private regardless of how things go.
+For purely blocking spam calls, Hiya and RoboKiller lead the field in 2026. But for online dating privacy specifically, a [virtual phone number](https://snipstack.io/virtual-phone-number-2026/) is a better solution than any spam blocker. [Surfshark Alt Number](/blog/surfshark?sub=truecaller-spam-call-blocker-2026__faq) gives you a real local number to share with matches, so your actual number stays private regardless of how things go.
 
 ### Can I get a temporary phone number for dating apps?
 
@@ -165,4 +165,4 @@ The real risk in online dating is not that spam callers will find you. It is tha
 
 **Surfshark Alt Number solves the problem at the source.** Give matches a number that is real enough to seem normal, disposable enough to delete without consequence, and completely separate from the phone number that runs your actual life.
 
-**[Get Surfshark Alt Number and keep your real number private](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=truecaller-spam-call-blocker-2026__cta)**
+**[Get Surfshark Alt Number and keep your real number private](/blog/surfshark?sub=truecaller-spam-call-blocker-2026__cta)**

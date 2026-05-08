@@ -10,7 +10,7 @@ You searched for a NordVPN download. Before you click install, you should know t
 
 ![NordVPN download comparison hero image](/og/nordvpn-download-2026.png)
 
-**[Try Surfshark — Better Value for Subscription Arbitrage →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-download-2026__above-fold)**
+**[Try Surfshark — Better Value for Subscription Arbitrage →](/blog/surfshark?sub=nordvpn-download-2026__above-fold)**
 
 ---
 
@@ -61,7 +61,7 @@ When you are using a VPN to access a streaming service's lower-cost regional pri
 
 ![VPN streaming comparison flow diagram](/og/nordvpn-download-2026-inline-1.png)
 
-**[Get Surfshark — Unlimited Devices, Half the Price →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-download-2026__mid)**
+**[Get Surfshark — Unlimited Devices, Half the Price →](/blog/surfshark?sub=nordvpn-download-2026__mid)**
 
 ---
 
@@ -135,7 +135,7 @@ NordVPN offers a free trial on some platforms (typically 7 days on mobile), but 
 
 ### Does Surfshark work for streaming region-switching?
 
-Yes. Surfshark maintains streaming-optimized servers and actively works to keep them accessible. It works with major streaming platforms across multiple regions. Performance is comparable to NordVPN for this specific use case. [Try it risk-free with the 30-day guarantee.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-download-2026__faq)
+Yes. Surfshark maintains streaming-optimized servers and actively works to keep them accessible. It works with major streaming platforms across multiple regions. Performance is comparable to NordVPN for this specific use case. [Try it risk-free with the 30-day guarantee.](/blog/surfshark?sub=nordvpn-download-2026__faq)
 
 ### How many devices can I connect simultaneously?
 
@@ -165,7 +165,7 @@ If you typed "nordvpn download" because you want a reliable VPN that will not ge
 
 The 30-day money-back guarantee means you have nothing to lose by trying it first.
 
-**[Get Surfshark Now — Save on Every Streaming Subscription →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=nordvpn-download-2026__cta)**
+**[Get Surfshark Now — Save on Every Streaming Subscription →](/blog/surfshark?sub=nordvpn-download-2026__cta)**
 
 ---
 

@@ -22,7 +22,7 @@ Free [temporary email](https://snipstack.io/temporary-email-and-password-free-20
 
 **Bottom line:** Use a throwaway for junk. Use Alt ID for anything you might need later.
 
-[**Try Surfshark Alt ID — Protect Your Inbox Now**](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-generator-2026__above-fold)
+[**Try Surfshark Alt ID — Protect Your Inbox Now**](/blog/surfshark?sub=temporary-email-generator-2026__above-fold)
 
 ---
 
@@ -108,7 +108,7 @@ You never need to return to that inbox. When the address expires, any future mai
 For accounts you actually care about — streaming services, online shopping, newsletters you want to keep — use Alt ID instead.
 
 **Step 1: Get Surfshark.**
-Alt ID is included with Surfshark One and Surfshark One+ plans. [Start here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-generator-2026__mid) if you don't have an account yet.
+Alt ID is included with Surfshark One and Surfshark One+ plans. [Start here](/blog/surfshark?sub=temporary-email-generator-2026__mid) if you don't have an account yet.
 
 **Step 2: Open the Surfshark app and navigate to Alt ID.**
 From the main dashboard, tap or click **Alt ID** in the left sidebar (desktop) or the **Privacy** tab (mobile).
@@ -159,7 +159,7 @@ For low-stakes, one-off signups, yes — free temporary email services are safe.
 
 ### What's the best temporary email generator in 2026?
 
-For pure throwaway use, Guerrilla Mail and 10 Minute Mail are reliable and require no account. For persistent aliases with real forwarding, [Surfshark Alt ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-generator-2026__faq) is the strongest option available — it bundles email aliasing with full identity protection.
+For pure throwaway use, Guerrilla Mail and 10 Minute Mail are reliable and require no account. For persistent aliases with real forwarding, [Surfshark Alt ID](/blog/surfshark?sub=temporary-email-generator-2026__faq) is the strongest option available — it bundles email aliasing with full identity protection.
 
 ### Can I use a temporary email to sign up for streaming services?
 
@@ -181,7 +181,7 @@ If you're still manually unsubscribing from 50 emails a day, you're fighting the
 
 The cleaner solution: stop giving out your real address. Use a temporary email for junk, and Surfshark Alt ID for everything else. When any alias starts attracting spam, you delete it and move on. Your real inbox stays untouched.
 
-[**Get Surfshark Alt ID and Clean Up Your Inbox**](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-generator-2026__cta)
+[**Get Surfshark Alt ID and Clean Up Your Inbox**](/blog/surfshark?sub=temporary-email-generator-2026__cta)
 
 ---
 

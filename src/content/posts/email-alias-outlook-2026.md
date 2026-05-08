@@ -12,7 +12,7 @@ If your Outlook inbox looks like a skip fire — newsletters you never signed up
 
 The fix is deceptively simple: stop giving out your real address. Use an alias instead.
 
-This guide walks you through every method for setting up an [email alias](https://snipstack.io/email-alias-gmail-2026/) in Outlook in 2026, from Microsoft's own built-in alias system to a smarter, more powerful option that lets you spin up unlimited burner addresses on demand — [Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-outlook-2026__above-fold).
+This guide walks you through every method for setting up an [email alias](https://snipstack.io/email-alias-gmail-2026/) in Outlook in 2026, from Microsoft's own built-in alias system to a smarter, more powerful option that lets you spin up unlimited burner addresses on demand — [Surfshark Alt-ID](/blog/surfshark?sub=email-alias-outlook-2026__above-fold).
 
 ---
 
@@ -80,7 +80,7 @@ For anyone dealing with serious spam volume, Microsoft's 10-alias limit is a har
 
 ### Step 1 — Get Surfshark with Alt-ID
 
-Alt-ID is included in Surfshark One and Surfshark One+ plans. [Start here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-outlook-2026__mid) and choose the plan that suits you. During setup, you will create a Surfshark account — use your real Outlook address here, because this is the address your alias mail gets forwarded to.
+Alt-ID is included in Surfshark One and Surfshark One+ plans. [Start here](/blog/surfshark?sub=email-alias-outlook-2026__mid) and choose the plan that suits you. During setup, you will create a Surfshark account — use your real Outlook address here, because this is the address your alias mail gets forwarded to.
 
 ### Step 2 — Access the Alt-ID Dashboard
 
@@ -150,7 +150,7 @@ If you only need one or two permanent secondary addresses — say, one for onlin
 ## Frequently Asked Questions
 
 **Can I send email from my Outlook alias?**
-Yes. In Outlook on the web, go to **Settings → Mail → Sync email → Manage aliases**, then select the alias as a sender. When composing a new message, click **From** and choose your alias address. The recipient sees the alias, not your primary address. [Set up Alt-ID for unlimited alias options](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-outlook-2026__faq).
+Yes. In Outlook on the web, go to **Settings → Mail → Sync email → Manage aliases**, then select the alias as a sender. When composing a new message, click **From** and choose your alias address. The recipient sees the alias, not your primary address. [Set up Alt-ID for unlimited alias options](/blog/surfshark?sub=email-alias-outlook-2026__faq).
 
 **Does deleting an alias delete my emails?**
 For Outlook built-in aliases: deleting the alias does not delete any emails already received. For Alt-ID: disabling or deleting an alias stops forwarding but does not affect emails already delivered to your Outlook inbox.
@@ -170,6 +170,6 @@ No. Alt-ID is designed so that your real address is never shared with the servic
 
 Fifty spam emails a day is not a minor inconvenience — it is a signal that your real address is being traded around the internet without your consent. Both methods in this guide address that problem, but they do it at different scales.
 
-Start with Outlook's built-in alias if you want a free, quick fix for one or two use cases. Move to [Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-outlook-2026__cta) when you want systematic protection — the ability to generate a unique address for every service you use, disable noisy aliases instantly, and never expose your real Outlook address to another sign-up form again.
+Start with Outlook's built-in alias if you want a free, quick fix for one or two use cases. Move to [Surfshark Alt-ID](/blog/surfshark?sub=email-alias-outlook-2026__cta) when you want systematic protection — the ability to generate a unique address for every service you use, disable noisy aliases instantly, and never expose your real Outlook address to another sign-up form again.
 
 Your inbox is worth protecting. The tools to do it properly are available right now.

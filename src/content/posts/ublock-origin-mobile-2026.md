@@ -14,7 +14,7 @@ uBlock Origin technically runs on Firefox for Android. But it is a clunky workar
 
 This guide cuts through the noise. Here is what actually blocks ads on mobile in 2026 — across browsers, across apps, on both iOS and Android.
 
-**[Try Surfshark CleanWeb free for 30 days →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ublock-origin-mobile-2026__above-fold)**
+**[Try Surfshark CleanWeb free for 30 days →](/blog/surfshark?sub=ublock-origin-mobile-2026__above-fold)**
 
 ---
 
@@ -81,7 +81,7 @@ What it does not block:
 
 For the typical mobile user, CleanWeb will visibly reduce the ad load across the whole phone. Combined with the VPN itself, it is a genuine privacy upgrade — not just a browser-layer hack.
 
-**[Start Surfshark CleanWeb — 30-day money-back →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ublock-origin-mobile-2026__mid)**
+**[Start Surfshark CleanWeb — 30-day money-back →](/blog/surfshark?sub=ublock-origin-mobile-2026__mid)**
 
 **Pricing:** Surfshark starts at around $2.49/month on a two-year plan. CleanWeb is included — no extra cost.
 
@@ -171,7 +171,7 @@ Not if you choose Surfshark. CleanWeb is built into the Surfshark app. When you 
 ### What about AdGuard DNS as a free option?
 AdGuard DNS is a free DNS resolver you can configure manually in your iOS or Android network settings. It will block ads at the DNS level for free, which is genuinely useful. The trade-off: no VPN encryption, manual setup can be overridden by apps that use their own DNS (DNS-over-HTTPS), and no kill switch. For users comfortable with network config, it is a solid free baseline.
 
-**[Get Surfshark CleanWeb — best mobile ad blocker in 2026 →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ublock-origin-mobile-2026__faq)**
+**[Get Surfshark CleanWeb — best mobile ad blocker in 2026 →](/blog/surfshark?sub=ublock-origin-mobile-2026__faq)**
 
 ---
 
@@ -183,7 +183,7 @@ If you want genuine mobile ad blocking — across browsers, across apps, on what
 
 Your phone deserves the same protection your desktop gets.
 
-**[Try Surfshark CleanWeb free for 30 days →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ublock-origin-mobile-2026__cta)**
+**[Try Surfshark CleanWeb free for 30 days →](/blog/surfshark?sub=ublock-origin-mobile-2026__cta)**
 
 ---
 

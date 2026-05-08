@@ -14,7 +14,7 @@ This plain-English guide walks you through every step. No confusing jargon, no r
 
 > **Quick Verdict**
 >
-> Windows Defender (now called [Microsoft Defender Antivirus](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)) is a solid, free security tool that comes pre-installed on every [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and Windows 11 computer. For most seniors, turning it on and keeping it updated is enough for everyday browsing, email, and online banking. It guards against viruses, spyware, and ransomware automatically. The only gap: it does not protect your internet connection on public Wi-Fi. For that extra layer, a trusted [antivirus](https://snipstack.io/vs-antivirus-2026/) bundle like **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-download-2026__above-fold)** adds real-time web protection and a privacy shield — all in one affordable package.
+> Windows Defender (now called [Microsoft Defender Antivirus](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)) is a solid, free security tool that comes pre-installed on every [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and Windows 11 computer. For most seniors, turning it on and keeping it updated is enough for everyday browsing, email, and online banking. It guards against viruses, spyware, and ransomware automatically. The only gap: it does not protect your internet connection on public Wi-Fi. For that extra layer, a trusted [antivirus](https://snipstack.io/vs-antivirus-2026/) bundle like **[Surfshark Antivirus](/blog/surfshark?sub=windows-defender-download-2026__above-fold)** adds real-time web protection and a privacy shield — all in one affordable package.
 
 ---
 
@@ -129,7 +129,7 @@ Windows Defender is genuinely good — far better than nothing, and good enough 
 
 When you use public Wi-Fi at a coffee shop, library, or doctor's waiting room, criminals can sometimes "listen in" on your connection. Windows Defender cannot see what happens on the network — it only guards the files already on your computer.
 
-That is why many security experts recommend pairing Windows Defender with an antivirus bundle that also covers your internet traffic. **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-download-2026__mid)** is one option designed to be simple enough for non-technical users. It adds:
+That is why many security experts recommend pairing Windows Defender with an antivirus bundle that also covers your internet traffic. **[Surfshark Antivirus](/blog/surfshark?sub=windows-defender-download-2026__mid)** is one option designed to be simple enough for non-technical users. It adds:
 
 - Real-time web protection (blocks malicious websites before they load)
 - A privacy shield that hides your internet activity on public Wi-Fi
@@ -159,7 +159,7 @@ Automatically, usually every day. As long as your computer is connected to the i
 
 ### 5. What should I do if I think I already have a virus?
 
-Run a Full Scan immediately: go to Windows Security → Virus & threat protection → Scan options → Full scan → Scan now. If the scan finds something, follow the on-screen instructions to remove it. If problems continue, consider a more thorough security check with a dedicated tool like **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-download-2026__faq)**, which can catch threats that built-in tools sometimes miss.
+Run a Full Scan immediately: go to Windows Security → Virus & threat protection → Scan options → Full scan → Scan now. If the scan finds something, follow the on-screen instructions to remove it. If problems continue, consider a more thorough security check with a dedicated tool like **[Surfshark Antivirus](/blog/surfshark?sub=windows-defender-download-2026__faq)**, which can catch threats that built-in tools sometimes miss.
 
 ### 6. Will Windows Defender slow down my computer?
 
@@ -167,7 +167,7 @@ Very little. Microsoft has optimized it to run quietly in the background. Quick 
 
 ### 7. Does Windows Defender protect me from email scams?
 
-It scans email attachments if you use a desktop email program like Windows Mail or Outlook. However, it cannot read the text of suspicious emails or warn you before you click a bad link in your browser. For that kind of protection, a bundle like **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-download-2026__cta)** includes a web filter that blocks known scam and phishing pages before they open.
+It scans email attachments if you use a desktop email program like Windows Mail or Outlook. However, it cannot read the text of suspicious emails or warn you before you click a bad link in your browser. For that kind of protection, a bundle like **[Surfshark Antivirus](/blog/surfshark?sub=windows-defender-download-2026__cta)** includes a web filter that blocks known scam and phishing pages before they open.
 
 ---
 
@@ -175,6 +175,6 @@ It scans email attachments if you use a desktop email program like Windows Mail 
 
 You do not need to be a tech expert to stay safe online. Windows Defender is free, already on your computer, and takes less than ten minutes to turn on and run your first scan. Do it today — it is one of the best free steps you can take to protect yourself from viruses and scams.
 
-Once you have Defender running, the next step is protecting your internet connection, especially if you ever use Wi-Fi away from home. Check out **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-defender-download-2026__cta)** for a simple, senior-friendly upgrade that covers the gaps Windows Defender cannot reach.
+Once you have Defender running, the next step is protecting your internet connection, especially if you ever use Wi-Fi away from home. Check out **[Surfshark Antivirus](/blog/surfshark?sub=windows-defender-download-2026__cta)** for a simple, senior-friendly upgrade that covers the gaps Windows Defender cannot reach.
 
 Stay safe, take your time with each step, and remember: if something on your screen does not look right, it is always okay to pause and ask for help before clicking.

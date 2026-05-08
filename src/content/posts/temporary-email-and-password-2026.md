@@ -18,7 +18,7 @@ This guide walks you through the exact process, step by step, using Surfshark Al
 
 Alt-ID generates a masked email address and random personal details so your real inbox never touches sketchy signups. Setup takes under two minutes. Every email sent to your alias forwards to your real inbox, so you never miss something important. You can kill the alias the moment spam starts. For anyone drowning in promotional junk, this is the cleanest solution available in 2026.
 
-**[Get Alt-ID and clean your inbox now](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-2026__above-fold)**
+**[Get Alt-ID and clean your inbox now](/blog/surfshark?sub=temporary-email-and-password-2026__above-fold)**
 
 ---
 
@@ -43,7 +43,7 @@ Together, a temp email and password form a firewall between your digital identit
 
 Before you start, you need:
 
-1. **A Surfshark account** — Alt-ID is included with Surfshark One and Surfshark One+ plans. [Start here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-2026__mid)
+1. **A Surfshark account** — Alt-ID is included with Surfshark One and Surfshark One+ plans. [Start here.](/blog/surfshark?sub=temporary-email-and-password-2026__mid)
 2. **The Surfshark browser extension or app** — available for Chrome, Firefox, Edge, iOS, and Android.
 3. **A real email address** — this is your forwarding destination. Alt-ID never exposes it.
 
@@ -57,7 +57,7 @@ That is it. No technical knowledge required. No command line. No configuration f
 
 Open your browser's extension store and search for "Surfshark." Install the official extension. Once installed, click the icon in your toolbar and log in with your Surfshark credentials.
 
-If you do not have an account yet, [grab one here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-2026__mid) — Alt-ID is included automatically.
+If you do not have an account yet, [grab one here](/blog/surfshark?sub=temporary-email-and-password-2026__mid) — Alt-ID is included automatically.
 
 ### Step 2 — Open the Alt-ID Panel
 
@@ -137,7 +137,7 @@ Yes. 2FA emails sent to your alias forward to your real inbox just like any othe
 During any service interruption, emails to your alias may queue or bounce temporarily. For critical accounts, keep your real address as a backup recovery option in the account settings of that service.
 
 **How many aliases can I create?**
-Alt-ID allows multiple aliases per account. The exact limit depends on your plan tier. For most users, even a modest limit is more than enough — the goal is one alias per service, and most people interact with far fewer services than they think. [Check current plan limits here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-2026__faq)
+Alt-ID allows multiple aliases per account. The exact limit depends on your plan tier. For most users, even a modest limit is more than enough — the goal is one alias per service, and most people interact with far fewer services than they think. [Check current plan limits here.](/blog/surfshark?sub=temporary-email-and-password-2026__faq)
 
 ---
 
@@ -147,4 +147,4 @@ A temporary email and password is the fastest, lowest-effort way to stop spam at
 
 Stop handing your real address to every free trial and signup form on the internet. Set up Alt-ID once, and you will spend less time deleting spam and more time on everything else.
 
-**[Get Alt-ID and take back your inbox](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=temporary-email-and-password-2026__cta)**
+**[Get Alt-ID and take back your inbox](/blog/surfshark?sub=temporary-email-and-password-2026__cta)**

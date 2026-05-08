@@ -14,7 +14,7 @@ Finding the **best [spam call blocker](https://snipstack.io/spam-call-blocker-20
 
 **Quick Verdict:** Surfshark Alt-Number is the strongest all-round option for daters because it eliminates exposure before it starts. Give matches a disposable number, keep your real digits permanently private, and silence the channel the instant things go sideways. The other six options on this list are solid at filtering calls that have already reached your real number, but prevention beats cure.
 
-[Get Alt-Number and protect your real number today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-spam-call-blocker-2026__above-fold)
+[Get Alt-Number and protect your real number today](/blog/surfshark?sub=best-spam-call-blocker-2026__above-fold)
 
 ---
 
@@ -32,7 +32,7 @@ Alt-Number works independently of your SIM. Calls and texts land in the Alt-Numb
 
 The downside is that Alt-Number is a Surfshark subscription add-on rather than a standalone free app. For daters who already value online privacy — and most people who use apps like Hinge or Bumble do — the bundle with Surfshark VPN represents strong value. Call filtering, number privacy, and VPN protection all under one account.
 
-[Try Alt-Number with Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-spam-call-blocker-2026__mid)
+[Try Alt-Number with Surfshark](/blog/surfshark?sub=best-spam-call-blocker-2026__mid)
 
 ![How Alt-Number shields your real number in a dating context](/og/best-spam-call-blocker-2026-inline-1.png)
 
@@ -122,7 +122,7 @@ When you share your real number with a match, you have handed them a persistent 
 
 This is why Alt-Number ranks above the pure call-blocking apps on this list. Protection before exposure is more effective than damage control after.
 
-[See Alt-Number pricing and get started](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-spam-call-blocker-2026__cta)
+[See Alt-Number pricing and get started](/blog/surfshark?sub=best-spam-call-blocker-2026__cta)
 
 ---
 
@@ -130,7 +130,7 @@ This is why Alt-Number ranks above the pure call-blocking apps on this list. Pro
 
 **Does a spam call blocker hide my real phone number?**
 
-Most dedicated spam blockers — Hiya, RoboKiller, Nomorobo — do not hide your real number. They filter incoming traffic after your number is already known. If you want to keep your real number private, you need a second number tool like [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-spam-call-blocker-2026__faq) or Google Voice that lets you share an alternative number instead.
+Most dedicated spam blockers — Hiya, RoboKiller, Nomorobo — do not hide your real number. They filter incoming traffic after your number is already known. If you want to keep your real number private, you need a second number tool like [Surfshark Alt-Number](/blog/surfshark?sub=best-spam-call-blocker-2026__faq) or Google Voice that lets you share an alternative number instead.
 
 **Is Google Voice good enough for online dating privacy?**
 

@@ -14,7 +14,7 @@ But "AdGuard DNS" is not one single thing. There are multiple server options, co
 
 ## Quick Verdict
 
-For most mobile users, **AdGuard DNS Default** (94.140.14.14) paired with **Surfshark's CleanWeb** is the sweet spot: system-level DNS blocking plus VPN-layer filtering that catches what DNS alone misses. If you want zero-config protection right now, [grab Surfshark with CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-adguard-dns-2026__above-fold) — it activates in under a minute on any Android or iOS device and stacks on top of any DNS setup below.
+For most mobile users, **AdGuard DNS Default** (94.140.14.14) paired with **Surfshark's CleanWeb** is the sweet spot: system-level DNS blocking plus VPN-layer filtering that catches what DNS alone misses. If you want zero-config protection right now, [grab Surfshark with CleanWeb](/blog/surfshark?sub=top-adguard-dns-2026__above-fold) — it activates in under a minute on any Android or iOS device and stacks on top of any DNS setup below.
 
 ---
 
@@ -78,7 +78,7 @@ This is the combination that actually works in 2026. DNS-level blocking catches 
 
 Together they handle 95%+ of mobile ad scenarios: in-app banner ads, video pre-rolls, retargeting trackers, social media pixel fires, and DNS rebinding attacks. Neither tool alone gets this coverage.
 
-[Activate Surfshark CleanWeb now](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-adguard-dns-2026__mid) — it's included in every Surfshark plan, one tap to enable in the app's Features tab. Set your Private DNS to `dns.adguard-dns.com` on Android or install the AdGuard DoH profile on iOS, connect Surfshark, and you're running dual-layer protection.
+[Activate Surfshark CleanWeb now](/blog/surfshark?sub=top-adguard-dns-2026__mid) — it's included in every Surfshark plan, one tap to enable in the app's Features tab. Set your Private DNS to `dns.adguard-dns.com` on Android or install the AdGuard DoH profile on iOS, connect Surfshark, and you're running dual-layer protection.
 
 The practical difference: on a major news site, DNS alone typically removes ~60% of ads. DNS + CleanWeb removes ~90%+. The remaining fraction are native ads integrated into editorial content — no automated tool blocks those, and nor should it.
 
@@ -128,7 +128,7 @@ For Samsung users: One UI adds a Private DNS setting directly in the Connections
 
 For 90% of mobile users, the answer is **Option 5**: set `dns.adguard-dns.com` as your Private DNS and pair it with Surfshark CleanWeb. You get encrypted DNS, domain-level ad blocking, VPN-layer filtering, and a no-log privacy policy — all managed from two simple settings.
 
-[Get Surfshark with CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-adguard-dns-2026__cta) and spend three minutes on setup. Your battery will thank you (fewer ad scripts = less background processing), your data plan will stretch further, and you'll stop rage-closing apps every time a fullscreen ad fires.
+[Get Surfshark with CleanWeb](/blog/surfshark?sub=top-adguard-dns-2026__cta) and spend three minutes on setup. Your battery will thank you (fewer ad scripts = less background processing), your data plan will stretch further, and you'll stop rage-closing apps every time a fullscreen ad fires.
 
 ---
 
@@ -144,7 +144,7 @@ Not meaningfully. AdGuard's anycast infrastructure puts servers close to most gl
 
 ### Does AdGuard DNS log my browsing activity?
 
-AdGuard's public DNS operates under a no-log policy — queries are not stored beyond the session. For additional privacy at the connection layer, pairing DNS with [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=top-adguard-dns-2026__faq) means your ISP cannot see your traffic at all.
+AdGuard's public DNS operates under a no-log policy — queries are not stored beyond the session. For additional privacy at the connection layer, pairing DNS with [Surfshark](/blog/surfshark?sub=top-adguard-dns-2026__faq) means your ISP cannot see your traffic at all.
 
 ### Can I use AdGuard DNS on cellular (not just Wi-Fi)?
 

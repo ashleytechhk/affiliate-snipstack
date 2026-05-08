@@ -12,7 +12,7 @@ But is "free" actually protecting you in 2026? Or is it trading your data for a 
 
 This comparison cuts through the marketing. We pit **Avast [Free Antivirus](https://snipstack.io/vs-free-antivirus-2026/)** against **Surfshark One** — a full security suite that bundles [antivirus](https://snipstack.io/vs-antivirus-2026/), VPN, data breach alerts, and private search into one subscription — to show you exactly what you gain, what you give up, and which is worth your money (or lack of it).
 
-**[See Surfshark One plans and pricing →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=avast-free-antivirus-2026__above-fold)**
+**[See Surfshark One plans and pricing →](/blog/surfshark?sub=avast-free-antivirus-2026__above-fold)**
 
 ---
 
@@ -73,7 +73,7 @@ Surfshark One includes a full VPN (3,200+ servers, 100+ locations, WireGuard pro
 
 If you work from coffee shops, travel, or just want your ISP out of your business, a VPN is not optional anymore. Paying for antivirus and then separately paying for a VPN means you are almost certainly spending more than Surfshark One costs per month.
 
-**[Check current Surfshark One bundle pricing →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=avast-free-antivirus-2026__mid)**
+**[Check current Surfshark One bundle pricing →](/blog/surfshark?sub=avast-free-antivirus-2026__mid)**
 
 ---
 
@@ -133,7 +133,7 @@ Surfshark One is exactly that. One subscription. AV + VPN + breach alerts + priv
 
 The per-month cost works out to less than most single-product VPN subscriptions. If you were already considering adding a VPN anyway (and if you are reading security comparison articles in 2026, you were), Surfshark One is structurally cheaper than building a comparable stack from separate tools.
 
-**[Get Surfshark One — all-in-one protection →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=avast-free-antivirus-2026__cta)**
+**[Get Surfshark One — all-in-one protection →](/blog/surfshark?sub=avast-free-antivirus-2026__cta)**
 
 ---
 
@@ -153,7 +153,7 @@ The biggest gaps: no VPN, no data breach monitoring, no ransomware protection (f
 
 ### Is Surfshark One better than Avast Free for someone who travels?
 
-Significantly, yes. Travel makes VPN a necessity, not a nice-to-have — public Wi-Fi at airports and hotels is a well-documented attack vector. Since Avast Free includes no VPN, a traveling user would need a separate subscription. Surfshark One's included VPN (WireGuard protocol, 3,200+ servers) handles this, and the unlimited-device policy means your phone and laptop are both covered under one plan. [See Surfshark One plans here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=avast-free-antivirus-2026__faq)
+Significantly, yes. Travel makes VPN a necessity, not a nice-to-have — public Wi-Fi at airports and hotels is a well-documented attack vector. Since Avast Free includes no VPN, a traveling user would need a separate subscription. Surfshark One's included VPN (WireGuard protocol, 3,200+ servers) handles this, and the unlimited-device policy means your phone and laptop are both covered under one plan. [See Surfshark One plans here.](/blog/surfshark?sub=avast-free-antivirus-2026__faq)
 
 ### How much does Avast Free actually cost when you add the features you need?
 
@@ -175,4 +175,4 @@ Avast Free Antivirus in 2026 is not bad software. It is limited software with a 
 
 If you want a clean break — one subscription, no upsells, full protection across every device you own — Surfshark One is the upgrade that actually makes sense. It costs less per month than the VPN you would have bought separately anyway.
 
-**[Start your Surfshark One trial — 30-day money-back guarantee →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=avast-free-antivirus-2026__cta)**
+**[Start your Surfshark One trial — 30-day money-back guarantee →](/blog/surfshark?sub=avast-free-antivirus-2026__cta)**

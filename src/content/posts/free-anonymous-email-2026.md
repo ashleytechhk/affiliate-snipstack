@@ -18,7 +18,7 @@ This guide walks you through creating a free anonymous [email alias](https://sni
 
 Alt-ID generates disposable [email alias](https://snipstack.io/email-alias-gmail-2026/)es that forward to your real inbox, keeping your actual address hidden from every site you sign up to. It is included free with a Surfshark One subscription, takes under two minutes to set up, and works on every platform. If you receive 50+ spam messages a day, a masked-alias approach cuts that number closer to zero within a week. It does not replace your inbox — it shields it.
 
-[Get Alt-ID free with Surfshark One](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-anonymous-email-2026__above-fold)
+[Get Alt-ID free with Surfshark One](/blog/surfshark?sub=free-anonymous-email-2026__above-fold)
 
 ---
 
@@ -38,7 +38,7 @@ That is the full list. You do not need a separate email provider, a browser exte
 
 Navigate to the Alt-ID signup page using the link below. Alt-ID is bundled inside Surfshark One, which includes the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and the Alert data-breach monitor alongside the alias feature.
 
-[Start your Surfshark One plan](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-anonymous-email-2026__above-fold)
+[Start your Surfshark One plan](/blog/surfshark?sub=free-anonymous-email-2026__above-fold)
 
 Choose your plan, enter your payment details, and confirm your account via the verification email Surfshark sends. Keep this verification email — it proves your account is active before you move to Step 2.
 
@@ -124,7 +124,7 @@ Your Alt-ID aliases sync across every device where you are logged into Surfshark
 
 For browsers, Surfshark offers a browser extension. When it detects an email field on a signup form, it can suggest your Alt-ID alias automatically — no copy-pasting required.
 
-[Add Alt-ID to all your devices](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-anonymous-email-2026__mid)
+[Add Alt-ID to all your devices](/blog/surfshark?sub=free-anonymous-email-2026__mid)
 
 ---
 
@@ -150,7 +150,7 @@ Use the label field consistently from the start. Brief, descriptive labels like 
 ## Frequently Asked Questions
 
 **Is Alt-ID actually free?**
-Alt-ID is included with Surfshark One. There is no standalone free tier, but Surfshark One bundles the VPN, antivirus, data-breach monitor, and Alt-ID together, which makes the per-feature cost low. You can start with a free trial. [See current pricing here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-anonymous-email-2026__faq)
+Alt-ID is included with Surfshark One. There is no standalone free tier, but Surfshark One bundles the VPN, antivirus, data-breach monitor, and Alt-ID together, which makes the per-feature cost low. You can start with a free trial. [See current pricing here.](/blog/surfshark?sub=free-anonymous-email-2026__faq)
 
 **Does this make me truly untraceable?**
 Using an [email alias](https://snipstack.io/how-email-alias-2026/) hides your real address from the services you sign up to. It does not make you fully untraceable across the internet — that would require additional tools. Think of it as preventing your inbox address from being exposed, not as complete anonymity online.
@@ -172,4 +172,4 @@ Getting a free anonymous email alias in 2026 is a five-minute task, not a comple
 
 Alt-ID handles all of this inside the Surfshark app, with multi-device sync and an easy alias manager. If a flood of daily spam is eating your time and attention, this is the most direct fix available.
 
-[Get Alt-ID with Surfshark One — start your free trial](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-anonymous-email-2026__cta)
+[Get Alt-ID with Surfshark One — start your free trial](/blog/surfshark?sub=free-anonymous-email-2026__cta)

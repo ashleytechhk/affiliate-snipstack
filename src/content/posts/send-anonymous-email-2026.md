@@ -12,7 +12,7 @@ Sending [anonymous email](https://snipstack.io/anonymous-email-2026/), or more p
 
 This guide walks you through exactly how to do it in 2026, step by step, from the fast option to the more robust setup that keeps you protected long-term.
 
-> **[Try Surfshark Alt ID — get a private alias that blocks spam at the source](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=send-anonymous-email-2026__above-fold)**
+> **[Try Surfshark Alt ID — get a private alias that blocks spam at the source](/blog/surfshark?sub=send-anonymous-email-2026__above-fold)**
 
 ---
 
@@ -50,7 +50,7 @@ You do not need technical knowledge, a VPN running, or any browser extensions be
 
 **1.1** Go to Surfshark via this link and choose a plan that includes Alt ID (Surfshark One or Surfshark One+):
 
-> **[Get started with Surfshark Alt ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=send-anonymous-email-2026__mid)**
+> **[Get started with Surfshark Alt ID](/blog/surfshark?sub=send-anonymous-email-2026__mid)**
 
 **1.2** Complete account creation. Use a strong password and store it in a password manager.
 
@@ -180,7 +180,7 @@ Yes. Alt ID is account-based, not device-based. Any alias you create shows up in
 **Is Surfshark Alt ID worth it compared to free disposable email services?**
 Free disposable email services (like Temp Mail or Guerrilla Mail) give you an inbox that disappears after a set time and is public — anyone who knows the address can read your emails. Alt ID is private and forwards to your real inbox, meaning you do not miss confirmations, you control the alias lifespan, and your forwarded emails are not publicly accessible. For ongoing privacy rather than one-off throwaway use, Alt ID is the stronger option.
 
-> **[Start protecting your inbox with Surfshark Alt ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=send-anonymous-email-2026__faq)**
+> **[Start protecting your inbox with Surfshark Alt ID](/blog/surfshark?sub=send-anonymous-email-2026__faq)**
 
 ---
 
@@ -190,4 +190,4 @@ Your real email address is a liability the moment you give it to anyone you do n
 
 The steps above take less than ten minutes to implement. The payoff is an inbox that reflects what you actually chose to receive.
 
-> **[Get Surfshark Alt ID and stop spam at the source](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=send-anonymous-email-2026__cta)**
+> **[Get Surfshark Alt ID and stop spam at the source](/blog/surfshark?sub=send-anonymous-email-2026__cta)**

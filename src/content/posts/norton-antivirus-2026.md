@@ -20,7 +20,7 @@ We will cover protection quality, speed impact, features, price, and everyday us
 
 **Bottom line:** Norton wins on brand recognition. Surfshark One wins on value, breadth of features, and not making you feel like a cash machine.
 
-[Get Surfshark One Bundle — see current deal](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-2026__above-fold)
+[Get Surfshark One Bundle — see current deal](/blog/surfshark?sub=norton-antivirus-2026__above-fold)
 
 ---
 
@@ -73,7 +73,7 @@ Surfshark's VPN — the core of the One Bundle — is a full-featured VPN with 3
 
 For users who stream from abroad, work remotely across networks, or just want reliable privacy on public Wi-Fi, Surfshark's VPN component is meaningfully better than Norton's bundled offering.
 
-[Compare Surfshark One Bundle pricing](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-2026__mid)
+[Compare Surfshark One Bundle pricing](/blog/surfshark?sub=norton-antivirus-2026__mid)
 
 ---
 
@@ -139,7 +139,7 @@ For the majority of users making this comparison in 2026: **Surfshark One Bundle
 
 If you are sitting on a Norton subscription that is about to renew, that notice is a natural time to reassess.
 
-[Switch to Surfshark One Bundle — 30-day money-back guarantee](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-2026__cta)
+[Switch to Surfshark One Bundle — 30-day money-back guarantee](/blog/surfshark?sub=norton-antivirus-2026__cta)
 
 ---
 
@@ -159,7 +159,7 @@ Surfshark operates a verified no-logs VPN policy, audited by Deloitte. Unlike so
 
 ### What happens after Norton's first-year promotional price ends?
 
-Norton's renewal price typically increases significantly — sometimes 2–3x the introductory rate. This is a known practice. If you want to avoid renewal bill shock, [locking in a multi-year Surfshark One plan](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-2026__faq) upfront provides more pricing predictability.
+Norton's renewal price typically increases significantly — sometimes 2–3x the introductory rate. This is a known practice. If you want to avoid renewal bill shock, [locking in a multi-year Surfshark One plan](/blog/surfshark?sub=norton-antivirus-2026__faq) upfront provides more pricing predictability.
 
 ### Does Surfshark One include a money-back guarantee?
 

@@ -16,7 +16,7 @@ The good news: Android has more powerful ad-blocking options than any other mobi
 
 If you want the most comprehensive ad-blocking on Android — covering browsers, apps, and trackers at the network level — **[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/)** is the standout pick. It blocks ads and trackers across your whole device without requiring root, runs quietly in the background, and pairs with a full VPN for privacy. For users who only need browser-level blocking, [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) via Firefox is the strongest free alternative. Everyone else falls somewhere in between.
 
-> **Ready to block ads device-wide?** [Try Surfshark CleanWeb on Android](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-for-android-2026__above-fold) — covers browsers and apps, no root needed.
+> **Ready to block ads device-wide?** [Try Surfshark CleanWeb on Android](/blog/surfshark?sub=adblock-plus-for-android-2026__above-fold) — covers browsers and apps, no root needed.
 
 ---
 
@@ -36,7 +36,7 @@ Setup takes under three minutes. Install the Surfshark app, toggle CleanWeb on i
 
 The trade-off is that CleanWeb requires an active VPN connection to work, which means you are routing traffic through Surfshark's servers. For most users this is a net positive (privacy + ad blocking in one), but if you specifically want ad blocking without a VPN active, look further down this list.
 
-[Block ads on every Android app with Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-for-android-2026__mid)
+[Block ads on every Android app with Surfshark CleanWeb](/blog/surfshark?sub=adblock-plus-for-android-2026__mid)
 
 ---
 
@@ -128,7 +128,7 @@ Not directly. Chrome for Android does not support extensions, so Adblock Plus ca
 
 Yes. System-level [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/)s that use a local or remote VPN tunnel — like Surfshark CleanWeb or AdGuard's premium tier — can filter traffic for all apps including in-app ads, without requiring root access. DNS-based blockers (NextDNS, Private DNS) can also partially block in-app ad networks at the DNS layer. Browser-only tools like uBlock Origin cannot block in-app ads.
 
-[Block in-app ads on Android without root](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-for-android-2026__faq) — Surfshark CleanWeb handles this in one tap.
+[Block in-app ads on Android without root](/blog/surfshark?sub=adblock-plus-for-android-2026__faq) — Surfshark CleanWeb handles this in one tap.
 
 ### Will ad blocking drain my battery faster?
 
@@ -150,4 +150,4 @@ For most Android users in 2026, **Surfshark CleanWeb** is the practical choice: 
 
 The mobile web has gotten more aggressive, not less. Running at least one layer of ad blocking on your Android device is no longer optional if you care about load times, battery life, or basic privacy.
 
-> **Stop seeing ads on every app.** [Get Surfshark CleanWeb for Android](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-for-android-2026__cta) and block ads at the network level — no root, no fuss.
+> **Stop seeing ads on every app.** [Get Surfshark CleanWeb for Android](/blog/surfshark?sub=adblock-plus-for-android-2026__cta) and block ads at the network level — no root, no fuss.

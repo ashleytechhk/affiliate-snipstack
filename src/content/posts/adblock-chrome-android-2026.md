@@ -12,7 +12,7 @@ Mobile browsing in 2026 is faster than ever — and more cluttered than ever. Ad
 
 Good news: you have real options. Whether you want a lightweight browser extension workaround, a privacy-first alternative browser, or a network-level blocker that covers every app on your phone, there's a solution that fits.
 
-**[Block ads system-wide on Android now with Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-chrome-android-2026__above-fold)**
+**[Block ads system-wide on Android now with Surfshark CleanWeb](/blog/surfshark?sub=adblock-chrome-android-2026__above-fold)**
 
 ---
 
@@ -32,7 +32,7 @@ Setup takes about two minutes: install Surfshark, connect to any server, and ena
 
 The extra privacy benefit is real: CleanWeb strips tracking pixels and prevents cross-site tracking that standard browser-based blockers miss. If you're already using a VPN (and in 2026, most privacy-conscious users are), this is the zero-friction upgrade — you're not adding a new tool, you're unlocking a feature you already have.
 
-**[Get Surfshark CleanWeb and block ads on every app](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-chrome-android-2026__mid)**
+**[Get Surfshark CleanWeb and block ads on every app](/blog/surfshark?sub=adblock-chrome-android-2026__mid)**
 
 ---
 
@@ -132,7 +132,7 @@ Quad9 DNS                | DNS           | Yes           | Partial | Very low
 No. Chrome for Android does not support browser extensions. Extension support is a desktop-only feature. To block ads in Chrome on Android, you need either a network-level solution (VPN blocker, DNS blocker) or to switch to a browser that supports extensions or has native blocking built in.
 
 **Does Surfshark CleanWeb actually block ads or just some of them?**
-CleanWeb blocks ads and trackers at the DNS level — any request to a known ad or tracker domain is dropped before it loads. It covers the vast majority of display and banner ads across websites and apps. Some ad formats that share infrastructure with legitimate content (certain video platform ads) may still appear. [See what CleanWeb covers here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-chrome-android-2026__faq)
+CleanWeb blocks ads and trackers at the DNS level — any request to a known ad or tracker domain is dropped before it loads. It covers the vast majority of display and banner ads across websites and apps. Some ad formats that share infrastructure with legitimate content (certain video platform ads) may still appear. [See what CleanWeb covers here.](/blog/surfshark?sub=adblock-chrome-android-2026__faq)
 
 **Will an [ad blocker](https://snipstack.io/top-ad-blocker-2026/) slow down my Android phone?**
 Generally, no — [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s speed up browsing by preventing ad content from loading. A VPN-based blocker adds a small overhead from the VPN tunnel, but Surfshark's infrastructure is fast enough that most users see net load-time improvements because so much ad content is never downloaded.
@@ -153,4 +153,4 @@ For most users, the practical recommendation is simple: if you're privacy-consci
 
 **Ready to block ads across your entire Android phone — not just in the browser?**
 
-**[Try Surfshark CleanWeb — covers Chrome, apps, and everything else](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-chrome-android-2026__cta)**
+**[Try Surfshark CleanWeb — covers Chrome, apps, and everything else](/blog/surfshark?sub=adblock-chrome-android-2026__cta)**

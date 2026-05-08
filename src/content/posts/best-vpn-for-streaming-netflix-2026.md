@@ -22,7 +22,7 @@ Surfshark also includes CleanWeb (DNS-level ad blocking) in the same subscriptio
 
 > **Get Surfshark — streaming VPN that actually works in 2026**
 > Netflix, Disney+, BBC iPlayer, Hulu. Unlimited devices. 30-day money-back guarantee.
-> [Get Surfshark VPN](/go/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__above-fold)
+> [Get Surfshark VPN](/blog/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__above-fold)
 
 ---
 
@@ -76,7 +76,7 @@ Surfshark's streaming performance in April 2026 testing:
 - CleanWeb ad blocking included — blocks ads on free streaming tiers (Pluto TV, Tubi, etc.) and pre-roll ads on YouTube
 
 > **Start streaming with Surfshark — 30-day money-back guarantee**
-> [Get Surfshark](/go/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__listicle-row1)
+> [Get Surfshark](/blog/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__listicle-row1)
 
 ---
 
@@ -141,7 +141,7 @@ Netflix has different catalogs in different countries — films and shows availa
 With Surfshark connected to a server in any of these countries, your Netflix account shows you that country's catalog. Your subscription does not change — you are just appearing to Netflix as a local viewer.
 
 > **Unlock Netflix libraries in other countries with Surfshark**
-> [Get Surfshark VPN](/go/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__netflix-section)
+> [Get Surfshark VPN](/blog/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__netflix-section)
 
 ---
 
@@ -265,7 +265,7 @@ If you pay for a VPN for streaming, CleanWeb adds meaningful value at no extra c
 **Streaming service trackers:** Streaming platforms embed extensive tracking in their apps and sites. CleanWeb blocks these trackers without affecting playback.
 
 > **Get Surfshark — VPN + CleanWeb in one subscription**
-> [Start streaming without limits](/go/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__cleanweb-section)
+> [Start streaming without limits](/blog/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__cleanweb-section)
 
 ---
 
@@ -313,7 +313,7 @@ If streaming is occasionally valuable but not your primary reason for a VPN, Nor
 
 > **Get Surfshark — the streaming VPN that works in 2026**
 > Unlimited devices. 30-day money-back guarantee. CleanWeb included.
-> [Get Surfshark VPN](/go/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__bottom-cta)
+> [Get Surfshark VPN](/blog/vpn?sub=best-vpn-for-streaming-netflix-2026__vpn__bottom-cta)
 
 ---
 

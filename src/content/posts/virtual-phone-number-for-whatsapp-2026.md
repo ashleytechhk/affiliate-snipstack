@@ -18,7 +18,7 @@ This guide covers the seven best options in 2026, what each one does well, and e
 
 ## Quick Verdict
 
-**Surfshark Alt-Number is the top pick for online daters.** It gives you a real, functional number that works with WhatsApp verification in minutes, costs less than a coffee per month, and lets you retire the number instantly if a date turns uncomfortable. No SIM card, no carrier contract, no drama. If you want one setup that covers WhatsApp privacy and broader online safety in one subscription, [grab Alt-Number here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-for-whatsapp-2026__above-fold) and skip the rest of this article. If you want the full comparison, read on.
+**Surfshark Alt-Number is the top pick for online daters.** It gives you a real, functional number that works with WhatsApp verification in minutes, costs less than a coffee per month, and lets you retire the number instantly if a date turns uncomfortable. No SIM card, no carrier contract, no drama. If you want one setup that covers WhatsApp privacy and broader online safety in one subscription, [grab Alt-Number here](/blog/surfshark?sub=virtual-phone-number-for-whatsapp-2026__above-fold) and skip the rest of this article. If you want the full comparison, read on.
 
 ---
 
@@ -40,7 +40,7 @@ Alt-Number is Surfshark's dedicated virtual number product, and it is purpose-bu
 
 What makes Alt-Number stand out for daters specifically is the disposability. You are not locked into a number forever. You can change numbers inside the app, which means if a match becomes a problem, the digital thread between you and them is cleanly cut. The app also pairs naturally with Surfshark's VPN and data removal tools — useful if your WhatsApp profile picture ever gets reverse-searched.
 
-Pricing sits comfortably below most competitors at the time of writing. If you already use Surfshark VPN, the bundle pricing makes Alt-Number borderline free. [Start your Alt-Number trial here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-for-whatsapp-2026__mid) — it takes under three minutes to set up a working WhatsApp-ready number.
+Pricing sits comfortably below most competitors at the time of writing. If you already use Surfshark VPN, the bundle pricing makes Alt-Number borderline free. [Start your Alt-Number trial here](/blog/surfshark?sub=virtual-phone-number-for-whatsapp-2026__mid) — it takes under three minutes to set up a working WhatsApp-ready number.
 
 ---
 
@@ -156,7 +156,7 @@ WhatsApp checks numbers against known VoIP ranges, and some services get flagged
 
 ### Is it legal to use a virtual number for WhatsApp?
 
-Yes, in virtually all jurisdictions. Using a virtual number is the same as owning a second SIM — you are receiving calls and texts through software rather than hardware. The legal question that matters is what you do with the number, not the number itself. [See how Alt-Number handles compliance here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-for-whatsapp-2026__faq)
+Yes, in virtually all jurisdictions. Using a virtual number is the same as owning a second SIM — you are receiving calls and texts through software rather than hardware. The legal question that matters is what you do with the number, not the number itself. [See how Alt-Number handles compliance here.](/blog/surfshark?sub=virtual-phone-number-for-whatsapp-2026__faq)
 
 ### What happens to my WhatsApp account if I cancel the virtual number?
 
@@ -168,7 +168,7 @@ Yes. Most virtual number services let you pick a number from multiple countries.
 
 ### Do I need a VPN alongside a virtual number for dating privacy?
 
-A virtual number protects your phone number from being tied back to your identity. A VPN protects your IP address and encrypts your traffic. They address different threat vectors. For comprehensive privacy while dating online, using both together is the stronger setup — and Surfshark's bundle of VPN plus Alt-Number is one of the most cost-effective ways to cover both bases. [See current bundle pricing here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-for-whatsapp-2026__faq)
+A virtual number protects your phone number from being tied back to your identity. A VPN protects your IP address and encrypts your traffic. They address different threat vectors. For comprehensive privacy while dating online, using both together is the stronger setup — and Surfshark's bundle of VPN plus Alt-Number is one of the most cost-effective ways to cover both bases. [See current bundle pricing here.](/blog/surfshark?sub=virtual-phone-number-for-whatsapp-2026__faq)
 
 ### Can I run two WhatsApp accounts on one phone using a virtual number?
 
@@ -184,4 +184,4 @@ For online daters, the calculus is simple: the cost of a bad actor getting your 
 
 **Surfshark Alt-Number remains the easiest, most reliable option for 2026.** It works, it is priced fairly, and the ability to change or retire your number at any time fits the natural rhythm of dating — meet people, move on, keep your digital life clean.
 
-[Get Surfshark Alt-Number and set up your private WhatsApp in minutes.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-for-whatsapp-2026__cta)
+[Get Surfshark Alt-Number and set up your private WhatsApp in minutes.](/blog/surfshark?sub=virtual-phone-number-for-whatsapp-2026__cta)

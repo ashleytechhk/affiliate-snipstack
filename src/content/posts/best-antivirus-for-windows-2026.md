@@ -14,7 +14,7 @@ If you use a Windows laptop or desktop, viruses and online scams are a real thre
 
 For most seniors in 2026, **Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/)** is the standout pick. It covers unlimited Windows devices on one subscription, runs quietly in the background without slowing your computer down, and includes real-time protection against viruses, ransomware, and phishing links. The interface is clean and big enough to read at a glance — no confusing menus. If you want straightforward, set-it-and-forget-it protection at a fair price, this is the one to start with.
 
-**[Get Surfshark Antivirus — protected in minutes](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-windows-2026__above-fold)**
+**[Get Surfshark Antivirus — protected in minutes](/blog/surfshark?sub=best-antivirus-for-windows-2026__above-fold)**
 
 ---
 
@@ -51,7 +51,7 @@ A good antivirus catches all of these automatically, before they cause harm. Thi
 
 Open your web browser (Edge, Chrome, or Firefox — any will work) and click this link:
 
-**[Start your Surfshark Antivirus plan here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-windows-2026__mid)**
+**[Start your Surfshark Antivirus plan here](/blog/surfshark?sub=best-antivirus-for-windows-2026__mid)**
 
 > **Screenshot placeholder:** [Image of the Surfshark Antivirus homepage with the pricing plans visible]
 
@@ -168,7 +168,7 @@ Yes. The Surfshark website uses secure, encrypted payment processing (look for t
 
 **What if I need help setting it up?**
 
-Surfshark has 24/7 live chat support — you can ask a real person to walk you through any step. You can also [visit this page to get started](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-windows-2026__faq) and find links to their help center.
+Surfshark has 24/7 live chat support — you can ask a real person to walk you through any step. You can also [visit this page to get started](/blog/surfshark?sub=best-antivirus-for-windows-2026__faq) and find links to their help center.
 
 ---
 
@@ -178,6 +178,6 @@ Getting protected online in 2026 does not need to be complicated or expensive. S
 
 Follow the nine steps above and you will have reliable protection running within 15 minutes. The 30-day money-back guarantee means there is no risk in trying it — if for any reason it is not right for you, you get a full refund.
 
-**[Protect your Windows PC today with Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-windows-2026__cta)**
+**[Protect your Windows PC today with Surfshark Antivirus](/blog/surfshark?sub=best-antivirus-for-windows-2026__cta)**
 
 *Prices and plan availability are accurate as of the publish date and subject to change. This article contains affiliate links — if you purchase through them, we may earn a small commission at no extra cost to you.*

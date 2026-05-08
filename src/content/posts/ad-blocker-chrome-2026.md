@@ -12,7 +12,7 @@ The good news: ad blocking on mobile Chrome has matured significantly by 2026. Y
 
 This guide ranks the seven best [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) options for Chrome on mobile, explains what each one actually blocks, and cuts through the marketing fluff so you can pick the right tool for how you actually use your phone.
 
-**[Block ads across Chrome and every other app on your phone with Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ad-blocker-chrome-2026__above-fold)** — works at the network level, no extension needed.
+**[Block ads across Chrome and every other app on your phone with Surfshark CleanWeb](/blog/surfshark?sub=ad-blocker-chrome-2026__above-fold)** — works at the network level, no extension needed.
 
 ---
 
@@ -34,7 +34,7 @@ Setup is three taps: install Surfshark, enable CleanWeb in settings, connect. Do
 
 For mobile power users who juggle multiple apps alongside Chrome browsing, CleanWeb's system-wide reach is genuinely valuable. You're not just cleaning up Chrome; you're cleaning up your entire phone's traffic. Battery and data savings are a real side effect, not marketing copy.
 
-**[Try Surfshark CleanWeb — 30-day money-back guarantee](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ad-blocker-chrome-2026__above-fold)**
+**[Try Surfshark CleanWeb — 30-day money-back guarantee](/blog/surfshark?sub=ad-blocker-chrome-2026__above-fold)**
 
 ---
 
@@ -128,7 +128,7 @@ Network-level solutions — whether a VPN-based approach like CleanWeb or a DNS-
 
 For 2026, if you're a mobile-first user who spends serious time in Chrome, the practical recommendation is: stop fighting the extension ecosystem and go network-level. The setup is easier, the coverage is broader, and it works across every app — not just your browser.
 
-**[Get Surfshark CleanWeb — covers Chrome and every other app on your phone](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ad-blocker-chrome-2026__mid)**
+**[Get Surfshark CleanWeb — covers Chrome and every other app on your phone](/blog/surfshark?sub=ad-blocker-chrome-2026__mid)**
 
 ---
 
@@ -140,7 +140,7 @@ Not in the way desktop Chrome does. Google's Manifest v3 transition significantl
 
 ### Can I block ads in Chrome on iPhone?
 
-Chrome on iOS doesn't support content-blocking extensions at all — that's an Apple restriction, not a Google one. Your best options are: a VPN with built-in ad blocking like [Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ad-blocker-chrome-2026__faq), a DNS-based filtering service configured at the system level, or switching to Safari where content-blocking extensions are supported natively.
+Chrome on iOS doesn't support content-blocking extensions at all — that's an Apple restriction, not a Google one. Your best options are: a VPN with built-in ad blocking like [Surfshark CleanWeb](/blog/surfshark?sub=ad-blocker-chrome-2026__faq), a DNS-based filtering service configured at the system level, or switching to Safari where content-blocking extensions are supported natively.
 
 ### Will an [ad blocker](https://snipstack.io/ad-blocker-free-2026/) slow down my phone or Chrome?
 
@@ -174,4 +174,4 @@ Browser-specific solutions like Brave (if you're open to switching) and DNS filt
 
 Pick the layer that fits your workflow — and stop watching ads load on your phone.
 
-**[Start blocking ads network-wide with Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=ad-blocker-chrome-2026__cta)**
+**[Start blocking ads network-wide with Surfshark CleanWeb](/blog/surfshark?sub=ad-blocker-chrome-2026__cta)**

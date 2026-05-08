@@ -22,7 +22,7 @@ Here are the 7 [best second phone](https://snipstack.io/best-second-phone-number
 
 ## Quick Verdict
 
-The free options work fine for light use — Google Voice for US-based daters, TextNow for calls and texts on a budget. But free almost always means tradeoffs: geographic limits, VoIP numbers that apps reject, or ads. If you're serious about dating privacy and want a number that reliably passes SMS verification on Tinder, Hinge, and Bumble, **[Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-app-free-2026__above-fold)** is the one that holds up globally without a second SIM or second phone. Free options listed below are real and worth trying — just know their limits before you commit.
+The free options work fine for light use — Google Voice for US-based daters, TextNow for calls and texts on a budget. But free almost always means tradeoffs: geographic limits, VoIP numbers that apps reject, or ads. If you're serious about dating privacy and want a number that reliably passes SMS verification on Tinder, Hinge, and Bumble, **[Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__above-fold)** is the one that holds up globally without a second SIM or second phone. Free options listed below are real and worth trying — just know their limits before you commit.
 
 ---
 
@@ -90,7 +90,7 @@ Where 2ndLine stands out slightly: it feels more like a native messaging app tha
 
 ## 7. Surfshark Alt-Number — Best Paid Option for Serious Dating Privacy
 
-**[Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-app-free-2026__mid)** is the one app on this list that isn't free, and it makes no apology for that. It's also the one that solves the problems all the free options run into.
+**[Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__mid)** is the one app on this list that isn't free, and it makes no apology for that. It's also the one that solves the problems all the free options run into.
 
 You get a real mobile number — not a flagged VoIP line — from a country of your choice. No second SIM required. No second phone. The number lives in the Surfshark app, works for calls and texts, and can be disabled or replaced whenever you want. It works globally, which matters if you travel or want a number from a specific region.
 
@@ -122,7 +122,7 @@ It's not free. But for anyone who's had a Google Voice number rejected at signup
 
 **Go free if:** You're US-based, mostly texting rather than calling, and the dating app you're using accepts VoIP numbers for verification. Google Voice or TextNow will cover basic needs without spending anything.
 
-**Go paid if:** You need the number to pass SMS verification reliably, you're outside the US, or you want the ability to fully dispose of the number without any trace back to your real identity. [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-app-free-2026__mid) covers all three.
+**Go paid if:** You need the number to pass SMS verification reliably, you're outside the US, or you want the ability to fully dispose of the number without any trace back to your real identity. [Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__mid) covers all three.
 
 **Consider the verification problem seriously.** Most people find out their free VoIP number is rejected when they're already mid-signup on a dating app. Testing your number before you need it is worth doing.
 
@@ -132,7 +132,7 @@ It's not free. But for anyone who's had a Google Voice number rejected at signup
 
 **Can I use a free second number to verify a Tinder or Hinge account?**
 
-Sometimes. Google Voice, TextNow, and similar VoIP services are increasingly blocked by dating apps that use third-party number verification. Alt-Number uses real mobile number ranges and passes verification on most platforms. If you've already had a VoIP number rejected, a real mobile number from [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-app-free-2026__faq) is the more reliable path.
+Sometimes. Google Voice, TextNow, and similar VoIP services are increasingly blocked by dating apps that use third-party number verification. Alt-Number uses real mobile number ranges and passes verification on most platforms. If you've already had a VoIP number rejected, a real mobile number from [Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__faq) is the more reliable path.
 
 **What happens if I cancel my second number — can someone still reach me?**
 
@@ -148,7 +148,7 @@ No. Dating apps verify you received an SMS code — they don't check whether the
 
 **Can I get a second number from a specific country?**
 
-Free options are mostly US only (Google Voice, TextNow, TextFree, 2ndLine). Hushed adds UK and Canada. Burner is US and Canada. [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-app-free-2026__faq) offers multiple countries, which is a meaningful advantage if you're dating internationally or want a number from a specific region.
+Free options are mostly US only (Google Voice, TextNow, TextFree, 2ndLine). Hushed adds UK and Canada. Burner is US and Canada. [Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__faq) offers multiple countries, which is a meaningful advantage if you're dating internationally or want a number from a specific region.
 
 **How do I stop someone from contacting me if I gave them a second number?**
 
@@ -162,4 +162,4 @@ Cancel or replace the number. Unlike blocking — which stops future contact but
 
 If you've been handing out your real number because you assumed the alternatives were too complicated or expensive, this list should change that. A second number takes five minutes to set up and means you never have to think twice about sharing it.
 
-[Try Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-app-free-2026__cta)
+[Try Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__cta)

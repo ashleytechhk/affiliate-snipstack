@@ -14,7 +14,7 @@ This list covers the seven best options for blocking ads in Firefox on mobile in
 
 **Quick Verdict:** Firefox on Android still supports extensions, making it uniquely powerful for ad blocking on mobile. [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) remains the gold standard for filter-based blocking. For system-wide coverage that works across every app, Surfshark's CleanWeb layer is the most practical upgrade. The best results come from pairing both.
 
-[Block ads across every app, not just Firefox -- Try Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-firefox-2026__above-fold)
+[Block ads across every app, not just Firefox -- Try Surfshark CleanWeb](/blog/surfshark?sub=adblock-plus-firefox-2026__above-fold)
 
 ---
 
@@ -58,7 +58,7 @@ Setup is one toggle inside the Surfshark app. No filter lists to manage, no exte
 
 For heavy mobile users who spend as much time in apps as in browsers, this is the most practical upgrade on this list. A browser extension is always going to be incomplete coverage on mobile — CleanWeb fills that gap. It runs on Android and iOS, integrates with all VPN servers, and adds no meaningful performance overhead.
 
-[Get Surfshark CleanWeb and block ads in every app](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-firefox-2026__mid)
+[Get Surfshark CleanWeb and block ads in every app](/blog/surfshark?sub=adblock-plus-firefox-2026__mid)
 
 ---
 
@@ -126,7 +126,7 @@ For iOS users: Firefox's extension support is limited, so a browser-level soluti
 
 If you only want to do one thing: Surfshark CleanWeb is the single change with the broadest impact, since it covers the entire device rather than one browser tab.
 
-[Start blocking ads across your whole phone with Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-firefox-2026__cta)
+[Start blocking ads across your whole phone with Surfshark CleanWeb](/blog/surfshark?sub=adblock-plus-firefox-2026__cta)
 
 ---
 
@@ -142,7 +142,7 @@ Both block ads using filter lists, but uBlock Origin uses less memory, has stric
 
 **Can I block ads in apps like Instagram and TikTok on mobile?**
 
-Browser extensions can't reach in-app ads — they only work inside the browser. To block ads inside other apps, you need system-level blocking: a VPN with CleanWeb like [Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adblock-plus-firefox-2026__faq), a local VPN tunnel like AdGuard for Android, or DNS-level blocking via NextDNS or AdGuard DNS.
+Browser extensions can't reach in-app ads — they only work inside the browser. To block ads inside other apps, you need system-level blocking: a VPN with CleanWeb like [Surfshark](/blog/surfshark?sub=adblock-plus-firefox-2026__faq), a local VPN tunnel like AdGuard for Android, or DNS-level blocking via NextDNS or AdGuard DNS.
 
 **Will an [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) slow down my phone?**
 

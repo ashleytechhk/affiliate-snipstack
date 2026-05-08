@@ -14,7 +14,7 @@ If you use dating apps, your real phone number is a liability. Spam callers, ove
 
 This guide covers seven options — from device-level call filters to full virtual number solutions — so you can pick whatever fits your situation right now.
 
-> **Quick Verdict:** Built-in iOS and Android call filters catch the obvious junk, but they cannot unring the bell once your real number is shared. For online dating, the smarter move is to never give out your real number at all. [Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-spam-call-blocker-2026__above-fold) gives you a dedicated virtual number that forwards to your real line — delete it the moment things go sideways, and your real number stays clean forever.
+> **Quick Verdict:** Built-in iOS and Android call filters catch the obvious junk, but they cannot unring the bell once your real number is shared. For online dating, the smarter move is to never give out your real number at all. [Surfshark Alt Number](/blog/surfshark?sub=free-spam-call-blocker-2026__above-fold) gives you a dedicated virtual number that forwards to your real line — delete it the moment things go sideways, and your real number stays clean forever.
 
 ---
 
@@ -34,7 +34,7 @@ Alt Number gives you a real, forwarding phone number that is completely disconne
 
 The free trial lets you test the forwarding and call-screening features before committing. For anyone who dates actively across multiple apps, this is the only solution that breaks the spam cycle at the source rather than filtering after the fact.
 
-[Try Surfshark Alt Number free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-spam-call-blocker-2026__above-fold)
+[Try Surfshark Alt Number free](/blog/surfshark?sub=free-spam-call-blocker-2026__above-fold)
 
 ---
 
@@ -124,7 +124,7 @@ That assumption costs you. Once your number is linked to your identity in a data
 
 A virtual number breaks this dynamic. You hand out a number that is fully functional for calls and texts, but the moment you want it gone, you delete it. The person on the other end has a dead number. Your real number was never in the picture.
 
-[Get a virtual number with Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-spam-call-blocker-2026__mid)
+[Get a virtual number with Surfshark Alt Number](/blog/surfshark?sub=free-spam-call-blocker-2026__mid)
 
 ---
 
@@ -147,7 +147,7 @@ Yes — iOS Silence Unknown Callers, Android Call Screen, and the free tiers of 
 
 ### Can a spam blocker stop a dating match from harassing me?
 
-Standard spam blockers target robocalls and known scam numbers. If a specific person is calling you from their personal number, a spam blocker is unlikely to catch it — you would need to block that number manually. A virtual number (like [Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-spam-call-blocker-2026__faq)) is more effective because you can simply delete the number they have, cutting off all future contact in one step.
+Standard spam blockers target robocalls and known scam numbers. If a specific person is calling you from their personal number, a spam blocker is unlikely to catch it — you would need to block that number manually. A virtual number (like [Surfshark Alt Number](/blog/surfshark?sub=free-spam-call-blocker-2026__faq)) is more effective because you can simply delete the number they have, cutting off all future contact in one step.
 
 ### Does Google Voice fully hide my real number?
 
@@ -169,4 +169,4 @@ A good **free spam call blocker** handles the noise. But for online dating, the 
 
 Use the built-in iPhone or Android tools to filter out the obvious junk on your real line. And use a virtual number when dating apps ask for contact details. That combination keeps your private number private, no matter how a match turns out.
 
-[Start with Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-spam-call-blocker-2026__cta)
+[Start with Surfshark Alt Number](/blog/surfshark?sub=free-spam-call-blocker-2026__cta)

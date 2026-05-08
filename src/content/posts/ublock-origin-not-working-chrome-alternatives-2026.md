@@ -24,7 +24,7 @@ If you want to stay with a browser extension, **AdGuard** is the best MV3-native
 
 > **Try Surfshark CleanWeb — works where uBlock Origin can't**
 > DNS-level blocking, cross-device, no browser extension required.
-> [Get Surfshark CleanWeb](/go/adblock?sub=ublock-origin-not-working-chrome-alternatives-2026__adblock__above-fold)
+> [Get Surfshark CleanWeb](/blog/adblock?sub=ublock-origin-not-working-chrome-alternatives-2026__adblock__above-fold)
 
 ---
 
@@ -66,7 +66,7 @@ Surfshark CleanWeb takes a fundamentally different approach: it blocks ads at th
 **Limitations:** Requires installing the Surfshark app. Cannot perform element-level cosmetic blocking (hiding empty ad slots) the way browser extensions can. Some users want extension-style controls; CleanWeb is set-it-and-forget-it.
 
 > **Get Surfshark CleanWeb — DNS-level blocking across all your devices**
-> [Start blocking ads with Surfshark](/go/adblock?sub=ublock-origin-not-working-chrome-alternatives-2026__adblock__listicle-row1)
+> [Start blocking ads with Surfshark](/blog/adblock?sub=ublock-origin-not-working-chrome-alternatives-2026__adblock__listicle-row1)
 
 ---
 
@@ -172,7 +172,7 @@ CleanWeb as a standalone product is priced competitively. With the VPN included,
 
 > **Get Surfshark VPN + CleanWeb — full privacy stack, one subscription**
 > Works on all devices. 30-day money-back guarantee.
-> [Get the bundle](/go/vpn?sub=ublock-origin-not-working-chrome-alternatives-2026__vpn__cross-sell-section)
+> [Get the bundle](/blog/vpn?sub=ublock-origin-not-working-chrome-alternatives-2026__vpn__cross-sell-section)
 
 ---
 
@@ -222,7 +222,7 @@ If you want to stay in the browser, **AdGuard** is the best MV3-native extension
 
 > **Get Surfshark CleanWeb — the [ad blocker Chrome](https://snipstack.io/ad-blocker-chrome-2026/) can't break**
 > DNS-level blocking · Unlimited devices · 30-day money-back guarantee
-> [Start blocking ads](/go/adblock?sub=ublock-origin-not-working-chrome-alternatives-2026__adblock__bottom-cta)
+> [Start blocking ads](/blog/adblock?sub=ublock-origin-not-working-chrome-alternatives-2026__adblock__bottom-cta)
 
 ---
 

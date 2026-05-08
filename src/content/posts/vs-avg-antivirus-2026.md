@@ -12,7 +12,7 @@ If you are still running AVG [Antivirus](https://snipstack.io/vs-antivirus-2026/
 
 This comparison breaks down exactly what you get from each, where they differ on features that actually matter, and why so many users switching away from legacy antivirus tools are landing on Surfshark One.
 
-**[See Surfshark One Bundle pricing and features](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-avg-antivirus-2026__above-fold)**
+**[See Surfshark One Bundle pricing and features](/blog/surfshark?sub=vs-avg-antivirus-2026__above-fold)**
 
 ---
 
@@ -66,7 +66,7 @@ Surfshark's VPN is the flagship product — it came first and it shows. You get:
 
 For a household with laptops, phones, tablets, and a smart TV, Surfshark One's unlimited device policy alone justifies the switch from AVG Ultimate.
 
-**[Check current Surfshark One Bundle deals](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-avg-antivirus-2026__mid)**
+**[Check current Surfshark One Bundle deals](/blog/surfshark?sub=vs-avg-antivirus-2026__mid)**
 
 ---
 
@@ -125,7 +125,7 @@ The transition is straightforward. Surfshark One installs in minutes, works acro
 
 ### Is Surfshark One Bundle better than AVG for everyday protection?
 
-For most users, yes. The antivirus engine is on par with AVG for malware detection, and the bundle adds tools — unlimited VPN, breach monitoring, ad blocking — that AVG either does not include or charges extra for. [See the full One Bundle feature list here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-avg-antivirus-2026__faq)
+For most users, yes. The antivirus engine is on par with AVG for malware detection, and the bundle adds tools — unlimited VPN, breach monitoring, ad blocking — that AVG either does not include or charges extra for. [See the full One Bundle feature list here.](/blog/surfshark?sub=vs-avg-antivirus-2026__faq)
 
 ### Does Surfshark One Bundle include a free trial?
 
@@ -151,6 +151,6 @@ AVG Antivirus had a good run. For 2026, though, it is asking you to pay more, co
 
 Surfshark One Bundle fills every one of those gaps at a competitive price point and without the nagware. If you are due for a renewal decision on any legacy antivirus plan, this is the moment to consolidate.
 
-**[Get Surfshark One Bundle — check today's price](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-avg-antivirus-2026__cta)**
+**[Get Surfshark One Bundle — check today's price](/blog/surfshark?sub=vs-avg-antivirus-2026__cta)**
 
 *Pricing information is accurate as of May 2026. Check the Surfshark site for current promotions and plan details.*

@@ -11,7 +11,7 @@ tags: ["antivirus", "privacy", "review"]
 Scammers are getting smarter every year. If you use an Android phone, you are a target — and you deserve a phone that looks after you. This guide walks you through picking and setting up the [best antivirus](https://snipstack.io/best-antivirus-free-2026/) for Android in 2026, step by step, using plain language. No tech degree required.
 
 **Ready to protect your phone right now?**
-[Get Surfshark Antivirus — Best Pick for Seniors in 2026](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-android-2026__above-fold)
+[Get Surfshark Antivirus — Best Pick for Seniors in 2026](/blog/surfshark?sub=best-antivirus-for-android-2026__above-fold)
 
 ---
 
@@ -73,7 +73,7 @@ There are many antivirus apps on Google Play, but most are cluttered with confus
 
 ![Step-by-step setup guide for Surfshark Antivirus on Android](/og/best-antivirus-for-android-2026-inline-1.png)
 
-[Start protecting your phone with Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-android-2026__mid)
+[Start protecting your phone with Surfshark Antivirus](/blog/surfshark?sub=best-antivirus-for-android-2026__mid)
 
 ---
 
@@ -176,7 +176,7 @@ You have done it. Your phone is now protected. Here is a quick summary of what y
 
 You do not need to do anything else on a daily basis. The app works silently in the background.
 
-[Get Surfshark Antivirus and stay protected all year — plans from a few dollars a month](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-android-2026__cta)
+[Get Surfshark Antivirus and stay protected all year — plans from a few dollars a month](/blog/surfshark?sub=best-antivirus-for-android-2026__cta)
 
 ---
 
@@ -192,7 +192,7 @@ Rarely. Most phone malware is designed to steal information — passwords, bank 
 
 ### Is Surfshark Antivirus safe to use?
 
-Yes. Surfshark is a well-established security company. Its antivirus app does not collect your personal data and has been reviewed by independent security researchers. [Learn more and get started here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-antivirus-for-android-2026__faq)
+Yes. Surfshark is a well-established security company. Its antivirus app does not collect your personal data and has been reviewed by independent security researchers. [Learn more and get started here.](/blog/surfshark?sub=best-antivirus-for-android-2026__faq)
 
 ### Will the antivirus slow down my phone?
 

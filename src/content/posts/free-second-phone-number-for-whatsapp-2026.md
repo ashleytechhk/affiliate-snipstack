@@ -16,7 +16,7 @@ The fix is simple: use a **free [second phone number](https://snipstack.io/secon
 
 This guide walks you through the fastest way to get that second number set up in 2026 using Surfshark Alt-Number — no second SIM, no extra phone, no carrier contract required.
 
-[**Get Alt-Number and protect your real number today →**](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-second-phone-number-for-whatsapp-2026__above-fold)
+[**Get Alt-Number and protect your real number today →**](/blog/surfshark?sub=free-second-phone-number-for-whatsapp-2026__above-fold)
 
 ---
 
@@ -45,7 +45,7 @@ WhatsApp supports dual accounts natively on Android (Settings > Account > Add ac
 
 Head to the App Store or Google Play and search for **Surfshark Alt-Number**, or start your trial directly from the link below. Install the app and sign in with your Surfshark account (or create a free one).
 
-[**Start your Alt-Number free trial →**](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-second-phone-number-for-whatsapp-2026__above-fold)
+[**Start your Alt-Number free trial →**](/blog/surfshark?sub=free-second-phone-number-for-whatsapp-2026__above-fold)
 
 ### Step 2 — Choose Your Country and Number
 
@@ -103,7 +103,7 @@ You might be wondering: what about Google Voice, TextNow, or one of the many fre
 
 Alt-Number uses real carrier-backed numbers. WhatsApp treats them exactly like a regular SIM. That is the practical difference between a number that works and one that bounces at the verification screen.
 
-[**Get a carrier-backed second number that WhatsApp actually accepts →**](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-second-phone-number-for-whatsapp-2026__mid)
+[**Get a carrier-backed second number that WhatsApp actually accepts →**](/blog/surfshark?sub=free-second-phone-number-for-whatsapp-2026__mid)
 
 ![Alt-Number vs free VoIP apps — feature comparison](/og/free-second-phone-number-for-whatsapp-2026-inline-2.png)
 
@@ -138,7 +138,7 @@ The free trial period lets you verify WhatsApp and receive messages at no cost. 
 **Is it really free to get a second phone number for WhatsApp?**
 Alt-Number offers a free trial that includes number provisioning and SMS verification — which is everything you need to get WhatsApp set up on a second number. Ongoing service (keeping the number active for calls and texts over time) requires a subscription. For a genuinely disposable trial number, the free tier covers it.
 
-[**See current Alt-Number pricing →**](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-second-phone-number-for-whatsapp-2026__faq)
+[**See current Alt-Number pricing →**](/blog/surfshark?sub=free-second-phone-number-for-whatsapp-2026__faq)
 
 **Will the person I message know it is not my real number?**
 No. From their side, it looks like any other WhatsApp contact. They see the number and whatever display name and photo you set on the account. There is no indicator that the number is a secondary or virtual one.
@@ -162,4 +162,4 @@ A free second phone number for WhatsApp solves this cleanly. You keep the real h
 
 Alt-Number is the most reliable way to do this in 2026 — real carrier numbers, instant setup, and full control over when the line stays open.
 
-[**Start your free trial and set up your second WhatsApp number today →**](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-second-phone-number-for-whatsapp-2026__cta)
+[**Start your free trial and set up your second WhatsApp number today →**](/blog/surfshark?sub=free-second-phone-number-for-whatsapp-2026__cta)

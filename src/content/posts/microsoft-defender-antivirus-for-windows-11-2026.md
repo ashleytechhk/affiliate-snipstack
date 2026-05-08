@@ -16,7 +16,7 @@ This plain-language guide will show you exactly how to check that Defender is ru
 
 ## Quick Verdict
 
-Microsoft Defender Antivirus is a solid, no-cost layer of protection for Windows 11 users. It runs quietly in the background, updates itself automatically, and handles most everyday threats without you lifting a finger. For basic protection it is more than enough. However, Defender does **not** protect your internet connection or hide what you do online. If you shop, bank, or browse on public Wi-Fi, pairing Defender with a trusted security tool like **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=microsoft-defender-antivirus-for-windows-11-2026__above-fold)** gives you a much stronger safety net — covering both your device and your connection.
+Microsoft Defender Antivirus is a solid, no-cost layer of protection for Windows 11 users. It runs quietly in the background, updates itself automatically, and handles most everyday threats without you lifting a finger. For basic protection it is more than enough. However, Defender does **not** protect your internet connection or hide what you do online. If you shop, bank, or browse on public Wi-Fi, pairing Defender with a trusted security tool like **[Surfshark Antivirus](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__above-fold)** gives you a much stronger safety net — covering both your device and your connection.
 
 ---
 
@@ -126,7 +126,7 @@ Defender is good at stopping viruses and malware on your device. But there are a
 - It does not hide your location or browsing activity from websites or advertisers.
 - It does not alert you if your personal information appears in a data breach.
 
-For seniors who bank or shop online, these gaps matter. A security suite like **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=microsoft-defender-antivirus-for-windows-11-2026__mid)** adds real-time web protection, phishing alerts, and privacy features that Defender alone does not provide — at a price that is affordable on a fixed income.
+For seniors who bank or shop online, these gaps matter. A security suite like **[Surfshark Antivirus](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__mid)** adds real-time web protection, phishing alerts, and privacy features that Defender alone does not provide — at a price that is affordable on a fixed income.
 
 ---
 
@@ -160,7 +160,7 @@ But if you:
 - Use public Wi-Fi networks
 - Want someone to alert you if your email or passwords are leaked
 
-...then adding **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=microsoft-defender-antivirus-for-windows-11-2026__cta)** alongside Defender is a smart, affordable upgrade. It layers extra scanning, web protection, and privacy tools on top of what Defender already provides — without slowing your computer down.
+...then adding **[Surfshark Antivirus](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__cta)** alongside Defender is a smart, affordable upgrade. It layers extra scanning, web protection, and privacy tools on top of what Defender already provides — without slowing your computer down.
 
 ---
 
@@ -180,7 +180,7 @@ In most cases, no. Running two full antivirus programs at the same time can caus
 
 ### Does Defender protect me on public Wi-Fi?
 
-No. Defender watches your files and programs, but it does not secure your internet connection. On public Wi-Fi — in a coffee shop, library, or airport — your browsing can potentially be seen by others on the same network. For that kind of protection you need a VPN or a full security suite. **[Surfshark's security tools](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=microsoft-defender-antivirus-for-windows-11-2026__faq)** cover both device threats and connection privacy.
+No. Defender watches your files and programs, but it does not secure your internet connection. On public Wi-Fi — in a coffee shop, library, or airport — your browsing can potentially be seen by others on the same network. For that kind of protection you need a VPN or a full security suite. **[Surfshark's security tools](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__faq)** cover both device threats and connection privacy.
 
 ### How often should I run a manual scan?
 
@@ -202,6 +202,6 @@ Here is what to do right now:
 4. Schedule a **Full Scan** for this weekend.
 5. Confirm your **Firewall** is active on all three network types.
 
-These five steps take less than 15 minutes and dramatically reduce your risk of catching a virus. Microsoft Defender Antivirus for Windows 11 is a reliable, free tool that every senior should have running. And if you want the strongest possible protection for your online banking and personal data, **[Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=microsoft-defender-antivirus-for-windows-11-2026__cta)** is worth a look as a trusted, low-cost complement.
+These five steps take less than 15 minutes and dramatically reduce your risk of catching a virus. Microsoft Defender Antivirus for Windows 11 is a reliable, free tool that every senior should have running. And if you want the strongest possible protection for your online banking and personal data, **[Surfshark Antivirus](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__cta)** is worth a look as a trusted, low-cost complement.
 
 Stay safe out there.

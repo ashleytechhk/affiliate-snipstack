@@ -30,7 +30,7 @@ It is not a replacement for a browser extension if you want cosmetic filtering (
 
 > **Try Surfshark CleanWeb with a 30-day money-back guarantee**
 > If it does not work for you, you get a full refund — no questions.
-> [Get Surfshark CleanWeb](/go/adblock?sub=surfshark-cleanweb-review-2026__adblock__above-fold)
+> [Get Surfshark CleanWeb](/blog/adblock?sub=surfshark-cleanweb-review-2026__adblock__above-fold)
 
 ---
 
@@ -204,7 +204,7 @@ CleanWeb is included with all Surfshark subscriptions. Setup:
 CleanWeb works whether or not you have the VPN actively tunneling your traffic. You can use CleanWeb without routing your full traffic through a VPN server — the DNS blocking operates independently.
 
 > **Enable CleanWeb on all your devices — included with Surfshark**
-> [Get Surfshark](/go/adblock?sub=surfshark-cleanweb-review-2026__adblock__setup-section)
+> [Get Surfshark](/blog/adblock?sub=surfshark-cleanweb-review-2026__adblock__setup-section)
 
 ---
 
@@ -233,7 +233,7 @@ The value calculation is also different from most [ad blocker](https://snipstack
 
 > **Get Surfshark — VPN + CleanWeb in one subscription**
 > Streaming access, ad blocking, privacy — all covered.
-> [Get Surfshark](/go/vpn?sub=surfshark-cleanweb-review-2026__vpn__cross-sell-section)
+> [Get Surfshark](/blog/vpn?sub=surfshark-cleanweb-review-2026__vpn__cross-sell-section)
 
 ---
 
@@ -297,7 +297,7 @@ For most users — particularly those who watch YouTube on their phone, use ad-s
 
 > **Get Surfshark CleanWeb — DNS-level ad blocking, every device**
 > 30-day money-back guarantee. Unlimited devices.
-> [Get Surfshark](/go/adblock?sub=surfshark-cleanweb-review-2026__adblock__bottom-cta)
+> [Get Surfshark](/blog/adblock?sub=surfshark-cleanweb-review-2026__adblock__bottom-cta)
 
 ---
 

@@ -24,7 +24,7 @@ This article cuts through it. We cover what each AdGuard tier actually does, wha
 
 > **Try Surfshark CleanWeb — DNS-level blocking, no browser extension required**
 > Works where AdGuard's free tier can't: every app, every device, no Chrome dependency.
-> [Get Surfshark CleanWeb](/go/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__above-fold)
+> [Get Surfshark CleanWeb](/blog/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__above-fold)
 
 ---
 
@@ -139,7 +139,7 @@ CleanWeb blocks at DNS level across all devices — the same fundamental technol
 
 > **Get Surfshark CleanWeb — DNS-level blocking across all your devices**
 > One subscription. Every device. No extension dependency.
-> [Start blocking ads at the network level](/go/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__listicle-row1)
+> [Start blocking ads at the network level](/blog/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__listicle-row1)
 
 ---
 
@@ -223,7 +223,7 @@ Surfshark CleanWeb is worth pricing directly against this when you reach that le
 
 > **Compare: Surfshark CleanWeb vs. AdGuard Premium**
 > CleanWeb is DNS-level blocking + VPN, all devices, one price.
-> [See Surfshark pricing](/go/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__mid-content)
+> [See Surfshark pricing](/blog/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__mid-content)
 
 ---
 
@@ -273,7 +273,7 @@ Pay for AdGuard when you primarily want granular browser-level control: custom f
 
 > **Get Surfshark CleanWeb — network-level blocking, every device, VPN included**
 > No per-device licensing. No browser extension dependency.
-> [Start blocking ads with Surfshark](/go/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__bottom-cta)
+> [Start blocking ads with Surfshark](/blog/adblock?sub=adguard-free-vs-paid-2026-best-alternatives__adblock__bottom-cta)
 
 ---
 

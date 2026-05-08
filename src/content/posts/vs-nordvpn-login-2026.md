@@ -12,7 +12,7 @@ This guide breaks down what the NordVPN login experience actually gets you, comp
 
 ![Hero comparison: NordVPN login vs Surfshark](/og/vs-nordvpn-login-2026.png)
 
-**[Switch to Surfshark and cut your VPN bill today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-nordvpn-login-2026__above-fold)**
+**[Switch to Surfshark and cut your VPN bill today](/blog/surfshark?sub=vs-nordvpn-login-2026__above-fold)**
 
 ---
 
@@ -66,7 +66,7 @@ For the subscription arbitrageur, the only metric that matters is: does this VPN
 
 Both services maintain dedicated streaming-optimized servers. Both regularly update their IP pools to stay ahead of streaming platform detection. In practice, Netflix, Disney+, and BBC iPlayer unblocking rates are comparable across both providers.
 
-**[Try Surfshark's streaming servers risk-free for 30 days](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-nordvpn-login-2026__mid)**
+**[Try Surfshark's streaming servers risk-free for 30 days](/blog/surfshark?sub=vs-nordvpn-login-2026__mid)**
 
 Where Surfshark has an operational advantage is in its NoBorders mode and Camouflage mode. These obfuscation features mask the fact that you are using a VPN at all, which is valuable in regions with aggressive VPN throttling at the ISP level. NordVPN has obfuscated servers too, but they are tucked inside a submenu rather than surfaced prominently.
 
@@ -129,7 +129,7 @@ Otherwise, the case for staying with NordVPN is mostly inertia.
 
 ### Can I switch from NordVPN to Surfshark without losing streaming access?
 
-Yes. Both services support the same major streaming platforms. You will go through the same setup process — download the Surfshark app, log in, pick a regional server — and your streaming sessions will continue as before. The 30-day money-back guarantee means you can test it without risk. **[Start your Surfshark trial here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-nordvpn-login-2026__faq)**
+Yes. Both services support the same major streaming platforms. You will go through the same setup process — download the Surfshark app, log in, pick a regional server — and your streaming sessions will continue as before. The 30-day money-back guarantee means you can test it without risk. **[Start your Surfshark trial here.](/blog/surfshark?sub=vs-nordvpn-login-2026__faq)**
 
 ### Does Surfshark work on as many devices as NordVPN?
 
@@ -159,7 +159,7 @@ If streaming savings are your goal, the math is straightforward. Surfshark deliv
 
 Switch before your next NordVPN renewal date and pocket the difference.
 
-**[Get Surfshark now and start saving on streaming subscriptions](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-nordvpn-login-2026__cta)**
+**[Get Surfshark now and start saving on streaming subscriptions](/blog/surfshark?sub=vs-nordvpn-login-2026__cta)**
 
 ---
 

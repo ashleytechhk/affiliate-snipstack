@@ -18,7 +18,7 @@ A [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-
 
 Google Voice is free and works well enough if you are already inside the Google ecosystem and only need basic call/text forwarding. But it requires a US phone number to sign up, has no anonymity from Google itself, and its account-linking rules mean your number could be tied back to you in ways you might not expect. Surfshark Alt-Number is purpose-built for privacy: you get a dedicated second number, it does not link to your real identity, and setup takes under three minutes. For dating app use specifically, Alt-Number is the cleaner, safer choice.
 
-**[Get Surfshark Alt-Number — protect your real number today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-google-voice-2026__above-fold)**
+**[Get Surfshark Alt-Number — protect your real number today](/blog/surfshark?sub=virtual-phone-number-google-voice-2026__above-fold)**
 
 ---
 
@@ -74,7 +74,7 @@ On apps like Tinder, Bumble, or Hinge, when transitioning to SMS, share your Goo
 
 ## Step-by-Step: Setting Up Surfshark Alt-Number
 
-**[Start with Surfshark Alt-Number — takes under 3 minutes](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-google-voice-2026__mid)**
+**[Start with Surfshark Alt-Number — takes under 3 minutes](/blog/surfshark?sub=virtual-phone-number-google-voice-2026__mid)**
 
 ### Step 1 — Get a Surfshark Account
 
@@ -154,7 +154,7 @@ Google Voice is a reasonable free option if you are in the US, already on Google
 
 Surfshark Alt-Number is purpose-built for this. It is faster to set up, works globally, does not require linking your real number, and holds up under the kind of scrutiny that comes when someone determined tries to find out who you are from a number alone.
 
-**[Get Surfshark Alt-Number and date with your privacy intact](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-google-voice-2026__cta)**
+**[Get Surfshark Alt-Number and date with your privacy intact](/blog/surfshark?sub=virtual-phone-number-google-voice-2026__cta)**
 
 ---
 
@@ -170,7 +170,7 @@ Not through normal caller ID or reverse lookup. Alt-Number is assigned from real
 Google Voice personal accounts are free for domestic calls and texts in the US. Google has changed its policies before, so "forever" is never guaranteed. Surfshark Alt-Number is subscription-based but included as part of your Surfshark plan.
 
 **Can I use a virtual number to verify my own dating app account?**
-Google Voice numbers are frequently rejected by dating apps (Tinder, Hinge, Bumble) for account verification because they are classified as VOIP. [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-google-voice-2026__faq) numbers generally pass these checks because they are assigned from standard mobile number pools.
+Google Voice numbers are frequently rejected by dating apps (Tinder, Hinge, Bumble) for account verification because they are classified as VOIP. [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-google-voice-2026__faq) numbers generally pass these checks because they are assigned from standard mobile number pools.
 
 **What happens if I want to stop using the number?**
 With Google Voice, you can delete the number from your account settings (though Google retains associated call and text metadata). With Alt-Number, you can disable or replace the number inside your Surfshark dashboard. Either way, once the number is gone, incoming calls and texts simply fail to connect — your match cannot reach you through that number anymore.

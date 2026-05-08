@@ -16,7 +16,7 @@ You are not alone. Email scams have surged in 2026, and the criminals behind the
 
 Email scams in 2026 rely on look-alike addresses, impersonation, and urgency. The fastest way to protect yourself is to check any suspicious sender against a scam database before you click anything. Tools like **Surfshark's Email Scam Checker** let you paste an address and get an instant result — no technical knowledge required. For seniors or anyone who receives a lot of email, running a quick check takes less than thirty seconds and can prevent enormous damage. The steps below walk you through the whole process from start to finish.
 
-**[Check a suspicious email address now](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=list-of-scammer-email-addresses-2026__above-fold)**
+**[Check a suspicious email address now](/blog/surfshark?sub=list-of-scammer-email-addresses-2026__above-fold)**
 
 ---
 
@@ -72,7 +72,7 @@ This is the fastest method. Rather than manually searching multiple lists, a too
 
 ![Step-by-step illustrated guide showing the email scam check workflow](/og/list-of-scammer-email-addresses-2026-inline-1.png)
 
-**[Try Surfshark's Email Scam Checker — check any address in seconds](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=list-of-scammer-email-addresses-2026__mid)**
+**[Try Surfshark's Email Scam Checker — check any address in seconds](/blog/surfshark?sub=list-of-scammer-email-addresses-2026__mid)**
 
 ---
 
@@ -150,7 +150,7 @@ Instead of giving your real address to every website, use an alias. If that alia
 
 Surfshark's tools include a data breach monitor that alerts you if your email address appears in a known breach. This is different from the scam checker — it tells you if your own address is at risk, not just whether an incoming sender is suspicious.
 
-**[Check your own email address for breaches with Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=list-of-scammer-email-addresses-2026__cta)**
+**[Check your own email address for breaches with Surfshark](/blog/surfshark?sub=list-of-scammer-email-addresses-2026__cta)**
 
 **Step 6c — Enable two-factor authentication on your email account**
 
@@ -177,7 +177,7 @@ Scammers frequently hijack or spoof real contacts' addresses. Call or text your 
 ## Frequently Asked Questions
 
 **Is there an official government list of scammer email addresses I can download?**
-No single government publishes a downloadable master list, because scam addresses are created and discarded constantly. The most useful approach is a combination of real-time checkers (like the Surfshark tool), community-reported databases, and your own knowledge of the red flags described in Step 4. [Start with a free check here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=list-of-scammer-email-addresses-2026__faq)
+No single government publishes a downloadable master list, because scam addresses are created and discarded constantly. The most useful approach is a combination of real-time checkers (like the Surfshark tool), community-reported databases, and your own knowledge of the red flags described in Step 4. [Start with a free check here.](/blog/surfshark?sub=list-of-scammer-email-addresses-2026__faq)
 
 **How do scammers get my email address in the first place?**
 Your address can be harvested from data breaches (when a website you used is hacked), scraped from social media, purchased from marketing list brokers, or guessed by bots that try common name patterns. Checking whether your address has appeared in a breach gives you useful context.
@@ -205,4 +205,4 @@ Dealing with scammer emails does not have to be overwhelming. The core process i
 
 The whole thing takes a few minutes and the habit quickly becomes second nature. If you want a single tool that handles the checking step quickly, Surfshark's Email Scam Checker is a solid starting point — straightforward to use and no technical setup required.
 
-**[Protect your inbox — try Surfshark's Email Scam Checker today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=list-of-scammer-email-addresses-2026__cta)**
+**[Protect your inbox — try Surfshark's Email Scam Checker today](/blog/surfshark?sub=list-of-scammer-email-addresses-2026__cta)**

@@ -14,7 +14,7 @@ The good news: there are solid options in 2026 ranging from completely free to a
 
 This guide ranks the seven best picks for online daters specifically — not businesses, not developers, not people routing international calls. Just people who want to swipe right without handing over their real number.
 
-> **Ready to protect your number now?** [Try Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-app-2026__above-fold) — built for exactly this use case.
+> **Ready to protect your number now?** [Try Surfshark Alt Number](/blog/surfshark?sub=virtual-phone-number-app-2026__above-fold) — built for exactly this use case.
 
 ---
 
@@ -120,7 +120,7 @@ The downsides: you see ads, and if you want a custom area code or number without
 
 **Best for:** Cost-sensitive users who need a number that passes Tinder verification and are comfortable with the ad trade-off.
 
-> **Want privacy without the ads or compromises?** [Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-app-2026__mid) gives you a clean number with no data trade-off.
+> **Want privacy without the ads or compromises?** [Surfshark Alt Number](/blog/surfshark?sub=virtual-phone-number-app-2026__mid) gives you a clean number with no data trade-off.
 
 ---
 
@@ -164,7 +164,7 @@ Surfshark Alt Number checks all three boxes. It passes carrier-grade verificatio
 
 The monthly cost is genuinely low, especially if you are already using Surfshark for VPN. Think of it as completing your personal privacy stack: masked IP, masked number, safer dating.
 
-[Get Surfshark Alt Number and protect your real number today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-app-2026__cta)
+[Get Surfshark Alt Number and protect your real number today](/blog/surfshark?sub=virtual-phone-number-app-2026__cta)
 
 ---
 
@@ -184,7 +184,7 @@ That depends on the app. With Burner, burning a number makes it immediately inac
 
 ### Can someone find out my real number from my virtual number?
 
-Not through the number itself. A virtual number does not forward caller ID information that reveals your underlying number. However, if you link your virtual number to an account (Google Voice requires a Google account, for example), someone with access to that account could potentially trace it. [Surfshark Alt Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-app-2026__faq) avoids this by not requiring your real number or tied identity during signup.
+Not through the number itself. A virtual number does not forward caller ID information that reveals your underlying number. However, if you link your virtual number to an account (Google Voice requires a Google account, for example), someone with access to that account could potentially trace it. [Surfshark Alt Number](/blog/surfshark?sub=virtual-phone-number-app-2026__faq) avoids this by not requiring your real number or tied identity during signup.
 
 ### Do virtual phone numbers work for WhatsApp or Signal verification?
 

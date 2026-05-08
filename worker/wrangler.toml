@@ -4,5 +4,21 @@ compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 
 routes = [
-  { pattern = "snipstack.io/go/*", zone_id = "9c4f14de827e651f28acb867defc6a79" }
+  { pattern = "snipstack.io/go/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/yt", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/yt/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/blog/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  # Short aliases: /sk, /sk/<subid>, /vp, /ab, /pn, /id, /av
+  { pattern = "snipstack.io/sk", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/sk/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/vp", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/vp/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/ab", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/ab/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/pn", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/pn/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/id", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/id/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/av", zone_id = "9c4f14de827e651f28acb867defc6a79" },
+  { pattern = "snipstack.io/av/*", zone_id = "9c4f14de827e651f28acb867defc6a79" },
 ]

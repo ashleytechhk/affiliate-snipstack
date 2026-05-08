@@ -24,10 +24,12 @@ Setup completed 2026-04-29.
   - Custom domain snipstack.io + www.snipstack.io attached (CNAME → snipstack.pages.dev)
   - SSL: Full Strict + Always Use HTTPS
 
-- **Cloudflare Worker** (`worker/`): `/go/{product}` affiliate link cloaker
+- **Cloudflare Worker** (`worker/`): affiliate link cloaker with source-specific routes
   - Routes: vpn→926, adblock→1498, altnumber→1691, altid→1421, antivirus→934, scamcheck→1843, one→1249
   - sub_id format: `{article-slug}__{product}__{cta-position}`
-  - Example: `https://snipstack.io/go/vpn?sub=cheap-spotify-guide__vpn__above-fold`
+  - Blog route example: `https://snipstack.io/blog/vpn?sub=cheap-spotify-guide__vpn__above-fold`
+  - YouTube route example: `https://snipstack.io/yt/public-wifi-vpn`
+  - Legacy routes kept alive: `/go/*` and `/sk/*`
 
 - **R2 bucket**: `snipstack-assets` (for article images)
 
@@ -70,6 +72,9 @@ curl -I https://snipstack.io
 
 # Worker redirects
 curl -sI "https://snipstack.io/go/vpn?sub=test__vpn__above-fold"
+curl -sI "https://snipstack.io/blog/vpn?sub=test__vpn__above-fold"
+curl -sI "https://snipstack.io/yt/test-video"
+curl -sI "https://snipstack.io/sk/test-video"
 curl -sI "https://snipstack.io/go/adblock?sub=test__adblock__above-fold"
 curl -sI "https://snipstack.io/go/altnumber?sub=test__altnumber__above-fold"
 

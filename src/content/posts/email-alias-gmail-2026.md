@@ -12,7 +12,7 @@ The fix is not another unsubscribe button. It is an **[email alias](https://snip
 
 This guide walks you through the fastest, most practical way to set up [email alias](https://snipstack.io/email-alias-outlook-2026/)es for Gmail in 2026, including the tool that makes it genuinely effortless.
 
-[![Stop spam dead — try Surfshark Alt-ID free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-gmail-2026__above-fold)](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-gmail-2026__above-fold)
+[![Stop spam dead — try Surfshark Alt-ID free](/blog/surfshark?sub=email-alias-gmail-2026__above-fold)](/blog/surfshark?sub=email-alias-gmail-2026__above-fold)
 
 ---
 
@@ -50,7 +50,7 @@ That's it. You don't need to change your DNS records, verify domain ownership, o
 
 Head to the Surfshark signup page via the link below. Choose any plan; Alt-ID is included across all Surfshark One tiers. Note your login credentials — you'll need them in Step 2.
 
-**[Start your Surfshark One trial — includes Alt-ID →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-gmail-2026__mid)**
+**[Start your Surfshark One trial — includes Alt-ID →](/blog/surfshark?sub=email-alias-gmail-2026__mid)**
 
 ### Step 2 — Open the Alt-ID Dashboard
 
@@ -160,7 +160,7 @@ It significantly reduces new spam for email addresses you haven't given out yet.
 
 ### Is Surfshark Alt-ID free?
 
-Alt-ID is included in the **Surfshark One** subscription. There is no standalone free tier, but Surfshark One frequently runs promotional pricing with substantial discounts. [Check the current offer here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-gmail-2026__faq)
+Alt-ID is included in the **Surfshark One** subscription. There is no standalone free tier, but Surfshark One frequently runs promotional pricing with substantial discounts. [Check the current offer here.](/blog/surfshark?sub=email-alias-gmail-2026__faq)
 
 ### Can I use email aliases with Google Workspace?
 
@@ -186,4 +186,4 @@ Fifty-plus spam emails a day is not a personal failing — it is the result of y
 
 Set up your first Alt-ID alias in under five minutes, use it for your next signup, and watch how quickly a specific alias becomes the only address that attracts junk. Delete it, generate a fresh one, and move on.
 
-**[Protect your Gmail address with Surfshark Alt-ID →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=email-alias-gmail-2026__cta)**
+**[Protect your Gmail address with Surfshark Alt-ID →](/blog/surfshark?sub=email-alias-gmail-2026__cta)**

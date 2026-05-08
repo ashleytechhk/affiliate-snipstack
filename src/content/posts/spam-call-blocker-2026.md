@@ -16,7 +16,7 @@ This guide covers the 7 best options for online daters in 2026 — from dedicate
 
 If you only date online, **Surfshark Alt-Number** is the single smartest move you can make. It gives you a [burner number](https://snipstack.io/burner-number-free-2026/) that forwards to your real phone — no spam, no exposure, no awkward "sorry, wrong person" conversations with someone who definitely knows your address. For people who want OS-level screening layered on top, Google's Call Screen and Apple's Silence Unknown Callers work well as a second line of defense. Read on for the full breakdown.
 
-**[Get Alt-Number and keep your real number private](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=spam-call-blocker-2026__above-fold)**
+**[Get Alt-Number and keep your real number private](/blog/surfshark?sub=spam-call-blocker-2026__above-fold)**
 
 ---
 
@@ -38,7 +38,7 @@ What makes it particularly well-suited to dating: the number works exactly like 
 
 The spam blocking is baked in. Because the Alt-Number isn't registered to your name in public databases, robocallers and marketing lists never find it. Combine that with call forwarding controls and you have tight, proactive protection rather than reactive filtering.
 
-**[Try Alt-Number — your real number stays yours](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=spam-call-blocker-2026__mid)**
+**[Try Alt-Number — your real number stays yours](/blog/surfshark?sub=spam-call-blocker-2026__mid)**
 
 ---
 
@@ -120,7 +120,7 @@ Most spam call blockers are reactive — they filter or block calls that are alr
 
 The combination means you're covered on both ends: your dating life doesn't expose you, and your phone actively filters what little spam manages to find you anyway.
 
-**[Set up Alt-Number and date with confidence](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=spam-call-blocker-2026__cta)**
+**[Set up Alt-Number and date with confidence](/blog/surfshark?sub=spam-call-blocker-2026__cta)**
 
 ---
 
@@ -128,7 +128,7 @@ The combination means you're covered on both ends: your dating life doesn't expo
 
 ### What is the best spam call blocker for online dating?
 
-For online daters specifically, **Alt-Number** is the strongest option because it addresses the root problem: your real number never gets shared in the first place. Apps like Robokiller and Hiya filter calls after your number is already exposed, which is necessary but not sufficient if you're regularly meeting new people on dating platforms. [Get Alt-Number here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=spam-call-blocker-2026__faq).
+For online daters specifically, **Alt-Number** is the strongest option because it addresses the root problem: your real number never gets shared in the first place. Apps like Robokiller and Hiya filter calls after your number is already exposed, which is necessary but not sufficient if you're regularly meeting new people on dating platforms. [Get Alt-Number here](/blog/surfshark?sub=spam-call-blocker-2026__faq).
 
 ### Can I use a fake number on dating apps?
 
@@ -158,4 +158,4 @@ Spam call blockers range from the bare minimum (iOS's built-in silence toggle) t
 
 Alt-Number handles this cleanly: one number for dating, your real number for everyone else. The apps in this list round out the protection, but they're all playing defense. Alt-Number keeps you out of the situation to begin with.
 
-**[Get started with Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=spam-call-blocker-2026__cta)**
+**[Get started with Alt-Number](/blog/surfshark?sub=spam-call-blocker-2026__cta)**

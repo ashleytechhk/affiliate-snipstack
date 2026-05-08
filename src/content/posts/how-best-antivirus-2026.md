@@ -16,7 +16,7 @@ This guide walks you through exactly what [antivirus software](https://snipstack
 
 **Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/) is our top pick for seniors in 2026.** It is easy to install, runs quietly in the background without slowing your computer down, and costs less than most competitors. You get real-time protection against viruses, online scams, and dangerous websites — all managed from one simple screen. If you want protection without the headache, this is the one to start with.
 
-[Get Surfshark Antivirus — Protected in Minutes](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-best-antivirus-2026__above-fold)
+[Get Surfshark Antivirus — Protected in Minutes](/blog/surfshark?sub=how-best-antivirus-2026__above-fold)
 
 ---
 
@@ -69,7 +69,7 @@ Open your internet browser (Chrome, Safari, Edge, or Firefox) and go to the offi
 
 Use only this safe link:
 
-[Download Surfshark Antivirus Safely](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-best-antivirus-2026__mid)
+[Download Surfshark Antivirus Safely](/blog/surfshark?sub=how-best-antivirus-2026__mid)
 
 ![Step-by-step diagram showing how antivirus software scans and blocks threats before they reach your device](/og/how-best-antivirus-2026-inline-1.png)
 
@@ -165,7 +165,7 @@ iPhones and iPads have strong built-in protections. However, no device is comple
 
 ### How do I know if my device already has a virus?
 
-Common signs include: your computer is very slow for no reason, you see pop-ups you did not open, your browser home page has changed, or programs open and close on their own. If any of these are happening, run a scan immediately. [Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-best-antivirus-2026__faq) can detect and remove existing threats as well as prevent new ones.
+Common signs include: your computer is very slow for no reason, you see pop-ups you did not open, your browser home page has changed, or programs open and close on their own. If any of these are happening, run a scan immediately. [Surfshark Antivirus](/blog/surfshark?sub=how-best-antivirus-2026__faq) can detect and remove existing threats as well as prevent new ones.
 
 ### Can one subscription protect all my family's devices?
 
@@ -187,7 +187,7 @@ Surfshark Antivirus is our recommendation for anyone who wants strong protection
 
 **Take the first step right now — it takes less than 10 minutes:**
 
-[Get Surfshark Antivirus and Stay Protected in 2026](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=how-best-antivirus-2026__cta)
+[Get Surfshark Antivirus and Stay Protected in 2026](/blog/surfshark?sub=how-best-antivirus-2026__cta)
 
 ---
 

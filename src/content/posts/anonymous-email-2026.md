@@ -12,7 +12,7 @@ Every time you hand over your actual address to sign up for an app, a discount c
 
 This guide walks you through the full setup in 2026, using **Surfshark Alt-ID** — one of the cleanest alias tools on the market.
 
-> **[Try Alt-ID now and protect your inbox](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=anonymous-email-2026__above-fold)**
+> **[Try Alt-ID now and protect your inbox](/blog/surfshark?sub=anonymous-email-2026__above-fold)**
 
 ---
 
@@ -36,7 +36,7 @@ No technical skills required. No command line. No DNS records to configure.
 
 If you do not already have a Surfshark account, head to the signup page and choose a plan that includes Alt-ID (Surfshark One or One+).
 
-**[Start your Alt-ID setup here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=anonymous-email-2026__mid)**
+**[Start your Alt-ID setup here](/blog/surfshark?sub=anonymous-email-2026__mid)**
 
 During signup:
 1. Enter a payment email (this does not have to be your everyday address).
@@ -52,7 +52,7 @@ During signup:
 
 Once logged in:
 
-1. Open the [Surfshark dashboard](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=anonymous-email-2026__mid).
+1. Open the [Surfshark dashboard](/blog/surfshark?sub=anonymous-email-2026__mid).
 2. In the left sidebar, click **Alt-ID**.
 3. You will land on the Alt-ID home screen, which shows any existing aliases and a button to create new ones.
 
@@ -148,7 +148,7 @@ For the majority of use cases — stopping spam, protecting your name from data 
 
 ### Can I use Alt-ID without a Surfshark VPN?
 
-Yes. Alt-ID is a standalone feature included in Surfshark One and One+ plans. You do not have to run the VPN to use the alias tool. That said, pairing both gives you a more complete privacy setup. [See current plan options here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=anonymous-email-2026__faq)
+Yes. Alt-ID is a standalone feature included in Surfshark One and One+ plans. You do not have to run the VPN to use the alias tool. That said, pairing both gives you a more complete privacy setup. [See current plan options here.](/blog/surfshark?sub=anonymous-email-2026__faq)
 
 ### How many aliases can I create?
 
@@ -182,6 +182,6 @@ Your real email address is your digital identity. Every time you hand it over ca
 
 Alt-ID costs a few pounds a month as part of a Surfshark One plan, and the ROI is immediate: a clean inbox, compartmentalised signups, and a simple kill switch for any alias that goes bad.
 
-**[Get Alt-ID and reclaim your inbox today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=anonymous-email-2026__cta)**
+**[Get Alt-ID and reclaim your inbox today](/blog/surfshark?sub=anonymous-email-2026__cta)**
 
 No technical setup. No DNS headaches. Just a cleaner, quieter inbox — starting in the next five minutes.

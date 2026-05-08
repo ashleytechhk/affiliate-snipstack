@@ -17,7 +17,7 @@ This guide ranks the top 7 free (or low-cost) [virtual phone number](https://sni
 ---
 
 > **Get a private Alt-Number now — no SIM swap, no contract.**
-> [Try Surfshark Alt-Number Free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-free-2026__above-fold)
+> [Try Surfshark Alt-Number Free](/blog/surfshark?sub=virtual-phone-number-free-2026__above-fold)
 
 ---
 
@@ -37,7 +37,7 @@ What separates Alt-Number from free-tier alternatives is reliability. Free apps 
 
 Pricing starts with a free trial period, making it easy to test before committing. For anyone serious about dating-app privacy, this is the obvious choice.
 
-[Start your free trial — Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-free-2026__above-fold)
+[Start your free trial — Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-free-2026__above-fold)
 
 ---
 
@@ -94,7 +94,7 @@ The free trial gives you one number for seven days with limited minutes and text
 ---
 
 > **Mid-article check-in:** If you've compared these options and want reliability over workarounds, Alt-Number is worth the free trial.
-> [Grab a private dating number — no contract](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-free-2026__mid)
+> [Grab a private dating number — no contract](/blog/surfshark?sub=virtual-phone-number-free-2026__mid)
 
 ---
 
@@ -138,7 +138,7 @@ The secondary benefit is simpler: you can end the communication completely by re
 
 ### Is a [virtual phone number](https://snipstack.io/virtual-phone-number-app-2026/) actually free?
 
-Some services offer genuinely free virtual numbers — Google Voice, TextNow, Talkatone, and TextFree all provide numbers at no cost. The trade-offs are ads, limited reliability on dating apps, and number recycling if you go inactive. Paid options like [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-free-2026__faq) offer a free trial and then charge a modest subscription for better reliability and no compatibility headaches.
+Some services offer genuinely free virtual numbers — Google Voice, TextNow, Talkatone, and TextFree all provide numbers at no cost. The trade-offs are ads, limited reliability on dating apps, and number recycling if you go inactive. Paid options like [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-free-2026__faq) offer a free trial and then charge a modest subscription for better reliability and no compatibility headaches.
 
 ### Will dating apps accept a [virtual phone number](https://snipstack.io/virtual-phone-number-cheap-2026/)?
 
@@ -158,7 +158,7 @@ No. All of the services on this list operate via apps or web accounts. You don't
 
 ### Which virtual number service is best for someone who dates on multiple apps simultaneously?
 
-For multi-app daters, reliability matters more than price. Free services that get blocked on one app out of three create more work than they save. [Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-free-2026__faq) is the recommended option for active daters specifically because it consistently passes verification across the major platforms.
+For multi-app daters, reliability matters more than price. Free services that get blocked on one app out of three create more work than they save. [Alt-Number](/blog/surfshark?sub=virtual-phone-number-free-2026__faq) is the recommended option for active daters specifically because it consistently passes verification across the major platforms.
 
 ---
 
@@ -174,6 +174,6 @@ Privacy on dating apps isn't paranoia. It's basic hygiene. Your real number is c
 
 **Ready to protect your number?**
 
-[Get Surfshark Alt-Number — free trial, no contract](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-free-2026__cta)
+[Get Surfshark Alt-Number — free trial, no contract](/blog/surfshark?sub=virtual-phone-number-free-2026__cta)
 
 No SIM swap. No carrier contract. Retire your dating number the moment you're done with it.

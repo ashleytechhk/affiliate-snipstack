@@ -12,7 +12,7 @@ If you searched "norton 360 [antivirus](https://snipstack.io/vs-antivirus-2026/)
 
 This guide cuts through the noise. We compare Norton 360 head-to-head with Surfshark One Bundle — a newer, leaner alternative that covers antivirus, VPN, data breach alerts, and ad blocking under one subscription. By the end you'll know exactly which one is worth paying for in 2026.
 
-**[Switch to Surfshark One Bundle and drop the bloat today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-360-antivirus-2026__above-fold)**
+**[Switch to Surfshark One Bundle and drop the bloat today](/blog/surfshark?sub=norton-360-antivirus-2026__above-fold)**
 
 ---
 
@@ -75,7 +75,7 @@ Norton's marketing leads with aggressive introductory discounts — often $19.99
 
 Surfshark One Bundle is priced more consistently. Multi-year plans bring the monthly cost down substantially, and the renewal pricing doesn't cliff-drop you. There's no LifeLock premium tier upsell, no "upgrade to include the VPN" paywall — everything is in the one bundle.
 
-**[Check current Surfshark One Bundle pricing](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-360-antivirus-2026__mid)**
+**[Check current Surfshark One Bundle pricing](/blog/surfshark?sub=norton-360-antivirus-2026__mid)**
 
 ---
 
@@ -143,7 +143,7 @@ The whole process takes under 30 minutes. There's no protection gap during a cle
 
 ### Is Norton 360 still worth buying in 2026?
 
-For new users taking advantage of an introductory offer, Norton 360 is solid [antivirus software](https://snipstack.io/antivirus-software-2026/) with a proven track record. The problem is the renewal pricing, which climbs steeply after year one. If you're past your first year and researching the current price, you've likely already found a reason to look elsewhere. Alternatives like [Surfshark One Bundle](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-360-antivirus-2026__faq) offer comparable malware protection with better VPN quality and more consistent renewal pricing.
+For new users taking advantage of an introductory offer, Norton 360 is solid [antivirus software](https://snipstack.io/antivirus-software-2026/) with a proven track record. The problem is the renewal pricing, which climbs steeply after year one. If you're past your first year and researching the current price, you've likely already found a reason to look elsewhere. Alternatives like [Surfshark One Bundle](/blog/surfshark?sub=norton-360-antivirus-2026__faq) offer comparable malware protection with better VPN quality and more consistent renewal pricing.
 
 ### Does Surfshark antivirus actually work?
 
@@ -177,7 +177,7 @@ Norton 360 built its reputation on genuine protection, and that reputation is ea
 
 If you're here because your Norton bill just arrived and you winced, that's your answer.
 
-**[Get Surfshark One Bundle — 30-day money-back guarantee](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-360-antivirus-2026__cta)**
+**[Get Surfshark One Bundle — 30-day money-back guarantee](/blog/surfshark?sub=norton-360-antivirus-2026__cta)**
 
 ---
 

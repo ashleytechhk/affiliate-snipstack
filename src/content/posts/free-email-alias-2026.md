@@ -18,7 +18,7 @@ This guide walks you through setting up a free [email alias](https://snipstack.i
 
 Alt-ID solves the spam problem without the hassle of juggling multiple inboxes. You get unlimited aliases, instant forwarding to your real email, and one-click deactivation when a sender turns spammy. The free tier (bundled with Surfshark One) is genuinely useful — not a crippled demo. If you sign up for 50 newsletters or shopping sites a year, this tool pays for itself in time saved within a month.
 
-[Get Alt-ID free with Surfshark One &rarr;](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-alias-2026__above-fold)
+[Get Alt-ID free with Surfshark One &rarr;](/blog/surfshark?sub=free-email-alias-2026__above-fold)
 
 ---
 
@@ -54,7 +54,7 @@ That's it. No technical skill required.
 
 If you already have a qualifying Surfshark account, skip to Step 2.
 
-1. Go to the [Surfshark One offer page](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-alias-2026__above-fold).
+1. Go to the [Surfshark One offer page](/blog/surfshark?sub=free-email-alias-2026__above-fold).
 2. Choose a plan. Surfshark One includes Alt-ID, the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and Search.
 3. Create your account with your email and a strong password.
 4. Complete payment and confirm your email address.
@@ -65,7 +65,7 @@ You should receive a confirmation email within a few minutes. Click the verifica
 
 ## Step 2 — Access the Alt-ID Dashboard
 
-1. Log in to your Surfshark account at [my.surfshark.com](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-alias-2026__mid).
+1. Log in to your Surfshark account at [my.surfshark.com](/blog/surfshark?sub=free-email-alias-2026__mid).
 2. In the left sidebar, click **Alt-ID** (it may also appear under "Privacy tools" depending on your dashboard layout).
 3. If this is your first visit, you will see an onboarding screen. Click **Get started**.
 
@@ -167,7 +167,7 @@ Some sites block browser extensions from injecting into input fields. In those c
 ## Frequently Asked Questions
 
 **Is a [free email](https://snipstack.io/free-email-scammer-check-2026/) alias actually free with Alt-ID?**
-Alt-ID is included in Surfshark One — there is no separate per-alias fee. The cost is the Surfshark One subscription, which also includes a VPN and antivirus. [See current pricing here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-alias-2026__faq)
+Alt-ID is included in Surfshark One — there is no separate per-alias fee. The cost is the Surfshark One subscription, which also includes a VPN and antivirus. [See current pricing here.](/blog/surfshark?sub=free-email-alias-2026__faq)
 
 **How many aliases can I create?**
 Alt-ID supports unlimited aliases. There is no cap on how many you can generate or keep active simultaneously.
@@ -189,7 +189,7 @@ A free email alias is one of the highest-value, lowest-effort privacy habits you
 
 If you're getting 50+ spam emails a day, the problem is not going to fix itself. Every service that has your real address is a permanent liability. Switching to aliases for all new sign-ups stops the bleeding, and retroactively deactivating aliases for known spammy services cleans up what's already there.
 
-[Start using Alt-ID — included with Surfshark One &rarr;](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-alias-2026__cta)
+[Start using Alt-ID — included with Surfshark One &rarr;](/blog/surfshark?sub=free-email-alias-2026__cta)
 
 ---
 

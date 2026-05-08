@@ -18,7 +18,7 @@ This guide cuts through the noise: seven practical options, ranked by real-world
 
 AdGuard's own apps remain the gold standard for granular filtering, but they aren't the only game in town. For users who want network-level blocking plus a VPN layer, **[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/)** is the strongest all-in-one pick — it blocks ads and trackers at the connection level before they even reach your browser. If you only need a browser extension equivalent on mobile, native content blockers on iOS and Android offer a free, zero-friction starting point. Read on for the full breakdown.
 
-> **Our top recommendation for mobile users wanting both ad blocking and privacy protection:** [Get Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adguard-extension-2026__above-fold) — covers unlimited devices, blocks ads and malware domains in one toggle.
+> **Our top recommendation for mobile users wanting both ad blocking and privacy protection:** [Get Surfshark CleanWeb](/blog/surfshark?sub=adguard-extension-2026__above-fold) — covers unlimited devices, blocks ads and malware domains in one toggle.
 
 ---
 
@@ -42,7 +42,7 @@ Setup takes under two minutes: install Surfshark, toggle CleanWeb on in the sett
 
 CleanWeb also blocks known phishing domains and malware distribution URLs, which a pure ad-blocker won't do. For travelers or anyone using public Wi-Fi regularly, that combination of ad blocking and encrypted tunneling is hard to beat at the price point.
 
-[Block ads on every app with CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adguard-extension-2026__mid)
+[Block ads on every app with CleanWeb](/blog/surfshark?sub=adguard-extension-2026__mid)
 
 ---
 
@@ -144,7 +144,7 @@ No. Chrome on Android does not support browser extensions the way desktop Chrome
 
 ### Does Surfshark CleanWeb work on both iOS and Android?
 
-Yes. CleanWeb is included with every Surfshark subscription and is available on both platforms. You enable it in the Surfshark app settings before connecting. One subscription covers unlimited devices simultaneously. [See Surfshark CleanWeb plans here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adguard-extension-2026__faq)
+Yes. CleanWeb is included with every Surfshark subscription and is available on both platforms. You enable it in the Surfshark app settings before connecting. One subscription covers unlimited devices simultaneously. [See Surfshark CleanWeb plans here.](/blog/surfshark?sub=adguard-extension-2026__faq)
 
 ### Will ad blocking slow down my phone?
 
@@ -166,4 +166,4 @@ The hunt for a perfect adguard extension on mobile is really a hunt for the righ
 
 For most mobile users reading this, the fastest path to a cleaner, ad-free experience is to grab a Surfshark subscription with CleanWeb enabled. It covers every app, not just your browser, and you get the VPN as a bonus. If budget is a concern, AdGuard's free iOS and Android apps plus a DNS resolver will get you most of the way there at no cost.
 
-[Start blocking mobile ads with Surfshark CleanWeb](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=adguard-extension-2026__cta)
+[Start blocking mobile ads with Surfshark CleanWeb](/blog/surfshark?sub=adguard-extension-2026__cta)

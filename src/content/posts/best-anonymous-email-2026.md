@@ -17,7 +17,7 @@ If your inbox looks like a dumpster fire — 50+ spam messages a day, promotions
 The strongest all-around pick for most people is **Surfshark Alt-ID** — it pairs a randomised [email alias](https://snipstack.io/email-alias-outlook-2026/) with a fake identity profile so you are not just hiding your email, you are hiding the persona behind it. For pure alias-only needs, SimpleLogin and AnonAddy are excellent open-source runners-up. If you want a completely separate encrypted inbox rather than just an alias, ProtonMail and Tutanota are the ones to beat. Read on for the full breakdown.
 
 **Already decided?** Grab Alt-ID as part of Surfshark One right now:
-[Get Surfshark Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-anonymous-email-2026__above-fold)
+[Get Surfshark Alt-ID](/blog/surfshark?sub=best-anonymous-email-2026__above-fold)
 
 ---
 
@@ -31,7 +31,7 @@ The practical upside for spam-exhausted users is huge. Instead of giving Amazon,
 
 Alt-ID is bundled into Surfshark One, which also includes a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts — making it one of the better-value privacy bundles available in 2026. There is no standalone free tier, but the entry price is low and the full-identity generation is something no competing alias tool offers at this price point.
 
-[Protect your inbox with Alt-ID](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-anonymous-email-2026__mid)
+[Protect your inbox with Alt-ID](/blog/surfshark?sub=best-anonymous-email-2026__mid)
 
 ---
 
@@ -138,7 +138,7 @@ iCloud Hide My Email| Alias (Apple) | Partial   | No           | $0.99/mo
 
 Most spam-exhausted users will get the best results from a two-layer approach: a private mailbox (ProtonMail or Tuta) as your real address, and Alt-ID or SimpleLogin aliases for every signup. The cost is under $10/month total and the spam drop is dramatic.
 
-[Start with Surfshark Alt-ID today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-anonymous-email-2026__cta)
+[Start with Surfshark Alt-ID today](/blog/surfshark?sub=best-anonymous-email-2026__cta)
 
 ---
 
@@ -152,7 +152,7 @@ No tool can promise complete untraceability — email headers, metadata, and acc
 
 Yes. Emails sent to your Alt-ID alias forward to your real inbox, and you can reply through the alias so the recipient sees only the alias address. Your real email is never exposed in the exchange.
 
-Learn more at the official listing: [Surfshark Alt-ID on Surfshark One](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=best-anonymous-email-2026__faq)
+Learn more at the official listing: [Surfshark Alt-ID on Surfshark One](/blog/surfshark?sub=best-anonymous-email-2026__faq)
 
 ### Can I use multiple alias services at the same time?
 

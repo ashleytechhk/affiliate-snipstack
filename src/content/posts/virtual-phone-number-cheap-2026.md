@@ -18,7 +18,7 @@ A cheap [virtual phone number](https://snipstack.io/virtual-phone-number-for-wha
 
 ## Quick Verdict
 
-**Top pick: [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-cheap-2026__above-fold)** — a [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/) that works globally, doesn't require a second SIM, and gives you real mobile number quality that dating apps won't flag as VoIP. You can pause or replace it whenever you want. It's bundled with Surfshark's privacy suite, making the per-feature cost genuinely cheap. For online daters who want a durable, low-friction solution, it's the clearest option on this list.
+**Top pick: [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-cheap-2026__above-fold)** — a [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/) that works globally, doesn't require a second SIM, and gives you real mobile number quality that dating apps won't flag as VoIP. You can pause or replace it whenever you want. It's bundled with Surfshark's privacy suite, making the per-feature cost genuinely cheap. For online daters who want a durable, low-friction solution, it's the clearest option on this list.
 
 ---
 
@@ -42,7 +42,7 @@ With those filters in mind, here are the seven options that actually hold up.
 
 **Best overall for online daters**
 
-[Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-cheap-2026__above-fold) gives you a real mobile phone number — not a VoIP line — without requiring a second SIM card or device. You pick a number, it forwards calls and texts to your phone through the Surfshark app, and dating apps treat it like any other real number during verification.
+[Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-cheap-2026__above-fold) gives you a real mobile phone number — not a VoIP line — without requiring a second SIM card or device. You pick a number, it forwards calls and texts to your phone through the Surfshark app, and dating apps treat it like any other real number during verification.
 
 The reason it tops this list isn't just the feature set — it's the cost math. Alt-Number is bundled with Surfshark One, which includes a VPN, data breach monitoring, and identity alerts. If you'd use any of those tools anyway, you're effectively getting the virtual number for close to nothing. For anyone who wants privacy on multiple fronts, this is where the value lands.
 
@@ -176,7 +176,7 @@ If you're outside the US, Google Voice, TextNow, Hushed, Burner, and Talkatone a
 
 If you're in the US and want free, Google Voice is worth trying first. Accept that some apps may reject it.
 
-If you want something that reliably passes app verification and can be killed cleanly when things go sideways, [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-cheap-2026__mid) is the option that doesn't make you gamble on whether the verification will go through.
+If you want something that reliably passes app verification and can be killed cleanly when things go sideways, [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-cheap-2026__mid) is the option that doesn't make you gamble on whether the verification will go through.
 
 ---
 
@@ -184,7 +184,7 @@ If you want something that reliably passes app verification and can be killed cl
 
 **What is the cheapest [virtual phone number](https://snipstack.io/virtual-phone-number-2026/) for dating apps?**
 
-Google Voice and TextNow are free, but they come with verification risks on some dating apps. If "cheap" means "works reliably the first time," Surfshark Alt-Number offers better value — the per-feature cost is low when bundled, and it doesn't require troubleshooting failed verifications. [See Alt-Number here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-cheap-2026__faq)
+Google Voice and TextNow are free, but they come with verification risks on some dating apps. If "cheap" means "works reliably the first time," Surfshark Alt-Number offers better value — the per-feature cost is low when bundled, and it doesn't require troubleshooting failed verifications. [See Alt-Number here.](/blog/surfshark?sub=virtual-phone-number-cheap-2026__faq)
 
 **Will dating apps like Tinder accept a virtual phone number?**
 
@@ -212,8 +212,8 @@ WhatsApp verification works well with real mobile numbers. iMessage ties to Appl
 
 Most of the "cheap" virtual phone number options on this list come with the same catch: they're VoIP lines that dating apps may reject at verification. If your goal is privacy without the gamble of failed SMS codes, the practical options narrow down quickly.
 
-For US-only, zero-budget needs: try Google Voice and accept the occasional rejection. For everything else — especially if you want a number that reliably works across apps and countries — [Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-cheap-2026__cta) is the right call. Real number quality, full control, and you can cut it off the moment you want to.
+For US-only, zero-budget needs: try Google Voice and accept the occasional rejection. For everything else — especially if you want a number that reliably works across apps and countries — [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-cheap-2026__cta) is the right call. Real number quality, full control, and you can cut it off the moment you want to.
 
 Your real number isn't something a first match needs. Now it doesn't have to be.
 
-[Get Surfshark Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=virtual-phone-number-cheap-2026__cta)
+[Get Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-cheap-2026__cta)

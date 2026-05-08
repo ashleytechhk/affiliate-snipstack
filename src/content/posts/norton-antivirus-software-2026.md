@@ -12,7 +12,7 @@ If you have been paying for Norton [antivirus software](https://snipstack.io/ant
 
 This comparison breaks down what Norton actually delivers versus what competitors — particularly Surfshark One Bundle — offer for the same or lower price. We cut through the marketing noise to give you a straight answer.
 
-**[Ditch the bloat — try Surfshark One Bundle today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-software-2026__above-fold)**
+**[Ditch the bloat — try Surfshark One Bundle today](/blog/surfshark?sub=norton-antivirus-software-2026__above-fold)**
 
 ---
 
@@ -65,7 +65,7 @@ Surfshark's VPN is the company's flagship product — it is not an afterthought 
 - NoBorders mode for networks with restrictive firewalls
 - CleanWeb to block ads and trackers at the DNS level before they even load
 
-If you are currently paying for Norton plus a separate VPN subscription, that is two bills you are paying instead of one. **[Surfshark One Bundle covers both — see current pricing here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-software-2026__mid)**
+If you are currently paying for Norton plus a separate VPN subscription, that is two bills you are paying instead of one. **[Surfshark One Bundle covers both — see current pricing here](/blog/surfshark?sub=norton-antivirus-software-2026__mid)**
 
 ---
 
@@ -126,7 +126,7 @@ Do not let Norton auto-renew while you are mid-switch. Cancel as soon as you con
 ## FAQ
 
 **Is Surfshark antivirus as good as Norton?**
-In independent lab tests, both score in the high-90s for malware detection. For everyday users, the real-world difference is negligible. Surfshark's lighter system footprint and bundled privacy tools often make it the better overall package. [Check Surfshark One Bundle here](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-software-2026__faq).
+In independent lab tests, both score in the high-90s for malware detection. For everyday users, the real-world difference is negligible. Surfshark's lighter system footprint and bundled privacy tools often make it the better overall package. [Check Surfshark One Bundle here](/blog/surfshark?sub=norton-antivirus-software-2026__faq).
 
 **Does Surfshark One Bundle include a VPN?**
 Yes — and it is a full-featured VPN with unlimited devices, 3,200+ servers, and no data cap. Norton's bundled VPN is more restricted, especially on lower-tier plans.
@@ -151,4 +151,4 @@ Running two antivirus engines simultaneously on the same device causes conflicts
 
 Surfshark One Bundle covers antivirus, VPN, breach monitoring, ad blocking, and private search under one subscription, on unlimited devices, at a price that does not ambush you at renewal. For anyone currently paying for Norton plus a separate VPN, or anyone who opened their renewal email and felt a knot in their stomach, switching is worth 15 minutes of your afternoon.
 
-**[Get Surfshark One Bundle — see the current deal](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-software-2026__cta)**
+**[Get Surfshark One Bundle — see the current deal](/blog/surfshark?sub=norton-antivirus-software-2026__cta)**

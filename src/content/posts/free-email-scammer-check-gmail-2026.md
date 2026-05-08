@@ -16,7 +16,7 @@ The good news: you do not need to be a tech expert to check whether an email is 
 
 Gmail's built-in protections block a lot of spam automatically, but sophisticated phishing slips through. Your best defense is layering Gmail's native warnings with a dedicated scam-check tool and a privacy layer like Surfshark's Alert system. The seven options below cover every scenario — from checking a sketchy sender address to scanning links before you click. Most are free; the one paid upgrade is worth it if you get a high volume of email.
 
-> **Ready to level up your protection now?** [Try Surfshark's email scam checker free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-gmail-2026__above-fold) before reading on — then come back for the full breakdown.
+> **Ready to level up your protection now?** [Try Surfshark's email scam checker free](/blog/surfshark?sub=free-email-scammer-check-gmail-2026__above-fold) before reading on — then come back for the full breakdown.
 
 ---
 
@@ -40,7 +40,7 @@ Surfshark's Email Scam Checker goes beyond flagging suspicious words. It checks 
 
 The free tier covers a generous number of checks per day, making it practical for daily use without pulling out a credit card. Upgrading to Surfshark One adds real-time breach alerts that tell you if your own email address has appeared in a leaked database — a separate but equally important piece of the security puzzle.
 
-[Check a suspicious email address now — free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-gmail-2026__mid)
+[Check a suspicious email address now — free](/blog/surfshark?sub=free-email-scammer-check-gmail-2026__mid)
 
 ---
 
@@ -140,7 +140,7 @@ No. Gmail's filters catch a large percentage of obvious spam and phishing, but t
 
 ### Is Surfshark's email scam checker really free?
 
-Yes, the core scam-check functionality is available on a free tier. The ongoing breach monitoring (Surfshark Alert) requires a subscription, though a trial period lets you test it at no cost. [See current free trial details here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-gmail-2026__faq)
+Yes, the core scam-check functionality is available on a free tier. The ongoing breach monitoring (Surfshark Alert) requires a subscription, though a trial period lets you test it at no cost. [See current free trial details here.](/blog/surfshark?sub=free-email-scammer-check-gmail-2026__faq)
 
 ### What does it mean if an email fails DMARC?
 
@@ -158,7 +158,7 @@ Forwarding the full email (rather than clicking links inside it) is generally sa
 
 ## Final Verdict
 
-The fastest free setup for most Gmail users: turn on Enhanced Safe Browsing in your Google Account, bookmark [Surfshark's email scam checker](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=free-email-scammer-check-gmail-2026__cta) for per-email checks, and add VirusTotal to your bookmarks for link scanning. This three-tool stack costs nothing, takes about five minutes to set up, and covers the overwhelming majority of scam scenarios you will encounter.
+The fastest free setup for most Gmail users: turn on Enhanced Safe Browsing in your Google Account, bookmark [Surfshark's email scam checker](/blog/surfshark?sub=free-email-scammer-check-gmail-2026__cta) for per-email checks, and add VirusTotal to your bookmarks for link scanning. This three-tool stack costs nothing, takes about five minutes to set up, and covers the overwhelming majority of scam scenarios you will encounter.
 
 If you receive a high volume of sensitive email or have already appeared in a breach, upgrading to Surfshark One's Alert monitoring adds the continuous, proactive layer that free tools cannot provide on their own.
 

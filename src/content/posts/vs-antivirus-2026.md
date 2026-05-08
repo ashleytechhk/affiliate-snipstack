@@ -14,7 +14,7 @@ If you have been paying $80–$120 a year for a suite that slows down your machi
 
 This comparison breaks down the top contenders for 2026 so you can decide whether to stick, switch, or upgrade.
 
-**[See Surfshark One Bundle pricing and features](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-antivirus-2026__above-fold)**
+**[See Surfshark One Bundle pricing and features](/blog/surfshark?sub=vs-antivirus-2026__above-fold)**
 
 ---
 
@@ -57,7 +57,7 @@ A typical Norton 360 Deluxe renewal (year two onwards) runs $100+, while the int
 
 ## Surfshark One Bundle: The Integrated Approach
 
-**[Explore Surfshark One — antivirus + VPN + alerts bundled](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-antivirus-2026__mid)**
+**[Explore Surfshark One — antivirus + VPN + alerts bundled](/blog/surfshark?sub=vs-antivirus-2026__mid)**
 
 Surfshark One bundles four tools into a single subscription:
 
@@ -129,7 +129,7 @@ Unless you find a heavily discounted McAfee deal covering multiple years upfront
 
 **Skip McAfee** unless the deal is compelling — its value proposition has been outpaced by every suite in this comparison.
 
-**[Get Surfshark One Bundle — see today's pricing](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-antivirus-2026__cta)**
+**[Get Surfshark One Bundle — see today's pricing](/blog/surfshark?sub=vs-antivirus-2026__cta)**
 
 ---
 
@@ -137,7 +137,7 @@ Unless you find a heavily discounted McAfee deal covering multiple years upfront
 
 ### Does Surfshark One include a full VPN or a limited one?
 
-The Surfshark One bundle includes the full Surfshark VPN with unlimited data and access to 3,200+ servers across 100 countries. There is no data cap, unlike Norton's VPN on lower tiers. [Check current Surfshark One pricing here.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=vs-antivirus-2026__faq)
+The Surfshark One bundle includes the full Surfshark VPN with unlimited data and access to 3,200+ servers across 100 countries. There is no data cap, unlike Norton's VPN on lower tiers. [Check current Surfshark One pricing here.](/blog/surfshark?sub=vs-antivirus-2026__faq)
 
 ### Is Surfshark's antivirus as good as Norton's?
 

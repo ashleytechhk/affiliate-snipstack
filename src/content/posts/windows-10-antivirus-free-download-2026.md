@@ -14,7 +14,7 @@ This guide walks through seven of the best **windows 10 antivirus free download*
 
 > **Quick Verdict:** [Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/) (built into Windows 10) covers the basics at no cost, but pairing it with a dedicated free antivirus — or adding a privacy layer like Surfshark Antivirus — closes gaps Defender misses. For seniors who shop or bank online, we recommend going one step beyond the free tier.
 
-**[Get Surfshark Antivirus — risk-free trial available](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-10-antivirus-free-download-2026__above-fold)**
+**[Get Surfshark Antivirus — risk-free trial available](/blog/surfshark?sub=windows-10-antivirus-free-download-2026__above-fold)**
 
 ---
 
@@ -80,7 +80,7 @@ The downside is minimal customization. You cannot schedule scans or see detailed
 
 ---
 
-**[Want real-time protection + a VPN in one app? Try Surfshark — plans from $2.69/month](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-10-antivirus-free-download-2026__mid)**
+**[Want real-time protection + a VPN in one app? Try Surfshark — plans from $2.69/month](/blog/surfshark?sub=windows-10-antivirus-free-download-2026__mid)**
 
 ---
 
@@ -102,7 +102,7 @@ For seniors, Surfshark Antivirus earns a spot on this list for three reasons. Fi
 
 Surfshark Antivirus is not permanently free, but the trial requires no credit card and gives you a real sense of what full protection feels like. Many users find the upgrade price easy to justify after experiencing the simplicity firsthand.
 
-**[Start your Surfshark free trial — no credit card needed](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-10-antivirus-free-download-2026__cta)**
+**[Start your Surfshark free trial — no credit card needed](/blog/surfshark?sub=windows-10-antivirus-free-download-2026__cta)**
 
 ---
 
@@ -148,7 +148,7 @@ All seven tools on this list are designed for non-technical users. Each installe
 Modern free antivirus tools are designed to run quietly and use minimal resources. Bitdefender Free and Microsoft Defender are particularly light. If your computer is more than five years old, avoid running multiple security programs simultaneously.
 
 **Q: What is the difference between antivirus and a VPN?**
-An antivirus watches files and websites on your computer for malicious software. A VPN encrypts your internet connection so that no one — not hackers on a coffee-shop Wi-Fi network, not your internet provider — can easily spy on what you are doing. They protect against different threats and work well together. [Surfshark combines both in one app.](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-10-antivirus-free-download-2026__faq)
+An antivirus watches files and websites on your computer for malicious software. A VPN encrypts your internet connection so that no one — not hackers on a coffee-shop Wi-Fi network, not your internet provider — can easily spy on what you are doing. They protect against different threats and work well together. [Surfshark combines both in one app.](/blog/surfshark?sub=windows-10-antivirus-free-download-2026__faq)
 
 **Q: How do I know if my computer already has a virus?**
 Warning signs include: the computer runs much slower than usual, new toolbars appear in your browser that you did not install, pop-up ads appear constantly even on normal websites, or the mouse moves on its own. If you notice any of these, download and run Malwarebytes Free immediately for a cleanup scan.
@@ -164,4 +164,4 @@ Staying safe online does not require technical expertise or a big budget. Start 
 
 The goal is one thing: browsing, banking, and emailing with confidence. Any of the tools above gets you there.
 
-**[Try Surfshark Antivirus free today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=windows-10-antivirus-free-download-2026__cta)**
+**[Try Surfshark Antivirus free today](/blog/surfshark?sub=windows-10-antivirus-free-download-2026__cta)**

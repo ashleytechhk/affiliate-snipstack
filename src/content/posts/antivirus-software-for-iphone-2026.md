@@ -10,7 +10,7 @@ Your iPhone already runs in a sandboxed environment — Apple's security model i
 
 This comparison cuts through the noise. We looked at what iPhone users actually need in 2026: real-time web protection, VPN coverage, identity monitoring, and a price that doesn't feel like extortion.
 
-**[Check the Surfshark One bundle price →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=antivirus-software-for-iphone-2026__above-fold)**
+**[Check the Surfshark One bundle price →](/blog/surfshark?sub=antivirus-software-for-iphone-2026__above-fold)**
 
 ---
 
@@ -71,7 +71,7 @@ Surfshark Search is a small but appreciated extra — a private, ad-free search 
 
 **Pricing transparency:** Surfshark One's long-term plan pricing is competitive and the renewal bump is modest compared to what Norton pulls after year one.
 
-**[See current Surfshark One pricing →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=antivirus-software-for-iphone-2026__mid)**
+**[See current Surfshark One pricing →](/blog/surfshark?sub=antivirus-software-for-iphone-2026__mid)**
 
 ![Surfshark One feature breakdown for iPhone users](/og/antivirus-software-for-iphone-2026-inline-1.png)
 
@@ -132,7 +132,7 @@ The legacy players built their businesses on Windows. They've adapted to mobile,
 
 Your iPhone isn't going to get a traditional virus. But it is going to connect to sketchy public Wi-Fi, receive phishing texts, and have your email show up in data breaches. Surfshark One covers all three.
 
-**[Get Surfshark One and drop Norton/McAfee for good →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=antivirus-software-for-iphone-2026__cta)**
+**[Get Surfshark One and drop Norton/McAfee for good →](/blog/surfshark?sub=antivirus-software-for-iphone-2026__cta)**
 
 ---
 
@@ -148,7 +148,7 @@ For iPhone-only users, Norton 360 is overbuilt and overpriced. You're paying for
 
 ### What is the Surfshark One bundle?
 
-Surfshark One combines four products: the Surfshark VPN (unlimited devices, no-logs), Surfshark Alert (dark web and breach monitoring), Surfshark Search (private, ad-free search engine), and Surfshark Antivirus (alert-based protection for supported platforms). On iPhone, VPN and breach alerts are the most impactful features. [See what's included in Surfshark One →](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=antivirus-software-for-iphone-2026__faq)
+Surfshark One combines four products: the Surfshark VPN (unlimited devices, no-logs), Surfshark Alert (dark web and breach monitoring), Surfshark Search (private, ad-free search engine), and Surfshark Antivirus (alert-based protection for supported platforms). On iPhone, VPN and breach alerts are the most impactful features. [See what's included in Surfshark One →](/blog/surfshark?sub=antivirus-software-for-iphone-2026__faq)
 
 ### Can Surfshark One replace McAfee?
 

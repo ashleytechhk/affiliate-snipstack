@@ -18,7 +18,7 @@ The problem is that not all second-number apps are built the same. Some are over
 
 For online daters who want a real, private number without carrying two phones, **Surfshark Alt-Number** is the standout pick in 2026. It gives you a dedicated phone number backed by a privacy-first company, with no ad monetization model. Google Voice is the best free option if you only need something casual. TextNow and Hushed are solid mid-tier picks if you want flexibility without a subscription.
 
-**Our top pick:** [Get Alt-Number from Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-2026__above-fold) — private numbers, no ads, no data selling.
+**Our top pick:** [Get Alt-Number from Surfshark](/blog/surfshark?sub=second-phone-number-2026__above-fold) — private numbers, no ads, no data selling.
 
 ---
 
@@ -44,7 +44,7 @@ What separates Alt-Number from most competitors is the company behind it. Surfsh
 
 Setup takes under two minutes. Pick a number with your preferred area code, and it's live. If a conversation turns sour or you decide you're done with a match, you can swap or delete the number in the app. No phone calls to customer service, no waiting period.
 
-[Try Alt-Number risk-free](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-2026__mid)
+[Try Alt-Number risk-free](/blog/surfshark?sub=second-phone-number-2026__mid)
 
 ---
 
@@ -156,7 +156,7 @@ For most people reading this, **Surfshark Alt-Number** is the answer. It does ex
 
 It costs money, but so does the time and stress of dealing with harassment or data exposure. The peace of mind is worth the price.
 
-[Get started with Alt-Number today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-2026__cta)
+[Get started with Alt-Number today](/blog/surfshark?sub=second-phone-number-2026__cta)
 
 ---
 
@@ -172,7 +172,7 @@ It depends on the app. Surfshark Alt-Number, Hushed, Burner, and TextNow all sup
 
 **What happens if I delete my second phone number?**
 
-Once you cancel or delete a number, it becomes unreachable. Calls and texts sent to it will not be delivered, and you will not receive any notifications. This is the feature that makes second numbers so useful for dating: you can cut contact cleanly, without blocking or confrontation. [Alt-Number](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=second-phone-number-2026__faq) lets you do this instantly from the app.
+Once you cancel or delete a number, it becomes unreachable. Calls and texts sent to it will not be delivered, and you will not receive any notifications. This is the feature that makes second numbers so useful for dating: you can cut contact cleanly, without blocking or confrontation. [Alt-Number](/blog/surfshark?sub=second-phone-number-2026__faq) lets you do this instantly from the app.
 
 **Is using a second phone number legal?**
 

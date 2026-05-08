@@ -13,7 +13,7 @@ Worried about viruses, scammers, and suspicious emails on your Mac? You are not 
 This guide walks you through everything step by step, using plain language. No tech jargon. No confusing menus. Just simple instructions you can follow at your own pace.
 
 > **Already know you need protection? Start here:**
-> [Get Surfshark Antivirus — Easy, Trusted, Affordable](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-for-mac-2026__above-fold)
+> [Get Surfshark Antivirus — Easy, Trusted, Affordable](/blog/surfshark?sub=norton-antivirus-for-mac-2026__above-fold)
 
 ---
 
@@ -41,7 +41,7 @@ Open your web browser (Safari, Chrome, or Firefox — any will work).
 
 In the address bar at the top, type or click this link:
 
-**[Get Surfshark Antivirus for Mac](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-for-mac-2026__mid)**
+**[Get Surfshark Antivirus for Mac](/blog/surfshark?sub=norton-antivirus-for-mac-2026__mid)**
 
 You will land on the Surfshark website. Look for the plan that says **Antivirus** or **Surfshark One** — these include antivirus protection for your Mac.
 
@@ -182,7 +182,7 @@ It is a good idea to remove other antivirus programs before installing a new one
 
 ### How much does Surfshark Antivirus cost?
 
-Pricing changes from time to time, but Surfshark is generally one of the more affordable options on the market. Multi-year plans offer the best value. You can check the latest pricing here: [View current Surfshark Antivirus plans](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-for-mac-2026__faq)
+Pricing changes from time to time, but Surfshark is generally one of the more affordable options on the market. Multi-year plans offer the best value. You can check the latest pricing here: [View current Surfshark Antivirus plans](/blog/surfshark?sub=norton-antivirus-for-mac-2026__faq)
 
 ### Does Surfshark slow down my Mac?
 
@@ -201,6 +201,6 @@ You completed all 8 steps. Your Mac is now:
 
 If you have not set up your protection yet, there is no better time than right now.
 
-**[Get Surfshark Antivirus — Protect Your Mac Today](https://get.surfshark.net/aff_c?offer_id=6&aff_id=45462&sub_id=norton-antivirus-for-mac-2026__cta)**
+**[Get Surfshark Antivirus — Protect Your Mac Today](/blog/surfshark?sub=norton-antivirus-for-mac-2026__cta)**
 
 Stay safe out there.
