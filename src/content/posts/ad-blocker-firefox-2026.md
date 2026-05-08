@@ -143,7 +143,7 @@ Yes, and it is recommended. uBlock Origin blocks ads within Firefox at the brows
 
 ### Will an [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) slow down my phone or Firefox?
 
-A well-implemented ad blocker actually speeds up page loads by preventing dozens of ad scripts from executing. uBlock Origin is specifically engineered to be low-memory. The main performance variable is the VPN overhead from tools like CleanWeb, which typically adds less than 5–10ms latency on a good connection.
+A well-implemented [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) actually speeds up page loads by preventing dozens of ad scripts from executing. uBlock Origin is specifically engineered to be low-memory. The main performance variable is the VPN overhead from tools like CleanWeb, which typically adds less than 5–10ms latency on a good connection.
 
 ### Is it legal to use an ad blocker?
 

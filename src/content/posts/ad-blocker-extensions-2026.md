@@ -150,7 +150,7 @@ Not exactly. On desktop, browsers like Chrome and Firefox support extensions tha
 
 ### Will an [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) slow down my phone?
 
-Most well-designed ad blockers speed up browsing by preventing ads from loading in the first place. Pages load faster, use less data, and consume less battery because the browser is not fetching dozens of ad scripts per page. The main exception is extensions that do on-device HTTPS decryption, which can add a small overhead — still a net positive in most cases.
+Most well-designed [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/)s speed up browsing by preventing ads from loading in the first place. Pages load faster, use less data, and consume less battery because the browser is not fetching dozens of ad scripts per page. The main exception is extensions that do on-device HTTPS decryption, which can add a small overhead — still a net positive in most cases.
 
 ### Is Surfshark CleanWeb really an ad blocker, or just a VPN?
 

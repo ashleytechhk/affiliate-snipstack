@@ -101,7 +101,7 @@ The Burner app (iOS/Android) gives you temporary numbers you can "burn" — dele
 4. That's your new dating number — use it for Tinder, Hinge, Bumble, or anywhere else
 5. When you're done with someone, disable forwarding or swap the number entirely
 
-No SIM swap. No second phone. No waiting. The number receives real SMS and calls just like a standard mobile number.
+No SIM swap. No [second phone](https://snipstack.io/second-phone-number-apk-2026/). No waiting. The number receives real SMS and calls just like a standard mobile number.
 
 [Get Surfshark Alt-Number](/blog/surfshark?sub=burner-number-dating-apps-2026__mid)
 

@@ -119,7 +119,7 @@ Brave has ad blocking compiled into the browser engine itself. The Shields syste
 
 SponsorBlock does not block ads — it skips sponsored segments within videos themselves. These are the 30-90 second sections where YouTubers promote products, separate from YouTube's pre-roll ads.
 
-SponsorBlock uses a community database of manually tagged sponsor timestamps and automatically skips them during playback. It is entirely different from an ad blocker and works reliably because it does not interact with YouTube's ad serving infrastructure at all.
+SponsorBlock uses a community database of manually tagged sponsor timestamps and automatically skips them during playback. It is entirely different from an [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) and works reliably because it does not interact with YouTube's ad serving infrastructure at all.
 
 **Use this alongside an ad blocker** — it handles a problem that DNS blocking and browser extensions both miss.
 

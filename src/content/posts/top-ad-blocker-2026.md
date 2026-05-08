@@ -78,7 +78,7 @@ The limitation is the same as every browser-based solution: protection ends at t
 
 ### 5. Pi-hole — Best for Whole-Home Network Blocking
 
-**Why it's powerful:** Pi-hole is a DNS-based ad blocker that runs on a device on your home network — typically a Raspberry Pi or a spare machine — and intercepts DNS queries for known ad domains before they reach any device on your network. Every device connected to your Wi-Fi benefits automatically: laptops, phones, smart TVs, game consoles, IoT devices.
+**Why it's powerful:** Pi-hole is a DNS-based [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) that runs on a device on your home network — typically a Raspberry Pi or a spare machine — and intercepts DNS queries for known ad domains before they reach any device on your network. Every device connected to your Wi-Fi benefits automatically: laptops, phones, smart TVs, game consoles, IoT devices.
 
 The coverage is genuinely impressive. Because it operates at the DNS layer, it blocks ads that browser extensions can't reach — including in-app ads on mobile devices that connect through your home network. For home power-users, it's an excellent solution.
 

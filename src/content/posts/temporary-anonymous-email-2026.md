@@ -227,7 +227,7 @@ Yes. The Surfshark app for iOS and Android includes Alt-ID. You can create, labe
 
 ### What is the difference between a [temporary email and](https://snipstack.io/temporary-email-and-password-free-2026/) a masked [email alias](https://snipstack.io/email-alias-generator-2026/)?
 
-A [temporary email](https://snipstack.io/temporary-email-stop-spam-2026/) is a disposable inbox with a short lifespan — you check it separately from your real inbox and it disappears on its own. A masked email alias (like Surfshark Alt-ID) is a permanent forwarding address that delivers messages to your real inbox. The alias exists until you delete it. Masked aliases are better for any account you plan to actually use long-term while keeping your real address hidden.
+A [temporary email](https://snipstack.io/temporary-email-stop-spam-2026/) is a disposable inbox with a short lifespan — you check it separately from your real inbox and it disappears on its own. A masked [email alias](https://snipstack.io/how-email-alias-2026/) (like Surfshark Alt-ID) is a permanent forwarding address that delivers messages to your real inbox. The alias exists until you delete it. Masked aliases are better for any account you plan to actually use long-term while keeping your real address hidden.
 
 ---
 

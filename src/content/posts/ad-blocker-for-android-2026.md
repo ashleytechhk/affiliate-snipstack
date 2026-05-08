@@ -142,7 +142,7 @@ Surfshark CleanWeb is the most practical paid option: it doesn't require root, w
 
 Yes. VPN-layer solutions like Surfshark CleanWeb and AdGuard (sideloaded) work without root access. DNS-based options like AdGuard DNS and NextDNS also require no root. Root is only needed for deep system-level ad blocking approaches that are increasingly unnecessary in 2026.
 
-### Does an ad blocker work for in-app ads on Android?
+### Does an [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) work for in-app ads on Android?
 
 Only VPN-layer ad blockers catch in-app ads. Browser extensions and DNS-only solutions block ads in the browser but have no visibility into traffic from other apps. [Surfshark CleanWeb](/blog/surfshark?sub=ad-blocker-for-android-2026__faq) uses a local VPN to intercept all app traffic, including in-app ad requests.
 

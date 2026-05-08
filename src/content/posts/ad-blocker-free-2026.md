@@ -144,7 +144,7 @@ Yes, with caveats. Browser extensions and content blockers are low-risk. VPN-bas
 
 The opposite is usually true. Pages and apps load faster when they are not fetching and rendering ads. Battery life can improve slightly for the same reason. DNS-based blockers add minimal latency (1–5ms). A full VPN solution adds marginally more, though on modern hardware and decent connections it is not noticeable in daily use.
 
-**Do I need to root or jailbreak my phone to use a system-wide ad blocker?**
+**Do I need to root or jailbreak my phone to use a system-wide [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/)?**
 
 No. Blokada 5 uses Android's built-in local VPN feature — no root required. NextDNS installs via a system DNS profile. Surfshark CleanWeb runs as a standard VPN app. None of these require root or jailbreak.
 
