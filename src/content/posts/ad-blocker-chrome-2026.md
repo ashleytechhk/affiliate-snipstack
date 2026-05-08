@@ -148,7 +148,7 @@ Network-level blockers like CleanWeb typically make browsing faster, not slower 
 
 ### Is ad blocking legal?
 
-Yes, in virtually all jurisdictions. Ad blocking is a consumer choice about what content your device loads. There are no laws that require you to view advertising. Some websites may restrict access if they detect ad blockers, but that's a site policy, not a legal issue.
+Yes, in virtually all jurisdictions. Ad blocking is a consumer choice about what content your device loads. There are no laws that require you to view advertising. Some websites may restrict access if they detect [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s, but that's a site policy, not a legal issue.
 
 ### Does Surfshark CleanWeb block ads in apps other than Chrome?
 

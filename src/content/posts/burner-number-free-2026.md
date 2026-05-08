@@ -152,7 +152,7 @@ The number is released back into the pool and eventually reassigned to another u
 
 WhatsApp requires a number that can receive SMS — most burner services qualify, though some VoIP ranges are blocked. iMessage works with any number that can receive a verification text. TextNow, Talkatone, and Alt-Number all pass WhatsApp verification in most regions. Test before you commit to a number for a specific platform.
 
-### How long do free burner numbers last?
+### How long do [free burner number](https://snipstack.io/free-burner-number-app-2026/)s last?
 
 It varies widely. Google Voice numbers are indefinite with occasional use. TextNow and TextFree numbers typically expire after 30 days of inactivity. Trial numbers from Hushed and Burner expire within the trial window. Paid tiers on any of these services eliminate expiry concerns. If you need a number to last through a month-long dating conversation, a paid plan is the safer bet.
 

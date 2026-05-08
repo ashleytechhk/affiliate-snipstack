@@ -89,7 +89,7 @@ AdGuard was rebuilt for Manifest V3 and is the most capable MV3-native extension
 
 ### 3. uBlock Origin on Firefox — Best Free Option for Firefox Users
 
-On Firefox, uBlock Origin runs the full Manifest V2 engine with zero restrictions. It is the most powerful browser extension ad blocker available, and it handles YouTube ads extremely well — including cosmetic blocking (hiding the empty containers after ads are removed) and tracker blocking.
+On Firefox, uBlock Origin runs the full Manifest V2 engine with zero restrictions. It is the most powerful browser extension [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) available, and it handles YouTube ads extremely well — including cosmetic blocking (hiding the empty containers after ads are removed) and tracker blocking.
 
 **Important:** This only applies to Firefox. On Chrome, uBlock Origin Lite is the only available version, and its YouTube ad blocking is weak.
 

@@ -180,7 +180,7 @@ Signing up with aliases keeps your inbox cleaner. It does not mask your IP addre
 
 For full-stack privacy, aliases are the foundation of a layered approach:
 
-- **Email alias** — your real address stays out of site databases
+- **[Email alias](https://snipstack.io/email-alias-generator-2026/)** — your real address stays out of site databases
 - **Identity details** — a fictional name and birthdate reduce cross-site tracking
 - **VPN** — your IP address and location stay masked
 

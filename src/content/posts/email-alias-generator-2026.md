@@ -39,7 +39,7 @@ Before you start, make sure you have:
 
 Before the steps, a quick mental model. An email alias generator creates a secondary address — sometimes called a masked email or forwarding alias — that is entirely separate from your real inbox. When someone sends email to that alias, it arrives in your real inbox as normal. The sender never sees your actual address.
 
-The key difference from a temporary email is permanence. Throwaway services (Guerrilla Mail, 10 Minute Mail) give you an inbox that expires in minutes. An alias generator gives you a permanent address you control — one you can keep for years or delete the second it starts attracting spam.
+The key difference from a [temporary email](https://snipstack.io/temporary-email-and-password-free-2026/) is permanence. Throwaway services (Guerrilla Mail, 10 Minute Mail) give you an inbox that expires in minutes. An alias generator gives you a permanent address you control — one you can keep for years or delete the second it starts attracting spam.
 
 ---
 
@@ -138,7 +138,7 @@ When a particular alias starts attracting spam — when a shopping site sells yo
 ![Surfshark Alt-ID alias management dashboard showing active and disabled aliases side by side](/og/email-alias-generator-2026-inline-2.png)
 
 **The site is rejecting my alias address.**
-Sites increasingly block known temporary email domains. If a free generator's domain (simplelogin.com, addy.io) is on the site's blocklist, try Surfshark Alt-ID — the `surfshark.id` domain is not on most public blocklists and passes the majority of validation checks.
+Sites increasingly block known [temporary email](https://snipstack.io/temporary-email-and-password-2026/) domains. If a free generator's domain (simplelogin.com, addy.io) is on the site's blocklist, try Surfshark Alt-ID — the `surfshark.id` domain is not on most public blocklists and passes the majority of validation checks.
 
 **Forwarded mail is landing in my spam folder.**
 Add the forwarding domain to your safe senders list. In Gmail: open the misfiled email, click the three-dot menu, select **Filter messages like these**, then **Never send to spam**. In Outlook: **Settings → Mail → Junk email → Safe senders → Add**.
@@ -181,7 +181,7 @@ An email alias generator creates a secondary email address that forwards message
 Yes. Using an alias or masked email address is legal. You are simply choosing which address to share, the same way you might use a work number instead of your personal mobile. Some services prohibit disposable email addresses in their terms of service, but using one is not a legal violation.
 
 **Can websites detect and block alias addresses?**
-Yes. Many sites check submitted addresses against known alias and temporary email domains. Free services like Guerrilla Mail are frequently blocked. [Surfshark Alt-ID](/blog/altid?sub=email-alias-generator-2026__faq) uses the `surfshark.id` domain, which is not on most public blocklists and clears most real-time validation checks.
+Yes. Many sites check submitted addresses against known alias and [temporary email](https://snipstack.io/temporary-email-generator-2026/) domains. Free services like Guerrilla Mail are frequently blocked. [Surfshark Alt-ID](/blog/altid?sub=email-alias-generator-2026__faq) uses the `surfshark.id` domain, which is not on most public blocklists and clears most real-time validation checks.
 
 **How many aliases can I create with Surfshark Alt-ID?**
 Surfshark does not publish a hard per-account cap for Alt-ID. In practice, most users create one alias per service or category — one for shopping, one for newsletters, one for app trials — which keeps the dashboard manageable. The more granular your aliases, the more precisely you can cut off spam from a single source.

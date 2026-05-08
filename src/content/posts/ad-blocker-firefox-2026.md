@@ -141,7 +141,7 @@ Yes. Firefox for Android (Fenix) supports a curated library of real browser exte
 
 Yes, and it is recommended. uBlock Origin blocks ads within Firefox at the browser level. Surfshark CleanWeb blocks trackers and ad domains at the network level across all apps. They operate independently and do not conflict — in fact, they complement each other.
 
-### Will an ad blocker slow down my phone or Firefox?
+### Will an [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) slow down my phone or Firefox?
 
 A well-implemented ad blocker actually speeds up page loads by preventing dozens of ad scripts from executing. uBlock Origin is specifically engineered to be low-memory. The main performance variable is the VPN overhead from tools like CleanWeb, which typically adds less than 5–10ms latency on a good connection.
 

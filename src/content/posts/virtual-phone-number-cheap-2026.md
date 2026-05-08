@@ -84,7 +84,7 @@ TextNow works best as a short-term burner — use it to verify an account, then 
 
 **Cost:** Free (ad-supported) or ~$2/month for ad-free.
 
-**Works for:** Free burner use, app verification attempts, short-term needs.
+**Works for:** [Free burner](https://snipstack.io/free-burner-number-app-2026/) use, app verification attempts, short-term needs.
 
 ---
 

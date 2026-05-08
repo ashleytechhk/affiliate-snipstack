@@ -148,7 +148,7 @@ Adblock Plus         | iOS + Android   | No          | Yes       | Easy
 
 Not exactly. On desktop, browsers like Chrome and Firefox support extensions that intercept network requests before the page loads. On mobile, most browsers do not support extensions at all — Safari on iOS is the exception, via content-blocking APIs. This is why system-level tools (AdGuard, Surfshark CleanWeb) or browsers with built-in blocking (Brave, Firefox) are the practical options for mobile.
 
-### Will an ad blocker slow down my phone?
+### Will an [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) slow down my phone?
 
 Most well-designed ad blockers speed up browsing by preventing ads from loading in the first place. Pages load faster, use less data, and consume less battery because the browser is not fetching dozens of ad scripts per page. The main exception is extensions that do on-device HTTPS decryption, which can add a small overhead — still a net positive in most cases.
 

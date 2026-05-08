@@ -60,7 +60,7 @@ uBlock Origin also does nothing outside the browser. Open any app on your phone 
 
 On iOS, AdGuard's standalone app can catch in-app ads in a way that Safari-only extensions simply can't. On Android, the system-wide filtering is similarly broad. It supports DNS-level filtering on top of its standard lists, which adds another layer of coverage. The free tier is functional but limited; the Pro version unlocks custom filter rules, HTTPS filtering, and deeper DNS customization.
 
-AdGuard is a solid option for users who want a dedicated ad blocker without bundling it with a VPN. The main tradeoff versus CleanWeb: you're managing a separate subscription and setup rather than getting it included with VPN protection.
+AdGuard is a solid option for users who want a dedicated [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) without bundling it with a VPN. The main tradeoff versus CleanWeb: you're managing a separate subscription and setup rather than getting it included with VPN protection.
 
 ---
 

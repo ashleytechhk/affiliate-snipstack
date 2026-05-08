@@ -185,7 +185,7 @@ They are silently discarded. The sender will not receive a bounce or error messa
 
 ## Final Take
 
-A free email alias is one of the highest-value, lowest-effort privacy habits you can build in 2026. It takes about five minutes to set up and immediately starts protecting your real inbox. Alt-ID makes the ongoing management simple — create, label, and deactivate aliases without ever touching your real email account.
+A free [email alias](https://snipstack.io/email-alias-generator-2026/) is one of the highest-value, lowest-effort privacy habits you can build in 2026. It takes about five minutes to set up and immediately starts protecting your real inbox. Alt-ID makes the ongoing management simple — create, label, and deactivate aliases without ever touching your real email account.
 
 If you're getting 50+ spam emails a day, the problem is not going to fix itself. Every service that has your real address is a permanent liability. Switching to aliases for all new sign-ups stops the bleeding, and retroactively deactivating aliases for known spammy services cleans up what's already there.
 

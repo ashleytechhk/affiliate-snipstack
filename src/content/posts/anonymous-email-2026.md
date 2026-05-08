@@ -134,7 +134,7 @@ Alt-ID aliases cannot be restored once deleted. Create a new one with a fresh ad
 
 ## Is Anonymous Email Actually Anonymous?
 
-Practically speaking, an email alias gives you strong pseudonymity — marketers and spammers cannot connect your alias to your real identity. But "anonymous" in the absolute sense has limits:
+Practically speaking, an [email alias](https://snipstack.io/email-alias-generator-2026/) gives you strong pseudonymity — marketers and spammers cannot connect your alias to your real identity. But "anonymous" in the absolute sense has limits:
 
 - Your ISP can still see network-level traffic.
 - Payment records at Surfshark link to a real account.

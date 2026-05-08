@@ -34,7 +34,7 @@ Alt-ID is included with Surfshark One and Surfshark One+ plans, which also bundl
 
 ---
 
-### 2. Guerrilla Mail — Best Free Burner Address
+### 2. Guerrilla Mail — Best [Free Burner](https://snipstack.io/free-burner-number-app-2026/) Address
 
 Guerrilla Mail has been around since 2006 and remains one of the most reliable free options for quick throwaway email. You land on the site and you're instantly assigned a random address — no signup, no password, nothing. Incoming mail appears within seconds in an in-browser inbox.
 

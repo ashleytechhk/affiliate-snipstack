@@ -176,7 +176,7 @@ It significantly reduces spam tied to email address harvesting and data-broker l
 
 ## Get Started Today
 
-Fifty spam emails a day is not a fact of life — it is a solvable problem. An anonymous email alias puts you back in control. You decide which senders reach you, and you can revoke that access any time.
+Fifty spam emails a day is not a fact of life — it is a solvable problem. An anonymous [email alias](https://snipstack.io/email-alias-generator-2026/) puts you back in control. You decide which senders reach you, and you can revoke that access any time.
 
 **[Set up Alt-ID now and protect your inbox](/blog/surfshark?sub=best-free-anonymous-email-2026__cta)**
 

@@ -84,7 +84,7 @@ The tradeoff is that Focus is designed as an ephemeral, no-history browser. Sess
 
 ---
 
-### 5. AdGuard DNS on Firefox Mobile
+### 5. [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) on Firefox Mobile
 
 **Network-level filtering that works behind every browser, free.**
 
