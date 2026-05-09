@@ -81,7 +81,7 @@ You do not need a second SIM card, a dual-SIM phone, or any technical knowledge 
 
 ---
 
-## Step-by-Step: Getting a Second Phone Number on Android (No APK)
+## Step-by-Step: Getting a [Second Phone Number](https://snipstack.io/second-phone-number-iphone-2026/) on Android (No APK)
 
 ### Step 1 — Open Google Play and search for Surfshark Alt-Number
 

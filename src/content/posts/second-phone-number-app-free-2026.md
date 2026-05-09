@@ -92,7 +92,7 @@ Where 2ndLine stands out slightly: it feels more like a native messaging app tha
 
 **[Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__mid)** is the one app on this list that isn't free, and it makes no apology for that. It's also the one that solves the problems all the free options run into.
 
-You get a real mobile number — not a flagged VoIP line — from a country of your choice. No second SIM required. No second phone. The number lives in the Surfshark app, works for calls and texts, and can be disabled or replaced whenever you want. It works globally, which matters if you travel or want a number from a specific region.
+You get a real mobile number — not a flagged VoIP line — from a country of your choice. No second SIM required. No [second phone](https://snipstack.io/second-phone-number-iphone-2026/). The number lives in the Surfshark app, works for calls and texts, and can be disabled or replaced whenever you want. It works globally, which matters if you travel or want a number from a specific region.
 
 ![Surfshark Alt-Number app interface showing second phone number setup for dating](/og/second-phone-number-app-free-2026-inline-2.png)
 

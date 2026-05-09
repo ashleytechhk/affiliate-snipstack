@@ -168,7 +168,7 @@ Yes. The Surfshark app for iOS and Android includes Alt-ID in the account dashbo
 
 ### Does Alt-ID support custom domains?
 
-As of 2026, Alt-ID uses Surfshark-hosted alias domains. Custom domain support is not available on standard plans. If custom-domain aliasing is a requirement, dedicated email alias services (SimpleLogin, Addy.io) offer that feature — though they lack the bundled VPN.
+As of 2026, Alt-ID uses Surfshark-hosted alias domains. Custom domain support is not available on standard plans. If custom-domain aliasing is a requirement, dedicated [email alias](https://snipstack.io/email-alias-example-2026/) services (SimpleLogin, Addy.io) offer that feature — though they lack the bundled VPN.
 
 ### Is this the same as a disposable / [temporary email](https://snipstack.io/temporary-email-generator-2026/)?
 

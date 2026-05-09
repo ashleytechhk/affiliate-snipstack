@@ -170,7 +170,7 @@ Blocking stops future contact but the person already has your number. With a bur
 
 The National Do Not Call Registry is a useful tool for stopping telemarketing calls. For dating privacy, it's irrelevant. The real solution is a number you never have to worry about: one you can hand out freely, receive messages on normally, and cut off without any blowback to your actual phone.
 
-Of the four options here, Surfshark Alt-Number is the one that works without geographic restrictions, without a second phone, and without the friction of Google account entanglement or app-detectable VoIP numbers.
+Of the four options here, Surfshark Alt-Number is the one that works without geographic restrictions, without a [second phone](https://snipstack.io/second-phone-number-iphone-2026/), and without the friction of Google account entanglement or app-detectable VoIP numbers.
 
 If you're already using dating apps and you're handing out your real number to people you just met — there's a better way.
 

@@ -18,7 +18,7 @@ This guide walks you through exactly how [email alias](https://snipstack.io/emai
 
 ---
 
-## What Is an Email Alias (and Why You Need One in 2026)
+## What Is an [Email Alias](https://snipstack.io/email-alias-example-2026/) (and Why You Need One in 2026)
 
 An email alias is a fake address that routes mail to your real inbox. You can create one for every website, service, or signup form you use. The alias receives the mail, forwards it on, and your real address stays hidden the entire time.
 

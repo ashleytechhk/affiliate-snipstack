@@ -54,7 +54,7 @@ Older adults are among the most targeted groups online. Scammers specifically se
 Before downloading anything new, confirm that the protection already built into your computer is working.
 
 1. Click the **Start** button (the Windows logo in the bottom-left corner of your screen).
-2. Type **Windows Security** and press **Enter**.
+2. Type **[Windows Security](https://snipstack.io/windows-security-2026/)** and press **Enter**.
 3. You will see a screen with coloured circles or checkmarks. If everything shows a green checkmark, Defender is active and protecting you.
 4. If you see a yellow or red warning, click on it and follow the on-screen instructions to fix it. Usually this just means clicking **Turn On**.
 
@@ -78,7 +78,7 @@ You have already been scammed before    | Surfshark Antivirus (paid/trial)
 **Free options that work well alongside Windows Defender:**
 
 - **Malwarebytes Free** — Does not run constantly, but excellent for cleaning up infections. Free to download.
-- **Bitdefender Antivirus Free Edition** — Runs quietly in the background, barely uses any computer resources. Free.
+- **[Bitdefender Antivirus](https://snipstack.io/bitdefender-antivirus-for-mac-2026/) Free Edition** — Runs quietly in the background, barely uses any computer resources. Free.
 - **Avast Free Antivirus** — Includes a basic web shield and email scanner. Free.
 
 **When to consider a paid option:**
@@ -162,7 +162,7 @@ Once these settings are active, your computer is protected around the clock with
 
 ## Step 7 — Set Up Automatic Updates
 
-Antivirus software must update regularly to recognize the latest threats. Both the antivirus program itself and Windows 11 need to stay current.
+[Antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) must update regularly to recognize the latest threats. Both the antivirus program itself and Windows 11 need to stay current.
 
 **For your antivirus:**
 

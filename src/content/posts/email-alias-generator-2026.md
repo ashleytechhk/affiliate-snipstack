@@ -37,7 +37,7 @@ Before you start, make sure you have:
 
 ## How an [Email Alias](https://snipstack.io/email-alias-sign-2026/) Generator Works
 
-Before the steps, a quick mental model. An email alias generator creates a secondary address — sometimes called a masked email or forwarding alias — that is entirely separate from your real inbox. When someone sends email to that alias, it arrives in your real inbox as normal. The sender never sees your actual address.
+Before the steps, a quick mental model. An [email alias](https://snipstack.io/email-alias-example-2026/) generator creates a secondary address — sometimes called a masked email or forwarding alias — that is entirely separate from your real inbox. When someone sends email to that alias, it arrives in your real inbox as normal. The sender never sees your actual address.
 
 The key difference from a [temporary email](https://snipstack.io/temporary-email-and-password-free-2026/) is permanence. Throwaway services (Guerrilla Mail, 10 Minute Mail) give you an inbox that expires in minutes. An alias generator gives you a permanent address you control — one you can keep for years or delete the second it starts attracting spam.
 
@@ -83,7 +83,7 @@ For people receiving 50+ spam emails a day, a 10-alias cap and a blocklist probl
 
 ## Method 2: Use Surfshark Alt-ID for Unlimited Permanent Aliases
 
-[Alt-ID](/blog/altid?sub=email-alias-generator-2026__mid) is Surfshark's built-in email alias generator. It is included with Surfshark One and One+ plans, generates unlimited aliases, forwards everything to your real inbox, and integrates directly into your browser as an extension. Here is how to set it up from scratch.
+[Alt-ID](/blog/altid?sub=email-alias-generator-2026__mid) is Surfshark's built-in [email alias](https://snipstack.io/how-email-alias-2026/) generator. It is included with Surfshark One and One+ plans, generates unlimited aliases, forwards everything to your real inbox, and integrates directly into your browser as an extension. Here is how to set it up from scratch.
 
 ### Step 1 — Get Surfshark with Alt-ID
 

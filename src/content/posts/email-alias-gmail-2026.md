@@ -24,7 +24,7 @@ Surfshark **Alt-ID** is the fastest route to [email alias](https://snipstack.io/
 
 ## What Is an [Email Alias](https://snipstack.io/email-alias-generator-2026/) (and Why Gmail's Built-in Trick Falls Short)?
 
-An email alias is a secondary address that delivers mail to your primary inbox. When a website asks for your email, you give it the alias instead of your real address. If that alias starts attracting spam, you delete it — your real Gmail address stays untouched.
+An [email alias](https://snipstack.io/email-alias-example-2026/) is a secondary address that delivers mail to your primary inbox. When a website asks for your email, you give it the alias instead of your real address. If that alias starts attracting spam, you delete it — your real Gmail address stays untouched.
 
 Gmail has a built-in workaround: add a `+tag` after your username (e.g., `yourname+shopsite@gmail.com`). It works, barely. The problem is that anyone who sees that address can strip the `+tag` and recover your real address in two seconds. Spammers and data brokers figured this out years ago.
 
