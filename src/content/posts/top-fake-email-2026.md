@@ -144,7 +144,7 @@ Some services run checks and block known disposable domains. Alias services that
 **Q: What happens to my accounts if I delete a fake [email alias](https://snipstack.io/email-alias-outlook-2026/)?**
 Any emails sent to that alias will stop being forwarded. If you need to recover access to an account tied to the alias, do it before you delete. Services like Alt-ID let you disable rather than permanently delete, giving you time to migrate. [Manage all your Alt-ID aliases from one Surfshark dashboard.](/blog/surfshark?sub=top-fake-email-2026__faq)
 
-**Q: Are free burner email services private?**
+**Q: Are [free burner](https://snipstack.io/free-burner-number-for-verification-2026/) email services private?**
 They reduce spam exposure but aren't built for strong privacy. Free services may log IP addresses, show ads, or share usage data. For genuine privacy, alias services with explicit no-logging policies — or a product like Alt-ID backed by Surfshark's privacy infrastructure — are a more reliable choice.
 
 **Q: Does Surfshark Alt-ID work without using the Surfshark VPN?**
