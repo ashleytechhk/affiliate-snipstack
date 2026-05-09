@@ -94,7 +94,7 @@ If you've found yourself frustrated with Firefox on iOS specifically — where t
 
 ### 7. DNS-Based Blocking (NextDNS / [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/))
 
-For users comfortable with a small amount of network configuration, **DNS-based blocking** offers the broadest coverage of any method on this list at no per-device cost. Services like NextDNS and AdGuard DNS let you configure a custom DNS resolver on your phone that drops requests to known ad and tracker domains before they resolve.
+For users comfortable with a small amount of network configuration, **DNS-based blocking** offers the broadest coverage of any method on this list at no per-device cost. Services like NextDNS and [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) let you configure a custom DNS resolver on your phone that drops requests to known ad and tracker domains before they resolve.
 
 On Android 9+, you can set a Private DNS server directly in Settings > Network > Private DNS. On iOS, DNS-based blocking requires a configuration profile or a dedicated app. Once configured, it covers every browser and every app without any per-app setup. NextDNS offers 300,000 monthly queries free, which is more than enough for typical personal use.
 

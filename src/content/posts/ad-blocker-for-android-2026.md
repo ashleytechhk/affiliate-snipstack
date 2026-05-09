@@ -54,7 +54,7 @@ The hard limit: Brave does nothing for in-app ads. YouTube ads in the YouTube ap
 
 ---
 
-## 4. AdGuard DNS / NextDNS — Best Free Network-Level Blocker
+## 4. [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) / NextDNS — Best Free Network-Level Blocker
 
 **DNS-based blocking** is free and works without installing an app. You configure a custom DNS server in your Android settings (Settings > Network > Private DNS), and the DNS resolver blocks requests to known ad and tracker domains before they load.
 

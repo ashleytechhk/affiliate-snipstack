@@ -164,7 +164,7 @@ It costs money, but so does the time and stress of dealing with harassment or da
 
 **Do [second phone number](https://snipstack.io/second-phone-number-iphone-2026/) apps work with dating apps like Tinder, Hinge, and Bumble?**
 
-Most dating apps verify your number via SMS during signup. Second phone number services that provide real phone numbers — like Alt-Number, Hushed, and Burner — work reliably for this. Pure VOIP numbers can occasionally be flagged, but reputable second-number services use real carrier numbers that pass verification without issue.
+Most dating apps verify your number via SMS during signup. [Second phone number](https://snipstack.io/second-phone-number-for-verification-2026/) services that provide real phone numbers — like Alt-Number, Hushed, and Burner — work reliably for this. Pure VOIP numbers can occasionally be flagged, but reputable second-number services use real carrier numbers that pass verification without issue.
 
 **Can I use a second phone number to call and text, or just text?**
 

@@ -70,7 +70,7 @@ Setup takes under two minutes: install Surfshark from the Play Store or App Stor
 
 **DNS-based blocking** is the option r/privacy recommends to users who want network-level coverage without paying for anything. Configure a private DNS server in your phone's network settings — Android and iOS both support this — and all DNS lookups for known ad domains get blocked before they load.
 
-AdGuard DNS (dns.adguard.com) works on both platforms with no app install. NextDNS adds a web dashboard where you can customize blocklists, view query logs, and whitelist false positives — r/Android frequently calls it the best free upgrade from plain AdGuard DNS.
+[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) (dns.adguard.com) works on both platforms with no app install. NextDNS adds a web dashboard where you can customize blocklists, view query logs, and whitelist false positives — r/Android frequently calls it the best free upgrade from plain AdGuard DNS.
 
 The ceiling here is architectural. DNS blocking only works at the domain level. Modern ad networks increasingly serve ads from the same domains as content — a path-level distinction DNS cannot make. r/privacy threads are candid about this: DNS blocking is a solid first layer, not a complete solution for users dealing with heavy in-app advertising.
 

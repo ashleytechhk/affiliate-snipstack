@@ -74,7 +74,7 @@ The Android version requires a subscription for the full feature set, including 
 
 If you'd rather configure once and never think about it again, pointing your phone's DNS to a filtering service is one of the most underrated mobile ad-blocking strategies.
 
-**NextDNS** and **AdGuard DNS** both offer custom DNS profiles that block ad-serving and tracking domains at the DNS resolution level. On Android 9+ and iOS 14+, you can set a private DNS provider directly in system settings — no app required, no VPN profile, just a hostname. Everything that uses your phone's network connection gets filtered, including Chrome.
+**NextDNS** and **[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/)** both offer custom DNS profiles that block ad-serving and tracking domains at the DNS resolution level. On Android 9+ and iOS 14+, you can set a private DNS provider directly in system settings — no app required, no VPN profile, just a hostname. Everything that uses your phone's network connection gets filtered, including Chrome.
 
 The setup takes about two minutes. The result is a systemwide filter that's active even when you're not running any apps. The limitation is that it blocks by domain rather than by specific URL patterns, so it's slightly less surgical than uBlock Origin-style element blocking — but for the effort involved, it's hard to beat.
 

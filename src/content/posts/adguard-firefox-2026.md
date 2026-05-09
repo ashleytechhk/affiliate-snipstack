@@ -88,7 +88,7 @@ The tradeoff is that Focus is designed as an ephemeral, no-history browser. Sess
 
 **Network-level filtering that works behind every browser, free.**
 
-AdGuard DNS is a public DNS service that blocks ad and tracking domains at the resolver level. When your phone sends a DNS query for an ad-serving domain, AdGuard's server returns nothing — the ad never loads. This works regardless of which browser you use, including Firefox on both iOS and Android.
+[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) is a public DNS service that blocks ad and tracking domains at the resolver level. When your phone sends a DNS query for an ad-serving domain, AdGuard's server returns nothing — the ad never loads. This works regardless of which browser you use, including Firefox on both iOS and Android.
 
 On Android, you set this up via the Private DNS option in network settings (Settings > Network > Private DNS) and enter `dns.adguard.com`. On iOS 14+, you can install AdGuard's configuration profile, which sets up encrypted DNS-over-HTTPS across the entire device. Neither approach requires an app or a subscription.
 

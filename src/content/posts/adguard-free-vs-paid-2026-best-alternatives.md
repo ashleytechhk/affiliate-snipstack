@@ -69,7 +69,7 @@ This is a different product entirely. AdGuard for Windows is a system-wide appli
 - Mobile devices (this is the Windows/Mac application; there are separate iOS and Android apps)
 - Smart TV and streaming device coverage
 
-### AdGuard DNS (Free Tier, Premium Tier)
+### [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) (Free Tier, Premium Tier)
 
 AdGuard DNS is a public DNS service. You point your router or device's DNS settings at AdGuard's servers, and DNS queries to known ad and tracking domains get blocked at the DNS level. This is the same fundamental approach as Surfshark CleanWeb.
 

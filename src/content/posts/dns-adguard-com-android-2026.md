@@ -88,7 +88,7 @@ The trade-off is cost (the premium version is required for system-wide blocking)
 
 Most home routers let you override the DNS server assigned by your ISP. Log into your router admin panel (typically 192.168.1.1 or 192.168.0.1), find DNS settings under WAN or LAN/DHCP, and enter AdGuard's DNS IPs: `94.140.14.14` (primary) and `94.140.14.15` (secondary).
 
-Every device on your home Wi-Fi — your Android phone, tablets, smart TVs, game consoles — automatically uses AdGuard DNS without any per-device configuration. This is the highest-leverage setup for households with multiple devices: one change protects everything.
+Every device on your home Wi-Fi — your Android phone, tablets, smart TVs, game consoles — automatically uses [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) without any per-device configuration. This is the highest-leverage setup for households with multiple devices: one change protects everything.
 
 The limitation is obvious: it only works when you're home. On cellular or away from your Wi-Fi, your Android phone reverts to carrier DNS unless you have also configured Private DNS or a VPN. The practical solution is router-level DNS for home coverage plus Private DNS on your Android for everywhere else.
 

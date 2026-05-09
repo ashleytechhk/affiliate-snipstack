@@ -168,7 +168,7 @@ DNS-level filtering adds negligible latency — typically under 1ms for a lookup
 ### Do I need a VPN and a separate [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)?
 Not if you choose Surfshark. CleanWeb is built into the Surfshark app. When you connect to Surfshark, CleanWeb is active — no separate app, no separate subscription, no configuration juggling. It is one of the more practical all-in-one setups available on mobile.
 
-### What about AdGuard DNS as a free option?
+### What about [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) as a free option?
 AdGuard DNS is a free DNS resolver you can configure manually in your iOS or Android network settings. It will block ads at the DNS level for free, which is genuinely useful. The trade-off: no VPN encryption, manual setup can be overridden by apps that use their own DNS (DNS-over-HTTPS), and no kill switch. For users comfortable with network config, it is a solid free baseline.
 
 **[Get Surfshark CleanWeb — best mobile ad blocker in 2026 →](/blog/surfshark?sub=ublock-origin-mobile-2026__faq)**

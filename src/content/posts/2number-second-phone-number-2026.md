@@ -22,7 +22,7 @@ This guide walks you through exactly how to set up a [second phone number](https
 
 ---
 
-## Why You Need a Second Phone Number for Dating
+## Why You Need a [Second Phone Number](https://snipstack.io/second-phone-number-for-verification-2026/) for Dating
 
 Dating apps protect your in-app identity well enough. The problem is what happens when the conversation moves off-platform.
 

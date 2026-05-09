@@ -139,7 +139,7 @@ At approximately $2.19/month on a two-year plan, the economics are straightforwa
 
 ### Is a VPN a "program" or an "app" on Android?
 
-Android uses the term "app" rather than "program" — that is Windows terminology. But a VPN app on Android functions more like a system service than a typical app: it runs as a persistent foreground service, requests a special OS-level permission (VpnService API), and routes all network traffic on your device through its encrypted tunnel. The functional result is the same as a VPN program on Windows; the underlying architecture reflects Android's different approach to processes and permissions.
+Android uses the term "app" rather than "program" — that is Windows terminology. But a [VPN app on Android](https://snipstack.io/vpn-app-on-android-2026/) functions more like a system service than a typical app: it runs as a persistent foreground service, requests a special OS-level permission (VpnService API), and routes all network traffic on your device through its encrypted tunnel. The functional result is the same as a VPN program on Windows; the underlying architecture reflects Android's different approach to processes and permissions.
 
 ### What is the always-on VPN toggle on Android?
 

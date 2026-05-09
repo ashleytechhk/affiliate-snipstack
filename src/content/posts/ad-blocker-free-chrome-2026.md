@@ -68,7 +68,7 @@ The limitation is inherent to DNS-level blocking: it stops domains, not specific
 
 ---
 
-### 5. AdGuard DNS — Completely Free DNS Blocking
+### 5. [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) — Completely Free DNS Blocking
 
 **AdGuard DNS** is the zero-account alternative to NextDNS. Point your phone's DNS to one of AdGuard's public servers and get ad and tracker blocking across your device — no account required, no query limits, permanently free.
 

@@ -152,7 +152,7 @@ Any VPN will add some latency depending on server distance. Surfshark consistent
 
 **VPN-level** (Surfshark CleanWeb) — filters traffic at the VPN tunnel, before it reaches your device's apps or browser. Covers everything routed through the VPN.
 
-**DNS-level** (Pi-hole, NextDNS, AdGuard DNS) — blocks domains at the DNS resolution stage. Works across devices on the configured network but can't inspect encrypted traffic and misses first-party ad serving.
+**DNS-level** (Pi-hole, NextDNS, [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/)) — blocks domains at the DNS resolution stage. Works across devices on the configured network but can't inspect encrypted traffic and misses first-party ad serving.
 
 ### Do I need a VPN just to use CleanWeb?
 
