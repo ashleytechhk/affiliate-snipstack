@@ -117,7 +117,7 @@ We scored each option against these five criteria below.
 
 ---
 
-## Option 4: Norton 360
+## Option 4: [Norton 360](https://snipstack.io/norton-360-antivirus-2026/)
 
 **What it is:** Norton is one of the most recognised names in antivirus. It has been around for decades and millions of people use it.
 
@@ -237,13 +237,13 @@ Yes. Windows 10 includes Microsoft Defender, which turns on automatically. It ha
 
 Yes. Unlike some older antivirus programs that conflict with Defender, Surfshark is designed to work alongside it. When you install Surfshark, Windows adjusts automatically so both programs run without fighting each other. You get the coverage of both.
 
-**Q: Will antivirus software make my Windows 10 computer slower?**
+**Q: Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) make my Windows 10 computer slower?**
 
 Heavy programs like some older versions of Norton or McAfee can slow older computers. Surfshark, Malwarebytes, and ESET are all designed to run lightly in the background. Day-to-day, most people do not notice any difference. The one exception is during a full scan — if your computer is quite old, it may feel slower for the 30–60 minutes a deep scan takes. Scheduling scans overnight avoids this completely.
 
 **Q: What is phishing, and can antivirus stop it?**
 
-Phishing is when scammers send you a fake email or link that looks like it is from your bank, Medicare, or a trusted company. The goal is to trick you into typing in your password or personal details on a fake website. Microsoft Defender gives limited protection against phishing. Surfshark's real-time safe browsing feature is specifically designed to detect these fake sites and warn you before you enter anything.
+Phishing is when scammers send you a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) or link that looks like it is from your bank, Medicare, or a trusted company. The goal is to trick you into typing in your password or personal details on a fake website. Microsoft Defender gives limited protection against phishing. Surfshark's real-time safe browsing feature is specifically designed to detect these fake sites and warn you before you enter anything.
 
 **Q: Is my Windows 10 computer still safe now that Microsoft has ended mainstream support?**
 

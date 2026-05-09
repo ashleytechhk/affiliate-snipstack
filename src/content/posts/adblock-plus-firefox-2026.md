@@ -32,7 +32,7 @@ Firefox on mobile is one of the few browsers that still lets you install real ex
 
 **uBlock Origin** is the most capable free [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) available as a Firefox extension, and on Android it still installs like any desktop extension. Where [Adblock Plus](https://snipstack.io/adblock-plus-youtube-2026/) allows "acceptable ads" by default (a paid whitelist program), uBlock ships with that gate firmly closed. You get EasyList, EasyPrivacy, and several malware-filter lists enabled out of the box with zero compromise on what gets blocked.
 
-Memory footprint is notably lighter than Adblock Plus — important on mid-range Android devices where Chrome already chews through RAM. The advanced mode lets you script-block per domain, which is overkill for most users but useful if you want surgical control over what loads. For the average person, default settings block 95% of ads without touching anything.
+Memory footprint is notably lighter than [Adblock Plus](https://snipstack.io/adblock-plus-download-2026/) — important on mid-range Android devices where Chrome already chews through RAM. The advanced mode lets you script-block per domain, which is overkill for most users but useful if you want surgical control over what loads. For the average person, default settings block 95% of ads without touching anything.
 
 One caveat: uBlock Origin is not available on Firefox for iOS. Apple's content-blocker API limits what extensions can do on iOS, so uBlock's dynamic filtering engine can't run there. Android users should install it first; iOS users need a different path.
 
