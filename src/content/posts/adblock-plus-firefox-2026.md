@@ -109,7 +109,7 @@ The limitation is that DNS blocking can't handle cosmetic filtering — removing
 | Option | Platform | Blocks In-App Ads | Setup Required | Cost |
 |---|---|---|---|---|
 | uBlock Origin | Android (Firefox) | No | Low | Free |
-| Adblock Plus | Android (Firefox) | No | Low | Free |
+| [Adblock Plus](https://snipstack.io/adblock-plus-reddit-2026/) | Android (Firefox) | No | Low | Free |
 | Surfshark CleanWeb | Android + iOS | Yes | Minimal | Paid (VPN) |
 | Firefox Focus | Android + iOS | No | None | Free |
 | AdGuard for Android | Android | Yes | Medium | Free / Paid |
