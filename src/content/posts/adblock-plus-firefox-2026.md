@@ -40,7 +40,7 @@ One caveat: uBlock Origin is not available on Firefox for iOS. Apple's content-b
 
 ### 2. [Adblock Plus for](https://snipstack.io/adblock-plus-for-android-2026/) Firefox (Android — The Classic Option)
 
-The name most people already know, **Adblock Plus** remains a solid default for users who want something familiar and easy to configure. It blocks display ads, pop-ups, and tracking scripts, and the interface is friendlier than uBlock for non-technical users who want a toggle rather than a dashboard.
+The name most people already know, **[Adblock Plus](https://snipstack.io/adblock-plus-safari-2026/)** remains a solid default for users who want something familiar and easy to configure. It blocks display ads, pop-ups, and tracking scripts, and the interface is friendlier than uBlock for non-technical users who want a toggle rather than a dashboard.
 
 The trade-off is the Acceptable Ads program. By default, ABP allows ads that meet its "non-intrusive" criteria — including ads from Google, which pays to be whitelisted. You can disable this in settings (Options > Acceptable Ads > uncheck the box), and once you do, coverage improves significantly. With the acceptable ads gate off and EasyPrivacy added manually, ABP gets much closer to uBlock's default performance.
 

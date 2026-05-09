@@ -174,7 +174,7 @@ The monthly cost is genuinely low, especially if you are already using Surfshark
 
 Some can, some cannot. Apps like Tinder use carrier-lookup tools to flag numbers registered as VoIP. Surfshark Alt Number and MySudo use numbers that pass this check. Google Voice and Hushed occasionally get flagged depending on the number pool assigned to you. TextNow and Talkatone generally pass because their numbers are tied to actual carrier infrastructure.
 
-### Is using a virtual phone number on dating apps against the rules?
+### Is using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-personal-use-2026/) on dating apps against the rules?
 
 No major dating platform explicitly bans virtual numbers in their terms of service. They may reject the number during SMS verification if it fails a VoIP check, but using a secondary number for privacy is not a violation. You're not deceiving anyone about who you are — just keeping your contact details private, which is reasonable.
 

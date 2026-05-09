@@ -122,7 +122,7 @@ The trade-off is minimal configurability and no HTTPS filtering. You are limited
 
 ### Does [Adblock Plus](https://snipstack.io/adblock-plus-download-2026/) work on Chrome for Android?
 
-Not directly. Chrome for Android does not support extensions, so Adblock Plus cannot be installed as a browser add-on. ABP works via Samsung Internet's content blocker integration, or through the ABP browser app. For Chrome users, the best alternative is switching to Firefox with uBlock Origin, or using a system-level blocker like Surfshark CleanWeb that filters traffic before it reaches Chrome.
+Not directly. Chrome for Android does not support extensions, so [Adblock Plus](https://snipstack.io/adblock-plus-safari-2026/) cannot be installed as a browser add-on. ABP works via Samsung Internet's content blocker integration, or through the ABP browser app. For Chrome users, the best alternative is switching to Firefox with uBlock Origin, or using a system-level blocker like Surfshark CleanWeb that filters traffic before it reaches Chrome.
 
 ### Can I block in-app ads on Android without root?
 

@@ -146,7 +146,7 @@ CleanWeb runs alongside Surfshark's VPN infrastructure, which does add some late
 
 ## Final Recommendation
 
-The adblock plus chrome landscape on mobile has shifted significantly with MV3. Browser extensions alone are no longer enough for heavy mobile users. The most reliable setup in 2026:
+The [adblock plus](https://snipstack.io/adblock-plus-safari-2026/) chrome landscape on mobile has shifted significantly with MV3. Browser extensions alone are no longer enough for heavy mobile users. The most reliable setup in 2026:
 
 - **Best overall:** Surfshark CleanWeb — network-level blocking, zero browser configuration, works on every app
 - **Best free browser option:** Brave Browser (Android) or Firefox + uBlock Origin (Android)
