@@ -204,7 +204,7 @@ Dating apps verify that you received an SMS code — they do not check whether t
 
 No. Once you replace or cancel a burner number, any calls or texts sent to it go nowhere (or to whoever is assigned that number next, which is not you). Your real phone number was never exposed, so there is nothing for former matches to fall back on.
 
-**Is it legal to use a burner number for dating?**
+**Is it legal to use a [burner number for](https://snipstack.io/burner-number-for-verification-2026/) dating?**
 
 Using a secondary phone number for personal privacy is entirely legal. Virtual number services are mainstream tools — used for business lines, two-factor authentication backups, and exactly this kind of dating privacy. Alt-Number is a product by Surfshark, operating under standard telecom licensing in its supported regions.
 

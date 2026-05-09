@@ -121,7 +121,7 @@ It does absolutely nothing for:
 - Harassment from someone you matched with online
 - Spam texts from unknown numbers (those senders are already breaking the law and don't care about registries)
 
-The registry has no enforcement mechanism for personal contacts. If a Hinge match turns toxic, the FTC is not going to help you. A burner number is the actual solution — because you never gave them your real number in the first place.
+The registry has no enforcement mechanism for personal contacts. If a Hinge match turns toxic, the FTC is not going to help you. A [burner number](https://snipstack.io/burner-number-for-verification-2026/) is the actual solution — because you never gave them your real number in the first place.
 
 ---
 

@@ -10,9 +10,9 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-You have a Windows 10 computer, and someone — maybe a family member, maybe a news story — told you to make sure it has antivirus protection. So now you are wondering: does Windows 10 already come with antivirus? Do I need to buy something? And if I do, which one is worth it?
+You have a [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) computer, and someone — maybe a family member, maybe a news story — told you to make sure it has antivirus protection. So now you are wondering: does Windows 10 already come with antivirus? Do I need to buy something? And if I do, which one is worth it?
 
-Good news: Windows 10 does come with built-in antivirus, called **[Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/)**. The honest answer is that it is good enough for some people — and not quite enough for others. This guide compares Microsoft Defender against five popular paid options so you can decide what level of protection fits your life.
+Good news: Windows 10 does come with built-in antivirus, called **[Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/)**. The honest answer is that it is good enough for some people — and not quite enough for others. This guide compares [Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) against five popular paid options so you can decide what level of protection fits your life.
 
 Plain language throughout. No confusing tech terms.
 
@@ -251,7 +251,7 @@ Microsoft ended mainstream support for Windows 10 in October 2025. Security patc
 
 **Q: How do I know if my antivirus is actually running?**
 
-For Microsoft Defender: click the Start button, type "Windows Security," press Enter, and check for green checkmarks. For Surfshark: look for the small Surfshark shield icon in the bottom-right corner of your screen near the clock. A green icon means protection is active. If you see a red or yellow icon, open the Surfshark app and follow any on-screen instructions to fix it.
+For Microsoft Defender: click the Start button, type "[Windows Security](https://snipstack.io/windows-security-2026/)," press Enter, and check for green checkmarks. For Surfshark: look for the small Surfshark shield icon in the bottom-right corner of your screen near the clock. A green icon means protection is active. If you see a red or yellow icon, open the Surfshark app and follow any on-screen instructions to fix it.
 
 **Q: Do I need a VPN as well as antivirus?**
 

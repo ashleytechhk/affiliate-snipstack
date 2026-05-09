@@ -76,7 +76,7 @@ Each option was evaluated on five criteria that matter most for seniors:
 
 ### 3. [Avast Free](https://snipstack.io/avast-free-antivirus-2026/) for Mac
 
-**What it is:** One of the most downloaded free antivirus programs in the world. Offers both on-demand scanning and some real-time features in the free tier.
+**What it is:** One of the most downloaded free [antivirus](https://snipstack.io/vs-antivirus-2026/) programs in the world. Offers both on-demand scanning and some real-time features in the free tier.
 
 **Ease of use:** 3 out of 5. The app has many tabs and options. Seniors may find it busy and slightly overwhelming. Pop-up notifications push paid upgrades fairly aggressively.
 
@@ -92,7 +92,7 @@ Each option was evaluated on five criteria that matter most for seniors:
 
 ---
 
-### 4. AVG AntiVirus FREE for Mac
+### 4. [AVG AntiVirus](https://snipstack.io/vs-avg-antivirus-2026/) FREE for Mac
 
 **What it is:** AVG is owned by the same parent company as Avast (Gen Digital). It looks different but uses very similar technology.
 

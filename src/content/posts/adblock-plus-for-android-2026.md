@@ -113,7 +113,7 @@ The trade-off is minimal configurability and no HTTPS filtering. You are limited
 | AdGuard | System-wide | Browser only | Moderate | Yes |
 | Brave Browser | Browser only | Yes | Very easy | Partial |
 | NextDNS | DNS-level | Limited free | Moderate | Yes |
-| Adblock Plus | Browser / Samsung | Yes | Easy | No |
+| [Adblock Plus](https://snipstack.io/adblock-plus-youtube-2026/) | Browser / Samsung | Yes | Easy | No |
 | Android Private DNS | DNS-level | Yes (built-in) | Very easy | Varies |
 
 ---

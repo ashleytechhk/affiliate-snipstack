@@ -122,7 +122,7 @@ NextDNS / CleanWeb DNS      | DNS resolver      | Partial   | Yes | Yes     | Ye
 
 ## Frequently Asked Questions
 
-### Does Adblock Plus still work on Chrome for Android in 2026?
+### Does [Adblock Plus](https://snipstack.io/adblock-plus-youtube-2026/) still work on Chrome for Android in 2026?
 
 Adblock Plus has a Chrome Android extension, but Manifest V3 restrictions limit how effectively it can intercept requests compared to its desktop version. For stronger mobile blocking, a VPN-level solution like [Surfshark CleanWeb](/blog/surfshark?sub=adblock-plus-chrome-2026__faq) or switching to Firefox with full uBlock Origin delivers better results.
 

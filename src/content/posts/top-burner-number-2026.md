@@ -20,7 +20,7 @@ This guide covers the seven best [burner number](https://snipstack.io/burner-num
 
 ---
 
-## What to Look for in a Burner Number
+## What to Look for in a [Burner Number](https://snipstack.io/burner-number-for-verification-2026/)
 
 Before jumping into the list, here is what separates a genuinely useful burner number from a frustrating workaround:
 
