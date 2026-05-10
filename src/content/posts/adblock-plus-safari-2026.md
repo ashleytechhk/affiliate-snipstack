@@ -161,7 +161,7 @@ Surfshark CleanWeb   | DNS/VPN layer   | Yes        | Yes     | Paid (bundle)
 
 Yes, but it looks different from the Chrome or Firefox version. The original legacy Safari extension stopped working after Apple deprecated that extension format in Safari 13 (2019). What exists today is an App Store app for macOS (requires macOS 11+) and a separate iOS app, both of which use Apple's Content Blocker API. They block standard display ads, but they cannot match the depth of blocking the old extension provided.
 
-### Why can't Safari ad blockers block ads in other apps?
+### Why can't Safari [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/)s block ads in other apps?
 
 Apple's Content Blocker API only applies inside Safari. Apps like YouTube, the News app, Instagram, or any third-party app run their own network stack independently of Safari, so Safari's content blocking rules have no effect on them. The only way to block ads across all apps is to use a network-layer tool — a VPN with ad blocking (like Surfshark CleanWeb) or a DNS blocker configured system-wide.
 
@@ -177,7 +177,7 @@ Acceptable Ads is a program run by eyeo (AdBlock Plus's parent company) where ad
 
 Yes. Surfshark has native apps for iOS and macOS. When CleanWeb is enabled, it blocks ad and tracker domains at the network level across the entire device — including Safari, apps, and background network requests. The experience on iPhone is the same as on Mac: enable CleanWeb in the app settings, connect, and ads are blocked everywhere without any per-app configuration. [See what CleanWeb covers.](/blog/adblock?sub=adblock-plus-safari-2026__faq)
 
-### Is it safe to install ad blockers from the App Store?
+### Is it safe to install [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/)s from the App Store?
 
 Yes. Apps distributed through Apple's App Store go through Apple's review process. For Safari content blockers specifically, Apple's architecture means the extension cannot read your browsing history or intercept your network traffic — it only provides rules to Safari, which applies them internally. That said, always install from a known, established developer. AdGuard, 1Blocker, and AdBlock Plus are all established companies with long track records.
 
@@ -189,7 +189,7 @@ Yes, and many users do. A Safari content blocker handles element-level cosmetic 
 
 ## Final Take
 
-AdBlock Plus for Safari still works, but it is not the tool it was before Apple rewrote the extension system. The Acceptable Ads program whitelists paying advertisers by default. The Content Blocker API limits what any Safari ad blocker can do. And nothing in the Safari extension ecosystem can touch the ads you see in your apps.
+AdBlock Plus for Safari still works, but it is not the tool it was before Apple rewrote the extension system. The Acceptable Ads program whitelists paying advertisers by default. The Content Blocker API limits what any Safari [ad blocker](https://snipstack.io/ad-blocker-free-2026/) can do. And nothing in the Safari extension ecosystem can touch the ads you see in your apps.
 
 For users who primarily browse in Safari and want a free browser-only solution, **AdGuard for Safari** is the stronger pick within Apple's constraints. For users who want a polished Apple-native experience with iCloud sync, **1Blocker** earns its spot.
 
