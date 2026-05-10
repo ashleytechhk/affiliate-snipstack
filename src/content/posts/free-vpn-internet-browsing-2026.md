@@ -145,7 +145,7 @@ For these use cases, ProtonVPN Free is the legitimate answer. Install it on the 
 
 Only if you install a system-level VPN app directly on the device — and most smart TVs and streaming sticks do not support VPN apps. A browser extension VPN on your laptop does nothing for your TV. The practical solution for TV-level coverage is to configure the VPN at the router level (which most free VPN services do not support) or to use a paid VPN that offers a router configuration guide. Surfshark supports router installation on most subscription plans.
 
-### Will a free Chrome VPN extension cover my torrent client?
+### Will a free [Chrome VPN](https://snipstack.io/chrome-vpn-add-ons-2026/) extension cover my torrent client?
 
 No. A browser extension VPN only encrypts traffic inside that browser. Your torrent client opens its own connections directly through your ISP using your real IP address. If IP privacy for torrenting is important to you, you need a system-level VPN app — not a browser extension — and it needs to include a kill switch.
 

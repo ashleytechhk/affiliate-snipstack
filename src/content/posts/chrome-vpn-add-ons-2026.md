@@ -50,7 +50,7 @@ For VPN extensions, the implications are concrete:
 - **Background persistence is gone.** Service workers can time out, which can cause a VPN extension's tunnel to silently drop without surfacing an obvious error.
 - **Extensions built on MV2 stopped working in Chrome 127+ (mid-2024).** Any extension that hadn't migrated to MV3 by then was removed from active enforcement.
 
-Well-resourced VPN providers like Surfshark updated their extensions to MV3-compliant architecture ahead of the deadline. Smaller or abandoned extensions were simply delisted or started failing silently. If you are evaluating a Chrome VPN add-on in 2026, checking its last update date against the MV3 timeline is a useful quick filter — an extension last updated in 2022 or 2023 with no MV3 note is a red flag.
+Well-resourced [VPN providers](https://snipstack.io/vpn-providers-best-2026/) like Surfshark updated their extensions to MV3-compliant architecture ahead of the deadline. Smaller or abandoned extensions were simply delisted or started failing silently. If you are evaluating a Chrome VPN add-on in 2026, checking its last update date against the MV3 timeline is a useful quick filter — an extension last updated in 2022 or 2023 with no MV3 note is a red flag.
 
 ![Chrome VPN add-on extension architecture — Manifest V3 service worker vs persistent background page](/og/chrome-vpn-add-ons-2026-inline-1.png)
 
