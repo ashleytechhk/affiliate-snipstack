@@ -70,7 +70,7 @@ Your VPN provider can see your traffic. That is inherent to how the technology w
 
 A no-logs policy means the provider does not store records of which sites you visited or when. An **audited** no-logs policy means an independent third-party firm reviewed the provider's systems and confirmed the policy is technically implemented, not just stated. This is the standard worth insisting on.
 
-Surfshark, NordVPN, ExpressVPN, and ProtonVPN have all passed independent audits. Many cheaper or free alternatives have not.
+Surfshark, NordVPN, ExpressVPN, and [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) have all passed independent audits. Many cheaper or free alternatives have not.
 
 Avoid: any provider whose privacy policy says something like "we may collect anonymized usage data" without further specificity. That phrase is the tell.
 
