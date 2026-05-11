@@ -176,7 +176,7 @@ Marginally. Any VPN — desktop app or browser extension — adds a small amount
 
 ### Will the Chrome extension block ads on YouTube and other streaming sites?
 
-Surfshark's CleanWeb and NordVPN's Threat Protection Lite block ad-serving domains at the DNS level, which can reduce some ad load. However, YouTube specifically serves ads from the same domain as its video content, making DNS-level blocking ineffective there. For YouTube ad blocking, a dedicated browser extension like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) is more effective than a VPN extension's built-in blocking.
+Surfshark's CleanWeb and NordVPN's Threat Protection Lite block ad-serving domains at the DNS level, which can reduce some ad load. However, YouTube specifically serves ads from the same domain as its video content, making DNS-level blocking ineffective there. For [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/) blocking, a dedicated browser extension like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) is more effective than a VPN extension's built-in blocking.
 
 ### Does using the Chrome extension mean I have two VPN connections running?
 
