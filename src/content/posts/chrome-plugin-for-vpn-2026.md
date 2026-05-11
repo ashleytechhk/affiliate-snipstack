@@ -99,7 +99,7 @@ If you're an ExpressVPN subscriber who already has the desktop app running, the 
 
 *Features based on publicly documented extension capabilities as of early 2026. Extension features update independently of desktop apps.*
 
-### NordVPN Chrome Extension
+### [NordVPN Chrome Extension](https://snipstack.io/nordvpn-chrome-extension-2026/)
 
 NordVPN's extension connects to the same server network as the desktop app — 6,000+ servers in 111 countries. It operates as a standalone proxy, so you don't need the desktop app running. Threat Protection Lite is the browser-facing feature that blocks known malicious domains and tracker scripts at the connection level.
 
