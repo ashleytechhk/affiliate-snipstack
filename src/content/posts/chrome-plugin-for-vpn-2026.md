@@ -123,13 +123,13 @@ If you're an existing ExpressVPN subscriber and you're comfortable keeping the d
 
 Even if your desktop app is running and covering all your device traffic, there are browser-specific reasons to install the companion extension:
 
-**1. Browser-level ad and tracker blocking.** Surfshark's CleanWeb and NordVPN's Threat Protection Lite work at the DNS request level inside Chrome. This catches ad scripts and trackers before they load — which is different from how some browser ad blockers work. It's an extra layer alongside your desktop app's protection.
+**1. Browser-level ad and tracker blocking.** Surfshark's CleanWeb and NordVPN's Threat Protection Lite work at the DNS request level inside Chrome. This catches ad scripts and trackers before they load — which is different from how some browser [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/)s work. It's an extra layer alongside your desktop app's protection.
 
 **2. Cookie consent popup blocking.** Surfshark's extension specifically targets GDPR consent popups and suppresses them. Minor quality-of-life feature, but it adds up across a day of browsing.
 
 **3. WebRTC leak prevention.** Your desktop VPN app routes all your traffic through the tunnel, but Chrome's WebRTC protocol (used for video calls and certain browser features) can expose your real IP even when a VPN is active — unless something explicitly blocks it. The Chrome extension handles this at the browser level, which the desktop app cannot intercept directly.
 
-**4. Per-tab region switching.** Because the extension runs as a browser-level proxy, some VPN providers let you set different behavior for the extension versus the app — effectively giving you two locations simultaneously. This is useful for accessing a geo-restricted web service in Chrome while keeping your desktop app on a different server for everything else.
+**4. Per-tab region switching.** Because the extension runs as a browser-level proxy, some [VPN providers](https://snipstack.io/vpn-providers-best-2026/) let you set different behavior for the extension versus the app — effectively giving you two locations simultaneously. This is useful for accessing a geo-restricted web service in Chrome while keeping your desktop app on a different server for everything else.
 
 ![Surfshark Chrome extension UI showing CleanWeb, IP display, and server location controls](/og/chrome-plugin-for-vpn-2026-inline-2.png)
 
@@ -176,7 +176,7 @@ Marginally. Any VPN — desktop app or browser extension — adds a small amount
 
 ### Will the Chrome extension block ads on YouTube and other streaming sites?
 
-Surfshark's CleanWeb and NordVPN's Threat Protection Lite block ad-serving domains at the DNS level, which can reduce some ad load. However, YouTube specifically serves ads from the same domain as its video content, making DNS-level blocking ineffective there. For YouTube ad blocking, a dedicated browser extension like uBlock Origin is more effective than a VPN extension's built-in blocking.
+Surfshark's CleanWeb and NordVPN's Threat Protection Lite block ad-serving domains at the DNS level, which can reduce some ad load. However, YouTube specifically serves ads from the same domain as its video content, making DNS-level blocking ineffective there. For YouTube ad blocking, a dedicated browser extension like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) is more effective than a VPN extension's built-in blocking.
 
 ### Does using the Chrome extension mean I have two VPN connections running?
 
