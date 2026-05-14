@@ -193,7 +193,7 @@ Yes. Alt-Number is a real mobile number and receives SMS verification codes norm
 
 **Will the person I'm texting know it's not my real number?**
 
-No. From the recipient's end, your Alt-Number looks and behaves like any other mobile number. There's no "VoIP" label or anything that marks it as a virtual number. You're fully reachable on it — calls and texts work normally.
+No. From the recipient's end, your Alt-Number looks and behaves like any other mobile number. There's no "VoIP" label or anything that marks it as a [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/). You're fully reachable on it — calls and texts work normally.
 
 **What happens to my messages if I cancel my Surfshark subscription?**
 

@@ -180,7 +180,7 @@ Not necessarily. Zoom Phone is designed for teams that need call routing, extens
 **Will a virtual phone number work for Zoom SMS notifications and verification?**
 Zoom itself doesn't require a specific type of number for account SMS verification — most virtual numbers work. The more relevant question is whether your virtual number works for SMS verification on the other platforms you use day-to-day. VoIP numbers (Google Voice, Hushed, TextNow) are frequently blocked by banking apps and some platforms. Alt-Number, because it's a real local number rather than a VoIP alias, passes most verification checks.
 
-**Can I use a virtual number to look local to international clients?**
+**Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) look local to international clients?**
 Yes — this is one of the strongest use cases for a service like Alt-Number. You can get a local number in the country where your client is based, which means they call a local number rather than dialing an international line. It reduces friction and makes you look more professionally established in their market. Google Voice and Grasshopper are US/Canada only, so this is only possible with a service that has international number coverage.
 
 **Is it safe to give clients a virtual phone number?**

@@ -206,7 +206,7 @@ No. Once you replace or cancel a burner number, any calls or texts sent to it go
 
 **Is it legal to use a [burner number for](https://snipstack.io/burner-number-for-verification-2026/) dating?**
 
-Using a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) personal privacy is entirely legal. Virtual number services are mainstream tools — used for business lines, two-factor authentication backups, and exactly this kind of dating privacy. Alt-Number is a product by Surfshark, operating under standard telecom licensing in its supported regions.
+Using a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) personal privacy is entirely legal. [Virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) services are mainstream tools — used for business lines, two-factor authentication backups, and exactly this kind of dating privacy. Alt-Number is a product by Surfshark, operating under standard telecom licensing in its supported regions.
 
 **How do I stop someone from contacting me if I gave them my burner number?**
 

@@ -69,7 +69,7 @@ For non-technical users, Reddit recommends software that is simple, lightweight,
 
 **"Is [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) good enough?"**
 
-Most knowledgeable Reddit users say free antivirus is better than nothing but falls short in key areas. Free tools often skip real-time web protection — meaning they will scan files on your computer but will not warn you before you click a dangerous link. For seniors who are more likely to be targeted by email scams and fake websites, real-time web protection matters a great deal.
+Most knowledgeable Reddit users say [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) is better than nothing but falls short in key areas. Free tools often skip real-time web protection — meaning they will scan files on your computer but will not warn you before you click a dangerous link. For seniors who are more likely to be targeted by email scams and fake websites, real-time web protection matters a great deal.
 
 ![Mac antivirus setup for seniors — step by step illustration](/og/antivirus-mac-reddit-2026-inline-1.png)
 

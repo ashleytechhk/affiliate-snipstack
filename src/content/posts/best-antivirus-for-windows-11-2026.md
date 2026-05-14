@@ -171,7 +171,7 @@ Here is a quick comparison of what matters most for older users:
 | 24/7 support | Yes | No |
 | Ad-free experience | Yes | No |
 
-Free antivirus tools often flood you with ads trying to get you to upgrade. Surfshark does not do that. You pay once, and it just works quietly in the background.
+[Free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) tools often flood you with ads trying to get you to upgrade. Surfshark does not do that. You pay once, and it just works quietly in the background.
 
 ---
 

@@ -147,7 +147,7 @@ That is it. From that point on, Surfshark works automatically. You do not need t
 
 ## A Note on [Free Antivirus](https://snipstack.io/vs-free-antivirus-2026/)
 
-You may have seen free antivirus programs advertised and wondered: why pay when there is a free option?
+You may have seen [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) programs advertised and wondered: why pay when there is a free option?
 
 Here is the honest answer.
 

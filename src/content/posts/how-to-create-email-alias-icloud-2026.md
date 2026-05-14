@@ -24,7 +24,7 @@ For anyone who uses a mix of devices — or who wants aliases that work on every
 
 ---
 
-## What Is an iCloud Email Alias?
+## What Is an iCloud [Email Alias](https://snipstack.io/email-alias-for-online-shopping-2026/)?
 
 An [email alias](https://snipstack.io/how-email-alias-2026/) is a secondary address that delivers mail to your primary inbox. The sender sees only the alias — they never learn the address behind it.
 
@@ -47,7 +47,7 @@ If you are not sure whether you have iCloud+, open **Settings > [Your Name] > iC
 
 ---
 
-## Step-by-Step: Create an Email Alias with iCloud Hide My Email
+## Step-by-Step: Create an [Email Alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) with iCloud Hide My Email
 
 ### Step 1 — Open Hide My Email on Your iPhone or iPad
 
@@ -126,7 +126,7 @@ Hide My Email is a well-built feature for what it covers. But there are real lim
 
 **Requires iCloud+.** The free iCloud tier does not include Hide My Email. If your subscription lapses, your aliases stop forwarding without warning.
 
-**Apple-ecosystem only by design.** The alias creation flow is built into Apple's Settings and Safari. On an Android phone, on Chrome on Windows, or on any non-Apple browser, you cannot easily create a new Hide My Email alias on the fly. You have to go to icloud.com or pull out an Apple device.
+**Apple-ecosystem only by design.** The alias creation flow is built into Apple's Settings and Safari. On an Android phone, on Chrome on Windows, or on any non-Apple browser, you cannot easily create a new Hide My [Email alias](https://snipstack.io/email-alias-generator-2026/) on the fly. You have to go to icloud.com or pull out an Apple device.
 
 **`@icloud.com` domain is sometimes flagged.** Some websites run checks on email domains and flag or reject known Apple alias addresses. Not common, but it happens often enough to be an occasional nuisance.
 

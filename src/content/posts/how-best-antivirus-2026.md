@@ -147,7 +147,7 @@ Yes. Most Surfshark plans cover multiple devices. Go back to the app on your pho
 
 ## FAQ
 
-### Is free antivirus software good enough?
+### Is [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) software good enough?
 
 Free antivirus programs offer limited protection. They often show many ads, miss newer types of threats, and do not include the real-time scanning that catches problems as they happen. For everyday use — especially if you shop or bank online — a paid plan gives you much stronger protection for a very low monthly cost.
 

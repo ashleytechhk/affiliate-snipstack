@@ -162,7 +162,7 @@ Surfshark Antivirus is available as a paid subscription. Here is what you get th
 - Covers multiple devices under one account
 - 24/7 customer support via live chat
 
-Free antivirus apps often work by showing you advertising or selling your data to cover their costs. A paid app has no reason to do that — it earns money from your subscription, not from you.
+[Free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) apps often work by showing you advertising or selling your data to cover their costs. A paid app has no reason to do that — it earns money from your subscription, not from you.
 
 ---
 

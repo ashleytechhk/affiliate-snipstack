@@ -67,7 +67,7 @@ If Play Protect finds a problem it will show a red warning and tell you exactly 
 
 ---
 
-## Step 2 — Choose a Free Antivirus App (Your Options Explained)
+## Step 2 — Choose a [Free Antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) App (Your Options Explained)
 
 Play Protect is a good start, but it only covers apps from the Play Store. A dedicated antivirus app also scans links, Wi-Fi networks, and web pages.
 

@@ -150,7 +150,7 @@ Yes. Android supports this natively via the Add Account feature in WhatsApp sett
 Once a number is deactivated, new incoming messages to that number stop. Your existing WhatsApp chat history remains on your device (in the WhatsApp app itself) until you delete it. The contacts you gave the number to will no longer be able to reach you on it.
 
 **Is this legal?**
-Using a [second phone number](https://snipstack.io/second-phone-number-iphone-2026/) for personal privacy is entirely legal in most countries. Virtual number services are mainstream tools used for business lines, two-factor authentication, and exactly this kind of personal privacy. Alt-Number is a product by Surfshark, a regulated company operating under standard telecom licensing.
+Using a [second phone number](https://snipstack.io/second-phone-number-iphone-2026/) for personal privacy is entirely legal in most countries. [Virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) services are mainstream tools used for business lines, two-factor authentication, and exactly this kind of personal privacy. Alt-Number is a product by Surfshark, a regulated company operating under standard telecom licensing.
 
 ---
 

@@ -140,7 +140,7 @@ It depends on how much you trust them and how early in the conversation you are.
 
 ### Will a spam call blocker stop texts from unwanted contacts?
 
-Apps like Alt-Number let you control both calls and texts to your virtual number, including blocking specific contacts or resetting the number entirely. OS-level tools like Silence Unknown Callers only apply to voice calls. For full text message filtering, you want a dedicated second-number solution rather than a call screening app.
+Apps like Alt-Number let you control both calls and texts to your [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/), including blocking specific contacts or resetting the number entirely. OS-level tools like Silence Unknown Callers only apply to voice calls. For full text message filtering, you want a dedicated second-number solution rather than a call screening app.
 
 ### Do spam call blockers work on both iPhone and Android?
 

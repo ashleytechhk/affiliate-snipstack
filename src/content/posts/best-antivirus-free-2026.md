@@ -42,7 +42,7 @@ That is all. If Windows Defender is on, you have real-time protection scanning f
 
 ---
 
-## Step 2: Consider Avast Free Antivirus (Optional Upgrade Within Free Options)
+## Step 2: Consider Avast [Free Antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) (Optional Upgrade Within Free Options)
 
 If you want extra features beyond what Windows Defender provides — like a Wi-Fi network scanner that checks whether your home router is secure — Avast Free Antivirus is worth a look.
 

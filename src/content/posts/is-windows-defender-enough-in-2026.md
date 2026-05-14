@@ -50,7 +50,7 @@ Here is where the gap between Defender and a paid security suite becomes clear.
 
 When you connect to public Wi-Fi — at a coffee shop, library, or doctor's waiting room — your internet traffic can potentially be read by others on the same network. A **VPN** (Virtual Private Network) encrypts that connection so your activity stays private.
 
-Defender has no VPN. Microsoft does sell a separate product called [Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/) VPN, but it is limited, carries data caps, and is not bundled with the free antivirus you already have.
+Defender has no VPN. Microsoft does sell a separate product called [Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/) VPN, but it is limited, carries data caps, and is not bundled with the [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) you already have.
 
 ### No Identity Monitoring or Dark Web Alerts
 

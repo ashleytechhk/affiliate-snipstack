@@ -169,7 +169,7 @@ Not through normal caller ID or reverse lookup. Alt-Number is assigned from real
 **Is Google Voice free forever?**
 Google Voice personal accounts are free for domestic calls and texts in the US. Google has changed its policies before, so "forever" is never guaranteed. Surfshark Alt-Number is subscription-based but included as part of your Surfshark plan.
 
-**Can I use a virtual number to verify my own dating app account?**
+**Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) verify my own dating app account?**
 Google Voice numbers are frequently rejected by dating apps (Tinder, Hinge, Bumble) for account verification because they are classified as VOIP. [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-google-voice-2026__faq) numbers generally pass these checks because they are assigned from standard mobile number pools.
 
 **What happens if I want to stop using the number?**

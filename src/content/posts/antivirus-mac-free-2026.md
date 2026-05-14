@@ -205,7 +205,7 @@ For many users, yes. If you mostly use your Mac at home for email and browsing f
 
 Not necessarily avoid, but be informed. Both products offer genuine protection. The concern is that the parent company (Gen Digital) has a documented history of collecting and selling browsing data. If you are comfortable with that trade-off in exchange for free real-time protection, Avast or AVG are functional options. If privacy is a priority, Malwarebytes and Bitdefender are cleaner choices.
 
-**Will installing a free antivirus slow down my Mac?**
+**Will installing a [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) slow down my Mac?**
 
 Malwarebytes Free and Bitdefender Virus Scanner have very low performance impact. You will not notice them during everyday use. Avast and Avira can slow down older Macs slightly during a full scan, but day-to-day performance is usually unaffected.
 

@@ -12,13 +12,13 @@ tags: ["antivirus", "privacy", "review"]
 
 Your neighbor got a virus on their computer. Your friend clicked a link in an email and lost money to a scam. Now you are worried about your own Windows 11 PC — and you want protection without paying a fortune.
 
-Good news: there is a free antivirus built right into Windows 11, and it works well. This step-by-step guide will show you how to check that it is running, how to use it, and what else you can do to stay safe — all in plain, simple language. No technical experience needed.
+Good news: there is a free antivirus built right into Windows 11, and it works well. This step-by-step guide will show you [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) that it is running, how to use it, and what else you can do to stay safe — all in plain, simple language. No technical experience needed.
 
 ---
 
 ## Quick Verdict
 
-Windows 11 comes with **Microsoft Defender Antivirus** built in and completely free. For most everyday use — email, browsing, video calls — it handles common viruses and malware without you doing anything. However, Defender alone does not protect you from online scams, fake websites, or threats on public Wi-Fi. For seniors who bank or shop online, pairing Defender with a simple security tool like **[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-for-windows-11-2026__above-fold)** adds that extra layer of peace of mind at a very affordable price.
+Windows 11 comes with **[Microsoft Defender Antivirus](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)** built in and completely free. For most everyday use — email, browsing, video calls — it handles common viruses and malware without you doing anything. However, Defender alone does not protect you from online scams, fake websites, or threats on public Wi-Fi. For seniors who bank or shop online, pairing Defender with a simple security tool like **[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-for-windows-11-2026__above-fold)** adds that extra layer of peace of mind at a very affordable price.
 
 ---
 
@@ -188,7 +188,7 @@ This is normal. A Full Scan uses a lot of your computer's resources. Try to sche
 
 ### Is there really a free antivirus already on Windows 11?
 
-Yes. Microsoft Defender Antivirus is built into every copy of Windows 11 at no charge. You do not need to download, buy, or subscribe to anything to use it. As long as Windows is up to date, Defender is active and working in the background.
+Yes. [Microsoft Defender Antivirus](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/) is built into every copy of Windows 11 at no charge. You do not need to download, buy, or subscribe to anything to use it. As long as Windows is up to date, Defender is active and working in the background.
 
 ### How do I know if my Windows 11 antivirus is working?
 

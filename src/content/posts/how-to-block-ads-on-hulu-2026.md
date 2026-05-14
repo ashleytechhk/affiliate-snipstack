@@ -107,7 +107,7 @@ If ads are the primary friction point and you're already paying for Hulu, the up
 
 ## Method 5: System-Level DNS Filter (Router or Private DNS)
 
-For users who want ad blocking without any app installed, configuring a Pi-hole or similar DNS filter at the router level, or using an encrypted DNS resolver with ad-blocking built in (like AdGuard DNS), provides network-wide filtering.
+For users who want ad blocking without any app installed, configuring a Pi-hole or similar DNS filter at the router level, or using an encrypted DNS resolver with ad-blocking built in (like [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/)), provides network-wide filtering.
 
 This covers every device on your home network without per-device setup. Configure it once on your router and every phone, tablet, and TV in your household benefits.
 

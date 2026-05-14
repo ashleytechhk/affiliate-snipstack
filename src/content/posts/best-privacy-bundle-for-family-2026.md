@@ -142,7 +142,7 @@ This is the step most families skip and should not. [Alt-ID](https://snipstack.i
 
 **Alt-ID** generates a masked email address and a fake-but-plausible identity profile (name, country). Use it when signing up for anything that does not need your real email — newsletters, loyalty cards, app trials, online services you are not sure about. Emails sent to the Alt-ID address forward to your real inbox, so you still get the account confirmation. If the service starts spamming you, you delete the alias and the real address stays clean.
 
-**How to create an Alt-ID:**
+**[How to create](https://snipstack.io/how-to-create-email-alias-icloud-2026/) an Alt-ID:**
 1. Open Surfshark app → Alt-ID
 2. Click Generate New Identity
 3. Copy the masked email address
