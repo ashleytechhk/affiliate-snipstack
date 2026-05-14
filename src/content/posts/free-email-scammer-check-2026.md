@@ -107,7 +107,7 @@ Even without any tools, the content of the email itself reveals a lot.
 
 ## Step 5 — Verify Directly Through the Official Website
 
-If you are still unsure after the checks above, do not reply to the email or call any phone number listed in it. Instead:
+If you are still unsure after the checks above, do not reply to the email or call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) listed in it. Instead:
 
 1. Open a new browser tab
 2. Manually type the company's real website address (e.g., `paypal.com`, `amazon.com`)

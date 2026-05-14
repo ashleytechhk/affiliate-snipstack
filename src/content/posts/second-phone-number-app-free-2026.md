@@ -38,7 +38,7 @@ The limits are real, though. Google Voice is US only — if you're outside the U
 
 ## 2. TextNow — Free Number with Calls and Texts
 
-**TextNow** gives you a free US phone number with unlimited calls and texts over WiFi. The app is ad-supported on the free tier, which is the trade-off for the zero-cost entry. A paid plan removes ads and adds features.
+**TextNow** gives you a free US [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) with unlimited calls and texts over WiFi. The app is ad-supported on the free tier, which is the trade-off for the zero-cost entry. A paid plan removes ads and adds features.
 
 For dating, it's practical: you get a real-looking number, you can text and call from it, and you don't need a SIM. TextNow numbers are WiFi-first, which means call quality depends on your connection. If you're out at a coffee shop with spotty WiFi, calls can drop.
 

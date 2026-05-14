@@ -12,7 +12,7 @@ The National Do Not Call Registry stops telemarketers — it won't stop a bad Ti
 
 That's the cold truth. You can register every number you own with the FTC, and it still won't prevent someone you met on Hinge from sending you 47 messages after one awkward coffee. The registry was built for cold-calling salespeople, not overzealous Bumble matches.
 
-So if you've ever handed out your real phone number too early — and regretted it — you're not alone. And you don't need to keep doing it.
+So if you've ever handed out your real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) too early — and regretted it — you're not alone. And you don't need to keep doing it.
 
 This guide covers four real options for getting a [burner number](https://snipstack.io/burner-number-free-2026/) for dating apps, how they compare, and which one actually works without drama.
 

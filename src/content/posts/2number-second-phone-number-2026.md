@@ -54,7 +54,7 @@ That's it. No SIM cards, no carrier visits, no second device. The whole setup li
 
 ---
 
-## Step-by-Step: How to Set Up a Second Phone Number for Dating
+## Step-by-Step: How to Set Up a Second [Phone Number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) Dating
 
 ![Screenshot showing the Alt-Number setup flow inside the Surfshark app — country selection screen with number options listed](/og/2number-second-phone-number-2026-inline-1.png)
 

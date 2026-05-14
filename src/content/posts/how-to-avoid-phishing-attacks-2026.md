@@ -183,7 +183,7 @@ Voice phishing, or vishing, involves a caller pretending to be from your bank, a
 
 1. Do not give out personal information to an inbound caller, no matter how official they sound.
 2. Hang up.
-3. Look up the organisation's official phone number independently and call them back yourself.
+3. Look up the organisation's official [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) independently and call them back yourself.
 4. Never follow instructions from a caller to install remote access software on your device.
 
 If the caller claims to be from your bank and says the matter is urgent, that urgency is designed to stop you from thinking clearly. Hang up and call the number on the back of your card.

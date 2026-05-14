@@ -40,7 +40,7 @@ Understanding your use case matters because it affects which provider is worth p
 You need:
 
 - A smartphone (iOS or Android) or a web browser
-- A working primary phone number for verification during signup
+- A working primary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) verification during signup
 - A payment method if you go with a paid tier (Hushed or Alt Number)
 - Five minutes
 

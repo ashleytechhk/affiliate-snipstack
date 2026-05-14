@@ -112,7 +112,7 @@ Run these five steps in under two minutes before entering your payment details o
 
 **Step 3 — Search reviews off-site.** Google "[store name] reviews reddit" or "[store name] scam" — not "[store name] reviews" which can surface planted testimonials. Reddit threads and consumer forums are much harder to fake.
 
-**Step 4 — Inspect the contact page.** Legitimate stores have a real physical address, a working support email, and ideally a phone number. A contact form with no other details is a warning sign.
+**Step 4 — Inspect the contact page.** Legitimate stores have a real physical address, a working support email, and ideally a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). A contact form with no other details is a warning sign.
 
 **Step 5 — Verify the payment method.** Scam shops often push bank transfer, cryptocurrency, or gift cards because those payments are irreversible. A site that only accepts these methods and not credit cards or PayPal should be avoided.
 

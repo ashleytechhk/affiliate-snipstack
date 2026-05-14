@@ -16,7 +16,7 @@ The good news: you don't have to pay to fix this. Several genuinely free options
 
 ## Quick Verdict
 
-The strongest free options for Chrome on mobile in 2026 are tools that work around Chrome's extension limitations rather than fighting them — either by blocking at the DNS/network layer or by switching to a Chromium-based browser with built-in blocking. **Brave Browser** and **Firefox Focus** are zero-cost and require no technical setup. **NextDNS** and **[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/)** cover your whole phone for free up to their usage tiers. For users who want the most thorough protection across Chrome and every other app without touching their browser, **[Surfshark CleanWeb](/blog/adblock?sub=free-ad-blocker-chrome-2026__above-fold)** is the premium step up when the free options run short.
+The strongest free options for Chrome on mobile in 2026 are tools that work around Chrome's extension limitations rather than fighting them — either by blocking at the DNS/network layer or by switching to a Chromium-based [browser with built](https://snipstack.io/browser-with-built-in-ad-blocker-2026/)-in blocking. **Brave Browser** and **Firefox Focus** are zero-cost and require no technical setup. **NextDNS** and **[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/)** cover your whole phone for free up to their usage tiers. For users who want the most thorough protection across Chrome and every other app without touching their browser, **[Surfshark CleanWeb](/blog/adblock?sub=free-ad-blocker-chrome-2026__above-fold)** is the premium step up when the free options run short.
 
 ---
 

@@ -159,7 +159,7 @@ When you account for everything Surfshark bundles at a similar price, the value 
 Run a full scan once and let it finish completely. After that first pass, both apps switch to lighter background monitoring and the slowdown should go away. If your Mac is still sluggish after a day, try restarting it.
 
 **I got a pop-up saying my Mac is infected. Is this real?**
-If the alert appeared inside your web browser (Safari, Chrome, or Firefox), it is almost certainly a scam. Close the browser window immediately. Do not call any phone number shown in the pop-up. Your real antivirus will notify you through its own icon in the Mac menu bar — not through a browser page.
+If the alert appeared inside your web browser (Safari, Chrome, or Firefox), it is almost certainly a scam. Close the browser window immediately. Do not call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown in the pop-up. Your real antivirus will notify you through its own icon in the Mac menu bar — not through a browser page.
 
 **Can I run Bitdefender and Surfshark at the same time?**
 No. Running two antivirus programs simultaneously causes conflicts and significantly slows your computer. Pick one and uninstall the other.

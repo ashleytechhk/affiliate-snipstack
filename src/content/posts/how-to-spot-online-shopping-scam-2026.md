@@ -99,7 +99,7 @@ Surfshark Alert monitors for SSL anomalies and can flag sites with expired or mi
 
 Legitimate retailers have clear, findable return policies. Scroll to the footer and look for "Returns," "Refunds," or "Shipping Policy." A missing page is a red flag. A page that exists but says something like "All sales final, no returns accepted under any circumstances" is nearly as bad.
 
-Also look for a physical address and a customer service email or phone number. Scam shops often list a fake address or no contact information at all. Copy the address into Google Maps — if it resolves to a vacant lot or a residential house with no business history, take note.
+Also look for a physical address and a customer service email or [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). Scam shops often list a fake address or no contact information at all. Copy the address into Google Maps — if it resolves to a vacant lot or a residential house with no business history, take note.
 
 ---
 

@@ -74,7 +74,7 @@ On the plans page, look for the **Surfshark One** tier (not Starter, not One+). 
 - **VPN** — encrypted browsing and streaming access on all devices
 - **Antivirus** — real-time malware and phishing protection (this replaces Norton/McAfee)
 - **Alt-ID** — a masked email address and identity profile for signups
-- **Alt-Number** — a separate phone number for forms and services that demand one
+- **Alt-Number** — a separate [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) forms and services that demand one
 
 Choose the 2-year plan for the lowest monthly cost, or the annual plan if you prefer shorter commitments. Either covers unlimited devices.
 

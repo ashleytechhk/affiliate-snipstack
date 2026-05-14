@@ -192,7 +192,7 @@ On the login screen, click **Forgot Password**. Enter your email address. Check 
 
 ### A pop-up says my computer is infected — should I trust it?
 
-Only trust warnings that come from inside the antivirus app you installed. Pop-ups that appear in your web browser — especially ones with a phone number to call — are almost always scams. Close the browser tab immediately, do not call any numbers, and do not enter any personal information. Run a scan from your antivirus app to confirm everything is fine.
+Only trust warnings that come from inside the antivirus app you installed. Pop-ups that appear in your web browser — especially ones with a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to call — are almost always scams. Close the browser tab immediately, do not call any numbers, and do not enter any personal information. Run a scan from your antivirus app to confirm everything is fine.
 
 ### The installer will not run or gives an error
 

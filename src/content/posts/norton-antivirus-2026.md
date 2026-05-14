@@ -83,7 +83,7 @@ Modern security is not just about blocking malware. Data brokers harvest your na
 
 Surfshark One bundles:
 
-- **Surfshark Alert** — monitors your email, phone number, ID details, and credit cards against breach databases in real time
+- **Surfshark Alert** — monitors your email, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), ID details, and credit cards against breach databases in real time
 - **CleanWeb** — blocks ads, trackers, malware URLs, and phishing sites at the DNS level across all your devices
 - **Surfshark Search** — a private, non-personalized search engine that does not track your queries
 

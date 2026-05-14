@@ -53,7 +53,7 @@ Not all breaches are equal. Knowing what leaked tells you how aggressively to re
 **What to do:**
 
 1. Visit [haveibeenpwned.com](https://haveibeenpwned.com) and search your email.
-2. Click the breach name to read the details. Look for fields marked as exposed: passwords, phone numbers, physical addresses, payment card data.
+2. Click the breach name to read the details. Look for fields marked as exposed: passwords, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s, physical addresses, payment card data.
 3. If only your email address leaked, the risk is primarily spam. If passwords or payment data leaked, treat it as a full account compromise — change credentials everywhere, check statements, and alert your bank.
 4. Run a search for any secondary email addresses you use for signups. Many people discover they have four or five exposed addresses they had forgotten about.
 

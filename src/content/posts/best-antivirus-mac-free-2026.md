@@ -162,7 +162,7 @@ Modern antivirus apps are designed to be light. Surfshark Antivirus in particula
 The firewall (Step 1) controls which network connections are allowed to reach your Mac. [Antivirus software](https://snipstack.io/antivirus-software-2026/) (Steps 2 and 3) scans files on your Mac for harmful code. Both work together — you want both active.
 
 **What should I do if I get a scary pop-up saying my Mac is infected?**
-Do not click anything in the pop-up. Do not call any phone number it displays. Close the browser tab or window (press Command + W). Then run a scan using the Surfshark app as described in Step 2. Real security alerts come from apps already installed on your Mac — not from websites.
+Do not click anything in the pop-up. Do not call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) it displays. Close the browser tab or window (press Command + W). Then run a scan using the Surfshark app as described in Step 2. Real security alerts come from apps already installed on your Mac — not from websites.
 
 ---
 

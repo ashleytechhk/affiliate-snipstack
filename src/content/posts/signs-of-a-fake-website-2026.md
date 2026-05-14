@@ -66,7 +66,7 @@ A site without HTTPS — shown by `http://` instead of `https://` in the address
 
 ### 3. Broken or Missing Contact Page
 
-Legitimate businesses want to hear from customers. Scam sites do not. A contact page with a generic form and no address, phone number, or working email is a red flag. Sometimes the contact link goes nowhere at all.
+Legitimate businesses want to hear from customers. Scam sites do not. A contact page with a generic form and no address, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), or working email is a red flag. Sometimes the contact link goes nowhere at all.
 
 **Manual check:** Click the Contact or About link. Try the contact form. Look for a physical address and verify it on Google Maps. If the address is a residential street or a virtual office with no business history, treat it as suspicious.
 

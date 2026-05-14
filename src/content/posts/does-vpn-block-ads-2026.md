@@ -28,14 +28,14 @@ A standard VPN encrypts your internet traffic and masks your IP — it does not 
 
 ## The Four Options, Compared
 
-| Method | Blocks browser ads | Blocks in-app ads | Blocks YouTube ads | Works on iOS | Works on Android | Extra cost |
+| Method | Blocks browser ads | Blocks in-app ads | Blocks [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s | Works on iOS | Works on Android | Extra cost |
 |---|---|---|---|---|---|---|
 | Plain VPN (no add-on) | No | No | No | — | — | — |
 | VPN + CleanWeb (DNS-level) | Yes | Partial | Yes | Yes | Yes | Included |
 | Browser extension ([uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/), AdGuard) | Yes | No | Yes (Firefox) | No | No (browser only) | Free |
 | Pi-hole (home DNS server) | Yes | Partial | Yes | Yes (home Wi-Fi only) | Yes (home Wi-Fi only) | Hardware + setup |
 
-The critical column for mobile users is the last two: iOS support and Android support. Browser extensions are the gold standard on desktop Firefox — but on mobile, they do not exist. Safari on iOS has no extension support for ad blocking in the traditional sense. Chrome on Android does not support extensions at all. That wipes the "just install uBlock Origin" advice off the table for most smartphone users.
+The critical column for mobile users is the last two: iOS support and Android support. Browser extensions are the gold standard on desktop Firefox — but on mobile, they do not exist. Safari on iOS has no extension support for ad blocking in the traditional sense. Chrome on Android does not support extensions at all. That wipes the "just install [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/)" advice off the table for most smartphone users.
 
 ---
 

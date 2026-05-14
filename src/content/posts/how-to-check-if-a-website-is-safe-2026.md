@@ -119,7 +119,7 @@ Once you have done the technical checks above, a quick visual inspection of the 
 
 **Signs a site is likely legitimate:**
 
-- Contact information is visible — a phone number, physical address, or support email that matches the company's known details
+- Contact information is visible — a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), physical address, or support email that matches the company's known details
 - The privacy policy and terms of service links work and contain real text (not placeholder Lorem Ipsum)
 - The site loads without redirecting you through multiple different URLs
 - Product images are high quality and consistent with what you would find on the company's official site

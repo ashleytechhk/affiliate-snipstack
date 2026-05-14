@@ -194,7 +194,7 @@ If you're evaluating your VPN setup entirely and the browser extension is a sign
 
 ### Does the NordVPN Chrome extension work without the desktop app?
 
-Yes. Unlike ExpressVPN's browser extension (which requires the desktop app to function), NordVPN's extension operates as a standalone HTTPS proxy. You can install it on a Chromebook or any Chrome browser without installing NordVPN's native app, and it will still encrypt and reroute your browser traffic through NordVPN servers.
+Yes. Unlike ExpressVPN's browser extension (which requires the desktop app to function), NordVPN's extension operates as a standalone HTTPS proxy. You can install it on a Chromebook or any Chrome [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/)out installing NordVPN's native app, and it will still encrypt and reroute your browser traffic through NordVPN servers.
 
 ### What is Threat Protection Lite in NordVPN's Chrome extension?
 

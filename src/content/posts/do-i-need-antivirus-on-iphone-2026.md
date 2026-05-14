@@ -77,7 +77,7 @@ Every year, large companies get hacked and millions of people's email addresses 
 
 Your iPhone cannot warn you when this happens to your information. You need a separate monitoring service.
 
-### 4. Scam Phone Calls
+### 4. [Scam Phone](https://snipstack.io/scam-phone-number-lookup-free-2026/) Calls
 
 Scam calls pretending to be from the government, your bank, or tech support are still common. While iPhone has some built-in spam filtering, it is not comprehensive.
 

@@ -173,7 +173,7 @@ With Alt-Number, the number looks like any standard local mobile number. Free to
 **What happens if I stop paying for the Alt-Number subscription?**
 Your number becomes inactive when the subscription ends. Anyone who texts or calls that number will not be able to reach you. Your call and message history inside the app may be cleared. If you want to keep the number active, maintain the subscription. If you are done with it — and done with a particular match — letting the subscription lapse or simply removing the number is a clean way to close that contact entirely.
 
-**Is it legal to use a second phone number for dating?**
+**Is it legal to use a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) dating?**
 Yes. Having a second phone number for privacy is entirely legal and widely practiced. It is no different from using a work email address versus a personal one. The number must not be used to deceive, harass, or defraud — but using it to protect your own privacy while dating is straightforward and legitimate.
 
 **Can I use iMessage or FaceTime on my second number?**

@@ -90,7 +90,7 @@ To be fair: Surfshark Antivirus on iOS cannot install malicious-profile blockers
 
 Even without any extra app, you can dramatically reduce your risk:
 
-1. **Never call a phone number shown in a pop-up on a website.** Apple, your bank, and government agencies do not warn you through browser pop-ups.
+1. **Never call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown in a pop-up on a website.** Apple, your bank, and government agencies do not warn you through browser pop-ups.
 2. **Check the address bar before typing any password.** Your bank's real site is one thing; `secure-bank-login-verify.com` is not.
 3. **Decline any request to download a "profile" or "certificate"** unless your workplace IT department specifically asks you to.
 4. **Keep iOS updated.** Settings → General → Software Update. Apple patches security gaps quickly, but only if you install the updates.

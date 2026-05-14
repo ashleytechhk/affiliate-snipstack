@@ -186,7 +186,7 @@ In those situations, a free online scan will not give you the answer you are loo
 
 **Q: Can a website actually scan my entire computer for free?**
 
-No. A website cannot access files on your computer unless you specifically upload them. Any pop-up that says "Scanning your computer now…" without you having uploaded anything is almost certainly a scam or fake alert. Do not click any links or call any phone numbers these pop-ups show you. Simply close the browser tab.
+No. A website cannot access files on your computer unless you specifically upload them. Any pop-up that says "Scanning your computer now…" without you having uploaded anything is almost certainly a scam or fake alert. Do not click any links or call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s these pop-ups show you. Simply close the browser tab.
 
 **Q: Is VirusTotal safe to use?**
 

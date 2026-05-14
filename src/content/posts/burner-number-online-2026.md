@@ -188,7 +188,7 @@ Yes. Your Alt-Number is a real phone number. You can use it as the contact numbe
 
 Once you cancel, texts and calls to that number are disconnected. The person on the other end cannot reach you. Messages stored inside the Surfshark app may remain accessible until you clear them, but incoming messages stop. Save anything you want to keep before canceling.
 
-**Is it legal to use a secondary phone number for dating?**
+**Is it legal to use a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) dating?**
 
 Yes. Secondary phone numbers are used every day for business lines, privacy, travel, and personal separation. There is no legal issue with giving someone a number other than your primary one. You are still reachable on it — you are just protecting your primary contact information.
 

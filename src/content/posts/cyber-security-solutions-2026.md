@@ -64,7 +64,7 @@ Surfshark started as a VPN company, which means its network infrastructure is pu
 
 **Antivirus:** Real-time scanning with scheduled scan support. Independent tests rate Surfshark's antivirus detection rates alongside established competitors. It runs quietly and doesn't demand your attention every 20 minutes.
 
-**Alert:** Monitors breach databases for your email addresses, credit cards, phone numbers, and ID documents. When your data appears in a leaked dataset, you get a notification with detail on what was exposed.
+**Alert:** Monitors breach databases for your email addresses, credit cards, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s, and ID documents. When your data appears in a leaked dataset, you get a notification with detail on what was exposed.
 
 **Search:** Surfshark Search is a private search engine that doesn't log queries or serve targeted ads. It's a small thing, but it rounds out the package.
 

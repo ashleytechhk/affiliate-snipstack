@@ -78,7 +78,7 @@ Never pay by bank transfer, cryptocurrency, or gift card voucher for a purchase 
 Before you buy, send a test message to the contact email or support chat. Ask a basic question about shipping times or product sizing. You do not need a reply before checkout, but you should verify that:
 
 - An email address exists and is on the same domain as the store (not a Gmail or Yahoo address)
-- A phone number, if listed, is a real geographic number — not a VOIP line with no business registration
+- A [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), if listed, is a real geographic number — not a VOIP line with no business registration
 - A support chat, if available, responds to a basic query with a real answer rather than a bot loop that goes nowhere
 
 Scam sites often list `support@storename.com` as a contact address but never respond to pre-sales enquiries. If the site has a "live chat" that only offers FAQ links and cannot handle a direct question, that tells you something about what post-purchase support will look like.

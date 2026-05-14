@@ -132,7 +132,7 @@ Surfshark Antivirus   | Trial        | Yes            | Yes          | Full (pai
 
 **Scans at night are your friend.** Schedule a full scan for 2:00 AM when you are asleep. By morning the report is ready and your daytime browsing is uninterrupted.
 
-**If a pop-up says "call this number," do not call.** Legitimate [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) never asks you to call a phone number. These are scams. Close the window and run a scan from your antivirus program directly.
+**If a pop-up says "call this number," do not call.** Legitimate [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) never asks you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). These are scams. Close the window and run a scan from your antivirus program directly.
 
 ---
 

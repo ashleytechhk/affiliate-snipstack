@@ -12,7 +12,7 @@ You matched. The conversation is going well. They ask for your number.
 
 Now what?
 
-Handing out your real phone number to a stranger from a dating app is a bigger risk than most people realize. Once someone has your digits, they can look up your address, find your social profiles, and contact you long after you've decided to stop talking. A [burner number](https://snipstack.io/burner-number-free-2026/) puts a clean layer of separation between your dating life and your real identity — without ghosting the person entirely.
+Handing out your real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to a stranger from a dating app is a bigger risk than most people realize. Once someone has your digits, they can look up your address, find your social profiles, and contact you long after you've decided to stop talking. A [burner number](https://snipstack.io/burner-number-free-2026/) puts a clean layer of separation between your dating life and your real identity — without ghosting the person entirely.
 
 This guide covers the seven best [burner number](https://snipstack.io/burner-number-online-2026/) options available in 2026, with a special focus on what matters most to online daters: easy setup, reliable calling and texting, and the ability to disappear when things go sideways.
 

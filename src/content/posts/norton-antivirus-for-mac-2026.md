@@ -176,7 +176,7 @@ Yes. Surfshark Antivirus works on any Mac running macOS 10.15 (Catalina) or newe
 
 It is a good idea to remove other antivirus programs before installing a new one, as they can sometimes conflict with each other. If you have another antivirus installed, look for it in your Applications folder and drag it to the Trash. Then empty the Trash before installing Surfshark.
 
-### Will this protect me from scam phone calls and emails?
+### Will this protect me from [scam phone](https://snipstack.io/scam-phone-number-lookup-free-2026/) calls and emails?
 
 [Antivirus software](https://snipstack.io/antivirus-software-2026/) protects your Mac from malicious files and websites. It cannot block phone calls, but it can warn you if you click a suspicious link in an email or visit a dangerous website. For extra email protection, be cautious about clicking links from senders you do not recognize.
 

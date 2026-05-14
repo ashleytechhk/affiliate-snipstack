@@ -48,7 +48,7 @@ The threats are not just viruses anymore. In 2026, the biggest risks include:
 
 **Ransomware** — A type of attack where criminals lock all your photos, documents, and files on your computer, then demand money to unlock them. Losing twenty years of family photos to ransomware is devastating.
 
-**Tech support scams** — A popup appears saying your computer is infected, with a phone number to call. You call, and someone pretends to be from Microsoft or Apple. They talk you into giving them remote access to your computer — and your banking details.
+**Tech support scams** — A popup appears saying your computer is infected, with a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to call. You call, and someone pretends to be from Microsoft or Apple. They talk you into giving them remote access to your computer — and your banking details.
 
 **Spyware** — Hidden programs that record what you type, including passwords and credit card numbers, and send that information to criminals.
 

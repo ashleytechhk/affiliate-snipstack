@@ -204,7 +204,7 @@ No. The number is real and functional — it rings, receives texts, and you can 
 
 **Do virtual phone numbers work for WhatsApp or iMessage verification?**
 
-WhatsApp verification works well with real mobile numbers. iMessage ties to Apple ID and doesn't use a separate phone number for activation, so it's not affected. Surfshark Alt-Number works for WhatsApp verification. Google Voice and VoIP numbers are less reliable for WhatsApp.
+WhatsApp verification works well with real mobile numbers. iMessage ties to Apple ID and doesn't use a separate [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) activation, so it's not affected. Surfshark Alt-Number works for WhatsApp verification. Google Voice and VoIP numbers are less reliable for WhatsApp.
 
 ---
 

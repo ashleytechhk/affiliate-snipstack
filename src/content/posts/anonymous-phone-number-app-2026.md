@@ -85,7 +85,7 @@ Now use your new Alt-Number wherever you'd normally share your real number:
 
 - **Dating app profile bio** — some daters list a number for direct contact
 - **In-app chat** — when a match asks for your number, give them the Alt-Number
-- **SMS verification** — if you're creating a new dating account and need a phone number for signup, use Alt-Number here (it passes SMS verification on Tinder, Hinge, Bumble, and most other platforms)
+- **SMS verification** — if you're creating a new dating account and need a [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) signup, use Alt-Number here (it passes SMS verification on Tinder, Hinge, Bumble, and most other platforms)
 
 Your real number stays private. The match has a working number that rings your phone through the Alt-Number app.
 

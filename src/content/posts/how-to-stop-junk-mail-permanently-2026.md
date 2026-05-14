@@ -75,7 +75,7 @@ DMAchoice and OptOutPrescreen cover most bulk mailers, but data brokers (Spokeo,
 
 1. Search for your name on the top five brokers: Spokeo, Whitepages, Intelius, BeenVerified, and MyLife.
 2. Find your listing and look for a "Remove my information" or "Opt out" link — usually in the site footer or on the listing page itself.
-3. Complete each form individually. Most require you to verify via email or a phone number.
+3. Complete each form individually. Most require you to verify via email or a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/).
 4. Screenshot or log each removal request with a date. Some brokers re-list profiles after several months; having records makes follow-up easier.
 5. Repeat quarterly. Set a calendar reminder.
 
@@ -163,7 +163,7 @@ Alt ID is a strong option because it is integrated with a broader privacy suite 
 Yes, but it requires the data broker removal approach (Step 3). These companies bought your contact details indirectly. Removing yourself from brokers cuts off the supply chain. Switching to [email alias](https://snipstack.io/email-alias-outlook-2026/)es ensures they can never acquire your real address from future sign-ups.
 
 **Do I need to pay for any of these opt-out services?**
-DMAchoice charges a $2 identity verification fee. OptOutPrescreen is free. Data broker removal is free (but time-consuming). An email alias service like Alt ID is a paid privacy tool — but one alias deletion can save hours of spam management. For most people the trade-off is obvious.
+DMAchoice charges a $2 identity verification fee. OptOutPrescreen is free. Data broker removal is free (but time-consuming). An [email alias](https://snipstack.io/email-alias-gmail-2026/) service like Alt ID is a paid privacy tool — but one alias deletion can save hours of spam management. For most people the trade-off is obvious.
 
 ---
 
@@ -174,7 +174,7 @@ You have now done the hard work. To keep the results:
 - **Physical mail:** Re-check DMAchoice annually. Opt-out lasts 5 years but reviewing it yearly takes 10 minutes.
 - **Credit offers:** If you chose the 5-year OptOutPrescreen option, set a reminder to renew it. The permanent option is worth the extra step.
 - **Data brokers:** Schedule a quarterly audit. Twenty minutes every three months handles the re-listing problem.
-- **Email aliases:** Make the alias your permanent default. Every sign-up from today forward gets an alias, not your real address.
+- **[Email alias](https://snipstack.io/email-alias-sign-2026/)es:** Make the alias your permanent default. Every sign-up from today forward gets an alias, not your real address.
 
 The goal is not to fight spam reactively. It is to make your real contact information unavailable for the next round. The opt-outs drain the existing pipeline. The alias system shuts off the future feed.
 

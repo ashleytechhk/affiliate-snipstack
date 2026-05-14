@@ -164,7 +164,7 @@ Even if a scammer gets your password, two-factor authentication (2FA) stops them
 Try viewing the email on a computer rather than a phone. On mobile apps the full address is sometimes hidden. Alternatively, look for a "View Source" or "Show Original" option which reveals all email headers.
 
 **"The checker says the address is not found, but the email still feels like a scam."**
-Trust your instincts. New scam addresses are created every day and may not be in databases yet. Look for the red flags in Step 4. When in doubt, do not click, do not reply, and call the company directly using a phone number from their official website.
+Trust your instincts. New scam addresses are created every day and may not be in databases yet. Look for the red flags in Step 4. When in doubt, do not click, do not reply, and call the company directly using a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) from their official website.
 
 **"I already clicked a link. What do I do?"**
 Close the browser tab immediately. Run a virus scan on your device. Change any passwords you may have entered. If you entered payment information, contact your bank right away and explain what happened.

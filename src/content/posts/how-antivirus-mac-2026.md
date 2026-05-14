@@ -140,7 +140,7 @@ Now that you have real protection installed, you can confidently ignore fake one
 - Websites that play loud alarm sounds
 - Emails with scary subject lines about your account being hacked
 
-If you see a pop-up warning that asks you to call a phone number, close the browser window immediately. Do not call the number. Real security software never asks you to phone anyone.
+If you see a pop-up warning that asks you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), close the browser window immediately. Do not call the number. Real security software never asks you to phone anyone.
 
 ---
 

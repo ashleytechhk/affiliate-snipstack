@@ -162,7 +162,7 @@ An [email alias](https://snipstack.io/email-alias-gmail-2026/) is a forwarding a
 **Is it safe to use [email alias](https://snipstack.io/email-alias-sign-2026/)es on Amazon and other major retailers?**
 Yes. Major retailers accept alias addresses the same as any other email. The alias receives order confirmations, shipping updates, and returns correspondence exactly as your real address would.
 
-**Can I use multiple email aliases at once?**
+**Can I use multiple [email alias](https://snipstack.io/how-email-alias-2026/)es at once?**
 Yes — and you should. The best practice is one unique alias per store. Tools like Surfshark Alt ID, Apple Hide My Email, and DuckDuckGo Email Protection all support unlimited or near-unlimited aliases.
 
 **What happens if I delete an alias?**

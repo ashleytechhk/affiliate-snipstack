@@ -147,7 +147,7 @@ You can also set Windows 11 to update itself automatically. Go to **Start Menu >
 ### A pop-up says my computer is infected — do I trust it?
 
 - **Only trust pop-ups from the Surfshark app itself**, not from your web browser or other windows.
-- Fake "your computer is infected" pop-ups in your browser are scams. Close the browser tab and do not call any phone numbers shown.
+- Fake "your computer is infected" pop-ups in your browser are scams. Close the browser tab and do not call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s shown.
 
 ### The software is not opening
 
