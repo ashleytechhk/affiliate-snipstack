@@ -99,7 +99,7 @@ Before you fix anything, understand the scale of the problem.
 
 An [email alias](https://snipstack.io/email-alias-generator-2026/) is a disposable address that forwards to your real inbox. You give the alias to websites, services, and stores. When a site gets breached or sells your data, only the alias leaks — not your real address. You can delete the alias and the spam stops instantly.
 
-**How to set up aliases with Alt ID:**
+**[How to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) up aliases with Alt ID:**
 
 Alt ID generates unique, random [email alias](https://snipstack.io/email-alias-example-2026/)es on demand. Each alias forwards to your real inbox so you still receive legitimate emails. If one alias starts getting spam, you delete it and create a new one.
 

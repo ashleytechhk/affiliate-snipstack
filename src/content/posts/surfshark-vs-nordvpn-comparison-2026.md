@@ -166,7 +166,7 @@ Where NordVPN's larger server network (6,000+ servers vs Surfshark's 3,200+) cou
 
 ## Privacy: Both Pass the Audit Test
 
-Independent audits matter because VPN providers' no-logs claims are only as good as the verification behind them. Both services have passed reputable independent audits.
+Independent audits matter because [VPN providers](https://snipstack.io/vpn-providers-best-2026/)' no-logs claims are only as good as the verification behind them. Both services have passed reputable independent audits.
 
 NordVPN has been audited by PricewaterhouseCoopers and Deloitte. Surfshark has been audited by Cure53. Neither stores connection logs, IP addresses, or traffic data that could be linked back to a specific user. Both are incorporated in jurisdictions outside the 14 Eyes surveillance alliance.
 

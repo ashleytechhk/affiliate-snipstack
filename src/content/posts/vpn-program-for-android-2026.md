@@ -64,7 +64,7 @@ The exception is when the VPN app offers **per-app exclusions** (Android's term 
 
 Android has a built-in system toggle for VPNs that very few users know about. You will not find it inside the VPN app — you find it in Android's own Settings.
 
-**How to get there:** Settings → Network & internet → VPN → tap the gear icon next to your VPN → "Always-on VPN"
+**[How to get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) there:** Settings → Network & internet → VPN → tap the gear icon next to your VPN → "Always-on VPN"
 
 Turning this on tells Android itself (not the VPN app) to keep the VPN connection active at all times, reconnect automatically if it drops, and optionally block all internet traffic if the VPN is not connected.
 

@@ -119,7 +119,7 @@ At approximately $2.19/month on the two-year plan, Surfshark costs less per year
 
 ---
 
-## Surfshark vs. Competitors: Public Wifi Security Comparison
+## [Surfshark vs](https://snipstack.io/surfshark-vs-nordvpn-comparison-2026/). Competitors: Public Wifi Security Comparison
 
 | Feature | Surfshark | NordVPN | ExpressVPN |
 |---|---|---|---|

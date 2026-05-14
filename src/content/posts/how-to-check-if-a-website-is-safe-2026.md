@@ -149,7 +149,7 @@ You do not need to paste URLs into tools or run lookups manually. The protection
 
 **[See how Surfshark Alert protects you from dangerous websites →](/blog/scamcheck?sub=how-to-check-if-a-website-is-safe-2026__mid)**
 
-This is especially useful for anyone who receives a high volume of email — newsletters, shopping confirmations, bank alerts — where scammers frequently hide phishing links among legitimate messages.
+This is especially useful for anyone who receives a high volume of email — newsletters, shopping confirmations, bank alerts — where scammers frequently hide [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s among legitimate messages.
 
 ---
 

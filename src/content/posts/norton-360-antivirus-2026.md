@@ -46,7 +46,7 @@ The table makes one thing obvious: Norton's breadth comes at a cost — both fin
 
 Norton's antivirus engine has consistently earned high marks from independent labs like AV-TEST and AV-Comparatives. It catches close to 100% of known malware in most test rounds. That reputation is real and hard-earned over decades.
 
-Surfshark's antivirus component (powered by a proven third-party engine) has also performed well in independent testing since its launch, with detection rates in the high-90% range. For the overwhelming majority of threats the average user faces — phishing links, ransomware downloads, trojan-laced installers — both products will protect you effectively.
+Surfshark's antivirus component (powered by a proven third-party engine) has also performed well in independent testing since its launch, with detection rates in the high-90% range. For the overwhelming majority of threats the average user faces — [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, ransomware downloads, trojan-laced installers — both products will protect you effectively.
 
 The honest difference: Norton has a longer lab-testing track record. Surfshark is newer to the antivirus space but has closed the gap quickly and ships a lighter footprint on your machine.
 

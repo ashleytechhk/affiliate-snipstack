@@ -57,7 +57,7 @@ A proper bundle should cover four pillars:
 | **Data breach monitoring** | Alerts you when your email or passwords appear in a leak |
 | **Ad / tracker blocking** | Stops invasive scripts from following you across sites |
 
-Norton and McAfee give you antivirus with a grudging VPN bolted on (limited bandwidth, sluggish servers). Surfshark One flips that: its VPN is the main product, and the antivirus is a genuine addition — not a checkbox feature.
+Norton and McAfee give you [antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/) a grudging VPN bolted on (limited bandwidth, sluggish servers). Surfshark One flips that: its VPN is the main product, and the antivirus is a genuine addition — not a checkbox feature.
 
 ---
 

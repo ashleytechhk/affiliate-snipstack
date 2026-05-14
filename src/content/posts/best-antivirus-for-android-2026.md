@@ -41,7 +41,7 @@ An antivirus app is like a security guard for your phone. It checks every app yo
 Android phones are the most popular phones in the world, which makes them the most popular target for scammers and hackers. Common threats include:
 
 - **Fake apps** that pretend to be a bank or a game but steal your passwords
-- **Phishing links** sent by text message or email that trick you into entering personal details
+- **[Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s** sent by text message or email that trick you into entering personal details
 - **Malware** — hidden software that records what you type or forwards your messages
 
 A good antivirus catches these threats before they reach you.

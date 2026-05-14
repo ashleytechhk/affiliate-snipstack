@@ -30,7 +30,7 @@ Apple's iPhone runs every app inside its own sealed box — a system called a "s
 
 So what do "iPhone antivirus" apps actually do?
 
-- **Phishing link filter.** They check websites and links before you open them. If a link leads to a fake banking page designed to steal your password, the app warns you or blocks it outright.
+- **[Phishing link](https://snipstack.io/phishing-link-checker-free-2026/) filter.** They check websites and links before you open them. If a link leads to a fake banking page designed to steal your password, the app warns you or blocks it outright.
 - **Wi-Fi security scan.** They check whether the network you joined at a coffee shop or airport is safe, or whether someone on the same network could be watching your traffic.
 - **Data breach alerts.** They watch lists of stolen passwords and email addresses. If your details appear in a breach, they notify you so you can change your password quickly.
 - **VPN (Virtual Private Network).** Some apps include a VPN, which hides your internet traffic from snoops on public Wi-Fi — similar to pulling your curtains when you do not want neighbours looking in.

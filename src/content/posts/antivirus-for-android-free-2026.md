@@ -29,7 +29,7 @@ You might have heard that Android phones "don't get viruses." That is only half 
 Android can be infected by:
 
 - **Fake apps** — look like real banking or delivery apps but steal your login details
-- **Phishing links** — sent via SMS, WhatsApp, or email; tap one and your details can be stolen
+- **[Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s** — sent via SMS, WhatsApp, or email; tap one and your details can be stolen
 - **Adware** — unwanted software that slows your phone and floods it with pop-up ads
 - **Spyware** — secretly reads your texts or watches your camera
 

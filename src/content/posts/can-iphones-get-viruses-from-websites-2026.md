@@ -122,7 +122,7 @@ A traditional, self-installing virus? No. iOS's sandboxing design prevents websi
 
 ### Do I need an antivirus app on my iPhone?
 
-You do not need a traditional virus scanner — iOS makes those unnecessary. What *can* help is a security app that warns you about phishing links and monitors your accounts for data breaches. That is a meaningful addition to iOS's built-in defences, not a replacement for them. [See which plan suits you →](/blog/antivirus?sub=can-iphones-get-viruses-from-websites-2026__faq)
+You do not need a traditional virus scanner — iOS makes those unnecessary. What *can* help is a security app that warns you about [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s and monitors your accounts for data breaches. That is a meaningful addition to iOS's built-in defences, not a replacement for them. [See which plan suits you →](/blog/antivirus?sub=can-iphones-get-viruses-from-websites-2026__faq)
 
 ### What is a "configuration profile" and why is it dangerous?
 

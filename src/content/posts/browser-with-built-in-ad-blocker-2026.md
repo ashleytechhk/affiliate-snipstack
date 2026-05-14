@@ -182,13 +182,13 @@ Yes — Brave works on both platforms and has Shields enabled by default. Downlo
 
 Chrome for Android and iOS does not support extensions, so you cannot add a traditional [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) to Chrome on mobile. The workaround is a network-level solution like Surfshark CleanWeb, which blocks ad domains before they reach Chrome (or any other browser). You keep Chrome; the ads just don't load.
 
-**Does Brave Browser block YouTube ads?**
+**Does Brave Browser block [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s?**
 
 Brave blocks YouTube ads when you watch YouTube through the Brave browser's built-in YouTube web view or when visiting youtube.com in Brave. It does not block ads in the standalone YouTube app, because the YouTube app is a separate application outside Brave's scope. For YouTube app ad blocking, a DNS-level solution like CleanWeb is more effective.
 
 **Will blocking ads break websites I use regularly?**
 
-Most sites work fine with ad blocking enabled. A small fraction of sites — particularly those that actively detect ad blockers — may show a "disable your ad blocker" message or hide content. In Brave, you can turn Shields off per-site in one tap. With CleanWeb, there is no per-site control, but DNS-level blocking is harder for sites to detect, so anti-ad-blocker warnings appear less often.
+Most sites work fine with ad blocking enabled. A small fraction of sites — particularly those that actively detect [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s — may show a "disable your [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/)" message or hide content. In Brave, you can turn Shields off per-site in one tap. With CleanWeb, there is no per-site control, but DNS-level blocking is harder for sites to detect, so anti-ad-blocker warnings appear less often.
 
 **Is it safe to use a browser with built-in ad blocking?**
 

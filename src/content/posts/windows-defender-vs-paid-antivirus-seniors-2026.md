@@ -66,7 +66,7 @@ Scammers can secretly turn on your computer's camera. Defender does not block th
 
 Ransomware is a type of attack where criminals lock up all your photos and files, then demand money to unlock them. Defender has some basic ransomware protection, but it is limited. A dedicated antivirus program has stronger, always-watching defenses.
 
-### 3. Fake Websites and Phishing Links
+### 3. Fake Websites and [Phishing Link](https://snipstack.io/phishing-link-checker-free-2026/)s
 
 You get an email that looks like it is from your bank. You click the link. The website looks real — but it is a fake, designed to steal your login details.
 

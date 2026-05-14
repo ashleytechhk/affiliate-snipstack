@@ -141,7 +141,7 @@ Here is what you get:
 
 ---
 
-## How to Get Started (Step by Step)
+## [How to Get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) Started (Step by Step)
 
 Setting up Surfshark One on your iPhone takes about five minutes. Here is exactly what to do:
 

@@ -149,7 +149,7 @@ If you currently pay separately for a VPN and an antivirus, Surfshark One likely
 
 If you're paying for Norton 360 or McAfee and not getting the privacy coverage you expected — or you're just tired of the pop-ups, the upsells, and the sluggish scans — Surfshark One is the clean break you're looking for.
 
-Unlimited devices. Audited no-logs VPN. Real antivirus without the bloat. Breach monitoring without the LifeLock upsell. And private search as standard.
+Unlimited devices. Audited no-logs VPN. Real [antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/)out the bloat. Breach monitoring without the LifeLock upsell. And private search as standard.
 
 It's not perfect — if you need LifeLock-grade identity restoration or a built-in password manager, look elsewhere. But for straightforward, whole-device privacy at a price that makes sense, it's the strongest bundle in 2026.
 

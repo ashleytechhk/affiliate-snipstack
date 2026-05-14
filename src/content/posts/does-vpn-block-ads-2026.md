@@ -192,7 +192,7 @@ Yes — CleanWeb's DNS blocking can run without routing your full traffic throug
 
 Pi-hole offers more customization and covers your entire home network without any app required on each device. But it only works on your home Wi-Fi — zero coverage on mobile data away from home. CleanWeb covers your phone wherever it is. For most mobile users, CleanWeb is more practical; Pi-hole is a complement for the home network, not a replacement.
 
-### Does a VPN with ad blocking slow down my phone?
+### Does a [VPN with ad](https://snipstack.io/vpn-with-ad-blocker-built-in-2026/) blocking slow down my phone?
 
 DNS blocking adds less than 1ms to DNS lookups — imperceptible. The VPN component itself, if active, adds 5-15ms of latency depending on server distance, which does not affect streaming or browsing in practice. In many cases, blocking ad domains reduces overall page load times because fewer requests are being made.
 

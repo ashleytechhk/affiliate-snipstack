@@ -96,7 +96,7 @@ The 300MB daily VPN limit is enough for light browsing or checking a bank balanc
 
 ### 7. Surfshark Antivirus (Free Trial Available)
 
-**What it is:** Surfshark is best known as a VPN, but the Surfshark One bundle includes a full antivirus with real-time scanning, webcam protection, and a data breach alert system. A free trial lets you test the full product before committing.
+**What it is:** Surfshark is best known as a VPN, but the Surfshark One bundle includes a full [antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/) real-time scanning, webcam protection, and a data breach alert system. A free trial lets you test the full product before committing.
 
 For seniors, Surfshark Antivirus earns a spot on this list for three reasons. First, the interface is among the clearest and most approachable available — large text, simple toggles, no confusing technical menus. Second, the "Alert" feature monitors whether your email address has appeared in known data breaches, which is increasingly common even for people who are careful online. Third, the [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) run from the same app, so there is no need to manage multiple programs.
 

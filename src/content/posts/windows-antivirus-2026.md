@@ -109,7 +109,7 @@ Windows Defender will automatically pause itself when it detects an active third
 
 ### Is Surfshark antivirus as good as Norton's?
 
-Detection rates between Surfshark's antivirus engine and Norton are within one percentage point in independent lab tests. For real-world threats — phishing links, malware downloads, ransomware — the practical difference is negligible. Where Surfshark pulls ahead is system performance and the integrated VPN quality.
+Detection rates between Surfshark's antivirus engine and Norton are within one percentage point in independent lab tests. For real-world threats — [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, malware downloads, ransomware — the practical difference is negligible. Where Surfshark pulls ahead is system performance and the integrated VPN quality.
 
 ### Does Surfshark One Bundle work on [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/)?
 

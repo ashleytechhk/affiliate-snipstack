@@ -184,7 +184,7 @@ It depends on whether you use a VPN. If you regularly connect to public Wi-Fi (c
 
 ### Does Surfshark One include antivirus or just a VPN?
 
-Surfshark One Bundle includes all four components: VPN, antivirus with real-time protection, Surfshark Alert (breach and identity monitoring), and CleanWeb (ad and tracker blocking). It's a single app with all features integrated — not four separate products bundled together.
+Surfshark One Bundle includes all four components: VPN, [antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/) real-time protection, Surfshark Alert (breach and identity monitoring), and CleanWeb (ad and tracker blocking). It's a single app with all features integrated — not four separate products bundled together.
 
 ### How many devices can I use Surfshark One on simultaneously?
 

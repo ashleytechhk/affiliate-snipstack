@@ -90,7 +90,7 @@ What CleanWeb does exceptionally well is cover everything else on your phone:
 
 - **In-app ads** in games, utilities, and social apps that phone home to standard ad networks
 - **Tracker blocking** that stops data brokers from profiling your behavior across apps
-- **Malicious domain blocking** that catches phishing links and malware distribution sites
+- **Malicious domain blocking** that catches [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s and malware distribution sites
 - **Mobile browser ads** across any browser you use (Safari, Chrome, Firefox)
 
 If you're a heavy smartphone user, the ad and tracker load outside of YouTube is enormous. CleanWeb handles that system-wide with no per-app setup, no filter lists to manage, and no browser switching required.
