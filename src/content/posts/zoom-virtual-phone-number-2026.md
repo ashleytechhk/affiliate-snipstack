@@ -34,7 +34,7 @@ Not every virtual number service is solving the same problem. Before comparing o
 
 - **A clean work number** to give clients, vendors, and leads — separate from a personal cell
 - **Calls and SMS** from a real number (not a VoIP alias that gets flagged or blocked)
-- **Low friction setup** — most solopreneurs don't want a multi-step IT project just to get a second line
+- **Low friction setup** — most solopreneurs don't want a multi-step IT project just to [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) line
 - **International compatibility** — remote workers increasingly work across time zones and countries
 - **No PBX overhead** — you don't need an IVR system, extension routing, or admin dashboards unless you're running a team
 

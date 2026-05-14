@@ -42,7 +42,7 @@ The honest answer: manual checks are better than nothing and better than panic-c
 
 ---
 
-## The 10 Red Flags — What to Look for and How to Check
+## The 10 Red Flags — What to Look for and [How to Check](https://snipstack.io/how-to-check-if-a-website-is-safe-2026/)
 
 ### 1. Typo Domains and Lookalike URLs
 

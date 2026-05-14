@@ -97,7 +97,7 @@ A password manager does something no human can do reliably: it checks the exact 
 
 If you visit `www.paypal.com`, your password manager fills in your PayPal credentials automatically. If you land on `www.paypa1-login.com` — even if the page looks identical — the password manager stays silent. No fill. No suggestion. That silence is the alert.
 
-**How to set this up:**
+**[How to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) this up:**
 
 1. Choose a reputable password manager (most devices have a built-in option; third-party options offer more features).
 2. Save your login credentials for your important accounts through the official websites, not through phishing pages.

@@ -72,7 +72,7 @@ All three major US carriers now offer spam text filtering, usually at no extra c
 
 **Free or paid:** Free basic filtering on all three carriers. Premium tiers ($3–4/month per line) add more aggressive blocking and reporting.
 
-**Recall rate:** Good for known spam campaigns. Less effective against new numbers and short-lived burner numbers that spammers rotate constantly. Carrier filters work on sender reputation, which takes time to build.
+**Recall rate:** Good for known spam campaigns. Less effective against new numbers and short-lived [burner number](https://snipstack.io/burner-number-for-verification-2026/)s that spammers rotate constantly. Carrier filters work on sender reputation, which takes time to build.
 
 **Dating-app limitation:** Carrier filters are reactive. Your real number is already on the lists. Carrier blocking reduces spam volume meaningfully but doesn't prevent future exposure when you keep signing up with the same number.
 
@@ -156,7 +156,7 @@ For most people who are actively on dating apps, the strongest setup is: carrier
 
 ---
 
-## How to Set Up Each Option on iPhone
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Each Option on iPhone
 
 **iOS Filter Unknown Senders:**
 Settings > Messages > scroll down to Message Filtering > toggle Filter Unknown Senders on. Done.

@@ -166,7 +166,7 @@ An alias (or "second number") is a separate phone number that routes to your rea
 
 ![Alias number setup — how a virtual number protects your real iPhone number from robocallers](/og/stop-robocalls-on-iphone-2026-inline-2.png)
 
-Surfshark Alt Number is a service designed for this use case. You get a secondary phone number that rings to your iPhone. Use it for dating app verifications, form signups, and anywhere you're not sure you trust the recipient. If the alias number starts receiving junk calls, you swap it out. Your real number stays clean.
+Surfshark Alt Number is a service designed for this use case. You [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/)ary phone number that rings to your iPhone. Use it for dating app verifications, form signups, and anywhere you're not sure you trust the recipient. If the alias number starts receiving junk calls, you swap it out. Your real number stays clean.
 
 This approach doesn't replace the filters above — it works upstream of them. The combination of an alias for forms and outbound sharing, plus a carrier filter and Silence Unknown Callers on your real line, is the most comprehensive setup you can run in 2026.
 

@@ -146,7 +146,7 @@ They're generally safe in terms of keeping your real number private. The privacy
 
 No. Dating apps verify you received an SMS code — they don't check whether the receiving number is your "primary" line. As long as verification goes through, you're fine. This is true for Google Voice, Burner, Alt-Number, and any other second number service.
 
-**Can I get a second number from a specific country?**
+**Can I [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) number from a specific country?**
 
 Free options are mostly US only (Google Voice, TextNow, TextFree, 2ndLine). Hushed adds UK and Canada. Burner is US and Canada. [Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__faq) offers multiple countries, which is a meaningful advantage if you're dating internationally or want a number from a specific region.
 

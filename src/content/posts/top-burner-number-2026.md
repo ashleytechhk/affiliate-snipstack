@@ -122,7 +122,7 @@ It is the most thorough option available, but also the most complex. Setting up 
 
 ---
 
-## How to Set Up a Burner Number in Under 5 Minutes
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Burner Number in Under 5 Minutes
 
 If you are going the Alt-Number route, here is how fast it actually is:
 

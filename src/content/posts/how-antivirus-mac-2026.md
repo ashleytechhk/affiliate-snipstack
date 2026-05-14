@@ -131,7 +131,7 @@ That is all. Your Mac is now actively protected.
 
 ## Step 7: Recognize Fake Virus Warnings (Important)
 
-Now that you have real protection installed, you can confidently ignore fake ones. Here is how to tell the difference:
+Now that you have real protection installed, you can confidently ignore fake ones. Here is [how to tell](https://snipstack.io/how-to-tell-if-a-website-is-legitimate-2026/) the difference:
 
 **Real warnings** come from the Surfshark app you just installed. They appear as small notifications from the Surfshark icon.
 

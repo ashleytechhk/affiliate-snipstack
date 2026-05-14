@@ -145,7 +145,7 @@ Yes, and it is recommended. uBlock Origin blocks ads within Firefox at the brows
 
 A well-implemented [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) actually speeds up page loads by preventing dozens of ad scripts from executing. uBlock Origin is specifically engineered to be low-memory. The main performance variable is the VPN overhead from tools like CleanWeb, which typically adds less than 5–10ms latency on a good connection.
 
-### Is it legal to use an ad blocker?
+### Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/)?
 
 Yes. Using an ad blocker is legal in virtually every jurisdiction. It is a user-side filtering preference, equivalent to muting a TV commercial. Some sites restrict access for users with ad blockers enabled, which is their right — but blocking ads itself carries no legal risk to the user.
 

@@ -95,7 +95,7 @@ Threat Protection Lite blocks ads served from known ad network domains. Like all
 
 ## Manifest V3: Where NordVPN Stands
 
-Chrome's Manifest V3 extension framework was the change that broke uBlock Origin's full functionality in Chrome. MV3 restricts how extensions intercept network requests — the change was controversial because it limited what [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s could do.
+Chrome's Manifest V3 extension framework was the change that broke [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/)'s full functionality in Chrome. MV3 restricts how extensions intercept network requests — the change was controversial because it limited what [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s could do.
 
 NordVPN's Chrome extension is Manifest V3-compliant. It uses the declarativeNetRequest API (MV3's approved method) for its Threat Protection Lite blocking rather than the older webRequest API. This means:
 

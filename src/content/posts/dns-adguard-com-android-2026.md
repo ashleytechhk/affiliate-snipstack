@@ -14,7 +14,7 @@ This guide walks through 7 distinct setup options for dns.adguard.com on Android
 
 ## Quick Verdict
 
-For most Android users, **Private DNS with `dns.adguard-dns.com`** is the right baseline — it takes under a minute, encrypts your DNS queries, and blocks ads across every app and browser on your device. Pair it with **[Surfshark CleanWeb](/blog/adblock?sub=dns-adguard-com-android-2026__above-fold)** and you get a second filtering layer at the VPN level that catches what DNS alone misses. That combination handles the vast majority of mobile ad scenarios without root or technical setup.
+For most Android users, **Private DNS with `dns.adguard-dns.com`** is the right baseline — it takes under a minute, encrypts your DNS queries, and blocks ads across every app and browser on your device. Pair it with **[Surfshark CleanWeb](/blog/adblock?sub=dns-adguard-com-android-2026__above-fold)** and you [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) filtering layer at the VPN level that catches what DNS alone misses. That combination handles the vast majority of mobile ad scenarios without root or technical setup.
 
 ---
 

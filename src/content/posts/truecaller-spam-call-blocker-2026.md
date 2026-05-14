@@ -143,7 +143,7 @@ No. Truecaller identifies and blocks incoming spam calls. It does not mask or re
 
 For purely blocking spam calls, Hiya and RoboKiller lead the field in 2026. But for online dating privacy specifically, a [virtual phone number](https://snipstack.io/virtual-phone-number-2026/) is a better solution than any spam blocker. [Surfshark Alt Number](/blog/surfshark?sub=truecaller-spam-call-blocker-2026__faq) gives you a real local number to share with matches, so your actual number stays private regardless of how things go.
 
-### Can I get a temporary phone number for dating apps?
+### Can I get a [temporary phone number](https://snipstack.io/temporary-phone-number-for-verification-2026/) for dating apps?
 
 Yes. Services like Surfshark Alt Number provide real, local virtual numbers that function as temporary or disposable numbers. You use the Alt Number on dating apps and with matches — calls and texts route to your phone through the app. When you no longer need the number, you delete it. No hardware change or carrier involvement required.
 

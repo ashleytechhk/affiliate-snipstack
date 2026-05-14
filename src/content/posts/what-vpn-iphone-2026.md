@@ -131,7 +131,7 @@ Of the major providers, Surfshark and PIA support split tunneling on iOS. NordVP
 
 ---
 
-## How to Set Up a VPN on iPhone (The Short Version)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a VPN on iPhone (The Short Version)
 
 1. Download the app from the App Store — search the provider name directly
 2. Create an account and pick a plan; most major providers include a 7-day iOS free trial and a 30-day money-back guarantee

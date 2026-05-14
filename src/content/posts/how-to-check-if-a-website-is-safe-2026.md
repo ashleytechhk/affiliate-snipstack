@@ -75,7 +75,7 @@ This check takes about 30 seconds. It catches sites that have already been repor
 
 ## Check 3 — Use a URL Scanner for a Deeper Look
 
-URL scanner tools do more than Google Safe Browsing. They check the site against multiple antivirus and reputation databases simultaneously and can detect suspicious page behaviour that a simple blocklist would miss.
+URL scanner tools do more than Google Safe Browsing. They check the site against multiple [antivirus](https://snipstack.io/vs-antivirus-2026/) and reputation databases simultaneously and can detect suspicious page behaviour that a simple blocklist would miss.
 
 **The two most useful free tools:**
 
@@ -100,7 +100,7 @@ WHOIS is a public database that stores registration information for every domain
 
 **Why this matters:** Legitimate businesses have websites with years of history. Scam sites are usually brand new — registered days or weeks before you received the suspicious link.
 
-**How to check:**
+**[How to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/):**
 
 1. Go to `whois.domaintools.com` or `lookup.icann.org`
 2. Enter the domain name (just the domain, e.g. `suspicious-site.com`)

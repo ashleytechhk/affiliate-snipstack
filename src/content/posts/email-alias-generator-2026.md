@@ -174,11 +174,11 @@ Make sure the Surfshark extension is enabled and you are signed in. Some sign-up
 
 ## Frequently Asked Questions
 
-**What is an email alias generator?**
-An email alias generator creates a secondary email address that forwards messages to your real inbox. You use the alias on sign-up forms so websites and apps never see your actual address. If the alias starts attracting spam, you delete it without touching your real account.
+**What is an [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) generator?**
+An [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) generator creates a secondary email address that forwards messages to your real inbox. You use the alias on sign-up forms so websites and apps never see your actual address. If the alias starts attracting spam, you delete it without touching your real account.
 
 **Are email aliases legal to use?**
-Yes. Using an alias or masked email address is legal. You are simply choosing which address to share, the same way you might use a work number instead of your personal mobile. Some services prohibit disposable email addresses in their terms of service, but using one is not a legal violation.
+Yes. Using an alias or masked email address is legal. You are simply choosing which address to share, the same way you might use a work number instead of your personal mobile. Some services prohibit [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) addresses in their terms of service, but using one is not a legal violation.
 
 **Can websites detect and block alias addresses?**
 Yes. Many sites check submitted addresses against known alias and [temporary email](https://snipstack.io/temporary-email-generator-2026/) domains. Free services like Guerrilla Mail are frequently blocked. [Surfshark Alt-ID](/blog/altid?sub=email-alias-generator-2026__faq) uses the `surfshark.id` domain, which is not on most public blocklists and clears most real-time validation checks.

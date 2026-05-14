@@ -22,7 +22,7 @@ Plain language throughout. No confusing tech terms.
 
 ## Quick Verdict
 
-**Microsoft Defender** is built into Windows 10 for free and handles basic viruses well. But it has real gaps — no VPN for public Wi-Fi, no webcam protection, no alerts when your personal data is leaked online.
+**Microsoft Defender** is built into Windows 10 for free and handles basic viruses well. But it has real gaps — no [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) Wi-Fi, no webcam protection, no alerts when your personal data is leaked online.
 
 **Surfshark Antivirus** is our recommended paid upgrade. It fills every gap Defender leaves, costs less than a cup of coffee each week, and is simple enough that you do not need to be tech-savvy to use it. It also includes a VPN, which Defender does not.
 

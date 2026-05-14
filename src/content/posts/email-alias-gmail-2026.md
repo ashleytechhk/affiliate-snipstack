@@ -44,7 +44,7 @@ That's it. You don't need to change your DNS records, verify domain ownership, o
 
 ---
 
-## Step-by-Step: Setting Up Email Aliases for Gmail with Surfshark Alt-ID
+## Step-by-Step: Setting Up [Email Alias](https://snipstack.io/email-alias-for-online-shopping-2026/)es for Gmail with Surfshark Alt-ID
 
 ### Step 1 — Get Surfshark One (Skip If You Already Have It)
 
@@ -122,7 +122,7 @@ Check the Alt-ID dashboard to confirm the alias is still active and the forwardi
 
 ### A site rejected my alias address
 
-Some sites run checks against known disposable email domains. If this happens, try a different alias or, as a last resort, use your real Gmail address for that specific site. The goal is to minimize exposure, not achieve perfection.
+Some sites run checks against known [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) domains. If this happens, try a different alias or, as a last resort, use your real Gmail address for that specific site. The goal is to minimize exposure, not achieve perfection.
 
 ### Can I reply from my alias?
 
@@ -150,7 +150,7 @@ The tradeoff is honest: if you only want aliases and have zero interest in a VPN
 
 ## Frequently Asked Questions
 
-### Does Gmail natively support email aliases?
+### Does Gmail natively support [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/)es?
 
 Gmail has a `+tag` workaround (e.g., `you+alias@gmail.com`) that routes tagged mail to your inbox and allows filtering rules. However, it is not a true alias — your real Gmail address is exposed once the tag is stripped, which takes about two seconds. For genuine separation between your identity and a site's database, you need a dedicated forwarding alias service like Alt-ID.
 

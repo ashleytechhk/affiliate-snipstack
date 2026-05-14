@@ -108,7 +108,7 @@ You are now protected. From this point on, Surfshark works quietly in the backgr
 
 ---
 
-## How to Check That Protection Is Still Active
+## [How to Check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) That Protection Is Still Active
 
 Every few days, glance at the bottom-right corner of your screen. You should see a small Surfshark icon in the system tray (a row of tiny icons near the clock). If the icon has a green dot or shield, your protection is on. If it shows a red dot, open the Surfshark app and follow any on-screen instructions.
 

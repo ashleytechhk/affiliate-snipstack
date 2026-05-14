@@ -27,7 +27,7 @@ For most people who receive suspicious emails with unfamiliar links, **Surfshark
 | Tool | Data Sources | Real-Time Scan | Browser Integration | Bundle Included |
 |---|---|---|---|---|
 | Google Safe Browsing | Google's own blocklist | Yes (cached) | Built into Chrome / Firefox / Safari | Free, built-in |
-| VirusTotal | 70+ antivirus engines + community | Yes (on-demand) | Browser extension (limited) | No — standalone |
+| VirusTotal | 70+ [antivirus](https://snipstack.io/vs-antivirus-2026/) engines + community | Yes (on-demand) | Browser extension (limited) | No — standalone |
 | ScamAdviser | Registrar data, trust signals, community | Partial | No native extension | No — web-only |
 | URLVoid | 30+ blocklists (Sucuri, PhishTank, etc.) | Yes (on-demand) | No | No — web-only |
 | Surfshark Alert / Scamcheck | Proprietary + partner threat feeds | Yes (always-on) | Yes — works in background | Yes — included with Surfshark subscription |

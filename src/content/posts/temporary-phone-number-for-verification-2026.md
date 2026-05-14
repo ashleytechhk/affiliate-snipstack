@@ -80,7 +80,7 @@ The main downside is cost. Hushed starts at around $4/month for a single number 
 
 ## Surfshark Alt Number — Best if You're Already on Surfshark One
 
-Alt Number is Surfshark's secondary phone number feature, included with a Surfshark One subscription. If you're already paying for Surfshark for its VPN, antivirus, and data breach alerts, you get Alt Number at no added cost.
+Alt Number is Surfshark's secondary phone number feature, included with a Surfshark One subscription. If you're already paying for Surfshark for its VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts, you get Alt Number at no added cost.
 
 What makes it stand out in this comparison:
 
@@ -113,7 +113,7 @@ Here's how to make the call quickly:
 - **Want a disposable number and willing to pay for reliability?** Hushed.
 - **Need something free immediately, can tolerate recycled numbers?** TextNow.
 
-The online dating use case has a specific requirement that general "burner number" advice often misses: you don't just need to pass verification once, you need a number you can reliably share and receive calls/texts on for the early stages of getting to know someone. That rules out truly disposable services that expire in 24 hours, and it puts a premium on SMS reliability.
+The online dating use case has a specific requirement that general "[burner number](https://snipstack.io/burner-number-for-verification-2026/)" advice often misses: you don't just need to pass verification once, you need a number you can reliably share and receive calls/texts on for the early stages of getting to know someone. That rules out truly disposable services that expire in 24 hours, and it puts a premium on SMS reliability.
 
 ![Decision flowchart — choosing the right temporary number for dating](/og/temporary-phone-number-for-verification-2026-inline-3.png)
 

@@ -170,7 +170,7 @@ Surfshark's VPN is bundled with Surfshark One plans, so if you signed up for Alt
 ## Troubleshooting
 
 **The site is rejecting my alias address.**
-Some services check submitted addresses against databases of known alias or disposable email domains and block them. If your Alt-ID alias is rejected, try generating a new one — Alt-ID uses multiple alias domains, and different domains have different acceptance rates across sites. If a specific site consistently rejects all aliases, you may need to use your real address for that one service.
+Some services check submitted addresses against databases of known alias or [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) domains and block them. If your Alt-ID alias is rejected, try generating a new one — Alt-ID uses multiple alias domains, and different domains have different acceptance rates across sites. If a specific site consistently rejects all aliases, you may need to use your real address for that one service.
 
 **Forwarded emails are landing in my spam folder.**
 Add your Alt-ID forwarding address to your real inbox's contacts or safe-sender list. Once your email provider trusts the forwarding source, this stops happening.
@@ -211,7 +211,7 @@ Yes. Using an alias or temporary address is legal. You are choosing which addres
 
 ### Can websites detect temporary anonymous email addresses?
 
-Yes. Many sites check submitted addresses against known alias and disposable email domain lists and block them. Free throwaway services like Guerrilla Mail and 10 Minute Mail are frequently on these lists. [Surfshark Alt-ID](/blog/altid?sub=temporary-anonymous-email-2026__faq) uses its own domains that are not on standard public blocklists, making it more reliable for sites that reject common throwaway services.
+Yes. Many sites check submitted addresses against known alias and [disposable email](https://snipstack.io/disposable-email-address-for-trials-2026/) domain lists and block them. Free throwaway services like Guerrilla Mail and 10 Minute Mail are frequently on these lists. [Surfshark Alt-ID](/blog/altid?sub=temporary-anonymous-email-2026__faq) uses its own domains that are not on standard public blocklists, making it more reliable for sites that reject common throwaway services.
 
 ### How many aliases can I create with Surfshark Alt-ID?
 

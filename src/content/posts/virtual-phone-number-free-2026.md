@@ -67,7 +67,7 @@ The downsides accumulate quickly for active users. The app is ad-heavy on the fr
 
 **Disposable numbers done right — but the free tier is stingy.**
 
-Hushed markets itself specifically as a burner phone app, which makes it a natural fit for online dating privacy. You can get a number from hundreds of area codes, set an automatic expiry date, and the app doesn't require any real identity verification to sign up. That's a stronger privacy posture than Google Voice by design.
+Hushed markets itself specifically as a [burner phone](https://snipstack.io/burner-phone-number-app-ios-2026/) app, which makes it a natural fit for online dating privacy. You can get a number from hundreds of area codes, set an automatic expiry date, and the app doesn't require any real identity verification to sign up. That's a stronger privacy posture than Google Voice by design.
 
 The free tier gives you a trial number but limits you to a small number of texts before pushing you toward a paid plan. Paid plans start around $1.99/week or $4.99/month depending on the tier. For daters who want a truly throwaway number — use it for two weeks, let it expire, move on — the paid Hushed tier is actually a solid option. It just isn't free in any meaningful sense for ongoing use.
 

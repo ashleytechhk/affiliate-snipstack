@@ -76,7 +76,7 @@ Copy your new alias address and use it whenever a website asks for an email. Any
 
 ![Surfshark Alt-ID alias dashboard — step-by-step illustrated guide](/og/email-alias-outlook-2026-inline-1.png)
 
-For anyone dealing with serious spam volume, Microsoft's 10-alias limit is a hard wall. Surfshark Alt-ID removes that ceiling entirely. Here is how to set it up and pair it with your Outlook inbox.
+For anyone dealing with serious spam volume, Microsoft's 10-alias limit is a hard wall. Surfshark Alt-ID removes that ceiling entirely. Here is [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up and pair it with your Outlook inbox.
 
 ### Step 1 — Get Surfshark with Alt-ID
 

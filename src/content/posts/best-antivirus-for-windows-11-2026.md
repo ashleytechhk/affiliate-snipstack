@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Best antivirus for Windows 11 guide for seniors 2026](/og/best-antivirus-for-windows-11-2026.png)
 
-Viruses, scammers, and hackers do not care how old you are. If you use a computer, you are a target. The good news is that protecting yourself on Windows 11 is easier than ever — if you pick the right [antivirus](https://snipstack.io/vs-antivirus-2026/) and know how to set it up. This guide walks you through everything step by step, in plain English.
+Viruses, scammers, and hackers do not care how old you are. If you use a computer, you are a target. The good news is that protecting yourself on Windows 11 is easier than ever — if you pick the right [antivirus](https://snipstack.io/vs-antivirus-2026/) and know [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up. This guide walks you through everything step by step, in plain English.
 
 **Ready to protect your PC right now?** [Get Surfshark Antivirus — the easiest setup for Windows 11](/blog/surfshark?sub=best-antivirus-for-windows-11-2026__above-fold)
 
@@ -121,7 +121,7 @@ Once both are on, you are protected around the clock without having to do anythi
 
 ## Step 6 — Update the Software Regularly
 
-Antivirus software needs regular updates to recognize the newest threats. Surfshark updates automatically, but here is how to check:
+Antivirus software needs regular updates to recognize the newest threats. Surfshark updates automatically, but here is [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/):
 
 1. Open the app.
 2. Look for an **Update** notice or go to **Settings** and find **App Version**.

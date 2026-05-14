@@ -70,7 +70,7 @@ For dating scenarios, RoboKiller is most useful once a bad interaction has alrea
 
 ## 5. Burner — Best Disposable Number App
 
-**The core idea:** temporary phone numbers you can create, use, and delete on demand.
+**The core idea:** [temporary phone number](https://snipstack.io/temporary-phone-number-for-verification-2026/)s you can create, use, and delete on demand.
 
 Burner is the original "second number" app for daters. You pick a local number, share it on apps, and if a connection goes wrong you burn the number and create a new one. The app handles calls and texts natively, so you never have to touch your actual dialler.
 

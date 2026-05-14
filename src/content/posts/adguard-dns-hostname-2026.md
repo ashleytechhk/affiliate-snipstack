@@ -79,7 +79,7 @@ You can set your DNS to `94.140.14.14` and get basic ad blocking. But there are 
 
 ---
 
-## How to Set AdGuard DNS Hostname on Android
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) AdGuard DNS Hostname on Android
 
 Android 9 and later include a built-in Private DNS setting that uses DoT. Here's the exact path:
 

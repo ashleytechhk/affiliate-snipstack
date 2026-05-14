@@ -28,7 +28,7 @@ Free [temporary email](https://snipstack.io/temporary-email-and-password-free-20
 
 ## What Is a Temporary Email Generator?
 
-A temporary email generator creates a disposable email address — usually valid for a few minutes to a few hours — that you use instead of your real address. Any emails sent to it land in a temporary inbox you can check online. When the address expires, it's gone.
+A temporary email generator creates a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) address — usually valid for a few minutes to a few hours — that you use instead of your real address. Any emails sent to it land in a temporary inbox you can check online. When the address expires, it's gone.
 
 **Common use cases:**
 - Downloading a free resource without getting added to a mailing list

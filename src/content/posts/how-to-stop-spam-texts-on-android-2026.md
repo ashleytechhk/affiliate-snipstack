@@ -115,7 +115,7 @@ Two apps stand out for Android users who want stronger filtering than what carri
 
 - **Free tier:** Real-time spam detection for calls and texts, caller ID for unknown numbers
 - **Paid tier:** Enhanced blocking, reverse number lookup, automatic spam blocking
-- **How to set it up:** Download from Play Store, open the app, grant it permission to be your default caller ID and spam filter, follow the setup wizard
+- **[How to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up:** Download from Play Store, open the app, grant it permission to be your default caller ID and spam filter, follow the setup wizard
 - **Best for:** Users who want automatic blocking without much manual configuration
 
 ### Truecaller

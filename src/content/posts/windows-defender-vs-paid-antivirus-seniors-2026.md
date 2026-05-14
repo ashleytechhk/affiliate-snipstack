@@ -72,13 +72,13 @@ You get an email that looks like it is from your bank. You click the link. The w
 
 This is called phishing, and it is the number one way people get tricked online right now. Defender does not give you strong real-time warnings when you land on these sites.
 
-### 4. No VPN for Public Wi-Fi
+### 4. No [VPN for Public](https://snipstack.io/vpn-for-public-wifi-security-2026/) Wi-Fi
 
 If you ever use a laptop at a coffee shop, library, or airport, the Wi-Fi there is not safe. Anyone nearby can potentially spy on what you are doing. Defender does not include a VPN (a tool that makes your connection private).
 
 ---
 
-## How to Check If Defender Is Running on Your Computer
+## [How to Check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) If Defender Is Running on Your Computer
 
 Before adding anything new, let's make sure your current protection is switched on.
 

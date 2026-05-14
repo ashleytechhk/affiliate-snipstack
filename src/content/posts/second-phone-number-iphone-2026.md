@@ -42,7 +42,7 @@ Before you begin, check these three things:
 
 ---
 
-## Method 1: Get a Second Number Using Surfshark Alt-Number (Recommended)
+## Method 1: [Get a Second](https://snipstack.io/get-a-second-number-for-texting-2026/) Number Using Surfshark Alt-Number (Recommended)
 
 This is the fastest path for most iPhone users — no hardware, no carrier, no waiting.
 

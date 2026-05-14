@@ -138,7 +138,7 @@ Click the Surfshark extension icon in your toolbar. Navigate to the **Alternativ
 
 Click **Generate new identity**. Alt ID creates:
 
-- A masked email alias (e.g., `quietmountain.87@surfshark.id`)
+- A masked [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) (e.g., `quietmountain.87@surfshark.id`)
 - An alternative first name, last name, and date of birth
 
 You can use all of these when a sign-up form asks for personal details — not just an email. This matters when sites collect name and birthdate data alongside your address.

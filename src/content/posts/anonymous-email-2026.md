@@ -172,7 +172,7 @@ As of 2026, Alt-ID uses Surfshark-hosted alias domains. Custom domain support is
 
 ### Is this the same as a disposable / [temporary email](https://snipstack.io/temporary-email-generator-2026/)?
 
-No, and the difference matters. Disposable email services like Guerrilla Mail give you a short-lived inbox that anyone can check if they know the address. Alt-ID aliases are private, long-lived, and forward only to your verified real address. Much safer for ongoing accounts.
+No, and the difference matters. [Disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) services like Guerrilla Mail give you a short-lived inbox that anyone can check if they know the address. Alt-ID aliases are private, long-lived, and forward only to your verified real address. Much safer for ongoing accounts.
 
 ---
 

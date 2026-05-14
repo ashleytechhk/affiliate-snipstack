@@ -152,7 +152,7 @@ Not exactly. On desktop, browsers like Chrome and Firefox support extensions tha
 
 Most well-designed [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/)s speed up browsing by preventing ads from loading in the first place. Pages load faster, use less data, and consume less battery because the browser is not fetching dozens of ad scripts per page. The main exception is extensions that do on-device HTTPS decryption, which can add a small overhead — still a net positive in most cases.
 
-### Is Surfshark CleanWeb really an ad blocker, or just a VPN?
+### Is Surfshark CleanWeb really an [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/), or just a VPN?
 
 It is both. [CleanWeb](/blog/surfshark?sub=ad-blocker-extensions-2026__faq) is a feature of the Surfshark VPN app that filters ad and tracker domains at the DNS and network level. Because it runs inside the VPN tunnel, it covers all apps on your device simultaneously. You get VPN privacy and ad blocking from a single subscription.
 

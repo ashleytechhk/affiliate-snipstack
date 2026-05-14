@@ -158,7 +158,7 @@ Yes. Because CleanWeb operates at the VPN/network level, it filters traffic from
 
 This is a legitimate concern for independent publishers. If you rely on a site, consider whitelisting it in your blocker. Most network-level tools allow you to add exceptions for specific domains so your trusted sites still receive ad impressions.
 
-### What's the difference between an ad blocker and a VPN?
+### What's the difference between an [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/) and a VPN?
 
 A VPN encrypts your traffic and routes it through a server — its primary purpose is privacy and access. A standalone ad blocker filters out ad-serving domains and tracking scripts. Surfshark CleanWeb is both: it's a VPN that includes ad-blocking and tracker-blocking as a built-in feature, so you get the privacy benefits of a VPN plus system-wide ad filtering from a single tool.
 

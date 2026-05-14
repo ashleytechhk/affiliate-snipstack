@@ -130,7 +130,7 @@ Real-time protection catches threats the moment they appear — before they can 
 
 ## What Reddit Users Say About Surfshark Antivirus
 
-Here is a summary of what comes up most often in Reddit threads about antivirus for everyday users and seniors specifically:
+Here is a summary of what comes up most often in Reddit threads about [antivirus for](https://snipstack.io/antivirus-for-android-free-2026/) everyday users and seniors specifically:
 
 **What people like:**
 - Very easy to set up — "my 70-year-old dad did it himself"

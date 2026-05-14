@@ -18,7 +18,7 @@ This guide is written for everyday computer users, especially those who did not 
 
 ## Quick Verdict
 
-Knowing how to check if your PC is hacked does not require technical expertise. Most warning signs are things you can see and feel — slowness, strange programs, odd account activity. Windows has built-in tools (Task Manager, Windows Defender, and the command prompt) that let you investigate without spending a penny. That said, running a dedicated antivirus program in the background saves you from having to check manually every week. For seniors who want peace of mind without a learning curve, Surfshark Antivirus offers real-time monitoring, a clean interface, and honest pricing. It will not overwhelm you with jargon.
+Knowing how to check if your PC is hacked does not require technical expertise. Most warning signs are things you can see and feel — slowness, strange programs, odd account activity. Windows has built-in tools (Task Manager, [Windows Defender](https://snipstack.io/windows-defender-download-2026/), and the command prompt) that let you investigate without spending a penny. That said, running a dedicated antivirus program in the background saves you from having to check manually every week. For seniors who want peace of mind without a learning curve, Surfshark Antivirus offers real-time monitoring, a clean interface, and honest pricing. It will not overwhelm you with jargon.
 
 ---
 
@@ -37,7 +37,7 @@ You do not have to understand every technical detail. What matters is recognizin
 
 ---
 
-## Warning Signs Your PC May Be Compromised
+## Warning [Signs Your](https://snipstack.io/signs-your-phone-has-a-virus-2026/) PC May Be Compromised
 
 ### 1. Your Computer Is Suddenly Much Slower
 
@@ -86,7 +86,7 @@ Do not close anything unless you are sure it is safe. When in doubt, write down 
 
 ### Step 2: Run Windows Defender
 
-Windows Defender is a free antivirus tool built into every Windows 10 and Windows 11 computer. Running a full scan takes about 30–60 minutes but checks every file on your machine.
+Windows Defender is a free antivirus tool built into every [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and Windows 11 computer. Running a full scan takes about 30–60 minutes but checks every file on your machine.
 
 1. Click the **Start menu** (the Windows logo in the bottom-left corner).
 2. Type "Windows Security" and press Enter.

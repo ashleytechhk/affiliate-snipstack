@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 You signed up for one "free trial." Now you get 50 emails a day — flash sales, newsletters, "we miss you" guilt trips. Sound familiar? You are not alone.
 
-The solution is a **disposable email address for trials** — a throwaway address you hand to every service that demands your inbox before they'll let you in. When the trial ends (or the spam begins), you simply walk away. No unsubscribe dance. No inbox damage.
+The solution is a **[disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) address for trials** — a throwaway address you hand to every service that demands your inbox before they'll let you in. When the trial ends (or the spam begins), you simply walk away. No unsubscribe dance. No inbox damage.
 
 This guide covers four real options — from dead-simple burner addresses to a proper masked-inbox service — and shows you step by step which one to reach for depending on the trial you're joining.
 
