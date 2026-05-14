@@ -129,7 +129,7 @@ Go to [Surfshark One via this link](/blog/surfshark?sub=windows-security-2026__m
 
 After signing up, log in to your Surfshark account on the website. Click "Apps" and then "Windows." Click the download button. When the file finishes downloading, double-click it and follow the on-screen instructions. The installation takes about two minutes.
 
-**Step 3 — Turn on VPN and Antivirus**
+**Step 3 — Turn on [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/)**
 
 Open the Surfshark app on your desktop. You will see two main sections: VPN and Antivirus.
 

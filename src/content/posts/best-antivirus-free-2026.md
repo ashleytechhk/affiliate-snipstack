@@ -102,7 +102,7 @@ Most free antivirus tools only cover the device you install them on. If you shar
 
 ---
 
-## Step 4: Upgrading to Surfshark One — What You Get and How to Set It Up
+## Step 4: Upgrading to Surfshark One — What You Get and [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) It Up
 
 [Surfshark One](/blog/surfshark?sub=best-antivirus-free-2026__mid) is an all-in-one security bundle that adds everything free antivirus leaves out. You get:
 

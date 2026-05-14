@@ -98,7 +98,7 @@ Outlook's **Sweep** feature is underused. Right-click any spam email → **Sweep
 
 The real problem is not the spam you receive today — it is the next breach you do not know about yet. Every service you sign up for is a potential leak point. The fix is simple: stop giving out your real email address.
 
-**How email aliases work:** An alias is a forwarding address. Emails sent to the alias land in your real inbox, but the sender never sees your actual address. If the alias starts getting spam, you delete it. Your real inbox is untouched.
+**How [email alias](https://snipstack.io/email-alias-example-2026/)es work:** An alias is a forwarding address. Emails sent to the alias land in your real inbox, but the sender never sees your actual address. If the alias starts getting spam, you delete it. Your real inbox is untouched.
 
 **Free options:**
 

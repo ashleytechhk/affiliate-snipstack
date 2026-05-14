@@ -89,7 +89,7 @@ Do not close anything unless you are sure it is safe. When in doubt, write down 
 Windows Defender is a free antivirus tool built into every [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and Windows 11 computer. Running a full scan takes about 30–60 minutes but checks every file on your machine.
 
 1. Click the **Start menu** (the Windows logo in the bottom-left corner).
-2. Type "Windows Security" and press Enter.
+2. Type "[Windows Security](https://snipstack.io/windows-security-2026/)" and press Enter.
 3. Click **Virus and threat protection**.
 4. Click **Quick scan** for a fast check, or **Scan options** → **Full scan** for a thorough sweep.
 5. Wait for it to finish. If it finds anything, follow the on-screen instructions to remove it.
@@ -156,8 +156,8 @@ Yes. Windows includes Task Manager and Windows Defender at no cost. The `netstat
 **Q: What is the fastest sign that my PC has been hacked?**
 Unexpected cursor movement, webcam light turning on unprompted, or receiving password reset emails you did not request are the clearest and fastest signs. Any one of these warrants immediate action.
 
-**Q: Will antivirus software catch everything?**
-No antivirus software removes every possible threat, and any product that claims otherwise is overstating its abilities. What good antivirus does is detect the vast majority of known threats automatically, reducing your risk significantly. Staying alert to warning signs and keeping your software updated does the rest.
+**Q: Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) catch everything?**
+No [antivirus software](https://snipstack.io/antivirus-software-2026/) removes every possible threat, and any product that claims otherwise is overstating its abilities. What good antivirus does is detect the vast majority of known threats automatically, reducing your risk significantly. Staying alert to warning signs and keeping your software updated does the rest.
 
 **Q: Should I trust a caller who says my PC is hacked?**
 No. Legitimate companies — including Microsoft and your internet provider — do not call you uninvited to tell you your computer is infected. These calls are almost always scams designed to trick you into giving remote access. Hang up.

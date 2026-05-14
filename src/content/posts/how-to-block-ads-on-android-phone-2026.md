@@ -36,13 +36,13 @@ Each category needs a slightly different approach. No single method catches all 
 
 ---
 
-## Method 1: Private DNS (AdGuard DNS)
+## Method 1: Private DNS ([AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/))
 
 Android 9 and above includes a feature called **Private DNS**, which lets you route all DNS queries through a resolver of your choice. Point it at AdGuard's public DNS and every domain on their blocklist — which covers tens of thousands of ad networks and trackers — gets silently dropped before any request leaves your phone.
 
 **This works system-wide**, including inside apps, not just in the browser.
 
-### How to set it up (step by step)
+### [How to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up (step by step)
 
 1. Open **Settings** → **Network & internet** (on stock Android; Samsung calls it **Connections → More connection settings**)
 2. Tap **Private DNS**

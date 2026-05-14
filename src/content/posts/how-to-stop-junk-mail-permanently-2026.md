@@ -97,11 +97,11 @@ Before you fix anything, understand the scale of the problem.
 
 ### Step 5 — Set Up an [Email Alias](https://snipstack.io/email-alias-for-online-shopping-2026/) System
 
-An email alias is a disposable address that forwards to your real inbox. You give the alias to websites, services, and stores. When a site gets breached or sells your data, only the alias leaks — not your real address. You can delete the alias and the spam stops instantly.
+An [email alias](https://snipstack.io/email-alias-generator-2026/) is a disposable address that forwards to your real inbox. You give the alias to websites, services, and stores. When a site gets breached or sells your data, only the alias leaks — not your real address. You can delete the alias and the spam stops instantly.
 
 **How to set up aliases with Alt ID:**
 
-Alt ID generates unique, random email aliases on demand. Each alias forwards to your real inbox so you still receive legitimate emails. If one alias starts getting spam, you delete it and create a new one.
+Alt ID generates unique, random [email alias](https://snipstack.io/email-alias-example-2026/)es on demand. Each alias forwards to your real inbox so you still receive legitimate emails. If one alias starts getting spam, you delete it and create a new one.
 
 [Start using Alt ID to protect your inbox](/blog/altid?sub=how-to-stop-junk-mail-permanently-2026__mid)
 
@@ -160,7 +160,7 @@ No. Opting out removes you from marketing lists, not from credit eligibility. Yo
 Alt ID is a strong option because it is integrated with a broader privacy suite and generates aliases on the fly without requiring you to manage a separate email domain. [See the full breakdown here](/blog/altid?sub=how-to-stop-junk-mail-permanently-2026__faq).
 
 **Can I stop spam from companies I have never signed up with?**
-Yes, but it requires the data broker removal approach (Step 3). These companies bought your contact details indirectly. Removing yourself from brokers cuts off the supply chain. Switching to email aliases ensures they can never acquire your real address from future sign-ups.
+Yes, but it requires the data broker removal approach (Step 3). These companies bought your contact details indirectly. Removing yourself from brokers cuts off the supply chain. Switching to [email alias](https://snipstack.io/email-alias-outlook-2026/)es ensures they can never acquire your real address from future sign-ups.
 
 **Do I need to pay for any of these opt-out services?**
 DMAchoice charges a $2 identity verification fee. OptOutPrescreen is free. Data broker removal is free (but time-consuming). An email alias service like Alt ID is a paid privacy tool — but one alias deletion can save hours of spam management. For most people the trade-off is obvious.

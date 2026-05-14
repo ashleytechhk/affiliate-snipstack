@@ -36,7 +36,7 @@ On a computer, the guard dog sniffs out harmful programs — called viruses — 
 
 On an iPhone, Apple already has its own very strong guard dog built in. It is called **iOS security**, and it means traditional viruses almost never get onto iPhones. Apple controls every app in the App Store very carefully, and the iPhone's design stops harmful programs from spreading between apps.
 
-So when someone asks "do I need antivirus on iPhone?" — they are really asking a deeper question: **"Is my iPhone completely safe from all online threats?"**
+So when someone asks "do I need [antivirus](https://snipstack.io/vs-antivirus-2026/) on iPhone?" — they are really asking a deeper question: **"Is my iPhone completely safe from all online threats?"**
 
 The honest answer is: safe from viruses, yes. Safe from everything else? Not entirely.
 

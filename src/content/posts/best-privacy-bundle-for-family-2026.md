@@ -45,7 +45,7 @@ How many phones, laptops, tablets, and shared computers does your household use?
 You will create one Surfshark account that covers the whole family. Pick one adult email to own the account. Everyone installs the same app and logs in with the same credentials.
 
 **Step 0d — Check that [Windows Defender](https://snipstack.io/windows-defender-download-2026/) is enabled (Windows users).**
-Norton and McAfee both disable Windows Defender when installed. Once you uninstall them, Defender turns back on automatically — but it is worth confirming. After removing your old antivirus, go to Windows Security → Virus & Threat Protection and check that real-time protection is on. Surfshark Antivirus will then run alongside it, and you can decide which one to rely on. Most users disable Defender once Surfshark Antivirus is running.
+Norton and McAfee both disable Windows Defender when installed. Once you uninstall them, Defender turns back on automatically — but it is worth confirming. After removing your old antivirus, go to [Windows Security](https://snipstack.io/windows-security-2026/) → Virus & Threat Protection and check that real-time protection is on. Surfshark Antivirus will then run alongside it, and you can decide which one to rely on. Most users disable Defender once Surfshark Antivirus is running.
 
 ---
 
@@ -189,7 +189,7 @@ Yes. One subscription covers unlimited simultaneous devices. Every family member
 
 ### What happens to the Alt-ID if I cancel?
 
-Email aliases tied to your Alt-ID stop forwarding when the subscription ends. If you use an alias as the login email for a service, you would need to update that account's email to your real address before cancelling. This is worth managing proactively if you plan to switch providers later.
+[Email alias](https://snipstack.io/email-alias-for-online-shopping-2026/)es tied to your Alt-ID stop forwarding when the subscription ends. If you use an alias as the login email for a service, you would need to update that account's email to your real address before cancelling. This is worth managing proactively if you plan to switch providers later.
 
 ### Does the VPN work on smart TVs and gaming consoles?
 
@@ -247,7 +247,7 @@ You have been paying too much for software that makes your devices slower. The s
       "name": "What happens to the Alt-ID if I cancel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Email aliases tied to your Alt-ID stop forwarding when the subscription ends. If you use an alias as the login email for any service, update that account to your real email before cancelling."
+        "text": "[Email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/)es tied to your Alt-ID stop forwarding when the subscription ends. If you use an alias as the login email for any service, update that account to your real email before cancelling."
       }
     },
     {

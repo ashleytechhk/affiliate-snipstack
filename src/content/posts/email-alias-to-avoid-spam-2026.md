@@ -151,7 +151,7 @@ This gives you forensic-level identification. When spam arrives, you know the ex
 
 ## FAQ
 
-**What is an email alias and how does it differ from a disposable address?**
+**What is an [email alias](https://snipstack.io/email-alias-outlook-2026/) and how does it differ from a disposable address?**
 
 An alias is a persistent forwarding address — it stays active until you delete it, and it forwards to your real inbox. A disposable address is typically temporary and expires after a set time. For the category-alias strategy, you want *persistent* aliases you control, not time-limited throwaways. [Alt ID](https://snipstack.io/blog/altid?sub=email-alias-to-avoid-spam-2026__faq) provides persistent aliases you can delete on demand.
 

@@ -30,7 +30,7 @@ Traditional [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026
 
 Twitch changed the equation by moving to **server-side ad insertion (SSAI)**. Instead of loading ads from a separate ad server (which a blocker can identify and block), Twitch stitches the ad directly into the video stream from its own servers. To your browser or app, the ad looks identical to the stream content — same domain, same delivery mechanism. Standard domain-based blockers can't tell them apart.
 
-This is why "uBlock Origin doesn't work on Twitch anymore" became a common complaint. It's not uBlock failing — it's Twitch deliberately obfuscating the ad delivery to defeat extension-based blocking.
+This is why "[uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) doesn't work on Twitch anymore" became a common complaint. It's not uBlock failing — it's Twitch deliberately obfuscating the ad delivery to defeat extension-based blocking.
 
 ![How Twitch server-side ad injection works vs. traditional ad blocking](/og/how-to-block-ads-on-twitch-2026-inline-1.png)
 

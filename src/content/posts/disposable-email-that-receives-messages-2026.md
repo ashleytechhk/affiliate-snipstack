@@ -115,7 +115,7 @@ All three are alias services — they all deliver email to your real inbox. The 
 
 **Firefox Relay** offers five free aliases, then requires a paid tier. It integrates directly into Firefox's autofill, which is handy. But the free tier limit means you'll run out quickly if you sign up for many services.
 
-**Surfshark Alt ID** is device-agnostic, works with any email provider, and is included in the Surfshark One bundle alongside VPN and Antivirus. If you're already paying for Surfshark, Alt ID costs nothing extra. The identity generation feature — randomized name and birthdate in addition to the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) — also makes it useful for forms that ask for more than just an address.
+**Surfshark Alt ID** is device-agnostic, works with any email provider, and is included in the Surfshark One bundle alongside [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). If you're already paying for Surfshark, Alt ID costs nothing extra. The identity generation feature — randomized name and birthdate in addition to the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) — also makes it useful for forms that ask for more than just an address.
 
 ![Side-by-side comparison of Alt ID, Hide My Email, and Firefox Relay](/og/disposable-email-that-receives-messages-2026-inline-2.png)
 
@@ -148,7 +148,7 @@ It's an alias address that forwards incoming email to your real inbox, giving yo
 **Can I reply from a disposable [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/)?**
 Yes — services like Alt ID route replies through the alias so the recipient never sees your real address. Self-destructing inboxes (10-Minute Mail, Temp Mail) do not support replies.
 
-**Is a disposable email alias truly private?**
+**Is a disposable [email alias](https://snipstack.io/email-alias-generator-2026/) truly private?**
 An alias hides your real email address from the sites you sign up with. The alias service itself still knows your real address. Read the provider's privacy policy if this matters for your use case. No service offers complete anonymity.
 
 **How many aliases can I create with Alt ID?**
@@ -158,7 +158,7 @@ Alt ID allows multiple aliases. You can create a separate one for each service y
 Most sites cannot detect alias addresses, especially from services like Alt ID that generate addresses that look like standard email formats. A small minority of services run aggressive validation and may flag forwarded addresses.
 
 **Do I need a VPN to use Alt ID?**
-No. Alt ID is a separate product within the Surfshark One bundle. You do not need to run a VPN connection to use the email alias feature.
+No. Alt ID is a separate product within the Surfshark One bundle. You do not need to run a VPN connection to use the [email alias](https://snipstack.io/email-alias-example-2026/) feature.
 
 ---
 
