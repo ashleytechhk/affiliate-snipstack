@@ -70,7 +70,7 @@ Here's how the main contenders stack up across the five pillars above.
 
 ### Norton 360 Deluxe
 
-The veteran. Strong AV engine with decades of lab results. LifeLock integration (US only) is genuinely useful for identity theft coverage at the credit bureau level. The problems: system footprint is noticeable on older hardware, the dashboard constantly surfaces upsell prompts, the bundled VPN is limited compared to standalone products, and year-two pricing routinely clears $100.
+The veteran. Strong AV engine with decades of lab results. LifeLock integration (US only) is genuinely useful for [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) coverage at the credit bureau level. The problems: system footprint is noticeable on older hardware, the dashboard constantly surfaces upsell prompts, the bundled VPN is limited compared to standalone products, and year-two pricing routinely clears $100.
 
 ### McAfee Total Protection
 

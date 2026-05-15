@@ -106,7 +106,7 @@ The toggle turns blue/green when active. You do not need to be connected to a VP
 
 ### Step 4 — Allow the VPN Profile (iOS Only)
 
-On iOS, when you first enable CleanWeb or connect to any Surfshark server, iOS will ask you to install a VPN configuration profile. Tap **Allow** — this is standard behavior for any VPN app on iOS and is required for the app to function.
+On iOS, when you first enable CleanWeb or connect to any Surfshark server, iOS will ask you to install a VPN configuration profile. Tap **Allow** — this is standard behavior for any [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) iOS and is required for the app to function.
 
 ### Step 5 — Test That It's Working
 

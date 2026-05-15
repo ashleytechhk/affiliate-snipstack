@@ -42,7 +42,7 @@ A VPN (Virtual Private Network) is like drawing the curtains on your internet co
 - Snooping on public Wi-Fi networks
 - Your internet provider selling your browsing history
 - Online tracking and targeted ads based on your activity
-- Some types of identity theft tied to unsecured connections
+- Some types of [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) tied to unsecured connections
 
 ### Why getting both together makes sense
 

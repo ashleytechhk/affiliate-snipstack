@@ -182,13 +182,13 @@ Aliases are linked to your Apple ID, not your device. Sign in to the same Apple 
 
 ## Frequently Asked Questions
 
-### Does creating an iCloud email alias cost anything?
+### Does creating an iCloud [email alias](https://snipstack.io/email-alias-outlook-2026/) cost anything?
 
 Hide My Email requires an **iCloud+** subscription, which starts at the entry-level paid storage tier (currently 50 GB). If you already pay for iCloud storage, you have access to Hide My Email at no additional cost. The free iCloud tier does not include the feature.
 
-### How many iCloud email aliases can I create?
+### How many iCloud [email alias](https://snipstack.io/email-alias-gmail-2026/)es can I create?
 
-Apple does not publish a fixed cap for Hide My Email aliases. In practice, users report creating dozens without hitting a limit. Create as many as you need — one per service is a sensible habit.
+Apple does not publish a fixed cap for Hide My [Email alias](https://snipstack.io/email-alias-sign-2026/)es. In practice, users report creating dozens without hitting a limit. Create as many as you need — one per service is a sensible habit.
 
 ### Can I use an iCloud alias to reply to emails?
 

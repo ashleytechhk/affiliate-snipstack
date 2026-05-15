@@ -181,7 +181,7 @@ In most cases, yes — particularly if you currently have separate antivirus and
 
 ### Does Surfshark Antivirus actually replace Norton?
 
-For the core job — real-time malware detection, phishing protection, and background scanning — yes. It does not include Norton's LifeLock identity theft insurance component (which requires a US Social Security number anyway). If you rely on LifeLock specifically, evaluate that separately. For families who primarily want virus and phishing protection without the bloatware, Surfshark Antivirus covers the same ground.
+For the core job — real-time malware detection, phishing protection, and background scanning — yes. It does not include Norton's LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance component (which requires a US Social Security number anyway). If you rely on LifeLock specifically, evaluate that separately. For families who primarily want virus and phishing protection without the bloatware, Surfshark Antivirus covers the same ground.
 
 ### Can the whole family share one Surfshark One account?
 

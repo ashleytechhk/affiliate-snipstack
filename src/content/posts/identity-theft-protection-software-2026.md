@@ -116,9 +116,9 @@ McAfee+ Advanced is a capable product, but it is not the most beginner-friendly 
 
 ---
 
-## Microsoft Defender — The Free Baseline
+## [Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) — The Free Baseline
 
-Microsoft Defender comes built into every Windows 10 and 11 computer. It runs automatically, updates itself, and catches common viruses reliably. For a single Windows computer used for basic browsing, it provides a reasonable starting point at no cost.
+[Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/) comes built into every [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and 11 computer. It runs automatically, updates itself, and catches common viruses reliably. For a single Windows computer used for basic browsing, it provides a reasonable starting point at no cost.
 
 The limits matter here, though. Defender has no breach alert system — it will not tell you if your email or password has been stolen. It has no VPN, so your browsing activity is not private. It does not protect your phone or tablet. And it has no identity theft insurance.
 

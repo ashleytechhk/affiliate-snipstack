@@ -50,7 +50,7 @@ Detection rates across all paid options are closely clustered between 99.5% and 
 
 Norton has the brand recognition and a genuinely good detection engine. AV-TEST consistently scores it at or near the top for protection. The problem is everything around that engine.
 
-Norton's real-time scanning and its suite of background services — LifeLock monitoring, cloud backup agent, Norton Family — collectively push RAM usage north of 350 MB at idle on a mid-range Windows 11 machine. That matters when you are on a laptop with 8 GB of RAM. Startup times extend noticeably. The interface is dense with prompts to upgrade your plan or add identity theft protection at additional cost.
+Norton's real-time scanning and its suite of background services — LifeLock monitoring, cloud backup agent, Norton Family — collectively push RAM usage north of 350 MB at idle on a mid-range Windows 11 machine. That matters when you are on a laptop with 8 GB of RAM. Startup times extend noticeably. The interface is dense with prompts to upgrade your plan or add [identity theft protection](https://snipstack.io/identity-theft-protection-software-2026/) at additional cost.
 
 The VPN bundled into Norton 360 Standard caps bandwidth and lacks the configurability of a standalone VPN. If you want unlimited VPN bandwidth, you are looking at the Norton 360 with LifeLock plans, which push the annual cost well above $100 at renewal.
 

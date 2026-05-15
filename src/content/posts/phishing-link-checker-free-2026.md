@@ -61,7 +61,7 @@ If you land on a phishing site and enter your details, the consequences can be s
 - Your identity information can be sold to other criminals
 - Malicious software can be silently downloaded onto your device
 
-Recovering from a compromised account or identity theft is time-consuming and stressful. Running a link through a free checker takes about ten seconds. The trade-off is obvious.
+Recovering from a compromised account or [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) is time-consuming and stressful. Running a link through a free checker takes about ten seconds. The trade-off is obvious.
 
 ![Why phishing links are dangerous and how a checker protects you](/og/phishing-link-checker-free-2026-inline-1.png)
 

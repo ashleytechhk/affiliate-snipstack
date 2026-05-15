@@ -172,7 +172,7 @@ Yes, in virtually all jurisdictions, using an [email alias](https://snipstack.io
 Alt ID forwards email to your real inbox without revealing your real address to the sender. Surfshark can see the forwarding relationship as part of operating the service, but senders cannot. Read Surfshark's privacy policy for the full picture on data handling.
 
 **What happens to emails sent to a deleted alias?**
-Once you delete an alias, emails sent to it are rejected or bounce. Senders receive a delivery failure notice. You stop receiving anything from that address permanently.
+Once you delete an alias, emails sent to it are rejected or bounce. Senders receive a delivery failure notice. You [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) anything from that address permanently.
 
 **Can I use multiple aliases across different devices?**
 Yes. Alt ID is account-based, not device-based. Any alias you create shows up in your Surfshark account across all devices you are logged into.

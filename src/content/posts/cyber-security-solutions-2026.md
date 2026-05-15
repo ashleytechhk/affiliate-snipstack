@@ -103,7 +103,7 @@ Surfshark One's renewal pricing is more consistent, and the unlimited device cou
 - System performance matters and you want security software you'll forget is running
 
 **Stick with Norton 360 if:**
-- You use LifeLock identity theft insurance specifically (it has no direct equivalent in Surfshark's lineup)
+- You use LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance specifically (it has no direct equivalent in Surfshark's lineup)
 - You're already invested in the Norton ecosystem and switching feels like too much friction
 
 **Stick with McAfee if:**

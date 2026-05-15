@@ -71,7 +71,7 @@ Defender can warn you about dangerous downloads in Microsoft Edge. But if you re
 
 ### Gap 5: No Identity Protection or Credit Monitoring
 
-If a criminal uses your personal information to open accounts in your name, you will not find out from Windows Security. Identity theft often goes undetected for months.
+If a criminal uses your personal information to open accounts in your name, you will not find out from Windows Security. [Identity theft](https://snipstack.io/identity-theft-protection-software-2026/) often goes undetected for months.
 
 ---
 

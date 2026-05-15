@@ -34,7 +34,7 @@ That is everything. You do not need to buy anything or download any software to 
 
 ---
 
-## Step 1 — Open Windows Security
+## Step 1 — Open [Windows Security](https://snipstack.io/windows-security-2026/)
 
 Windows 11 has a built-in app called **Windows Security**. This is where you manage your free antivirus. Here is how to open it:
 
@@ -64,7 +64,7 @@ Real-time protection is the part that watches your computer constantly and stops
 
 ## Step 3 — Update Your Virus Definitions (Very Important)
 
-Antivirus software uses a list of known threats called **virus definitions**. Think of it as a "most wanted" list. The older that list gets, the more new threats can slip past. Windows usually updates this list automatically, but it is worth checking.
+[Antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) uses a list of known threats called **virus definitions**. Think of it as a "most wanted" list. The older that list gets, the more new threats can slip past. Windows usually updates this list automatically, but it is worth checking.
 
 1. Still inside **Virus & threat protection**, scroll down until you see **Virus & threat protection updates**.
 2. Click **Check for updates**.
@@ -180,7 +180,7 @@ This is normal. A Full Scan uses a lot of your computer's resources. Try to sche
 - You want automatic warnings when you accidentally visit a scam website
 - You want someone to alert you if your passwords are leaked online
 
-**[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-for-windows-11-2026__cta)** is one option worth considering. It is affordable, straightforward to set up, and designed to be easy enough for users who are not tech-savvy. It layers on top of Windows Defender rather than replacing it, giving you stronger overall protection without complicating things.
+**[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-for-windows-11-2026__cta)** is one option worth considering. It is affordable, straightforward to set up, and designed to be easy enough for users who are not tech-savvy. It layers on top of [Windows Defender](https://snipstack.io/windows-defender-download-2026/) rather than replacing it, giving you stronger overall protection without complicating things.
 
 ---
 
