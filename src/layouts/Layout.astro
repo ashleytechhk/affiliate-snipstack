@@ -46,6 +46,29 @@ const {
       gtag('config', 'G-NT7MLPX9FE');
     </script>
 
+    <!-- Affiliate click tracking: fire GA4 event before cloaker redirect -->
+    <script is:inline>
+      document.addEventListener('click', function(e) {
+        var a = e.target.closest('a[href]');
+        if (!a) return;
+        var href = a.getAttribute('href') || '';
+        // Match all snipstack cloaker paths
+        if (!/^\/(blog|go|sk|vp|ab|pn|id|av)(\/|$|\?)/.test(href)) return;
+        try {
+          var url = new URL(href, location.origin);
+          var parts = url.pathname.replace(/^\//, '').split('/');
+          var product = parts[1] || parts[0] || 'unknown';
+          var sub = url.searchParams.get('sub') || '';
+          gtag('event', 'affiliate_click', {
+            product: product,
+            sub_id: sub,
+            link_url: href,
+            transport_type: 'beacon',
+          });
+        } catch(err) {}
+      });
+    </script>
+
     <title>{title}</title>
     <slot name="head" />
   </head>
