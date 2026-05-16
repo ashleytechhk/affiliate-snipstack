@@ -43,7 +43,7 @@ In the address bar at the top, type or click this link:
 
 **[Get Surfshark Antivirus for Mac](/blog/surfshark?sub=norton-antivirus-for-mac-2026__mid)**
 
-You will land on the Surfshark website. Look for the plan that says **Antivirus** or **Surfshark One** — these include antivirus protection for your Mac.
+You will land on the Surfshark website. Look for the plan that says **Antivirus** or **[Surfshark One](https://snipstack.io/surfshark-one-review-2026/)** — these include antivirus protection for your Mac.
 
 > **Screenshot placeholder:** *[Image: Surfshark homepage with the Antivirus plan highlighted in a red box]*
 

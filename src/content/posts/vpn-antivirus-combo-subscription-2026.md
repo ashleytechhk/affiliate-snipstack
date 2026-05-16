@@ -12,7 +12,7 @@ There is a better way to handle this in 2026. A proper **VPN [antivirus](https:/
 
 ![Screenshot: Surfshark One dashboard showing VPN, Antivirus, Alert, and Search tabs all active on a Windows desktop](/og/vpn-antivirus-combo-subscription-2026.png)
 
-This step-by-step guide walks you through canceling your old subscription, uninstalling the bloatware, and getting fully set up on Surfshark One — the combo we recommend for 2026.
+This step-by-step guide walks you through canceling your old subscription, uninstalling the bloatware, and getting fully set up on [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) — the combo we recommend for 2026.
 
 [See current Surfshark One pricing](/blog/one?sub=vpn-antivirus-combo-subscription-2026__above-fold)
 

@@ -18,7 +18,7 @@ This guide walks you through the fastest, most practical way to set up [email al
 
 ## Quick Verdict
 
-Surfshark **Alt-ID** is the fastest route to [email alias](https://snipstack.io/email-alias-sign-2026/)es if you already use (or plan to use) Surfshark One. You get unlimited randomly generated aliases, a clean dashboard, and one-click forwarding to your real Gmail — no technical setup required. It won't magically unsubscribe you from existing spam, but every new signup you do through an alias keeps your Gmail address out of data-broker hands. For anyone drowning in promotional email, it pays for itself in sanity alone.
+Surfshark **Alt-ID** is the fastest route to [email alias](https://snipstack.io/email-alias-sign-2026/)es if you already use (or plan to use) [Surfshark One](https://snipstack.io/surfshark-one-review-2026/). You get unlimited randomly generated aliases, a clean dashboard, and one-click forwarding to your real Gmail — no technical setup required. It won't magically unsubscribe you from existing spam, but every new signup you do through an alias keeps your Gmail address out of data-broker hands. For anyone drowning in promotional email, it pays for itself in sanity alone.
 
 ---
 

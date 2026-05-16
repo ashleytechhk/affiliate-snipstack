@@ -124,7 +124,7 @@ When you disable or delete an alias, the mail servers stop accepting messages to
 
 ## Setting Up Email Aliases with Surfshark Alt-ID
 
-[Surfshark Alt-ID](/blog/altid?sub=email-alias-example-2026__mid) is the alias tool included in Surfshark One and Surfshark One+ subscriptions. It is the simplest way to start using aliases without any technical configuration.
+[Surfshark Alt-ID](/blog/altid?sub=email-alias-example-2026__mid) is the alias tool included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ subscriptions. It is the simplest way to start using aliases without any technical configuration.
 
 ### Step 1 — Get a Surfshark One subscription
 

@@ -78,7 +78,7 @@ On apps like Tinder, Bumble, or Hinge, when transitioning to SMS, share your Goo
 
 ### Step 1 — Get a Surfshark Account
 
-Go to Surfshark via the link above and create an account. Alt-Number is available as a standalone feature or bundled with Surfshark One (which also includes VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/)).
+Go to Surfshark via the link above and create an account. Alt-Number is available as a standalone feature or bundled with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) (which also includes VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/)).
 
 ### Step 2 — Open the Alt-Number Feature
 

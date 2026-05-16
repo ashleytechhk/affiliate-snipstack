@@ -55,7 +55,7 @@ Open your internet browser (the blue "e" called Edge, or a round icon called Chr
 
 ### Step 2 — Choose a Plan
 
-You will see a page showing different plan options. For most seniors, the **Surfshark One** plan is the best value because it includes:
+You will see a page showing different plan options. For most seniors, the **[Surfshark One](https://snipstack.io/surfshark-one-review-2026/)** plan is the best value because it includes:
 
 - Real-time antivirus protection
 - A VPN (hides your browsing from hackers on public Wi-Fi)

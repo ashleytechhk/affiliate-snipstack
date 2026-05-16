@@ -57,7 +57,7 @@ If you already have a Surfshark account for VPN use, open the existing app and s
 
 ### Step 2: Create an Account and Subscribe
 
-Open the app and tap **Get Started**. Enter your email address and create a password. Choose a subscription plan — Alt-Number is available as a standalone add-on or as part of Surfshark One, which bundles the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity alert tools together. For most people, the bundle is the better value.
+Open the app and tap **Get Started**. Enter your email address and create a password. Choose a subscription plan — Alt-Number is available as a standalone add-on or as part of [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), which bundles the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity alert tools together. For most people, the bundle is the better value.
 
 Complete payment. Surfshark accepts major credit cards and PayPal. Your account is activated immediately after payment — no waiting period.
 

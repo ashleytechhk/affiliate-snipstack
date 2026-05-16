@@ -44,7 +44,7 @@ None of this requires the app to do anything malicious. It's the predictable res
 Before running through the steps, make sure you have:
 
 - A smartphone (iOS or Android)
-- A Surfshark account — Alt-Number is included with Surfshark One and Surfshark One+ plans
+- A Surfshark account — Alt-Number is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans
 - The Surfshark app installed on your device
 - About 10 minutes
 
@@ -134,7 +134,7 @@ Once a match has earned your trust and you're genuinely in contact with them lon
 
 ### Step 7. Delete or Recycle the Number When Spam Starts
 
-This is the permanent part of "how to block telemarketers permanently."
+This is the permanent part of "[how to block](https://snipstack.io/how-to-block-ads-on-twitch-2026/) telemarketers permanently."
 
 If a number you've shared starts attracting spam calls — whether from a dating contact who sold your number, an app that leaked it, or a data broker — open Surfshark Alt-Number and delete it. Or generate a new number and replace it.
 

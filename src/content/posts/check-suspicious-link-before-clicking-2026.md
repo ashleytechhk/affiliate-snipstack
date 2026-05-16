@@ -95,7 +95,7 @@ Several link-checking tools exist online. Most of them are built for IT professi
 
 **Free to use for everyday checks.** The core link and email scanning is available without a paid subscription, making it accessible to anyone.
 
-**Ongoing breach monitoring for broader protection.** Surfshark Alert — included with a Surfshark One subscription — monitors whether your personal email address has appeared in data breaches. This matters because scammers use leaked data to make their emails more convincing. Knowing your details have been leaked lets you raise your guard before targeted emails start arriving.
+**Ongoing breach monitoring for broader protection.** Surfshark Alert — included with a [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) subscription — monitors whether your personal email address has appeared in data breaches. This matters because scammers use leaked data to make their emails more convincing. Knowing your details have been leaked lets you raise your guard before targeted emails start arriving.
 
 ![Surfshark Email Scam Checker — scan results and verdict screen](/og/check-suspicious-link-before-clicking-2026-inline-2.png)
 

@@ -16,7 +16,7 @@ This guide walks you through creating a free anonymous [email alias](https://sni
 
 ## Quick Verdict
 
-Alt-ID generates disposable [email alias](https://snipstack.io/email-alias-gmail-2026/)es that forward to your real inbox, keeping your actual address hidden from every site you sign up to. It is included free with a Surfshark One subscription, takes under two minutes to set up, and works on every platform. If you receive 50+ spam messages a day, a masked-alias approach cuts that number closer to zero within a week. It does not replace your inbox — it shields it.
+Alt-ID generates disposable [email alias](https://snipstack.io/email-alias-gmail-2026/)es that forward to your real inbox, keeping your actual address hidden from every site you sign up to. It is included free with a [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) subscription, takes under two minutes to set up, and works on every platform. If you receive 50+ spam messages a day, a masked-alias approach cuts that number closer to zero within a week. It does not replace your inbox — it shields it.
 
 [Get Alt-ID free with Surfshark One](/blog/surfshark?sub=free-anonymous-email-2026__above-fold)
 

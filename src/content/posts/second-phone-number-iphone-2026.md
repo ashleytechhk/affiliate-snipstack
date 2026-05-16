@@ -34,7 +34,7 @@ Before you begin, check these three things:
 
 1. **iOS version** — Your iPhone should be running iOS 16 or later. The steps in this guide are tested on iOS 17 and iOS 18. Older iOS versions may work but screens may differ.
 
-2. **App Store access** — You need access to the App Store in a supported region to download Surfshark. Alt-Number is included in Surfshark One; you will subscribe through the app.
+2. **App Store access** — You need access to the App Store in a supported region to download Surfshark. Alt-Number is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/); you will subscribe through the app.
 
 3. **Payment method** — A credit card, debit card, or App Store balance ready for the Surfshark One subscription.
 

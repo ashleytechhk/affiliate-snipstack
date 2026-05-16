@@ -131,7 +131,7 @@ You do not need any technical experience for this. Follow the steps below exactl
 
 **Step 1.** Click the link above. You will go to the Surfshark website.
 
-**Step 2.** Choose a plan. The **Surfshark Antivirus** plan is the most affordable. If you also want a VPN to protect your browsing on public Wi-Fi, look at **Surfshark One**.
+**Step 2.** Choose a plan. The **Surfshark Antivirus** plan is the most affordable. If you also want a VPN to protect your browsing on public Wi-Fi, look at **[Surfshark One](https://snipstack.io/surfshark-one-review-2026/)**.
 
 **Step 3.** Create an account. You will need an email address and a password you can remember. Write them down somewhere safe.
 

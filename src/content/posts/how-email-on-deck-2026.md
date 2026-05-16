@@ -16,7 +16,7 @@ You needed a free trial. You typed your real email. Now you get 14 newsletters a
 
 This guide breaks down exactly what Email on Deck does well, where it fails you, and which alternatives (including a persistent alias that keeps your real inbox invisible) make more sense depending on your situation.
 
-> **Quick Verdict:** Email on Deck is fine for one-time signups where you never want to hear from the sender again. For anything you might need ongoing access to — subscriptions, accounts, purchases — you need a persistent [email alias](https://snipstack.io/email-alias-gmail-2026/). [Surfshark Alt ID](/blog/surfshark?sub=how-email-on-deck-2026__above-fold) is the strongest option in 2026: it creates a permanent alias that forwards to your real inbox, pairs with a virtual identity so sites never see your real details, and costs less than a coffee per month bundled with Surfshark One.
+> **Quick Verdict:** Email on Deck is fine for one-time signups where you never want to hear from the sender again. For anything you might need ongoing access to — subscriptions, accounts, purchases — you need a persistent [email alias](https://snipstack.io/email-alias-gmail-2026/). [Surfshark Alt ID](/blog/surfshark?sub=how-email-on-deck-2026__above-fold) is the strongest option in 2026: it creates a permanent alias that forwards to your real inbox, pairs with a virtual identity so sites never see your real details, and costs less than a coffee per month bundled with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/).
 
 ---
 

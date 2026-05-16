@@ -16,7 +16,7 @@ If your inbox looks like a dumpster fire — 50+ spam messages a day, promotions
 
 The strongest all-around pick for most people is **Surfshark Alt-ID** — it pairs a randomised [email alias](https://snipstack.io/email-alias-outlook-2026/) with a fake identity profile so you are not just hiding your email, you are hiding the persona behind it. For pure alias-only needs, SimpleLogin and AnonAddy are excellent open-source runners-up. If you want a completely separate encrypted inbox rather than just an alias, ProtonMail and Tutanota are the ones to beat. Read on for the full breakdown.
 
-**Already decided?** Grab Alt-ID as part of Surfshark One right now:
+**Already decided?** Grab Alt-ID as part of [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) right now:
 [Get Surfshark Alt-ID](/blog/surfshark?sub=best-anonymous-email-2026__above-fold)
 
 ---

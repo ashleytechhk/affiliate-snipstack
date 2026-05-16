@@ -24,7 +24,7 @@ Alt-ID generates unique [email alias](https://snipstack.io/how-email-alias-2026/
 
 ## What You Need Before You Start
 
-- A Surfshark account (Alt-ID is included in Surfshark One and One+ plans)
+- A Surfshark account (Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and One+ plans)
 - A real email address to receive forwarded messages
 - 5 minutes
 

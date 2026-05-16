@@ -57,7 +57,7 @@ Open your web browser (Edge, Chrome, or Firefox — any will work) and click thi
 
 ### Step 2 — Choose a Plan
 
-You will see pricing options on the page. The **Surfshark One** plan is the most popular because it includes antivirus, a VPN, and identity alerts all in one price. Select the plan that suits you and click the button to continue.
+You will see pricing options on the page. The **[Surfshark One](https://snipstack.io/surfshark-one-review-2026/)** plan is the most popular because it includes antivirus, a VPN, and identity alerts all in one price. Select the plan that suits you and click the button to continue.
 
 **Tip:** Longer plans (1 year or 2 years) cost much less per month than the monthly plan. If you are happy to pay once a year, it is the better value.
 

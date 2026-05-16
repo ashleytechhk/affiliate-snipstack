@@ -106,7 +106,7 @@ Surfshark Antivirus is simple to install. You do not need to be a tech person. H
 
 **Step 1.** Click the link above and go to the Surfshark website.
 
-**Step 2.** Choose the **Surfshark Antivirus** plan (or **Surfshark One** if you also want a VPN — more on that below).
+**Step 2.** Choose the **Surfshark Antivirus** plan (or **[Surfshark One](https://snipstack.io/surfshark-one-review-2026/)** if you also want a VPN — more on that below).
 
 **Step 3.** Create a simple account with your email address and set a password.
 

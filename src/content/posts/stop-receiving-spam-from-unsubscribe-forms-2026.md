@@ -33,7 +33,7 @@ Before working through the steps below, have the following ready:
 - Access to your email account (Gmail, Outlook, or Apple Mail)
 - A list of the top 5–10 worst spam senders (sort by sender to identify repeats)
 - For the long-term fix: a device with Chrome, Firefox, or Edge installed
-- For [Surfshark Alt ID](/blog/altid?sub=stop-receiving-spam-from-unsubscribe-forms-2026__above-fold): a Surfshark One or One+ subscription (this is where Alt ID lives)
+- For [Surfshark Alt ID](/blog/altid?sub=stop-receiving-spam-from-unsubscribe-forms-2026__above-fold): a [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) or One+ subscription (this is where Alt ID lives)
 
 ---
 

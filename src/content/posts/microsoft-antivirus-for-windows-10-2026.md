@@ -85,7 +85,7 @@ We scored each option against these five criteria below.
 
 **Speed impact:** Minimal. Designed to run quietly in the background.
 
-**Price:** Plans typically start under $5 per month. The Surfshark One bundle (antivirus + VPN + breach alerts) is excellent value.
+**Price:** Plans typically start under $5 per month. The [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) bundle (antivirus + VPN + breach alerts) is excellent value.
 
 **Verdict:** The strongest all-in-one option for Windows 10 seniors. You get everything Defender offers plus the things it misses — without making your computer complicated or slow.
 

@@ -86,7 +86,7 @@ This is the section that matters most if you are trying to minimize what you spe
 **Surfshark pricing (approximate, 2026):**
 - Monthly plan: $15.45/mo
 - 1-year plan: ~$2.99/mo
-- 2-year plan: ~$2.19/mo (including Surfshark One features)
+- 2-year plan: ~$2.19/mo (including [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) features)
 
 On a 2-year total cost basis, Surfshark comes in roughly 40–45% cheaper than NordVPN. Over 24 months, that difference can exceed $40–$50 depending on exchange rates and promotional pricing. For a tool you are using to save money on streaming, that is money you are keeping rather than spending on infrastructure.
 

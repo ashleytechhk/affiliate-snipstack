@@ -16,7 +16,7 @@ This guide walks you through setting up a free [email alias](https://snipstack.i
 
 ## Quick Verdict
 
-Alt-ID solves the spam problem without the hassle of juggling multiple inboxes. You get unlimited aliases, instant forwarding to your real email, and one-click deactivation when a sender turns spammy. The free tier (bundled with Surfshark One) is genuinely useful — not a crippled demo. If you sign up for 50 newsletters or shopping sites a year, this tool pays for itself in time saved within a month.
+Alt-ID solves the spam problem without the hassle of juggling multiple inboxes. You get unlimited aliases, instant forwarding to your real email, and one-click deactivation when a sender turns spammy. The free tier (bundled with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/)) is genuinely useful — not a crippled demo. If you sign up for 50 newsletters or shopping sites a year, this tool pays for itself in time saved within a month.
 
 [Get Alt-ID free with Surfshark One &rarr;](/blog/surfshark?sub=free-email-alias-2026__above-fold)
 

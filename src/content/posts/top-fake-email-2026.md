@@ -30,7 +30,7 @@ The best [fake email](https://snipstack.io/fake-email-sender-with-attachment-202
 
 What sets Alt-ID apart is persistence with control. Unlike a disposable burner that dies after 10 minutes, your Alt-ID alias lives as long as you need it. When a sender gets too spammy, you delete the alias — and all incoming mail from that source stops instantly. No unsubscribe links, no pleading with marketers, no nothing.
 
-Alt-ID is included with Surfshark One and Surfshark One+ plans, which also bundle a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach monitoring. If you're already thinking about broader online privacy, this stacks meaningfully rather than requiring a separate subscription for each layer of protection.
+Alt-ID is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans, which also bundle a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach monitoring. If you're already thinking about broader online privacy, this stacks meaningfully rather than requiring a separate subscription for each layer of protection.
 
 ---
 

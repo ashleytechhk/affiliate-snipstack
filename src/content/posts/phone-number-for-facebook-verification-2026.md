@@ -60,7 +60,7 @@ Most Facebook verification guides are written for basic account access. Dating p
 
 Alt-Number provisions real carrier-backed numbers — assigned through mobile carrier infrastructure, not a VoIP pool. That matters for Facebook verification in two specific ways: carrier-backed numbers pass the initial SMS verification reliably, and they do not carry the flags that trigger secondary security prompts on accounts that attract attention.
 
-Setup is direct: download Surfshark, subscribe to Surfshark One, open Alt-Number, select your country and number. The number is active within minutes and receives calls and SMS through the app on your current device. No second SIM required, no [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).
+Setup is direct: download Surfshark, subscribe to [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), open Alt-Number, select your country and number. The number is active within minutes and receives calls and SMS through the app on your current device. No second SIM required, no [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).
 
 For dating profile use specifically, Alt-Number offers something the cheaper alternatives do not: a number that stays active and associated with your account as long as your subscription continues, with no activity-based expiry. If you go three weeks without logging into Facebook, your number does not get recycled. That persistence is what separates this from a throwaway solution.
 

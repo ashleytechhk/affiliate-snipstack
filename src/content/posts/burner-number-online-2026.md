@@ -53,7 +53,7 @@ That is it. No carrier visit. No SIM order. No waiting for a card in the mail.
 
 ### Step 1: Go to the Surfshark Website and Choose a Plan
 
-Navigate to Surfshark's website and select **Surfshark One**. This is the tier that includes Alt-Number. The plan also bundles a VPN, an ad and tracker blocker, and data breach monitoring — but for this guide, the focus is the number feature.
+Navigate to Surfshark's website and select **[Surfshark One](https://snipstack.io/surfshark-one-review-2026/)**. This is the tier that includes Alt-Number. The plan also bundles a VPN, an ad and tracker blocker, and data breach monitoring — but for this guide, the focus is the number feature.
 
 [Get started with Surfshark Alt-Number](/blog/altnumber?sub=burner-number-online-2026__above-fold)
 

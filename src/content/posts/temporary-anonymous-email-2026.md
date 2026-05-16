@@ -26,7 +26,7 @@ Alt-ID creates private [email alias](https://snipstack.io/email-alias-outlook-20
 
 ## What You Need Before You Start
 
-- A Surfshark account (Alt-ID is included in Surfshark One and One+ plans)
+- A Surfshark account (Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and One+ plans)
 - A working email address to receive forwarded messages
 - A web browser or the Surfshark mobile app
 - About 5 minutes

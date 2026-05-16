@@ -48,7 +48,7 @@ A separate US number solves all three. You appear local, matches text without fr
 
 ### Option 1 — Surfshark Alt-Number
 
-Alt-Number is a virtual second-number service included with Surfshark One and Surfshark One+ plans. You get a real US phone number that rings on your existing smartphone, regardless of where in the world you are.
+Alt-Number is a virtual second-number service included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans. You get a real US phone number that rings on your existing smartphone, regardless of where in the world you are.
 
 **How it works:** You pick a US area code, receive a real number assigned to that area, and use it for calls and texts through the Alt-Number interface on your phone. Incoming calls and texts arrive in the Alt-Number app — your local number never appears on the other end.
 

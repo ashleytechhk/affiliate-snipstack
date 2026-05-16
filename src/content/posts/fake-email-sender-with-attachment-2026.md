@@ -58,7 +58,7 @@ You do not need technical knowledge, a running VPN connection, or any special br
 
 ## Step 1 — Sign Up for Surfshark and Access Alt ID
 
-**1.1** Go to Surfshark through the link below and select a plan that includes Alt ID. Both Surfshark One and Surfshark One+ include it:
+**1.1** Go to Surfshark through the link below and select a plan that includes Alt ID. Both [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ include it:
 
 > **[Get started with Surfshark Alt ID](/blog/altid?sub=fake-email-sender-with-attachment-2026__mid)**
 

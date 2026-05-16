@@ -20,7 +20,7 @@ iCloud has a built-in alias feature called **Hide My Email**, and it works well 
 
 The ceiling hits fast the moment you leave Apple's garden. No native Android support. No browser extension for Windows or Chrome. Aliases are tied to your Apple ID, so they move with your iCloud+ subscription status, not with your email habits.
 
-For anyone who uses a mix of devices — or who wants aliases that work on every signup form on every platform — **[Surfshark Alt-ID](/blog/altid?sub=how-to-create-email-alias-icloud-2026__above-fold)** is the cross-platform upgrade. It is included in Surfshark One and takes about five minutes to set up anywhere.
+For anyone who uses a mix of devices — or who wants aliases that work on every signup form on every platform — **[Surfshark Alt-ID](/blog/altid?sub=how-to-create-email-alias-icloud-2026__above-fold)** is the cross-platform upgrade. It is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and takes about five minutes to set up anywhere.
 
 ---
 

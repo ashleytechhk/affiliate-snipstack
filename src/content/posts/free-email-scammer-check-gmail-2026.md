@@ -38,7 +38,7 @@ The limitation: Gmail's warnings only appear for emails that have already been c
 
 Surfshark's Email Scam Checker goes beyond flagging suspicious words. It checks the sender's domain against known fraud databases, evaluates email header authentication (SPF, DKIM, DMARC), and gives you a plain-language verdict you can actually understand. Unlike raw header-reading tools aimed at developers, this one is designed for ordinary people — you paste in the sender address or forwarded email, and it tells you what it found.
 
-The free tier covers a generous number of checks per day, making it practical for daily use without pulling out a credit card. Upgrading to Surfshark One adds real-time breach alerts that tell you if your own email address has appeared in a leaked database — a separate but equally important piece of the security puzzle.
+The free tier covers a generous number of checks per day, making it practical for daily use without pulling out a credit card. Upgrading to [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) adds real-time breach alerts that tell you if your own email address has appeared in a leaked database — a separate but equally important piece of the security puzzle.
 
 [Check a suspicious email address now — free](/blog/surfshark?sub=free-email-scammer-check-gmail-2026__mid)
 

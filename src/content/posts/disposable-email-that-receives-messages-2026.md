@@ -52,7 +52,7 @@ Before starting, decide which type you need:
 - **Persistent alias that receives messages → follow this tutorial with Alt ID**
 
 For the alias setup below, you'll need:
-- A Surfshark account (Alt ID is included in Surfshark One plans)
+- A Surfshark account (Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) plans)
 - A browser or the Surfshark mobile app
 - About three minutes
 

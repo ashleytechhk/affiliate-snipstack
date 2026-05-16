@@ -39,7 +39,7 @@ This guide focuses on the first category — alias-based privacy — because tha
 Before you start, you need:
 
 - A primary email account you want to protect (Gmail, Outlook, iCloud, or any provider)
-- A Surfshark account (Alt ID is included in Surfshark One plans)
+- A Surfshark account (Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) plans)
 - About 5 minutes
 
 You do not need technical knowledge, a VPN running, or any browser extensions beyond what Surfshark provides.

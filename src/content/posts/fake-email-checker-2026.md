@@ -39,7 +39,7 @@ This guide focuses on the second use case, because that is what actually stops s
 
 Before starting, make sure you have:
 
-- An active Surfshark account (the Alt ID feature is included in Surfshark One plans)
+- An active Surfshark account (the Alt ID feature is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) plans)
 - The Surfshark app installed on your device (desktop or mobile)
 - Your primary email address handy — Alt ID forwards messages there, so you still receive legitimate emails
 

@@ -31,7 +31,7 @@ Before you start, have the following ready:
 - For Apple: an iPhone, iPad, or Mac with an active iCloud+ subscription
 - For Firefox Relay: Firefox browser installed; free account available
 - For DuckDuckGo: any device with the DuckDuckGo browser or email app
-- For [Surfshark Alt ID](/blog/altid?sub=hide-email-address-when-signing-up-2026__above-fold): a Surfshark One or One+ plan, and Chrome, Firefox, or Edge
+- For [Surfshark Alt ID](/blog/altid?sub=hide-email-address-when-signing-up-2026__above-fold): a [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) or One+ plan, and Chrome, Firefox, or Edge
 
 ---
 

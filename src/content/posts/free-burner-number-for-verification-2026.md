@@ -115,7 +115,7 @@ Let's be direct about what "free" means for each option.
 
 **Burner:** Trial period with limited credits, then per-line subscription. Adds up quickly if you need multiple active lines for multiple platforms.
 
-**Surfshark Alt-Number:** Paid, bundled inside Surfshark One. The number feature alone is not priced separately — you get the full suite (VPN, [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/), breach alerts, Alt-Number). Positioned as a privacy stack rather than a standalone number tool. If you already use a VPN, the marginal cost of adding a real verified number is low.
+**Surfshark Alt-Number:** Paid, bundled inside [Surfshark One](https://snipstack.io/surfshark-one-review-2026/). The number feature alone is not priced separately — you get the full suite (VPN, [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/), breach alerts, Alt-Number). Positioned as a privacy stack rather than a standalone number tool. If you already use a VPN, the marginal cost of adding a real verified number is low.
 
 **Winner of this criterion:** Google Voice for zero-cost. Alt-Number for best value per feature dollar on a paid plan.
 
