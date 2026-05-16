@@ -26,7 +26,7 @@ Norton and McAfee still deliver solid malware detection but carry years of featu
 
 ## Head-to-Head Comparison Table
 
-| Feature | Surfshark One | Norton 360 Deluxe | McAfee Total Protection | Bitdefender Total Security |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Norton 360 Deluxe | McAfee Total Protection | Bitdefender Total Security |
 |---|---|---|---|---|
 | **Antivirus** | Yes | Yes | Yes | Yes |
 | **VPN included** | Yes (unlimited) | Yes (limited*) | No (add-on) | No (add-on) |

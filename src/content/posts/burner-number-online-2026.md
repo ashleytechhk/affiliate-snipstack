@@ -154,7 +154,7 @@ Contact Surfshark support before canceling. Some plans allow a transition period
 
 | Option | Setup Method | VoIP Flag Risk | Works Globally | Price |
 |---|---|---|---|---|
-| **Surfshark Alt-Number** | App / online | Low | Yes | Bundled with Surfshark One |
+| **Surfshark Alt-Number** | App / online | Low | Yes | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
 | Google Voice | Online | High | US only | Free |
 | Burner App | App | Medium | US/Canada only | Per line |
 | Hushed | App | Medium | 40+ countries | Per line |

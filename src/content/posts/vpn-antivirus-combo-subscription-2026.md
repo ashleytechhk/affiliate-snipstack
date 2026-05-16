@@ -180,7 +180,7 @@ Download the Surfshark app on your phone from the App Store or Google Play and l
 
 ---
 
-## Surfshark One vs. Norton 360 vs. McAfee Total Protection
+## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/). Norton 360 vs. McAfee Total Protection
 
 | Feature | Surfshark One | Norton 360 | McAfee Total Protection |
 |---|---|---|---|

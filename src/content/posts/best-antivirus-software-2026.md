@@ -191,7 +191,7 @@ Yes, as long as you go directly to the company's website. Use the links in this 
 
 **Q: Does antivirus software protect my phone too?**
 
-It depends on the plan. Surfshark Antivirus covers Windows and Mac computers. The Surfshark One bundle also covers Android phones. If you want protection across all your devices — computer, tablet, and phone — Surfshark One is the better choice.
+It depends on the plan. Surfshark Antivirus covers Windows and Mac computers. The [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) bundle also covers Android phones. If you want protection across all your devices — computer, tablet, and phone — Surfshark One is the better choice.
 
 **Q: How do I know the antivirus is actually working?**
 

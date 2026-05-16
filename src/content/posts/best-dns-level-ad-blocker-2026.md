@@ -115,7 +115,7 @@ If you want DNS-level ad blocking without a subscription, you can configure a pu
 
 | Provider | DNS Address | Strengths |
 |---|---|---|
-| AdGuard DNS | dns.adguard-dns.com | Large blocklist, tracker + malware coverage |
+| [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) | dns.adguard-dns.com | Large blocklist, tracker + malware coverage |
 | NextDNS | Your unique URL from nextdns.io | Customizable dashboard, query logs |
 | Cloudflare 1.1.1.2 | security.cloudflare-dns.com | Fast, malware blocking (not ad blocking) |
 | Control D | Free tier available at controld.com | Customizable, free profiles available |
@@ -201,7 +201,7 @@ Safari, Chrome, and apps should now route DNS queries through the filtering serv
 
 Android allows only one VPN active at a time. If you use another VPN app, it will conflict with Surfshark's VPN slot. The fix is to use Surfshark as your VPN — it includes both the VPN and CleanWeb in one connection.
 
-### YouTube ads still appear occasionally
+### [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s still appear occasionally
 
 YouTube periodically adjusts its ad delivery infrastructure. CleanWeb's blocklist updates regularly to keep pace, but brief windows may exist where new ad domains slip through before the list updates. This is a DNS-blocking limitation that affects all solutions — not specific to CleanWeb. Reconnecting to refresh the blocklist sometimes helps.
 

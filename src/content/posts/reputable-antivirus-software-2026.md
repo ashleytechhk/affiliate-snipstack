@@ -30,7 +30,7 @@ Here is how five of the most reputable antivirus options stack up on the feature
 
 | Product | Antivirus | VPN | Breach Alerts | Private Search | Devices | Year-2 Renewal |
 |---|---|---|---|---|---|---|
-| **Surfshark One** | Yes | Yes (unlimited) | Yes | Yes | Unlimited | Multi-year plans; clear terms |
+| **[Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)** | Yes | Yes (unlimited) | Yes | Yes | Unlimited | Multi-year plans; clear terms |
 | Norton 360 Deluxe | Yes | Yes (varies by tier) | Yes | No | 5 | Significant jump |
 | McAfee Total Protection | Yes | Yes (unlimited) | Yes | No | Unlimited | Significant jump |
 | Bitdefender Total Security | Yes | Yes (limited data) | No | No | 5 | Moderate increase |

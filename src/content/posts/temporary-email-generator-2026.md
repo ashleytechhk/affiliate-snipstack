@@ -108,7 +108,7 @@ You never need to return to that inbox. When the address expires, any future mai
 For accounts you actually care about — streaming services, online shopping, newsletters you want to keep — use Alt ID instead.
 
 **Step 1: Get Surfshark.**
-Alt ID is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans. [Start here](/blog/surfshark?sub=temporary-email-generator-2026__mid) if you don't have an account yet.
+Alt ID is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ plans. [Start here](/blog/surfshark?sub=temporary-email-generator-2026__mid) if you don't have an account yet.
 
 **Step 2: Open the Surfshark app and navigate to Alt ID.**
 From the main dashboard, tap or click **Alt ID** in the left sidebar (desktop) or the **Privacy** tab (mobile).

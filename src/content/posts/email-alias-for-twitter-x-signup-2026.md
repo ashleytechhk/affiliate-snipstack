@@ -52,7 +52,7 @@ This is the most commonly suggested workaround. You append a `+tag` to your Gmai
 
 ### Guerrilla Mail and Free Throwaway Services
 
-Sites like Guerrilla Mail, Temp-Mail.org, and 10 Minute Mail generate random throwaway addresses. X actively blocks known throwaway email domains during signup — you'll see an error before the account is created. These services have not been effective for X signup for some time because X (and most major platforms) maintain blocklists of disposable email providers.
+Sites like Guerrilla Mail, Temp-Mail.org, and 10 Minute Mail generate random throwaway addresses. X actively blocks known throwaway email domains during signup — you'll see an error before the account is created. These services have not been effective for X signup for some time because X (and most major platforms) maintain blocklists of [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) providers.
 
 ### Apple Hide My Email
 
@@ -64,7 +64,7 @@ SimpleLogin is an open-source alias service with a free tier. It works for X sig
 
 ### Alt ID
 
-[Alt ID](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid) is Surfshark's masked email alias feature, included with Surfshark subscriptions. It generates forwarding aliases on a clean domain that clears X's filters — no blocklist issues, no rejection at signup. Confirmation emails forward to your real inbox instantly. When you want to stop receiving X's email (or if the address appears in a breach), you delete the alias and X loses its path to your inbox. Alt ID also generates alternative identity details (name, profile info) alongside the alias, which is useful if you're creating an account you don't want tied to your real identity.
+[Alt ID](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid) is Surfshark's masked email alias feature, included with Surfshark subscriptions. It generates forwarding aliases on a clean domain that clears X's filters — no blocklist issues, no rejection at signup. Confirmation emails forward to your real inbox instantly. When you want to [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) X's email (or if the address appears in a breach), you delete the alias and X loses its path to your inbox. Alt ID also generates alternative identity details (name, profile info) alongside the alias, which is useful if you're creating an account you don't want tied to your real identity.
 
 ---
 
@@ -96,7 +96,7 @@ Alt ID avoids this because `surfshark.id` is a legitimate mail domain used by pa
 
 ---
 
-## What Happens to Your Alias After Signup
+## [What Happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to Your Alias After Signup
 
 After creating your X account with the Alt ID alias, the alias becomes your effective email address for that account. Here's what to expect:
 

@@ -48,7 +48,7 @@ You do not need technical knowledge, a VPN running, or any browser extensions be
 
 ## Step 1 — Sign Up for Surfshark and Access Alt ID
 
-**1.1** Go to Surfshark via this link and choose a plan that includes Alt ID (Surfshark One or Surfshark One+):
+**1.1** Go to Surfshark via this link and choose a plan that includes Alt ID ([Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or Surfshark One+):
 
 > **[Get started with Surfshark Alt ID](/blog/surfshark?sub=send-anonymous-email-2026__mid)**
 

@@ -52,7 +52,7 @@ Alt-Number provisions real carrier-backed numbers — the same number type as a 
 
 The setup takes under five minutes: download Surfshark, subscribe to [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), open Alt-Number, pick your country and number, done. The number is active immediately and receives calls and SMS through the app — no second SIM, no second device.
 
-Where Alt-Number pulls ahead economically: it is bundled inside Surfshark One alongside a VPN, an ad and tracker blocker, and data breach monitoring. If you are going to pay for a VPN anyway — and most privacy-aware users do — the marginal cost of adding a real second number is close to zero. Standalone number apps at comparable quality cost roughly the same per month just for the number.
+Where Alt-Number pulls ahead economically: it is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) alongside a VPN, an ad and tracker blocker, and data breach monitoring. If you are going to pay for a VPN anyway — and most privacy-aware users do — the marginal cost of adding a real second number is close to zero. Standalone number apps at comparable quality cost roughly the same per month just for the number.
 
 Numbers persist with your subscription and do not carry inactivity penalties. Support is Surfshark's standard support — live chat available, response time measured in hours rather than days.
 

@@ -48,7 +48,7 @@ None of these features scan for viruses inside your phone. But they do protect a
 | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Mobile | Yes | Yes | Yes | Yes (200 MB/day limit) | ~$30 |
 | Lookout | Yes | Yes | Yes | Premium tier only | ~$30–$100 |
 | McAfee Mobile Security | Yes | Yes | Yes | Yes | ~$30 |
-| Surfshark One | Yes (via Alert) | Via VPN | Yes (Alert) | Yes (unlimited) | ~$56 |
+| [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Yes (via Alert) | Via VPN | Yes (Alert) | Yes (unlimited) | ~$56 |
 
 *Prices based on introductory offers. Always check the provider's current pricing before purchasing.*
 

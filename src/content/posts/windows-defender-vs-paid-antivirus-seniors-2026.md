@@ -122,7 +122,7 @@ Surfshark Antivirus is simple to install. You do not need to be a tech person. H
 
 That is it. Surfshark and Defender will work together — you do not have to turn Defender off.
 
-### What About Surfshark One?
+### What About [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)?
 
 Surfshark also offers a bundle called **Surfshark One** that adds:
 - A VPN (keeps your browsing private, especially on public Wi-Fi)

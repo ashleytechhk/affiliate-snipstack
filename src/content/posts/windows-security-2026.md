@@ -115,7 +115,7 @@ If any of these apply, Windows Security alone is not enough for your situation.
 - **Alternative ID** — Generates a private email address for signing up to websites, keeping your real address safe from spam and scammers
 - **Works on Windows, Mac, iPhone, and Android** — One subscription covers all your devices
 
-Compared to [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) or McAfee Total Protection, Surfshark One typically costs less — without cutting the features seniors actually need.
+Compared to [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) or McAfee Total Protection, [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) typically costs less — without cutting the features seniors actually need.
 
 ![Surfshark One setup on Windows — 3-step installation guide for seniors](/og/windows-security-2026-inline-2.png)
 

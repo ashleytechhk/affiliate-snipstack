@@ -38,7 +38,7 @@ That's the real battleground. Here's how the three main options stack up.
 
 ---
 
-## Comparison Table: Surfshark One vs. Norton 360 vs. McAfee Total Protection
+## Comparison Table: [Surfshark One vs](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/). Norton 360 vs. McAfee Total Protection
 
 ![Antivirus software for iPhone comparison overview](/og/antivirus-software-for-iphone-2026.png)
 

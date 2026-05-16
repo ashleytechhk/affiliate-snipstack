@@ -68,7 +68,7 @@ Use this decision tree:
 - **Free and don't mind VOIP limitations?** → Google Voice or TextNow
 - **Short-term need (a few weeks)?** → Hushed pay-per-week plan
 - **Long-term dating privacy with no ads and a real number?** → [Alt Number](https://snipstack.io/blog/altnumber?sub=get-a-second-number-for-texting-2026__mid)
-- **Already pay for a VPN?** → Alt Number bundles with Surfshark One, so you're probably not paying extra
+- **Already pay for a VPN?** → Alt Number bundles with [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/), so you're probably not paying extra
 
 Lock in your choice before moving on — each setup flow below is specific to the provider.
 

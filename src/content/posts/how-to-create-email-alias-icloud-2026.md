@@ -136,7 +136,7 @@ Hide My Email is a well-built feature for what it covers. But there are real lim
 
 ## The Cross-Platform Alternative: Surfshark Alt-ID
 
-**[Surfshark Alt-ID](/blog/altid?sub=how-to-create-email-alias-icloud-2026__mid)** is a masked [email alias](https://snipstack.io/free-email-alias-2026/) service bundled inside Surfshark One. It forwards to any inbox — iCloud, Gmail, Outlook, anything — and works from every device through the Surfshark browser extension or web dashboard.
+**[Surfshark Alt-ID](/blog/altid?sub=how-to-create-email-alias-icloud-2026__mid)** is a masked [email alias](https://snipstack.io/free-email-alias-2026/) service bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/). It forwards to any inbox — iCloud, Gmail, Outlook, anything — and works from every device through the Surfshark browser extension or web dashboard.
 
 Where Hide My Email hits the Apple-only wall, Alt-ID keeps going:
 
@@ -206,7 +206,7 @@ It depends on your setup. If you use only Apple devices and have iCloud+, Hide M
 
 You can access icloud.com on an Android browser and manage existing aliases, but the seamless in-app creation flow — where an alias pops up automatically in a sign-up form — is Apple-ecosystem only. For Android-native alias support, Alt-ID is the more practical choice.
 
-### Do iCloud email aliases expire automatically?
+### Do iCloud [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/)es expire automatically?
 
 No. iCloud Hide My Email aliases are permanent until you manually deactivate or delete them. Deactivated aliases stop forwarding but remain in your list. Deleted aliases cannot be recovered.
 

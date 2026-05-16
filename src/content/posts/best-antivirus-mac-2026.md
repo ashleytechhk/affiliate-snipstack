@@ -184,7 +184,7 @@ For anyone on a fixed budget, the affordable yearly plan is the most practical c
 | Scam website blocking | Safari only | All browsers |
 | Webcam protection | No | Yes |
 | Phishing email alerts | No | Yes |
-| Public Wi-Fi protection (VPN) | No | With Surfshark One |
+| Public Wi-Fi protection (VPN) | No | With [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
 | Dark web email alerts | No | With Surfshark One |
 
 Apple's built-in tools handle the basics. Surfshark fills the rest.

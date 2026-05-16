@@ -117,7 +117,7 @@ Burner works best as a situational tool — a number for a specific context that
 
 TextNow gives you a free US phone number with unlimited calling and texting over Wi-Fi — the trade-off is ads. It works like a basic [second phone](https://snipstack.io/second-phone-number-app-free-2026/) line and is popular with budget-conscious users who want a secondary number without any monthly cost. There's a paid tier that removes ads and adds features like call forwarding.
 
-The free tier is genuinely functional for casual use, but TextNow numbers are VoIP and get flagged by most verification systems. The app itself is more polished than it used to be, and the Wi-Fi calling quality has improved. For anyone primarily using their virtual number for personal communication — not for app verification or professional use — TextNow is a low-friction entry point.
+The free tier is genuinely functional for casual use, but TextNow numbers are VoIP and get flagged by most verification systems. The app itself is more polished than it used to be, and the Wi-Fi calling quality has improved. For anyone primarily using their [virtual number for](https://snipstack.io/virtual-number-for-signal-registration-2026/) personal communication — not for app verification or professional use — TextNow is a low-friction entry point.
 
 **Best for:** Budget users wanting free calls and texts on a secondary US number.
 **Supported countries:** US/Canada.

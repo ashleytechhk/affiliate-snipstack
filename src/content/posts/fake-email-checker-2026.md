@@ -153,7 +153,7 @@ Create a new Alt ID, update that service's account email to the new alias, and t
 In common usage, it refers to either a tool that detects [disposable email address](https://snipstack.io/disposable-email-address-for-trials-2026/)es or a service that lets you generate one. For inbox protection, you want the second type — a tool like Alt ID that gives you a functional alternate address you control.
 
 **Is Alt ID free?**
-Alt ID is included in Surfshark One and Surfshark One+ subscription plans. There is no standalone free tier, but the plans include a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts alongside Alt ID — making the bundle strong value for the price. **[See current pricing here.](/blog/surfshark?sub=fake-email-checker-2026__faq)**
+Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) and Surfshark One+ subscription plans. There is no standalone free tier, but the plans include a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts alongside Alt ID — making the bundle strong value for the price. **[See current pricing here.](/blog/surfshark?sub=fake-email-checker-2026__faq)**
 
 **Will Alt ID work for two-factor authentication emails?**
 Yes. Because Alt ID forwards emails in real time to your real inbox, any 2FA code or one-time password sent to your Alt ID address will arrive in your inbox within seconds, just like a normal email.

@@ -112,7 +112,7 @@ It is the most thorough option available, but also the most complex. Setting up 
 
 | Option | Calls + SMS | VoIP Flag Risk | Price | Best For |
 |---|---|---|---|---|
-| **Surfshark Alt-Number** | Yes | Low | Bundled with Surfshark One | All-round privacy |
+| **Surfshark Alt-Number** | Yes | Low | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | All-round privacy |
 | Google Voice | Yes | High | Free | Casual / budget |
 | Burner | Yes | Medium | Per line | Short-term use |
 | Hushed | Yes | Medium | Per line / lifetime | International numbers |

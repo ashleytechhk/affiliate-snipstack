@@ -60,7 +60,7 @@ The other reason: **data.** Dating apps have had multiple significant data breac
 
 Alt-Number provisions real carrier-backed numbers — the same underlying infrastructure as a physical SIM, without the second SIM or second device. From a dating app's perspective, the number is indistinguishable from a standard mobile line. That matters because Tinder, Bumble, Hinge, and Hily all run number-type checks during SMS verification. VoIP numbers are increasingly rejected. Carrier-backed numbers are not.
 
-Setup is fast: download Surfshark, subscribe to Surfshark One, open Alt-Number, pick a country and area code, done. The number is live immediately and handles both calls and SMS through the app.
+Setup is fast: download Surfshark, subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/), open Alt-Number, pick a country and area code, done. The number is live immediately and handles both calls and SMS through the app.
 
 For online dating specifically, three things stand out:
 
@@ -68,7 +68,7 @@ For online dating specifically, three things stand out:
 
 **Contact management inside the app.** You can mute, block, or archive conversations within Alt-Number without touching your real phone contacts. Your primary inbox stays clean. Your Alt-Number inbox holds your dating conversations separately.
 
-**Bundled value.** Alt-Number is included inside Surfshark One, which also covers a VPN, a tracker and ad blocker, and data breach monitoring. If you are going to pay for any privacy tools — and most people dating online should consider it — the incremental cost of a carrier number on top is close to zero.
+**Bundled value.** Alt-Number is included inside [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), which also covers a VPN, a tracker and [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/), and data breach monitoring. If you are going to pay for any privacy tools — and most people dating online should consider it — the incremental cost of a carrier number on top is close to zero.
 
 The number does not expire due to inactivity. It persists with your subscription. Support is Surfshark's standard support, which is live chat with response times measured in hours.
 

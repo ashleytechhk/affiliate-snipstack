@@ -138,7 +138,7 @@ The Alt-Number setup takes under five minutes:
 4. Choose your country and pick a number from the available list.
 5. The number is active immediately — it receives calls and SMS through the app.
 
-From that point, the number is your dating number. Give it to matches when you are ready to move off the app. Do not give it to anyone else. When a match runs their course — good or bad — you control what happens to that number. Nothing about your real identity is connected to it.
+From that point, the number is your dating number. Give it to matches when you are ready to move off the app. Do not give it to anyone else. When a match runs their course — good or bad — you control [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to that number. Nothing about your real identity is connected to it.
 
 ---
 
@@ -150,11 +150,11 @@ A carrier-backed second number like Alt-Number is issued through Surfshark's tel
 
 ### Will my dating app accept a second number for account creation?
 
-It depends on the number type. Tinder, Hinge, and Bumble use verification layers that screen out VoIP ranges — Google Voice, TextNow, and most Burner numbers fall into those ranges and get rejected. Carrier-backed numbers like Alt-Number pass these checks because they are not in the VoIP blocklists. If you need to create or verify a dating app account with your second number, carrier-backed is the requirement, not a nice-to-have.
+It depends on the number type. Tinder, Hinge, and Bumble use verification layers that screen out VoIP ranges — Google Voice, TextNow, and most [Burner number](https://snipstack.io/burner-number-online-2026/)s fall into those ranges and get rejected. Carrier-backed numbers like Alt-Number pass these checks because they are not in the VoIP blocklists. If you need to create or verify a dating app account with your second number, carrier-backed is the requirement, not a nice-to-have.
 
 ### Can I [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) number on the same phone without a second SIM?
 
-Yes. This is exactly what Alt-Number, Hushed, and Burner App do. You download the app, subscribe, and get a working phone number — calls and texts arrive through the app on your existing device. No SIM tray involved, no second phone required. The number is as functional as your real line for calls, SMS, and app verification.
+Yes. This is exactly what Alt-Number, Hushed, and Burner App do. You download the app, subscribe, and get a working phone number — calls and texts arrive through the app on your existing device. No SIM tray involved, no [second phone](https://snipstack.io/second-phone-number-iphone-2026/) required. The number is as functional as your real line for calls, SMS, and app verification.
 
 ### What happens if I give a match my second number and then want to cut contact?
 

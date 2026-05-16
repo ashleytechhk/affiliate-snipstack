@@ -127,7 +127,7 @@ Note on Alt-Number: it lives inside the Surfshark app rather than as a standalon
 3. From the bottom navigation, tap **Alt-Number**.
 4. Choose your preferred country for the number.
 5. Select a number from the available options.
-6. Alt-Number is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans — if you're not already subscribed, you'll see plan options here.
+6. Alt-Number is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ plans — if you're not already subscribed, you'll see plan options here.
 7. Confirm and activate. Your number is ready to use for calls and texts directly from the app.
 
 **[Set up Alt-Number on your iPhone →](/blog/altnumber?sub=burner-phone-number-app-ios-2026__mid)**

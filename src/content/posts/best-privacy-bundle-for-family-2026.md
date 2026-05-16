@@ -25,7 +25,7 @@ This guide walks you through exactly how to switch your family to a single priva
 If you are paying for Norton 360, Norton Family, McAfee Total Protection, or any combination of antivirus + VPN + identity protection from separate vendors, this guide is written for you. By the end of it, you will have:
 
 - Cancelled your existing subscription(s) at the right time to avoid double-billing
-- Installed Surfshark One on every device in your household
+- Installed [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) on every device in your household
 - Set up Alt-ID and Alt-Number so your family stops handing out real email addresses and phone numbers to every website that asks
 - Confirmed everything is working with one quick test
 

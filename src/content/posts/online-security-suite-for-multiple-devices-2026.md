@@ -28,7 +28,7 @@ Going through this process once, correctly, saves you from having conflicting se
 
 **Before you begin, check the following:**
 
-1. **Count your devices.** List every machine that needs coverage: Windows laptop, Mac, work machine, partner's phone, family tablet. The total matters because legacy suites charge per-device tiers, while Surfshark One covers all of them.
+1. **Count your devices.** List every machine that needs coverage: Windows laptop, Mac, work machine, partner's phone, family tablet. The total matters because legacy suites charge per-device tiers, while [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) covers all of them.
 
 2. **Note your current renewal date.** If Norton or McAfee auto-renews in the next 30 days, add cancelling to your to-do list now. Missing the window by 48 hours means paying another year.
 

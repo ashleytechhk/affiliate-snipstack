@@ -60,7 +60,7 @@ Before you start, decide which scenario applies to you:
 - **"I'm signing up for a streaming/software trial with a credit card. I want receipts but no spam."** → Use Surfshark Alt ID (Steps 3–5).
 - **"I'm on Apple devices and already pay for iCloud+."** → Use Hide My Email (Step 6).
 
-You don't need to install anything for the temporary options. For Alt ID, you need a [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) or Surfshark One+ subscription.
+You don't need to install anything for the temporary options. For Alt ID, you need a [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) or [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ subscription.
 
 ---
 

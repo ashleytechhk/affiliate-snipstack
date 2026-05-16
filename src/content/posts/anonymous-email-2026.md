@@ -34,7 +34,7 @@ No technical skills required. No command line. No DNS records to configure.
 
 ## Step 1 — Create Your Surfshark Account
 
-If you do not already have a Surfshark account, head to the signup page and choose a plan that includes Alt-ID (Surfshark One or One+).
+If you do not already have a Surfshark account, head to the signup page and choose a plan that includes Alt-ID ([Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or One+).
 
 **[Start your Alt-ID setup here](/blog/surfshark?sub=anonymous-email-2026__mid)**
 

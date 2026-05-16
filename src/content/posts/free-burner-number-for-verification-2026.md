@@ -135,7 +135,7 @@ When you need a number to sign up for something right now, setup friction matter
 
 **Burner:** 3-5 minutes. App is polished and the number issuance is fast.
 
-**Surfshark Alt-Number:** 3-5 minutes if you already have a Surfshark account. Slightly longer for new users who are also signing up for Surfshark One. The number provisioning itself — once logged in — is under 2 minutes.
+**Surfshark Alt-Number:** 3-5 minutes if you already have a Surfshark account. Slightly longer for new users who are also signing up for [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/). The number provisioning itself — once logged in — is under 2 minutes.
 
 **Winner of this criterion:** A near-tie across the board. All services deliver a working number within 5 minutes.
 

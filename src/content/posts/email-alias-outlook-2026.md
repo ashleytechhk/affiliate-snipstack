@@ -80,7 +80,7 @@ For anyone dealing with serious spam volume, Microsoft's 10-alias limit is a har
 
 ### Step 1 — Get Surfshark with Alt-ID
 
-Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans. [Start here](/blog/surfshark?sub=email-alias-outlook-2026__mid) and choose the plan that suits you. During setup, you will create a Surfshark account — use your real Outlook address here, because this is the address your alias mail gets forwarded to.
+Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ plans. [Start here](/blog/surfshark?sub=email-alias-outlook-2026__mid) and choose the plan that suits you. During setup, you will create a Surfshark account — use your real Outlook address here, because this is the address your alias mail gets forwarded to.
 
 ### Step 2 — Access the Alt-ID Dashboard
 

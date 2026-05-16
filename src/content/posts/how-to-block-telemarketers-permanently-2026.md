@@ -44,7 +44,7 @@ None of this requires the app to do anything malicious. It's the predictable res
 Before running through the steps, make sure you have:
 
 - A smartphone (iOS or Android)
-- A Surfshark account — Alt-Number is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans
+- A Surfshark account — Alt-Number is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ plans
 - The Surfshark app installed on your device
 - About 10 minutes
 

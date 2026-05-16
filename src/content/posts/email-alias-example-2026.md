@@ -112,7 +112,7 @@ Once your address is in the wild, you cannot get it back. The only real fix is t
 
 ---
 
-## How Email Aliases Actually Work (The Technical Version, Simplified)
+## How [Email Alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/)es Actually Work (The Technical Version, Simplified)
 
 You do not need to understand DNS to use aliases, but here is a one-paragraph version for anyone curious.
 
@@ -124,7 +124,7 @@ When you disable or delete an alias, the mail servers stop accepting messages to
 
 ## Setting Up Email Aliases with Surfshark Alt-ID
 
-[Surfshark Alt-ID](/blog/altid?sub=email-alias-example-2026__mid) is the alias tool included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ subscriptions. It is the simplest way to start using aliases without any technical configuration.
+[Surfshark Alt-ID](/blog/altid?sub=email-alias-example-2026__mid) is the alias tool included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ subscriptions. It is the simplest way to start using aliases without any technical configuration.
 
 ### Step 1 — Get a Surfshark One subscription
 

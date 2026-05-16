@@ -61,7 +61,7 @@ Not all alias services are equal. Here is a quick comparison of the main options
 
 [Surfshark Alt-ID](/blog/altid?sub=email-alias-sign-2026__mid) stands out for one practical reason: it bundles alias generation with an identity randomizer that produces a matching fake name, birthdate, and profile photo. When you sign up somewhere sketchy, you can fill the entire form with fictional details — not just a fictional email address. That full-layer separation is hard to get from a standalone alias tool.
 
-It ships inside Surfshark One alongside a VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/) protection, so you are not paying for a single-trick product.
+It ships inside [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) alongside a VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/) protection, so you are not paying for a single-trick product.
 
 ---
 

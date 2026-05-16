@@ -168,7 +168,7 @@ Yes — and you should. The best practice is one unique alias per store. Tools l
 **What happens if I delete an alias?**
 Any email sent to a deleted alias bounces back to the sender. Your real inbox stops receiving anything from that address. This is more effective than unsubscribing because it leaves no trace that your real address exists. [Alt ID makes deletion a single tap.](/blog/altid?sub=email-alias-for-online-shopping-2026__faq)
 
-**Do email aliases work with loyalty programs and reward accounts?**
+**Do [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/)es work with loyalty programs and reward accounts?**
 Yes, with one caveat: keep a record of which alias you used for each loyalty account. If you ever need to recover access or transfer points, you will need the alias address. Surfshark Alt ID's in-app list makes this easy to track.
 
 **Will email aliases protect me from data breaches?**

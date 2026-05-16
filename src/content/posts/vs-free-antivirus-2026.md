@@ -22,7 +22,7 @@ Free [antivirus software](https://snipstack.io/antivirus-software-for-iphone-202
 
 ## How the Main Free Options Stack Up
 
-| Feature | Windows Defender | [Avast Free](https://snipstack.io/avast-free-antivirus-2026/) | AVG Free | Malwarebytes Free | Surfshark One |
+| Feature | Windows Defender | [Avast Free](https://snipstack.io/avast-free-antivirus-2026/) | AVG Free | Malwarebytes Free | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
 |---|---|---|---|---|---|
 | Real-time malware protection | Yes | Yes | Yes | Scan-only (no real-time) | Yes |
 | VPN included | No | Limited (200 MB/day) | No | No | Yes (unlimited) |

@@ -120,7 +120,7 @@ In the DuckDuckGo app, go to **Settings → Email Protection** to see your forwa
 
 ![Surfshark Alt ID browser extension generating a masked email address and alternative identity on a sign-up form](/og/hide-email-address-when-signing-up-2026-inline-1.png)
 
-[Surfshark Alt ID](/blog/altid?sub=hide-email-address-when-signing-up-2026__mid) does more than mask an email address. It generates an alternative identity — a fake name, date of birth, and masked email — that you can use across any site on any device. It is not Apple-only, not browser-specific, and it ships bundled with Surfshark One and One+ plans.
+[Surfshark Alt ID](/blog/altid?sub=hide-email-address-when-signing-up-2026__mid) does more than mask an email address. It generates an alternative identity — a fake name, date of birth, and masked email — that you can use across any site on any device. It is not Apple-only, not browser-specific, and it ships bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) and One+ plans.
 
 ### Step 1 — Subscribe to Surfshark One or One+
 

@@ -100,7 +100,7 @@ Studying for any of these certifications means you are spending more time online
 
 ![Surfshark One Bundle feature comparison](/og/cyber-security-certifications-2026-inline-2.png)
 
-Surfshark One Bundle is built differently. It combines:
+[Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) Bundle is built differently. It combines:
 
 - **VPN** with a strict no-logs policy, RAM-only servers, and NoBorders mode for restrictive networks
 - **Antivirus** with real-time malware scanning — lightweight, not the system-hogging background process Norton runs

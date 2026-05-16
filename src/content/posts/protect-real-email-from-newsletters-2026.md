@@ -40,7 +40,7 @@ The table tells the story. Alt-ID is the only method that ticks all five boxes. 
 
 ## Method 1: Alt-ID Masked [Email Alias](https://snipstack.io/email-alias-to-avoid-spam-2026/)
 
-Alt-ID generates a unique email alias — something like `hazel.brook4729@altid.surfshark.net` — that forwards all incoming mail to your real inbox. The newsletter sees only the alias. Your actual Gmail, Outlook, or Apple Mail address stays hidden.
+Alt-ID generates a unique [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/) — something like `hazel.brook4729@altid.surfshark.net` — that forwards all incoming mail to your real inbox. The newsletter sees only the alias. Your actual Gmail, Outlook, or Apple Mail address stays hidden.
 
 **Why it works for newsletters specifically:**
 
@@ -82,7 +82,7 @@ The classic approach: create a second Gmail account — `yourname.newsletters@gm
 
 - You have to actively check the junk inbox to retrieve anything useful (a promo code, a shipping confirmation from a newsletter brand you actually like). Most people stop checking within a month.
 - When the junk inbox gets too full to manage, you're back to square one — except now you have two email accounts to deal with.
-- The junk address is still a permanent email address. It accumulates spam, gets breached, and can be linked to your real identity if you've used the same name or phone number during signup.
+- The junk address is still a permanent email address. It accumulates spam, gets breached, and can be linked to your real identity if you've used the same name or [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) during signup.
 - You cannot kill it without losing everything on that account.
 
 A secondary Gmail solves inbox hygiene at the cost of creating a second inbox management problem.
@@ -119,7 +119,7 @@ Free throwaway email is a tool for a five-minute problem. Newsletter spam is a m
 
 ---
 
-## How to Set Up Alt-ID for Newsletter Protection
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt-ID for Newsletter Protection
 
 ![Step-by-step: creating a newsletter alias in the Alt-ID dashboard, then using it on a newsletter signup form](/og/protect-real-email-from-newsletters-2026-inline-2.png)
 

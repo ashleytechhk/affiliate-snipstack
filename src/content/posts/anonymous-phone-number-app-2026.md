@@ -161,7 +161,7 @@ Yes. This is one of its main advantages over free alternatives like Google Voice
 
 **How much does it cost?**
 
-Pricing varies by region and plan. Alt-Number is available as a standalone product or bundled with Surfshark One, which includes a VPN, antivirus, and identity monitoring tools. The bundle typically works out to a better per-feature cost if you'd use more than one tool. Check the current pricing at the official site — Surfshark runs promotions regularly.
+Pricing varies by region and plan. Alt-Number is available as a standalone product or bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/), which includes a VPN, antivirus, and identity monitoring tools. The bundle typically works out to a better per-feature cost if you'd use more than one tool. Check the current pricing at the official site — Surfshark runs promotions regularly.
 
 ---
 

@@ -60,7 +60,7 @@ Nord's ID protection add-on exists but requires a separate subscription on top o
 
 Norton's positioning in this space is strong on paper. LifeLock integration gives you multi-bureau credit monitoring, $1M identity theft insurance (terms apply), and live restoration specialists. In practice, it's the most complete ID protection in this category. It's also the most expensive — standard plans run $100–200/year — and the software itself is routinely criticized for being resource-heavy and difficult to fully uninstall. If you have a recent Mac and a fast machine, you might not notice. On older hardware, you will.
 
-### Surfshark One
+### [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)
 
 Surfshark One is the all-in-one bundle that combines Surfshark VPN, Surfshark Alert (dark web monitoring and breach alerts), Surfshark Antivirus, and the Alternative ID feature (masked email and identity for online sign-ups). The total price is significantly below Norton 360's equivalent tier, often competitive with a standalone VPN subscription alone.
 

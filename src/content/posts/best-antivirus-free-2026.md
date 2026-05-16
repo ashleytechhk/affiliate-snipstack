@@ -112,7 +112,7 @@ Most free antivirus tools only cover the device you install them on. If you shar
 - **24/7 customer support** — live chat anytime, no wait, no phone tree
 - **Unlimited devices** — covers your computer, phone, tablet, and your family's too, all under one plan
 
-**How to set up Surfshark One (Step by step):**
+**How to set up [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) (Step by step):**
 
 1. Visit [Surfshark One](/blog/surfshark?sub=best-antivirus-free-2026__mid) and choose a plan.
 2. Create your account using your email address and a password you will remember.

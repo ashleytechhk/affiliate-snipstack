@@ -102,7 +102,7 @@ The free tier has no sign-in requirement for URL scans and covers the vast major
 
 The tools above are reactive — you use them after a suspicious email arrives. Surfshark Alert flips the model. It monitors your email address around the clock against a continuously updated breach database, and sends you a notification the moment your address appears in a new data leak. You find out about threats before scammers start sending targeted emails, not after.
 
-Alert is bundled inside Surfshark One, which also includes the [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) products. If you already use Surfshark for privacy, the scam-check and monitoring features are included at no extra cost. If you are new to Surfshark, a free trial lets you test Alert without committing.
+Alert is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/), which also includes the [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) products. If you already use Surfshark for privacy, the scam-check and monitoring features are included at no extra cost. If you are new to Surfshark, a free trial lets you test Alert without committing.
 
 ![Surfshark Alert and Email Scam Checker — feature comparison cards](/og/free-email-scammer-check-gmail-2026-inline-2.png)
 

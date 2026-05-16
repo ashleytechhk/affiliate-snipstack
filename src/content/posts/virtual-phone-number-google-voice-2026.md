@@ -31,7 +31,7 @@ Before comparing products, it helps to be honest about the threat model. When yo
 - **Your social graph** — WhatsApp, Telegram, and iMessage surface profile photos tied to your number
 - **Persistent contact** — if the date goes badly, blocking becomes harder when they have your real number
 
-A virtual number is a firewall. Calls and texts come through, but your actual identity stays behind the glass.
+A [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) is a firewall. Calls and texts come through, but your actual identity stays behind the glass.
 
 ---
 
@@ -176,4 +176,4 @@ Google Voice numbers are frequently rejected by dating apps (Tinder, Hinge, Bumb
 With Google Voice, you can delete the number from your account settings (though Google retains associated call and text metadata). With Alt-Number, you can disable or replace the number inside your Surfshark dashboard. Either way, once the number is gone, incoming calls and texts simply fail to connect — your match cannot reach you through that number anymore.
 
 **Do I need Surfshark VPN to use Alt-Number?**
-Alt-Number is available as a standalone feature or as part of the Surfshark One bundle. You do not need to run the VPN to use the number. However, if privacy is your main concern, combining Alt-Number with the VPN gives you both number privacy and traffic privacy simultaneously.
+Alt-Number is available as a standalone feature or as part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) bundle. You do not need to run the VPN to use the number. However, if privacy is your main concern, combining Alt-Number with the VPN gives you both number privacy and traffic privacy simultaneously.

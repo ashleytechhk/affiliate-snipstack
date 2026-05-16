@@ -48,7 +48,7 @@ A good iPhone security app addresses all five. A bloated legacy suite addresses 
 
 ---
 
-## Feature Comparison: Surfshark One vs. Norton Mobile vs. McAfee Mobile
+## Feature Comparison: [Surfshark One vs](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/). Norton Mobile vs. McAfee Mobile
 
 | Feature | Surfshark One Bundle | Norton Mobile Security | McAfee Mobile Security |
 |---|---|---|---|

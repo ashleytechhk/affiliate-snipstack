@@ -36,7 +36,7 @@ Before you begin, check these three things:
 
 2. **App Store access** — You need access to the App Store in a supported region to download Surfshark. Alt-Number is included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/); you will subscribe through the app.
 
-3. **Payment method** — A credit card, debit card, or App Store balance ready for the Surfshark One subscription.
+3. **Payment method** — A credit card, debit card, or App Store balance ready for the [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) subscription.
 
 **Optional: Dual-SIM or eSIM iPhone** — If you want a fully separate carrier line (not an app-based number), your iPhone needs to support eSIM. The iPhone XS and newer models support eSIM. However, the Alt-Number method in this guide works on any iPhone without eSIM — the number lives in the app, not on the hardware.
 

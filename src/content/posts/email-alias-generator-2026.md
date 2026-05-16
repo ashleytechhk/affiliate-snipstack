@@ -87,7 +87,7 @@ For people receiving 50+ spam emails a day, a 10-alias cap and a blocklist probl
 
 ### Step 1 — Get Surfshark with Alt-ID
 
-Go to [Surfshark's Alt-ID page](/blog/altid?sub=email-alias-generator-2026__mid) and subscribe to a Surfshark One or One+ plan. During account creation, use your real email address — this is the inbox your alias mail will forward to.
+Go to [Surfshark's Alt-ID page](/blog/altid?sub=email-alias-generator-2026__mid) and subscribe to a [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or One+ plan. During account creation, use your real email address — this is the inbox your alias mail will forward to.
 
 ### Step 2 — Install the Surfshark Browser Extension
 
@@ -177,7 +177,7 @@ Make sure the Surfshark extension is enabled and you are signed in. Some sign-up
 **What is an [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) generator?**
 An [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) generator creates a secondary email address that forwards messages to your real inbox. You use the alias on sign-up forms so websites and apps never see your actual address. If the alias starts attracting spam, you delete it without touching your real account.
 
-**Are email aliases legal to use?**
+**Are [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/)es legal to use?**
 Yes. Using an alias or masked email address is legal. You are simply choosing which address to share, the same way you might use a work number instead of your personal mobile. Some services prohibit [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) addresses in their terms of service, but using one is not a legal violation.
 
 **Can websites detect and block alias addresses?**

@@ -74,7 +74,7 @@ Reusing the same password across multiple websites is a major security risk. Man
 
 The table below compares what you get with Windows Defender by itself versus pairing it with a full security suite.
 
-| Feature | Windows Defender (Free) | Defender + Surfshark One |
+| Feature | Windows Defender (Free) | Defender + [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
 |---|---|---|
 | Antivirus / Malware Scanning | Yes | Yes (dual-layer) |
 | Ransomware Protection | Basic | Yes |

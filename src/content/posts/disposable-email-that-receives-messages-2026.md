@@ -115,7 +115,7 @@ All three are alias services — they all deliver email to your real inbox. The 
 
 **Firefox Relay** offers five free aliases, then requires a paid tier. It integrates directly into Firefox's autofill, which is handy. But the free tier limit means you'll run out quickly if you sign up for many services.
 
-**Surfshark Alt ID** is device-agnostic, works with any email provider, and is included in the Surfshark One bundle alongside [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). If you're already paying for Surfshark, Alt ID costs nothing extra. The identity generation feature — randomized name and birthdate in addition to the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) — also makes it useful for forms that ask for more than just an address.
+**Surfshark Alt ID** is device-agnostic, works with any email provider, and is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) bundle alongside [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). If you're already paying for Surfshark, Alt ID costs nothing extra. The identity generation feature — randomized name and birthdate in addition to the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) — also makes it useful for forms that ask for more than just an address.
 
 ![Side-by-side comparison of Alt ID, Hide My Email, and Firefox Relay](/og/disposable-email-that-receives-messages-2026-inline-2.png)
 

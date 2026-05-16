@@ -37,7 +37,7 @@ No technical knowledge required. This tutorial takes roughly five minutes end to
 ## Step 1 — Create or Log In to Your Surfshark Account
 
 1. Go to **[Surfshark via this link](/blog/surfshark?sub=temporary-email-and-password-free-2026__above-fold)** to start a free trial or log in if you already have an account.
-2. Choose the **Surfshark One** or **One+** plan — both include Alt ID. The basic VPN-only plan does not include it.
+2. Choose the **[Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)** or **One+** plan — both include Alt ID. The basic VPN-only plan does not include it.
 3. Complete sign-up with your real email address. This is the inbox where forwarded messages will land later.
 4. Confirm your email address when the verification message arrives.
 

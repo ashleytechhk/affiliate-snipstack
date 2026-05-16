@@ -84,7 +84,7 @@ This is the method worth using for anything beyond a single throwaway signup.
 
 ## Step 3 — Create Your Surfshark Account
 
-If you do not already have a Surfshark account, sign up for a plan that includes Alt-ID — Surfshark One or One+.
+If you do not already have a Surfshark account, sign up for a plan that includes Alt-ID — [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or One+.
 
 **[Start your Alt-ID setup here](/blog/altid?sub=temporary-anonymous-email-2026__mid)**
 

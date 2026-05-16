@@ -48,7 +48,7 @@ A separate US number solves all three. You appear local, matches text without fr
 
 ### Option 1 — Surfshark Alt-Number
 
-Alt-Number is a virtual second-number service included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and Surfshark One+ plans. You get a real US phone number that rings on your existing smartphone, regardless of where in the world you are.
+Alt-Number is a virtual second-number service included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ plans. You get a real US phone number that rings on your existing smartphone, regardless of where in the world you are.
 
 **How it works:** You pick a US area code, receive a real number assigned to that area, and use it for calls and texts through the Alt-Number interface on your phone. Incoming calls and texts arrive in the Alt-Number app — your local number never appears on the other end.
 
@@ -77,7 +77,7 @@ Google Voice gives you a free US phone number tied to your Google account. It's 
 - Links to your Google account
 
 **Limitations for online daters:**
-- Google Voice numbers are widely known as virtual numbers — some people and apps treat them with suspicion
+- Google Voice numbers are widely known as [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/)s — some people and apps treat them with suspicion
 - You cannot fully separate it from your Google identity
 - Setup requires a US phone number to verify the account in the first place (a circular problem if you're outside the US)
 - Customer support is minimal; account suspensions for "unusual activity" happen without warning

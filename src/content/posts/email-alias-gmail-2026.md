@@ -37,7 +37,7 @@ A proper alias tool gives you a completely different address — something like 
 ## What You Need Before You Start
 
 - A Gmail account (free or Workspace)
-- A Surfshark One subscription (Alt-ID is included)
+- A [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) subscription (Alt-ID is included)
 - The Surfshark browser extension **or** the Alt-ID web dashboard — no app install required on desktop
 
 That's it. You don't need to change your DNS records, verify domain ownership, or configure SMTP. This is not a developer tutorial.
@@ -154,7 +154,7 @@ The tradeoff is honest: if you only want aliases and have zero interest in a VPN
 
 Gmail has a `+tag` workaround (e.g., `you+alias@gmail.com`) that routes tagged mail to your inbox and allows filtering rules. However, it is not a true alias — your real Gmail address is exposed once the tag is stripped, which takes about two seconds. For genuine separation between your identity and a site's database, you need a dedicated forwarding alias service like Alt-ID.
 
-### Will using an email alias stop all spam?
+### Will using an [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/) stop all spam?
 
 It significantly reduces new spam for email addresses you haven't given out yet. Existing addresses already in data-broker lists will keep attracting spam regardless. The strategy works best as a forward-looking habit: use aliases for every new signup from today onwards and let the old noise gradually die off.
 
