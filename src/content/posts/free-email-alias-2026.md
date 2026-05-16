@@ -42,7 +42,7 @@ Without aliases, every sign-up is a permanent handover of your real email to a t
 
 Before you start, make sure you have:
 
-1. **A Surfshark account** — Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) and Surfshark One+ plans. If you don't have one, sign up at the link below.
+1. **A Surfshark account** — Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ plans. If you don't have one, sign up at the link below.
 2. **A working email address** — This is the inbox where forwarded emails will land. Gmail, Outlook, Apple Mail, or any provider works.
 3. **A browser or the Surfshark app** — The Alt-ID dashboard works in any modern browser. Mobile apps (iOS/Android) are also supported.
 

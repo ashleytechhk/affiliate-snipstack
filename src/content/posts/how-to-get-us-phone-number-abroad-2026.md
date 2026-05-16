@@ -59,7 +59,7 @@ Alt-Number is a virtual second-number service included with [Surfshark One](http
 - Works on your existing device — no SIM swap, no [second phone](https://snipstack.io/second-phone-number-app-free-2026/)
 - Cancel or change the number whenever you want
 
-**What it costs:** Included with Surfshark One and Surfshark One+ subscriptions — if you're already a Surfshark user, check whether your plan includes it. Standalone, it's part of the Surfshark bundle pricing rather than a separate line item.
+**What it costs:** Included with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) and Surfshark One+ subscriptions — if you're already a Surfshark user, check whether your plan includes it. Standalone, it's part of the Surfshark bundle pricing rather than a separate line item.
 
 ![Smartphone showing a virtual US phone number setup screen next to a dating app match screen, clean modern flat illustration](/og/how-to-get-us-phone-number-abroad-2026-inline-1.png)
 
@@ -118,7 +118,7 @@ eSIM services give you a real data SIM for a destination country, loaded onto yo
 
 **Limitations for online daters abroad:**
 - Primarily a data solution, not a second-number solution
-- Plans are time-limited; not practical as a permanent second number
+- Plans are time-limited; not practical as a permanent [second number](https://snipstack.io/second-number-for-discord-account-2026/)
 - Costs more than a virtual number service for long-term use
 - Doesn't protect your real number — it just gives you a second one that's also tied to your identity
 

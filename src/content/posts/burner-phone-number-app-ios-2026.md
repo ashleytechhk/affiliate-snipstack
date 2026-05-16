@@ -108,7 +108,7 @@ Note on Alt-Number: it lives inside the Surfshark app rather than as a standalon
 
 ### Option C: Google Voice
 
-**Best for:** US-based users who want a free second number for low-stakes situations (not dating app verification).
+**Best for:** US-based users who want a free [second number for](https://snipstack.io/second-number-for-discord-account-2026/) low-stakes situations (not dating app verification).
 
 1. Open Google Voice and sign in with your Google account.
 2. Tap **Search** and enter a city or area code where you want your number.

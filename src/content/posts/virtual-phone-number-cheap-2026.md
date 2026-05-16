@@ -92,7 +92,7 @@ TextNow works best as a short-term burner — use it to verify an account, then 
 
 **Best for temporary numbers by the week**
 
-Hushed is a purpose-built second number app that sells numbers by usage — you can get a number for three days, a week, a month, or ongoing. Prices start around $1.99 for a short-term number. It supports US, Canadian, and UK numbers.
+Hushed is a purpose-built [second number](https://snipstack.io/second-number-for-discord-account-2026/) app that sells numbers by usage — you can get a number for three days, a week, a month, or ongoing. Prices start around $1.99 for a short-term number. It supports US, Canadian, and UK numbers.
 
 For online dating specifically, Hushed's short-term option is genuinely useful. You match with someone, things move to texting, you use a Hushed number for a week or two, and if it doesn't work out you let it expire. No cancellation friction, no lingering number.
 

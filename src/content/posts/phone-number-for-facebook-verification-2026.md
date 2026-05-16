@@ -66,7 +66,7 @@ For dating profile use specifically, Alt-Number offers something the cheaper alt
 
 The privacy picture is also cleaner than alternatives. The number is not linked to your name, your real SIM, or your carrier identity. It receives codes and calls through the Surfshark app — the connection between your dating profile and your actual identity is as thin as you want it to be.
 
-Economically: Alt-Number is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) alongside a VPN, ad and tracker blocking, and data breach monitoring. If you already use a VPN — or have been planning to — the effective cost of adding a persistent carrier-backed second number is marginal.
+Economically: Alt-Number is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) alongside a VPN, ad and tracker blocking, and data breach monitoring. If you already use a VPN — or have been planning to — the effective cost of adding a persistent carrier-backed [second number](https://snipstack.io/second-number-for-discord-account-2026/) is marginal.
 
 **Best for:** Anyone who wants Facebook verification to work the first time, stay working over time, and not create a trail back to their real number.
 

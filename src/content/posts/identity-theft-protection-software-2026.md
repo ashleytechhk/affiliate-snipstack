@@ -64,7 +64,7 @@ With that clear, here is how the main products compare.
 
 **Our top pick for seniors who want simple, all-round coverage.**
 
-Surfshark One bundles three tools that most seniors need into one app: [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/), a VPN (a tool that keeps your internet browsing private), and Surfshark Alert (which watches for your personal information in data breaches and tells you immediately if it appears).
+[Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) bundles three tools that most seniors need into one app: [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/), a VPN (a tool that keeps your internet browsing private), and Surfshark Alert (which watches for your personal information in data breaches and tells you immediately if it appears).
 
 The antivirus component runs quietly in the background. It checks websites before they load, scans files you download, and blocks known scam links — the kind that arrive in fake bank emails or text messages. Independent testing labs confirm it catches threats reliably without slowing down your computer or phone.
 

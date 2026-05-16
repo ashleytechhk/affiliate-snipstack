@@ -171,7 +171,7 @@ Any email sent to a deleted alias bounces back to the sender. Your real inbox st
 **Do [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/)es work with loyalty programs and reward accounts?**
 Yes, with one caveat: keep a record of which alias you used for each loyalty account. If you ever need to recover access or transfer points, you will need the alias address. Surfshark Alt ID's in-app list makes this easy to track.
 
-**Will email aliases protect me from data breaches?**
+**Will [email alias](https://snipstack.io/email-alias-for-discord-account-2026/)es protect me from data breaches?**
 They reduce your exposure. If a retailer's database is breached and your alias is in it, attackers get a disposable forwarding address rather than your real email. Combined with a unique password for each site (use a password manager), aliases significantly narrow the blast radius of any single breach.
 
 ---

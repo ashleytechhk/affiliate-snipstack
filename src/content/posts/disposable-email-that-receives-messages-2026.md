@@ -130,7 +130,7 @@ Wait two minutes — forwarding adds a small delay. If nothing arrives after fiv
 A small number of services run alias-detection checks. If you hit one, this is unfortunately a site that insists on a real address. Use your actual email for that site, or consider whether you want an account with them at all.
 
 **I can't find the Alt ID option in my dashboard.**
-Alt ID is included in Surfshark One, not standalone VPN plans. Check which plan you're on. If you're on VPN-only, you'd need to upgrade to access Alt ID.
+Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), not standalone VPN plans. Check which plan you're on. If you're on VPN-only, you'd need to upgrade to access Alt ID.
 
 **Replies are bouncing.**
 Make sure you're replying via your regular email client with the alias address in the "From" field — most Alt ID setups configure this automatically. If your client is overriding to your real address, check your reply-from settings.

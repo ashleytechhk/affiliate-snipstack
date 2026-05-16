@@ -24,7 +24,7 @@ Norton [antivirus software](https://snipstack.io/antivirus-software-2026/) is so
 
 ## Feature-by-Feature Comparison
 
-| Feature | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Standard | Surfshark One Bundle |
+| Feature | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Standard | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle |
 |---|---|---|
 | Real-time malware protection | Yes | Yes |
 | VPN included | Yes (limited servers) | Yes (unlimited, 100+ countries) |

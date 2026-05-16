@@ -78,7 +78,7 @@ The main downside is cost. Hushed starts at around $4/month for a single number 
 
 ---
 
-## Surfshark Alt Number — Best if You're Already on Surfshark One
+## Surfshark Alt Number — Best if You're Already on [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)
 
 Alt Number is Surfshark's secondary phone number feature, included with a Surfshark One subscription. If you're already paying for Surfshark for its VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts, you get Alt Number at no added cost.
 

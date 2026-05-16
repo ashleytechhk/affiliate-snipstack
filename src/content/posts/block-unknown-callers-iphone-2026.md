@@ -18,7 +18,7 @@ iPhone's built-in silence feature is one partial answer. But if you're serious a
 
 ## Quick Verdict
 
-iPhone's "Silence Unknown Callers" feature blocks calls from numbers not in your contacts — it's useful, free, and zero setup. But it solves only half the problem. Once you share your real number, the damage is done. The better move is to never share your real number in the first place, using a separate number like Surfshark Alt-Number for dating app calls and texts. Use both: silence unknowns as a fallback, use a second number as your front line.
+iPhone's "Silence Unknown Callers" feature blocks calls from numbers not in your contacts — it's useful, free, and zero setup. But it solves only half the problem. Once you share your real number, the damage is done. The better move is to never share your real number in the first place, using a separate number like Surfshark Alt-Number for dating app calls and texts. Use both: silence unknowns as a fallback, use a [second number](https://snipstack.io/second-number-for-discord-account-2026/) as your front line.
 
 ---
 

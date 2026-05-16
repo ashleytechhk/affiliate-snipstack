@@ -26,7 +26,7 @@ This comparison breaks down what a modern [cyber security](https://snipstack.io/
 
 ## Head-to-Head Comparison
 
-| Feature | Surfshark One | Norton 360 | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | Norton 360 | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes (unlimited devices) | Yes (limited data on lower tiers) | Yes (limited) |
 | Antivirus / malware | Real-time | Real-time | Real-time |

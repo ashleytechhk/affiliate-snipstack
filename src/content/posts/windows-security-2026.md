@@ -119,7 +119,7 @@ Compared to [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) or McA
 
 ![Surfshark One setup on Windows — 3-step installation guide for seniors](/og/windows-security-2026-inline-2.png)
 
-### How to Install Surfshark One on Windows (Step by Step)
+### How to Install [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) on Windows (Step by Step)
 
 **Step 1 — Get your subscription**
 

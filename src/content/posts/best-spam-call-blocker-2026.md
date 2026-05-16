@@ -72,7 +72,7 @@ For dating scenarios, RoboKiller is most useful once a bad interaction has alrea
 
 **The core idea:** [temporary phone number](https://snipstack.io/temporary-phone-number-for-verification-2026/)s you can create, use, and delete on demand.
 
-Burner is the original "second number" app for daters. You pick a local number, share it on apps, and if a connection goes wrong you burn the number and create a new one. The app handles calls and texts natively, so you never have to touch your actual dialler.
+Burner is the original "[second number](https://snipstack.io/second-number-for-discord-account-2026/)" app for daters. You pick a local number, share it on apps, and if a connection goes wrong you burn the number and create a new one. The app handles calls and texts natively, so you never have to touch your actual dialler.
 
 The main friction with Burner is cost structure. The app requires a subscription or per-number credits, and those credits expire if unused. It is also less polished than newer alternatives, and the iOS and Android apps have received mixed reviews for reliability. It works, but Alt-Number has closed the gap significantly with a cleaner interface.
 

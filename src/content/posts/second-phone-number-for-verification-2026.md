@@ -71,7 +71,7 @@ What Google Voice is good for: a permanent US number for services that do not ru
 
 US-only, requires a US Google account and a US phone number to set up. No path for international numbers.
 
-**Best for:** US users who need a free, persistent second number for low-scrutiny services. Not for banking 2FA or major dating platforms.
+**Best for:** US users who need a free, persistent [second number for](https://snipstack.io/second-number-for-discord-account-2026/) low-scrutiny services. Not for banking 2FA or major dating platforms.
 
 ---
 

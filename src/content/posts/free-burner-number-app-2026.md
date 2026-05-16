@@ -43,7 +43,7 @@ If you already have dating app accounts set up and just want a separate number t
 
 ### Step 1 — Choose Your Burner Number App
 
-Several apps offer second numbers, but they differ in ways that matter for dating:
+Several apps offer [second number](https://snipstack.io/second-number-for-discord-account-2026/)s, but they differ in ways that matter for dating:
 
 **Free options worth trying:**
 

@@ -147,7 +147,7 @@ Unfortunately, if the address expired, you cannot recover it. This is exactly wh
 Simply delete that alias in the Surfshark app. The spammer's entire list becomes useless. Create a fresh alias for future use.
 
 **"Alt ID isn't available in my region."**
-Alt ID is available to Surfshark One subscribers globally. Make sure your app is updated to the latest version. If you still don't see it, contact Surfshark support.
+Alt ID is available to [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) subscribers globally. Make sure your app is updated to the latest version. If you still don't see it, contact Surfshark support.
 
 ---
 

@@ -143,7 +143,7 @@ When you need a number to sign up for something right now, setup friction matter
 
 ## Criterion 6: Voice Calls + SMS vs. SMS Only
 
-Most verification use cases only need SMS. But if you are giving this number to a dating app match, or using it as a real second number for marketplace transactions, calls matter too.
+Most verification use cases only need SMS. But if you are giving this number to a dating app match, or using it as a real [second number for](https://snipstack.io/second-number-for-discord-account-2026/) marketplace transactions, calls matter too.
 
 **Google Voice:** Full calls and SMS. Call quality is solid over WiFi. Voicemail included.
 

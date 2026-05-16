@@ -6,7 +6,7 @@ heroImage: "/og/get-a-second-number-for-texting-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-You matched with someone on Hinge. They seem great — but you've been burned before. You're not handing out your real number after two messages. You need a second number for texting, and you need it today.
+You matched with someone on Hinge. They seem great — but you've been burned before. You're not handing out your real number after two messages. You need a [second number for](https://snipstack.io/second-number-for-discord-account-2026/) texting, and you need it today.
 
 Good news: getting one takes about five minutes. The tricky part is picking the right service so you don't end up with a flaky VOIP number that gets flagged the moment your match tries to iMessage you.
 
@@ -122,7 +122,7 @@ Lock in your choice before moving on — each setup flow below is specific to th
 **Alt Number**
 1. Open Surfshark app → tap "Alt Number" in the bottom menu
 2. If you're not subscribed, you'll see a plan comparison screen
-3. Activate through your Surfshark One plan or add Alt Number to your existing subscription
+3. Activate through your [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plan or add Alt Number to your existing subscription
 4. Verify your real number when prompted
 
 ---

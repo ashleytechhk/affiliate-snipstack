@@ -18,7 +18,7 @@ This guide walks you through exactly [how to set](https://snipstack.io/how-to-se
 
 ## Quick Verdict
 
-**[Surfshark Alt-Number](/blog/altnumber?sub=2number-second-phone-number-2026__above-fold) is the cleanest way to get a dating second number in 2026.** It takes under five minutes to set up, works on your existing phone without a SIM swap, and gives you a real mobile number you can hand out freely — and shut down just as easily. No Google account entanglement, no US-only restrictions, no second device required. For online daters who want to stay reachable without handing over their real number to every match, this is the practical solution.
+**[Surfshark Alt-Number](/blog/altnumber?sub=2number-second-phone-number-2026__above-fold) is the cleanest way to get a dating [second number](https://snipstack.io/second-number-for-discord-account-2026/) in 2026.** It takes under five minutes to set up, works on your existing phone without a SIM swap, and gives you a real mobile number you can hand out freely — and shut down just as easily. No Google account entanglement, no US-only restrictions, no second device required. For online daters who want to stay reachable without handing over their real number to every match, this is the practical solution.
 
 ---
 

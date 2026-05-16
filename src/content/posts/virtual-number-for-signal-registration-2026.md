@@ -169,7 +169,7 @@ If you replace the number in Alt-Number, Signal can no longer send verification 
 
 **Is this legal?**
 
-Using a virtual number for app registration is legal in most countries. Surfshark Alt-Number is a licensed telecom service operated by Surfshark — the same company behind one of the major VPN providers. It is the same principle as using a work email for professional sign-ups rather than your personal address.
+Using a virtual number for app registration is legal in most countries. Surfshark Alt-Number is a licensed telecom service operated by Surfshark — the same company behind one of the major [VPN providers](https://snipstack.io/vpn-providers-best-2026/). It is the same principle as using a work email for professional sign-ups rather than your personal address.
 
 **Will this work for WhatsApp or other apps, not just Signal?**
 

@@ -16,7 +16,7 @@ The fix isn't a better spam filter. It's giving Discord (and every service attac
 
 ## Quick Verdict
 
-Using an email alias for your Discord account is the single most effective way to keep your primary inbox clean. An alias forwards all Discord notifications to your real inbox, but if spam starts arriving on that alias, you delete it without disrupting your actual email address. [Alt ID by Surfshark](https://snipstack.io/blog/altid?sub=email-alias-for-discord-account-2026__above-fold) is the strongest option here — unlimited aliases, instant deletion, and no per-alias fees. It beats disposable-address tools because aliases persist and can receive account recovery emails, unlike addresses that expire after 10 minutes. If you're on 50+ spam emails a day and Discord is part of your online life, start with a dedicated alias for that account.
+Using an [email alias for](https://snipstack.io/email-alias-for-twitter-x-signup-2026/) your Discord account is the single most effective way to keep your primary inbox clean. An alias forwards all Discord notifications to your real inbox, but if spam starts arriving on that alias, you delete it without disrupting your actual email address. [Alt ID by Surfshark](https://snipstack.io/blog/altid?sub=email-alias-for-discord-account-2026__above-fold) is the strongest option here — unlimited aliases, instant deletion, and no per-alias fees. It beats disposable-address tools because aliases persist and can receive account recovery emails, unlike addresses that expire after 10 minutes. If you're on 50+ spam emails a day and Discord is part of your online life, start with a dedicated alias for that account.
 
 ---
 
@@ -78,7 +78,7 @@ All three services (Alt ID, SimpleLogin, AnonAddy) have no-logs or minimal-logs 
 
 ---
 
-## How to Set Up an Email Alias for Discord
+## How to Set Up an [Email Alias for](https://snipstack.io/email-alias-for-online-shopping-2026/) Discord
 
 Setting up takes under five minutes:
 
@@ -119,7 +119,7 @@ Yes. Go to Discord's user settings, navigate to "My Account," and change the ema
 
 No, as long as the alias is active and forwarding. Recovery codes and 2FA prompts sent to your alias arrive in your real inbox normally. If you delete the alias, update your Discord account email first — the same way you'd update after changing any email address.
 
-**What happens if my alias gets spam — does it affect my real inbox?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if my alias gets spam — does it affect my real inbox?**
 
 Forwarded spam lands in your real inbox, but it's easily identified by the alias in the "To:" field. The better move is to delete the alias as soon as sustained spam begins — that stops all future delivery from that address. Your real inbox address is never exposed to the senders.
 

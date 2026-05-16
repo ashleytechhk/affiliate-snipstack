@@ -162,7 +162,7 @@ Online daters are particularly exposed. Every time you sign up for a dating app,
 
 **An alias number breaks this loop.**
 
-An alias (or "second number") is a separate phone number that routes to your real phone. You give the alias to dating apps, signup forms, and casual contacts. If that alias starts getting hammered with spam, you can discard it and generate a new one — your real number never gets exposed.
+An alias (or "[second number](https://snipstack.io/second-number-for-discord-account-2026/)") is a separate phone number that routes to your real phone. You give the alias to dating apps, signup forms, and casual contacts. If that alias starts getting hammered with spam, you can discard it and generate a new one — your real number never gets exposed.
 
 ![Alias number setup — how a virtual number protects your real iPhone number from robocallers](/og/stop-robocalls-on-iphone-2026-inline-2.png)
 

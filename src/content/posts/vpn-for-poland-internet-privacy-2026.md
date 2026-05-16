@@ -57,7 +57,7 @@ Poland is part of the European Union, which means it benefits from the GDPR — 
 
 ## How a VPN Works Step by Step
 
-Understanding the mechanics helps you use a VPN more confidently. Here's what happens when you connect:
+Understanding the mechanics helps you use a VPN more confidently. Here's [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) you connect:
 
 1. **You launch the VPN app and choose a server** — say, one in the Netherlands or United States.
 2. **Your device creates an encrypted tunnel** to that server using a protocol like WireGuard or OpenVPN. Surfshark supports both.

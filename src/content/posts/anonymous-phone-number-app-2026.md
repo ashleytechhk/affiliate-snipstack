@@ -143,7 +143,7 @@ Some people use their Alt-Number indefinitely for anyone they meet online. That'
 
 Yes. Using a [second phone number](https://snipstack.io/second-phone-number-for-verification-2026/) for privacy purposes is entirely legal. It's no different from using a work email instead of a personal one — you're protecting your contact information, not misrepresenting who you are. The number is real and functional. You're reachable on it. You're just not exposing your primary identity to people you've just met.
 
-**Will Tinder or Hinge know I'm using a second number?**
+**Will Tinder or Hinge know I'm using a [second number](https://snipstack.io/second-number-for-discord-account-2026/)?**
 
 Dating apps verify that you can receive an SMS code at signup — that's the entire check. They don't cross-reference numbers against carrier databases or flag "second number" apps. As long as you receive the verification code, the account is created. Alt-Number passes this check on all major dating platforms.
 

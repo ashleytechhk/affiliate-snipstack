@@ -125,7 +125,7 @@ Most free antivirus tools only cover the device you install them on. If you shar
 
 ![Surfshark One antivirus setup steps on Windows PC](/og/best-antivirus-free-2026-inline-2.png)
 
-Once set up, Surfshark One runs quietly in the background. You do not need to do anything — it updates itself and sends you alerts only when something actually needs your attention.
+Once set up, [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) runs quietly in the background. You do not need to do anything — it updates itself and sends you alerts only when something actually needs your attention.
 
 ---
 

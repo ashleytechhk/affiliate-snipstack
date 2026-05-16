@@ -115,7 +115,7 @@ You do not need to understand how any of this works behind the scenes. Once it i
 
 Not all antivirus software is the same. Here are the things that matter most for older adults:
 
-**Simple interface** — Can you understand what the app is telling you without reading a manual? A good antivirus for seniors shows clear, plain-language alerts, not confusing technical codes.
+**Simple interface** — Can you understand what the app is telling you without reading a manual? A good [antivirus for](https://snipstack.io/antivirus-for-linux-ubuntu-users-2026/) seniors shows clear, plain-language alerts, not confusing technical codes.
 
 **Runs quietly in the background** — You should not have to interact with it constantly. Good software protects you automatically without asking you to make decisions every five minutes.
 

@@ -122,11 +122,11 @@ When you disable or delete an alias, the mail servers stop accepting messages to
 
 ---
 
-## Setting Up Email Aliases with Surfshark Alt-ID
+## Setting Up [Email Alias](https://snipstack.io/email-alias-for-discord-account-2026/)es with Surfshark Alt-ID
 
 [Surfshark Alt-ID](/blog/altid?sub=email-alias-example-2026__mid) is the alias tool included in [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ subscriptions. It is the simplest way to start using aliases without any technical configuration.
 
-### Step 1 — Get a Surfshark One subscription
+### Step 1 — Get a [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) subscription
 
 Alt-ID is not a standalone product. It is bundled with Surfshark One, which also includes a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach monitoring. [Start here](/blog/altid?sub=email-alias-example-2026__mid) and choose a plan. During signup, use your real email address — this is the inbox your alias mail will be forwarded to.
 

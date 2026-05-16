@@ -28,7 +28,7 @@ The free options work fine for light use — Google Voice for US-based daters, T
 
 ## 1. Google Voice — Best Free Option for US Daters
 
-**Google Voice** is the most established free second number available. Sign up with a Google account, pick a number from available US area codes, and you've got a working line for calls, texts, and voicemail — at no cost.
+**Google Voice** is the most established free [second number](https://snipstack.io/second-number-for-discord-account-2026/) available. Sign up with a Google account, pick a number from available US area codes, and you've got a working line for calls, texts, and voicemail — at no cost.
 
 For US-based daters, it covers the basics well. The number forwards to your real phone, so you don't need to juggle two devices. You can set it to screen calls, send unknown callers to voicemail, or block numbers you're done with.
 

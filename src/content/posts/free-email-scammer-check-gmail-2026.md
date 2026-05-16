@@ -160,6 +160,6 @@ Forwarding the full email (rather than clicking links inside it) is generally sa
 
 The fastest free setup for most Gmail users: turn on Enhanced Safe Browsing in your Google Account, bookmark [Surfshark's email scam checker](/blog/surfshark?sub=free-email-scammer-check-gmail-2026__cta) for per-email checks, and add VirusTotal to your bookmarks for link scanning. This three-tool stack costs nothing, takes about five minutes to set up, and covers the overwhelming majority of scam scenarios you will encounter.
 
-If you receive a high volume of sensitive email or have already appeared in a breach, upgrading to Surfshark One's Alert monitoring adds the continuous, proactive layer that free tools cannot provide on their own.
+If you receive a high volume of sensitive email or have already appeared in a breach, upgrading to [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)'s Alert monitoring adds the continuous, proactive layer that free tools cannot provide on their own.
 
 Stay skeptical. Scammers are patient — but the right tools make caution effortless.

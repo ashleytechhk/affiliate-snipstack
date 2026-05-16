@@ -152,7 +152,7 @@ The free tools work for a quick burner check — paste it in, grab the verificat
 ## FAQ
 
 **Is a temporary email and password really free with Surfshark?**
-Alt ID is included at no additional charge on Surfshark One and One+ plans. Both plans offer a free trial, so you can test the full feature set before paying anything. [Start a free trial here.](/blog/surfshark?sub=temporary-email-and-password-free-2026__faq)
+Alt ID is included at no additional charge on [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) and One+ plans. Both plans offer a free trial, so you can test the full feature set before paying anything. [Start a free trial here.](/blog/surfshark?sub=temporary-email-and-password-free-2026__faq)
 
 **Will the temporary email address expire?**
 Unlike throwaway services that expire in an hour, Alt ID aliases stay active for as long as you keep them. You control when they are paused or deleted — there is no automatic expiry.

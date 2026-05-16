@@ -6,7 +6,7 @@ heroImage: "/og/email-alias-for-twitter-x-signup-2026.png"
 tags: ["altid", "privacy", "review"]
 ---
 
-You want a Twitter/X account. You do not want your real email address in Elon's database, sold to data brokers, leaked in a breach, or tied to your online identity forever. That's a reasonable position. The solution is an email alias — a forwarding address you use for signup that routes mail to your real inbox while keeping your actual address hidden.
+You want a Twitter/X account. You do not want your real email address in Elon's database, sold to data brokers, leaked in a breach, or tied to your online identity forever. That's a reasonable position. The solution is an [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) — a forwarding address you use for signup that routes mail to your real inbox while keeping your actual address hidden.
 
 The question is which alias option to use. Not all of them work cleanly with X's signup flow, and some will get blocked before you even create the account.
 
@@ -129,7 +129,7 @@ If you're already an Apple iCloud+ subscriber using Apple devices exclusively, H
 
 **Does X accept email aliases for signup?**
 
-Yes, as long as the alias domain isn't on X's blocklist. Known disposable email services (Guerrilla Mail, Temp-Mail, etc.) are blocked. Aliases from legitimate forwarding services like Alt ID, Apple Hide My Email, and SimpleLogin are accepted.
+Yes, as long as the alias domain isn't on X's blocklist. Known [disposable email](https://snipstack.io/disposable-email-address-for-trials-2026/) services (Guerrilla Mail, Temp-Mail, etc.) are blocked. Aliases from legitimate forwarding services like Alt ID, Apple Hide My Email, and SimpleLogin are accepted.
 
 **Can I use the alias for X account recovery?**
 
@@ -149,7 +149,7 @@ Any X email sent to that alias after deletion will bounce. X won't be able to re
 
 **Is this approach legal?**
 
-Using an email alias for service signup is not illegal. You're choosing which forwarding address to give a service — the same way you might use a P.O. box instead of your home address. Some services' terms of service discourage disposable emails, but this applies mainly to known throwaway domains, not persistent forwarding aliases from legitimate providers.
+Using an [email alias for](https://snipstack.io/email-alias-for-discord-account-2026/) service signup is not illegal. You're choosing which forwarding address to give a service — the same way you might use a P.O. box instead of your home address. Some services' terms of service discourage disposable emails, but this applies mainly to known throwaway domains, not persistent forwarding aliases from legitimate providers.
 
 ---
 

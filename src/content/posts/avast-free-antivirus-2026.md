@@ -24,7 +24,7 @@ Avast [Free Antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/)
 
 ---
 
-## Head-to-Head: Avast Free vs Surfshark One
+## Head-to-Head: Avast Free vs [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)
 
 ![Avast Free vs Surfshark One comparison overview](/og/avast-free-antivirus-2026.png)
 

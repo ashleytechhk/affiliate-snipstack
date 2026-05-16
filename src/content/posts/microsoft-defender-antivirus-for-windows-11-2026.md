@@ -202,6 +202,6 @@ Here is what to do right now:
 4. Schedule a **Full Scan** for this weekend.
 5. Confirm your **Firewall** is active on all three network types.
 
-These five steps take less than 15 minutes and dramatically reduce your risk of catching a virus. Microsoft Defender Antivirus for Windows 11 is a reliable, free tool that every senior should have running. And if you want the strongest possible protection for your online banking and personal data, **[Surfshark Antivirus](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__cta)** is worth a look as a trusted, low-cost complement.
+These five steps take less than 15 minutes and dramatically reduce your risk of catching a virus. Microsoft Defender [Antivirus for](https://snipstack.io/antivirus-for-linux-ubuntu-users-2026/) Windows 11 is a reliable, free tool that every senior should have running. And if you want the strongest possible protection for your online banking and personal data, **[Surfshark Antivirus](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__cta)** is worth a look as a trusted, low-cost complement.
 
 Stay safe out there.

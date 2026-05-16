@@ -77,7 +77,7 @@ Click **"Copy alias."** This is the address you will paste into every throwaway 
 
 ### Step 5 — Generate a Temporary Password
 
-Open your Surfshark extension and go to the **Passwords** section (part of Surfshark One's built-in password manager). Click **"Generate."** The tool creates a strong random password — 16+ characters, mixed case, symbols, numbers.
+Open your Surfshark extension and go to the **Passwords** section (part of [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)'s built-in password manager). Click **"Generate."** The tool creates a strong random password — 16+ characters, mixed case, symbols, numbers.
 
 Save it to the password manager. You will not need to remember it. For throwaway accounts, you may not even need to log back in — but if you do, the manager has you covered.
 

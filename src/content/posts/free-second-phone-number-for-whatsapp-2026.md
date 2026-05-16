@@ -14,7 +14,7 @@ Handing out your real [phone number](https://snipstack.io/phone-number-for-faceb
 
 The fix is simple: use a **free [second phone number](https://snipstack.io/second-phone-number-app-free-2026/) for WhatsApp** that you control completely. If things go sideways, you kill the number. Your real number stays untouched.
 
-This guide walks you through the fastest way to get that second number set up in 2026 using Surfshark Alt-Number — no second SIM, no extra phone, no carrier contract required.
+This guide walks you through the fastest way to get that [second number](https://snipstack.io/second-number-for-discord-account-2026/) set up in 2026 using Surfshark Alt-Number — no second SIM, no extra phone, no carrier contract required.
 
 [**Get Alt-Number and protect your real number today →**](/blog/surfshark?sub=free-second-phone-number-for-whatsapp-2026__above-fold)
 

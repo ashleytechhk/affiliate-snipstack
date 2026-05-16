@@ -185,7 +185,7 @@ For anyone on a fixed budget, the affordable yearly plan is the most practical c
 | Webcam protection | No | Yes |
 | Phishing email alerts | No | Yes |
 | Public Wi-Fi protection (VPN) | No | With [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
-| Dark web email alerts | No | With Surfshark One |
+| Dark web email alerts | No | With [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) |
 
 Apple's built-in tools handle the basics. Surfshark fills the rest.
 

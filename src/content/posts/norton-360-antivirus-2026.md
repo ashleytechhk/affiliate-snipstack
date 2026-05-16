@@ -24,7 +24,7 @@ Norton 360 is a capable security suite with a long track record — but its pric
 
 ## Feature-by-Feature Comparison
 
-| Feature | Norton 360 Deluxe | Surfshark One Bundle |
+| Feature | Norton 360 Deluxe | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle |
 |---|---|---|
 | Antivirus / malware protection | Yes | Yes |
 | Real-time threat detection | Yes | Yes |

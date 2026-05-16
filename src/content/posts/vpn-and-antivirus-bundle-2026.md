@@ -71,7 +71,7 @@ Here is the honest 2026 price picture for protecting a family of four:
 - Norton 360 Deluxe (5 devices): approximately $100–$110/year at renewal
 - McAfee+ Family: approximately $130/year at renewal
 
-**Option B — Bundle with Surfshark One**
+**Option B — Bundle with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)**
 
 - Surfshark One covers **unlimited devices** on one account
 - Single login for everyone in the household

@@ -36,7 +36,7 @@ The whole process takes about 30 minutes across all devices.
 ## Prerequisites — Do These Before You Install Anything
 
 **Step 0a — Find your Norton or McAfee renewal date.**
-Open your current security software, go to Account or Subscription, and write down the renewal date. You want to cancel before that date, not on the day you install Surfshark One, to avoid a surprise charge. If the renewal is within the next 7 days, install Surfshark One first, then cancel immediately after.
+Open your current security software, go to Account or Subscription, and write down the renewal date. You want to cancel before that date, not on the day you install [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), to avoid a surprise charge. If the renewal is within the next 7 days, install Surfshark One first, then cancel immediately after.
 
 **Step 0b — Count your devices.**
 How many phones, laptops, tablets, and shared computers does your household use? Surfshark One covers unlimited devices on one account — but you need to know how many you are deploying to so you can set aside enough time.

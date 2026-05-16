@@ -73,7 +73,7 @@ A password stuffing attack, a data broker sitting on your personal details, or a
 
 [Surfshark One](/blog/surfshark?sub=vs-free-antivirus-2026__mid) addresses all four layers — antivirus, VPN, breach alerts, and private search — under a single login. The antivirus component uses real-time scanning with cloud-based threat detection. The VPN is full-speed and unlimited, not capped at 200 MB. Alert monitors the web for your personal data appearing in leaked databases and notifies you directly.
 
-For someone currently paying $80–120/year for Norton or McAfee (and still needing a separate VPN), the math usually works in Surfshark One's favor.
+For someone currently paying $80–120/year for Norton or McAfee (and still needing a separate VPN), the math usually works in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)'s favor.
 
 ---
 

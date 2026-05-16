@@ -146,7 +146,7 @@ Where Hide My Email hits the Apple-only wall, Alt-ID keeps going:
 | Works in Chrome / Firefox | Limited (web only) | Yes (browser extension) |
 | Works on Windows | Limited (icloud.com) | Yes |
 | Alias domain | `@icloud.com` | Not `@icloud.com` |
-| Requires paid plan | iCloud+ | Surfshark One |
+| Requires paid plan | iCloud+ | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) |
 | Generates alternative identity | No | Yes |
 | Kill alias on demand | Yes | Yes |
 
@@ -208,7 +208,7 @@ You can access icloud.com on an Android browser and manage existing aliases, but
 
 ### Do iCloud [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/)es expire automatically?
 
-No. iCloud Hide My Email aliases are permanent until you manually deactivate or delete them. Deactivated aliases stop forwarding but remain in your list. Deleted aliases cannot be recovered.
+No. iCloud Hide My [Email alias](https://snipstack.io/email-alias-for-discord-account-2026/)es are permanent until you manually deactivate or delete them. Deactivated aliases stop forwarding but remain in your list. Deleted aliases cannot be recovered.
 
 ---
 

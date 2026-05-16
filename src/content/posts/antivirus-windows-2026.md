@@ -177,7 +177,7 @@ Do not call the number. Legitimate antivirus software never asks you to call a p
 
 **Is the antivirus the same as the VPN that comes with Surfshark?**
 
-No — they are two separate tools included in the same subscription (the [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) bundle). The antivirus protects your computer from malware, viruses, and phishing threats. The VPN encrypts your internet connection to help keep your browsing private. Both are useful, but they solve different problems. Having both in one affordable package is one of the reasons Surfshark One is a strong pick for seniors who want comprehensive protection without managing multiple products.
+No — they are two separate tools included in the same subscription (the [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) bundle). The antivirus protects your computer from malware, viruses, and phishing threats. The VPN encrypts your internet connection to help keep your browsing private. Both are useful, but they solve different problems. Having both in one affordable package is one of the reasons [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) is a strong pick for seniors who want comprehensive protection without managing multiple products.
 
 **[Get started with Surfshark Antivirus for Windows](/blog/antivirus?sub=antivirus-windows-2026__faq)**
 

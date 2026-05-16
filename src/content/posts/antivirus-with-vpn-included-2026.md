@@ -55,7 +55,7 @@ Buying antivirus and VPN as separate products used to cost $80–$150 per year c
 Before you begin, check the following. It takes about five minutes and makes the setup much smoother.
 
 **1. Know which device you are protecting first.**
-Is it a Windows PC, a Mac, an iPhone, or an Android phone? Surfshark One works on all of them, but you will start the download on whichever device you use most. Check the sticker on your laptop or go to Settings if you are unsure.
+Is it a Windows PC, a Mac, an iPhone, or an Android phone? [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) works on all of them, but you will start the download on whichever device you use most. Check the sticker on your laptop or go to Settings if you are unsure.
 
 **2. Have your email address ready.**
 You will need it to create an account. Use an email you check regularly — your confirmation and login details will go there.

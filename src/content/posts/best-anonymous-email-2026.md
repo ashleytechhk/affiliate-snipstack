@@ -124,7 +124,7 @@ Tutanota (Tuta)    | Full inbox     | Yes (1GB) | No           | $3/mo
 Guerrilla Mail     | Temp inbox     | Yes       | No           | Free
 iCloud Hide My Email| Alias (Apple) | Partial   | No           | $0.99/mo
 ```
-*Alt-ID is bundled with Surfshark One. Price reflects entry-tier subscription.
+*Alt-ID is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/). Price reflects entry-tier subscription.
 
 ---
 

@@ -90,7 +90,7 @@ Key features:
 - Pause or delete any alias instantly to stop spam from a specific source
 - Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) — VPN + [antivirus](https://snipstack.io/vs-antivirus-2026/) + data breach alerts + Alt ID in one subscription
 
-**Pricing:** Included in Surfshark One. Plans start under $3/month when billed annually.
+**Pricing:** Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/). Plans start under $3/month when billed annually.
 
 **Limitation:** No free tier. You need a Surfshark subscription.
 

@@ -48,7 +48,7 @@ Before running through the steps, make sure you have:
 - The Surfshark app installed on your device
 - About 10 minutes
 
-If you don't have Surfshark yet, [start here](/blog/altnumber?sub=how-to-block-telemarketers-permanently-2026__above-fold). You can be set up with a second number before your next swipe session.
+If you don't have Surfshark yet, [start here](/blog/altnumber?sub=how-to-block-telemarketers-permanently-2026__above-fold). You can be set up with a [second number](https://snipstack.io/second-number-for-discord-account-2026/) before your next swipe session.
 
 ---
 

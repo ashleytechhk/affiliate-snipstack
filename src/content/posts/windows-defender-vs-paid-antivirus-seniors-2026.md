@@ -124,7 +124,7 @@ That is it. Surfshark and Defender will work together — you do not have to tur
 
 ### What About [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)?
 
-Surfshark also offers a bundle called **Surfshark One** that adds:
+Surfshark also offers a bundle called **[Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)** that adds:
 - A VPN (keeps your browsing private, especially on public Wi-Fi)
 - Surfshark Alert (warns you if your email or passwords appear in a data breach)
 

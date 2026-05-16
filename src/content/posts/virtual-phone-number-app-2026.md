@@ -104,7 +104,7 @@ For the average online dater, though, it's more gun than you need. The free plan
 
 MySudo numbers generally pass dating app verification, which gives it an edge over some competitors. If you're the type who reads privacy policies for fun and already uses a password manager, MySudo fits your worldview. Everyone else should probably start with something simpler.
 
-**Best for:** Privacy enthusiasts who want compartmentalized identities, not just a second number.
+**Best for:** Privacy enthusiasts who want compartmentalized identities, not just a [second number](https://snipstack.io/second-number-for-discord-account-2026/).
 
 ---
 

@@ -46,7 +46,7 @@ That's it. You don't need to change your DNS records, verify domain ownership, o
 
 ## Step-by-Step: Setting Up [Email Alias](https://snipstack.io/email-alias-for-online-shopping-2026/)es for Gmail with Surfshark Alt-ID
 
-### Step 1 — Get Surfshark One (Skip If You Already Have It)
+### Step 1 — Get [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) (Skip If You Already Have It)
 
 Head to the Surfshark signup page via the link below. Choose any plan; Alt-ID is included across all Surfshark One tiers. Note your login credentials — you'll need them in Step 2.
 
@@ -162,7 +162,7 @@ It significantly reduces new spam for email addresses you haven't given out yet.
 
 Alt-ID is included in the **Surfshark One** subscription. There is no standalone free tier, but Surfshark One frequently runs promotional pricing with substantial discounts. [Check the current offer here.](/blog/surfshark?sub=email-alias-gmail-2026__faq)
 
-### Can I use email aliases with Google Workspace?
+### Can I use [email alias](https://snipstack.io/email-alias-for-discord-account-2026/)es with Google Workspace?
 
 Yes. Alt-ID forwards to any email address, including Google Workspace (formerly G Suite) accounts. The setup steps are identical to a standard Gmail account.
 

@@ -36,7 +36,7 @@ Going through this process once, correctly, saves you from having conflicting se
 
 4. **Set aside 20–30 minutes.** The actual installs take less than 10 minutes per device, but the uninstall of legacy software deserves a clean, unhurried removal.
 
-5. **Have a credit or debit card ready.** Surfshark One Bundle is a paid subscription. Multi-year plans bring the monthly cost well below what most people are already paying for Norton or McAfee's renewal price.
+5. **Have a credit or debit card ready.** [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle is a paid subscription. Multi-year plans bring the monthly cost well below what most people are already paying for Norton or McAfee's renewal price.
 
 ---
 

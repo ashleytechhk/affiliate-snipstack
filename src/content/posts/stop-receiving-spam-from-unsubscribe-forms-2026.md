@@ -146,7 +146,7 @@ Here is how to set it up.
 
 ### Step 5a — Get [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or One+
 
-Go to [the Alt ID page](/blog/altid?sub=stop-receiving-spam-from-unsubscribe-forms-2026__mid) and choose a plan. Alt ID is included in Surfshark One and One+ — it is not a separate purchase. Use your real email during checkout (this is the inbox your alias mail forwards to).
+Go to [the Alt ID page](/blog/altid?sub=stop-receiving-spam-from-unsubscribe-forms-2026__mid) and choose a plan. Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) and One+ — it is not a separate purchase. Use your real email during checkout (this is the inbox your alias mail forwards to).
 
 ### Step 5b — Install the Surfshark Browser Extension
 
