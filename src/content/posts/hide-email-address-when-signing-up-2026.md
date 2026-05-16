@@ -190,7 +190,7 @@ Firefox Relay's free tier caps at five aliases. If you need more without upgradi
 | Disable alias on demand | Yes | Yes | Yes | Yes |
 | Tracker removal | No | No | Yes | No |
 | Bundled with VPN | No | No | No | Yes |
-| Price | Requires iCloud+ | Free (limited) / ~$1.99/mo | Free | Included with Surfshark One |
+| Price | Requires iCloud+ | Free (limited) / ~$1.99/mo | Free | Included with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) |
 
 ---
 

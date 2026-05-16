@@ -158,7 +158,7 @@ Alt ID allows multiple aliases. You can create a separate one for each service y
 Most sites cannot detect alias addresses, especially from services like Alt ID that generate addresses that look like standard email formats. A small minority of services run aggressive validation and may flag forwarded addresses.
 
 **Do I need a VPN to use Alt ID?**
-No. Alt ID is a separate product within the Surfshark One bundle. You do not need to run a VPN connection to use the [email alias](https://snipstack.io/email-alias-example-2026/) feature.
+No. Alt ID is a separate product within the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) bundle. You do not need to run a VPN connection to use the [email alias](https://snipstack.io/email-alias-example-2026/) feature.
 
 ---
 

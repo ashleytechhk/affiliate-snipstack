@@ -48,7 +48,7 @@ That's it. You don't need to change your DNS records, verify domain ownership, o
 
 ### Step 1 — Get [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) (Skip If You Already Have It)
 
-Head to the Surfshark signup page via the link below. Choose any plan; Alt-ID is included across all Surfshark One tiers. Note your login credentials — you'll need them in Step 2.
+Head to the Surfshark signup page via the link below. Choose any plan; Alt-ID is included across all [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) tiers. Note your login credentials — you'll need them in Step 2.
 
 **[Start your Surfshark One trial — includes Alt-ID →](/blog/surfshark?sub=email-alias-gmail-2026__mid)**
 
@@ -174,7 +174,7 @@ Alias forwarding stops when your subscription lapses. Emails sent to your aliase
 
 Alt-ID operates as a forwarding relay with no content logging, per Surfshark's privacy policy. Your emails pass through the relay and are delivered to Gmail without being retained. Review Surfshark's current privacy policy directly for the most authoritative and up-to-date terms.
 
-### Can I use email aliases on my phone?
+### Can I use [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/)es on my phone?
 
 Yes. The Alt-ID dashboard is fully mobile-responsive and works in any browser. The browser extension is desktop-only (Chrome and Firefox), but you can copy aliases from the web dashboard on any device and paste them into mobile app signup forms.
 

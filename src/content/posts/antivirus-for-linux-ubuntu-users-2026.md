@@ -18,7 +18,7 @@ If you use Ubuntu and you are over 60, this article is written for you. No jargo
 
 ## Quick Verdict
 
-Surfshark Antivirus works on Linux and is one of the few antivirus tools that does not require a computer science degree to set up. It blocks malware, spyware, and phishing attacks before they reach your files. For seniors on Ubuntu, it is the right balance of strong protection and simple daily use. If you are not already protected, it is worth acting on today.
+Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/) works on Linux and is one of the few antivirus tools that does not require a computer science degree to set up. It blocks malware, spyware, and phishing attacks before they reach your files. For seniors on Ubuntu, it is the right balance of strong protection and simple daily use. If you are not already protected, it is worth acting on today.
 
 ---
 

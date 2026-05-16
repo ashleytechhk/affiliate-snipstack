@@ -36,7 +36,7 @@ The solution isn't to quit Discord. It's to give Discord an address you're willi
 
 ---
 
-## Comparison: Email Alias Options for Discord Accounts
+## Comparison: [Email Alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) Options for Discord Accounts
 
 | Service | Aliases | Free Tier | Instant Delete | Persistent | Reply-From Alias |
 |---|---|---|---|---|---|
@@ -111,11 +111,11 @@ If you're a Discord-only use case on a strict budget, SimpleLogin's free tier ha
 
 ## FAQ
 
-**Can I use an email alias to verify my existing Discord account?**
+**Can I use an [email alias to](https://snipstack.io/email-alias-to-avoid-spam-2026/) verify my existing Discord account?**
 
 Yes. Go to Discord's user settings, navigate to "My Account," and change the email address to your alias. Discord will send a verification email to the alias, which forwards to your real inbox. Confirm it and the alias becomes your active Discord email. [Alt ID](https://snipstack.io/blog/altid?sub=email-alias-for-discord-account-2026__faq) supports this — the alias is a full persistent address, not a one-time inbox.
 
-**Will a Discord email alias affect my 2FA or account recovery?**
+**Will a Discord [email alias](https://snipstack.io/email-alias-generator-2026/) affect my 2FA or account recovery?**
 
 No, as long as the alias is active and forwarding. Recovery codes and 2FA prompts sent to your alias arrive in your real inbox normally. If you delete the alias, update your Discord account email first — the same way you'd update after changing any email address.
 

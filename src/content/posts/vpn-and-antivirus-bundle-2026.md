@@ -73,7 +73,7 @@ Here is the honest 2026 price picture for protecting a family of four:
 
 **Option B — Bundle with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)**
 
-- Surfshark One covers **unlimited devices** on one account
+- [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) covers **unlimited devices** on one account
 - Single login for everyone in the household
 - Includes VPN, antivirus, Surfshark Alert (breach monitoring), and Surfshark Search
 

@@ -34,7 +34,7 @@ An alias sidesteps the problem at the root. X never learns your real address. Yo
 
 ## The Options Compared
 
-Not all email alias approaches work equally well for X signup specifically. Here's what the main options actually do when you try to use them.
+Not all [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) approaches work equally well for X signup specifically. Here's what the main options actually do when you try to use them.
 
 ![Step-by-step illustrated guide: comparing email alias types for Twitter X signup flow](/og/email-alias-for-twitter-x-signup-2026-inline-1.png)
 
@@ -64,7 +64,7 @@ SimpleLogin is an open-source alias service with a free tier. It works for X sig
 
 ### Alt ID
 
-[Alt ID](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid) is Surfshark's masked email alias feature, included with Surfshark subscriptions. It generates forwarding aliases on a clean domain that clears X's filters — no blocklist issues, no rejection at signup. Confirmation emails forward to your real inbox instantly. When you want to [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) X's email (or if the address appears in a breach), you delete the alias and X loses its path to your inbox. Alt ID also generates alternative identity details (name, profile info) alongside the alias, which is useful if you're creating an account you don't want tied to your real identity.
+[Alt ID](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid) is Surfshark's masked [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) feature, included with Surfshark subscriptions. It generates forwarding aliases on a clean domain that clears X's filters — no blocklist issues, no rejection at signup. Confirmation emails forward to your real inbox instantly. When you want to [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) X's email (or if the address appears in a breach), you delete the alias and X loses its path to your inbox. Alt ID also generates alternative identity details (name, profile info) alongside the alias, which is useful if you're creating an account you don't want tied to your real identity.
 
 ---
 
@@ -72,7 +72,7 @@ SimpleLogin is an open-source alias service with a free tier. It works for X sig
 
 **Step 1.** Set up Surfshark and access Alt ID through the Surfshark browser extension or dashboard. [Start here if you don't have it yet.](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid)
 
-**Step 2.** Generate a new identity in the Alt ID panel. You'll get a masked email alias (e.g., `kx7m2p@surfshark.id`) plus alternative name and profile details.
+**Step 2.** Generate a new identity in the Alt ID panel. You'll get a masked [email alias](https://snipstack.io/email-alias-generator-2026/) (e.g., `kx7m2p@surfshark.id`) plus alternative name and profile details.
 
 **Step 3.** Go to x.com and click "Create account." When prompted for your email, enter the Alt ID alias — not your real address.
 

@@ -194,7 +194,7 @@ Yes. Alt ID is provider-agnostic. It forwards to whatever email address you set 
 Yes — this is one of the biggest practical benefits of alias services. If one alias starts getting spam, you pause or delete that single alias. The site is effectively blocked from your inbox. Your real email address is never involved.
 
 **Is Surfshark Alt ID worth it if I already have SimpleLogin?**
-It depends on what else you value. SimpleLogin's free plan is solid for alias management alone. Alt ID's value is in the bundle — if you also want a VPN, antivirus, and data breach monitoring, rolling it all into Surfshark One at one price is more cost-efficient than buying each separately.
+It depends on what else you value. SimpleLogin's free plan is solid for alias management alone. Alt ID's value is in the bundle — if you also want a VPN, antivirus, and data breach monitoring, rolling it all into [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) at one price is more cost-efficient than buying each separately.
 
 **How long do Email on Deck addresses last?**
 Email on Deck does not publish a fixed expiry time, but addresses are considered temporary. Once you close the browser session, recovering that inbox is unreliable. Do not use it for any account you expect to access again.

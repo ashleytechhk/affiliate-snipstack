@@ -50,7 +50,7 @@ That's it. No technical skill required.
 
 ---
 
-## Step 1 — Sign Up for Surfshark One
+## Step 1 — Sign Up for [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)
 
 If you already have a qualifying Surfshark account, skip to Step 2.
 

@@ -56,7 +56,7 @@ You do not need technical knowledge, a VPN running, or any browser extensions be
 
 **1.3** Download the Surfshark app for your platform (Windows, macOS, iOS, Android) or log into the web dashboard at the Surfshark member area.
 
-**1.4** In the left sidebar or bottom navigation, locate **Alt ID**. It sits alongside other privacy tools in the Surfshark One suite.
+**1.4** In the left sidebar or bottom navigation, locate **Alt ID**. It sits alongside other privacy tools in the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) suite.
 
 ![Alt ID setup walkthrough](/og/send-anonymous-email-2026-inline-1.png)
 

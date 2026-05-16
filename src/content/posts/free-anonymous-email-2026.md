@@ -150,7 +150,7 @@ Use the label field consistently from the start. Brief, descriptive labels like 
 ## Frequently Asked Questions
 
 **Is Alt-ID actually free?**
-Alt-ID is included with Surfshark One. There is no standalone free tier, but Surfshark One bundles the VPN, antivirus, data-breach monitor, and Alt-ID together, which makes the per-feature cost low. You can start with a free trial. [See current pricing here.](/blog/surfshark?sub=free-anonymous-email-2026__faq)
+Alt-ID is included with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/). There is no standalone free tier, but Surfshark One bundles the VPN, antivirus, data-breach monitor, and Alt-ID together, which makes the per-feature cost low. You can start with a free trial. [See current pricing here.](/blog/surfshark?sub=free-anonymous-email-2026__faq)
 
 **Does this make me truly untraceable?**
 Using an [email alias](https://snipstack.io/how-email-alias-2026/) hides your real address from the services you sign up to. It does not make you fully untraceable across the internet — that would require additional tools. Think of it as preventing your inbox address from being exposed, not as complete anonymity online.

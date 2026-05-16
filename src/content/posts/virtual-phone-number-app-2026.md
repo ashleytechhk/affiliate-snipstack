@@ -186,7 +186,7 @@ That depends on the app. With Burner, burning a number makes it immediately inac
 
 Not through the number itself. A virtual number does not forward caller ID information that reveals your underlying number. However, if you link your [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) an account (Google Voice requires a Google account, for example), someone with access to that account could potentially trace it. [Surfshark Alt Number](/blog/surfshark?sub=virtual-phone-number-app-2026__faq) avoids this by not requiring your real number or tied identity during signup.
 
-### Do virtual phone numbers work for WhatsApp or Signal verification?
+### Do [virtual phone number](https://snipstack.io/virtual-phone-number-for-uber-registration-2026/)s work for WhatsApp or Signal verification?
 
 Yes — most of the apps on this list will work for WhatsApp verification since WhatsApp uses standard SMS. Signal is more aggressive about flagging VoIP numbers, so results vary. For WhatsApp specifically, Surfshark Alt Number, TextNow, and Talkatone all have good success rates.
 

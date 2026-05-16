@@ -215,7 +215,7 @@ Yes. Many sites check submitted addresses against known alias and [disposable em
 
 ### How many aliases can I create with Surfshark Alt-ID?
 
-Surfshark One plans include unlimited Alt-ID aliases. There is no cap — you can create one alias per service if you prefer maximum control.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plans include unlimited Alt-ID aliases. There is no cap — you can create one alias per service if you prefer maximum control.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my aliases if I cancel my Surfshark subscription?
 

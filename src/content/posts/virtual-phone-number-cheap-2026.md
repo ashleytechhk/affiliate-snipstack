@@ -190,7 +190,7 @@ Google Voice and TextNow are free, but they come with verification risks on some
 
 It depends on the service. Real mobile numbers (like Surfshark Alt-Number provides) pass without issue. VoIP numbers from Google Voice, TextNow, or Hushed may be rejected depending on the app and region. If verification is your priority, use a service that provides real mobile numbers rather than VoIP lines.
 
-**Can I use a virtual phone number to verify multiple dating apps?**
+**Can I use a [virtual phone number](https://snipstack.io/virtual-phone-number-for-uber-registration-2026/) to verify multiple dating apps?**
 
 Yes. One [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) can verify multiple apps simultaneously. You receive SMS codes to the same number regardless of which app sent them. The only limitation: some apps don't allow the same number to be used across multiple accounts (within that same app).
 

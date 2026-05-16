@@ -26,7 +26,7 @@ We will cover protection quality, speed impact, features, price, and everyday us
 
 ## Feature-by-Feature Comparison
 
-| Feature | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe | Surfshark One Bundle |
+| Feature | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle |
 |---|---|---|
 | Real-time antivirus | Yes | Yes |
 | VPN included | Yes (limited logs) | Yes (unlimited, no-logs) |

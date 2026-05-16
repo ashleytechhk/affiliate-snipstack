@@ -42,7 +42,7 @@ That's the real battleground. Here's how the three main options stack up.
 
 ![Antivirus software for iPhone comparison overview](/og/antivirus-software-for-iphone-2026.png)
 
-| Feature | Surfshark One | Norton 360 (Premium) | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Norton 360 (Premium) | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes — unlimited devices, no-logs | Yes — 60GB/month cap (lower tiers) | Yes — unlimited but throttled |
 | Web protection / phishing alerts | Yes | Yes | Yes |

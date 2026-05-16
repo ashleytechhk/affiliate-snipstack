@@ -188,7 +188,7 @@ Alt Number issues numbers that haven't been mass-recycled through free tiers. Th
 - Your match runs a reverse lookup and you don't want "VOIP Number — Not Verified" showing up
 - You want call forwarding that sounds like a real phone, not a robotic VOIP line
 
-It's also bundled with Surfshark One — so if you're already using a VPN for general privacy, you're getting Alt Number as part of the same subscription without paying separately. [Check current pricing here](https://snipstack.io/blog/altnumber?sub=get-a-second-number-for-texting-2026__mid).
+It's also bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) — so if you're already using a VPN for general privacy, you're getting Alt Number as part of the same subscription without paying separately. [Check current pricing here](https://snipstack.io/blog/altnumber?sub=get-a-second-number-for-texting-2026__mid).
 
 ---
 

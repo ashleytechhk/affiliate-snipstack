@@ -24,7 +24,7 @@ AVG Antivirus is a competent standalone AV scanner with a recognisable brand, bu
 
 ## Feature-by-Feature Comparison
 
-| Feature | AVG Antivirus (Ultimate) | Surfshark One Bundle |
+| Feature | AVG Antivirus (Ultimate) | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle |
 |---|---|---|
 | Real-time malware protection | Yes | Yes |
 | VPN included | Yes (AVG Secure VPN, separate) | Yes (unlimited data) |

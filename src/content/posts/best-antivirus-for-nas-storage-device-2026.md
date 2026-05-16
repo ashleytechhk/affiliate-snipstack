@@ -58,11 +58,11 @@ Protecting the devices in your home is the single most effective step you can ta
 
 ## The Role of Antivirus in NAS Protection
 
-It is worth being direct about something that many guides skip over: **antivirus software like Surfshark Antivirus does not install directly on a NAS device itself.** NAS devices run their own operating systems (such as Synology's DSM or QNAP's QTS) that are separate from Windows or Mac.
+It is worth being direct about something that many guides skip over: **[antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) like Surfshark Antivirus does not install directly on a NAS device itself.** NAS devices run their own operating systems (such as Synology's DSM or QNAP's QTS) that are separate from Windows or Mac.
 
 What Surfshark Antivirus does — and does extremely well — is protect every Windows PC, Mac, Android phone, and iPhone that connects to your NAS. Since ransomware almost always enters through one of those connected devices first, protecting them is your most important line of defence.
 
-Think of it this way: your NAS is a safe in your home. Antivirus software on your devices is the lock on the front door. Even the strongest safe is at risk if someone can walk freely through your front door.
+Think of it this way: your NAS is a safe in your home. [Antivirus software](https://snipstack.io/antivirus-software-2026/) on your devices is the lock on the front door. Even the strongest safe is at risk if someone can walk freely through your front door.
 
 [See Surfshark Antivirus protection plans — covers all your devices](/blog/antivirus?sub=best-antivirus-for-nas-storage-device-2026__mid)
 
@@ -165,7 +165,7 @@ Ransomware is malicious software that secretly encrypts your files — scrambles
 
 Open the Surfshark Antivirus app and look for a green indicator or the words "You are protected." The app shows clearly whether real-time protection is active. You can also run a manual scan at any time by pressing the Scan button. If anything looks red or warning-coloured, tap it for instructions on what to do next.
 
-### Is it complicated to set up antivirus for multiple devices in my home?
+### Is it complicated to set up [antivirus for](https://snipstack.io/antivirus-for-linux-ubuntu-users-2026/) multiple devices in my home?
 
 It is simpler than most people expect. Surfshark Antivirus uses a single account that works across all your devices. Download the app on your Windows PC or Mac, sign in, and repeat on your iPhone or Android phone. The whole process typically takes under ten minutes per device and does not require any technical knowledge. Customer support is available via live chat if you get stuck.
 

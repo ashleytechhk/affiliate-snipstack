@@ -164,7 +164,7 @@ They dramatically reduce it. If you use a unique alias per service, spam can onl
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if a service I signed up with suffers a data breach?
 
-If you used an alias, the breached data only reveals that alias — not your real email address. You delete the alias and create a new one for that service. Surfshark One also includes a data breach alert feature that monitors whether your details appear in known breach datasets.
+If you used an alias, the breached data only reveals that alias — not your real email address. You delete the alias and create a new one for that service. [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) also includes a data breach alert feature that monitors whether your details appear in known breach datasets.
 
 ---
 

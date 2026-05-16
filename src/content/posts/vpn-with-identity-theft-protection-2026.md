@@ -76,7 +76,7 @@ For the majority of users — people who want to know if their credentials leak 
 
 Before you start, make sure you have:
 
-- A Surfshark One subscription (not the base VPN plan — One includes Surfshark Alert)
+- A [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) subscription (not the base VPN plan — One includes Surfshark Alert)
 - Your Surfshark account login credentials
 - The email addresses and phone numbers you want to monitor (personal, work, secondary accounts)
 - About 10 minutes

@@ -148,7 +148,7 @@ For the majority of use cases — stopping spam, protecting your name from data 
 
 ### Can I use Alt-ID without a Surfshark VPN?
 
-Yes. Alt-ID is a standalone feature included in Surfshark One and One+ plans. You do not have to run the VPN to use the alias tool. That said, pairing both gives you a more complete privacy setup. [See current plan options here.](/blog/surfshark?sub=anonymous-email-2026__faq)
+Yes. Alt-ID is a standalone feature included in [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and One+ plans. You do not have to run the VPN to use the alias tool. That said, pairing both gives you a more complete privacy setup. [See current plan options here.](/blog/surfshark?sub=anonymous-email-2026__faq)
 
 ### How many aliases can I create?
 

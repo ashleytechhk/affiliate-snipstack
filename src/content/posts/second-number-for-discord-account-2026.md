@@ -48,7 +48,7 @@ Most people who use Discord for dating are thinking about vibes and profile pict
 
 Discord does not display your phone number to other users by default. But "not displayed" is not the same as "not accessible." Your number is stored in Discord's account settings, referenced in account recovery flows, and — if you have ever verified your number for a specific server feature — can be surfaced in ways you did not intend.
 
-If someone ever gets access to your account — through a phishing link shared in a DM, a session token exploit, or a social engineering attempt that is embarrassingly easy on a platform built around informal chat — your real number is in there.
+If someone ever gets access to your account — through a [phishing link](https://snipstack.io/phishing-link-checker-free-2026/) shared in a DM, a session token exploit, or a social engineering attempt that is embarrassingly easy on a platform built around informal chat — your real number is in there.
 
 ### Discord DMs are a social engineering surface
 
@@ -97,7 +97,7 @@ If you ever need a clean break — an interaction turned hostile, a server situa
 
 ---
 
-## What Happens When You Do Not Use a Second Number
+## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) You Do Not Use a Second Number
 
 This is the scenario most online daters on Discord do not think through until something goes wrong.
 
@@ -155,7 +155,7 @@ Discord does not display your phone number in your public profile. However, it i
 
 Yes. In Discord's account settings, you can update your phone number to a new one. Go to User Settings > Account, remove your existing number, and add your Alt-Number instead. Discord will verify the new number via SMS, and the old number association is removed from your account.
 
-**Is there a free way to get a second number for Discord verification?**
+**Is there a free way to [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) number for Discord verification?**
 
 There are free VoIP services, but most are blocked by Discord. The practical starting point is Alt-Number's trial, which lets you provision a real carrier-backed number and run through Discord's verification before deciding on a subscription. If you only need the number for a short-term dating period, the trial covers the initial setup and active use window.
 

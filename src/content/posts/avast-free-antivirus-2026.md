@@ -28,7 +28,7 @@ Avast [Free Antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/)
 
 ![Avast Free vs Surfshark One comparison overview](/og/avast-free-antivirus-2026.png)
 
-| Feature | Avast Free Antivirus | Surfshark One |
+| Feature | Avast Free Antivirus | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) |
 |---|---|---|
 | **Price** | Free | From ~$3.49/mo |
 | **Malware detection** | Good (AV-TEST certified) | Good (independent lab tested) |

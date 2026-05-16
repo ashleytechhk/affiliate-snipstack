@@ -74,7 +74,7 @@ Open your internet browser — Chrome, Edge, Safari, or Firefox — and use the 
 
 [Download Surfshark Antivirus + VPN Safely](/blog/antivirus?sub=antivirus-with-vpn-included-2026__mid)
 
-You will land on the official plan selection page. Look for the plan that says it includes both **Antivirus** and **VPN** — this is the Surfshark One plan. Click the button to select it.
+You will land on the official plan selection page. Look for the plan that says it includes both **Antivirus** and **VPN** — this is the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan. Click the button to select it.
 
 ![Screenshot placeholder: Surfshark One plan selection page showing Antivirus + VPN bundle highlighted with a green "Best Value" badge](/og/antivirus-with-vpn-included-2026-inline-1.png)
 
