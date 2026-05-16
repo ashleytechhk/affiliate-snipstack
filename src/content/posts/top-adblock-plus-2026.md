@@ -58,7 +58,7 @@ The tradeoff versus CleanWeb is that AdGuard does not route your traffic through
 
 **Brave** bakes Shields — its built-in ad and tracker blocker — directly into the browser at the rendering engine level. Install Brave on Android or iOS and ads are blocked by default without any configuration. It handles fingerprinting protection, cross-site cookie blocking, and bounce tracking mitigation alongside standard ad removal.
 
-For users whose primary pain point is mobile web browsing, Brave is the easiest free upgrade. There is nothing to configure and nothing to pay. The catch: like Adblock Plus, Brave only controls what happens inside its own browser. Switch to another app and Brave's Shields go with it.
+For users whose primary pain point is mobile web browsing, Brave is the easiest free upgrade. There is nothing to configure and nothing to pay. The catch: like Adblock Plus, Brave only controls [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) inside its own browser. Switch to another app and Brave's Shields go with it.
 
 Brave also offers an optional Brave VPN add-on for in-app blocking — bringing it closer to CleanWeb's coverage — but that is a paid add-on. If your mobile life is mostly web browsing and you want zero cost, Brave is a strong pick. If you need app coverage, pair it with a DNS-level solution.
 

@@ -32,7 +32,7 @@ When you connect to the internet without a VPN, a few parties can see what you a
 - **The Wi-Fi network owner** — at a cafe, hotel, or airport, the network operator can potentially see unencrypted traffic
 - **Websites and apps** — they see your real IP address, which reveals your approximate location
 
-A VPN changes that picture. Here is what happens when you turn one on:
+A VPN changes that picture. Here is [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) you turn one on:
 
 | Without VPN | With VPN |
 |---|---|

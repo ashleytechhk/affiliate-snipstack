@@ -157,7 +157,7 @@ Surfshark One covers unlimited devices simultaneously, including Windows, macOS,
 
 Surfshark operates a verified no-logs VPN policy, audited by Deloitte. Unlike some bundled VPNs from traditional antivirus vendors, Surfshark does not retain browsing session data tied to your account.
 
-### What happens after Norton's first-year promotional price ends?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after Norton's first-year promotional price ends?
 
 Norton's renewal price typically increases significantly — sometimes 2–3x the introductory rate. This is a known practice. If you want to avoid renewal bill shock, [locking in a multi-year Surfshark One plan](/blog/surfshark?sub=norton-antivirus-2026__faq) upfront provides more pricing predictability.
 

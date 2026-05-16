@@ -78,7 +78,7 @@ For a senior who mainly needs link protection and breach alerts, the mid-tier pl
 
 ### McAfee Mobile Security — Bundle Value, But Watch the Renewals
 
-McAfee's iPhone app covers the basics: web protection, Wi-Fi scanning, and identity monitoring. The interface is fairly friendly, and the first-year price is competitive. The concern many reviewers raise is what happens at renewal — introductory prices often more than double in year two. If you choose McAfee, set a calendar reminder to check the renewal price before it auto-charges.
+McAfee's iPhone app covers the basics: web protection, Wi-Fi scanning, and identity monitoring. The interface is fairly friendly, and the first-year price is competitive. The concern many reviewers raise is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) at renewal — introductory prices often more than double in year two. If you choose McAfee, set a calendar reminder to check the renewal price before it auto-charges.
 
 VPN is included, which is a plus. The unlimited data version of the VPN requires the higher-tier plan, similar to Norton.
 

@@ -146,7 +146,7 @@ No. From their side, it looks like any other WhatsApp contact. They see the numb
 **Can I use the same device for two WhatsApp accounts?**
 Yes. Android supports this natively via the Add Account feature in WhatsApp settings. On iPhone, WhatsApp added multi-account support in recent updates. Both accounts run on the same device simultaneously.
 
-**What happens to my messages if I cancel Alt-Number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my messages if I cancel Alt-Number?**
 Once a number is deactivated, new incoming messages to that number stop. Your existing WhatsApp chat history remains on your device (in the WhatsApp app itself) until you delete it. The contacts you gave the number to will no longer be able to reach you on it.
 
 **Is this legal?**

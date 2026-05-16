@@ -51,7 +51,7 @@ The single most effective habit to counter all of these: **check suspicious link
 
 ## How a Link Checker Actually Works
 
-You do not need to understand the technical details to use one — but knowing what happens in the background helps you trust the result.
+You do not need to understand the technical details to use one — but knowing [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) in the background helps you trust the result.
 
 When you submit a suspicious link to a checking tool, it does several things almost instantly:
 

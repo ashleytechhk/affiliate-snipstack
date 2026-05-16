@@ -158,7 +158,7 @@ Using an [email alias](https://snipstack.io/how-email-alias-2026/) hides your re
 **Can I reply from an alias?**
 As of 2026, Alt-ID aliases are receive-only by default. Replies sent from your real inbox will show your real address unless you use a separate anonymous email provider for replies. For most spam-reduction use cases — newsletters, free trials, shopping — receive-only is sufficient.
 
-**What happens to emails if I delete an alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to emails if I delete an alias?**
 Mail sent to a deleted alias is rejected or silently dropped depending on the sender. You will not receive those emails, and the sender will receive either a bounce notice or no response. This is exactly the behaviour you want when cutting off a spammy source.
 
 **Is Alt-ID available on iPhone and Android?**

@@ -155,7 +155,7 @@ For iPhone specifically, Surfshark One Bundle covers more of the relevant threat
 **Can I use Surfshark One on multiple devices with one subscription?**
 Yes — Surfshark One Bundle covers unlimited devices simultaneously. Norton Mobile Security and McAfee Mobile Security limit coverage to one to five devices depending on the plan you select. If you are protecting a household with multiple phones, tablets, and laptops, Surfshark's unlimited policy eliminates the need to count seats. **[See Surfshark One Bundle pricing](/blog/one?sub=best-security-app-for-iphone-2026__faq)**
 
-**What happens to my Norton subscription when I cancel?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription when I cancel?**
 If you cancel through the App Store, your Norton subscription remains active until the end of the current paid period — you do not lose coverage immediately. Cancel as soon as Surfshark One is active and running on your device so you are not double-paying for overlapping protection.
 
 **Is Surfshark One Bundle available globally?**

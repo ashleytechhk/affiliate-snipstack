@@ -134,7 +134,7 @@ It's not free. But for anyone who's had a Google Voice number rejected at signup
 
 Sometimes. Google Voice, TextNow, and similar VoIP services are increasingly blocked by dating apps that use third-party number verification. Alt-Number uses real mobile number ranges and passes verification on most platforms. If you've already had a VoIP number rejected, a real mobile number from [Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__faq) is the more reliable path.
 
-**What happens if I cancel my second number — can someone still reach me?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I cancel my second number — can someone still reach me?**
 
 No. Once a number is cancelled or replaced, any calls or texts sent to it either bounce or go to whoever takes the number next (or nowhere). Your real number is never exposed unless you gave it to them separately.
 

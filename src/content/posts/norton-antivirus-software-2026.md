@@ -131,7 +131,7 @@ In independent lab tests, both score in the high-90s for malware detection. For 
 **Does Surfshark One Bundle include a VPN?**
 Yes — and it is a full-featured VPN with unlimited devices, 3,200+ servers, and no data cap. Norton's bundled VPN is more restricted, especially on lower-tier plans.
 
-**What happens to my Norton subscription if I switch?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription if I switch?**
 Cancelling Norton stops future renewals. You typically retain access until the end of your paid period. Do not cancel before confirming your new software is active and scanning correctly.
 
 **Is Surfshark One available on Mac, Windows, iOS, and Android?**

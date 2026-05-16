@@ -192,7 +192,7 @@ Most dating apps — Tinder, Hinge, Bumble, OkCupid — accept virtual US number
 
 Not from the number itself. A real US number from Alt-Number looks identical to any other US mobile number. The area code is real, the number format is standard, and there's no technical indicator visible to the person you're texting. The only way they'd know is if you told them.
 
-### What happens to my matches if I change or cancel my Alt-Number?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my matches if I change or cancel my Alt-Number?
 
 If you delete or change the number, anyone who had that number loses the ability to reach you. This is actually a useful feature — it's a clean break mechanism if a match becomes unwanted. Your real number was never shared, so there's no fallback for them to contact you through.
 

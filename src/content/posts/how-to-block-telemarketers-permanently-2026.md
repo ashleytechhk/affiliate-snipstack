@@ -54,7 +54,7 @@ If you don't have Surfshark yet, [start here](/blog/altnumber?sub=how-to-block-t
 
 ## How to Block Telemarketers Permanently: Step-by-Step
 
-### Step 1. Register with the National Do Not Call Registry
+### Step 1. Register with the [National Do Not Call Registry](https://snipstack.io/burner-number-dating-apps-2026/)
 
 Go to [donotcall.gov](https://donotcall.gov) and register your real number. This is free and takes two minutes.
 
@@ -88,7 +88,7 @@ Turn this on. It uses network-level pattern detection to flag and block known sp
 Settings → Phone → Silence Unknown Callers → toggle ON
 
 **On Android (varies by manufacturer):**
-Phone app → Settings → Blocked Numbers → Block Unknown/Private Numbers → toggle ON
+Phone app → Settings → Blocked Numbers → [Block Unknown](https://snipstack.io/block-unknown-callers-iphone-2026/)/Private Numbers → toggle ON
 
 This sends any call from a number not in your contacts straight to voicemail. Telemarketers rarely leave messages. Legitimate people who aren't in your contacts can leave a voicemail and you call them back.
 
@@ -96,7 +96,7 @@ This sends any call from a number not in your contacts straight to voicemail. Te
 
 ---
 
-### Step 4. Get a Second Number with Surfshark Alt-Number
+### Step 4. [Get a Second](https://snipstack.io/get-a-second-number-for-texting-2026/) Number with Surfshark Alt-Number
 
 ![Surfshark Alt-Number interface showing a second phone number being generated on a smartphone screen](/og/how-to-block-telemarketers-permanently-2026-inline-1.png)
 

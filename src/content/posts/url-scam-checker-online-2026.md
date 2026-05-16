@@ -60,7 +60,7 @@ The solution is not to distrust every email — it is to build a quick checking 
 
 ## How a URL Scam Checker Online Works
 
-You do not need to understand the technical details to use one, but knowing roughly what happens behind the scenes can help you trust the result.
+You do not need to understand the technical details to use one, but knowing roughly [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) behind the scenes can help you trust the result.
 
 **Step 1 — You paste the link into the checker.**
 

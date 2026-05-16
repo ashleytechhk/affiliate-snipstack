@@ -225,7 +225,7 @@ Not from the number alone. A real US number from Alt Number or Hushed looks iden
 **Can I use a second number to verify dating apps like Tinder or Bumble?**
 Usually yes, but results vary by provider. Paid providers with real number inventory (Alt Number, Hushed paid tier) have better success rates than Google Voice or TextNow free tier. [Alt Number](https://snipstack.io/blog/altnumber?sub=get-a-second-number-for-texting-2026__faq) is specifically worth trying if you've had VOIP numbers rejected before.
 
-**What happens if I delete the app — do I lose the number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the app — do I lose the number?**
 The number is tied to your account, not the app install. Delete and reinstall is fine as long as you log back into the same account. If you cancel a paid subscription (Hushed, Alt Number), the number is released after a grace period.
 
 **Can my second number receive calls, not just texts?**

@@ -190,7 +190,7 @@ Antivirus protects you from malicious files and programs. A VPN protects your pr
 
 Surfshark Antivirus updates automatically in the background. You do not need to do anything — it stays current with the latest threat definitions on its own.
 
-### What happens when my subscription runs out?
+### [What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) my subscription runs out?
 
 You will receive an email reminder before it expires. If you do not renew, real-time protection will stop, but your account will still exist and you can resubscribe at any time. It is a good idea to set a reminder on your phone or calendar about 2 weeks before the renewal date.
 

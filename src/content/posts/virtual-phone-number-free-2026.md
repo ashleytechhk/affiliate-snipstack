@@ -148,7 +148,7 @@ It depends on the app and the service. Major dating platforms have started block
 
 No — that's the point. Your virtual number and your real number are separate. Someone with your virtual number cannot reverse-lookup your real phone number. They can only reach you through the virtual number until you choose to retire it.
 
-### What happens if I delete my virtual number?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my virtual number?
 
 The number stops working. Calls go nowhere; texts bounce. If you've shared it with a match who then tries to reach you, they'll get nothing — no indication of whether the number ever existed. It's a clean cut.
 

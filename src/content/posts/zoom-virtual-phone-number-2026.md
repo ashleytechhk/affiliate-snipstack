@@ -186,7 +186,7 @@ Yes — this is one of the strongest use cases for a service like Alt-Number. Yo
 **Is it safe to give clients a virtual phone number?**
 Yes. Clients call and text your virtual number exactly as they would any other phone number — they don't know or need to know it's a virtual line. The experience on their end is identical. On your end, the benefit is that you can retire or change the number if a client relationship ends badly, without disrupting your real personal number.
 
-**What happens if I cancel my Alt-Number subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I cancel my Alt-Number subscription?**
 Your number goes inactive at the end of the billing period. Calls to that number will no longer connect. It's good practice to give active clients a heads-up before changing numbers — or to port the number to another service if you want to keep it long-term.
 
 **Can I run Alt-Number and Zoom Phone at the same time?**

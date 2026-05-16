@@ -178,7 +178,7 @@ Some can, some cannot. Apps like Tinder use carrier-lookup tools to flag numbers
 
 No major dating platform explicitly bans virtual numbers in their terms of service. They may reject the number during SMS verification if it fails a VoIP check, but using a secondary number for privacy is not a violation. You're not deceiving anyone about who you are — just keeping your contact details private, which is reasonable.
 
-### What happens to messages if I cancel my virtual number?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to messages if I cancel my virtual number?
 
 That depends on the app. With Burner, burning a number makes it immediately inactive — any messages sent to it after that point are dropped. With Hushed and Surfshark Alt Number, your number remains active until your subscription expires. Always give matches a heads-up before switching numbers if you want to keep the conversation going.
 

@@ -161,7 +161,7 @@ Unlimited. One subscription covers as many devices as you own across Windows, Ma
 
 Surfshark operates a verified no-logs policy, meaning they do not store records of your browsing sessions, connection timestamps, or IP addresses. This policy has been independently audited. The antivirus component processes file threats locally on your device.
 
-### What happens to my Norton subscription if I switch?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription if I switch?
 
 You can cancel Norton auto-renewal at any time through your account at norton.com. If you cancel before your renewal date, you keep access until the current paid period ends. Check your subscription terms for the exact refund window.
 

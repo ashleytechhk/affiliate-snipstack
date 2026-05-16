@@ -137,7 +137,7 @@ Yes. Using a secondary or alternate phone number is not against the law. Most da
 
 Yes. Surfshark Alt Number works in multiple countries and is not restricted to US users, unlike Google Voice. **[Check if Alt Number is available in your region →](/blog/altnumber?sub=temporary-phone-number-for-verification-2026__faq)**
 
-### What happens if I want to stop using a temporary number?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I want to stop using a temporary number?
 
 You can let any of these numbers expire or delete them. Anyone who has that number will no longer be able to reach you through it. With Google Voice, you can delete your number from the settings. With Hushed and TextNow, canceling your account removes the number. With Alt Number, you manage it through your Surfshark account. None of this affects your real number.
 

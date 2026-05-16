@@ -143,7 +143,7 @@ ProtonVPN and Windscribe both offer free tiers with no expiry date. However, fre
 
 A quality VPN will reduce your raw speed slightly due to encryption overhead, but modern VPN protocols (WireGuard, which both NordVPN and Surfshark support) minimize this. On a standard broadband connection, the impact on streaming quality is typically negligible.
 
-### What happens after the 30-day period ends?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after the 30-day period ends?
 
 Your subscription renews automatically at the rate you signed up for. If you locked in a two-year plan at the promotional rate, that rate holds for the plan duration. Check the renewal terms at checkout before committing.
 

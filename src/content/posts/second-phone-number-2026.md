@@ -170,7 +170,7 @@ Most dating apps verify your number via SMS during signup. [Second phone number]
 
 It depends on the app. Surfshark Alt-Number, Hushed, Burner, and TextNow all support both calls and SMS. Google Voice supports both as well. Some budget options are SMS-only, so check the feature list before signing up.
 
-**What happens if I delete my second phone number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my second phone number?**
 
 Once you cancel or delete a number, it becomes unreachable. Calls and texts sent to it will not be delivered, and you will not receive any notifications. This is the feature that makes second numbers so useful for dating: you can cut contact cleanly, without blocking or confrontation. [Alt-Number](/blog/surfshark?sub=second-phone-number-2026__faq) lets you do this instantly from the app.
 

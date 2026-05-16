@@ -194,7 +194,7 @@ Both Netflix and Spotify block common burner domains. Alt ID generates unique ma
 **Can I receive important emails (receipts, cancellation links) with a disposable address?**
 With temporary addresses like 10 Minute Mail, no — the inbox expires. With Alt ID and Hide My Email, yes — both forward to your real inbox, so you receive every email the service sends while your real address stays hidden.
 
-**What happens to my trial if I disable the Alt ID address?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my trial if I disable the Alt ID address?**
 Your trial account continues to exist. Disabling forwarding just means future emails from that service no longer reach you. You can still log in with the masked email address if you need to access the account — you just won't receive new emails from them.
 
 ---

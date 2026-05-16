@@ -181,7 +181,7 @@ The DoH URL for the default resolver is `https://dns.adguard-dns.com/dns-query`.
 
 Yes. Android's Private DNS setting and iOS configuration profiles apply to all network interfaces — Wi-Fi, 4G, 5G, and any future cellular standard. Unlike router-level DNS changes (which only affect devices on that specific Wi-Fi network), device-level hostname configuration follows your device everywhere.
 
-### What happens if my network blocks port 853 (DoT)?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if my network blocks port 853 (DoT)?
 
 Android's Private DNS will show a connection error and fall back to unencrypted DNS. In that case, install the AdGuard DoH configuration profile (iOS) or use the AdGuard app directly, which supports DoH natively. Alternatively, [a VPN like Surfshark](/blog/adblock?sub=adguard-dns-hostname-2026__faq) routes all traffic through an encrypted tunnel, bypassing network-level DNS restrictions entirely.
 

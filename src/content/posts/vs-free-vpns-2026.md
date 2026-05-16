@@ -137,7 +137,7 @@ No. Surfshark offers one-click apps for iOS, Android, Windows, macOS, and Fire T
 
 Consistently, yes. Free VPN servers are shared across enormous user bases with no investment in capacity. Surfshark maintains 3,200+ servers across 100+ countries with active load balancing. The WireGuard protocol it uses by default is also architecturally faster than older VPN protocols. Independent speed tests regularly clock Surfshark at 400+ Mbps on nearby servers — well above what any streaming platform requires.
 
-### What happens after the 30-day money-back period?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after the 30-day money-back period?
 
 Your subscription continues at the rate you signed up for. Surfshark does not silently increase your rate mid-term on multi-year plans. If you're not satisfied within the first 30 days, you can request a refund through live chat — no questions asked.
 

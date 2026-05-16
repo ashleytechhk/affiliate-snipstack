@@ -140,7 +140,7 @@ Google Voice is a workable free option for US-based daters. You get a real-looki
 
 Most tools on this list support both platforms. Surfshark Alt-Number, Hiya, RoboKiller, Burner, and YouMail all have iOS and Android apps. Nomorobo works at the carrier level and is therefore device-agnostic. Google Voice requires the Google Voice app, available on both platforms.
 
-**What happens if I block someone on a dating app — can they still call me?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I block someone on a dating app — can they still call me?**
 
 Blocking someone on a dating app (Tinder, Hinge, Bumble, etc.) prevents contact through that platform. If they already have your real phone number, they can still call or text you from it. This is exactly why sharing a secondary number rather than your real one matters — you can retire the secondary number without affecting your actual line.
 

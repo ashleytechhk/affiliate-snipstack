@@ -133,7 +133,7 @@ You can, but it defeats the purpose. Using a unique alias per site means you can
 **Will this work for two-factor authentication emails?**
 Yes. 2FA emails sent to your alias forward to your real inbox just like any other email. There is a slight delay inherent in forwarding, but it is typically under 30 seconds — well within the validity window of most 2FA codes.
 
-**What happens if Surfshark goes down?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if Surfshark goes down?**
 During any service interruption, emails to your alias may queue or bounce temporarily. For critical accounts, keep your real address as a backup recovery option in the account settings of that service.
 
 **How many aliases can I create?**

@@ -61,7 +61,7 @@ A VPN encrypts everything that leaves your device, regardless of whether the des
 
 ## How VPN for Public Wifi Security Works: Step by Step
 
-When you connect to a VPN on public wifi, here is what happens in sequence:
+When you connect to a VPN on public wifi, here is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) in sequence:
 
 1. **You open the VPN app and connect to a server.** The app establishes an encrypted tunnel to a VPN server in your chosen location.
 2. **Your device routes all traffic through the tunnel.** Every request — browser, app, background sync — goes through the encrypted channel before hitting the internet.

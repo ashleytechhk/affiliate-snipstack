@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 Your neighbor got a virus on their computer. Your friend clicked a link in an email and lost money to a scam. Now you are worried about your own Windows 11 PC — and you want protection without paying a fortune.
 
-Good news: there is a free antivirus built right into Windows 11, and it works well. This step-by-step guide will show you [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) that it is running, how to use it, and what else you can do to stay safe — all in plain, simple language. No technical experience needed.
+Good news: there is a [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) built right into Windows 11, and it works well. This step-by-step guide will show you [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) that it is running, how to use it, and what else you can do to stay safe — all in plain, simple language. No technical experience needed.
 
 ---
 
@@ -36,7 +36,7 @@ That is everything. You do not need to buy anything or download any software to 
 
 ## Step 1 — Open [Windows Security](https://snipstack.io/windows-security-2026/)
 
-Windows 11 has a built-in app called **Windows Security**. This is where you manage your free antivirus. Here is how to open it:
+Windows 11 has a built-in app called **Windows Security**. This is where you manage your free [antivirus](https://snipstack.io/vs-antivirus-2026/). Here is how to open it:
 
 1. Look at the bottom of your screen for the **Start button** — it looks like four small squares (the Windows logo).
 2. Click the Start button.
@@ -204,7 +204,7 @@ Partially. Defender can catch malicious file attachments in emails, but it does 
 
 ### What is the difference between a virus and a scam?
 
-A virus is a software program that hides on your computer and causes damage — slowing it down, stealing files, or locking you out. A scam is when a real person (or an automated system) tricks you into giving away your money, passwords, or personal information. Antivirus software stops viruses. Stopping scams also requires awareness, caution, and sometimes a web protection tool that flags dangerous websites. **[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-for-windows-11-2026__faq)** covers both device-level threats and common online scam tactics.
+A virus is a software program that hides on your computer and causes damage — slowing it down, stealing files, or locking you out. A scam is when a real person (or an automated system) tricks you into giving away your money, passwords, or personal information. [Antivirus software](https://snipstack.io/antivirus-software-2026/) stops viruses. Stopping scams also requires awareness, caution, and sometimes a web protection tool that flags dangerous websites. **[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-for-windows-11-2026__faq)** covers both device-level threats and common online scam tactics.
 
 ### How often should I scan my computer?
 

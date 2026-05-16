@@ -186,7 +186,7 @@ Aliases stop new spam from reaching you on addresses you have not yet exposed. T
 **How many aliases should I use?**
 As many as makes sense for your habits. A simple starting point: one alias for shopping, one for newsletters, and a fresh alias for any trial or unfamiliar site. With unlimited aliases on Alt-ID, there is no cost to being generous about it.
 
-**What happens if I cancel my Surfshark subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I cancel my Surfshark subscription?**
 Alias forwarding pauses when your subscription lapses. Emails sent to your aliases during that period will not be delivered. Before cancelling, export your alias list and update the most important accounts with a new address.
 
 **Can I use an [email alias to](https://snipstack.io/email-alias-to-avoid-spam-2026/) reply to emails without revealing my real address?**

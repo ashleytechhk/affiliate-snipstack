@@ -202,7 +202,7 @@ Surfshark Antivirus has a clean, guided setup process and keeps alerts minimal a
 **Can I use Surfshark Antivirus on my iPhone too?**
 Yes. A single Surfshark subscription covers multiple devices, including iPhones and iPads, all under one account.
 
-**What happens if Surfshark finds a virus on my Mac?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if Surfshark finds a virus on my Mac?**
 Surfshark immediately quarantines the file — moving it somewhere safe where it can't cause damage — and alerts you in plain language. You then choose to delete it permanently. The whole process is guided step by step inside the app.
 
 ---

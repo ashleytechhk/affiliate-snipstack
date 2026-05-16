@@ -184,7 +184,7 @@ No. Dating apps verify that you can receive an SMS code. They do not run backgro
 
 Yes. Your Alt-Number is a real phone number. You can use it as the contact number you share across Tinder, Hinge, Bumble, or anywhere else. The same number works for all of them.
 
-**What happens to my messages if I cancel the number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my messages if I cancel the number?**
 
 Once you cancel, texts and calls to that number are disconnected. The person on the other end cannot reach you. Messages stored inside the Surfshark app may remain accessible until you clear them, but incoming messages stop. Save anything you want to keep before canceling.
 

@@ -200,7 +200,7 @@ Yes — Google Voice is genuinely free for US residents and works for texting. T
 
 Dating apps verify that you received an SMS code — they do not check whether the number is your "primary" line. As long as verification completes successfully, the app has no way to distinguish your burner from a regular SIM number. This applies to Tinder, Hinge, Bumble, and most other platforms.
 
-**What happens when I burn the number — can people still reach me?**
+**[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I burn the number — can people still reach me?**
 
 No. Once you replace or cancel a burner number, any calls or texts sent to it go nowhere (or to whoever is assigned that number next, which is not you). Your real phone number was never exposed, so there is nothing for former matches to fall back on.
 

@@ -83,7 +83,7 @@ The Plus tier is a legitimate full-featured VPN. The price is higher than some c
 
 ## How ProtonVPN Android Actually Works
 
-When you open the app and connect, here is what happens under the hood:
+When you open the app and connect, here is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) under the hood:
 
 1. **Protocol negotiation** — ProtonVPN defaults to WireGuard on Android, currently the fastest and most efficient VPN protocol available. IKEv2 and OpenVPN are available as fallbacks.
 2. **Encrypted tunnel** — Your device establishes an AES-256 encrypted connection to a ProtonVPN server. Traffic inside the tunnel is unreadable to anyone intercepting it in transit.

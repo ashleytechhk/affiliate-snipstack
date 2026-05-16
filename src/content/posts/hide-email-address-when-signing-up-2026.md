@@ -205,7 +205,7 @@ Masking your address prevents new spam from reaching your real inbox through tha
 **Can I reply from a masked alias?**
 It depends on the service. Surfshark Alt ID and Firefox Relay are forwarding-only — replies go from your real address unless you configure your email client otherwise. Apple Hide My Email allows sending from aliases via Apple Mail on iOS and Mac.
 
-**What happens to forwarded mail if I cancel my Surfshark subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to forwarded mail if I cancel my Surfshark subscription?**
 If you cancel, your Alt ID aliases stop working and mail sent to them will no longer be forwarded. Before cancelling, update any important accounts to your real address or an alternative alias service.
 
 **Which tool works on Android?**

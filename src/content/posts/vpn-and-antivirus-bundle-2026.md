@@ -203,7 +203,7 @@ Surfshark Antivirus runs alongside Windows Defender by default. You do not need 
 
 Yes. The VPN component supports split tunneling, which lets you route streaming traffic through the VPN while keeping your work apps on the regular connection. Enable it under Settings → VPN → Split Tunneling and add your work apps to the bypass list.
 
-**What happens if I need to cancel?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I need to cancel?**
 
 Surfshark offers a 30-day money-back guarantee. Cancel within 30 days via the support chat and you get a full refund. After 30 days, you can turn off auto-renewal at any time and use the remaining subscription period.
 

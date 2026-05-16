@@ -194,7 +194,7 @@ Apple does not publish a fixed cap for Hide My [Email alias](https://snipstack.i
 
 On Apple devices, yes. If an email arrives via your alias, you can reply from the same alias address using Apple Mail — the alias appears in the From field. On non-Apple mail clients, replies will come from your primary address unless you configure the alias in your email client's settings manually.
 
-### What happens to my iCloud aliases if I cancel iCloud+?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my iCloud aliases if I cancel iCloud+?
 
 Alias forwarding stops when iCloud+ lapses. Emails sent to your aliases during a lapsed period are not delivered and are not queued for later — they are dropped. Before cancelling, note your active aliases and update those accounts with a new address.
 

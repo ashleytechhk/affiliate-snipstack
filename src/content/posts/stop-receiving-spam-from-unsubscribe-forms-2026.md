@@ -12,7 +12,7 @@ You scroll to the bottom of the email, find the tiny unsubscribe link, click it 
 
 That is not a coincidence. Clicking unsubscribe from certain senders tells them your address is active and monitored. They note it. They sell it. The problem compounds.
 
-This guide explains exactly why unsubscribe forms backfire, the steps you can take right now using built-in tools in Gmail, Outlook, and Apple Mail, and why the permanent fix is to stop handing your real address to strangers in the first place. [Surfshark Alt ID](/blog/altid?sub=stop-receiving-spam-from-unsubscribe-forms-2026__above-fold) makes that practical — and this guide shows you how to set it up.
+This guide explains exactly why unsubscribe forms backfire, the steps you can take right now using built-in tools in Gmail, Outlook, and Apple Mail, and why the permanent fix is to stop handing your real address to strangers in the first place. [Surfshark Alt ID](/blog/altid?sub=stop-receiving-spam-from-unsubscribe-forms-2026__above-fold) makes that practical — and this guide shows you [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up.
 
 ---
 
@@ -224,7 +224,7 @@ Yes. The alias forwarding runs through Surfshark's infrastructure independently 
 **Can I use Alt ID on mobile?**
 The browser extension works in Chrome and Firefox on Android desktop-mode. For iOS, Safari on iPhone supports the extension through the Surfshark app. For signing up inside mobile apps rather than mobile browsers, copy the alias from the Alt ID dashboard and paste it manually into the app's sign-up field.
 
-**What happens to forwarded mail if I cancel my Surfshark subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to forwarded mail if I cancel my Surfshark subscription?**
 When a subscription ends, Alt ID aliases stop forwarding. Before cancelling, update any accounts you actually care about to your real address or an alternative alias service. Accounts using aliases for spam-only sign-ups can simply be abandoned.
 
 **Will spam filters alone fix this problem without using an alias?**

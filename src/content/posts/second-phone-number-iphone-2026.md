@@ -170,7 +170,7 @@ iPhone XS and newer (including all iPhone 11, 12, 13, 14, 15, and 16 models) sup
 **Can people tell I am using a second phone number?**
 With Alt-Number, the number looks like any standard local mobile number. Free tools that check whether a number is VoIP will not flag it, because it is not VoIP — it is a real number. With Google Voice or TextNow, the VoIP origin is visible to anyone who runs a quick lookup.
 
-**What happens if I stop paying for the Alt-Number subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I stop paying for the Alt-Number subscription?**
 Your number becomes inactive when the subscription ends. Anyone who texts or calls that number will not be able to reach you. Your call and message history inside the app may be cleared. If you want to keep the number active, maintain the subscription. If you are done with it — and done with a particular match — letting the subscription lapse or simply removing the number is a clean way to close that contact entirely.
 
 **Is it legal to use a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) dating?**

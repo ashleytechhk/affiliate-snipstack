@@ -146,7 +146,7 @@ Yes, if the number is a real mobile number rather than a VoIP line. Alt-Number i
 **Will a match know I'm using a virtual number?**  
 In most cases, no. From your match's perspective, the Alt-Number behaves exactly like a regular mobile number — it shows up as a local number in their contacts, calls and texts work normally, and there is no indicator that it's routed through a privacy service. Carrier lookup tools could theoretically identify the number's registration, but this is not something most people have access to or would think to check.
 
-**What happens when I want to change my number?**  
+**[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I want to change my number?**  
 With Alt-Number, you replace the number through the Surfshark app. Your match retains the old number in their phone — but it no longer routes to you. There is no notification sent to them, no error message on their end, and no connection back to your real number. It is a clean break.
 
 **Is it legal to use a virtual number on dating apps?**  

@@ -123,7 +123,7 @@ Surfshark One Bundle supports unlimited devices across Windows, macOS, Android, 
 
 Windows Defender provides a real baseline — significantly better than it was five years ago. However, it covers only malware detection. It offers no VPN protection for public Wi-Fi, no password manager, no dark web monitoring, and no phishing-specific protections beyond what Edge's SmartScreen provides. For most users who want comprehensive security, a paid suite covering those layers is worth the cost.
 
-### What happens when I cancel Norton mid-subscription?
+### [What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I cancel Norton mid-subscription?
 
 Norton offers prorated refunds within 60 days of purchase for annual plans. After that window, you typically get no refund for remaining subscription time. Best practice: cancel auto-renewal now and let the current period expire, then switch. That way you get your full paid coverage and do not overlap billing.
 

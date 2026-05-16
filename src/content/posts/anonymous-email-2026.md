@@ -158,7 +158,7 @@ Surfshark One plans include unlimited Alt-ID aliases. There is no cap — create
 
 No. When you reply from an Alt-ID alias, Surfshark's servers handle the routing. The recipient sees the alias address in the "From" field, not your real address.
 
-### What happens if I cancel my Surfshark subscription?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I cancel my Surfshark subscription?
 
 Your aliases stop forwarding. Any emails sent to them will bounce. It is worth noting this before committing — if you use aliases widely, losing access to them requires updating your address at every affected service.
 

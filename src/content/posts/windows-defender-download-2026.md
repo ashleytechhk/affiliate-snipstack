@@ -127,7 +127,7 @@ Stay calm. Windows Security will show you options: **Quarantine** (safe box), **
 
 Windows Defender is genuinely good — far better than nothing, and good enough for most everyday tasks. But there is one area where it cannot help: **your internet connection**.
 
-When you use public Wi-Fi at a coffee shop, library, or doctor's waiting room, criminals can sometimes "listen in" on your connection. Windows Defender cannot see what happens on the network — it only guards the files already on your computer.
+When you use public Wi-Fi at a coffee shop, library, or doctor's waiting room, criminals can sometimes "listen in" on your connection. Windows Defender cannot see [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) on the network — it only guards the files already on your computer.
 
 That is why many security experts recommend pairing Windows Defender with an antivirus bundle that also covers your internet traffic. **[Surfshark Antivirus](/blog/surfshark?sub=windows-defender-download-2026__mid)** is one option designed to be simple enough for non-technical users. It adds:
 

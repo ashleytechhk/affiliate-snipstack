@@ -166,7 +166,7 @@ Alt-ID is included in the **Surfshark One** subscription. There is no standalone
 
 Yes. Alt-ID forwards to any email address, including Google Workspace (formerly G Suite) accounts. The setup steps are identical to a standard Gmail account.
 
-### What happens to my aliases if I cancel Surfshark?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my aliases if I cancel Surfshark?
 
 Alias forwarding stops when your subscription lapses. Emails sent to your aliases during that period will not be delivered. If you plan to cancel, export a list of your active aliases and update those accounts with a new address before your subscription ends.
 

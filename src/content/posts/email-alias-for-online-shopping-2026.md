@@ -18,7 +18,7 @@ You check out on a new e-commerce site, enter your real email, and within 48 hou
 
 ## Why Retailers Leak Your Email (And Why That Hurts)
 
-Online retailers collect your email for legitimate reasons: order confirmations, shipping updates, returns. The problem is what happens after the sale.
+Online retailers collect your email for legitimate reasons: order confirmations, shipping updates, returns. The problem is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after the sale.
 
 **Marketing list reuse.** Most stores enroll you in a promotional mailing list the moment you create an account. Opt-out links are buried, pre-ticked checkboxes are standard, and "unsubscribe" often removes you from one list while leaving you on three others.
 

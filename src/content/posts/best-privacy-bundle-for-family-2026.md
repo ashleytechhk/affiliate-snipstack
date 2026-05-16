@@ -187,7 +187,7 @@ For the core job — real-time malware detection, phishing protection, and backg
 
 Yes. One subscription covers unlimited simultaneous devices. Every family member can have the app running on their phone, tablet, and laptop at the same time. You manage everything through a single account.
 
-### What happens to the Alt-ID if I cancel?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to the Alt-ID if I cancel?
 
 [Email alias](https://snipstack.io/email-alias-for-online-shopping-2026/)es tied to your Alt-ID stop forwarding when the subscription ends. If you use an alias as the login email for a service, you would need to update that account's email to your real address before cancelling. This is worth managing proactively if you plan to switch providers later.
 

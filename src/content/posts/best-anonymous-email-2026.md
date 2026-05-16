@@ -162,7 +162,7 @@ Absolutely. Many privacy-conscious users run Alt-ID for new signups, SimpleLogin
 
 They dramatically reduce it. If you use a unique alias per service, spam can only reach that alias — and you can switch it off immediately. Your real inbox stays clean because it was never shared. What these tools cannot do is retroactively protect an address that is already circulating.
 
-### What happens if a service I signed up with suffers a data breach?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if a service I signed up with suffers a data breach?
 
 If you used an alias, the breached data only reveals that alias — not your real email address. You delete the alias and create a new one for that service. Surfshark One also includes a data breach alert feature that monitors whether your details appear in known breach datasets.
 

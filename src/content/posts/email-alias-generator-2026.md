@@ -189,7 +189,7 @@ Surfshark does not publish a hard per-account cap for Alt-ID. In practice, most 
 **Will I receive emails sent to my alias in my normal inbox?**
 Yes. Alt-ID forwards all incoming email from your alias to the real address you registered with Surfshark. It arrives in your regular inbox just like any other email. You do not check a separate dashboard for messages.
 
-**What happens when I delete an alias?**
+**[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I delete an alias?**
 Any email sent to that alias after deletion bounces permanently. Emails already in transit when you delete may still arrive, but the channel closes immediately for new messages. Your real address is never exposed.
 
 **Is Surfshark Alt-ID included in the basic Surfshark plan?**

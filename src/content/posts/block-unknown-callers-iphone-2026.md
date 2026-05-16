@@ -12,7 +12,7 @@ You matched with someone on Hinge. Conversation feels right, so you swap numbers
 
 iPhone's built-in silence feature is one partial answer. But if you're serious about keeping your real number private while you date, there's a smarter approach in 2026 — and it starts before you ever make that call.
 
-**Tired of strangers having your real number? [Try Alt-Number from Surfshark](/blog/altnumber?sub=block-unknown-callers-iphone-2026__above-fold) — a second phone number that keeps your real one off the table.**
+**Tired of strangers having your real number? [Try Alt-Number from Surfshark](/blog/altnumber?sub=block-unknown-callers-iphone-2026__above-fold) — a second [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) that keeps your real one off the table.**
 
 ---
 
@@ -89,7 +89,7 @@ If you're online dating regularly, the most effective privacy step isn't blockin
 
 This is where **Surfshark Alt-Number** fits in.
 
-Alt-Number gives you a real, functional second phone number — separate from your personal number — that you use for dating. You text from it, receive calls on it, and if things go wrong, you stop using that number. Your real number was never involved.
+Alt-Number gives you a real, functional [second phone number](https://snipstack.io/second-phone-number-for-verification-2026/) — separate from your personal number — that you use for dating. You text from it, receive calls on it, and if things go wrong, you stop using that number. Your real number was never involved.
 
 [Get a second number for dating with Alt-Number](/blog/altnumber?sub=block-unknown-callers-iphone-2026__mid)
 
@@ -108,7 +108,7 @@ The psychological shift matters too. When you know your real number isn't on the
 
 ## How Surfshark Alt-Number Works
 
-Alt-Number is a virtual phone number service from Surfshark. Here's the practical breakdown:
+Alt-Number is a [virtual phone number](https://snipstack.io/virtual-phone-number-for-personal-use-2026/) service from Surfshark. Here's the practical breakdown:
 
 **1. You get a real second number.** It's a working US phone number (or other supported region). Texts and calls made to it arrive on your device through the Alt-Number app.
 

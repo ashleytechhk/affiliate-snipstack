@@ -217,7 +217,7 @@ Yes. Many sites check submitted addresses against known alias and [disposable em
 
 Surfshark One plans include unlimited Alt-ID aliases. There is no cap — you can create one alias per service if you prefer maximum control.
 
-### What happens to my aliases if I cancel my Surfshark subscription?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my aliases if I cancel my Surfshark subscription?
 
 Your aliases stop forwarding. Emails sent to them will bounce. If you use aliases widely, make a note of this before cancelling — you will need to update your address at every affected service before your subscription ends.
 

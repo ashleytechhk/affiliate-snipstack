@@ -122,7 +122,7 @@ The VPN in Surfshark One has no data caps and no speed throttling. You can use i
 **How many devices can I use with Surfshark One?**
 Unlimited simultaneous connections on a single subscription. This covers phones, laptops, tablets, and desktops regardless of operating system.
 
-**What happens to my data if Surfshark has a breach?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my data if Surfshark has a breach?**
 Surfshark operates a verified no-logs VPN policy — your browsing activity is not stored on their servers. Independent audits have confirmed this. There is no traffic log to expose. This is categorically different from what a traditional antivirus company holds about your system activity.
 
 **Can I keep my Norton subscription running alongside Surfshark?**

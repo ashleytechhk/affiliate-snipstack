@@ -24,7 +24,7 @@ This guide walks you through exactly [how to set](https://snipstack.io/how-to-se
 
 ## Why You Need a [Second Phone Number](https://snipstack.io/second-phone-number-for-verification-2026/) for Dating
 
-Dating apps protect your in-app identity well enough. The problem is what happens when the conversation moves off-platform.
+Dating apps protect your in-app identity well enough. The problem is [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) the conversation moves off-platform.
 
 Sharing your number feels like a natural step. It signals you're serious, moves things forward, opens up texting. But it also hands a near-stranger your actual mobile number — the same one attached to your bank, your work contacts, your family WhatsApp. Once someone has it, they have it. Blocking them removes the channel but not the number.
 

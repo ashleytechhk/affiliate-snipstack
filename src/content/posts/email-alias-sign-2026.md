@@ -210,7 +210,7 @@ More than you expect. If you commit to a new alias for every signup, you will ac
 **Is it legal to sign up for sites with an alias email?**
 Yes, in virtually every jurisdiction. Using a forwarding alias to protect your primary email address is a standard privacy practice and entirely lawful. The narrow exception is platforms with explicit identity verification requirements, where their terms of service may prohibit alias addresses — read the terms for high-stakes services like financial accounts.
 
-**What happens to emails already received if I delete an alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to emails already received if I delete an alias?**
 Emails already forwarded to your real inbox remain there permanently. Deleting an alias only affects future messages — they will bounce or be silently dropped depending on the provider's settings. Your existing received mail is never affected.
 
 **Can I use Alt-ID on mobile?**

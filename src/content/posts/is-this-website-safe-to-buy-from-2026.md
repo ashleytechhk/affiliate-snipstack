@@ -158,7 +158,7 @@ Yes. You can paste any URL into Scamcheck from a phone browser before completing
 
 ## Final Verdict
 
-Fake online stores are a real and growing problem, and they are good at passing a casual visual inspection. The six checks in this guide are targeted at the signals that actually matter for shopping safety — not generic website trust, but buyer-specific risk: where is the business, who handles the payment, and what happens if you need a refund.
+Fake online stores are a real and growing problem, and they are good at passing a casual visual inspection. The six checks in this guide are targeted at the signals that actually matter for shopping safety — not generic website trust, but buyer-specific risk: where is the business, who handles the payment, and [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if you need a refund.
 
 Run the manual checks and back them up with a real-time Scamcheck scan. Two minutes before checkout can save you hours of dispute resolution after.
 

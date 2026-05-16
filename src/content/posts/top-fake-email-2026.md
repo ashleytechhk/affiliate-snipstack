@@ -141,7 +141,7 @@ Burner services like Guerrilla Mail let you send and receive within a session. A
 **Q: Will websites detect and reject fake email addresses?**
 Some services run checks and block known disposable domains. Alias services that use less-flagged domains are less likely to be rejected. Alt-ID addresses are tied to Surfshark's infrastructure and behave like regular email addresses to receiving servers.
 
-**Q: What happens to my accounts if I delete a fake [email alias](https://snipstack.io/email-alias-outlook-2026/)?**
+**Q: [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my accounts if I delete a fake [email alias](https://snipstack.io/email-alias-outlook-2026/)?**
 Any emails sent to that alias will stop being forwarded. If you need to recover access to an account tied to the alias, do it before you delete. Services like Alt-ID let you disable rather than permanently delete, giving you time to migrate. [Manage all your Alt-ID aliases from one Surfshark dashboard.](/blog/surfshark?sub=top-fake-email-2026__faq)
 
 **Q: Are [free burner](https://snipstack.io/free-burner-number-for-verification-2026/) email services private?**

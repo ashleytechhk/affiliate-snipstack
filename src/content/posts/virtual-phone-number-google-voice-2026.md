@@ -172,7 +172,7 @@ Google Voice personal accounts are free for domestic calls and texts in the US. 
 **Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) verify my own dating app account?**
 Google Voice numbers are frequently rejected by dating apps (Tinder, Hinge, Bumble) for account verification because they are classified as VOIP. [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-google-voice-2026__faq) numbers generally pass these checks because they are assigned from standard mobile number pools.
 
-**What happens if I want to stop using the number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I want to stop using the number?**
 With Google Voice, you can delete the number from your account settings (though Google retains associated call and text metadata). With Alt-Number, you can disable or replace the number inside your Surfshark dashboard. Either way, once the number is gone, incoming calls and texts simply fail to connect — your match cannot reach you through that number anymore.
 
 **Do I need Surfshark VPN to use Alt-Number?**

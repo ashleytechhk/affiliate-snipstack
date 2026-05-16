@@ -178,7 +178,7 @@ Yes, but it requires a small extra step. Most desktop email clients support addi
 **Will my real email address ever be visible to senders?**
 Not through the alias itself. However, if you reply from your real inbox without configuring the "send as" feature, the reply will show your real address. Always reply through the alias if privacy matters for that conversation.
 
-**What happens to emails sent to a deactivated alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to emails sent to a deactivated alias?**
 They are silently discarded. The sender will not receive a bounce or error message — the email simply disappears. This is intentional: it avoids confirming to spammers that the address was ever active.
 
 ---

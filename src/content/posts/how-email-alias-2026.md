@@ -201,7 +201,7 @@ Yes, in virtually every jurisdiction. Using an alias to receive mail and protect
 **Does aliasing protect me from phishing?**
 Partially. If an alias you created exclusively for one service starts receiving phishing emails pretending to be from a different company, you know immediately it is fake — that alias was never used with the sender it is impersonating. It is a useful signal, though not a complete defense. Combine aliasing with good phishing awareness habits.
 
-**What happens to old mail if I delete an alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to old mail if I delete an alias?**
 Mail already forwarded to your real inbox stays there. Only future mail sent to the deleted alias will bounce or be silently dropped, depending on the provider's settings. Your existing received mail is unaffected.
 
 ---
