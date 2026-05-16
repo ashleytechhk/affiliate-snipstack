@@ -232,7 +232,7 @@ The pitch is not that Surfshark One beats Norton at everything. It is that Surfs
       "name": "What does Surfshark One include in 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Surfshark One includes four tools: a full VPN (unlimited data, unlimited devices), real-time antivirus with ransomware protection, Alert for breach monitoring, and Alt-ID for email aliases and pseudonymous identities. All four run from one app on one login."
+        "text": "Surfshark One includes four tools: a full VPN (unlimited data, unlimited devices), real-time antivirus with ransomware protection, Alert for breach monitoring, and Alt-ID for [email alias](https://snipstack.io/email-alias-for-pinterest-signup-2026/)es and pseudonymous identities. All four run from one app on one login."
       }
     },
     {

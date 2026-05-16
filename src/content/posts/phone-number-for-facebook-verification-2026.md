@@ -96,7 +96,7 @@ US numbers only. No path to a non-US number.
 
 **Good carrier-range numbers. Clean standalone app for privacy-first dating users.**
 
-Hushed is purpose-built for second number use, and it shows in the product. Setup is clean, numbers are available in the US, Canada, and UK, and monthly subscriptions keep your number active without activity clocks. For Facebook verification specifically, Hushed's US numbers come from carrier-range blocks that pass more consistently than pure VoIP alternatives.
+Hushed is purpose-built for [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) use, and it shows in the product. Setup is clean, numbers are available in the US, Canada, and UK, and monthly subscriptions keep your number active without activity clocks. For Facebook verification specifically, Hushed's US numbers come from carrier-range blocks that pass more consistently than pure VoIP alternatives.
 
 The trade-off versus Alt-Number: Hushed numbers are not carrier-backed in the same strict sense — they are drawn from carrier-adjacent ranges, which typically perform well but are not immune to VoIP detection on the most aggressive verification layers. For Facebook, the pass rate is good rather than high.
 

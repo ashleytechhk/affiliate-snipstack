@@ -68,7 +68,7 @@ Browse the available numbers, select one you like, and confirm. Your number is n
 
 Before sharing it with anyone, test it. Have a friend send a text to your new number, or call it from another device. You should see the incoming call or text appear in the Alt-Number section of the Surfshark app.
 
-If you want to make an outbound call or send a text, do it from within the Alt-Number interface in the app — this ensures your second number appears as the caller ID, not your real number.
+If you want to make an outbound call or send a text, do it from within the Alt-Number interface in the app — this ensures your [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) appears as the caller ID, not your real number.
 
 ### Step 5: Share Your Dating Number
 

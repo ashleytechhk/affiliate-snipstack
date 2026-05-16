@@ -206,7 +206,7 @@ Depends on the app. Hushed and Burner numbers remain active as long as you're su
 
 **Will dating apps ban me for using a burner number?**
 
-No. Apps verify that you received an SMS code — they don't check whether it's your "primary" number. Using a second number for signup is fine. The only failure mode is if the number type is rejected before the code is even sent (the VoIP problem), not after.
+No. Apps verify that you received an SMS code — they don't check whether it's your "primary" number. Using a [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) signup is fine. The only failure mode is if the number type is rejected before the code is even sent (the VoIP problem), not after.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my dating profile if I cancel the burner number?**
 

@@ -132,9 +132,9 @@ TikTok's terms do prohibit interfering with advertising, but enforcement against
 
 ### Will CleanWeb block 100% of TikTok ads?
 
-No ad blocker blocks every single ad on every platform. TikTok periodically rotates the domains it uses for ad delivery. CleanWeb's continuously updated blocklists catch the vast majority, but expect occasional slippage when TikTok introduces new ad infrastructure. That said, CleanWeb's coverage for TikTok is among the strongest available on mobile as of 2026.
+No [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) blocks every single ad on every platform. TikTok periodically rotates the domains it uses for ad delivery. CleanWeb's continuously updated blocklists catch the vast majority, but expect occasional slippage when TikTok introduces new ad infrastructure. That said, CleanWeb's coverage for TikTok is among the strongest available on mobile as of 2026.
 
-### Does using a DNS ad blocker slow down TikTok?
+### Does using a DNS [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) slow down TikTok?
 
 In practice, blocking DNS requests to ad domains makes TikTok load faster, not slower. Ads that never request content cannot add latency. The overhead of DNS filtering is measured in milliseconds and is imperceptible in normal use.
 
@@ -148,7 +148,7 @@ Yes. Because CleanWeb operates at the device's DNS layer rather than inside a sp
 
 ### Is there a free way to block TikTok ads on mobile?
 
-Some free DNS services (like AdGuard DNS configured manually) offer partial coverage. The limitation is that free services use static blocklists with slower update cycles, which means they fall behind TikTok's rotating ad domains more quickly. For a consistently low ad load, a maintained solution like CleanWeb is more reliable over time.
+Some free DNS services (like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) configured manually) offer partial coverage. The limitation is that free services use static blocklists with slower update cycles, which means they fall behind TikTok's rotating ad domains more quickly. For a consistently low ad load, a maintained solution like CleanWeb is more reliable over time.
 
 ---
 

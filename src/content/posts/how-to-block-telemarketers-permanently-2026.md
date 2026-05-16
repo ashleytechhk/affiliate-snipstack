@@ -100,7 +100,7 @@ This sends any call from a number not in your contacts straight to voicemail. Te
 
 ![Surfshark Alt-Number interface showing a second phone number being generated on a smartphone screen](/og/how-to-block-telemarketers-permanently-2026-inline-1.png)
 
-This is the step that actually solves the problem for dating app users. Instead of sharing your real number with matches, you share a second number that you control completely.
+This is the step that actually solves the problem for dating app users. Instead of sharing your real number with matches, you share a [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) that you control completely.
 
 **4a.** Open the Surfshark app on your phone. Sign in with your account.
 

@@ -145,7 +145,7 @@ Yes. Using a [second phone number](https://snipstack.io/second-phone-number-for-
 
 **Will Tinder or Hinge know I'm using a [second number](https://snipstack.io/second-number-for-discord-account-2026/)?**
 
-Dating apps verify that you can receive an SMS code at signup — that's the entire check. They don't cross-reference numbers against carrier databases or flag "second number" apps. As long as you receive the verification code, the account is created. Alt-Number passes this check on all major dating platforms.
+Dating apps verify that you can receive an SMS code at signup — that's the entire check. They don't cross-reference numbers against carrier databases or flag "[second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/)" apps. As long as you receive the verification code, the account is created. Alt-Number passes this check on all major dating platforms.
 
 **Can I use one Alt-Number account across multiple dating apps?**
 

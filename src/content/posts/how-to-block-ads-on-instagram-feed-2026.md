@@ -48,7 +48,7 @@ There are two common implementations:
 
 **DNS-based blocking** — Your DNS resolver refuses to resolve ad-serving domain names. It's lightweight and free (e.g., NextDNS, Pi-hole), but setup can be technical and it doesn't encrypt your traffic.
 
-**VPN-based blocking** — A VPN app on your phone routes traffic through a server that also strips ad requests. This combines privacy (encrypted connection) with ad filtering in a single toggle. No router configuration, no advanced setup — just install, connect, and done.
+**VPN-based blocking** — A [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) your phone routes traffic through a server that also strips ad requests. This combines privacy (encrypted connection) with ad filtering in a single toggle. No router configuration, no advanced setup — just install, connect, and done.
 
 Surfshark's **CleanWeb** uses the VPN-based approach, which makes it the most beginner-friendly option for mobile users.
 

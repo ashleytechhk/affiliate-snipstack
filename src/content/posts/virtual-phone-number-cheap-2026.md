@@ -136,7 +136,7 @@ For pure SMS verification on dating apps, it's hit or miss. For ongoing use afte
 
 ---
 
-## **7. Second Number from Your Carrier**
+## **7. [Second Number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) from Your Carrier**
 
 **Most reliable, least private**
 

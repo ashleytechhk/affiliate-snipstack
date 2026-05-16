@@ -16,7 +16,7 @@ A [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-
 
 ## Quick Verdict
 
-Google Voice is free and works well enough if you are already inside the Google ecosystem and only need basic call/text forwarding. But it requires a US [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to sign up, has no anonymity from Google itself, and its account-linking rules mean your number could be tied back to you in ways you might not expect. Surfshark Alt-Number is purpose-built for privacy: you get a dedicated second number, it does not link to your real identity, and setup takes under three minutes. For dating app use specifically, Alt-Number is the cleaner, safer choice.
+Google Voice is free and works well enough if you are already inside the Google ecosystem and only need basic call/text forwarding. But it requires a US [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to sign up, has no anonymity from Google itself, and its account-linking rules mean your number could be tied back to you in ways you might not expect. Surfshark Alt-Number is purpose-built for privacy: you get a dedicated [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/), it does not link to your real identity, and setup takes under three minutes. For dating app use specifically, Alt-Number is the cleaner, safer choice.
 
 **[Get Surfshark Alt-Number — protect your real number today](/blog/surfshark?sub=virtual-phone-number-google-voice-2026__above-fold)**
 

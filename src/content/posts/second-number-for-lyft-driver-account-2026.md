@@ -152,13 +152,13 @@ Yes. In your Lyft driver account settings, you can update your phone number at a
 
 Lyft routes passenger-driver communications through a masked number system — passengers do not directly see your phone number during the standard ride flow. However, masking systems can fail, and your account number is still embedded in your account record and accessible through account compromise. A second number limits the damage if the masking fails or your account is accessed without authorization.
 
-**Is there a free way to get a second number that works for Lyft verification?**
+**Is there a free way to [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) number that works for Lyft verification?**
 
 Free VoIP services are typically blocked by Lyft's verification system. The practical starting point is Alt-Number's trial, which lets you provision a real carrier-backed number and complete Lyft's verification before committing to a subscription. If you only need the separation during an active period of online dating while driving, the trial covers the initial setup and can be evaluated before any subscription cost applies.
 
-**Does using a second number for Lyft violate Lyft's terms of service?**
+**Does using a [second number for](https://snipstack.io/second-number-for-discord-account-2026/) Lyft violate Lyft's terms of service?**
 
-Lyft requires that drivers provide a valid, working phone number for account verification and communications — it does not require that number to be your personal primary line. A carrier-backed second number from Alt-Number satisfies Lyft's account requirements. What Lyft prohibits is fraudulent accounts; using a legitimate secondary number for privacy reasons is distinct from that.
+Lyft requires that drivers provide a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and communications — it does not require that number to be your personal primary line. A carrier-backed second number from Alt-Number satisfies Lyft's account requirements. What Lyft prohibits is fraudulent accounts; using a legitimate secondary number for privacy reasons is distinct from that.
 
 ---
 

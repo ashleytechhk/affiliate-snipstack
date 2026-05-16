@@ -127,7 +127,7 @@ If you're already an Apple iCloud+ subscriber using Apple devices exclusively, H
 
 ## FAQ
 
-**Does X accept email aliases for signup?**
+**Does X accept [email alias](https://snipstack.io/email-alias-for-pinterest-signup-2026/)es for signup?**
 
 Yes, as long as the alias domain isn't on X's blocklist. Known [disposable email](https://snipstack.io/disposable-email-address-for-trials-2026/) services (Guerrilla Mail, Temp-Mail, etc.) are blocked. Aliases from legitimate forwarding services like Alt ID, Apple Hide My Email, and SimpleLogin are accepted.
 

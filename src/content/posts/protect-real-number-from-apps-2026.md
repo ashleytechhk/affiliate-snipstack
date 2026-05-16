@@ -182,7 +182,7 @@ No. The number is yours and it behaves as a normal mobile number. There is no le
 
 Google Voice is US-only and does not help here. TextNow is primarily US and Canada. For international dating — or if you want a number from a specific country while dating abroad — **Hushed** covers US, Canada, and UK. **Alt-Number** also offers numbers across multiple countries, making it the stronger pick if you want a single subscription that covers different regions as your situation changes. [Check Alt-Number's available countries here.](/blog/altnumber?sub=protect-real-number-from-apps-2026__faq)
 
-### Can I use my second number for WhatsApp as well?
+### Can I use my [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) WhatsApp as well?
 
 Yes. The process is exactly what you would expect: enter the Alt-Number when WhatsApp asks for a phone number during setup, retrieve the 6-digit SMS code from the Alt-Number inbox, paste it in. WhatsApp will use carrier-backed numbers without issue. You get a separate WhatsApp account tied to your private number, which keeps your dating conversations completely separate from your primary WhatsApp.
 

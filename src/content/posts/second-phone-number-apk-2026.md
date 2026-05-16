@@ -93,7 +93,7 @@ This takes under a minute on any modern connection. The app is verified by Googl
 
 Open Alt-Number. If you already use Surfshark VPN, sign in with the same account. If you are new, tap **Create account** and sign up with your email. The free trial does not require a credit card upfront — you pick your plan after testing.
 
-Keep your login credentials somewhere safe. This account controls your second number, so if you ever need to access your inbox from a new device, you will need it.
+Keep your login credentials somewhere safe. This account controls your [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/), so if you ever need to access your inbox from a new device, you will need it.
 
 ### Step 3 — Choose your number
 

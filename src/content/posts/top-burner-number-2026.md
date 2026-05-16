@@ -80,7 +80,7 @@ Hushed supports both calls and texts, allows multiple active numbers, and has a 
 
 ### 5. Sideline
 
-**Best if you want a professional-looking second number.**
+**Best if you want a professional-looking [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/).**
 
 Sideline markets itself as a [second number for](https://snipstack.io/second-number-for-discord-account-2026/) business, but plenty of people use it for exactly the opposite — keeping their personal life separate from professional contacts, or keeping their dating life separate from everything else.
 

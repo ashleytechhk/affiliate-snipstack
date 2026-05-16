@@ -143,7 +143,7 @@ If an interaction turns bad or you simply want a fresh slate, replace your Alt-N
 
 It depends on the type of number. Free VoIP numbers from apps like Google Voice or TextNow are blocked by Discord's verification system. Carrier-backed numbers — the type provided by [Alt-Number](/blog/altnumber?sub=second-number-for-discord-account-2026__faq) — pass Discord's check because they route through real mobile carrier infrastructure, which is what Discord's system is looking for.
 
-**Can I use the same second number for my dating apps and Discord?**
+**Can I use the same [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) my dating apps and Discord?**
 
 You can, but there is a practical argument against it. If you use one Alt-Number across Tinder, Bumble, and Discord, then a data breach on any one of those platforms exposes the same number on all of them. Keeping Discord's verification number separate from your dating app verification numbers is the stricter privacy approach. Alt-Number allows you to manage multiple numbers under one account.
 

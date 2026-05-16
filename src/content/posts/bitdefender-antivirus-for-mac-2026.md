@@ -49,7 +49,7 @@ Bitdefender has been making security software for over 20 years. Their Mac produ
 
 **Price:** Around $29.99–$49.99/year depending on the plan and current promotions.
 
-### Surfshark Antivirus for Mac
+### Surfshark [Antivirus for](https://snipstack.io/antivirus-for-windows-server-2022-2026/) Mac
 
 Surfshark started as a VPN company and expanded into full antivirus. Their Mac antivirus is newer but covers what matters most for everyday users:
 

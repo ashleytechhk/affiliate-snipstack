@@ -49,7 +49,7 @@ Head to the App Store or Google Play and search for **Surfshark Alt-Number**, or
 
 ### Step 2 — Choose Your Country and Number
 
-Once inside the app, tap **Get a number**. Select the country you want your second number to appear from. For most online daters in the US or UK, picking a local number makes conversations feel natural — your match sees a local area code, not an unfamiliar international prefix.
+Once inside the app, tap **Get a number**. Select the country you want your [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) to appear from. For most online daters in the US or UK, picking a local number makes conversations feel natural — your match sees a local area code, not an unfamiliar international prefix.
 
 Alt-Number offers numbers in multiple countries. Pick one, confirm, and your new number is provisioned instantly.
 

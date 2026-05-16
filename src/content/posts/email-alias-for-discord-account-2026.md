@@ -70,7 +70,7 @@ Some Discord notifications invite replies — customer support tickets, communit
 
 ### Cost and Value
 
-SimpleLogin and AnonAddy have generous free tiers (15–20 aliases). If you only need one Discord alias and a handful of others, that's sufficient. Alt ID is bundled with Surfshark One, which combines VPN, antivirus, and identity monitoring alongside the alias feature — better value if you're already considering that stack. For pure alias-only needs on a budget, SimpleLogin's free tier is hard to beat.
+SimpleLogin and AnonAddy have generous free tiers (15–20 aliases). If you only need one Discord alias and a handful of others, that's sufficient. Alt ID is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which combines VPN, antivirus, and identity monitoring alongside the alias feature — better value if you're already considering that stack. For pure alias-only needs on a budget, SimpleLogin's free tier is hard to beat.
 
 ### Privacy Policy Depth
 
@@ -78,7 +78,7 @@ All three services (Alt ID, SimpleLogin, AnonAddy) have no-logs or minimal-logs 
 
 ---
 
-## How to Set Up an [Email Alias for](https://snipstack.io/email-alias-for-online-shopping-2026/) Discord
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias for](https://snipstack.io/email-alias-for-online-shopping-2026/) Discord
 
 Setting up takes under five minutes:
 
@@ -98,7 +98,7 @@ That last step is the key leverage point. With a real address, spam is permanent
 
 Alt ID makes the most sense if:
 
-- You're already using or considering Surfshark One (the alias is included, not an add-on cost)
+- You're already using or considering [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) (the alias is included, not an add-on cost)
 - You want unlimited aliases without tracking a free-tier cap
 - You expect to create aliases for multiple services, not just Discord
 - Reply-from support matters to you (you want full two-way privacy, not just inbound forwarding)

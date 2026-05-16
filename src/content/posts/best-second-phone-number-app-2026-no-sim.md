@@ -40,7 +40,7 @@ Your phone number is an identifier that is much harder to change than an email a
 
 The result: once your number is out in the world, it stays out. Spam call volumes have increased consistently since 2020. The [National Do Not Call Registry](https://snipstack.io/burner-number-dating-apps-2026/) exists, but telemarketers and robocallers operating through VoIP systems and overseas routing ignore it. Data brokers sell contact lists including phone numbers to anyone willing to pay.
 
-Here are the most common use cases where a second number solves a real problem:
+Here are the most common use cases where a [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) solves a real problem:
 
 **Online dating:** Sharing your real number with someone you met online means they have it forever, regardless of how the relationship goes. A second number keeps you contactable while maintaining distance until you are sure.
 

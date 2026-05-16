@@ -171,7 +171,7 @@ The honest trade-off with Alt-ID is that it requires a Surfshark subscription. I
 
 ## Frequently Asked Questions
 
-**What is the simplest email alias example I can show someone?**
+**What is the simplest [email alias](https://snipstack.io/email-alias-for-pinterest-signup-2026/) example I can show someone?**
 Use `newsletter-all@surfsharkmail.net` for every newsletter you sign up for. When the newsletters get annoying, you disable that one alias and stop all of them at once. Your real address never sees them again.
 
 **Is an email alias the same as a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) address?**

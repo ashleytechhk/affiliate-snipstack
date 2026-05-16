@@ -64,7 +64,7 @@ Download Surfshark from the App Store (iOS) or Google Play (Android). Open the a
 
 If you already have a Surfshark account, log in. If not, tap **Create Account**, enter your email, choose a password, and confirm. The account creation takes under two minutes.
 
-> **[Get Surfshark Alt-Number](/blog/altnumber?sub=2number-second-phone-number-2026__above-fold)** — virtual second number, no SIM needed.
+> **[Get Surfshark Alt-Number](/blog/altnumber?sub=2number-second-phone-number-2026__above-fold)** — virtual [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/), no SIM needed.
 
 ---
 

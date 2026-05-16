@@ -18,7 +18,7 @@ This guide explains what a NAS is in plain language, why it is a target, and wha
 
 ## Quick Verdict
 
-A NAS (Network Attached Storage) device stores your family's most important files — photos, documents, videos — all in one place at home. Attackers target NAS devices specifically because families rarely protect them. The most important thing you can do right now is put strong antivirus protection on every computer, phone, and tablet that connects to your NAS. Ransomware like Deadbolt and eCh0raix almost always enters through an infected connected device first. Surfshark Antivirus covers Windows, Mac, Android, and iOS — the devices your family actually uses — and is straightforward enough for anyone over 60 to set up in under ten minutes.
+A NAS (Network Attached Storage) device stores your family's most important files — photos, documents, videos — all in one place at home. Attackers target NAS devices specifically because families rarely protect them. The most important thing you can do right now is put strong [antivirus](https://snipstack.io/vs-antivirus-2026/) protection on every computer, phone, and tablet that connects to your NAS. Ransomware like Deadbolt and eCh0raix almost always enters through an infected connected device first. Surfshark Antivirus covers Windows, Mac, Android, and iOS — the devices your family actually uses — and is straightforward enough for anyone over 60 to set up in under ten minutes.
 
 ---
 
