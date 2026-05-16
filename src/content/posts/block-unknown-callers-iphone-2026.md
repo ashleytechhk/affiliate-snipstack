@@ -133,7 +133,7 @@ Alt-Number is a [virtual phone number](https://snipstack.io/virtual-phone-number
 
 From this point, any number not in your contacts goes to voicemail automatically. Good baseline protection against spam and cold-contact harassment.
 
-### Layer 2 — Get a Second Number for Dating (takes 5 minutes)
+### Layer 2 — [Get a Second](https://snipstack.io/get-a-second-number-for-texting-2026/) Number for Dating (takes 5 minutes)
 
 1. Visit [Alt-Number via this link](/blog/altnumber?sub=block-unknown-callers-iphone-2026__mid) and sign up for a Surfshark plan
 2. Download the Surfshark app on your iPhone
@@ -189,7 +189,7 @@ Potentially yes. If clients, recruiters, or colleagues call from numbers not in 
 **Does Alt-Number work for WhatsApp verification?**
 Yes. Alt-Number is a real phone number that can receive SMS verification codes. You can register WhatsApp, Signal, or any other messaging app with the Alt-Number, keeping your real carrier number off those platforms entirely.
 
-**What happens to texts if I stop using an Alt-Number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to texts if I stop using an Alt-Number?**
 If you deactivate or stop using an Alt-Number, messages sent to it may not be delivered or will go unanswered. The sender has no path to your real number — they simply see the communication stop on that number.
 
 ---

@@ -24,7 +24,7 @@ In 2026, several major VPNs offer this. Not all of them are equal on mobile. Thi
 
 ## Feature-by-Feature Comparison
 
-| Feature | Surfshark CleanWeb | NordVPN Threat Protection | ProtonVPN NetShield | ExpressVPN |
+| Feature | Surfshark CleanWeb | NordVPN Threat Protection | [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) NetShield | ExpressVPN |
 |---|---|---|---|---|
 | **Ad blocking (mobile apps)** | Yes — all apps | Yes — all apps | Yes — all apps | DNS-level only, limited |
 | **Ad blocking (mobile browser)** | Yes | Yes | Yes | Partial |

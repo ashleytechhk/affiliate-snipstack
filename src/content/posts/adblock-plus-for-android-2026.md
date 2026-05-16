@@ -22,7 +22,7 @@ If you want the most comprehensive ad-blocking on Android — covering browsers,
 
 ## How We Ranked These Options
 
-Each tool was evaluated on four criteria: **coverage** (browser-only vs. system-wide), **ease of setup** (minutes not hours), **performance impact** (battery and speed), and **additional privacy features** beyond just blocking ads. We weighted mobile-specific usability heavily — tools designed for desktop and ported to Android often underperform.
+Each tool was evaluated on four criteria: **coverage** (browser-only vs. system-wide), **ease of setup** (minutes not hours), **performance impact** (battery and speed), and **additional privacy features** beyond just [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/). We weighted mobile-specific usability heavily — tools designed for desktop and ported to Android often underperform.
 
 ---
 

@@ -147,7 +147,7 @@ A well-implemented [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) ac
 
 ### Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/)?
 
-Yes. Using an ad blocker is legal in virtually every jurisdiction. It is a user-side filtering preference, equivalent to muting a TV commercial. Some sites restrict access for users with ad blockers enabled, which is their right — but blocking ads itself carries no legal risk to the user.
+Yes. Using an ad blocker is legal in virtually every jurisdiction. It is a user-side filtering preference, equivalent to muting a TV commercial. Some sites restrict access for users with ad blockers enabled, which is their right — but [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) itself carries no legal risk to the user.
 
 ### Which option gives the most privacy protection beyond just blocking ads?
 

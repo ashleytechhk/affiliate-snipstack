@@ -83,7 +83,7 @@ No account required. Google will review the submission and, if confirmed, add it
 
 ## Channel 3 — Anti-Phishing Working Group (APWG)
 
-The APWG is a non-profit coalition of security companies, banks, and law enforcement agencies. When you forward a phishing email to `reportphishing@apwg.org`, it enters a shared database that over ten major security vendors — including those that power antivirus products, browser extensions, and corporate email filters — use to update their threat feeds.
+The APWG is a non-profit coalition of security companies, banks, and law enforcement agencies. When you forward a phishing email to `reportphishing@apwg.org`, it enters a shared database that over ten major security vendors — including those that power [antivirus](https://snipstack.io/vs-antivirus-2026/) products, browser extensions, and corporate email filters — use to update their threat feeds.
 
 This is the most efficient way to have one report ripple across many different security products simultaneously.
 
@@ -170,7 +170,7 @@ Surfshark's Scamcheck cross-references URLs against live threat intelligence fee
 
 ## Frequently Asked Questions
 
-### What happens after I report a phishing website?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after I report a phishing website?
 
 It depends on the channel. Your email app improves its filters immediately. Google Safe Browsing typically reviews and flags confirmed phishing URLs within 24 to 48 hours. The APWG distributes your report to partner security vendors, who update their databases on their own schedules. Domain registrar reports move the slowest — typically 24 to 72 hours before the registrar acts. There is no automatic notification for most channels; you are contributing to a system that protects others, not receiving a personal case outcome. [Verify the link is still live before reporting →](/blog/scamcheck?sub=how-to-report-a-phishing-website-2026__faq)
 
@@ -192,7 +192,7 @@ Reporting sends information to a security team or database, which may eventually
 
 ### Can I report a phishing text message as well as an email?
 
-Yes. In the US, forward suspicious SMS messages to 7726 (SPAM) — this works on most carriers and feeds reports to the GSMA, a global mobile industry body. The FTC at `reportfraud.ftc.gov` also accepts text message scam reports. For phishing links inside SMS messages, submit the URL to Google Safe Browsing the same way you would for an email link.
+Yes. In the US, forward suspicious SMS messages to 7726 (SPAM) — this works on most carriers and feeds reports to the GSMA, a global mobile industry body. The FTC at `reportfraud.ftc.gov` also accepts text message scam reports. For [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s inside SMS messages, submit the URL to Google Safe Browsing the same way you would for an email link.
 
 ---
 

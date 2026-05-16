@@ -75,7 +75,7 @@ If you're migrating from Chrome, tap the three-dot menu → Bookmarks → Import
 
 ## Path B: Setting Up Surfshark CleanWeb (Network-Layer Blocking, Covers Every App)
 
-CleanWeb is a DNS-level [ad blocker](https://snipstack.io/surfshark-cleanweb-review-2026/) built into Surfshark's mobile app. Instead of blocking ads inside one browser, it blocks ad and tracker domains at the network layer — before any browser or app on your phone makes the connection. This means it works in Chrome, Safari, Brave, and inside apps, simultaneously.
+CleanWeb is a DNS-level [ad blocker](https://snipstack.io/surfshark-cleanweb-review-2026/) built into Surfshark's mobile app. Instead of [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) inside one browser, it blocks ad and tracker domains at the network layer — before any browser or app on your phone makes the connection. This means it works in Chrome, Safari, Brave, and inside apps, simultaneously.
 
 **[Get Surfshark CleanWeb — blocks ads across every app and browser](/blog/adblock?sub=browser-with-built-in-ad-blocker-2026__mid)**
 

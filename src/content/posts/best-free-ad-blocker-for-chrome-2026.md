@@ -155,7 +155,7 @@ Network-level blockers like CleanWeb typically make pages load faster, not slowe
 
 CleanWeb is part of the Surfshark VPN — it is not a separate service. When you connect to Surfshark, CleanWeb is active. You get both ad blocking and VPN privacy in one connection. You cannot stack it on top of a different VPN service.
 
-### Does blocking ads affect website revenue / is it ethical?
+### Does [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) affect website revenue / is it ethical?
 
 This is a genuine debate. Many sites rely on ad revenue. Some users whitelist sites they want to support. Most [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/)s, including CleanWeb, allow you to pause or whitelist individual sites. The decision is yours — the tools give you the control.
 

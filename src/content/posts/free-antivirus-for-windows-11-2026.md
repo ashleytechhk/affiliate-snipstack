@@ -92,7 +92,7 @@ A Quick Scan checks the places on your computer where viruses most often hide. I
 
 ## Step 5 — Fix It If Defender Is Turned Off
 
-Sometimes Defender turns itself off — usually because another antivirus program has taken over, or a setting changed after a Windows update. Here is how to check and fix it:
+Sometimes Defender turns itself off — usually because another antivirus program has taken over, or a setting changed after a Windows update. Here is [how to check](https://snipstack.io/how-to-check-if-a-website-is-safe-2026/) and fix it:
 
 1. Open **Windows Security** (follow Step 1 above).
 2. Click **Virus & threat protection**.
@@ -147,7 +147,7 @@ These gaps matter — especially for older adults who are often targeted by phon
 
 ### I get a pop-up saying "Your PC is infected — call this number"
 
-**Do not call that number.** This is a scam. Real Windows security warnings never ask you to call a phone number. Close your browser by pressing **Alt + F4** on your keyboard, or simply restart your computer. Then open Windows Security and run a Quick Scan to check that everything is fine.
+**Do not call that number.** This is a scam. Real Windows security warnings never ask you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). Close your browser by pressing **Alt + F4** on your keyboard, or simply restart your computer. Then open Windows Security and run a Quick Scan to check that everything is fine.
 
 ### Windows Security will not open
 

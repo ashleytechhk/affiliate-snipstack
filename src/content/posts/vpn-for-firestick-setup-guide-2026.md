@@ -152,7 +152,7 @@ Yes. Surfshark allows unlimited simultaneous device connections on a single subs
 
 **[Start your Surfshark subscription — works across all your devices →](/blog/vpn?sub=vpn-for-firestick-setup-guide-2026__faq)**
 
-### What happens if my VPN disconnects mid-stream?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if my VPN disconnects mid-stream?
 
 Surfshark's kill switch feature automatically cuts internet traffic if the VPN drops unexpectedly, preventing your real location from being exposed. You will need to reconnect to the VPN before streaming resumes, but your account location data is protected during the interruption.
 

@@ -162,7 +162,7 @@ No account bans have been reported — YouTube's enforcement is playback restric
 
 ### Does Surfshark CleanWeb block YouTube ads?
 
-Not reliably for pre-roll video ads. YouTube serves ads through first-party infrastructure that shares domains with video delivery — a DNS/VPN blocker cannot block those requests without also breaking video playback. CleanWeb is highly effective at blocking ads on every other app and website on your phone, and it reduces YouTube's tracker load, but it is not a solution for YouTube pre-roll ads specifically. [See what CleanWeb does cover](/blog/adblock?sub=adblock-plus-youtube-2026__faq).
+Not reliably for pre-roll video ads. YouTube serves ads through first-party infrastructure that shares domains with video delivery — a DNS/VPN blocker cannot block those requests without also breaking video playback. CleanWeb is highly effective at [blocking ads on](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) every other app and website on your phone, and it reduces YouTube's tracker load, but it is not a solution for YouTube pre-roll ads specifically. [See what CleanWeb does cover](/blog/adblock?sub=adblock-plus-youtube-2026__faq).
 
 ### Is YouTube Premium worth it compared to using an [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/)?
 

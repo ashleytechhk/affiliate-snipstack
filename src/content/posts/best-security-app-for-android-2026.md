@@ -107,7 +107,7 @@ For users considering a step up from free, the paid Avast Premium Security for A
 
 Every Android device with Google Play installed already has Play Protect running. It scans apps at install and periodically thereafter, cross-referencing against Google's malware database. For the average user who installs apps only from the Play Store and does not sideload APKs, Play Protect catches a meaningful proportion of common threats.
 
-The limits are clear: Play Protect does not protect your network traffic, has no VPN, no breach monitoring, and no protection against phishing links in messaging apps. Independent test results place its detection rate below every dedicated antivirus option on this list. It is a baseline, not a strategy.
+The limits are clear: Play Protect does not protect your network traffic, has no VPN, no breach monitoring, and no protection against [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s in messaging apps. Independent test results place its detection rate below every dedicated antivirus option on this list. It is a baseline, not a strategy.
 
 Play Protect makes a sensible free layer for very low-risk users. It is not a substitute for any of the paid apps above if you handle banking, work email, or sensitive data on your phone.
 
