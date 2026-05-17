@@ -195,7 +195,7 @@ Yes. Aliases forward to your real inbox regardless of which email service you us
 **How many aliases do I actually need?**
 More than you think. If you commit to using a new alias for every signup, you will accumulate dozens within a few weeks. This is why unlimited-alias plans matter. Paid providers like [Surfshark Alt-ID](/blog/surfshark?sub=how-email-alias-2026__faq) remove the ceiling so you never have to reuse an address or ration your protection.
 
-**Is an email alias legal?**
+**Is an [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/) legal?**
 Yes, in virtually every jurisdiction. Using an alias to receive mail and protect your privacy is entirely lawful. The only edge case is if a specific platform's terms of service prohibit alias addresses — some do, most don't. Check the terms if you are signing up for something with identity verification requirements.
 
 **Does aliasing protect me from phishing?**

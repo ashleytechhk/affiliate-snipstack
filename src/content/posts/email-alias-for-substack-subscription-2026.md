@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 You subscribed to a few good Substack newsletters. Somewhere between the fifth free-tier sign-up and that one writer who monetized their list through a "brand partner," your inbox went sideways. Now you're getting 50+ unsolicited emails a day from senders you've never heard of — and half of them trace back, somehow, to an email address you only ever used for newsletters.
 
-This is the Substack spam problem, and it's more common than most readers realize. The fix is an email alias: a forwarding address you hand to Substack instead of your real one. When the spam starts, you delete that address and the channel closes permanently.
+This is the Substack spam problem, and it's more common than most readers realize. The fix is an [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/): a forwarding address you hand to Substack instead of your real one. When the spam starts, you delete that address and the channel closes permanently.
 
 But not all alias tools are equal. This article compares the six most practical options so you can pick the right one.
 
@@ -40,7 +40,7 @@ Using a dedicated alias per newsletter (or at minimum one alias for all Substack
 
 ---
 
-## Comparison Table: Email Alias Tools for Substack
+## Comparison Table: [Email Alias](https://snipstack.io/email-alias-for-pinterest-signup-2026/) Tools for Substack
 
 | Feature | Alt-ID | Apple Hide My Email | Firefox Relay | SimpleLogin | DuckDuckGo Email | Gmail `+` tag |
 |---|---|---|---|---|---|---|
@@ -155,7 +155,7 @@ Gmail allows `youraddress+anything@gmail.com` variants that all deliver to your 
 
 Yes. Substack allows newsletter subscriptions via email without a full account sign-up. Enter your alias address in the subscribe form. Confirmation and issues arrive as normal emails in your real inbox. Your alias is what Substack and the writer see — not your personal address.
 
-**What happens if a Substack writer I like migrates to another platform?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if a Substack writer I like migrates to another platform?**
 
 If they export their list and move to Mailchimp or Beehiiv, your alias migrates with you in their system. You keep receiving their emails. If their new platform starts spamming you with ads or partner content, you delete the alias — cutting the connection without any interaction with the writer or their new provider.
 

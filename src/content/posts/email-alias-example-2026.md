@@ -174,7 +174,7 @@ The honest trade-off with Alt-ID is that it requires a Surfshark subscription. I
 **What is the simplest [email alias](https://snipstack.io/email-alias-for-pinterest-signup-2026/) example I can show someone?**
 Use `newsletter-all@surfsharkmail.net` for every newsletter you sign up for. When the newsletters get annoying, you disable that one alias and stop all of them at once. Your real address never sees them again.
 
-**Is an email alias the same as a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) address?**
+**Is an [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/) the same as a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) address?**
 Not quite. A disposable address (like those from Mailinator or 10-minute-mail) is temporary — it stops working after a set period. An alias from a service like Alt-ID is persistent for as long as you keep it active. You choose when to disable it, not the service.
 
 **Can spammers figure out my real address from an alias?**

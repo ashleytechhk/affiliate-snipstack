@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 A woman in Chicago ended a rideshare trip and went home. Three hours later, her driver texted her — not through the app, but on her personal number. The contact was unwanted. The number had been obtained during the call-masking window before the trip ended. She reported it; the driver was deactivated. Her number was still out there.
 
-This is not an isolated story. Rideshare platforms attempt to mask rider and driver numbers during active trips. What many users do not realise is how short that masking window is, how many other touchpoints leak your digits, and what happens when your Uber account number matches the same number you gave your Tinder match last week.
+This is not an isolated story. Rideshare platforms attempt to mask rider and driver numbers during active trips. What many users do not realise is how short that masking window is, how many other touchpoints leak your digits, and [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) your Uber account number matches the same number you gave your Tinder match last week.
 
 The fix is simple and takes about five minutes. But first, you need to understand what you are actually exposing.
 

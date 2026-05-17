@@ -140,7 +140,7 @@ The registry has no enforcement mechanism for personal contacts. If a Hinge matc
 
 ## FAQ
 
-**Can I use a burner number to verify my dating app account?**
+**Can I use a [burner number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) to verify my dating app account?**
 
 Most dating apps use SMS verification at signup. Surfshark Alt-Number works for this because it's a real mobile number, not a flagged VoIP line. Google Voice numbers are sometimes rejected. If you're creating a new account, Alt-Number is the safer bet.
 

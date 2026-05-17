@@ -211,7 +211,7 @@ For sharing with matches — yes, all of them work. For creating a new account t
 
 TextNow, TextFree, and similar services expire numbers after 30 days of inactivity. If you get a number, use it for a week of conversations, then go quiet — you may lose the number. Google Voice is more lenient with expiry. Paid services like Hushed and Alt-Number do not expire numbers based on activity. If you need the number to last reliably for more than a month, a paid service is the safer choice.
 
-### Is it legal to use a burner number for signups?
+### Is it legal to use a [burner number for](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) signups?
 
 Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) signups and privacy is entirely legal. [Virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) services are mainstream tools used for business lines, two-factor authentication backups, and personal privacy. Alt-Number is a product by Surfshark, a company operating under standard telecom licensing in its supported regions. Using a secondary number to protect your personal information is a normal privacy practice, not a terms-of-service violation on the services you sign up for.
 

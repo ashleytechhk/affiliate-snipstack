@@ -183,7 +183,7 @@ Check that the burner app has notification permissions in iOS Settings > Notific
 All of these apps route calls over data, not your carrier. Check your WiFi or mobile data connection. If you're on a weak signal, call quality degrades fast. Surfshark Alt-Number and Hushed generally have more robust call routing than Google Voice on weak connections.
 
 **Someone's still contacting me after I burned the number.**
-If you burned or cancelled the number, they physically cannot reach it — texts and calls to that number go nowhere or bounce. If they're reaching you through a different channel (a social app, email), the burner number isn't the issue. Make sure you hadn't accidentally given them your real number at any point.
+If you burned or cancelled the number, they physically cannot reach it — texts and calls to that number go nowhere or bounce. If they're reaching you through a different channel (a social app, email), the [burner number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) isn't the issue. Make sure you hadn't accidentally given them your real number at any point.
 
 **The app won't let me pick a specific area code.**
 Number availability varies by region and changes frequently. Popular area codes (NYC, LA, SF) run out. Try adjacent area codes or a nearby city — the number doesn't have to match where you live.
