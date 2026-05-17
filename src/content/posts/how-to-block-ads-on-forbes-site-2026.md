@@ -150,11 +150,11 @@ If Forbes's anti-adblock prompt appears while you're using a browser-level block
 
 ## Frequently Asked Questions
 
-**Does uBlock Origin block ads on Forbes mobile?**
+**Does uBlock Origin [block ads on](https://snipstack.io/block-ads-on-youtube-tv-app-2026/) Forbes mobile?**
 On Android using Firefox for Android, yes — uBlock Origin handles Forbes's display ads, sticky banners, and autoplay video effectively. On iOS, uBlock Origin is not available because Apple's browser extension rules prevent Firefox from running the same extension engine on iPhone. iOS users need to use Safari content blockers (AdGuard, 1Blocker) or Reader Mode instead. [A network-level approach covers both platforms without any browser restrictions.](/blog/adblock?sub=how-to-block-ads-on-forbes-site-2026__faq)
 
 **Why does Forbes show a "Continue to Site" screen before every article?**
-This is an interstitial ad unit — a full-screen ad impression that Forbes generates before serving editorial content. It's not a paywall; it's a mandatory ad view. Some ad blockers' cosmetic filters prevent it from displaying. Reader Mode bypasses it entirely by rendering only the editorial content. Network-level blocking removes the ad content it contains but may not prevent the overlay from appearing visually.
+This is an interstitial ad unit — a full-screen ad impression that Forbes generates before serving editorial content. It's not a paywall; it's a mandatory ad view. Some [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s' cosmetic filters prevent it from displaying. Reader Mode bypasses it entirely by rendering only the editorial content. Network-level blocking removes the ad content it contains but may not prevent the overlay from appearing visually.
 
 **Can I block Forbes ads on Chrome for Android?**
 Chrome for Android does not support uBlock Origin or similar full extensions. Your options in Chrome specifically are: Brave (separate browser), Reader Mode via a Chrome flag, or CleanWeb running at the network level below Chrome. For true extension-based blocking on Android, Firefox is the only major browser that supports it.

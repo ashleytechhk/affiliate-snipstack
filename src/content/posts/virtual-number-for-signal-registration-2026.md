@@ -98,7 +98,7 @@ Free alternatives also carry other problems: number recycling (you get a number 
 
 ![Alt-Number app showing a virtual number registered to Signal and incoming messages from a dating match](/og/virtual-number-for-signal-registration-2026-inline-2.png)
 
-## Setting Up Your Virtual Number for Signal: Step by Step
+## Setting Up Your [Virtual Number for](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) Signal: Step by Step
 
 ### What you need before starting
 

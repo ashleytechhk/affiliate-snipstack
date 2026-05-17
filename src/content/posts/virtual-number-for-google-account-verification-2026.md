@@ -145,7 +145,7 @@ To be accurate about what a virtual number does and does not do:
 
 ## Frequently Asked Questions
 
-**Will Google accept a virtual number for account verification in 2026?**
+**Will Google accept a [virtual number for](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) account verification in 2026?**
 
 Google filters known VoIP number ranges during account creation and rejects many free temporary number services. Alt-Number uses carrier-backed numbers that pass Google's verification in most cases because they operate on real mobile carrier infrastructure rather than VoIP routing. If a specific number encounters an issue (rare), you can request a different number from a different carrier range inside the Alt-Number app. [See available numbers here.](/blog/altnumber?sub=virtual-number-for-google-account-verification-2026__faq)
 

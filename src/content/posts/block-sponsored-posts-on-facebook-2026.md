@@ -151,7 +151,7 @@ No. Hiding a sponsored post signals to Facebook's algorithm that the specific ad
 
 ### Is blocking Facebook ads legal?
 
-Yes. Using a network-level ad blocker or DNS filter to block ad requests is legal in most jurisdictions. It's a personal choice about how your device handles network traffic. Some platforms include ad-viewing requirements in their terms of service, though enforcement against individual users is not a realistic concern.
+Yes. Using a network-level [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) or DNS filter to block ad requests is legal in most jurisdictions. It's a personal choice about how your device handles network traffic. Some platforms include ad-viewing requirements in their terms of service, though enforcement against individual users is not a realistic concern.
 
 ### Does blocking Facebook ads affect page load speed on mobile?
 
@@ -203,7 +203,7 @@ Surfshark CleanWeb blocks Facebook's ad-serving domains at the network level —
       "name": "Is blocking Facebook ads legal?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Using a network-level ad blocker or DNS filter to block ad requests is legal in most jurisdictions. It is a personal choice about how your device handles network traffic."
+        "text": "Yes. Using a network-level [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) or DNS filter to block ad requests is legal in most jurisdictions. It is a personal choice about how your device handles network traffic."
       }
     },
     {
@@ -235,7 +235,7 @@ Surfshark CleanWeb blocks Facebook's ad-serving domains at the network level —
       "name": "What about Facebook sponsored posts in the mobile browser?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you access Facebook in your mobile browser, browser-level blocking becomes available. On iOS, AdGuard's Safari content blocker adds filtering on top of CleanWeb's DNS blocking. On Android, Firefox with uBlock Origin provides solid mobile browser ad blocking for the web version of Facebook."
+        "text": "If you access Facebook in your mobile browser, browser-level blocking becomes available. On iOS, AdGuard's Safari content blocker adds filtering on top of CleanWeb's DNS blocking. On Android, Firefox with [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) provides solid mobile browser ad blocking for the web version of Facebook."
       }
     }
   ]

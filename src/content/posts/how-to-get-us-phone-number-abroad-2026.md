@@ -188,7 +188,7 @@ There's no porting complexity, no carrier contract, and no second SIM tray requi
 
 Most dating apps — Tinder, Hinge, Bumble, OkCupid — accept virtual US numbers for SMS verification. Alt-Number provides a real US number (not a VoIP-only service), which passes verification on the major platforms. If you hit an issue with a specific app, contact Surfshark support — they can advise on which number type works best.
 
-### Will my matches know I'm using a virtual number?
+### Will my matches know I'm using a [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/)?
 
 Not from the number itself. A real US number from Alt-Number looks identical to any other US mobile number. The area code is real, the number format is standard, and there's no technical indicator visible to the person you're texting. The only way they'd know is if you told them.
 

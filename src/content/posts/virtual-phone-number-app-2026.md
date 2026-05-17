@@ -182,7 +182,7 @@ No major dating platform explicitly bans [virtual number](https://snipstack.io/v
 
 That depends on the app. With Burner, burning a number makes it immediately inactive — any messages sent to it after that point are dropped. With Hushed and Surfshark Alt Number, your number remains active until your subscription expires. Always give matches a heads-up before switching numbers if you want to keep the conversation going.
 
-### Can someone find out my real number from my virtual number?
+### Can someone find out my real number from my [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/)?
 
 Not through the number itself. A virtual number does not forward caller ID information that reveals your underlying number. However, if you link your [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) an account (Google Voice requires a Google account, for example), someone with access to that account could potentially trace it. [Surfshark Alt Number](/blog/surfshark?sub=virtual-phone-number-app-2026__faq) avoids this by not requiring your real number or tied identity during signup.
 

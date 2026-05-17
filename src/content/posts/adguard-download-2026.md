@@ -152,7 +152,7 @@ For the vast majority of people, the browser extension is the right starting poi
 
 Here is something worth knowing before you download anything: no single AdGuard product covers all your devices at once.
 
-If you install the AdGuard browser extension on your laptop, your phone still shows ads. If you install AdGuard for Android, your laptop is not covered. If you want to block ads on your laptop, phone, and smart TV, you are looking at multiple separate downloads — potentially multiple separate purchases.
+If you install the AdGuard browser extension on your laptop, your phone still shows ads. If you install AdGuard for Android, your laptop is not covered. If you want to [block ads on](https://snipstack.io/block-ads-on-youtube-tv-app-2026/) your laptop, phone, and smart TV, you are looking at multiple separate downloads — potentially multiple separate purchases.
 
 This is AdGuard's structural limitation. It sells products per-platform, per-device. That is fine for power users who want that level of control. For someone who just wants fewer ads everywhere, it adds up in both money and management.
 

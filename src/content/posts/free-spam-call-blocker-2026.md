@@ -82,7 +82,7 @@ For dating-app scenarios specifically, Nomorobo is less relevant because it targ
 
 ## 6. Google Voice — [Free Second](https://snipstack.io/free-second-phone-number-for-whatsapp-2026/) Number with Basic Spam Filtering
 
-**Best for: US users who want a free virtual number with built-in spam protection.**
+**Best for: US users who want a free [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) with built-in spam protection.**
 
 Google Voice gives US residents a free secondary phone number that forwards to your real line. You get voicemail transcription, call screening, and basic spam filtering — all for nothing. For online dating, it is a solid alternative number to hand out instead of your real digits.
 

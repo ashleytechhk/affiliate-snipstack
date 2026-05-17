@@ -104,7 +104,7 @@ Use the Alt-Number when a match asks to move off the app. They call or text the 
 
 ### Why This Works Better for Dating Specifically
 
-Surfshark Alt-Number is not trying to be a full phone replacement. It is designed for exactly this use case: giving out a real-looking, functional number that keeps your identity separate. Calls sound like normal calls. Texts look like normal texts. The person on the other end has no way to tell it is a virtual number — and crucially, a reverse lookup on the number will not return your real name.
+Surfshark Alt-Number is not trying to be a full phone replacement. It is designed for exactly this use case: giving out a real-looking, functional number that keeps your identity separate. Calls sound like normal calls. Texts look like normal texts. The person on the other end has no way to tell it is a [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) — and crucially, a reverse lookup on the number will not return your real name.
 
 ---
 

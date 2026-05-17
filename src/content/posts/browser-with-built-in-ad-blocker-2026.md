@@ -178,7 +178,7 @@ The short version: Brave is the right choice if you want a free, self-contained 
 
 Yes — Brave works on both platforms and has Shields enabled by default. Download it from the Play Store (Android) or App Store (iOS) and ads are blocked immediately on first use with no additional setup. [See current pricing and options here.](/blog/adblock?sub=browser-with-built-in-ad-blocker-2026__faq)
 
-**Can I keep using Chrome and still block ads on my phone?**
+**Can I keep using Chrome and still [block ads on](https://snipstack.io/block-ads-on-youtube-tv-app-2026/) my phone?**
 
 Chrome for Android and iOS does not support extensions, so you cannot add a traditional [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) to Chrome on mobile. The workaround is a network-level solution like Surfshark CleanWeb, which blocks ad domains before they reach Chrome (or any other browser). You keep Chrome; the ads just don't load.
 

@@ -150,7 +150,7 @@ DNS blocking stops your device from resolving known ad-serving domain names — 
 
 Brave is Chromium-based, which means the rendering engine, JavaScript handling, and most web compatibility are identical to Chrome. On desktop, most Chrome extensions work in Brave. On mobile, Brave uses the same extension limitations as mobile Chrome — it's Brave's built-in Shields that provides the blocking, not extensions. It's the experience that's Chrome-like, not the extension ecosystem.
 
-### Does AdGuard DNS block ads on YouTube?
+### Does AdGuard DNS [block ads on](https://snipstack.io/block-ads-on-youtube-tv-app-2026/) YouTube?
 
 No. YouTube serves ads from the same domains as its regular content, so DNS blocking can't distinguish between them. For YouTube ad blocking on Android, the Firefox + uBlock Origin combination handles this via element-hiding rules. On iOS, YouTube ad blocking options are more limited.
 

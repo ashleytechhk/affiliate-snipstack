@@ -174,7 +174,7 @@ For NordVPN and Surfshark: yes. Both extensions are standalone proxies that work
 
 Marginally. Any VPN — desktop app or browser extension — adds a small amount of latency because your traffic is routing through an additional server. In practice, on a modern connection, this is not noticeable for browsing. Video calls through Chrome may show slightly higher latency if the VPN server is geographically distant.
 
-### Will the Chrome extension block ads on YouTube and other streaming sites?
+### Will the Chrome extension [block ads on](https://snipstack.io/block-ads-on-youtube-tv-app-2026/) YouTube and other streaming sites?
 
 Surfshark's CleanWeb and NordVPN's Threat Protection Lite block ad-serving domains at the DNS level, which can reduce some ad load. However, YouTube specifically serves ads from the same domain as its video content, making DNS-level blocking ineffective there. For [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/) blocking, a dedicated browser extension like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) is more effective than a VPN extension's built-in blocking.
 
