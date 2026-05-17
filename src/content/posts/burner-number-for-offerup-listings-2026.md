@@ -8,11 +8,11 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Burner number for OfferUp listings — protect your real number](/og/burner-number-for-offerup-listings-2026.png)
 
-In 2024, a woman in San Diego listed a treadmill on OfferUp. The buyer called twice to negotiate, she turned him down, and he found her home address within hours. She had given her real phone number in the listing — and a reverse phone lookup did the rest.
+In 2024, a woman in San Diego listed a treadmill on OfferUp. The buyer called twice to negotiate, she turned him down, and he found her home address within hours. She had given her real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) in the listing — and a reverse phone lookup did the rest.
 
 This is not paranoia. The FBI's Internet Crime Complaint Center logged over 83,000 online marketplace fraud and harassment complaints in 2024. OfferUp is one of the most-used peer-to-peer selling platforms in the US, connecting buyers with your personal contact details the moment you post. If you're also using dating apps — and that overlap is larger than you think in 2026 — you're handing strangers a master key to your life.
 
-A **burner number for OfferUp listings** is no longer an extreme precaution. It's the minimum.
+A **[burner number for](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) OfferUp listings** is no longer an extreme precaution. It's the minimum.
 
 **[Get a burner number for OfferUp with Alt-Number →](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__above-fold)**
 
@@ -76,7 +76,7 @@ Romance scammers frequently use marketplace platforms as a first contact point. 
 
 ## Surfshark Alt-Number: The Burner Number Built for This
 
-**[Surfshark Alt-Number](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__mid)** is a virtual US phone number service that gives you a second number to use anywhere you don't want to share your real one.
+**[Surfshark Alt-Number](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__mid)** is a virtual US phone number service that gives you a [second number](https://snipstack.io/second-number-for-discord-account-2026/) to use anywhere you don't want to share your real one.
 
 Here's what sets it apart from free alternatives like Google Voice:
 

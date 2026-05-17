@@ -36,7 +36,7 @@ Forbes is not a typical news site. Its advertising stack is built specifically f
 
 **Sticky bottom banner.** A persistent banner stays anchored at the bottom of the mobile screen throughout the reading session. On smaller phones, this competes with content for 15–20% of the vertical viewport.
 
-**Anti-adblock detection.** Forbes actively detects some browser-level ad blockers and may prompt users to disable them or subscribe to Forbes Premium. This detection is less consistent on network-level tools like DNS or VPN-layer filtering.
+**Anti-adblock detection.** Forbes actively detects some browser-level [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/)s and may prompt users to disable them or subscribe to Forbes Premium. This detection is less consistent on network-level tools like DNS or VPN-layer filtering.
 
 ![How Forbes mobile ad layers work — interstitial, refresh, sticky banner, autoplay video](/og/how-to-block-ads-on-forbes-site-2026-inline-1.png)
 
@@ -56,7 +56,7 @@ It's free, built-in, and needs no extension — but it doesn't block background 
 
 ---
 
-## Method 2: Firefox for Android + uBlock Origin — Best Free Full Blocker
+## Method 2: Firefox for Android + [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) — Best Free Full Blocker
 
 **How it works:** Firefox for Android is the only major mobile browser that supports full browser extensions. Install Firefox, then add [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) from Mozilla's extension store. uBlock Origin's filter lists will block Forbes's ad scripts, the interstitial wall, the sticky banner, and the autoplay video unit — including the ad refresh mechanism.
 
@@ -136,7 +136,7 @@ The pattern across every method: none of them is complete on its own, and none o
 
 ---
 
-## Does Forbes Know You're Blocking Ads?
+## Does Forbes Know You're [Blocking Ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/)?
 
 Forbes has anti-adblock detection that triggers in some configurations. You may see a prompt asking you to disable your blocker or subscribe to Forbes Premium.
 

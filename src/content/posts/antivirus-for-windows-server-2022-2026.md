@@ -108,7 +108,7 @@ Compared to the cost of recovering from a single attack, the annual cost of Surf
 
 ## Step-by-Step: Getting Protected Today
 
-Here is how to get Surfshark Antivirus running on your Windows Server 2022 machine, written for someone who does not consider themselves a tech person.
+Here is [how to get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) Surfshark Antivirus running on your Windows Server 2022 machine, written for someone who does not consider themselves a tech person.
 
 **Step 1.** Click the link below to go to the Surfshark Antivirus page. Read through the plans and choose the one that covers the number of devices you need.
 

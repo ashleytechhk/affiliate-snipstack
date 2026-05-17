@@ -271,7 +271,7 @@ If you followed all the steps above, here is what you have done:
 
 Your Windows 11 computer is now looked after. You do not need to think about it day to day — the software works silently in the background.
 
-**Ready to go one step further?** Surfshark Antivirus adds web protection, phishing defence, and data breach monitoring — all in one clean, simple app.
+**Ready to go one step further?** Surfshark Antivirus adds web protection, phishing defence, and data breach monitoring — [all in one](https://snipstack.io/all-in-one-protection-for-online-banking-2026/) clean, simple app.
 
 [Get Surfshark Antivirus for Windows 11 — see current deals](/blog/antivirus?sub=best-antivirus-for-windows-11-free-download-2026__cta)
 

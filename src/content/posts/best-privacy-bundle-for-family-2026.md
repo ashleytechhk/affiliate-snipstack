@@ -93,7 +93,7 @@ Start with your own primary device (usually a Windows laptop or Mac). Getting th
 2. Go to Apps → Download for your platform
 3. Run the installer — it takes about 2 minutes
 4. Log in with your account credentials
-5. In the left sidebar, you will see VPN, Antivirus, Alt-ID, and Alt-Number — all in one app
+5. In the left sidebar, you will see VPN, Antivirus, Alt-ID, and Alt-Number — [all in one](https://snipstack.io/all-in-one-protection-for-online-banking-2026/) app
 
 **Turn on Antivirus first.** Click Antivirus in the sidebar → Enable Real-Time Protection. It will run a background scan on first launch. Let it finish before doing anything else.
 

@@ -34,7 +34,7 @@ The logic is sound. Your real Google account is attached to your full name, your
 
 A separate Google account keeps your dating footprint siloed. Your real name does not appear in the profile. Your workplace does not show up in shared documents. Your home address does not appear in the contacts synced to the account.
 
-The problem is what happens in the first five minutes of account creation.
+The problem is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) in the first five minutes of account creation.
 
 ---
 

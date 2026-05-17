@@ -144,7 +144,7 @@ The registry has no enforcement mechanism for personal contacts. If a Hinge matc
 
 Most dating apps use SMS verification at signup. Surfshark Alt-Number works for this because it's a real mobile number, not a flagged VoIP line. Google Voice numbers are sometimes rejected. If you're creating a new account, Alt-Number is the safer bet.
 
-**What happens if I delete my burner number — can the person still reach me?**
+**What happens if I delete my [burner number](https://snipstack.io/burner-number-for-offerup-listings-2026/) — can the person still reach me?**
 
 No. Once you cancel or replace the number, any texts or calls to it either bounce or go nowhere. They have no way to reach your real number unless you gave it to them separately.
 

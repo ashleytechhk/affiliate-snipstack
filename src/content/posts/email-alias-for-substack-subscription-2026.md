@@ -134,7 +134,7 @@ Gmail allows `youraddress+anything@gmail.com` variants that all deliver to your 
 
 ---
 
-## How to Set Up Alt-ID for Your Substack Subscriptions
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt-ID for Your Substack Subscriptions
 
 ![Inline step-by-step: Alt-ID alias creation flow showing Substack subscribe button and alias auto-fill](/og/email-alias-for-substack-subscription-2026-inline-2.png)
 

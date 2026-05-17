@@ -198,7 +198,7 @@ Alt-ID is a forwarding service, not a full two-way inbox. Replies sent from your
 
 Fifty spam emails a day is not a personal failing. It is the predictable result of years of giving out your real address to every site that asked. You cannot undo the past, but you can stop the bleeding today.
 
-An email alias puts a disposable buffer between you and every new service you sign up for. When the buffer gets noisy, you switch it off. Your real inbox stays where you put it.
+An [email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/) puts a disposable buffer between you and every new service you sign up for. When the buffer gets noisy, you switch it off. Your real inbox stays where you put it.
 
 Start with one alias. Use it on your next signup. Once you see how cleanly it works, you will never go back to handing out your real address.
 

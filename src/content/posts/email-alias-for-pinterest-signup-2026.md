@@ -38,7 +38,7 @@ Using an alias at signup means:
 
 | Tool | Free tier | Alias limit | Forwarding | Reply from alias | Bundled privacy tools | Price (paid) |
 |---|---|---|---|---|---|---|
-| **Surfshark Alt-ID** | With Surfshark plan | Unlimited | Yes | Yes | VPN + Antivirus + Alert | ~$2.49/mo (bundled) |
+| **Surfshark Alt-ID** | With Surfshark plan | Unlimited | Yes | Yes | VPN + [Antivirus](https://snipstack.io/vs-antivirus-2026/) + Alert | ~$2.49/mo (bundled) |
 | **SimpleLogin** | Yes (10 aliases) | Unlimited (paid) | Yes | Yes | No | $4/mo or $30/yr |
 | **Apple Hide My Email** | iCloud+ only | Unlimited | Yes | Yes | No | $0.99/mo (iCloud+) |
 | **Firefox Relay** | Yes (5 aliases) | Unlimited (paid) | Yes | No (free) | No | $1.99/mo |
@@ -56,7 +56,7 @@ Alt-ID is Surfshark's answer to identity exposure. It generates a complete alias
 
 ### What sets Alt-ID apart
 
-**Bundled value.** If you are a Surfshark One or One+ subscriber, Alt-ID is included. You are not paying for a separate [email alias](https://snipstack.io/email-alias-for-discord-account-2026/) service on top of a VPN subscription. For users already in the Surfshark ecosystem, the marginal cost is zero.
+**Bundled value.** If you are a [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) or One+ subscriber, Alt-ID is included. You are not paying for a separate [email alias](https://snipstack.io/email-alias-for-discord-account-2026/) service on top of a VPN subscription. For users already in the Surfshark ecosystem, the marginal cost is zero.
 
 **Reply-from-alias.** Some alias tools only forward incoming mail. Alt-ID lets you reply to emails from your alias address, so if Pinterest sends a verification email and you reply, your real address never appears in the thread. This matters more than it sounds — platforms sometimes use reply-to addresses for marketing segmentation.
 
@@ -94,7 +94,7 @@ The catch is the ecosystem lock-in. Hide My Email requires iCloud+ (starts at $0
 
 ## Firefox Relay: Simple and Affordable
 
-Mozilla's Relay service is straightforward: browser extension intercepts email fields, generates a relay address, forwards to your real inbox. The free plan caps at five aliases. The paid plan ($1.99/month) removes the cap and adds phone number masking.
+Mozilla's Relay service is straightforward: browser extension intercepts email fields, generates a relay address, forwards to your real inbox. The free plan caps at five aliases. The paid plan ($1.99/month) removes the cap and adds [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking.
 
 The limitation worth flagging: the free tier does not support replying from your alias address. You can receive, but if you reply to a Pinterest email, your real address shows. The paid tier resolves this for some alias types, but the feature set remains more limited than Alt-ID or SimpleLogin.
 

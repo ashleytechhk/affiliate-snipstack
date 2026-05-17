@@ -28,7 +28,7 @@ The best free [burner number](https://snipstack.io/top-burner-number-2026/) apps
 
 ## What You Need Before You Start
 
-Before grabbing a burner number, check these:
+Before grabbing a [burner number](https://snipstack.io/burner-number-for-offerup-listings-2026/), check these:
 
 - **A smartphone** running iOS 14+ or Android 8+
 - **An active dating app account** or one you are in the process of setting up
