@@ -57,7 +57,7 @@ Do not wait until the last minute. Norton and McAfee both auto-renew aggressivel
 
 **For McAfee:** Go to [mcafee.com/consumer/en-us/account](https://mcafee.com/consumer/en-us/account) → My Account → Subscriptions → Cancel Auto-Renewal.
 
-**For other security suites (Bitdefender, Avast, Kaspersky):** Check the vendor's account portal. Every major vendor has an auto-renew toggle. Turn it off before proceeding.
+**For other [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)s (Bitdefender, Avast, Kaspersky):** Check the vendor's account portal. Every major vendor has an auto-renew toggle. Turn it off before proceeding.
 
 Once auto-renew is off, keep the old software installed until after you confirm Surfshark One is working. You want protection to overlap for at least a few hours, not leave a gap.
 

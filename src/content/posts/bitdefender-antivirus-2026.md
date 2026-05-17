@@ -123,7 +123,7 @@ There is no need to oversell here. Bitdefender is a legitimately strong product.
 
 ## Switching From Norton or McAfee: Practical Notes
 
-Before installing either product, fully uninstall your existing security suite first. Both Norton and McAfee have dedicated removal tools on their support pages — use those rather than just deleting the app, or residual files can cause conflicts.
+Before installing either product, fully uninstall your existing [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) first. Both Norton and McAfee have dedicated removal tools on their support pages — use those rather than just deleting the app, or residual files can cause conflicts.
 
 After uninstalling, restart before installing your new software. Both Bitdefender and Surfshark One install cleanly without requiring system restarts mid-way, unlike certain legacy suites.
 

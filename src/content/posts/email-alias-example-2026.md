@@ -180,7 +180,7 @@ Not quite. A disposable address (like those from Mailinator or 10-minute-mail) i
 **Can spammers figure out my real address from an alias?**
 Not through Alt-ID. The forwarding infrastructure keeps the link between your alias and your real address private. A spammer who acquires your alias address cannot reverse-engineer your real inbox. [See how Alt-ID works](/blog/altid?sub=email-alias-example-2026__faq).
 
-**Will email aliases stop the spam I am already getting?**
+**Will [email alias](https://snipstack.io/email-alias-for-patreon-signup-2026/)es stop the spam I am already getting?**
 Aliases stop new spam from reaching you on addresses you have not yet exposed. They do not retroactively fix addresses already circulating in data-broker lists. The strategy is forward-looking: use aliases for every new signup going forward, and the existing noise gradually becomes the only noise.
 
 **How many aliases should I use?**

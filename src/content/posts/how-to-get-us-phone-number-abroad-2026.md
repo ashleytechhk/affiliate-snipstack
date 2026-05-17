@@ -119,7 +119,7 @@ eSIM services give you a real data SIM for a destination country, loaded onto yo
 **Limitations for online daters abroad:**
 - Primarily a data solution, not a second-number solution
 - Plans are time-limited; not practical as a permanent [second number](https://snipstack.io/second-number-for-discord-account-2026/)
-- Costs more than a virtual number service for long-term use
+- Costs more than a [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) service for long-term use
 - Doesn't protect your real number — it just gives you a second one that's also tied to your identity
 
 ---

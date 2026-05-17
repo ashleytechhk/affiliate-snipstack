@@ -146,7 +146,7 @@ For most seniors who use the internet for everyday tasks, at least one of those 
 You do not have to choose between "do nothing extra" and "buy expensive software." A layered approach works well:
 
 1. **Keep Windows Defender running** — it handles antivirus at no cost.
-2. **Add a security suite for the gaps** — VPN, dark web alerts, and cross-browser phishing protection.
+2. **Add a [security suite for](https://snipstack.io/security-suite-for-unlimited-devices-2026/) the gaps** — VPN, dark web alerts, and cross-browser phishing protection.
 
 This combination gives you solid antivirus coverage from Microsoft plus the identity and privacy protections that Defender simply does not offer. The cost of a reputable suite spread across a full year typically works out to a few dollars per month — far less than the average financial loss from a single successful scam.
 

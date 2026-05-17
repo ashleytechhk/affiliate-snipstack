@@ -84,7 +84,7 @@ The antivirus component, powered by its own engine with third-party lab validati
 
 The VPN is the main product, and it shows. Unlimited devices, no bandwidth cap, WireGuard protocol by default, and a verified no-logs policy. That is a meaningful distinction from the bolt-on VPNs Norton and McAfee include.
 
-For a household covering multiple Windows devices — plus phones and tablets — Surfshark One Bundle's per-device economics become compelling quickly. You are protecting up to five devices with a full security suite for less than the cost of Norton 360 on a single device at renewal pricing.
+For a household covering multiple Windows devices — plus phones and tablets — Surfshark One Bundle's per-device economics become compelling quickly. You are protecting up to five devices with a full [security suite for](https://snipstack.io/security-suite-for-unlimited-devices-2026/) less than the cost of Norton 360 on a single device at renewal pricing.
 
 **[See current pricing for Surfshark One Bundle](/blog/surfshark?sub=windows-antivirus-2026__mid)**
 

@@ -141,7 +141,7 @@ Surfshark One is the right move if:
 Yes. Every Surfshark One subscription includes the full Surfshark VPN with unlimited simultaneous device connections. This is the same VPN sold as a standalone product — no feature restrictions.
 
 **Is Surfshark's antivirus as good as Norton's?**
-Norton has a longer antivirus track record and consistently strong independent lab scores. Surfshark Antivirus is competent and lighter on system resources, but Norton edges it on raw detection history. If antivirus is your sole priority, Norton is stronger there. If you want a balanced security suite that includes a top-tier VPN and private search, Surfshark One wins overall.
+Norton has a longer antivirus track record and consistently strong independent lab scores. Surfshark Antivirus is competent and lighter on system resources, but Norton edges it on raw detection history. If antivirus is your sole priority, Norton is stronger there. If you want a balanced [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) that includes a top-tier VPN and private search, Surfshark One wins overall.
 
 **Can I replace Norton 360 entirely with Surfshark One?**
 For most home users, yes. Surfshark One covers the core bases: antivirus, VPN, breach monitoring, and private search. The only significant gap is LifeLock-level identity theft insurance, which is a US-centric Norton feature. [See Surfshark One's full feature list here.](/blog/one?sub=surfshark-one-vs-norton-360-comparison-2026__faq)

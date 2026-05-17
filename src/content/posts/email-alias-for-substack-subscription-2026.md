@@ -151,7 +151,7 @@ Gmail allows `youraddress+anything@gmail.com` variants that all deliver to your 
 
 ## FAQ
 
-**Can I use an email alias on Substack without creating a Substack account?**
+**Can I use an [email alias](https://snipstack.io/email-alias-for-twitter-x-signup-2026/) on Substack without creating a Substack account?**
 
 Yes. Substack allows newsletter subscriptions via email without a full account sign-up. Enter your alias address in the subscribe form. Confirmation and issues arrive as normal emails in your real inbox. Your alias is what Substack and the writer see — not your personal address.
 
@@ -179,11 +179,11 @@ According to Substack's own published data, the average paying subscriber follow
 
 ## Bottom Line
 
-The email alias habit is a one-time setup that permanently changes how your inbox handles newsletters. Instead of your real address sitting in the subscriber list of every Substack writer, tech blogger, and brand partner who ever got a list deal, you hand out an address you control and can revoke.
+The [email alias](https://snipstack.io/email-alias-for-discord-account-2026/) habit is a one-time setup that permanently changes how your inbox handles newsletters. Instead of your real address sitting in the subscriber list of every Substack writer, tech blogger, and brand partner who ever got a list deal, you hand out an address you control and can revoke.
 
 Among the tools compared here, **Alt-ID** handles the full Substack use case with the least friction: unlimited aliases, permanent forwarding, browser extension auto-fill, and one-click deletion when things go wrong. The alternative identity feature is a bonus that none of the other tools match.
 
-If you are already paying for Surfshark, you have Alt-ID today at no extra cost. If you are not, the subscription covers both VPN and email aliasing — two tools that address different sides of the same privacy problem.
+If you are already paying for Surfshark, you have Alt-ID today at no extra cost. If you are not, the subscription covers both VPN and [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/)ing — two tools that address different sides of the same privacy problem.
 
 [Set up Alt-ID and start protecting your newsletter inbox](/blog/altid?sub=email-alias-for-substack-subscription-2026__cta)
 

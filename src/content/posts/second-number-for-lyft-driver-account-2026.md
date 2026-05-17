@@ -68,7 +68,7 @@ A dedicated second number registered to your Lyft account breaks this chain enti
 
 Not every [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) works for Lyft's account verification. This is the practical catch that surprises people who try the free alternatives first.
 
-Lyft's verification system — like most serious platform verification — checks numbers against known VoIP ranges. Free virtual number services like Google Voice and TextNow are frequently blocked. The reason is platform integrity: Lyft needs to verify that drivers are real people with real contact information, and VoIP numbers are associated with throwaway accounts that make that verification unreliable.
+Lyft's verification system — like most serious platform verification — checks numbers against known VoIP ranges. Free [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) services like Google Voice and TextNow are frequently blocked. The reason is platform integrity: Lyft needs to verify that drivers are real people with real contact information, and VoIP numbers are associated with throwaway accounts that make that verification unreliable.
 
 The numbers that pass Lyft's verification are carrier-backed numbers — numbers that route through real mobile carrier infrastructure rather than internet-only VoIP systems. To Lyft's verification layer, these behave identically to a standard mobile line. They receive SMS verification codes, accept callback routing, and satisfy the platform's account requirements.
 

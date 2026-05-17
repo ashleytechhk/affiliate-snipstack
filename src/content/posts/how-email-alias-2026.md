@@ -206,4 +206,4 @@ Mail already forwarded to your real inbox stays there. Only future mail sent to 
 
 ---
 
-Your inbox is supposed to be a productivity tool, not a liability. Email aliasing is one of the lowest-effort, highest-impact privacy habits you can build in 2026. Start with one alias on your next signup. Within a week, you will wonder why you waited.
+Your inbox is supposed to be a productivity tool, not a liability. [Email alias](https://snipstack.io/email-alias-for-patreon-signup-2026/)ing is one of the lowest-effort, highest-impact privacy habits you can build in 2026. Start with one alias on your next signup. Within a week, you will wonder why you waited.

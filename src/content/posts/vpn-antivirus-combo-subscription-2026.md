@@ -73,7 +73,7 @@ Note: canceling auto-renewal lets your current coverage run until the expiry dat
 
 ---
 
-## Step 2 — Uninstall Your Existing Security Suite
+## Step 2 — Uninstall Your Existing [Security Suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)
 
 This is the step most people skip or do badly. A partial uninstall leaves registry entries and background processes that conflict with new security software. Do it properly.
 

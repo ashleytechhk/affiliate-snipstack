@@ -90,7 +90,7 @@ This is the section that matters most if you are trying to minimize what you spe
 
 On a 2-year total cost basis, Surfshark comes in roughly 40–45% cheaper than NordVPN. Over 24 months, that difference can exceed $40–$50 depending on exchange rates and promotional pricing. For a tool you are using to save money on streaming, that is money you are keeping rather than spending on infrastructure.
 
-Surfshark also includes its broader security suite ([Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) — [antivirus](https://snipstack.io/vs-antivirus-2026/), data breach alerts, identity protection) in some plan tiers at no additional cost, which adds value without adding to the bill.
+Surfshark also includes its broader [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) ([Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) — [antivirus](https://snipstack.io/vs-antivirus-2026/), data breach alerts, identity protection) in some plan tiers at no additional cost, which adds value without adding to the bill.
 
 ![Surfshark pricing and feature highlights vs NordVPN](/og/vs-nordvpn-login-2026-inline-2.png)
 

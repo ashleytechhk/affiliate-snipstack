@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 You pledged to a creator. Three weeks later your inbox is full of newsletters from Patreon's marketing partners, promotional blasts from third-party platforms Patreon shares data with, and the occasional breach-harvested spam — all landing directly on the address you use for banking, work, and family. That is the cost of signing up with your real email.
 
-An email alias fixes this cleanly. You give Patreon a forwarding address that isn't your real one. Emails still land in your inbox. Spam can be killed with one click. Your real address stays out of any database Patreon or its partners hold.
+An [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) fixes this cleanly. You give Patreon a forwarding address that isn't your real one. Emails still land in your inbox. Spam can be killed with one click. Your real address stays out of any database Patreon or its partners hold.
 
 This comparison covers the best alias tools for Patreon signups in 2026 — ranked against the criteria that actually matter for ongoing supporter accounts, not one-time throwaway use.
 
@@ -123,7 +123,7 @@ Gmail's `yourname+patreon@gmail.com` trick creates a variant address that delive
 **Why it doesn't work for Patreon privacy:**
 - It doesn't hide your real address. Anyone who sees `yourname+patreon@gmail.com` can trivially derive `yourname@gmail.com`.
 - Patreon (and most marketers) strip the `+patreon` portion before storing the address, so they have your real address anyway.
-- There is no kill switch. If you want to stop receiving emails to that variant, you have to create a filter — which is the same whack-a-mole as blocking senders.
+- There is no kill switch. If you want to [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) emails to that variant, you have to create a filter — which is the same whack-a-mole as blocking senders.
 
 Use this only if you have zero other options and need to distinguish Patreon mail in your inbox by label. For actual privacy, it provides none.
 
@@ -178,7 +178,7 @@ Check your Alt-ID (or whichever service you used) dashboard — aliases are list
 
 No. Patreon's terms require a valid, functioning email address — an alias that forwards mail satisfies that requirement. You're not using a throwaway inbox that expires; you're using a permanent forwarding address that Patreon can reach. The alias is "real" from Patreon's perspective. [Alt-ID](/blog/altid?sub=email-alias-for-patreon-signup-2026__faq) and similar services provide exactly this kind of persistent alias.
 
-**What happens to my Patreon account if I delete the alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Patreon account if I delete the alias?**
 
 Patreon can no longer send you email — billing receipts, password reset emails, and creator notifications will bounce. Before deleting an alias on an active account, update your Patreon email address to a new alias first, then delete the old one. This keeps your account functional while cutting off any compromised forwarding address.
 

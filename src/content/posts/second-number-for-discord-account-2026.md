@@ -72,7 +72,7 @@ A dedicated second number breaks this chain entirely. If the Discord-linked numb
 
 Not every [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) works for Discord's verification. This is the practical reality that catches people off guard.
 
-Discord's phone verification system checks numbers against known VoIP ranges and blocks many free virtual number services. Google Voice — blocked. TextNow — blocked. Most free "burner" apps — blocked. The reason is that Discord has actively worked to prevent bot farms and spam accounts from using throwaway VoIP numbers.
+Discord's phone verification system checks numbers against known VoIP ranges and blocks many free [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) services. Google Voice — blocked. TextNow — blocked. Most free "burner" apps — blocked. The reason is that Discord has actively worked to prevent bot farms and spam accounts from using throwaway VoIP numbers.
 
 The numbers that pass Discord's verification are carrier-backed numbers — numbers that route through real mobile carrier infrastructure rather than internet-only VoIP systems. These behave, to Discord's verification check, like a normal mobile line.
 
