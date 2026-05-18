@@ -163,7 +163,7 @@ One account, one subscription — every device you own can be logged in and prot
 
 The four components (VPN, Antivirus, Alert, Search) are managed under one account but installed as separate apps. The [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) are the most frequently used and each has its own interface. Alert notifications come through the Alert app or browser extension. Search is accessed as a web-based tool. You do not need all four active simultaneously — use what you need, ignore what you don't.
 
-### What happens to my Norton subscription price at renewal?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription price at renewal?
 
 Norton commonly runs promotional introductory pricing in the range of $19.99–$39.99 for the first year and then renews at the full rate, which is typically $80–$109 or higher depending on the plan tier and region. The renewal price is disclosed in the original purchase terms but is frequently overlooked. Before renewing, compare the renewal cost against what you would pay for a Surfshark One long-term plan. [See Surfshark One's current pricing here.](/blog/one?sub=security-suite-for-unlimited-devices-2026__faq)
 

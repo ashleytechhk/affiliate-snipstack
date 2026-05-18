@@ -210,7 +210,7 @@ Alt-Number handles both calls and texts. Incoming calls ring through the Alt-Num
 
 ### Is this legal?
 
-Using a second virtual number is entirely legal. Millions of people use virtual numbers for business, privacy, and travel reasons. The number is real and registered — you're simply using a service-provided number rather than one assigned by a mobile carrier directly. There's nothing deceptive about it from a legal standpoint. **[See Alt-Number plans →](/blog/altnumber?sub=how-to-get-us-phone-number-abroad-2026__faq)**
+Using a second [virtual number](https://snipstack.io/virtual-number-for-real-estate-agents-2026/) is entirely legal. Millions of people use virtual numbers for business, privacy, and travel reasons. The number is real and registered — you're simply using a service-provided number rather than one assigned by a mobile carrier directly. There's nothing deceptive about it from a legal standpoint. **[See Alt-Number plans →](/blog/altnumber?sub=how-to-get-us-phone-number-abroad-2026__faq)**
 
 ---
 

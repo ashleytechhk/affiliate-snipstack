@@ -122,7 +122,7 @@ That assumption costs you. Once your number is linked to your identity in a data
 
 ![Surfshark Alt Number — virtual number setup for online dating privacy](/og/free-spam-call-blocker-2026-inline-2.png)
 
-A virtual number breaks this dynamic. You hand out a number that is fully functional for calls and texts, but the moment you want it gone, you delete it. The person on the other end has a dead number. Your real number was never in the picture.
+A [virtual number](https://snipstack.io/virtual-number-for-real-estate-agents-2026/) breaks this dynamic. You hand out a number that is fully functional for calls and texts, but the moment you want it gone, you delete it. The person on the other end has a dead number. Your real number was never in the picture.
 
 [Get a virtual number with Surfshark Alt Number](/blog/surfshark?sub=free-spam-call-blocker-2026__mid)
 

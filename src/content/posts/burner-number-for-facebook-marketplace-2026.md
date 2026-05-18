@@ -86,7 +86,7 @@ Here's what sets it apart from free alternatives like Google Voice:
 
 **Instant deletion.** If a buyer becomes aggressive or a match won't stop texting, you can cancel the number in the app. Immediately. No waiting period, no need to explain yourself.
 
-**Part of Surfshark's privacy suite.** Alt-Number is bundled with Surfshark subscriptions — the same subscription that includes VPN and the Alt-ID email alias service. If you're already using Surfshark for anything, you may already have access.
+**Part of Surfshark's privacy suite.** Alt-Number is bundled with Surfshark subscriptions — the same subscription that includes VPN and the Alt-ID [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) service. If you're already using Surfshark for anything, you may already have access.
 
 **No separate SIM or device required.** It runs in an app on your existing phone. You manage it the same way you manage any app.
 
@@ -121,7 +121,7 @@ You've probably heard of Google Voice. Here's an honest comparison:
 | Number recyclability | Numbers may be shared | Dedicated number |
 | Deletion on demand | Yes | Yes |
 | Tied to Google account | Yes (privacy concern) | No |
-| Bundled with VPN/email alias | No | Yes |
+| Bundled with VPN/[email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/) | No | Yes |
 
 Google Voice is not bad. For low-stakes use, it works fine. The two gaps that matter for Marketplace dating safety: it's frequently blocked by platforms that require SMS verification, and it's tied to your Google identity — meaning it's not truly separate from your digital footprint.
 
@@ -161,7 +161,7 @@ Yes. Alt-Number handles both calls and texts. Incoming calls ring through the Su
 **Do I need to keep my phone connected to the internet for the burner number to receive texts?**
 Yes — [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/)s require data or Wi-Fi to route messages through the app. If your phone is offline, texts are queued and delivered when you reconnect. For Marketplace use, where most communication happens through the app anyway, this is rarely a practical issue.
 
-**What happens to my Marketplace listings if I delete the burner number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Marketplace listings if I delete the burner number?**
 Your listings stay live — only the contact number changes. If you post a new number in the listing description, buyers use that. Existing conversations in Facebook Messenger are unaffected.
 
 ---

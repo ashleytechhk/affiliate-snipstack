@@ -85,7 +85,7 @@ Apple's Hide My Email is the most frictionless option for iPhone and Mac users. 
 
 ## Option 2: Surfshark Alt-ID
 
-Alt-ID is Surfshark's email alias feature, included with their VPN subscription plans. It generates a randomized forwarding address — something like `cloudpine.lamp4291@surfshark.id` — that you use anywhere an email is required. All mail forwards to your real inbox.
+Alt-ID is Surfshark's [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/) feature, included with their VPN subscription plans. It generates a randomized forwarding address — something like `cloudpine.lamp4291@surfshark.id` — that you use anywhere an email is required. All mail forwards to your real inbox.
 
 **What it does well:**
 
@@ -98,7 +98,7 @@ Alt-ID is Surfshark's email alias feature, included with their VPN subscription 
 **Where it falls short:**
 
 - Not as frictionless as Hide My Email on Apple devices — there's no OS-level autofill integration. You generate the alias in the Surfshark app or browser extension, then paste it into the form.
-- Requires a Surfshark subscription. If you only want email aliases and nothing else from the privacy toolkit, this may be more than you need.
+- Requires a Surfshark subscription. If you only want [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/)es and nothing else from the privacy toolkit, this may be more than you need.
 
 **Verdict on Alt-ID:** The more versatile option. Better for multi-device users, better for bulk alias management, and bundled with tools that address the broader digital footprint problem — not just the email angle.
 
@@ -120,7 +120,7 @@ Gmail "+" addressing is a filtering tool, not a privacy tool. It does not hide y
 
 ---
 
-## Option 4: Free Disposable Email Services
+## Option 4: Free [Disposable Email](https://snipstack.io/disposable-email-address-for-trials-2026/) Services
 
 Services like Temp-Mail, Guerrilla Mail, and 10 Minute Mail give you a temporary inbox that expires. They're useful for one-time signups where you never need the address again.
 

@@ -55,7 +55,7 @@ Alt-ID stands out because it goes one layer deeper: it doesn't just generate an 
 
 ![Surfshark Alt-ID setup flow for Twitch privacy](/og/email-alias-for-twitch-account-privacy-2026-inline-1.png)
 
-Alt-ID is part of Surfshark One, Surfshark's privacy bundle. The feature generates a fake identity — name, [email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/), and optionally a profile — that you use in place of your real details when signing up for services like Twitch.
+Alt-ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), Surfshark's privacy bundle. The feature generates a fake identity — name, [email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/), and optionally a profile — that you use in place of your real details when signing up for services like Twitch.
 
 ### What You Get
 
@@ -71,7 +71,7 @@ Streamers have a unique problem: their Twitch usernames are public, often linked
 
 For viewers and moderators, the benefit is simpler: less spam. You sign in with the alias, clip sites and tournament apps get the alias, and your real inbox stays clean.
 
-**[Try Surfshark Alt-ID today](/blog/altid?sub=email-alias-for-twitch-account-privacy-2026__mid)** — it's included with Surfshark One starting at around $2.49/month when bundled.
+**[Try Surfshark Alt-ID today](/blog/altid?sub=email-alias-for-twitch-account-privacy-2026__mid)** — it's included with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) starting at around $2.49/month when bundled.
 
 ---
 
@@ -136,7 +136,7 @@ No. An [email alias for](https://snipstack.io/email-alias-for-pinterest-signup-2
 
 ### Can I use Surfshark Alt-ID without a Surfshark VPN subscription?
 
-Alt-ID is part of Surfshark One, which includes VPN, Antivirus, Alert, and Alt-ID together. You need a Surfshark One subscription to access it. For many users, the bundle pricing makes this better value than paying for a standalone alias service separately. **[See current Surfshark One pricing here](/blog/altid?sub=email-alias-for-twitch-account-privacy-2026__faq)**.
+Alt-ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/), which includes VPN, Antivirus, Alert, and Alt-ID together. You need a Surfshark One subscription to access it. For many users, the bundle pricing makes this better value than paying for a standalone alias service separately. **[See current Surfshark One pricing here](/blog/altid?sub=email-alias-for-twitch-account-privacy-2026__faq)**.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if my alias email gets compromised or spammed?
 

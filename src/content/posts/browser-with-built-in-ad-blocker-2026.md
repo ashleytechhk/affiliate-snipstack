@@ -229,7 +229,7 @@ The era of tolerating full-screen mobile ads is over. Setup takes five minutes e
     },
     {
       "@type": "Question",
-      "name": "Can I keep using Chrome and still block ads on my phone?",
+      "name": "Can I keep using Chrome and still [block ads on](https://snipstack.io/block-ads-on-peacock-streaming-2026/) my phone?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Chrome for Android and iOS does not support browser extensions, so you cannot add a traditional [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) directly to Chrome on mobile. A network-level solution like Surfshark CleanWeb blocks ad domains before they reach Chrome — you keep Chrome, the ads just don't load."
