@@ -20,7 +20,7 @@ This guide explains what "[blocking ads on](https://snipstack.io/blocking-ads-on
 
 ## Quick Verdict
 
-No free method fully eliminates Peacock ads in 2026 on mobile. Peacock uses server-side ad injection on its app, which defeats browser extensions entirely. The options that consistently reduce the ad load are: upgrading to Peacock Premium Plus (Peacock's own ad-free tier), DNS-level blocking through a VPN like Surfshark CleanWeb (which blocks ad infrastructure across every app, including Peacock), or using a modified third-party client (high technical risk, not recommended). For mobile users specifically, CleanWeb is the only realistic set-and-forget option that works without jailbreaking your phone or managing technical workarounds.
+No free method fully eliminates Peacock ads in 2026 on mobile. Peacock uses server-side ad injection on its app, which defeats browser extensions entirely. The options that consistently reduce the ad load are: upgrading to Peacock Premium Plus (Peacock's own ad-free tier), DNS-level blocking through a VPN like [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) (which blocks ad infrastructure across every app, including Peacock), or using a modified third-party client (high technical risk, not recommended). For mobile users specifically, CleanWeb is the only realistic set-and-forget option that works without jailbreaking your phone or managing technical workarounds.
 
 ---
 
@@ -36,7 +36,7 @@ Peacock delivers ads in two ways:
 
 Browser extensions block network requests, not video stream content. That's why [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/)s work perfectly on a site like a news article (block the external ad iframe) but fall apart on video streaming platforms that use SSAI. The ad inside the Peacock video stream is, from your browser or app's perspective, identical to the show content — same domain, same delivery mechanism.
 
-This is not a failure of ad blockers. It's a deliberate architectural choice by Peacock to defeat them.
+This is not a failure of [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)s. It's a deliberate architectural choice by Peacock to defeat them.
 
 ---
 
@@ -183,7 +183,7 @@ If you already have Surfshark for streaming or privacy reasons, CleanWeb is a ze
 
 ## Frequently Asked Questions
 
-**Can I block ads on Peacock for free on my phone?**
+**Can I [block ads on](https://snipstack.io/block-ads-on-youtube-tv-app-2026/) Peacock for free on my phone?**
 Not completely. Peacock's video ads use server-side injection, which no free tool blocks on mobile. You can reduce tracking and ad infrastructure with a DNS-level blocker (CleanWeb is included with a Surfshark subscription), but the video ads themselves require either a Peacock Premium Plus upgrade or a technical workaround with significant tradeoffs. [A DNS-level layer is the most practical free-ish option for mobile.](/blog/adblock?sub=block-ads-on-peacock-streaming-2026__faq)
 
 **Does uBlock Origin work on Peacock?**

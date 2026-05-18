@@ -51,7 +51,7 @@ Google requires you to link a real forwarding number. This is a critical privacy
 
 ### Step 4 — Choose Your Number
 
-Search by area code or city. Pick a number and confirm. You now have a second number that forwards calls and texts to your real device.
+Search by area code or city. Pick a number and confirm. You now have a [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) that forwards calls and texts to your real device.
 
 ### Step 5 — Install the Google Voice App
 

@@ -236,7 +236,7 @@ The setup takes three minutes. The impact on your reading experience is immediat
     },
     {
       "@type": "Question",
-      "name": "Can news sites detect that I am using an ad blocker?",
+      "name": "Can news sites detect that I am using an [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Some news sites use ad-blocker detection scripts. This detection targets browser extension ad blockers. DNS-level blocking like CleanWeb is significantly harder to detect because the blocker has no browser fingerprint — the site cannot distinguish a blocked ad request from a simple network failure on an ad server."

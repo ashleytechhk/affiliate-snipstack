@@ -148,7 +148,7 @@ Yes. Log into your existing loyalty account, go to profile settings, and update 
 
 Most do not. Hotel programs accept any valid-format email address at registration. The `@surfshark.id` domain used by [Alt-ID](/blog/altid?sub=hide-email-from-hotel-loyalty-programs-2026__faq) is not on the public blocklists that target common throwaway services like 10MinuteMail. In the rare case a program rejects it, try a different alias domain if Alt-ID offers one, or contact the program's support to whitelist the address.
 
-**What happens to my points if I delete the alias and lose access to the account?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my points if I delete the alias and lose access to the account?**
 
 Do not delete the alias before updating the account email. The correct sequence is: create a new alias, update the account to the new alias, confirm it works, then delete the old alias if it was a different address. Your points sit on the account, not the email address — changing email does not affect your balance or status.
 
@@ -156,9 +156,9 @@ Do not delete the alias before updating the account email. The correct sequence 
 
 Hiding your email address prevents partners from reaching you by email. It does not stop the loyalty program from sharing your profile data with partners — that is a separate data-rights issue governed by privacy law in your jurisdiction. For email spam specifically, a masked alias is the most effective tool available to individuals right now.
 
-**Is Surfshark Alt-ID worth it if I only need it for email aliases?**
+**Is Surfshark Alt-ID worth it if I only need it for [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/)es?**
 
-Alt-ID is not sold as a standalone product — it comes bundled with Surfshark. If you are already a Surfshark subscriber, you have it at no extra cost. If you are not a Surfshark subscriber, the value proposition depends on whether you also want VPN coverage. For email aliases alone, SimpleLogin's free tier or iCloud Hide My Email are the alternatives to evaluate.
+Alt-ID is not sold as a standalone product — it comes bundled with Surfshark. If you are already a Surfshark subscriber, you have it at no extra cost. If you are not a Surfshark subscriber, the value proposition depends on whether you also want VPN coverage. For [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/)es alone, SimpleLogin's free tier or iCloud Hide My Email are the alternatives to evaluate.
 
 **How many loyalty program aliases should I create?**
 

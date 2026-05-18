@@ -166,7 +166,7 @@ Brave is free and open source. Its revenue model is optional — you can choose 
 
 ### What's the difference between a DNS blocker and a VPN [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/)?
 
-A DNS blocker intercepts requests at the domain-resolution level — it prevents your device from connecting to known ad-serving domains entirely. It's simple, lightweight, and covers all apps, but it can only block by domain (not by specific URL or page element). A VPN ad blocker like Surfshark CleanWeb intercepts traffic at the network layer, allowing more granular blocking of ad requests even when they come from shared domains. VPN blockers also encrypt your traffic and mask your IP address, which DNS-only filtering doesn't do.
+A DNS blocker intercepts requests at the domain-resolution level — it prevents your device from connecting to known ad-serving domains entirely. It's simple, lightweight, and covers all apps, but it can only block by domain (not by specific URL or page element). A VPN [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) like Surfshark CleanWeb intercepts traffic at the network layer, allowing more granular blocking of ad requests even when they come from shared domains. VPN blockers also encrypt your traffic and mask your IP address, which DNS-only filtering doesn't do.
 
 ### How do I know if my free ad blocker is actually working?
 

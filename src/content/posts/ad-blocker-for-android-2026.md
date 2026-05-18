@@ -146,7 +146,7 @@ Yes. VPN-layer solutions like Surfshark CleanWeb and AdGuard (sideloaded) work w
 
 Only VPN-layer [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/)s catch in-app ads. Browser extensions and DNS-only solutions block ads in the browser but have no visibility into traffic from other apps. [Surfshark CleanWeb](/blog/surfshark?sub=ad-blocker-for-android-2026__faq) uses a local VPN to intercept all app traffic, including in-app ad requests.
 
-### Will an ad blocker slow down my Android phone?
+### Will an [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) slow down my Android phone?
 
 VPN-layer blockers add a small processing overhead, but in practice you will not notice it on any phone made in the last three years. DNS-based blockers have near-zero impact since they only redirect DNS lookups. Browser-based solutions like uBlock Origin are engineered specifically to be low-footprint.
 

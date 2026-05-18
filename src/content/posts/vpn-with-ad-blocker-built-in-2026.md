@@ -167,7 +167,7 @@ DNS blocking itself adds negligible overhead — typically under 1ms per DNS loo
 
 It depends on your needs. AdGuard has a dedicated iOS and Android app with more granular control — per-site rules, custom filter lists, cosmetic filtering. A VPN with built-in ad blocking like CleanWeb is simpler (one app, one toggle) and covers more scenarios if you already want a VPN for privacy or streaming. If ad blocking is your only goal and you want fine-grained control, AdGuard's dedicated app offers more. If you want ad blocking plus VPN features in one subscription, Surfshark CleanWeb wins on convenience and cost.
 
-### Do I need to keep the VPN connected for the ad blocker to work?
+### Do I need to keep the VPN connected for the [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) to work?
 
 For Surfshark CleanWeb on iOS: no — DNS blocking works independently of the VPN tunnel state. For NordVPN Threat Protection Lite on iOS: yes, it requires an active VPN connection. On Android, both work while connected. Surfshark has the more reliable always-on behavior across both major mobile platforms.
 

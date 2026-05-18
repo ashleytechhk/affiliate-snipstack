@@ -162,7 +162,7 @@ Some sites detect content blockers and show a warning asking you to disable bloc
 
 The opposite. Safari Content Blockers are compiled natively by iOS, not run as JavaScript. Pages load faster because fewer network requests are made and less script executes after load.
 
-**Is using an ad blocker legal?**
+**Is using an [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) legal?**
 
 Yes, in every major jurisdiction. Using software to filter content on your own device is not illegal. Some site terms of service ask you not to use blockers, but that is an unenforceable contract clause, not a legal obligation.
 

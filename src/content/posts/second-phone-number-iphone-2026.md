@@ -72,7 +72,7 @@ If you want to make an outbound call or send a text, do it from within the Alt-N
 
 ### Step 5: Share Your Dating Number
 
-Your second number is ready to share. Give it to matches on dating apps, put it in your profile bio if you prefer direct contact, or share it when someone asks. All calls and texts come through the Surfshark app. Your real number stays private.
+Your [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) is ready to share. Give it to matches on dating apps, put it in your profile bio if you prefer direct contact, or share it when someone asks. All calls and texts come through the Surfshark app. Your real number stays private.
 
 When a match turns out to be someone you no longer want contact with, return to the Alt-Number section and remove the number. That contact's ability to reach you ends immediately.
 

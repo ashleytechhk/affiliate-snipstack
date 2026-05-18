@@ -162,7 +162,7 @@ Not easily. AdGuard on Android uses the local VPN slot to intercept traffic, and
 
 ### Are [free ad blocker](https://snipstack.io/free-ad-blocker-chrome-2026/)s safe to use?
 
-Open-source tools like uBlock Origin, AdGuard (free tier), and DNS66 are safe and well-audited. Be cautious with lesser-known "ad blocker" apps on the Play Store and App Store — some are adware themselves, collecting browsing data to sell. Stick to apps with verifiable open-source repositories or well-established publishers.
+Open-source tools like uBlock Origin, AdGuard (free tier), and DNS66 are safe and well-audited. Be cautious with lesser-known "[ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)" apps on the Play Store and App Store — some are adware themselves, collecting browsing data to sell. Stick to apps with verifiable open-source repositories or well-established publishers.
 
 ---
 

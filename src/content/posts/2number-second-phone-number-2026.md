@@ -80,7 +80,7 @@ Tap **Alt-Number** to open the setup flow.
 
 ### Step 3 — Choose Your Country
 
-Alt-Number lets you pick the country for your second number. For most dating app users, a domestic number works best — it looks local, it's less likely to raise eyebrows on dating profiles, and it receives texts and calls normally.
+Alt-Number lets you pick the country for your [second number](https://snipstack.io/second-number-for-freelance-clients-2026/). For most dating app users, a domestic number works best — it looks local, it's less likely to raise eyebrows on dating profiles, and it receives texts and calls normally.
 
 Select your country from the list and tap **Continue**.
 

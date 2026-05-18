@@ -81,7 +81,7 @@ Go back to your dating app (Tinder, Bumble, Hinge, or wherever) and share your A
 
 ### Step 5 — Manage Calls and Messages in Alt-Number
 
-Any call or SMS that comes in to your second number shows up inside the Alt-Number app. You can reply to texts, accept or decline calls, and check your message history — all without it ever touching your real phone number or your primary phone plan.
+Any call or SMS that comes in to your [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) shows up inside the Alt-Number app. You can reply to texts, accept or decline calls, and check your message history — all without it ever touching your real phone number or your primary phone plan.
 
 When a conversation runs its course, you can mute notifications, block the contact, or — if you want a clean break — request a new number entirely. Your real identity stays out of it.
 

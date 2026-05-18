@@ -100,7 +100,7 @@ This flips the usual use case: instead of only blocking calls coming to you, you
 
 | Tool | Type | Best For | Price | Blocks Before Sharing? |
 |---|---|---|---|---|
-| **Alt-Number** | Virtual second number | Dating privacy, full protection | Paid | Yes |
+| **Alt-Number** | Virtual [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) | Dating privacy, full protection | Paid | Yes |
 | Google Call Screen | OS built-in | Android / Pixel users | Free | No |
 | Hiya | Spam ID app | Caller ID + auto-block | Free / Paid | No |
 | Silence Unknown Callers | OS built-in | Passive iOS filtering | Free | No |

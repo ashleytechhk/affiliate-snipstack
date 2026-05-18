@@ -22,7 +22,7 @@ If you use Discord for online dating — to voice-chat before a first date, to b
 
 ## Quick Verdict
 
-Discord phone verification exists to reduce spam and underage access — it was never designed as a privacy tool. If your real number is attached to your Discord account, anyone who gets close enough to your account has a thread to pull. For online daters, the answer is a dedicated second number used exclusively for Discord: a carrier-backed [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) from **[Surfshark Alt-Number](/blog/altnumber?sub=second-number-for-discord-account-2026__above-fold)** that keeps your real identity completely separate. Setup takes under five minutes, and you can replace or close the number whenever you need a clean break.
+Discord phone verification exists to reduce spam and underage access — it was never designed as a privacy tool. If your real number is attached to your Discord account, anyone who gets close enough to your account has a thread to pull. For online daters, the answer is a dedicated [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) used exclusively for Discord: a carrier-backed [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) from **[Surfshark Alt-Number](/blog/altnumber?sub=second-number-for-discord-account-2026__above-fold)** that keeps your real identity completely separate. Setup takes under five minutes, and you can replace or close the number whenever you need a clean break.
 
 ---
 

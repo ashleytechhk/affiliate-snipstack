@@ -222,7 +222,7 @@ WhatsApp and similar apps require a [phone number for](https://snipstack.io/phon
 
 Blocking individual telemarketer numbers is a treadmill — you block one, another appears. Registering with Do Not Call helps with legitimate businesses but doesn't touch robocall operations. Silencing unknown callers reduces interruptions but is a blunt instrument.
 
-The only strategy that actually stops telemarketers from getting your number is not giving them your real number in the first place. For online daters, that means using a second number — one that works exactly like your real number for calls and texts, but that you can delete the moment it becomes a liability.
+The only strategy that actually stops telemarketers from getting your number is not giving them your real number in the first place. For online daters, that means using a [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) — one that works exactly like your real number for calls and texts, but that you can delete the moment it becomes a liability.
 
 [Surfshark Alt-Number](/blog/altnumber?sub=how-to-block-telemarketers-permanently-2026__cta) is the straightforward way to do this. Get a real second number, use it with dating apps and new matches, and kill it if it attracts spam. Your real number stays clean, and you never have to deal with a telemarketer who got hold of it from a data broker or a breached dating app.
 
