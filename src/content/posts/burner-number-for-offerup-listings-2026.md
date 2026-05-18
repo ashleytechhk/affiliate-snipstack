@@ -92,7 +92,7 @@ Here's what sets it apart from free alternatives like Google Voice:
 
 ---
 
-## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Burner Number for OfferUp Listings
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a [Burner Number for](https://snipstack.io/burner-number-for-contractor-work-2026/) OfferUp Listings
 
 **Step 1.** Get Surfshark Alt-Number through the link below. [Start here](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__mid) — it's included with Surfshark plans.
 

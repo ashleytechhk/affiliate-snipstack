@@ -60,7 +60,7 @@ The catch: Google Voice numbers are widely recognized as VoIP numbers. Some peop
 
 **The original throwaway number app.**
 
-Burner is the app that basically invented the consumer burner number category. You buy a line, text and call through the app, and burn the number when you are done. Lines expire on a timer or after a set number of messages, which is actually a feature when you want built-in expiry rather than having to remember to cancel.
+Burner is the app that basically invented the consumer [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) category. You buy a line, text and call through the app, and burn the number when you are done. Lines expire on a timer or after a set number of messages, which is actually a feature when you want built-in expiry rather than having to remember to cancel.
 
 The downside is cost. Burner charges per line, and if you are actively dating across multiple apps you can rack up charges quickly. It is a great option for a one-off situation — a first date, a brief conversation you want to keep contained — but expensive as a permanent solution.
 

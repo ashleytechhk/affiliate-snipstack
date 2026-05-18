@@ -148,7 +148,7 @@ Most dating apps use SMS verification at signup. Surfshark Alt-Number works for 
 
 No. Once you cancel or replace the number, any texts or calls to it either bounce or go nowhere. They have no way to reach your real number unless you gave it to them separately.
 
-**Is using a burner number deceptive?**
+**Is using a [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) deceptive?**
 
 No more than using a work email instead of your personal one. You're still reachable on that number — it's a real number that rings and receives texts. You're just protecting your primary contact information from someone you've just met. That's sensible, not dishonest.
 

@@ -32,7 +32,7 @@ Before grabbing a [burner number](https://snipstack.io/burner-number-for-offerup
 
 - **A smartphone** running iOS 14+ or Android 8+
 - **An active dating app account** or one you are in the process of setting up
-- **5 minutes** — getting a working burner number is genuinely this fast
+- **5 minutes** — getting a working [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) is genuinely this fast
 - **A clear idea of which dating apps you are using** — some apps block VoIP numbers at sign-up, which affects which burner app will work for you
 
 If you already have dating app accounts set up and just want a separate number to hand out to matches, any of the options below will work. If you are creating a brand-new account and need the number to pass SMS verification, read the note on VoIP limits in Step 2 before choosing your app.

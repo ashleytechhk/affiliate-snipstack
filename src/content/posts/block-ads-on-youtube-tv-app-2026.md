@@ -82,7 +82,7 @@ Let's look at each approach honestly, including what it can and cannot do.
 
 **Verdict:** Best balance of ease and effectiveness for mobile users who don't want to configure anything.
 
-### Option 2: AdGuard DNS (Free Tier Available)
+### Option 2: [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) (Free Tier Available)
 
 **What it is:** A public DNS service you configure on your phone's Wi-Fi or cellular settings.
 
@@ -110,7 +110,7 @@ For a deeper look at how AdGuard compares to browser-based options, check our [b
 
 ### Option 4: Brave Browser (Partial)
 
-**What it is:** A privacy-focused [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) a built-in ad blocker.
+**What it is:** A privacy-focused [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) a built-in [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/).
 
 **Limitation:** Brave only blocks ads inside the Brave browser. The YouTube TV native app is completely unaffected. If you watch YouTube TV in Brave's browser on mobile, you may see fewer ads — but the experience is degraded compared to the native app, and Google's detection has improved significantly.
 
@@ -133,7 +133,7 @@ If you want ad blocking on Android across all apps without a VPN, our [ad blocke
 
 ---
 
-## Does YouTube TV Detect Ad Blockers?
+## Does YouTube TV Detect [Ad Blocker](https://snipstack.io/ad-blocker-firefox-2026/)s?
 
 This is an important question. Google has been actively combating ad blockers on YouTube's main platform since 2023, issuing warnings and degrading playback for detected blockers. YouTube TV is a separate product with a different delivery architecture, but Google controls both.
 

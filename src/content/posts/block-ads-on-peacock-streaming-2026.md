@@ -46,7 +46,7 @@ On desktop Firefox, you have access to [uBlock Origin](https://snipstack.io/ublo
 
 On mobile, you lose even that option:
 
-- **iOS:** Safari doesn't support uBlock Origin. Chrome for iOS doesn't support browser extensions at all.
+- **iOS:** Safari doesn't support [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/). Chrome for iOS doesn't support browser extensions at all.
 - **Android:** Chrome for Android doesn't support extensions. Firefox for Android supports uBlock Origin, but watching Peacock in a mobile browser instead of the app is a degraded experience.
 - **The Peacock app itself:** No browser extension can touch an app. Whatever ad blocking you've set up in Chrome is irrelevant the moment you open the Peacock app.
 
@@ -152,9 +152,9 @@ The table tells a clear story: there's no free, zero-effort method that eliminat
 
 ---
 
-## What About "Free" Ad Blockers for Peacock?
+## What About "Free" [Ad Blocker](https://snipstack.io/ad-blocker-for-android-2026/)s for Peacock?
 
-Search for "Peacock ad blocker" and you'll find a range of apps, browser extensions, and Chrome-based tools claiming to remove Peacock ads. Here's what's happening with most of them:
+Search for "Peacock [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)" and you'll find a range of apps, browser extensions, and Chrome-based tools claiming to remove Peacock ads. Here's what's happening with most of them:
 
 **Browser extensions claiming to block Peacock:** These can block tracker scripts and measurement pixels on the web version. They cannot block SSAI video ads. Any extension that claims otherwise is overstating its capability.
 

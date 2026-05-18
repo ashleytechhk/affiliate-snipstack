@@ -207,7 +207,7 @@ WhatsApp is particularly strict about VoIP numbers. Google Voice and TextNow fre
 
 For sharing with matches — yes, all of them work. For creating a new account that requires SMS verification at sign-up — free VoIP options are hit-or-miss on Tinder and frequently blocked on Hinge. The safe approach for new account creation is a carrier-backed number (Hushed or Alt-Number). For giving to a match mid-conversation, a free number works fine.
 
-### Will a free burner number expire before I finish using it?
+### Will a free [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) expire before I finish using it?
 
 TextNow, TextFree, and similar services expire numbers after 30 days of inactivity. If you get a number, use it for a week of conversations, then go quiet — you may lose the number. Google Voice is more lenient with expiry. Paid services like Hushed and Alt-Number do not expire numbers based on activity. If you need the number to last reliably for more than a month, a paid service is the safer choice.
 

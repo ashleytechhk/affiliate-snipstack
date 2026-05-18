@@ -115,7 +115,7 @@ The person on the other end will get a disconnected message. They have no way to
 
 ---
 
-## Using Your Burner Number on Dating Apps
+## Using Your [Burner Number](https://snipstack.io/burner-number-for-contractor-work-2026/) on Dating Apps
 
 A few practical notes for the most common apps:
 
