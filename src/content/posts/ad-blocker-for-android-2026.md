@@ -154,7 +154,7 @@ VPN-layer blockers add a small processing overhead, but in practice you will not
 
 Yes, measurably. Ads — especially video pre-rolls and animated banners — consume significant mobile data. Blocking them at the network layer means those requests never complete. Users on capped data plans typically see noticeable savings, especially if they use ad-heavy apps frequently.
 
-### Is it legal to use an ad blocker on Android?
+### Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-xbox-game-pass-2026/) on Android?
 
 Ad blocking is legal in most jurisdictions. Using an ad blocker is a personal choice about how your device handles network traffic. Some websites and apps show notices asking you to disable your blocker; you can choose to whitelist them individually if you want to support their content.
 

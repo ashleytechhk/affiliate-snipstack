@@ -121,7 +121,7 @@ Surfshark One Bundle supports unlimited devices across Windows, macOS, Android, 
 
 ### Does Windows need antivirus if I have Defender?
 
-Windows Defender provides a real baseline — significantly better than it was five years ago. However, it covers only malware detection. It offers no VPN protection for public Wi-Fi, no password manager, no dark web monitoring, and no phishing-specific protections beyond what Edge's SmartScreen provides. For most users who want comprehensive security, a paid suite covering those layers is worth the cost.
+Windows Defender provides a real baseline — significantly better than it was five years ago. However, it covers only malware detection. It offers no VPN protection for public Wi-Fi, no password manager, no dark web monitoring, and no phishing-specific protections beyond what Edge's SmartScreen provides. For most users who want [comprehensive security](https://snipstack.io/comprehensive-security-for-seniors-online-2026/), a paid suite covering those layers is worth the cost.
 
 ### [What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I cancel Norton mid-subscription?
 

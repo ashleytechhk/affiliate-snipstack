@@ -113,7 +113,7 @@ This usually means another antivirus program (perhaps one that came with a new c
 
 ### "Windows Security says my subscription has expired"
 
-Windows Defender itself is always free. If you see an expiry message, it is for a separate trial antivirus that came bundled with your computer. You can safely remove that trial program through Settings → Apps, then Windows Defender will take over automatically.
+Windows Defender itself is always free. If you see an expiry message, it is for a separate trial [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) came bundled with your computer. You can safely remove that trial program through Settings → Apps, then Windows Defender will take over automatically.
 
 ### "My scan found a threat — what do I do?"
 

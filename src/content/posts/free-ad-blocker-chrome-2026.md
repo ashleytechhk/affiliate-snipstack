@@ -168,7 +168,7 @@ Brave is free and open source. Its revenue model is optional — you can choose 
 
 A DNS blocker intercepts requests at the domain-resolution level — it prevents your device from connecting to known ad-serving domains entirely. It's simple, lightweight, and covers all apps, but it can only block by domain (not by specific URL or page element). A VPN [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) like Surfshark CleanWeb intercepts traffic at the network layer, allowing more granular blocking of ad requests even when they come from shared domains. VPN blockers also encrypt your traffic and mask your IP address, which DNS-only filtering doesn't do.
 
-### How do I know if my free ad blocker is actually working?
+### How do I know if my free [ad blocker](https://snipstack.io/ad-blocker-for-xbox-game-pass-2026/) is actually working?
 
 Visit a site like adblock-tester.com or simply load a news site you know is normally packed with ads. With DNS-level blocking active, most display banner ads will be absent. With Brave or Firefox + uBlock Origin, almost all ads disappear. A quick check: the page should load noticeably faster and feel less cluttered than it would in a stock browser with no blocking.
 

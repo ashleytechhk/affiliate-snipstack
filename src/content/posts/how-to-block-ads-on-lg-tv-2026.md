@@ -73,14 +73,14 @@ This is the most effective method for eliminating LG home screen ads entirely. L
 
 **How it works:**
 
-DNS (Domain Name System) translates domain names (like `lgad.com`) into IP addresses. A DNS-based ad blocker intercepts requests for known ad-serving domains and returns nothing instead of an IP — so your TV tries to fetch the ad, gets no response, and moves on without loading it.
+DNS (Domain Name System) translates domain names (like `lgad.com`) into IP addresses. A DNS-based [ad blocker](https://snipstack.io/ad-blocker-for-xbox-game-pass-2026/) intercepts requests for known ad-serving domains and returns nothing instead of an IP — so your TV tries to fetch the ad, gets no response, and moves on without loading it.
 
 **Option A: Change your TV's DNS manually**
 
 1. On your LG TV, go to **Settings → All Settings → Network → Wi-Fi Connection → Advanced Wi-Fi Settings**
 2. Change **DNS Mode** to Manual
 3. Enter a filtering DNS address:
-   - AdGuard DNS: `94.140.14.14` / `94.140.15.15`
+   - [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/): `94.140.14.14` / `94.140.15.15`
    - NextDNS: (use your personal NextDNS IP after creating a free account)
 4. Save and reconnect
 
@@ -204,7 +204,7 @@ There are two possibilities. First, the ads may be coming from inside a streamin
 The DNS method works on any smart TV, but the specific ad domains you'd be blocking differ per manufacturer. Samsung Tizen, Sony Google TV, and Vizio SmartCast all have their own ad infrastructure. The approach is the same; the block lists may need to be customized. Router-level DNS filtering (or Pi-hole) handles this automatically for all of them.
 
 **Can I [block ads on](https://snipstack.io/block-ads-on-peacock-streaming-2026/) the LG TV app on my phone?**
-The LG ThinQ mobile app doesn't typically serve traditional display ads. If you're seeing ads in a mobile streaming app (not the ThinQ control app itself), a mobile ad blocker like CleanWeb handles those at the system level. It works across every app on your phone without requiring per-app configuration.
+The LG ThinQ mobile app doesn't typically serve traditional display ads. If you're seeing ads in a mobile streaming app (not the ThinQ control app itself), a mobile [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) like CleanWeb handles those at the system level. It works across every app on your phone without requiring per-app configuration.
 
 **Does changing DNS on my TV slow down streaming?**
 Public filtering DNS servers like AdGuard DNS and NextDNS have global infrastructure and are designed to add negligible latency — typically under 5ms additional delay. This has no perceptible effect on streaming quality. If you notice slowdowns after changing DNS, try switching between the primary and secondary addresses, or revert to your router's default and use router-level DNS instead.

@@ -56,7 +56,7 @@ The fix real estate adopted — a virtual number that works exactly like a real 
 
 ---
 
-## What Happens When You Give Out the Wrong Number
+## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) You Give Out the Wrong Number
 
 The risks fall into three categories:
 
@@ -89,7 +89,7 @@ Surfshark Alt-Number meets all four. It generates a US virtual number that recei
 
 ## How Surfshark Alt-Number Works in Practice
 
-Alt-Number is part of Surfshark's Alternative ID toolset, which also includes the Alt-ID email alias feature. It is included with Surfshark subscriptions — not a separate paid add-on.
+Alt-Number is part of Surfshark's Alternative ID toolset, which also includes the Alt-ID [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) feature. It is included with Surfshark subscriptions — not a separate paid add-on.
 
 Here is the practical flow for a dating app scenario:
 
@@ -154,7 +154,7 @@ Currently, Alt-Number generates US numbers. The service works globally as long a
 Anyone who calls or texts that number after you disable it will not reach you. From their perspective, the number is unavailable. Your real number is unaffected — the two are completely separate.
 
 **Is Surfshark Alt-Number free?**
-Alt-Number is included with Surfshark subscription plans at no additional cost. It is part of the Alternative ID feature set alongside the Alt-ID email alias. **[See current pricing and plans](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__faq)**.
+Alt-Number is included with Surfshark subscription plans at no additional cost. It is part of the Alternative ID feature set alongside the Alt-ID [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/). **[See current pricing and plans](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__faq)**.
 
 **Can dating apps detect that I am using a virtual number?**
 Dating apps do not check whether a phone number is virtual or carrier-issued for general use. Some apps use phone number verification during signup, which Alt-Number can handle — you receive the verification SMS on your virtual number just as you would on a real one.
