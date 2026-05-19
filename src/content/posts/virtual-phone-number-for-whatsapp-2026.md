@@ -98,7 +98,7 @@ Not a casual-use tool. If you just want a quick number for WhatsApp verification
 
 Skype numbers are purchasable month-to-month and work for WhatsApp verification in most regions. If you already pay for Microsoft 365, the integration feels natural and the pricing is reasonable.
 
-The major caveat: Skype has been progressively de-emphasized by Microsoft, and their virtual number product follows that trajectory. Support is slower, the app is less actively developed, and there is a reasonable question about long-term product viability. For a number you plan to use for six months while actively dating, Skype is fine. For anything longer-term, it is a riskier bet than the dedicated privacy tools above.
+The major caveat: Skype has been progressively de-emphasized by Microsoft, and their [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) product follows that trajectory. Support is slower, the app is less actively developed, and there is a reasonable question about long-term product viability. For a number you plan to use for six months while actively dating, Skype is fine. For anything longer-term, it is a riskier bet than the dedicated privacy tools above.
 
 ---
 

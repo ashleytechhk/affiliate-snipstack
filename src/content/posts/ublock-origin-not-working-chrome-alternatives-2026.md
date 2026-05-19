@@ -8,7 +8,7 @@ tags: ["ad blocker", "chrome", "manifest v3", "privacy"]
 
 You open Chrome, try to load a page, and the ads are still there. You check — [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) is installed. It says it's running. But something is clearly wrong. You are not imagining it.
 
-Chrome's Manifest V3 extension framework, which Google began enforcing across all extensions in 2024 and completed in 2025, stripped out the permissions that uBlock Origin depended on to do its job properly. The `webRequestBlocking` API — the mechanism that let uBlock intercept and kill network requests before they loaded — is gone. What you have now is uBlock Origin Lite, a stripped-down version that catches maybe 60-70% of what the original blocked. The rest gets through.
+Chrome's Manifest V3 extension framework, which Google began enforcing across all extensions in 2024 and completed in 2025, stripped out the permissions that [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) depended on to do its job properly. The `webRequestBlocking` API — the mechanism that let uBlock intercept and kill network requests before they loaded — is gone. What you have now is uBlock Origin Lite, a stripped-down version that catches maybe 60-70% of what the original blocked. The rest gets through.
 
 If you search "uBlock Origin not working," you are joining millions of Chrome users who discovered the same thing. The extension that defined browser ad blocking for a decade has been quietly neutered, and Google has no interest in reversing that decision.
 

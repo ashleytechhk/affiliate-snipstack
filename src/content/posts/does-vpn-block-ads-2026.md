@@ -106,7 +106,7 @@ This is the option that actually solves the problem. Surfshark's CleanWeb, NordV
 
 ---
 
-### Option 3: Browser Extension (uBlock Origin, AdGuard)
+### Option 3: Browser Extension ([uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), AdGuard)
 
 On desktop Firefox, uBlock Origin is the strongest [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) available — granular control, cosmetic filtering, custom rules, wide community filter lists. For a desktop-only workflow, it is hard to beat.
 

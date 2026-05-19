@@ -120,7 +120,7 @@ The trade-off: CleanWeb is paid (bundled with Surfshark's VPN subscription) and 
 
 ---
 
-## Comparison: ABP vs. uBlock Origin vs. CleanWeb
+## Comparison: ABP vs. [uBlock Origin vs](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/). CleanWeb
 
 ```
 Feature                    | ABP          | uBlock Origin | CleanWeb

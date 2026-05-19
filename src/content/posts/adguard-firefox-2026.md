@@ -68,7 +68,7 @@ The limitation is scope: the add-on only works inside Firefox. Switch to a diffe
 
 If you're comparing options for Firefox on Android, [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) belongs in the conversation alongside AdGuard. It's also available as a real Firefox add-on on Android, uses similar filter lists (EasyList, uBlock's own lists, and any custom list you add), and has a reputation for being lighter on CPU and RAM than some alternatives.
 
-The interface is simpler than AdGuard's — less granular per-site control, less visual detail — but for most users who just want ads and trackers gone, that simplicity is a feature, not a bug. uBlock Origin is open-source, well-maintained, and has a large community producing updated filter lists. If you've used it on desktop and want continuity on mobile Firefox, it's the natural choice.
+The interface is simpler than AdGuard's — less granular per-site control, less visual detail — but for most users who just want ads and trackers gone, that simplicity is a feature, not a bug. [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) is open-source, well-maintained, and has a large community producing updated filter lists. If you've used it on desktop and want continuity on mobile Firefox, it's the natural choice.
 
 ---
 

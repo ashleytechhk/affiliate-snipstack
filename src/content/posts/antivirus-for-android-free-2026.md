@@ -163,7 +163,7 @@ Free tools are better than nothing, but here is what you do not get:
 - **Ads and upgrade prompts** — can be confusing for non-technical users
 - **Limited customer support** — free tier users typically only get FAQ help, not live chat
 
-If any of these gaps concern you — especially the public Wi-Fi risk or identity monitoring — consider a security bundle rather than juggling three separate apps.
+If any of these gaps concern you — especially the public Wi-Fi risk or identity monitoring — consider a [security bundle](https://snipstack.io/security-bundle-for-frequent-travelers-2026/) rather than juggling three separate apps.
 
 [See what a full security bundle includes](/blog/antivirus?sub=antivirus-for-android-free-2026__mid)
 

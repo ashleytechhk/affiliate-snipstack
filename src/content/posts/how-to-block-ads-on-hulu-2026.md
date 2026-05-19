@@ -131,7 +131,7 @@ For a solution that works on both Wi-Fi and cellular — including in transit �
 
 ## Frequently Asked Questions
 
-**Does uBlock Origin block Hulu ads?**
+**Does [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) block Hulu ads?**
 On desktop in Firefox, yes — uBlock Origin is effective. On mobile, it only works if you're watching Hulu in the Firefox for Android browser, not the app. The Hulu app is outside any browser extension's reach. [See full options here.](/blog/adblock?sub=how-to-block-ads-on-hulu-2026__faq)
 
 **Will Hulu ban or detect my account for using an [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/)?**

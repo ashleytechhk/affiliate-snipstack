@@ -132,7 +132,7 @@ A [virtual number](https://snipstack.io/virtual-number-for-real-estate-agents-20
 
 The most effective setup combines two approaches:
 
-1. **Use a virtual number on dating apps.** Hand out the Alt Number, not your real one. This is the primary defence.
+1. **Use a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) on dating apps.** Hand out the Alt Number, not your real one. This is the primary defence.
 2. **Keep a call-screening tool active on your real number.** iOS Silence Unknown Callers or Android Call Screen adds a safety net for any number that slips through from other sources.
 
 That combination means your dating life stays separated from your real identity, and anything that does reach your real number gets screened before it bothers you.

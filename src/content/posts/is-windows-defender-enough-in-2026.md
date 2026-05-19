@@ -33,7 +33,7 @@ Microsoft updates Defender's virus definitions automatically through Windows Upd
 
 **What Defender includes:**
 - Real-time antivirus and malware scanning
-- Protection against ransomware (with "Controlled Folder Access")
+- [Protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) ransomware (with "Controlled Folder Access")
 - A basic firewall
 - Phishing warnings in Microsoft Edge
 - Automatic updates via Windows Update

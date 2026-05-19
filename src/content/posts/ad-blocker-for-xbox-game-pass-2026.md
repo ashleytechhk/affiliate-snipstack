@@ -28,9 +28,9 @@ Browser extensions cannot block ads inside the Xbox Game Pass mobile app — the
 
 An [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) is a tool that prevents ads from loading on your device. There are two main types, and understanding the difference matters for Game Pass users specifically.
 
-**Browser-based [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s** (like uBlock Origin or AdGuard's browser extension) are installed as extensions in a desktop browser. They intercept ad requests inside browser tabs, using filter lists to identify and block ad-serving domains before the page can load them. They are effective on desktop browsers. They have no effect on mobile apps.
+**Browser-based [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s** (like [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) or AdGuard's browser extension) are installed as extensions in a desktop browser. They intercept ad requests inside browser tabs, using filter lists to identify and block ad-serving domains before the page can load them. They are effective on desktop browsers. They have no effect on mobile apps.
 
-**DNS-level ad blockers** work differently. When your device connects to any website or app, it first sends a DNS query — essentially asking "what server hosts this domain?" A DNS-level blocker intercepts those queries. If the requested domain is on a blocklist of known ad and tracker servers, the blocker returns an empty response and the ad is never loaded. Because this happens at the network layer — before the request reaches any specific app — it works across your entire device: browsers, apps, games, and anything else connected to the internet.
+**DNS-level [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s** work differently. When your device connects to any website or app, it first sends a DNS query — essentially asking "what server hosts this domain?" A DNS-level blocker intercepts those queries. If the requested domain is on a blocklist of known ad and tracker servers, the blocker returns an empty response and the ad is never loaded. Because this happens at the network layer — before the request reaches any specific app — it works across your entire device: browsers, apps, games, and anything else connected to the internet.
 
 For mobile Game Pass users, the DNS-level approach is the relevant one.
 
@@ -119,7 +119,7 @@ CleanWeb is included in all Surfshark subscription tiers — it is not a separat
 
 There are other ways to add ad blocking on mobile. Here is how they compare for Game Pass users specifically:
 
-**Private DNS (Android 9+):** Android lets you set a custom DNS provider — services like AdGuard DNS or NextDNS offer free tiers with blocklists. This provides DNS-level filtering without a VPN app. The limitation is that Android's Private DNS can be turned off by some apps or network configurations, and there is no VPN tunnel benefit. For users who only want ad blocking and not VPN functionality, this is a free alternative worth considering.
+**Private DNS (Android 9+):** Android lets you set a custom DNS provider — services like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) or NextDNS offer free tiers with blocklists. This provides DNS-level filtering without a VPN app. The limitation is that Android's Private DNS can be turned off by some apps or network configurations, and there is no VPN tunnel benefit. For users who only want ad blocking and not VPN functionality, this is a free alternative worth considering.
 
 **Firefox for Android with uBlock Origin:** Highly effective for browser-based content, including the Xbox Game Pass website in a browser. Irrelevant for in-app content. If you primarily access Game Pass through mobile Firefox rather than the app, this combination is strong and free.
 

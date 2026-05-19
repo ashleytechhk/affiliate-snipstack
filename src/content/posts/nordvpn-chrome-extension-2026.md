@@ -101,7 +101,7 @@ NordVPN's Chrome extension is Manifest V3-compliant. It uses the declarativeNetR
 
 - The extension remains installable and functional in Chrome without compatibility warnings
 - Blocking capability is somewhat constrained by what MV3's declarativeNetRequest rules allow — NordVPN, like all MV3-compliant extensions, works within those limits
-- Unlike uBlock Origin on Chrome, NordVPN's extension won't be disabled or flagged by Chrome's MV3 enforcement
+- Unlike [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) on Chrome, NordVPN's extension won't be disabled or flagged by Chrome's MV3 enforcement
 
 The practical effect: Threat Protection Lite works in Chrome in 2026 without workarounds. The trade-off compared to Firefox-based uBlock Origin is that MV3 limits the granularity of dynamic filtering — but for most users who want ad and tracker blocking as a passive feature, the MV3 constraint is invisible.
 

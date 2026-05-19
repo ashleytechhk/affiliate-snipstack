@@ -142,7 +142,7 @@ That's it. No filter lists, no DNS configuration, no technical knowledge require
 
 ## FAQ
 
-### Does uBlock Origin work on YouTube mobile?
+### Does [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) work on YouTube mobile?
 
 No. uBlock Origin is a browser extension that only runs in desktop browsers (Chrome, Firefox, Edge on desktop). It has no effect on the YouTube mobile app, and it isn't available for Chrome on Android or Safari on iOS. For mobile ad blocking, you need one of the methods described above.
 

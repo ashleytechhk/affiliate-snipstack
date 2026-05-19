@@ -117,7 +117,7 @@ Getting a [virtual number for](https://snipstack.io/virtual-number-for-real-esta
 
 ## The Broader Privacy Picture: Number Hygiene for Online Daters
 
-Using a virtual number for Nextdoor is one move in a larger strategy. People who date online and think carefully about privacy tend to layer their approach:
+Using a [virtual number for](https://snipstack.io/virtual-number-for-home-service-workers-2026/) Nextdoor is one move in a larger strategy. People who date online and think carefully about privacy tend to layer their approach:
 
 **Separate phone numbers per context.** One number for dating apps. A different number for local platforms like Nextdoor. Your real number reserved for people you have actually met and trust. This is sometimes called [burner number](https://snipstack.io/burner-number-dating-apps-2026/) hygiene — each number serves a specific context and can be replaced without disrupting the others.
 

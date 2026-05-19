@@ -36,7 +36,7 @@ This distinction matters because most guides on blocking mobile ads assume you'r
 
 ---
 
-## Method 1: Use Firefox + uBlock Origin (Android, Browser Only)
+## Method 1: Use Firefox + [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) (Android, Browser Only)
 
 This is the free, fully reliable solution for Reddit's mobile website on Android. It does not cover the Reddit app.
 

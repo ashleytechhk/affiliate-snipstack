@@ -136,7 +136,7 @@ YouTube ads are the most common pain point and deserve a direct answer: DNS-base
 Your options:
 - **YouTube Premium** — the official, reliable path. Removes ads and downloads.
 - **YouTube Revanced** — a modified APK that patches out ads. Works, but requires sideloading from outside the Play Store and periodic manual updates when YouTube pushes countermeasures. Higher friction, some risk.
-- **Firefox + uBlock Origin on mobile** — works for YouTube in-browser, not in the YouTube app.
+- **Firefox + [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) on mobile** — works for YouTube in-browser, not in the YouTube app.
 
 CleanWeb and Private DNS will block some YouTube tracker calls, but they will not give you a fully ad-free YouTube experience in the native app.
 

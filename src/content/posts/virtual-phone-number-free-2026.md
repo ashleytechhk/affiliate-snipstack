@@ -144,7 +144,7 @@ Some services offer genuinely free [virtual number](https://snipstack.io/virtual
 
 It depends on the app and the service. Major dating platforms have started blocking certain VOIP number ranges because they were used for spam accounts. Free VOIP services (Google Voice, TextNow, TextFree) hit this block more often. Alt-Number has better pass-through rates on Tinder, Hinge, and Bumble specifically because it operates differently from standard VOIP providers.
 
-### Can someone trace my real number from a virtual number?
+### Can someone trace my real number from a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/)?
 
 No — that's the point. Your virtual number and your real number are separate. Someone with your virtual number cannot reverse-lookup your real phone number. They can only reach you through the virtual number until you choose to retire it.
 

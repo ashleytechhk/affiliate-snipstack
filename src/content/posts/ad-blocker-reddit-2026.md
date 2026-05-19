@@ -24,7 +24,7 @@ For mobile users who want ads gone across every app — not just the browser —
 
 ---
 
-## 1. uBlock Origin (Firefox for Android) — The Reddit Consensus Pick
+## 1. [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) (Firefox for Android) — The Reddit Consensus Pick
 
 **uBlock Origin** is what r/privacy recommends to virtually anyone who asks about browser ad blocking. The subreddit's wiki points to it by name. Threads in r/Android regularly describe it as the only browser extension worth installing. That reputation is earned.
 

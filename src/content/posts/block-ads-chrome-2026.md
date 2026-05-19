@@ -54,7 +54,7 @@ Chrome's native tools handle the most extreme abuse cases and some malware, but 
 
 ![Chrome Manifest V3 vs V2 — how ad blocking changed in 2024-2026](/og/block-ads-chrome-2026-inline-1.png)
 
-If you've had uBlock Origin or another [ad blocker extension](https://snipstack.io/ad-blocker-extensions-2026/) installed for a while and noticed it seems less effective recently, Manifest V3 (MV3) is why.
+If you've had [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) or another [ad blocker extension](https://snipstack.io/ad-blocker-extensions-2026/) installed for a while and noticed it seems less effective recently, Manifest V3 (MV3) is why.
 
 Google rolled out MV3 progressively from 2022 to 2025. By late 2025, the old Manifest V2 extension API — which extensions like uBlock Origin used for real-time request blocking — was fully deprecated in Chrome. Extensions must now use a newer API called `declarativeNetRequest`, which works differently in a critical way:
 
@@ -217,4 +217,4 @@ There is no single "best" answer for everyone. The right tool depends on which d
 
 ---
 
-*Last updated: May 2026. Blocking rate estimates are based on independent third-party testing and may vary by ad network, site, and configuration. No [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/) provides absolute protection against all ad formats.*
+*Last updated: May 2026. Blocking rate estimates are based on independent third-party testing and may vary by ad network, site, and configuration. No [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/) provides absolute [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) all ad formats.*

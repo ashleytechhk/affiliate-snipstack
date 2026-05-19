@@ -57,7 +57,7 @@ The result is that every method in this guide involves some tradeoff: reliabilit
 
 ---
 
-## Method 2: uBlock Origin — Desktop Browser Only
+## Method 2: [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) — Desktop Browser Only
 
 **How it works:** uBlock Origin is a browser extension available for Firefox, Chrome (desktop), and Edge. It maintains curated filter lists that attempt to intercept Twitch ad requests before they load.
 

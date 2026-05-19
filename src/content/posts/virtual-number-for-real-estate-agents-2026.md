@@ -52,7 +52,7 @@ Online daters are in a structurally identical situation. You put yourself out th
 
 ![Infographic: the chain of exposure from a phone number — carrier account, reverse lookup, home address, family contacts](/og/virtual-number-for-real-estate-agents-2026-inline-1.png)
 
-The fix real estate adopted — a virtual number that works exactly like a real one — applies directly to dating.
+The fix real estate adopted — a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) that works exactly like a real one — applies directly to dating.
 
 ---
 

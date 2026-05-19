@@ -80,7 +80,7 @@ Create a second email account specifically for dealership and automotive contact
 
 **Pros:** Real address that passes all CRM validation. Works across multiple dealerships. Can be abandoned without affecting your primary inbox.
 
-**Cons:** No forwarding — you must actively check the second inbox to catch anything you actually want (test drive time change, service appointment confirmation, financing approval). Inbox abandonment is not a kill switch — the address and its history remain. If you ever gave that address to someone you do want to hear from, you lose those emails too when you stop checking. Setup takes several minutes and requires a phone number for account verification.
+**Cons:** No forwarding — you must actively check the second inbox to catch anything you actually want (test drive time change, service appointment confirmation, financing approval). Inbox abandonment is not a kill switch — the address and its history remain. If you ever gave that address to someone you do want to hear from, you lose those emails too when you stop checking. Setup takes several minutes and requires a [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification.
 
 **Verdict for dealership contact:** Workable but clunky. The forwarding gap is the real problem — you'll miss time-sensitive emails unless you check both inboxes.
 
@@ -100,7 +100,7 @@ Free services that generate a random address with a short inbox window — typic
 
 ## Option 5: Alt-ID Masked Alias (Recommended)
 
-[Alt-ID](/blog/altid?sub=email-alias-for-car-dealership-contact-2026__mid) is a masked email alias service included with Surfshark subscriptions. You create an alias that looks like a normal address — something like `m7x2kp9q@surfshark.id`. That alias forwards every incoming email directly to your real inbox. You never check a second inbox. The dealer's CRM validates the address because it is a real address. Confirmations, appointment reminders, and finance paperwork all arrive in your Gmail or Outlook as normal.
+[Alt-ID](/blog/altid?sub=email-alias-for-car-dealership-contact-2026__mid) is a masked [email alias](https://snipstack.io/email-alias-for-gym-membership-signup-2026/) service included with Surfshark subscriptions. You create an alias that looks like a normal address — something like `m7x2kp9q@surfshark.id`. That alias forwards every incoming email directly to your real inbox. You never check a second inbox. The dealer's CRM validates the address because it is a real address. Confirmations, appointment reminders, and finance paperwork all arrive in your Gmail or Outlook as normal.
 
 Then, when the follow-up campaign starts — or when the warranty broker emails arrive six months later — you open the Alt-ID dashboard and delete the alias. One click. The address stops existing. Every follow-up from that point forward bounces. No unsubscribe links, no waiting 10 business days, no explaining yourself. The spam channel is simply closed.
 

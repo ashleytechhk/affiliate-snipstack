@@ -105,7 +105,7 @@ This approach also has the DNS ceiling problem — it won't catch ads served fro
 | Brave Browser | No | No | Yes | No | Free |
 | AdGuard DNS | Partial | Partial | Partial | No | Free |
 | Blokada Plus | Yes | Yes | Yes | No | Paid |
-| uBlock Origin (Firefox) | No | No | Yes | No | Free |
+| [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) (Firefox) | No | No | Yes | No | Free |
 | Pi-hole + Tailscale | Yes | Partial | Partial | No | Free* |
 
 *Requires server infrastructure.

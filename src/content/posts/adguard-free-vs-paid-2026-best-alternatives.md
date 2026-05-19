@@ -36,7 +36,7 @@ This article cuts through it. We cover what each AdGuard tier actually does, wha
 
 ### AdGuard Browser Extension (Free)
 
-The free AdGuard browser extension is genuinely capable. After Manifest V3 effectively neutered uBlock Origin on Chrome, AdGuard rebuilt from the ground up for the new framework and shipped the most functional MV3-native blocker available.
+The free AdGuard browser extension is genuinely capable. After Manifest V3 effectively neutered [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) on Chrome, AdGuard rebuilt from the ground up for the new framework and shipped the most functional MV3-native blocker available.
 
 **What the free extension blocks:**
 - Display ads on most websites — banner ads, sidebar ads, pop-ups

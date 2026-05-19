@@ -123,7 +123,7 @@ The two-year cost gap between Surfshark One and the equivalent McAfee tier is ro
 
 ## FAQ
 
-### What is included in a cybersecurity bundle for small business owners?
+### What is included in a cyber[security bundle for](https://snipstack.io/security-bundle-for-frequent-travelers-2026/) small business owners?
 
 A useful bundle for small business owners should include at minimum: a VPN to protect connections on untrusted networks, [antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/) real-time scanning, and data breach monitoring that alerts you when business credentials appear in known breaches. Surfshark One covers all three, plus a private search engine, in one subscription. **[See what is currently included in Surfshark One](/blog/one?sub=cybersecurity-bundle-for-small-business-owners-2026__faq)**
 

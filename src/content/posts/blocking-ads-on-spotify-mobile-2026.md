@@ -86,7 +86,7 @@ The configuration profile approach is free and doesn't require a subscription. [
 
 Spotify's web player (open.spotify.com) runs inside your mobile browser rather than the native app. Inside a browser, extensions and DNS filtering have more effect.
 
-On Android, **Firefox for Android** supports full browser extensions — including [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/). With uBlock Origin running in Firefox, you're blocking at the browser level, which catches more ad-adjacent requests than DNS alone.
+On Android, **Firefox for Android** supports full browser extensions — including [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/). With [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) running in Firefox, you're blocking at the browser level, which catches more ad-adjacent requests than DNS alone.
 
 **Steps to set this up on Android:**
 

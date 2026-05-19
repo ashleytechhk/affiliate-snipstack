@@ -36,7 +36,7 @@ The only trade-off is that it's a full browser switch, not a Chrome plug-in. If 
 
 ---
 
-### 2. Firefox for Android with uBlock Origin — Best for Power Users
+### 2. Firefox for Android with [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) — Best for Power Users
 
 **Cost: Free**
 

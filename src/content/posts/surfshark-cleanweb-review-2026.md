@@ -94,7 +94,7 @@ Test: Watched 20 YouTube videos across Chrome, Firefox, YouTube for Android app,
 
 **Smart TV YouTube app:** Ads blocked when connected through the Surfshark app. (Note: the smart TV must be covered by CleanWeb — either through the Surfshark app installed on the TV, or through a router-level Surfshark setup.)
 
-**Overall:** Strongest YouTube ad blocking in our testing alongside uBlock Origin on Firefox.
+**Overall:** Strongest YouTube ad blocking in our testing alongside [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) on Firefox.
 
 ### Tracker Blocking — Excellent
 

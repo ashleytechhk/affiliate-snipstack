@@ -47,7 +47,7 @@ On desktop Firefox, you have access to [uBlock Origin](https://snipstack.io/ublo
 On mobile, you lose even that option:
 
 - **iOS:** Safari doesn't support [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/). Chrome for iOS doesn't support browser extensions at all.
-- **Android:** Chrome for Android doesn't support extensions. Firefox for Android supports uBlock Origin, but watching Peacock in a mobile browser instead of the app is a degraded experience.
+- **Android:** Chrome for Android doesn't support extensions. Firefox for Android supports [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), but watching Peacock in a mobile browser instead of the app is a degraded experience.
 - **The Peacock app itself:** No browser extension can touch an app. Whatever ad blocking you've set up in Chrome is irrelevant the moment you open the Peacock app.
 
 This is the core problem for mobile power-users. The tools people rely on for desktop ad blocking simply don't exist in the same form on smartphones — and even where they do, Peacock's SSAI architecture limits what they can intercept.

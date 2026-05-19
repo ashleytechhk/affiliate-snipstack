@@ -84,7 +84,7 @@ For Apple-ecosystem users who already pay for iCloud+, Hide My Email is a workab
 
 Both are solid alias services aimed at privacy-conscious users. SimpleLogin (now part of Proton ecosystem) offers unlimited aliases on paid plans. Firefox Relay gives five free aliases, then charges $1.99/month for more.
 
-Neither generates alternative personal data alongside the alias, and neither is specifically optimized for the insurance use case. For general email hygiene, either is a reasonable choice. For the insurance-comparison scenario specifically — where you want fake name data, a domain that passes insurance-site validation, and the backing of a full privacy suite — Alt-ID has the edge.
+Neither generates alternative personal data alongside the alias, and neither is specifically optimized for the insurance use case. For general email hygiene, either is a reasonable choice. For the insurance-comparison scenario specifically — where you want fake name data, a domain that passes insurance-site validation, and the backing of a full [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/) — Alt-ID has the edge.
 
 ![Side-by-side feature comparison: Alt-ID versus SimpleLogin versus Firefox Relay](/og/email-alias-for-insurance-comparison-sites-2026-inline-2.png)
 

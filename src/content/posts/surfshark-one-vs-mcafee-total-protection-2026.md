@@ -61,7 +61,7 @@ That is the real cost of McAfee Total Protection: not just the subscription fee,
 
 Surfshark's antivirus engine handles real-time threat detection, malware scanning, and scheduled scan jobs. It is not an industry veteran by the same measure as McAfee — Surfshark has been in the antivirus space for a shorter time — but third-party test results have been positive, and the engine has a markedly lighter system footprint.
 
-For users whose main concern is practical, day-to-day protection against malware, phishing files, and infected downloads, Surfshark Antivirus covers the essentials without the overhead.
+For users whose main concern is practical, day-to-day [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) malware, phishing files, and infected downloads, Surfshark Antivirus covers the essentials without the overhead.
 
 ### VPN — No Data Caps
 

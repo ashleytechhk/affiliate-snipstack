@@ -165,7 +165,7 @@ No. Your alias looks like a regular email address — agents cannot tell the dif
 
 Yes, with Alt-ID's reply masking enabled. Replies go out from the alias address. Your real email never appears in any outgoing header or thread.
 
-**What happens if a portal rejects my alias address?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if a portal rejects my alias address?**
 
 Some portals aggressively block known alias domains. If this happens, note the portal name, use your real address for that specific submission, and monitor that inbox manually. This is the exception rather than the rule for established alias services like Alt-ID.
 
@@ -173,7 +173,7 @@ Some portals aggressively block known alias domains. If this happens, note the p
 
 Not mandatory, but it makes leaker identification precise. If you use one `agents-` alias for all agents and spam starts arriving on it, you know an agent sold your data but not which one. Per-agent aliases tell you exactly who. Given that Alt-ID is unlimited, creating one alias per agent costs nothing.
 
-**Is an email alias the same as a disposable email?**
+**Is an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) the same as a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/)?**
 
 No. A disposable email expires quickly and does not forward to your real inbox. An alias is persistent, forwards everything, supports replies, and can be deleted on demand. For real estate — where you need ongoing communication over weeks or months — you need a persistent alias, not a disposable.
 

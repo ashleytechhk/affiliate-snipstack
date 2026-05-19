@@ -68,7 +68,7 @@ Once you land on the page, you will see a few plan options. For most seniors, th
 
 - Real-time virus protection
 - Malware blocking
-- Protection against dangerous websites
+- [Protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) dangerous websites
 - Alert for data breaches (if your email or password shows up somewhere it should not)
 
 Click the plan that fits your budget and then click the big button that says **"Get the deal"** or **"Start now."**

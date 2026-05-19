@@ -131,7 +131,7 @@ Alt-Number is a [virtual phone number](https://snipstack.io/virtual-phone-number
 3. Scroll to **Call Silence & Blocked Contacts**
 4. Toggle **Silence Unknown Callers** to on
 
-From this point, any number not in your contacts goes to voicemail automatically. Good baseline protection against spam and cold-contact harassment.
+From this point, any number not in your contacts goes to voicemail automatically. Good baseline [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) spam and cold-contact harassment.
 
 ### Layer 2 — [Get a Second](https://snipstack.io/get-a-second-number-for-texting-2026/) Number for Dating (takes 5 minutes)
 

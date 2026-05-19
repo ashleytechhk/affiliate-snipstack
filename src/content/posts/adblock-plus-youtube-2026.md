@@ -80,7 +80,7 @@ There is also the **Acceptable Ads** issue: ABP's default configuration allows a
 
 Honestly: sometimes, inconsistently, and less reliably than it did before 2023.
 
-On **desktop browsers** (Chrome, Firefox, Edge), ABP can still suppress many YouTube pre-roll ads between detection waves. After a YouTube detection update, ABP may stop working for days until filter maintainers push a counter-update. Firefox with uBlock Origin in advanced mode fares somewhat better because uBlock's filter update cadence is faster and its author responds to YouTube specifically.
+On **desktop browsers** (Chrome, Firefox, Edge), ABP can still suppress many YouTube pre-roll ads between detection waves. After a YouTube detection update, ABP may stop working for days until filter maintainers push a counter-update. Firefox with [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) in advanced mode fares somewhat better because uBlock's filter update cadence is faster and its author responds to YouTube specifically.
 
 On **Chrome specifically**, there is a secondary complication: Google's Manifest V3 rollout limits how extensions can intercept requests in real time. The transition is ongoing in 2026, but it is gradually reducing the effectiveness ceiling for all Chrome extensions including ABP.
 
