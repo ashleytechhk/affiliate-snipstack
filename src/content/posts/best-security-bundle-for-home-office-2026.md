@@ -65,7 +65,7 @@ This is the fair question to ask when switching away from an established name. T
 
 What it doesn't do is run three background scan processes simultaneously, schedule a full-disk scan at 9 AM on a Monday, or throw up a notification asking you to review your "security score." That restraint is a feature, not a gap.
 
-Norton's antivirus is genuinely excellent and has a longer track record. If antivirus detection rates are your sole criterion, Norton is defensible. But Surfshark One's protection is good enough for real-world home-office use, and the full package trade-off is better.
+Norton's antivirus is genuinely excellent and has a longer track record. If antivirus detection rates are your sole criterion, Norton is defensible. But [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/)'s protection is good enough for real-world home-office use, and the full package trade-off is better.
 
 ---
 

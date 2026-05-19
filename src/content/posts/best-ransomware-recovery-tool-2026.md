@@ -77,7 +77,7 @@ Many seniors rely on free security tools or the basic protection that comes buil
 
 ![Surfshark Antivirus protection dashboard showing ransomware defense for seniors](/og/best-ransomware-recovery-tool-2026-inline-2.png)
 
-Surfshark Antivirus was built with simplicity and strong protection in mind. Here is what makes it stand out specifically for ransomware defense:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) was built with simplicity and strong protection in mind. Here is what makes it stand out specifically for ransomware defense:
 
 ### Real-Time Ransomware Blocking
 

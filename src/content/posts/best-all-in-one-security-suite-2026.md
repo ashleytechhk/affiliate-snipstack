@@ -98,7 +98,7 @@ Norton 360 Standard or McAfee's identity-focused tier might be worth the premium
 
 **Scenario B: Couple or small family, 3–6 devices, mixed platforms**
 
-[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle. Unlimited devices removes the math problem entirely. If one person runs Windows, another runs Mac, and there are iPhones and an Android in the mix, a single Surfshark One subscription handles all of them without a device-count negotiation.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle. Unlimited devices removes the math problem entirely. If one person runs Windows, another runs Mac, and there are iPhones and an Android in the mix, a single [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) subscription handles all of them without a device-count negotiation.
 
 **Scenario C: Household with 7+ devices, teenagers with their own accounts, tight budget**
 

@@ -103,7 +103,7 @@ That is it. The antivirus is now protecting your device.
 
 ## Step 5 — Run Your First Scan
 
-The first time you open Surfshark Antivirus, it will offer to run a full scan of your device. Say yes — this finds any problems that already exist before the software was installed.
+The first time you open [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), it will offer to run a full scan of your device. Say yes — this finds any problems that already exist before the software was installed.
 
 1. Open the Surfshark app (there will be a new icon on your desktop or taskbar).
 2. Click **"Scan"** or **"Start Scan."**

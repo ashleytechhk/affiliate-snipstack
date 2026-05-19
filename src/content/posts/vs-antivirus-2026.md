@@ -68,7 +68,7 @@ A typical Norton 360 Deluxe renewal (year two onwards) runs $100+, while the int
 
 The antivirus module is relatively new compared to Norton's decades of engine development, but independent lab results have improved year-over-year. For most home users browsing, streaming, shopping, and working from coffee shops, the threat surface is well covered.
 
-Where Surfshark One genuinely pulls ahead is the unlimited device policy. One subscription covers your laptop, partner's phone, the smart TV, the kids' tablets. Norton and McAfee cap you at five unless you pay for a higher tier.
+Where [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) genuinely pulls ahead is the unlimited device policy. One subscription covers your laptop, partner's phone, the smart TV, the kids' tablets. Norton and McAfee cap you at five unless you pay for a higher tier.
 
 ### Who Surfshark One is for
 

@@ -63,7 +63,7 @@ When a scam email lands in your inbox and you click the link inside it, Defender
 
 If your email address or password appears in a leaked database — which happens when a company you use gets hacked — Defender will never tell you. You may not find out for months, during which time criminals have access to your accounts.
 
-These three gaps are precisely where targeted attacks against seniors land. A dedicated antivirus like Surfshark Antivirus closes all three.
+These three gaps are precisely where targeted attacks against seniors land. A dedicated antivirus like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) closes all three.
 
 ---
 

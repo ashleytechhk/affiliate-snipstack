@@ -39,13 +39,13 @@ The whole process takes about 30 minutes across all devices.
 Open your current security software, go to Account or Subscription, and write down the renewal date. You want to cancel before that date, not on the day you install [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), to avoid a surprise charge. If the renewal is within the next 7 days, install [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) first, then cancel immediately after.
 
 **Step 0b — Count your devices.**
-How many phones, laptops, tablets, and shared computers does your household use? Surfshark One covers unlimited devices on one account — but you need to know how many you are deploying to so you can set aside enough time.
+How many phones, laptops, tablets, and shared computers does your household use? [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) covers unlimited devices on one account — but you need to know how many you are deploying to so you can set aside enough time.
 
 **Step 0c — Have your family email addresses ready.**
 You will create one Surfshark account that covers the whole family. Pick one adult email to own the account. Everyone installs the same app and logs in with the same credentials.
 
 **Step 0d — Check that [Windows Defender](https://snipstack.io/windows-defender-download-2026/) is enabled (Windows users).**
-Norton and McAfee both disable Windows Defender when installed. Once you uninstall them, Defender turns back on automatically — but it is worth confirming. After removing your old antivirus, go to [Windows Security](https://snipstack.io/windows-security-2026/) → Virus & Threat Protection and check that real-time protection is on. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) will then run alongside it, and you can decide which one to rely on. Most users disable Defender once Surfshark Antivirus is running.
+Norton and McAfee both disable Windows Defender when installed. Once you uninstall them, Defender turns back on automatically — but it is worth confirming. After removing your old antivirus, go to [Windows Security](https://snipstack.io/windows-security-2026/) → Virus & Threat Protection and check that real-time protection is on. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) will then run alongside it, and you can decide which one to rely on. Most users disable Defender once [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is running.
 
 ---
 

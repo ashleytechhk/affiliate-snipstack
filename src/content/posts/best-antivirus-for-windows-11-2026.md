@@ -59,7 +59,7 @@ Not all antivirus software is the same. Here is what to look for:
 
 **Affordable pricing:** Look for plans that cover one or two years — they are usually cheaper than monthly billing.
 
-Surfshark Antivirus ticks all of these boxes and is designed so that setup requires almost no technical knowledge.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) ticks all of these boxes and is designed so that setup requires almost no technical knowledge.
 
 [See Surfshark Antivirus plans and pricing](/blog/surfshark?sub=best-antivirus-for-windows-11-2026__mid)
 

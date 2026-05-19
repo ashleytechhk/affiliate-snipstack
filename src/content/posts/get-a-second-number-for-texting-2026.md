@@ -240,6 +240,6 @@ Google Voice is free and ad-free, but requires a Google account and has limitati
 
 Getting a [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) texting is one of the smartest low-effort privacy moves you can make before handing your contact details to a stranger online. Five minutes of setup buys you a clean separation between your dating life and your personal number — and a block button that actually works without awkwardness.
 
-For most people reading this: if you're dating actively and want something that just works without VOIP headaches, **[Alt Number](https://snipstack.io/blog/altnumber?sub=get-a-second-number-for-texting-2026__cta)** is worth the look — especially if you're already on Surfshark One. If you want free-for-now and don't mind occasional app quirks, start with Google Voice.
+For most people reading this: if you're dating actively and want something that just works without VOIP headaches, **[Alt Number](https://snipstack.io/blog/altnumber?sub=get-a-second-number-for-texting-2026__cta)** is worth the look — especially if you're already on [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/). If you want free-for-now and don't mind occasional app quirks, start with Google Voice.
 
 Either way, stop giving your real number to strangers.

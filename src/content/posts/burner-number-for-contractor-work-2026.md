@@ -84,7 +84,7 @@ Not all [virtual number](https://snipstack.io/virtual-number-for-google-account-
 
 ---
 
-## How to Set It Up (Under 5 Minutes)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) It Up (Under 5 Minutes)
 
 1. Download the Surfshark app and sign in, or create an account if you're new.
 2. Open the **Alt-Number** section from the main menu.

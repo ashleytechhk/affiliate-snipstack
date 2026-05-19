@@ -123,7 +123,7 @@ For most users, connecting to the nearest server is fine. If you're on a public 
 
 ### Step 7 — Optional: Set Up Alternative ID
 
-Inside your Surfshark One account, you'll also find Alternative ID — a tool that generates a masked email address and a fictional identity profile you can use when signing up for services you don't fully trust. Links still forward to your real inbox, but your actual email address isn't exposed.
+Inside your [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) account, you'll also find Alternative ID — a tool that generates a masked email address and a fictional identity profile you can use when signing up for services you don't fully trust. Links still forward to your real inbox, but your actual email address isn't exposed.
 
 This won't prevent a breach at a site you've already signed up on, but going forward it limits the surface area — fewer places have your real email, so fewer breaches can expose it.
 
@@ -158,7 +158,7 @@ A VPN encrypts your internet traffic and masks your IP address, which reduces yo
 
 ### What's the difference between Surfshark VPN and Surfshark One?
 
-Surfshark VPN is the standalone VPN subscription. Surfshark One adds Surfshark Alert (dark web monitoring and breach alerts), Surfshark Antivirus, and Alternative ID. The One bundle is priced higher than the base VPN but significantly lower than comparable all-in-one suites from Norton or McAfee.
+Surfshark VPN is the standalone VPN subscription. Surfshark One adds Surfshark Alert (dark web monitoring and breach alerts), [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), and Alternative ID. The One bundle is priced higher than the base VPN but significantly lower than comparable all-in-one suites from Norton or McAfee.
 
 ### Is Surfshark Alert the same as Have I Been Pwned?
 

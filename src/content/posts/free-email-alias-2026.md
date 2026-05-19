@@ -55,7 +55,7 @@ That's it. No technical skill required.
 If you already have a qualifying Surfshark account, skip to Step 2.
 
 1. Go to the [Surfshark One offer page](/blog/surfshark?sub=free-email-alias-2026__above-fold).
-2. Choose a plan. Surfshark One includes Alt-ID, the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and Search.
+2. Choose a plan. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) includes Alt-ID, the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and Search.
 3. Create your account with your email and a strong password.
 4. Complete payment and confirm your email address.
 

@@ -142,7 +142,7 @@ Removing adware is the start, not the finish. These simple habits make a big dif
 - **Never click "Your Mac is infected" pop-ups** — close the browser tab immediately
 - **Keep macOS updated.** Click the Apple logo > System Settings > General > Software Update > turn on Automatic Updates
 - **Be suspicious of unexpected emails with links,** even if they appear to come from Apple, your bank, or a delivery company
-- **Keep Surfshark Antivirus running in the background** — it updates its threat database daily and checks new files automatically
+- **Keep [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) running in the background** — it updates its threat database daily and checks new files automatically
 
 ---
 

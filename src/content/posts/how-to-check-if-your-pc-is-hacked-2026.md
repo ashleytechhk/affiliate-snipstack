@@ -135,7 +135,7 @@ Running Task Manager and Windows Defender once is a good start. But threats appe
 
 A dedicated antivirus program runs quietly in the background every hour of every day. It catches threats the moment they appear, not after they have already done damage.
 
-Surfshark Antivirus is worth considering for several reasons that matter to seniors specifically:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is worth considering for several reasons that matter to seniors specifically:
 
 - **Simple design** — the interface does not bombard you with warnings or technical alerts you cannot interpret.
 - **Real-time scanning** — it monitors files as you open them, emails as you receive them, and downloads as they arrive.

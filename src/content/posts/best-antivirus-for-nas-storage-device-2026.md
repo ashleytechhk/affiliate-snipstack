@@ -58,7 +58,7 @@ Protecting the devices in your home is the single most effective step you can ta
 
 ## The Role of Antivirus in NAS Protection
 
-It is worth being direct about something that many guides skip over: **[antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) like Surfshark Antivirus does not install directly on a NAS device itself.** NAS devices run their own operating systems (such as Synology's DSM or QNAP's QTS) that are separate from Windows or Mac.
+It is worth being direct about something that many guides skip over: **[antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) does not install directly on a NAS device itself.** NAS devices run their own operating systems (such as Synology's DSM or QNAP's QTS) that are separate from Windows or Mac.
 
 What Surfshark Antivirus does — and does extremely well — is protect every Windows PC, Mac, Android phone, and iPhone that connects to your NAS. Since ransomware almost always enters through one of those connected devices first, protecting them is your most important line of defence.
 

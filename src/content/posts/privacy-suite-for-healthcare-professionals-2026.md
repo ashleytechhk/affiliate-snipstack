@@ -86,7 +86,7 @@ Surfshark Alert (included in One Bundle) monitors for breaches of your email add
 
 ### Alternative ID: The Feature Norton Doesn't Have
 
-Surfshark One includes Alternative ID — a feature that generates a masked email address and virtual identity for use on sites you don't fully trust. Instead of entering your real clinical email on a conference registration form or a medical database that may sell your data, you use the masked address. If it gets breached or spammed, you delete it.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) includes Alternative ID — a feature that generates a masked email address and virtual identity for use on sites you don't fully trust. Instead of entering your real clinical email on a conference registration form or a medical database that may sell your data, you use the masked address. If it gets breached or spammed, you delete it.
 
 Norton and McAfee have no equivalent. This one feature alone is worth the price difference for anyone who has watched their real email get harvested from third-party registrations.
 
@@ -121,7 +121,7 @@ The math for a single user who was paying $105/year for Norton 360 Deluxe with a
 
 **You might want to stay with your current provider if:**
 - Your employer mandates a specific security product for personal devices
-- You rely heavily on LifeLock's identity theft insurance coverage (Surfshark does not offer an insurance component)
+- You rely heavily on LifeLock's [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance coverage (Surfshark does not offer an insurance component)
 - You prefer phone-based customer support over live chat
 
 ---
@@ -144,7 +144,7 @@ Yes. Surfshark has been independently audited by Cure53, a German cybersecurity 
 
 You generate a masked email through Surfshark One and use it on any registration form where you'd otherwise enter your real address. Emails sent to the masked address forward to your real inbox. If the masked address gets breached or starts receiving spam, you delete it — your real address is never exposed. This is particularly useful for conference registrations, CME platform sign-ups, and research database access where your real email commonly gets harvested.
 
-### What happens to my Norton subscription if I switch mid-cycle?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription if I switch mid-cycle?
 
 Norton typically does not offer prorated refunds unless you cancel within their stated refund window (30 days for digital purchases in most regions). If you're near a renewal date, switching before it processes saves the most money. If you've recently renewed, check the refund policy in your account or contact Norton support — some users report success requesting early cancellations outside the standard window.
 

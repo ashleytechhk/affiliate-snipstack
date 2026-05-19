@@ -152,7 +152,7 @@ Yes. Alt-ID is a standalone feature included in [Surfshark One](https://snipstac
 
 ### How many aliases can I create?
 
-Surfshark One plans include unlimited Alt-ID aliases. There is no cap — create one per service if you like.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) plans include unlimited Alt-ID aliases. There is no cap — create one per service if you like.
 
 ### Will replies from my alias reveal my real email address?
 

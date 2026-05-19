@@ -88,7 +88,7 @@ None of these outcomes are theoretical. They happen every day to real people who
 
 **Phishing protection.** When you click a link that leads to a fake website designed to steal your login details, Surfshark warns you before the page loads.
 
-**Low impact on your computer.** Older computers sometimes struggle with heavy software. Surfshark Antivirus is built to run quietly in the background without slowing your system down.
+**Low impact on your computer.** Older computers sometimes struggle with heavy software. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is built to run quietly in the background without slowing your system down.
 
 **Works on Ubuntu.** This matters more than you might think. Many antivirus programs only support Windows. Surfshark works on Linux, including Ubuntu — which is exactly what you need.
 

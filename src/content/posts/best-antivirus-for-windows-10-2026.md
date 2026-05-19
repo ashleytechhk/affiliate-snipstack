@@ -129,7 +129,7 @@ Try scanning at night when you are not using the computer. You can schedule scan
 Go back to the Surfshark website and click **"Forgot password"** under the login box. An email will be sent to you with a reset link.
 
 **"Do I still need to worry about pop-ups saying 'Your PC has a virus'?"**
-Yes — those pop-ups are almost always fake. Do not call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown on a pop-up. Do not click anything on the pop-up. Instead, close it using the X button (or press Alt + F4 on your keyboard). Your Surfshark antivirus will handle real threats silently without asking you to call anyone.
+Yes — those pop-ups are almost always fake. Do not call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown on a pop-up. Do not click anything on the pop-up. Instead, close it using the X button (or press Alt + F4 on your keyboard). Your [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) will handle real threats silently without asking you to call anyone.
 
 ---
 

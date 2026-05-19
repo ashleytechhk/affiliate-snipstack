@@ -98,7 +98,7 @@ For many seniors who want peace of mind beyond the basics, a dedicated antivirus
 
 ## Which Antivirus Is Best for Windows Users in 2026?
 
-For seniors looking for something simple, reliable, and low-cost, **Surfshark Antivirus** stands out for several practical reasons.
+For seniors looking for something simple, reliable, and low-cost, **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/)** stands out for several practical reasons.
 
 ![Surfshark Antivirus features overview — clean dashboard, real-time protection toggle, and device coverage icons](/og/antivirus-windows-2026-inline-2.png)
 

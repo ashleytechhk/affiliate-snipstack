@@ -175,7 +175,7 @@ No. Finding a threat means the software is working. Click **"Remove"** or **"Fix
 Check the sender's email address carefully. Official emails come from @surfshark.com addresses. If it says something like "surfshark-support@gmail.com" or anything unusual, it is a scam. Delete it and log in to your account using the link you bookmarked during setup.
 
 **"Can I protect my phone with the same plan?"**
-Yes. Surfshark One covers multiple devices. Download the Surfshark app from the App Store (iPhone) or Google Play (Android) and log in with the same email and password you used on your computer.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) covers multiple devices. Download the Surfshark app from the App Store (iPhone) or Google Play (Android) and log in with the same email and password you used on your computer.
 
 ---
 

@@ -97,7 +97,7 @@ Norton and McAfee both publish official removal tools that do a cleaner job than
 
 ---
 
-## Step 3 — Subscribe to Surfshark One
+## Step 3 — Subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/)
 
 Now you are ready to get the replacement.
 

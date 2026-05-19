@@ -84,7 +84,7 @@ This step matters more than most guides admit. Running two antivirus products si
 
 ---
 
-## Step 3 — Get Surfshark One Bundle
+## Step 3 — Get [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) Bundle
 
 Use the link below to go directly to the official page. Do not search for discount codes or alternative download sources — third-party mirrors of security software are a known malware distribution method.
 

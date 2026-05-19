@@ -98,7 +98,7 @@ What makes it stand out in this comparison:
 
 For the dating-app use case specifically: you verify with Alt Number, you share it with new matches, and if someone becomes a problem, you're not handing them a thread that leads back to your real identity. When you're ready to give someone your real number, you make that choice deliberately — not because you had no other option at 11pm on a first date.
 
-The one limitation: Alt Number is only available through the Surfshark One bundle. If you only need a temp number and have zero interest in a VPN, the bundle cost won't make sense. In that case, Hushed is the better standalone pick.
+The one limitation: Alt Number is only available through the [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) bundle. If you only need a temp number and have zero interest in a VPN, the bundle cost won't make sense. In that case, Hushed is the better standalone pick.
 
 **Bottom line for online daters:** If you're already a Surfshark user or were considering it — this is a no-brainer. Real number, no extra cost, no ads, works internationally.
 

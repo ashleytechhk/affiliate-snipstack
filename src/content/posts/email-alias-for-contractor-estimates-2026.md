@@ -128,7 +128,7 @@ Once deleted, emails to that alias bounce permanently. If you anticipate needing
 
 **Does an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) stop contractor calls and texts too?**
 
-No. An [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) only controls who can reach your email inbox. Contractors who have your phone number from a lead form will still be able to call or text. For phone-based follow-up, you'd need a separate approach (a Google Voice number, for example). The alias solves the inbox flooding problem specifically.
+No. An [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) only controls who can reach your email inbox. Contractors who have your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) from a lead form will still be able to call or text. For phone-based follow-up, you'd need a separate approach (a Google Voice number, for example). The alias solves the inbox flooding problem specifically.
 
 **Can I use a Gmail plus-address instead?**
 

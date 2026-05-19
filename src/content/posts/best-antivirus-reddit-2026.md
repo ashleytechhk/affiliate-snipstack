@@ -32,7 +32,7 @@ This guide translates those Reddit conversations into clear, numbered steps you 
 
 Before installing any [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/), run through this short checklist:
 
-- **A Windows PC or Mac computer** (Surfshark Antivirus works on both)
+- **A Windows PC or Mac computer** ([Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) works on both)
 - **A working internet connection** — you need this to download the software
 - **An email address** — to create a free account
 - **About 10 minutes of your time**

@@ -70,7 +70,7 @@ Here is how to set it up:
 2. Select **Internet** → **Internet Settings**
 3. Choose your WiFi network → **Change Settings**
 4. Scroll to **DNS Settings** → change from **Automatic** to **Manual**
-5. Enter the DNS address for your chosen service (Surfshark's CleanWeb DNS, or an alternative like AdGuard DNS)
+5. Enter the DNS address for your chosen service (Surfshark's CleanWeb DNS, or an alternative like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/))
 6. Save and reconnect
 
 Once set, every DNS lookup from your Switch — including from the browser and from the Switch's own services — goes through the filtering DNS server. Ads on known ad-serving domains stop loading.
@@ -205,9 +205,9 @@ Surfshark provides custom DNS addresses in your account settings under the DNS L
 
 ## FAQ
 
-### Can you install an ad blocker on the Nintendo Switch?
+### Can you install an [ad blocker](https://snipstack.io/ad-blocker-for-opera-browser-2026/) on the Nintendo Switch?
 
-No — not in the traditional sense. The Nintendo Switch does not support third-party apps outside of official Nintendo titles, so there is no way to install a browser extension or ad blocker app. The only viable approach is DNS-level blocking: configuring the Switch to use a DNS server that filters out ad domains before the connection is made.
+No — not in the traditional sense. The Nintendo Switch does not support third-party apps outside of official Nintendo titles, so there is no way to install a browser extension or [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) app. The only viable approach is DNS-level blocking: configuring the Switch to use a DNS server that filters out ad domains before the connection is made.
 
 ### Does Surfshark CleanWeb work on Nintendo Switch?
 

@@ -71,7 +71,7 @@ Bitdefender Mobile Security pricing starts around $15/year for a single Android 
 
 Norton's Android app has strong malware detection, and if you are on a [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) family plan it may already be included in your subscription. The technical protection is real.
 
-The experience, however, is distinctly Norton. Expect a persistent lock-screen widget, push notifications encouraging you to run a full device scan, in-app prompts for identity protection add-ons, and a VPN that counts against a separate data allowance unless you are on the Deluxe or higher tier. The app background services sit measurably higher in battery usage than Surfshark One or Bitdefender equivalents.
+The experience, however, is distinctly Norton. Expect a persistent lock-screen widget, push notifications encouraging you to run a full device scan, in-app prompts for identity protection add-ons, and a VPN that counts against a separate data allowance unless you are on the Deluxe or higher tier. The app background services sit measurably higher in battery usage than [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) or Bitdefender equivalents.
 
 Renewal pricing for standalone Norton Mobile Security or the Norton 360 bundle can climb to $50–$110 per year after the introductory period. If you are already paying that and frustrated by the noise — that frustration is the signal to switch.
 

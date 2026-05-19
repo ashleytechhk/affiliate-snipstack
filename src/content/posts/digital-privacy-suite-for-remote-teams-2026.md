@@ -109,7 +109,7 @@ Honest comparison means acknowledging where the legacy players hold up.
 
 **Norton 360 with LifeLock** is the more complete identity theft recovery product. If a team member's identity is actively compromised — not just monitored — Norton/LifeLock provides insurance coverage and dedicated recovery specialists. Surfshark Alert monitors and alerts; it does not remediate.
 
-**McAfee's password manager** is included in the base package. Surfshark One does not include a password manager. If your team does not already use a standalone tool like 1Password or Bitwarden, that is a gap.
+**McAfee's password manager** is included in the base package. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) does not include a password manager. If your team does not already use a standalone tool like 1Password or Bitwarden, that is a gap.
 
 **Norton's malware detection rate** in third-party AV tests (AV-TEST, AV-Comparatives) is consistently among the highest in the industry, backed by decades of threat intelligence data. Surfshark's antivirus is newer and has less history in independent benchmarks.
 

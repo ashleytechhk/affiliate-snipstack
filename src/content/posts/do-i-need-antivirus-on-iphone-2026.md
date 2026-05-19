@@ -147,7 +147,7 @@ Setting up [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-tot
 
 **Step 1.** Click the link below to visit the Surfshark website.
 
-**Step 2.** Choose the **Surfshark One** plan.
+**Step 2.** Choose the **[Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/)** plan.
 
 **Step 3.** Enter your email address and create a password. Write these down somewhere safe.
 

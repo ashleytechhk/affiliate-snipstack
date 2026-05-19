@@ -151,7 +151,7 @@ It depends. If you shop online, do any banking, or use WiFi away from home even 
 
 Do not click anything on the popup — not even "Close" or "Cancel." Many of these warnings are fake, designed to make you call a number or click a link that installs real malware. Instead: press **Alt + F4** on your keyboard to force the window closed. Then run a scan with your antivirus. If you are unsure, ask a family member or contact your antivirus provider's support line.
 
-### Can Surfshark One protect my phone as well as my PC?
+### Can [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) protect my phone as well as my PC?
 
 Yes. Surfshark One covers unlimited devices — one subscription protects your Windows computer, your Android or iPhone, a tablet, and any other device your family uses. That is one of its most practical advantages over free options.
 

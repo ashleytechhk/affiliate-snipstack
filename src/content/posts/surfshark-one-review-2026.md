@@ -35,7 +35,7 @@ It is not perfect: the antivirus detection rates trail Bitdefender's standalone 
 
 ## What [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)?
 
-Surfshark One is a four-tool subscription bundle:
+[Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) is a four-tool subscription bundle:
 
 - **VPN** — encrypts your internet connection, hides your IP address, works across all apps and browsers on unlimited devices
 - **Antivirus** — real-time malware scanning, scheduled scans, and ransomware protection

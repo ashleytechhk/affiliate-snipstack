@@ -28,7 +28,7 @@ This comparison breaks down the **[best VPNs for](https://snipstack.io/best-vpns
 
 Here's how [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) stacks up against Norton 360 and McAfee Total Protection for the features that actually matter for privacy.
 
-| Feature | Surfshark One | Norton 360 Standard | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) | Norton 360 Standard | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes — unlimited devices | Yes — 1 device (Standard) | Yes — up to 5 devices |
 | No-logs VPN policy | Audited, confirmed | Limited logging on some tiers | Logs connection metadata |

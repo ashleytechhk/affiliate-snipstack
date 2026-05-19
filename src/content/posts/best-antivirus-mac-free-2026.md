@@ -156,7 +156,7 @@ Yes. The threat level is lower than on some other platforms, but it is not zero.
 Not necessarily. Apple's built-in tools plus a free trial like [Surfshark Antivirus](/blog/surfshark?sub=best-antivirus-mac-free-2026__faq) cover the basics well. Paid plans add convenience features like continuous real-time scanning, but the free setup in this guide is a strong starting point.
 
 **Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) slow down my Mac?**
-Modern antivirus apps are designed to be light. Surfshark Antivirus in particular is built to run in the background without making your Mac feel sluggish. Scheduled scans (Step 3) run during quiet periods so they do not interrupt what you are doing.
+Modern antivirus apps are designed to be light. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) in particular is built to run in the background without making your Mac feel sluggish. Scheduled scans (Step 3) run during quiet periods so they do not interrupt what you are doing.
 
 **What is the difference between antivirus and a firewall?**
 The firewall (Step 1) controls which network connections are allowed to reach your Mac. [Antivirus software](https://snipstack.io/antivirus-software-2026/) (Steps 2 and 3) scans files on your Mac for harmful code. Both work together — you want both active.

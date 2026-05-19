@@ -77,7 +77,7 @@ There are many antivirus apps on Google Play, but most are cluttered with confus
 
 ---
 
-## Step 3 — Download and Install Surfshark Antivirus
+## Step 3 — Download and Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/)
 
 Follow these steps carefully. Take your time — there is no rush.
 

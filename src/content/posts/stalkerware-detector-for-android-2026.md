@@ -110,7 +110,7 @@ In **Settings**, search for **Battery** or **Background Activity**. Look for app
 
 ### Step 3: Run a Full Security Scan
 
-Download a trusted security tool such as Surfshark Antivirus from the Google Play Store. Once installed, open it and tap **Scan Now**. The app will check your entire phone and tell you clearly what it found, in simple language.
+Download a trusted security tool such as [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) from the Google Play Store. Once installed, open it and tap **Scan Now**. The app will check your entire phone and tell you clearly what it found, in simple language.
 
 ### Step 4: Remove Anything Suspicious
 

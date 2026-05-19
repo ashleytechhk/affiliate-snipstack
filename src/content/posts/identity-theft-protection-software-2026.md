@@ -70,7 +70,7 @@ The antivirus component runs quietly in the background. It checks websites befor
 
 The breach alert feature is particularly useful for seniors. If any website you use suffers a data leak, Surfshark Alert checks whether your email address or passwords were included — and sends you a notification so you can change them before anyone misuses the information.
 
-What [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) does not include is identity theft insurance. If a thief does succeed in opening a credit card in your name, Surfshark will not reimburse you directly. For that layer, you need a service like Norton with LifeLock (covered below). However, for the majority of people, the best return on investment is strong prevention — and that is exactly what Surfshark One delivers.
+What [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) does not include is identity theft insurance. If a thief does succeed in opening a credit card in your name, Surfshark will not reimburse you directly. For that layer, you need a service like Norton with LifeLock (covered below). However, for the majority of people, the best return on investment is strong prevention — and that is exactly what [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) delivers.
 
 Setup takes about five minutes. One subscription covers all your devices — phone, tablet, laptop — with no limit.
 

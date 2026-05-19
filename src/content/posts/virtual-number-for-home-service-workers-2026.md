@@ -133,13 +133,13 @@ Alt-Number receives both incoming calls and SMS messages. Outgoing texts work as
 **If someone runs a reverse lookup on my Alt-Number, what do they find?**
 A reverse lookup on a virtual number does not resolve to your personal name, address, or carrier account. The number is not tied to your identity at the carrier level, which removes the primary risk of sharing your real number with strangers.
 
-**What happens when I disable my Alt-Number?**
+**[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I disable my Alt-Number?**
 Anyone who calls or texts that number after you disable it will not reach you. From their perspective, the number is simply unavailable. Your real mobile number is completely unaffected — the two have no connection.
 
 **Does Alt-Number work for app verification codes during dating app sign-up?**
 Virtual numbers that receive SMS can typically receive verification texts from apps. Surfshark Alt-Number receives SMS, which covers most app verification flows. Check the specific app's requirements — a small number of platforms attempt to block known virtual number ranges.
 
-**Is Surfshark Alt-Number an add-on I have to pay for separately?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number an add-on I have to pay for separately?**
 Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside the Alt-ID [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) tool. No separate purchase is needed. **[See current plans and pricing here](/blog/altnumber?sub=virtual-number-for-home-service-workers-2026__faq)**.
 
 **Is using a virtual number on dating apps allowed?**

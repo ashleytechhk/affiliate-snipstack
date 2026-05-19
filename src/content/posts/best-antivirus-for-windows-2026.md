@@ -53,7 +53,7 @@ Open your web browser (Edge, Chrome, or Firefox — any will work) and click thi
 
 **[Start your Surfshark Antivirus plan here](/blog/surfshark?sub=best-antivirus-for-windows-2026__mid)**
 
-> **Screenshot placeholder:** [Image of the Surfshark Antivirus homepage with the pricing plans visible]
+> **Screenshot placeholder:** [Image of the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) homepage with the pricing plans visible]
 
 ### Step 2 — Choose a Plan
 

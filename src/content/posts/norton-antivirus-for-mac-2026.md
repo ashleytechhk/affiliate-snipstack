@@ -108,7 +108,7 @@ Once you are logged in, you will see a simple menu on the left side of the scree
 2. Click the button that says **Turn On** or **Enable Protection**.
 3. Your Mac may ask for your Mac password (the one you use to unlock your computer). Type it in and click **OK**.
 
-That is it. Surfshark Antivirus is now active and protecting your Mac.
+That is it. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is now active and protecting your Mac.
 
 ---
 

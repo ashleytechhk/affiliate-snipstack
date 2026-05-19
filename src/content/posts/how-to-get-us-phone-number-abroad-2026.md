@@ -170,7 +170,7 @@ Alt-Number comes as part of the Surfshark ecosystem, which also includes VPN (ma
 
 Getting started takes under ten minutes:
 
-1. Sign up for a Surfshark One or One+ plan (or check if your existing plan includes Alt-Number)
+1. Sign up for a [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) or One+ plan (or check if your existing plan includes Alt-Number)
 2. Download the Surfshark app on your phone
 3. Navigate to Alt-Number in the app
 4. Choose your preferred US area code
