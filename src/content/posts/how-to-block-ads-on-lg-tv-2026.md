@@ -95,7 +95,7 @@ This is stronger. If you set the DNS on your router rather than the TV, every de
 
 **What this does not block:**
 - Ads inside streaming apps (Peacock, Tubi, Pluto TV) — those come from different domains that legitimate content also depends on
-- YouTube ads on the TV app (YouTube's ad delivery is tightly entangled with its content delivery)
+- [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s on the TV app (YouTube's ad delivery is tightly entangled with its content delivery)
 
 **Mobile relevance:** High, if you use the router option. Setting filtering DNS on your router covers your phone and tablet automatically, without any app installation.
 
@@ -207,7 +207,7 @@ The DNS method works on any smart TV, but the specific ad domains you'd be block
 The LG ThinQ mobile app doesn't typically serve traditional display ads. If you're seeing ads in a mobile streaming app (not the ThinQ control app itself), a mobile [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) like CleanWeb handles those at the system level. It works across every app on your phone without requiring per-app configuration.
 
 **Does changing DNS on my TV slow down streaming?**
-Public filtering DNS servers like AdGuard DNS and NextDNS have global infrastructure and are designed to add negligible latency — typically under 5ms additional delay. This has no perceptible effect on streaming quality. If you notice slowdowns after changing DNS, try switching between the primary and secondary addresses, or revert to your router's default and use router-level DNS instead.
+Public filtering DNS servers like [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) and NextDNS have global infrastructure and are designed to add negligible latency — typically under 5ms additional delay. This has no perceptible effect on streaming quality. If you notice slowdowns after changing DNS, try switching between the primary and secondary addresses, or revert to your router's default and use router-level DNS instead.
 
 **Is there a way to make LG TV show no ads at all on the home screen permanently?**
 The closest you can get is combining Method 1 (disable ACR and interest-based ads in Settings) with the DNS blocking method. This removes the majority of home screen ads. A small number of LG's own promotional placements may still appear using first-party infrastructure that some block lists don't cover — but the experience is significantly cleaner than stock.

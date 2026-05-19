@@ -136,7 +136,7 @@ The free trial period lets you verify WhatsApp and receive messages at no cost. 
 ## Frequently Asked Questions
 
 **Is it really free to get a [second phone number](https://snipstack.io/second-phone-number-apk-2026/) for WhatsApp?**
-Alt-Number offers a free trial that includes number provisioning and SMS verification — which is everything you need to get WhatsApp set up on a second number. Ongoing service (keeping the number active for calls and texts over time) requires a subscription. For a genuinely disposable trial number, the free tier covers it.
+Alt-Number offers a free trial that includes number provisioning and SMS verification — which is everything you need to get WhatsApp set up on a [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/). Ongoing service (keeping the number active for calls and texts over time) requires a subscription. For a genuinely disposable trial number, the free tier covers it.
 
 [**See current Alt-Number pricing →**](/blog/surfshark?sub=free-second-phone-number-for-whatsapp-2026__faq)
 

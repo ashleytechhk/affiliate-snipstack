@@ -224,7 +224,7 @@ Blocking individual telemarketer numbers is a treadmill — you block one, anoth
 
 The only strategy that actually stops telemarketers from getting your number is not giving them your real number in the first place. For online daters, that means using a [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) — one that works exactly like your real number for calls and texts, but that you can delete the moment it becomes a liability.
 
-[Surfshark Alt-Number](/blog/altnumber?sub=how-to-block-telemarketers-permanently-2026__cta) is the straightforward way to do this. Get a real second number, use it with dating apps and new matches, and kill it if it attracts spam. Your real number stays clean, and you never have to deal with a telemarketer who got hold of it from a data broker or a breached dating app.
+[Surfshark Alt-Number](/blog/altnumber?sub=how-to-block-telemarketers-permanently-2026__cta) is the straightforward way to do this. Get a real [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/), use it with dating apps and new matches, and kill it if it attracts spam. Your real number stays clean, and you never have to deal with a telemarketer who got hold of it from a data broker or a breached dating app.
 
 **[Get a second number with Surfshark Alt-Number →](/blog/altnumber?sub=how-to-block-telemarketers-permanently-2026__cta)**
 

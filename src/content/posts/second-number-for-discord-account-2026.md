@@ -62,7 +62,7 @@ Phishing kits disguised as "Discord Nitro gifts," fake server invitations, and c
 
 If your real number ends up in the wrong hands — through any of the above routes — a basic reverse-lookup service can return your full name, address history, and associated social profiles within minutes. These services are not obscure. They are the first result on a Google search for "who owns this number."
 
-A dedicated second number breaks this chain entirely. If the Discord-linked number is compromised, it reveals nothing about your real identity. You replace the number, and the thread disappears.
+A dedicated [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) breaks this chain entirely. If the Discord-linked number is compromised, it reveals nothing about your real identity. You replace the number, and the thread disappears.
 
 [**Protect your Discord account with a second number that traces back to nothing personal →**](/blog/altnumber?sub=second-number-for-discord-account-2026__mid)
 

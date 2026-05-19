@@ -141,7 +141,7 @@ From this point, any number not in your contacts goes to voicemail automatically
 4. Choose your number — you can typically select the area code
 5. Start using this number whenever a dating match asks for yours
 
-Going forward: all dating-related calls and texts go through the second number. Your real carrier number is reserved for people who already know you in real life.
+Going forward: all dating-related calls and texts go through the [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/). Your real carrier number is reserved for people who already know you in real life.
 
 ![Surfshark Alt-Number setup showing second phone number selection on iPhone](/og/block-unknown-callers-iphone-2026-inline-2.png)
 

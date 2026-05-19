@@ -40,7 +40,7 @@ On a desktop computer, you install a browser extension and it hooks into every w
 - **iOS is especially restrictive.** Apple's app sandbox prevents most apps from inspecting or modifying another app's network traffic.
 - **Android allows more flexibility**, but rooting your device (required for some deep ad-blocking methods) voids warranties and creates security risks most users don't want.
 
-The result: the same uBlock Origin that works flawlessly on your Mac is invisible to the YouTube TV app on your iPhone.
+The result: the same [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) that works flawlessly on your Mac is invisible to the YouTube TV app on your iPhone.
 
 ---
 
@@ -151,7 +151,7 @@ Realistic expectation: a DNS blocker will significantly reduce ad frequency on Y
 
 ### Can I block YouTube TV ads on iPhone without a VPN?
 
-Options are limited. iOS restricts app-level network filtering without a VPN or a DNS profile. The most practical no-VPN option is configuring an encrypted DNS resolver (like AdGuard DNS) using an iOS configuration profile — but this only filters your home or the current network unless you pay for a full AdGuard app subscription. A VPN with CleanWeb is simpler and more reliable across all networks.
+Options are limited. iOS restricts app-level network filtering without a VPN or a DNS profile. The most practical no-VPN option is configuring an encrypted DNS resolver (like [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/)) using an iOS configuration profile — but this only filters your home or the current network unless you pay for a full AdGuard app subscription. A VPN with CleanWeb is simpler and more reliable across all networks.
 
 ### Does Surfshark CleanWeb slow down streaming quality?
 

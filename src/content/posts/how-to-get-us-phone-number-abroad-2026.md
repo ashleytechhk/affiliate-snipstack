@@ -101,7 +101,7 @@ Apps like Burner and Hushed let you buy temporary US numbers by the day, week, o
 - Free tiers are ad-heavy and often throttled
 - Paid tiers add up quickly if you need reliability month-to-month
 - Number quality varies; some numbers have been recycled from spam lists, meaning matches may get spam warnings when you text
-- No integration with a broader privacy suite
+- No integration with a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/)
 
 ---
 

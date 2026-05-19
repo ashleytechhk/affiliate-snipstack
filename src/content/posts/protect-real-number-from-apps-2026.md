@@ -102,7 +102,7 @@ For the genuinely free use case where you are only texting dates directly (not v
 
 **The best standalone paid option for international daters.**
 
-Hushed is purpose-built for the second number use case and it shows. Numbers are available in the US, Canada, and UK — which makes it one of the few options if you want a number from a different country than the one you are in. Setup is clean, the app is well-maintained, and the pricing is transparent: a monthly fee per number with a lifetime option if you want to lock in a lower rate.
+Hushed is purpose-built for the [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) use case and it shows. Numbers are available in the US, Canada, and UK — which makes it one of the few options if you want a number from a different country than the one you are in. Setup is clean, the app is well-maintained, and the pricing is transparent: a monthly fee per number with a lifetime option if you want to lock in a lower rate.
 
 Hushed numbers come from real carrier ranges in most markets, which puts them in a different category from pure-VoIP services like Google Voice or TextNow. Pass rates on Tinder, Bumble, and Hinge are good — not identical to a carrier-backed line, but materially better than VoIP. Most online daters who use Hushed will not encounter verification failures.
 
@@ -110,7 +110,7 @@ The trade-off versus Alt-Number: Hushed charges per number as a standalone subsc
 
 For daters who need international numbers — matching with someone from another country, or dating while traveling — Hushed's geographic flexibility is a genuine advantage over US-only options.
 
-**Best for:** Daters who want a reliable paid second number without bundling into a privacy suite, or who specifically need US, CA, or UK numbers.
+**Best for:** Daters who want a reliable paid second number without bundling into a [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), or who specifically need US, CA, or UK numbers.
 
 ---
 

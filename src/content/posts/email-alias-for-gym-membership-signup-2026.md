@@ -69,7 +69,7 @@ The combination of all four means: **give a gym your real email, and that addres
 
 What makes it the right fit for gym sign-ups specifically:
 
-- **Fake identity generation.** Gyms frequently ask for name, date of birth, and sometimes even phone number alongside email. Alt ID generates a plausible alternative identity to go with the alias — so you're not just protecting your email, you're protecting the profile data too.
+- **Fake identity generation.** Gyms frequently ask for name, date of birth, and sometimes even [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) alongside email. Alt ID generates a plausible alternative identity to go with the alias — so you're not just protecting your email, you're protecting the profile data too.
 - **Permanent until you kill it.** Your gym confirmation emails, booking reminders, and class schedules all forward cleanly. When the promotional spam starts (and it will), you disable or delete the alias in the dashboard. Done.
 - **Rarely blocked.** Free throwaway services like Guerrilla Mail use widely-known domains that gyms' sign-up forms often reject. Alt ID uses its own domain, which passes most form validation checks.
 - **One-click disable, not delete.** If you want to pause forwarding temporarily rather than permanently burn the alias, Alt ID lets you toggle the alias off and back on. Useful if you want to pause during a membership suspension but restore the alias later.
@@ -162,7 +162,7 @@ You can, but it's better practice to create one alias per gym. If you have two m
 
 Deleting the alias means the gym can no longer email you at that address. You'd need to update your email address in the gym's member portal before deleting — or accept that you'll lose email contact. If you want to pause emails without losing the alias permanently, use Alt ID's toggle-off feature instead of full deletion.
 
-**Is it dishonest to give a gym a fake email address?**
+**Is it dishonest to give a gym a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) address?**
 
 You're giving them a real, functional forwarding address — not a fake one. Emails reach you; replies work. You're simply choosing which address is exposed, the same way you might use a work number for a business contact rather than your personal mobile. Using an alias is a privacy choice, not deception.
 

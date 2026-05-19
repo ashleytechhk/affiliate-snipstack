@@ -47,7 +47,7 @@ Here's the breakdown by use case:
 You need a number that passes SMS verification reliably. Many dating apps have gotten stricter about VoIP numbers — a lot of free [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) services get flagged and rejected. You want a real mobile number, not a VoIP line.
 
 **Craigslist / Facebook Marketplace**
-Any second number works here. You're protecting against strangers calling your real line, not navigating app-level verification. Google Voice handles this fine.
+Any [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) works here. You're protecting against strangers calling your real line, not navigating app-level verification. Google Voice handles this fine.
 
 **Side hustle / freelance**
 You want something stable — a number you can put on a business card or reply from consistently. Hushed and Surfshark Alt-Number both work. Burner is less ideal since the "burn" mechanic runs counter to building client relationships.

@@ -36,7 +36,7 @@ Apple's built-in Hide My Email is the easiest starting point if you're already p
 | Works with non-Safari browsers | No | Yes | Yes | Yes |
 | Multiple aliases per account | Yes (unlimited) | Yes (multiple) | Yes (unlimited tags) | Limited by session |
 | Blocks app developer spam by alias | Yes | Yes | No | N/A |
-| Included in a broader privacy suite | No (email only) | Yes (VPN + data removal) | No | No |
+| Included in a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/) | No (email only) | Yes (VPN + data removal) | No | No |
 | Cost | Requires iCloud+ ($0.99+/mo) | Included with Surfshark plan | Free | Free |
 
 ---

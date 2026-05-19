@@ -64,7 +64,7 @@ The risks fall into three categories:
 
 **Stalking.** This is where the reverse-lookup risk becomes physical. A phone number resolves to an address with minimal effort. Studies on dating app safety consistently identify phone number sharing as one of the primary vectors for stalking situations — especially in the early stages of contact when you do not yet know the other person well.
 
-**Identity theft and SIM swap.** Your mobile number is the key to most account recovery flows. A bad actor with your number can attempt a SIM swap — convincing your carrier to transfer your number to their device — and then use account recovery flows to access your email, banking, and social accounts. SIM swap fraud has increased sharply over recent years as attackers have realized how valuable a phone number is as an authentication bypass.
+**[Identity theft](https://snipstack.io/identity-theft-protection-software-2026/) and SIM swap.** Your mobile number is the key to most account recovery flows. A bad actor with your number can attempt a SIM swap — convincing your carrier to transfer your number to their device — and then use account recovery flows to access your email, banking, and social accounts. SIM swap fraud has increased sharply over recent years as attackers have realized how valuable a phone number is as an authentication bypass.
 
 None of these scenarios require the other person to be overtly criminal. Harassment can come from someone you dated for two weeks who does not handle rejection well. Stalking can start from curiosity before it becomes intent. The point is that your phone number creates a persistent connection you cannot easily sever.
 

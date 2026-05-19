@@ -111,7 +111,7 @@ Grasshopper is a virtual phone system aimed squarely at small business owners an
 
 The pitch is simple: your clients hear a professional phone experience, you answer on your personal device, and the two worlds never mix. Grasshopper doesn't have the deep PBX features of Zoom Phone or RingCentral, but it doesn't need them for the solo-to-small-team audience it targets.
 
-Pricing starts around $28/month for a solo plan, which is meaningfully more than Google Voice or Alt-Number. You're paying for the US-focused professional presentation — the toll-free number option, the business greeting, the polished app. If that polish matters to your clients, it's worth it. If you just need a working second number, there are cheaper options.
+Pricing starts around $28/month for a solo plan, which is meaningfully more than Google Voice or Alt-Number. You're paying for the US-focused professional presentation — the toll-free number option, the business greeting, the polished app. If that polish matters to your clients, it's worth it. If you just need a working [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/), there are cheaper options.
 
 **Best for:** Solo operators and small US businesses who want a professional-facing local or toll-free number.
 **International:** US and Canada only.

@@ -58,7 +58,7 @@ Once a real number is obtained — through any route — a reverse-lookup servic
 
 ![Step-by-step flowchart showing how a Lyft driver's real phone number can be traced from their account to a home address through reverse lookup — and how a second number breaks that chain](/og/second-number-for-lyft-driver-account-2026-inline-1.png)
 
-A dedicated second number registered to your Lyft account breaks this chain entirely. If the account-linked number is ever surfaced, it traces back to your Alt-Number account — not your real identity. You replace the number, the thread disappears, and your real contact details remain untouched.
+A dedicated [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) registered to your Lyft account breaks this chain entirely. If the account-linked number is ever surfaced, it traces back to your Alt-Number account — not your real identity. You replace the number, the thread disappears, and your real contact details remain untouched.
 
 [**Protect your Lyft driver account with a second number that traces back to nothing personal →**](/blog/altnumber?sub=second-number-for-lyft-driver-account-2026__mid)
 

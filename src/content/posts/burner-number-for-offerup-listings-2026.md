@@ -86,7 +86,7 @@ Here's what sets it apart from free alternatives like Google Voice:
 
 **Instant deletion.** If a buyer becomes aggressive or a match won't stop texting, you cancel the number in the app. Immediately. No waiting period, no need to explain yourself to anyone.
 
-**Part of Surfshark's privacy suite.** Alt-Number is bundled with Surfshark subscriptions — the same subscription that includes VPN and the Alt-ID [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) service. If you're already using Surfshark for anything, you may already have access.
+**Part of Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).** Alt-Number is bundled with Surfshark subscriptions — the same subscription that includes VPN and the Alt-ID [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) service. If you're already using Surfshark for anything, you may already have access.
 
 **No separate SIM or device required.** It runs in an app on your existing phone. You manage it the same way you manage any other app.
 

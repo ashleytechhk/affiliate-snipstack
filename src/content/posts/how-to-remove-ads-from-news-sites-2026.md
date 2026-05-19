@@ -255,7 +255,7 @@ The setup takes three minutes. The impact on your reading experience is immediat
       "name": "Is there a completely free way to remove ads from news sites on mobile?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Partially. For browser-only ad removal on iPhone, AdGuard for iOS and Wipr are free and effective inside Safari. For system-wide coverage across all apps, you need a network-level solution like Surfshark CleanWeb, which requires a subscription. There is no free, system-wide DNS-level ad blocker that is as reliable and easy to maintain on mobile."
+        "text": "Partially. For browser-only ad removal on iPhone, AdGuard for iOS and Wipr are free and effective inside Safari. For system-wide coverage across all apps, you need a network-level solution like Surfshark CleanWeb, which requires a subscription. There is no free, system-wide DNS-level [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) that is as reliable and easy to maintain on mobile."
       }
     },
     {

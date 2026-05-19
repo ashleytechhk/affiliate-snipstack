@@ -100,7 +100,7 @@ Tap **Select this number** to confirm your choice.
 
 After selecting your number, Alt-Number activates it. This usually takes a few seconds. Once active, the number is ready to receive calls and texts immediately.
 
-You'll see your new second number displayed on the confirmation screen. Screenshot it or copy it — this is the number you'll share with dating matches.
+You'll see your new [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) displayed on the confirmation screen. Screenshot it or copy it — this is the number you'll share with dating matches.
 
 ---
 

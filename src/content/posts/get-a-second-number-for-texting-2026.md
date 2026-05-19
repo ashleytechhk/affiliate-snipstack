@@ -59,7 +59,7 @@ That's it. You don't need to swap SIMs or talk to a carrier.
 
 ---
 
-## Step-by-Step: [How to Get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) a Second Number
+## Step-by-Step: [How to Get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) a [Second Number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/)
 
 ### Step 1 — Pick Your Provider
 

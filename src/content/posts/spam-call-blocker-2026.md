@@ -132,7 +132,7 @@ For online daters specifically, **Alt-Number** is the strongest option because i
 
 ### Can I use a fake number on dating apps?
 
-Some apps require phone verification, so a fully fake (non-working) number won't get past signup. A virtual second number like Alt-Number is different — it's a real, working number that forwards to your phone. It passes verification, receives texts, and works normally. The only difference is that your actual personal number stays hidden.
+Some apps require phone verification, so a fully fake (non-working) number won't get past signup. A virtual [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) like Alt-Number is different — it's a real, working number that forwards to your phone. It passes verification, receives texts, and works normally. The only difference is that your actual personal number stays hidden.
 
 ### Is it safe to give my number to someone I met on a dating app?
 

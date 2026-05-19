@@ -156,7 +156,7 @@ Yes, measurably. Ads — especially video pre-rolls and animated banners — con
 
 ### Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-xbox-game-pass-2026/) on Android?
 
-Ad blocking is legal in most jurisdictions. Using an ad blocker is a personal choice about how your device handles network traffic. Some websites and apps show notices asking you to disable your blocker; you can choose to whitelist them individually if you want to support their content.
+Ad blocking is legal in most jurisdictions. Using an [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) is a personal choice about how your device handles network traffic. Some websites and apps show notices asking you to disable your blocker; you can choose to whitelist them individually if you want to support their content.
 
 ### Which Android ad blocker works on YouTube?
 

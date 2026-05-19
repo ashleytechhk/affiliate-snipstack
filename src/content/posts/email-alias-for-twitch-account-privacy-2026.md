@@ -18,7 +18,7 @@ This comparison covers the leading [email alias](https://snipstack.io/email-alia
 
 ## Quick Verdict
 
-Surfshark Alt-ID is the best [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/) tool for Twitch users who want real privacy, not just spam filtering. It generates a unique alias tied to an alternate identity, so your real name and email stay completely separate from your gaming accounts. Setup takes under two minutes, forwarding is reliable, and it pairs naturally with Surfshark's broader privacy suite. If you stream, moderate, or just play — protecting your inbox is worth the three minutes it takes to set this up.
+Surfshark Alt-ID is the best [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/) tool for Twitch users who want real privacy, not just spam filtering. It generates a unique alias tied to an alternate identity, so your real name and email stay completely separate from your gaming accounts. Setup takes under two minutes, forwarding is reliable, and it pairs naturally with Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/). If you stream, moderate, or just play — protecting your inbox is worth the three minutes it takes to set this up.
 
 ---
 

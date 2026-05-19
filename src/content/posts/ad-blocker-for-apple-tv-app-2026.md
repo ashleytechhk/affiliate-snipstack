@@ -28,7 +28,7 @@ Let's define terms, because "[ad blocker](https://snipstack.io/ad-blocker-extens
 
 The **Apple TV app** is Apple's streaming hub — available on iPhone, iPad, Android, Mac, and smart TVs. It aggregates content from Apple TV+ (Apple's own streaming service) and other channels you add, including free ad-supported content. When you watch free or ad-supported content in the app, you'll encounter pre-roll ads, mid-roll breaks, and banner overlays.
 
-An **ad blocker**, in the traditional sense, is software that intercepts ad requests and stops them from loading. The question is: which type of ad blocker can reach inside a native app?
+An **[ad blocker](https://snipstack.io/ad-blocker-firefox-2026/)**, in the traditional sense, is software that intercepts ad requests and stops them from loading. The question is: which type of ad blocker can reach inside a native app?
 
 ### Browser Extensions Cannot Block In-App Ads
 
@@ -91,7 +91,7 @@ For free ad-supported content delivered through third-party networks, CleanWeb's
 
 ---
 
-## How to Set Up an Ad Blocker for the Apple TV App on Mobile
+## How to Set Up an [Ad Blocker for](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) the Apple TV App on Mobile
 
 Getting CleanWeb running on your iPhone or Android phone takes about three minutes.
 
@@ -126,7 +126,7 @@ Once enabled, open the Apple TV app — the DNS filtering is active immediately 
 
 There are a few alternative approaches worth knowing about:
 
-### DNS-Only Services (NextDNS, AdGuard DNS)
+### DNS-Only Services (NextDNS, [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/))
 
 If you don't want a VPN at all, you can configure a private DNS profile on iOS (Settings → General → VPN & Device Management → DNS) or Android (Settings → Network → Private DNS) to use a filtering DNS service.
 

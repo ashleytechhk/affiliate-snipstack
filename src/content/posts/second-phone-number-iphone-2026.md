@@ -106,7 +106,7 @@ Once both SIMs are active, iOS will ask you to label them. Give your new line a 
 
 Go to **Settings → Mobile Service** and configure the following:
 - **Default Voice Line**: set to your primary number for regular calls
-- **iMessage and FaceTime**: confirm only your primary number is enabled for iMessage and FaceTime, unless you specifically want your second number linked there too
+- **iMessage and FaceTime**: confirm only your primary number is enabled for iMessage and FaceTime, unless you specifically want your [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) linked there too
 - **Allow Mobile Data Switching**: turn this off to prevent iOS from silently switching data lines
 
 ### Step 5: Make a Call or Send a Text from Your Dating Number

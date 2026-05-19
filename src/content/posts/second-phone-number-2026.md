@@ -172,7 +172,7 @@ It depends on the app. Surfshark Alt-Number, Hushed, Burner, and TextNow all sup
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my second phone number?**
 
-Once you cancel or delete a number, it becomes unreachable. Calls and texts sent to it will not be delivered, and you will not receive any notifications. This is the feature that makes second numbers so useful for dating: you can cut contact cleanly, without blocking or confrontation. [Alt-Number](/blog/surfshark?sub=second-phone-number-2026__faq) lets you do this instantly from the app.
+Once you cancel or delete a number, it becomes unreachable. Calls and texts sent to it will not be delivered, and you will not receive any notifications. This is the feature that makes [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/)s so useful for dating: you can cut contact cleanly, without blocking or confrontation. [Alt-Number](/blog/surfshark?sub=second-phone-number-2026__faq) lets you do this instantly from the app.
 
 **Is using a second phone number legal?**
 
@@ -184,7 +184,7 @@ No. A proper second phone number — as opposed to a short code or a text app us
 
 **How much does a second phone number cost?**
 
-Prices range from free (Google Voice, TextNow with ads) to around $3–8 per month for paid services. Hushed offers single-number plans starting under $2 per month when billed annually. Surfshark Alt-Number is priced in line with the rest of Surfshark's privacy suite, which makes it reasonable if you already use or plan to use their other tools.
+Prices range from free (Google Voice, TextNow with ads) to around $3–8 per month for paid services. Hushed offers single-number plans starting under $2 per month when billed annually. Surfshark Alt-Number is priced in line with the rest of Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which makes it reasonable if you already use or plan to use their other tools.
 
 ---
 

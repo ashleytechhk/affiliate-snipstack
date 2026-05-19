@@ -163,7 +163,7 @@ Yes. Using a virtual or secondary [phone number for](https://snipstack.io/phone-
 
 APK repositories have legitimate uses — archiving old app versions, distributing region-restricted apps, or allowing developers to share test builds. The problem is that these same sites also host tampered or malicious files, and there is no reliable way to tell which is which before you install. For sensitive apps like phone-number managers, the risk is disproportionately high.
 
-**Can the person I am texting tell it is a second number?**
+**Can the person I am texting tell it is a [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/)?**
 
 No. From their perspective, it is a standard mobile number. They see your messages arriving from that number, and if they look it up in a caller-ID app, it shows as a normal mobile line. There is no flag that says "virtual" or "alt" number.
 

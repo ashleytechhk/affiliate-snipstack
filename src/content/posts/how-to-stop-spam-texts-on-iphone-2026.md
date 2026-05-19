@@ -122,7 +122,7 @@ This one works differently. Alt-Number gives you a real mobile phone number — 
 
 **Ease of setup:** Download the Surfshark app, navigate to Alt-Number, pick your number and country. Under five minutes.
 
-**Free or paid:** Paid service, bundled with Surfshark's privacy suite.
+**Free or paid:** Paid service, bundled with Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).
 
 **Recall rate:** Irrelevant — spam texts sent to the alias never reach your real number in the first place. You are not filtering spam; you are preventing it from having a target.
 
