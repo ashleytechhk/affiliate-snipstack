@@ -139,7 +139,7 @@ Unless you find a heavily discounted McAfee deal covering multiple years upfront
 
 The Surfshark One bundle includes the full Surfshark VPN with unlimited data and access to 3,200+ servers across 100 countries. There is no data cap, unlike Norton's VPN on lower tiers. [Check current Surfshark One pricing here.](/blog/surfshark?sub=vs-antivirus-2026__faq)
 
-### Is Surfshark's antivirus as good as Norton's?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus as good as Norton's?
 
 Independent lab results show Surfshark's antivirus performing well for everyday threat categories — malware, ransomware, phishing-linked downloads. Norton's engine has a longer track record and marginally higher scores in some enterprise-grade test scenarios. For home users, the real-world difference is small. For maximum detection depth, Bitdefender remains the lab favourite.
 

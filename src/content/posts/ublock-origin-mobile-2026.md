@@ -64,7 +64,7 @@ The net result: uBlock Origin covers one browser on one platform. For everyone e
 
 ### 1. Surfshark CleanWeb — Best Overall for Mobile
 
-CleanWeb is Surfshark's ad and tracker blocking feature, included with every Surfshark subscription. It operates at the DNS level: when your phone tries to reach a known ad-serving domain, CleanWeb intercepts the request before anything loads.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s ad and tracker blocking feature, included with every Surfshark subscription. It operates at the DNS level: when your phone tries to reach a known ad-serving domain, CleanWeb intercepts the request before anything loads.
 
 **Why this matters for mobile:** It is not a browser plugin. It runs at the VPN/DNS layer, which means every app on your phone — browser, news app, games, podcasts — routes through it. If an ad network tries to phone home from any app, CleanWeb cuts it off at the source.
 

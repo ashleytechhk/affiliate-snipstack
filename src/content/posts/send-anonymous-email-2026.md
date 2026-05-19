@@ -177,7 +177,7 @@ Once you delete an alias, emails sent to it are rejected or bounce. Senders rece
 **Can I use multiple aliases across different devices?**
 Yes. Alt ID is account-based, not device-based. Any alias you create shows up in your Surfshark account across all devices you are logged into.
 
-**Is Surfshark Alt ID worth it compared to free [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) services?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt ID worth it compared to free [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) services?**
 Free [disposable email](https://snipstack.io/disposable-email-address-for-trials-2026/) services (like Temp Mail or Guerrilla Mail) give you an inbox that disappears after a set time and is public — anyone who knows the address can read your emails. Alt ID is private and forwards to your real inbox, meaning you do not miss confirmations, you control the alias lifespan, and your forwarded emails are not publicly accessible. For ongoing privacy rather than one-off throwaway use, Alt ID is the stronger option.
 
 > **[Start protecting your inbox with Surfshark Alt ID](/blog/surfshark?sub=send-anonymous-email-2026__faq)**

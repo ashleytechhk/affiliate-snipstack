@@ -81,7 +81,7 @@ This matters more than most tech reviews admit. If an app is confusing to instal
 
 **Total setup time:** 10–20 minutes. The permissions steps can be confusing because they send you into less-obvious parts of macOS settings without much hand-holding.
 
-### Setting Up Surfshark Antivirus on Mac
+### Setting Up [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) on Mac
 
 1. Sign up at Surfshark using the link below.
 2. Download the Surfshark app from the Mac App Store or directly from the site.

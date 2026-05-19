@@ -155,7 +155,7 @@ Yes. Your Alt-Number is a phone number — you can use it for Tinder, Hinge, Bum
 
 Messages sent to a cancelled number either bounce or go nowhere — there's no forwarding to your real number. The conversation history in your Alt-Number inbox is accessible until you clear it. Your real number is never involved and never exposed.
 
-**Is Surfshark Alt-Number available outside the US?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number available outside the US?**
 
 Yes. This is one of its main advantages over free alternatives like Google Voice (US only) or Burner (US and Canada only). [Surfshark Alt-Number](/blog/altnumber?sub=anonymous-phone-number-app-2026__faq) offers numbers from multiple countries, which matters for international daters and anyone who travels regularly.
 

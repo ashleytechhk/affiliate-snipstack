@@ -158,7 +158,7 @@ Gmail has a `+tag` workaround (e.g., `you+alias@gmail.com`) that routes tagged m
 
 It significantly reduces new spam for email addresses you haven't given out yet. Existing addresses already in data-broker lists will keep attracting spam regardless. The strategy works best as a forward-looking habit: use aliases for every new signup from today onwards and let the old noise gradually die off.
 
-### Is Surfshark Alt-ID free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-ID free?
 
 Alt-ID is included in the **Surfshark One** subscription. There is no standalone free tier, but Surfshark One frequently runs promotional pricing with substantial discounts. [Check the current offer here.](/blog/surfshark?sub=email-alias-gmail-2026__faq)
 

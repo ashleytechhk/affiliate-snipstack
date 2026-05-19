@@ -54,7 +54,7 @@ Using a single [second number for](https://snipstack.io/second-number-for-discor
 
 ---
 
-## What Happens When the Number Gets Out
+## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) the Number Gets Out
 
 Here is the practical timeline for someone whose real number is exposed through a dating app or job board:
 
@@ -136,7 +136,7 @@ Your Alt-Number is a real phone number. Recruiters calling the alias are calling
 
 Likely yes, if you have been using real numbers on dating apps or job boards for any length of time. The immediate step is to stop adding new exposure by switching to an alias going forward. For removing existing records, services like DeleteMe automate data broker opt-out requests — using Alt-Number reduces how quickly those records rebuild after removal.
 
-**Is a second number the same as a burner phone?**
+**Is a second number the same as a [burner phone](https://snipstack.io/burner-phone-number-app-ios-2026/)?**
 
 Conceptually related, practically different. A physical burner phone is cumbersome, expensive to maintain, and lacks the forwarding convenience of an alias service. A second number from Alt-Number lives in your existing phone, forwards seamlessly, and can be replaced digitally without buying new hardware. The use case is the same — protecting your real number — but the execution is far more practical for everyday use.
 

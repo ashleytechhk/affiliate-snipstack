@@ -65,7 +65,7 @@ Independent testing has also flagged Norton Secure VPN's speeds as inconsistent 
 
 ![Antivirus feature comparison for Surfshark One and Norton 360](/og/surfshark-one-vs-norton-360-comparison-2026-inline-1.png)
 
-### Surfshark Antivirus
+### [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)
 
 Surfshark's antivirus is newer to the space, which works in its favor: it was built without legacy code dragging it down. Real-time protection, scheduled scans, and webcam protection are all included. In independent lab tests it has earned passing marks for detection rates, and it runs notably lighter on system resources than Norton.
 
@@ -149,7 +149,7 @@ For most home users, yes. Surfshark One covers the core bases: antivirus, VPN, b
 **How many devices does Surfshark One cover?**
 Unlimited devices. One subscription covers every device in your household — phones, laptops, tablets, desktops — across Windows, Mac, iOS, Android, and Linux.
 
-**Is Surfshark One cheaper than Norton 360?**
+**[Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) cheaper than Norton 360?**
 At first-year pricing they are comparable. Over two or more years, Surfshark One is typically cheaper because it does not apply the aggressive renewal price increases Norton is known for. The unlimited device coverage also eliminates any per-device cost scaling.
 
 **Does Surfshark collect my data?**

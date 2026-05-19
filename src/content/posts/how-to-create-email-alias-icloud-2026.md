@@ -198,7 +198,7 @@ On Apple devices, yes. If an email arrives via your alias, you can reply from th
 
 Alias forwarding stops when iCloud+ lapses. Emails sent to your aliases during a lapsed period are not delivered and are not queued for later — they are dropped. Before cancelling, note your active aliases and update those accounts with a new address.
 
-### Is Surfshark Alt-ID better than iCloud Hide My Email?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-ID better than iCloud Hide My Email?
 
 It depends on your setup. If you use only Apple devices and have iCloud+, Hide My Email is a clean built-in solution. If you use Android, Windows, or Chrome alongside Apple devices, Alt-ID's cross-platform support makes it more practical. Alt-ID also generates alternative personal details (name, date of birth) that Hide My Email does not. [See the current Alt-ID offer here.](/blog/altid?sub=how-to-create-email-alias-icloud-2026__faq)
 

@@ -138,7 +138,7 @@ Open the Surfshark app on your desktop. You will see two main sections: VPN and 
 
 That is everything. Both protections are now active. You do not need to do anything else day-to-day.
 
-### Does Surfshark Antivirus Conflict With Windows Defender?
+### Does [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) Conflict With Windows Defender?
 
 No. Windows will automatically manage this. When Surfshark Antivirus is active, Windows Security steps back and lets Surfshark handle real-time scanning. Your computer will not slow down from running two programs — Windows coordinates this automatically. You can verify this by opening Windows Security and seeing that it now shows Surfshark as your active antivirus.
 

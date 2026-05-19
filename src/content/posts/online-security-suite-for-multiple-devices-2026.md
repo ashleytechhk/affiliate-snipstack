@@ -168,7 +168,7 @@ This whole verification takes under 10 minutes for a household of four or five d
 
 ## Troubleshooting
 
-**"Surfshark Antivirus is flagging a file I know is safe."**
+**"[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) is flagging a file I know is safe."**
 This is called a false positive. Open the Antivirus section, find the flagged file in your scan results, and select **Mark as trusted** or **Exclude from scans.** If you're unsure whether a file is genuinely safe, search the filename alongside "safe or malware" before excluding it.
 
 **"The VPN is slowing my internet connection."**
@@ -194,7 +194,7 @@ No news here is genuinely good news — it means your email addresses have not a
 
 Unlimited. One subscription covers every device you own — Windows, Mac, iOS, Android, and Linux — simultaneously. There are no per-device tiers or household caps. This is one of the clearest differences from legacy suites that charge by the device count.
 
-### Is Surfshark One Bundle worth it if I only care about antivirus?
+### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Bundle worth it if I only care about antivirus?
 
 Yes, because you're getting a capable VPN and breach monitoring at no extra cost compared to standalone antivirus pricing. Even if you only ever use the antivirus, the bundle price is competitive with antivirus-only products from legacy vendors. The VPN and Alert components are there when you need them.
 

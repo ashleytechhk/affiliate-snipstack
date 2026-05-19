@@ -138,7 +138,7 @@ Most scam emails fail at step 2. Legitimate companies maintain proper email auth
 
 No. Gmail's filters catch a large percentage of obvious spam and phishing, but targeted scams — especially those that impersonate known contacts or use newly registered domains — frequently bypass automated detection. Layering Gmail's protection with dedicated checkers significantly raises your catch rate.
 
-### Is Surfshark's email scam checker really free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s email scam checker really free?
 
 Yes, the core scam-check functionality is available on a free tier. The ongoing breach monitoring (Surfshark Alert) requires a subscription, though a trial period lets you test it at no cost. [See current free trial details here.](/blog/surfshark?sub=free-email-scammer-check-gmail-2026__faq)
 

@@ -50,7 +50,7 @@ Prices are approximate and may vary by region. Check each provider for current o
 
 ## Surfshark Alt-ID: Detailed Look
 
-Alt-ID is Surfshark's answer to identity exposure. It generates a complete alias — email address plus an optional alternate name — that you use wherever you would rather not hand out your real details. Pinterest signups are exactly the use case it is designed for.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s answer to identity exposure. It generates a complete alias — email address plus an optional alternate name — that you use wherever you would rather not hand out your real details. Pinterest signups are exactly the use case it is designed for.
 
 ![How Alt-ID works: step-by-step alias creation flow](/og/email-alias-for-pinterest-signup-2026-inline-1.png)
 

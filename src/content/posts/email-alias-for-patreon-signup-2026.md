@@ -63,7 +63,7 @@ Once you understand these three factors, using your real address starts to look 
 
 ### Alt-ID — Best Overall for Patreon
 
-Alt-ID is Surfshark's built-in [email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/) tool. It generates a randomized alias (e.g., `birchwood.frost@altid.net`) that forwards all incoming mail to your real inbox. You manage everything in the Surfshark dashboard or browser extension.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in [email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/) tool. It generates a randomized alias (e.g., `birchwood.frost@altid.net`) that forwards all incoming mail to your real inbox. You manage everything in the Surfshark dashboard or browser extension.
 
 **What makes it work for Patreon:**
 - One alias for your Patreon account. All creator messages, billing receipts, and platform emails forward normally.

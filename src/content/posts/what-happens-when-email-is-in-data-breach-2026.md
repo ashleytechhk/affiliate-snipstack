@@ -206,7 +206,7 @@ Yes. You cannot undo the breach, but you can stop the damage from growing. By us
 **[How does A](https://snipstack.io/how-does-a-vpn-protect-you-2026/)lt-ID compare to Gmail's plus-addressing trick?**
 Gmail allows you to append tags to your address (e.g., `yourname+shopping@gmail.com`) to track which sites share your data. However, the base address (`yourname@gmail.com`) is trivially recoverable from any tagged version — spammers strip the plus suffix automatically. Alt-ID aliases use a completely different domain and address, so there is no way to reverse-engineer your real address from them.
 
-**Is Surfshark Alt-ID available outside the US?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-ID available outside the US?**
 Yes. Alt-ID works globally. The alias domain (`surfshark.id`) is accessible from any location, and forwarding to your real inbox works regardless of which email provider you use.
 
 ---

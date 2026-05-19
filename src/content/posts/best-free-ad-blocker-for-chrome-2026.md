@@ -52,7 +52,7 @@ The cleanest mobile experience in 2026 comes from approach two: a network-level 
 
 ![Surfshark CleanWeb setup walkthrough on mobile Chrome](/og/best-free-ad-blocker-for-chrome-2026-inline-1.png)
 
-CleanWeb is Surfshark's built-in content filtering layer, included with every Surfshark plan. When you connect to the VPN, CleanWeb automatically blocks:
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in content filtering layer, included with every Surfshark plan. When you connect to the VPN, CleanWeb automatically blocks:
 
 - Display and video ads
 - Third-party trackers and analytics scripts

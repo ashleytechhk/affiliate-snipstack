@@ -38,7 +38,7 @@ It is not a replacement for a browser extension if you want cosmetic filtering (
 
 *The CleanWeb test setup — one subscription enabled across laptop, phone, tablet, and smart TV, all delivering ad-free pages at the same time.*
 
-## What Is Surfshark CleanWeb?
+## What [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) CleanWeb?
 
 CleanWeb is Surfshark's DNS-level ad and tracker blocking feature. It is not a browser extension — it is a setting inside the Surfshark VPN application that, when enabled, routes your DNS queries through Surfshark's servers and blocks requests to domains on their blocklist.
 

@@ -101,7 +101,7 @@ The volume compounds if you have multiple memberships. If you have Bonvoy, Hilto
 
 ## Method 5 — Surfshark Alt-ID (Recommended)
 
-[Alt-ID](/blog/altid?sub=hide-email-from-hotel-loyalty-programs-2026__mid) is Surfshark's masked email service, included with all Surfshark subscriptions at no extra charge.
+[Alt-ID](/blog/altid?sub=hide-email-from-hotel-loyalty-programs-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email service, included with all Surfshark subscriptions at no extra charge.
 
 **How it works for hotel programs:**
 

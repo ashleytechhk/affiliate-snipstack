@@ -61,7 +61,7 @@ The result: ad blocking that actually works on a smartphone, across every app, s
 
 ## Surfshark CleanWeb: Mobile Ad Blocking That Actually Covers Your Phone
 
-CleanWeb is Surfshark's DNS-level ad and tracker blocking feature. On mobile, it performs better than most competitors for one key reason: **iOS support is full-featured**, not a limited "Lite" version.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s DNS-level ad and tracker blocking feature. On mobile, it performs better than most competitors for one key reason: **iOS support is full-featured**, not a limited "Lite" version.
 
 ### What CleanWeb Blocks on Mobile
 

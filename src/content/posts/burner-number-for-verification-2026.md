@@ -54,7 +54,7 @@ The setup takes under five minutes: download Surfshark, subscribe to [Surfshark 
 
 Where Alt-Number pulls ahead economically: it is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) alongside a VPN, an ad and tracker blocker, and data breach monitoring. If you are going to pay for a VPN anyway — and most privacy-aware users do — the marginal cost of adding a real [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) is close to zero. Standalone number apps at comparable quality cost roughly the same per month just for the number.
 
-Numbers persist with your subscription and do not carry inactivity penalties. Support is Surfshark's standard support — live chat available, response time measured in hours rather than days.
+Numbers persist with your subscription and do not carry inactivity penalties. Support [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s standard support — live chat available, response time measured in hours rather than days.
 
 **Best for:** Anyone who needs verification to work reliably the first time, on strict platforms, without carrying an extra SIM.
 

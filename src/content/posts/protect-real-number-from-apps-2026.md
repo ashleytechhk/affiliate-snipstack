@@ -70,7 +70,7 @@ For online dating specifically, three things stand out:
 
 **Bundled value.** Alt-Number is included inside [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), which also covers a VPN, a tracker and [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/), and data breach monitoring. If you are going to pay for any privacy tools — and most people dating online should consider it — the incremental cost of a carrier number on top is close to zero.
 
-The number does not expire due to inactivity. It persists with your subscription. Support is Surfshark's standard support, which is live chat with response times measured in hours.
+The number does not expire due to inactivity. It persists with your subscription. Support [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s standard support, which is live chat with response times measured in hours.
 
 **Best for:** Online daters who want a number that passes dating app verification reliably, want full disposability when a connection ends, and want the number to be managed inside a broader privacy setup rather than as a standalone tool.
 

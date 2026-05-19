@@ -60,7 +60,7 @@ A good antivirus program watches for all of these threats, around the clock, aut
 
 ![Senior-friendly antivirus comparison showing Surfshark Antivirus interface with large green shield, clear status message, and three-step setup guide](/og/best-antivirus-software-2026-inline-1.png)
 
-If you want the answer before reading further: **Surfshark Antivirus** is our pick for seniors in 2026.
+If you want the answer before reading further: **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** is our pick for seniors in 2026.
 
 Here is why it stands out for people who are not tech experts:
 

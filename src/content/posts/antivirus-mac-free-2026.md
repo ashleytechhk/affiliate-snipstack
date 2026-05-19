@@ -213,7 +213,7 @@ Malwarebytes Free and Bitdefender Virus Scanner have very low performance impact
 
 Once a month is enough for most seniors using the XProtect plus Malwarebytes setup. If you download files frequently, click links in emails often, or have recently noticed odd behavior from your Mac (slower than usual, unexpected pop-ups, unfamiliar programs in your Dock), run a scan right away.
 
-**Is Surfshark Antivirus really for non-technical people?**
+**Is [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) really for non-technical people?**
 
 Yes. It was designed with simplicity as a priority — one dashboard, large buttons, alerts in plain English. If you have never installed security software before, [Surfshark Antivirus](/blog/antivirus?sub=antivirus-mac-free-2026__faq) walks you through the setup step by step, and their support team is available around the clock if anything is unclear.
 

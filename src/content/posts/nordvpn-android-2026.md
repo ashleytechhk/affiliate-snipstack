@@ -54,7 +54,7 @@ Surfshark's Android app covers the same ground with a slightly different visual 
 
 ![Surfshark Android app walkthrough — region switching flow](/og/nordvpn-android-2026-inline-1.png)
 
-The "Bypasser" feature is Surfshark's split tunneling equivalent. It works well, though the name causes confusion for new users. Protocol options include WireGuard, IKEv2, and OpenVPN. WireGuard is the default and recommended choice for Android.
+The "Bypasser" feature [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s split tunneling equivalent. It works well, though the name causes confusion for new users. Protocol options include WireGuard, IKEv2, and OpenVPN. WireGuard is the default and recommended choice for Android.
 
 One practical advantage: unlimited simultaneous devices means you can authenticate the same Surfshark account on every Android phone, tablet, and TV stick in your household — no extra cost.
 

@@ -153,7 +153,7 @@ Currently, Alt-Number generates US numbers. The service works globally as long a
 **What happens if I disable my Alt-Number?**
 Anyone who calls or texts that number after you disable it will not reach you. From their perspective, the number is unavailable. Your real number is unaffected — the two are completely separate.
 
-**Is Surfshark Alt-Number free?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number free?**
 Alt-Number is included with Surfshark subscription plans at no additional cost. It is part of the Alternative ID feature set alongside the Alt-ID [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/). **[See current pricing and plans](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__faq)**.
 
 **Can dating apps detect that I am using a virtual number?**

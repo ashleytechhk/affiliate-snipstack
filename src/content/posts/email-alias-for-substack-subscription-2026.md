@@ -61,7 +61,7 @@ Using a dedicated alias per newsletter (or at minimum one alias for all Substack
 
 ![Inline detail: Alt-ID browser extension auto-filling a Substack subscription form with a masked alias](/og/email-alias-for-substack-subscription-2026-inline-1.png)
 
-Alt-ID is Surfshark's masked email and alternative identity feature. It creates a forwarding alias — something like `k9r2mv4x@surfshark.id` — that delivers directly to your existing inbox (Gmail, Outlook, Apple Mail, anything). You never check a separate inbox and you never change your email provider.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email and alternative identity feature. It creates a forwarding alias — something like `k9r2mv4x@surfshark.id` — that delivers directly to your existing inbox (Gmail, Outlook, Apple Mail, anything). You never check a separate inbox and you never change your email provider.
 
 **What makes it the right fit for Substack readers:**
 

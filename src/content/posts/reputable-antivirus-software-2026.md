@@ -106,7 +106,7 @@ It is less compelling for users who need AV-TEST-rated legacy reliability above 
 
 ## Frequently Asked Questions
 
-### Is Surfshark One a reputable antivirus?
+### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) a reputable antivirus?
 
 Yes. Surfshark One's antivirus component has been independently tested by AV-TEST and has achieved passing scores on protection, performance, and usability categories. Surfshark as a company has undergone independent no-log audits for its VPN and publishes transparency reports. For users switching from Norton or McAfee, it is a credible, well-supported alternative rather than an unknown entity. [Check current Surfshark One pricing here.](/blog/surfshark?sub=reputable-antivirus-software-2026__faq)
 

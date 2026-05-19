@@ -111,7 +111,7 @@ This is an honest limitation. DNS-level blocking doesn't eliminate Peacock video
 
 ## Surfshark CleanWeb: DNS Blocking That Works on Mobile
 
-CleanWeb is Surfshark's built-in DNS-level ad and tracker blocking feature. It's not a separate purchase — it's included with any Surfshark subscription. Enable it once in the app settings, and it covers every app and browser on your device simultaneously.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in DNS-level ad and tracker blocking feature. It's not a separate purchase — it's included with any Surfshark subscription. Enable it once in the app settings, and it covers every app and browser on your device simultaneously.
 
 For Peacock specifically, CleanWeb blocks the ad infrastructure layer: trackers, measurement endpoints, and ad exchange domains that load alongside the video stream. The SSAI video ads themselves are outside its scope — that's a structural limitation of DNS blocking, not a CleanWeb limitation.
 

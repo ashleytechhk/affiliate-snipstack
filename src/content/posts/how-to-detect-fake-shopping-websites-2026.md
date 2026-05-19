@@ -134,7 +134,7 @@ Yes. SSL certificates are free and take minutes to obtain. The padlock means the
 
 Contact your bank or card issuer immediately and request a chargeback. If you paid by credit card, consumer protection laws in most countries give you strong recourse. Report the site to your national cybercrime agency and to Google's Safe Browsing report tool so it gets flagged for others.
 
-### Is Surfshark Scamcheck free to use?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Scamcheck free to use?
 
 Basic link checking is available free. [Try it here](/blog/scamcheck?sub=how-to-detect-fake-shopping-websites-2026__faq) — no account required for single-link scans.
 

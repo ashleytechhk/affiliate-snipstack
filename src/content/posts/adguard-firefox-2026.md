@@ -38,7 +38,7 @@ Understanding that split is the starting point for picking the right approach be
 
 **The option that makes the "Firefox vs. Safari vs. every other app" problem irrelevant.**
 
-CleanWeb is Surfshark's built-in ad and tracker blocking feature, active at the VPN-tunnel level. Because it filters DNS requests and known ad-network traffic before it reaches any app on your phone, it doesn't care which browser you're in — Firefox, Safari, Chrome, or anything else — and it covers in-app ads too. Autoplay video ads in news apps, banner spam in free games, tracking pixels in email clients: all handled with a single toggle.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and tracker blocking feature, active at the VPN-tunnel level. Because it filters DNS requests and known ad-network traffic before it reaches any app on your phone, it doesn't care which browser you're in — Firefox, Safari, Chrome, or anything else — and it covers in-app ads too. Autoplay video ads in news apps, banner spam in free games, tracking pixels in email clients: all handled with a single toggle.
 
 Setup is minimal. Download the Surfshark app, go to Settings, flip CleanWeb on, and connect to any server. There are no filter lists to manage, no certificates to trust, no browser-specific configuration. CleanWeb also blocks malware distribution URLs and known phishing domains, which puts it a step above a pure [ad blocker for](https://snipstack.io/ad-blocker-for-android-2026/) users who travel or regularly use public Wi-Fi.
 

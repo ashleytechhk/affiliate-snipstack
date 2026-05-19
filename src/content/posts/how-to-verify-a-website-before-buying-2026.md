@@ -190,7 +190,7 @@ Contact your bank or card issuer immediately and explain that you believe the tr
 
 Yes. Modern scam shops copy legitimate retailers almost perfectly — same logo, similar domain, same product descriptions. That is why URL inspection alone is not enough. A domain-age check and a quick scam database lookup add the layers that visual inspection misses.
 
-**Q: Is Surfshark's Scam Detector free to use?**
+**Q: [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Scam Detector free to use?**
 
 There is a free tier that covers essential lookups. For ongoing monitoring — so you are alerted when your own email or data appears in a new breach — a paid plan adds automatic background scanning. [See the current options here.](/blog/scamcheck?sub=how-to-verify-a-website-before-buying-2026__faq)
 

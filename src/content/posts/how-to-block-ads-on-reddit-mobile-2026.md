@@ -93,7 +93,7 @@ Several third-party Reddit clients have no ad layer at all, because they never i
 
 **[Block Reddit ads across both the app and browser with Surfshark CleanWeb](/blog/adblock?sub=how-to-block-ads-on-reddit-mobile-2026__mid)**
 
-This is the method that covers everything. Surfshark CleanWeb is Surfshark's built-in ad and tracker blocker, active whenever the VPN is connected. Because it operates at the VPN layer, it intercepts traffic from every app on your phone — the Reddit app, your browser, games, everything — before ads load.
+This is the method that covers everything. Surfshark CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and tracker blocker, active whenever the VPN is connected. Because it operates at the VPN layer, it intercepts traffic from every app on your phone — the Reddit app, your browser, games, everything — before ads load.
 
 **Setup:**
 1. Download the Surfshark app from the Play Store (Android) or App Store (iOS).

@@ -197,7 +197,7 @@ Yes. Unlike Norton (5 devices) or McAfee (capped tiers), Surfshark One has no de
 
 **Will the antivirus replace [Windows Defender](https://snipstack.io/windows-defender-download-2026/)?**
 
-Surfshark Antivirus runs alongside Windows Defender by default. You do not need to disable Defender. The two coexist without conflict and the combination adds real-time cloud-backed scanning on top of Defender's local engine.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) runs alongside Windows Defender by default. You do not need to disable Defender. The two coexist without conflict and the combination adds real-time cloud-backed scanning on top of Defender's local engine.
 
 **Can I use it for streaming if I work from home?**
 

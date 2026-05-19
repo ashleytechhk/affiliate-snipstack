@@ -77,7 +77,7 @@ This process takes about 15 minutes. You do not need any technical knowledge —
 
 ### Step 1 — Download a Dedicated Adware Removal Tool
 
-1. Click the Surfshark Antivirus link above or use [this direct link](/blog/antivirus?sub=adware-removal-tool-for-mac-2026__mid).
+1. Click the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) link above or use [this direct link](/blog/antivirus?sub=adware-removal-tool-for-mac-2026__mid).
 2. Click **Get Started** on the page that opens.
 3. Create a free account using your email address.
 4. The website will detect that you have a Mac and offer the correct download automatically.

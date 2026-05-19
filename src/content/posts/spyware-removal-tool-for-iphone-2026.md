@@ -138,7 +138,7 @@ A good tool will:
 - Alert you if your email address or [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) appears in a data breach
 - Encrypt your internet connection on public Wi-Fi networks
 
-Surfshark Antivirus includes all of these features in one app, with a straightforward interface that works for people who have never installed a security tool before.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) includes all of these features in one app, with a straightforward interface that works for people who have never installed a security tool before.
 
 ---
 

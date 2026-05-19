@@ -56,7 +56,7 @@ The result: 50+ spam emails a day from a single property search, many from sende
 
 ### Surfshark Alt-ID
 
-Alt-ID is Surfshark's dedicated [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) tool, bundled with a Surfshark subscription. You generate as many aliases as you need, each forwarding to your real inbox. Replies go out from the alias address, so agents and portals never see your actual email at any point in the conversation.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s dedicated [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) tool, bundled with a Surfshark subscription. You generate as many aliases as you need, each forwarding to your real inbox. Replies go out from the alias address, so agents and portals never see your actual email at any point in the conversation.
 
 **What makes it right for real estate:**
 
@@ -97,7 +97,7 @@ Built into iCloud+, Hide My Email generates random Apple-managed aliases that fo
 
 ### DuckDuckGo Email Protection
 
-DuckDuckGo's free email protection service gives you a `@duck.com` forwarding address and strips email trackers before delivery. It is the simplest tool on this list and the only fully free option.
+DuckDuckGo's [free email](https://snipstack.io/free-email-alias-2026/) protection service gives you a `@duck.com` forwarding address and strips email trackers before delivery. It is the simplest tool on this list and the only fully free option.
 
 **What works:** No account required beyond the DuckDuckGo browser or app. Tracker stripping is a genuinely useful bonus — real estate marketing emails are loaded with tracking pixels. Free forever.
 
@@ -175,7 +175,7 @@ Not mandatory, but it makes leaker identification precise. If you use one `agent
 
 **Is an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) the same as a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/)?**
 
-No. A disposable email expires quickly and does not forward to your real inbox. An alias is persistent, forwards everything, supports replies, and can be deleted on demand. For real estate — where you need ongoing communication over weeks or months — you need a persistent alias, not a disposable.
+No. A [disposable email](https://snipstack.io/disposable-email-address-for-trials-2026/) expires quickly and does not forward to your real inbox. An alias is persistent, forwards everything, supports replies, and can be deleted on demand. For real estate — where you need ongoing communication over weeks or months — you need a persistent alias, not a disposable.
 
 **What if I am already drowning in real estate spam on my current address?**
 

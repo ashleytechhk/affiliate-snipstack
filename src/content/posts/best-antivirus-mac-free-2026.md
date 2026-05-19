@@ -61,7 +61,7 @@ Apple's tools protect you going forward, but what about threats already sitting 
 
 **Recommended free tool: Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/) (free trial)**
 
-Surfshark Antivirus is designed to be simple. The interface is large, clear, and does not overwhelm you with technical warnings.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) is designed to be simple. The interface is large, clear, and does not overwhelm you with technical warnings.
 
 1. Go to [Surfshark Antivirus — free trial](/blog/surfshark?sub=best-antivirus-mac-free-2026__mid).
 2. Click the green **Get Started** button.

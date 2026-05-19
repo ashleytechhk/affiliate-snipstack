@@ -14,7 +14,7 @@ This guide is written for anyone over 60 who wants a straight answer: what is [a
 
 ## Quick Verdict
 
-Yes, you need antivirus on your Windows computer in 2026. Windows comes with a basic built-in shield called [Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/), but it misses many modern tricks that scammers use — especially [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/)s, suspicious links, and ransomware (software that locks your files and demands money). For a straightforward, affordable upgrade, **Surfshark Antivirus** is the pick for seniors. It runs quietly in the background, updates itself, and covers unlimited devices without confusing menus or constant pop-ups.
+Yes, you need antivirus on your Windows computer in 2026. Windows comes with a basic built-in shield called [Microsoft Defender](https://snipstack.io/windows-defender-vs-paid-antivirus-seniors-2026/), but it misses many modern tricks that scammers use — especially [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/)s, suspicious links, and ransomware (software that locks your files and demands money). For a straightforward, affordable upgrade, **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** is the pick for seniors. It runs quietly in the background, updates itself, and covers unlimited devices without confusing menus or constant pop-ups.
 
 **[Get Surfshark Antivirus — set up in minutes](/blog/antivirus?sub=antivirus-windows-2026__above-fold)**
 

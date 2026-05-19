@@ -58,7 +58,7 @@ In all three cases, the practical answer involves moving up the stack to where y
 
 DNS stands for Domain Name System — it is the address book the internet uses to translate domain names (like `ads.doubleclick.net`) into IP addresses. Every time a webpage, app, or device tries to load a resource, it fires a DNS lookup first.
 
-DNS-level ad blocking works by intercepting those lookups. When your device asks "what's the IP address for `ads.doubleclick.net`?", a DNS ad blocker simply returns nothing — the device never connects to the ad server. No connection means no ad.
+DNS-level ad blocking works by intercepting those lookups. When your device asks "what's the IP address for `ads.doubleclick.net`?", a DNS [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) simply returns nothing — the device never connects to the ad server. No connection means no ad.
 
 **Setting custom DNS on Nintendo Switch:**
 
@@ -75,7 +75,7 @@ Here is how to set it up:
 
 Once set, every DNS lookup from your Switch — including from the browser and from the Switch's own services — goes through the filtering DNS server. Ads on known ad-serving domains stop loading.
 
-> **Use Surfshark CleanWeb as your DNS ad blocker** — it covers the Switch via DNS settings and your phone natively through the app.
+> **Use Surfshark CleanWeb as your DNS [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)** — it covers the Switch via DNS settings and your phone natively through the app.
 > [Get Surfshark CleanWeb](/blog/adblock?sub=ad-blocker-for-nintendo-switch-browser-2026__mid)
 
 ---
@@ -112,7 +112,7 @@ CleanWeb is not a browser extension. It operates at the DNS layer — the same l
 
 **The mobile app experience:**
 
-On Android and iOS, CleanWeb works through the Surfshark app with a single toggle. When enabled, it blocks ads across all browsers (Chrome, Safari, Firefox) and within apps — including the YouTube app, which no browser extension can reach. This is the differentiator for mobile users: extension-based ad blockers are locked inside the browser, while CleanWeb's DNS blocking covers the entire device.
+On Android and iOS, CleanWeb works through the Surfshark app with a single toggle. When enabled, it blocks ads across all browsers (Chrome, Safari, Firefox) and within apps — including the YouTube app, which no browser extension can reach. This is the differentiator for mobile users: extension-based [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s are locked inside the browser, while CleanWeb's DNS blocking covers the entire device.
 
 For a full breakdown of CleanWeb's performance across browsers, apps, and devices, see the [complete Surfshark CleanWeb review](/surfshark-cleanweb-review-2026/).
 

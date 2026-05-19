@@ -143,7 +143,7 @@ The hardest part is step four. App Store subscriptions renew silently, and many 
 
 ## FAQ
 
-**Is Surfshark One Bundle available on iPhone?**
+**[Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Bundle available on iPhone?**
 Yes. The Surfshark iOS app is available on the App Store and covers VPN, CleanWeb ad and tracker blocking, and breach monitoring. The Surfshark Search feature is accessible via browser. One subscription covers your iPhone, iPad, Mac, Android, Windows, and any other devices in your household with no per-device limit.
 
 **Does iPhone need [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) in 2026?**

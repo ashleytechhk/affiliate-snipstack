@@ -176,7 +176,7 @@ It depends on the channel. Your email app improves its filters immediately. Goog
 
 ### Do I need to create any accounts to report phishing?
 
-No. Gmail, Outlook, and Apple Mail have built-in report buttons that require no separate account. The APWG accepts email forwards without registration. The Google Safe Browsing form requires no login. The FTC form asks for basic information but not an account. The only channel in this guide that involves an account is Surfshark Scamcheck — and that is used for verification before you report, not for the report itself.
+No. Gmail, Outlook, and Apple Mail have built-in report buttons that require no separate account. The APWG accepts email forwards without registration. The Google Safe Browsing form requires no login. The FTC form asks for basic information but not an account. The only channel in this guide that involves an account [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Scamcheck — and that is used for verification before you report, not for the report itself.
 
 ### I already clicked the link. What should I do?
 

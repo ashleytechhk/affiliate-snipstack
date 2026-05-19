@@ -83,7 +83,7 @@ A stalkerware detector is a type of security software that scans every app and f
 
 Good security tools do this automatically, without you having to know anything about technology. You tap "Scan," wait a few minutes, and read the results in plain language.
 
-Surfshark Antivirus includes a dedicated stalkerware detection layer as part of its Android [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/). It checks for:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) includes a dedicated stalkerware detection layer as part of its Android [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/). It checks for:
 
 - Apps that hide their icons from the home screen
 - Software that requests more permissions than it needs (such as a calculator app asking to read your contacts)

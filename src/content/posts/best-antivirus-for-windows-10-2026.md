@@ -43,7 +43,7 @@ That is all. You do not need to be tech-savvy. This guide walks you through ever
 
 ---
 
-## Step-by-Step: How to Install Surfshark Antivirus on Windows 10
+## Step-by-Step: How to Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) on Windows 10
 
 ### Step 1 — Go to the Download Page
 

@@ -59,7 +59,7 @@ Not every antivirus program is right for every person. Here is what to look for 
 - **Customer support** — Phone or live chat support matters if something goes wrong
 - **Light on resources** — Should not make your computer feel sluggish
 
-Surfshark Antivirus checks every one of these boxes. It was built with simplicity in mind, and it runs quietly without demanding your attention.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) checks every one of these boxes. It was built with simplicity in mind, and it runs quietly without demanding your attention.
 
 ---
 

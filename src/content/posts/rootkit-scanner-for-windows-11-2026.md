@@ -18,7 +18,7 @@ This is happening to seniors across the country right now. And the terrifying pa
 
 ## Quick Verdict
 
-If you are over 60 and using Windows 11, you need more than a basic antivirus in 2026. **Surfshark Antivirus** includes deep rootkit scanning technology that detects hidden threats ordinary security tools miss entirely. It installs in under five minutes, runs quietly in the background without slowing your computer, and requires no technical knowledge to use. For seniors who want complete protection without complexity, it is the most practical choice available today.
+If you are over 60 and using Windows 11, you need more than a basic antivirus in 2026. **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** includes deep rootkit scanning technology that detects hidden threats ordinary security tools miss entirely. It installs in under five minutes, runs quietly in the background without slowing your computer, and requires no technical knowledge to use. For seniors who want complete protection without complexity, it is the most practical choice available today.
 
 ---
 

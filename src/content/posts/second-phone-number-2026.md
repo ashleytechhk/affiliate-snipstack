@@ -38,7 +38,7 @@ Every option on this list was assessed against five criteria that actually matte
 
 **The best overall pick for serious privacy.**
 
-Alt-Number is Surfshark's dedicated [second phone number](https://snipstack.io/second-phone-number-apk-2026/) service, designed from the ground up for people who care about where their personal data ends up. You get a real phone number — capable of sending and receiving SMS and calls — that routes through the app and never exposes your real digits to the other person.
+Alt-Number [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s dedicated [second phone number](https://snipstack.io/second-phone-number-apk-2026/) service, designed from the ground up for people who care about where their personal data ends up. You get a real phone number — capable of sending and receiving SMS and calls — that routes through the app and never exposes your real digits to the other person.
 
 What separates Alt-Number from most competitors is the company behind it. Surfshark has a clean, public no-logs privacy policy and does not run an ad-based business model. That means your call logs, message history, and contact patterns are not being packaged and sold to data brokers. For online daters, that distinction matters more than most people realize.
 
@@ -166,7 +166,7 @@ It costs money, but so does the time and stress of dealing with harassment or da
 
 Most dating apps verify your number via SMS during signup. [Second phone number](https://snipstack.io/second-phone-number-for-verification-2026/) services that provide real phone numbers — like Alt-Number, Hushed, and Burner — work reliably for this. Pure VOIP numbers can occasionally be flagged, but reputable second-number services use real carrier numbers that pass verification without issue.
 
-**Can I use a second phone number to call and text, or just text?**
+**Can I use a [second phone number](https://snipstack.io/second-phone-number-for-side-hustle-2026/) to call and text, or just text?**
 
 It depends on the app. Surfshark Alt-Number, Hushed, Burner, and TextNow all support both calls and SMS. Google Voice supports both as well. Some budget options are SMS-only, so check the feature list before signing up.
 

@@ -191,7 +191,7 @@ Google's Manifest V3 transition, completed in late 2025, deprecated the `webRequ
 
 Chrome for Android and iOS does not support browser extensions, so standard [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) extensions won't work. Your options are: switch to Brave (which has native blocking), use Firefox for Android (which supports uBlock Origin), or use a VPN-layer blocker like Surfshark CleanWeb that works outside the browser. [CleanWeb covers mobile Chrome and every other app on your phone.](/blog/adblock?sub=block-ads-chrome-2026__faq)
 
-### Is Surfshark CleanWeb worth the cost just for ad blocking?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) CleanWeb worth the cost just for ad blocking?
 
 If ad blocking on desktop Chrome is your only goal, the free AdGuard extension is probably sufficient. CleanWeb becomes worth it when: you also want ad blocking on mobile, you use multiple devices, you already want a VPN for privacy or streaming, or you want malware and phishing domain blocking in addition to ads. The bundled value proposition is strongest for multi-device users who were already considering a VPN.
 

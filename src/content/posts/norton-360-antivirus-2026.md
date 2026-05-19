@@ -145,7 +145,7 @@ The whole process takes under 30 minutes. There's no protection gap during a cle
 
 For new users taking advantage of an introductory offer, Norton 360 is solid [antivirus software](https://snipstack.io/antivirus-software-2026/) with a proven track record. The problem is the renewal pricing, which climbs steeply after year one. If you're past your first year and researching the current price, you've likely already found a reason to look elsewhere. Alternatives like [Surfshark One Bundle](/blog/surfshark?sub=norton-360-antivirus-2026__faq) offer comparable malware protection with better VPN quality and more consistent renewal pricing.
 
-### Does Surfshark antivirus actually work?
+### Does [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) actually work?
 
 Yes. Surfshark's antivirus is powered by a proven detection engine and has performed well in independent tests, catching the vast majority of known malware, ransomware, and phishing threats. It's newer to the market than Norton, but detection rate performance has been competitive since launch.
 

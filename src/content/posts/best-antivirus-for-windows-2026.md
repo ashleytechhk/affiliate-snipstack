@@ -45,7 +45,7 @@ A good antivirus catches all of these automatically, before they cause harm. Thi
 
 ---
 
-## Step-by-Step: How to Install Surfshark Antivirus on Windows
+## Step-by-Step: How to Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) on Windows
 
 ### Step 1 — Go to the Surfshark Website
 

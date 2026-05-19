@@ -65,7 +65,7 @@ The combination of all four means: **give a gym your real email, and that addres
 
 ### Alt ID — Best Overall for Gym Signups
 
-[Alt ID](/blog/altid?sub=email-alias-for-gym-membership-signup-2026__mid) is Surfshark's masked [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) tool, included with all Surfshark subscription plans. It generates a randomised alias (`yourname-random@altid-domain`) that forwards all incoming mail directly to your Gmail, Outlook, or Apple Mail inbox. You don't check a separate inbox — everything arrives as normal.
+[Alt ID](/blog/altid?sub=email-alias-for-gym-membership-signup-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) tool, included with all Surfshark subscription plans. It generates a randomised alias (`yourname-random@altid-domain`) that forwards all incoming mail directly to your Gmail, Outlook, or Apple Mail inbox. You don't check a separate inbox — everything arrives as normal.
 
 What makes it the right fit for gym sign-ups specifically:
 

@@ -129,7 +129,7 @@ For everyone else — freelancers, remote workers, small business owners running
 
 ## FAQ
 
-### Is Surfshark One's antivirus good enough for a home office?
+### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus good enough for a home office?
 
 Yes. It covers the primary threat vectors for home-office workers: malware, ransomware, phishing links, and malicious downloads. It's not as feature-heavy as Norton's antivirus, but for everyday protection it's more than adequate — and it runs lighter on system resources.
 

@@ -28,7 +28,7 @@ Each tool was evaluated on four factors: **blocking effectiveness** (does it act
 
 **The most complete mobile ad-blocking solution in 2026.**
 
-CleanWeb is Surfshark's built-in ad, tracker, and malware-URL blocker — it runs inside the VPN tunnel, which means it filters traffic from every app on your phone simultaneously. You get one toggle, and ads disappear across browsers, news apps, games, and social feeds. There is no separate extension to install on mobile because CleanWeb operates at the network layer, not the browser layer.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad, tracker, and malware-URL blocker — it runs inside the VPN tunnel, which means it filters traffic from every app on your phone simultaneously. You get one toggle, and ads disappear across browsers, news apps, games, and social feeds. There is no separate extension to install on mobile because CleanWeb operates at the network layer, not the browser layer.
 
 Setup takes under two minutes. Download the Surfshark app, enable CleanWeb in Settings, and connect. On Android, it works through WireGuard; on iOS, it uses the IKEv2/WireGuard protocol with a local VPN profile. Independent leak tests confirm DNS requests route through Surfshark's own resolvers, so your ISP cannot see which sites you visit.
 

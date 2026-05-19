@@ -195,7 +195,7 @@ Yes. Using a temporary or masked email address is legal. You're simply choosing 
 **Can websites detect temporary email addresses?**
 Yes. Many sites check submitted addresses against known temporary email domains and reject them. This is why services like Guerrilla Mail and 10 Minute Mail sometimes fail at registration. [Surfshark Alt-ID](/blog/surfshark?sub=temporary-email-stop-spam-2026__faq) uses its own domain that isn't on public blocklists, making it more reliable for sites that reject common throwaway services.
 
-**Is Surfshark Alt-ID free?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-ID free?**
 Alt-ID is included with all Surfshark subscription plans at no additional cost. You don't pay extra for the feature — it's part of the standard package.
 
 **How many aliases can I create with Surfshark Alt-ID?**

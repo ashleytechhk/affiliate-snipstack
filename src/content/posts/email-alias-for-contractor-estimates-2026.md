@@ -122,13 +122,13 @@ No. Alt-ID aliases look like standard email addresses — there's no visual mark
 
 Yes. The alias stays active until you explicitly delete it. During the active project — site visit, revised estimates, scheduling, invoicing — you receive everything. Delete the alias only after the project is fully closed and you no longer want contact from that contractor pool.
 
-**What happens if I delete the alias but a contractor needs to send me warranty information later?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the alias but a contractor needs to send me warranty information later?**
 
 Once deleted, emails to that alias bounce permanently. If you anticipate needing post-project contact with a specific contractor (warranty, future work), note their direct contact details before deleting the alias, and provide them with your real address at that point — only for that trusted contractor.
 
-**Does an email alias stop contractor calls and texts too?**
+**Does an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) stop contractor calls and texts too?**
 
-No. An email alias only controls who can reach your email inbox. Contractors who have your phone number from a lead form will still be able to call or text. For phone-based follow-up, you'd need a separate approach (a Google Voice number, for example). The alias solves the inbox flooding problem specifically.
+No. An [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) only controls who can reach your email inbox. Contractors who have your phone number from a lead form will still be able to call or text. For phone-based follow-up, you'd need a separate approach (a Google Voice number, for example). The alias solves the inbox flooding problem specifically.
 
 **Can I use a Gmail plus-address instead?**
 

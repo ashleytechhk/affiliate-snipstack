@@ -83,7 +83,7 @@ For people receiving 50+ spam emails a day, a 10-alias cap and a blocklist probl
 
 ## Method 2: Use Surfshark Alt-ID for Unlimited Permanent Aliases
 
-[Alt-ID](/blog/altid?sub=email-alias-generator-2026__mid) is Surfshark's built-in [email alias](https://snipstack.io/how-email-alias-2026/) generator. It is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and One+ plans, generates unlimited aliases, forwards everything to your real inbox, and integrates directly into your browser as an extension. Here is [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up from scratch.
+[Alt-ID](/blog/altid?sub=email-alias-generator-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in [email alias](https://snipstack.io/how-email-alias-2026/) generator. It is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and One+ plans, generates unlimited aliases, forwards everything to your real inbox, and integrates directly into your browser as an extension. Here is [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up from scratch.
 
 ### Step 1 — Get Surfshark with Alt-ID
 

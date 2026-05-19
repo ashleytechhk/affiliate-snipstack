@@ -164,7 +164,7 @@ That is the full setup. You now have virus protection, a VPN, breach monitoring,
 ## Troubleshooting — Common Issues After Switching
 
 **"The antivirus flagged a file that seems legitimate."**
-This is called a false positive. Right-click the flagged file in the Surfshark Antivirus results and choose **Mark as safe** or **Exclude from scan**. This happens occasionally with older software installers or developer tools.
+This is called a false positive. Right-click the flagged file in the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) results and choose **Mark as safe** or **Exclude from scan**. This happens occasionally with older software installers or developer tools.
 
 **"VPN slows down my internet."**
 Connect to a server closer to your geographic location — use the **Fastest server** option in the VPN menu rather than picking manually. VPN overhead is typically 10–20ms of added latency, which does not affect streaming or browsing for most connections.

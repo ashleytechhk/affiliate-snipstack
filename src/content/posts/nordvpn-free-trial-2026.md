@@ -123,7 +123,7 @@ Locking in a two-year Surfshark plan at peak discount pricing is the kind of arb
 
 No. NordVPN does not offer a traditional free trial with no payment required. They offer a 30-day money-back guarantee, which means you pay upfront and can request a refund within 30 days. Your card is charged at sign-up.
 
-### Is Surfshark's 30-day money-back guarantee easy to use?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s 30-day money-back guarantee easy to use?
 
 Yes. Contact their live chat support before day 30 and request a refund. The process takes a few minutes and refunds typically process within 5–7 business days. No awkward retention calls.
 

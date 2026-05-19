@@ -61,7 +61,7 @@ An alias lets you participate fully — upvote, comment, follow makers, receive 
 
 ## Option 1: Surfshark Alt-ID
 
-[Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-product-hunt-signup-2026__mid) is Surfshark's masked email feature, built into their standard subscription plans.
+[Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-product-hunt-signup-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email feature, built into their standard subscription plans.
 
 **How it works for Product Hunt:**
 
