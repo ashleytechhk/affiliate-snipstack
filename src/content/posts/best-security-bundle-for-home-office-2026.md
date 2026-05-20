@@ -36,7 +36,7 @@ The question isn't whether Norton or McAfee work. They do. The question is wheth
 
 ## Feature-by-Feature Comparison
 
-Here's how the major security bundles stack up on what actually matters for a home office:
+Here's how the major [security bundle](https://snipstack.io/security-bundle-black-friday-deals-2026/)s stack up on what actually matters for a home office:
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | Norton 360 Deluxe | McAfee+ Premium |
 |---|---|---|---|

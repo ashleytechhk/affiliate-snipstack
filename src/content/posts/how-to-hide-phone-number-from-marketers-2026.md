@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Why you need to hide your phone number from marketers for online dating 2026](/og/how-to-hide-phone-number-from-marketers-2026.png)
 
-Over 33 billion records were exposed in data breaches in 2023 alone — and phone numbers were among the most traded data points on breach marketplaces. If you've used a dating app in the last three years and provided your real number for account verification, there's a meaningful chance that number is already sitting in a data broker's database right now.
+Over 33 billion records were exposed in data breaches in 2023 alone — and [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s were among the most traded data points on breach marketplaces. If you've used a dating app in the last three years and provided your real number for account verification, there's a meaningful chance that number is already sitting in a data broker's database right now.
 
 You're not being paranoid. You're being accurate.
 
@@ -92,7 +92,7 @@ The logic is simple: if the number sitting in a dating app's database, a data br
 
 ### What an Alias Number Does
 
-An alias (also called a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) or second number) is a working phone number that routes calls and texts to your real phone. To everyone else, it looks like a normal number. To you, it's a disposable layer you can retire the moment it becomes a liability.
+An alias (also called a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) or [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/)) is a working phone number that routes calls and texts to your real phone. To everyone else, it looks like a normal number. To you, it's a disposable layer you can retire the moment it becomes a liability.
 
 You give the alias to:
 - Dating app verification fields
@@ -108,7 +108,7 @@ If that alias starts attracting spam calls or if a situation with a match become
 
 ## Surfshark Alt-Number: The Purpose-Built Tool for This
 
-Surfshark Alt-Number is a virtual number service built specifically for this kind of personal privacy use case. It's an add-on to a Surfshark subscription — which means if you're already using Surfshark VPN for online privacy, the incremental cost for a second number is modest.
+Surfshark Alt-Number is a [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) service built specifically for this kind of personal privacy use case. It's an add-on to a Surfshark subscription — which means if you're already using Surfshark VPN for online privacy, the incremental cost for a second number is modest.
 
 Here's how it works in practice for an online dater:
 

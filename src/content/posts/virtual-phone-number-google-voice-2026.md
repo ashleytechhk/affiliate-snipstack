@@ -39,7 +39,7 @@ A [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2
 
 ### Step 1 — Check Eligibility
 
-Google Voice personal accounts are available in the United States only. You need an existing US phone number to verify and a Google account. If you are outside the US, this path is blocked entirely.
+Google Voice personal accounts are available in the United States only. You need an existing US [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to verify and a Google account. If you are outside the US, this path is blocked entirely.
 
 ### Step 2 — Sign Up at voice.google.com
 

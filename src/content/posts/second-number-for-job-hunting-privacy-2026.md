@@ -6,7 +6,7 @@ heroImage: "/og/second-number-for-job-hunting-privacy-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-In 2024, the FTC received more than 330,000 reports of stalking and unwanted contact tied to phone number exposure — and researchers who analyzed dating-app data found that real mobile numbers handed over during the matching process were among the most common vectors. One leaked number. One person who decides they want to find you. That is all it takes.
+In 2024, the FTC received more than 330,000 reports of stalking and unwanted contact tied to [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) exposure — and researchers who analyzed dating-app data found that real mobile numbers handed over during the matching process were among the most common vectors. One leaked number. One person who decides they want to find you. That is all it takes.
 
 You handed your real phone number to a dating app to "verify your account." The app sold your data to a broker. The broker's database was scraped. Now someone with a paid people-search tool, 90 seconds, and a grudge can find your home address, your employer, your neighborhood — all anchored to that one number you thought was just for login.
 

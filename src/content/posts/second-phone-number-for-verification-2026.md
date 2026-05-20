@@ -69,7 +69,7 @@ The VoIP limitation is equally real and increasingly painful. In 2026, Google Vo
 
 What Google Voice is good for: a permanent US number for services that do not run strict carrier checks. Low-friction signups, newsletter lists, loyalty programs, services that send codes but do not care about number type. If your permanent second number is primarily for these uses, Voice is genuinely free and genuinely persistent.
 
-US-only, requires a US Google account and a US phone number to set up. No path for international numbers.
+US-only, requires a US Google account and a US [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to set up. No path for international numbers.
 
 **Best for:** US users who need a free, persistent [second number for](https://snipstack.io/second-number-for-discord-account-2026/) low-scrutiny services. Not for banking 2FA or major dating platforms.
 

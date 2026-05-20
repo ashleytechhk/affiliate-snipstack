@@ -146,7 +146,7 @@ Nothing. Your work number stays exactly as it is — listed on Google, Yelp, Ang
 
 ## The Bottom Line
 
-If you're a contractor who dates, your phone number is doing two jobs it was never designed to handle simultaneously: public-facing business asset and personal contact point. That collision creates a real privacy gap that neither job listings nor dating app settings can close.
+If you're a contractor who dates, your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is doing two jobs it was never designed to handle simultaneously: public-facing business asset and personal contact point. That collision creates a real privacy gap that neither job listings nor dating app settings can close.
 
 A dedicated number for dating fixes this cleanly. Your work identity and your personal life stay in separate compartments. When something goes wrong on a date — and eventually, something will — you disable the number and the connection disappears. Your business stays untouched.
 

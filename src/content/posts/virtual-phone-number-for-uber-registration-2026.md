@@ -26,7 +26,7 @@ Using a **virtual [phone number for](https://snipstack.io/phone-number-for-faceb
 
 ## The Number Leakage Problem Nobody Talks About
 
-When you sign up for Uber, you hand over a phone number. That number is tied to your account, used for SMS verification, surfaced in support tickets, and — critically — linked to trip activity in ways that are not always obvious.
+When you sign up for Uber, you hand over a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/). That number is tied to your account, used for SMS verification, surfaced in support tickets, and — critically — linked to trip activity in ways that are not always obvious.
 
 Uber does mask numbers during active trips through an anonymisation relay. When a driver calls you, they should reach a proxy number, not your real line. But this masking is not universal. It does not cover in-app messages sent before or after a trip completes. It does not cover account-level data that appears in support interactions. And if a driver notes your number during a brief window where the relay drops or a call is placed outside the app, the masking provides no protection at all.
 

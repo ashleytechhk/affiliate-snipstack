@@ -20,7 +20,7 @@ A **[burner number for](https://snipstack.io/burner-number-for-facebook-marketpl
 
 ## Quick Verdict
 
-OfferUp puts your real phone number in front of strangers by design. For online daters who also buy or sell on OfferUp, the exposure compounds — the same number that links to your dating profile can now be tied to your home neighborhood, your selling history, and your daily pattern. A virtual [burner number](https://snipstack.io/burner-number-online-2026/) like **Surfshark Alt-Number** gives you a fully functional US number to use in its place. Buyers text it, you receive the messages, and if someone turns threatening or obsessive, you delete the number instantly. Setup takes under five minutes and costs less than a coffee per month.
+OfferUp puts your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) in front of strangers by design. For online daters who also buy or sell on OfferUp, the exposure compounds — the same number that links to your dating profile can now be tied to your home neighborhood, your selling history, and your daily pattern. A virtual [burner number](https://snipstack.io/burner-number-online-2026/) like **Surfshark Alt-Number** gives you a fully functional US number to use in its place. Buyers text it, you receive the messages, and if someone turns threatening or obsessive, you delete the number instantly. Setup takes under five minutes and costs less than a coffee per month.
 
 ---
 

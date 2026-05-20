@@ -28,7 +28,7 @@ This guide compares the leading options head-to-head and identifies which one ma
 | Need data + calls on a physical device | eSIM provider |
 | Want to keep matches from finding your real number | **Surfshark Alt-Number** |
 
-**Bottom line:** For online daters who want a real US number without handing over their actual phone number to strangers, Alt-Number is the tightest solution. It gives you a real, callable US number on your existing device, keeps your real number invisible, and lets you shut the number down the moment you want out.
+**Bottom line:** For online daters who want a real US number without handing over their actual [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to strangers, Alt-Number is the tightest solution. It gives you a real, callable US number on your existing device, keeps your real number invisible, and lets you shut the number down the moment you want out.
 
 ---
 

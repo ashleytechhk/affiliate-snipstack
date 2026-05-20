@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![How to get a second phone number for online dating 2026](/og/2number-second-phone-number-2026.png)
 
-Giving your real phone number to someone you matched with on a dating app is a gamble. Most matches don't go anywhere. A few go badly. And every single one of them now has a permanent line to your real identity.
+Giving your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to someone you matched with on a dating app is a gamble. Most matches don't go anywhere. A few go badly. And every single one of them now has a permanent line to your real identity.
 
 A [second phone number](https://snipstack.io/second-phone-number-apk-2026/) for dating — sometimes searched as "2number" or a "2-number" setup — solves this in one step. You hand out a number that's real enough to call and text, but one you control entirely. If things go sideways, you cut it off. Your actual number stays clean.
 

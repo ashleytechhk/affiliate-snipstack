@@ -171,7 +171,7 @@ A well-designed antivirus has a small, barely noticeable impact during normal us
 
 Open the antivirus app and check that real-time protection shows as "on" or "active" (usually a green indicator). Also check that definitions were updated recently — a good antivirus updates these automatically at least once a day. If both of those are showing as active, your computer is being protected.
 
-**What should I do if a pop-up tells me to call a phone number to fix a virus?**
+**What should I do if a pop-up tells me to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to fix a virus?**
 
 Do not call the number. Legitimate antivirus software never asks you to call a phone number. Pop-ups like this are a common scam called "tech support fraud" — criminals pretend your computer is infected to frighten you into calling, then charge you money or ask for remote access to your computer. If you see one of these, close the browser window (or restart your computer if the pop-up will not go away). Then run a scan using your actual antivirus app.
 

@@ -24,7 +24,7 @@ iPhone's "Silence Unknown Callers" feature blocks calls from numbers not in your
 
 ## What Is "Block Unknown Callers" on iPhone?
 
-"Block Unknown Callers" — officially labeled **Silence Unknown Callers** in iOS Settings — is a built-in iPhone feature that automatically silences incoming calls from phone numbers not saved in your contacts, Mail, or recent outgoing calls.
+"Block Unknown Callers" — officially labeled **Silence Unknown Callers** in iOS Settings — is a built-in iPhone feature that automatically silences incoming calls from [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s not saved in your contacts, Mail, or recent outgoing calls.
 
 When it's active:
 - Calls from unknown numbers go directly to voicemail

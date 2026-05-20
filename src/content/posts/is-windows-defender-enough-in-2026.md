@@ -175,7 +175,7 @@ Modern security suites are designed to run efficiently in the background. Reputa
 
 ### How do I know if my personal information has already been leaked?
 
-Windows Defender does not monitor for this. A security suite with dark web monitoring will scan for your email address, phone number, and other identifiers across known breach databases and alert you if anything turns up. This is one of the most practical reasons seniors consider upgrading beyond Defender alone.
+Windows Defender does not monitor for this. A security suite with dark web monitoring will scan for your email address, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), and other identifiers across known breach databases and alert you if anything turns up. This is one of the most practical reasons seniors consider upgrading beyond Defender alone.
 
 ---
 

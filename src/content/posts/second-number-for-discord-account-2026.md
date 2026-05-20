@@ -30,7 +30,7 @@ Discord phone verification exists to reduce spam and underage access — it was 
 
 Discord started as a gaming tool. In 2026, it functions as a social layer across communities, hobbies, and yes, dating. Thousands of active dating servers exist for every niche — age range, interest, location. Many online daters use Discord as a middle step: safer than giving out a real number immediately, more expressive than swiping right.
 
-The problem is that Discord's phone verification requirement — which kicked in as a mandatory measure for accounts accessing age-restricted servers and flagged accounts — has quietly turned phone numbers into account anchors. When you verify your Discord account with your real number, that number becomes a persistent credential tied to your username.
+The problem is that Discord's phone verification requirement — which kicked in as a mandatory measure for accounts accessing age-restricted servers and flagged accounts — has quietly turned [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s into account anchors. When you verify your Discord account with your real number, that number becomes a persistent credential tied to your username.
 
 Here is why that matters in a dating context:
 

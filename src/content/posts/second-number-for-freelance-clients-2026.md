@@ -12,7 +12,7 @@ In 2024, a freelance designer in Chicago listed her mobile number on her Upwork 
 
 She had never given him her [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). She had only given him her face.
 
-This is not a story about careless oversharing. It is a story about how a phone number that looks public in one context — your professional life — becomes a surveillance thread in another. For freelancers who use dating apps, the real number you share with clients is almost certainly the same number on your Tinder profile, your Hinge matches, and your WhatsApp. One reverse-lookup search connects all of it.
+This is not a story about careless oversharing. It is a story about how a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) that looks public in one context — your professional life — becomes a surveillance thread in another. For freelancers who use dating apps, the real number you share with clients is almost certainly the same number on your Tinder profile, your Hinge matches, and your WhatsApp. One reverse-lookup search connects all of it.
 
 A [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) freelance clients is not a nice-to-have in 2026. It is the only way to keep those two lives genuinely separate.
 

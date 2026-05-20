@@ -24,7 +24,7 @@ If you want a [burner number](https://snipstack.io/burner-number-online-2026/) f
 
 ## Why Online Daters Need a [Burner Number](https://snipstack.io/burner-number-for-verification-2026/)
 
-Dating apps ask for your phone number to verify your identity. The moment you share that number with a match, you lose control of it. They can reverse-search it, find your full name, employer, and neighborhood in under a minute using free people-finder sites. A [burner number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) sits in between — calls and texts route through it, your real number stays invisible, and if a match turns creepy you delete the burner and the connection is severed completely.
+Dating apps ask for your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to verify your identity. The moment you share that number with a match, you lose control of it. They can reverse-search it, find your full name, employer, and neighborhood in under a minute using free people-finder sites. A [burner number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) sits in between — calls and texts route through it, your real number stays invisible, and if a match turns creepy you delete the burner and the connection is severed completely.
 
 Beyond safety, there is the spam angle. Share your real number and you may spend months unsubscribing from marketing texts because one sketchy app sold your data. A disposable [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) is your first line of defense.
 

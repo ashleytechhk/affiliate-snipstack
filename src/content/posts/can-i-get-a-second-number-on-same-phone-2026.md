@@ -44,7 +44,7 @@ The carrier-backed vs. VoIP distinction is the axis that determines which servic
 
 ## Why Your Real Number Is a Risk on Dating Apps
 
-When you give someone your personal phone number, you give them more than a way to reach you. Services like Spokeo, WhitePages, and BeenVerified let anyone do a reverse phone lookup for a few dollars. A carrier-issued mobile number often returns your full name, current and past addresses, and links to associated social profiles.
+When you give someone your personal [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), you give them more than a way to reach you. Services like Spokeo, WhitePages, and BeenVerified let anyone do a reverse phone lookup for a few dollars. A carrier-issued mobile number often returns your full name, current and past addresses, and links to associated social profiles.
 
 For a match who seemed fine at first, that is a lot of information to hand over before a first date.
 

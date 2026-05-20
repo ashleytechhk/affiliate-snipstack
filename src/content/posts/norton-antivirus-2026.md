@@ -167,7 +167,7 @@ Yes. Surfshark offers a 30-day money-back guarantee on all plans. If you are not
 
 ### What is Surfshark Alert and how does it compare to Norton's dark web monitoring?
 
-Both services scan breach databases for your personal information. Surfshark Alert monitors email addresses, phone numbers, ID document data, and credit card numbers. Norton's dark web monitoring in its base plan is less comprehensive and often requires a LifeLock add-on for full ID monitoring. Surfshark Alert is included in the One Bundle without upsells.
+Both services scan breach databases for your personal information. Surfshark Alert monitors email addresses, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s, ID document data, and credit card numbers. Norton's dark web monitoring in its base plan is less comprehensive and often requires a LifeLock add-on for full ID monitoring. Surfshark Alert is included in the One Bundle without upsells.
 
 ---
 

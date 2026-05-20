@@ -118,7 +118,7 @@ Truecaller relies on a crowdsourced database of flagged numbers. Users report sp
 
 **Setup:**
 1. Download **Truecaller** from the App Store.
-2. Sign up with your phone number (note: Truecaller adds your number to its directory by default — review their privacy settings if that's a concern).
+2. Sign up with your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) (note: Truecaller adds your number to its directory by default — review their privacy settings if that's a concern).
 3. Enable it under **Settings → Phone → Call Blocking & Identification**.
 
 **[Compare call-blocking apps and privacy tools &rarr;](/blog/altnumber?sub=stop-robocalls-on-iphone-2026__mid)**

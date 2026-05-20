@@ -66,7 +66,7 @@ Gmail lets you append `+anything` to your address: `yourname+insurance@gmail.com
 
 In practice, insurance lead systems strip the `+tag` suffix before storing or reselling your address. Your `+insurance` tag disappears, and the brokers have your base address — the permanent one you can never revoke. This approach provides the illusion of protection without the substance.
 
-It also doesn't help with calls. Your phone number is typically on the same form, and [email alias](https://snipstack.io/email-alias-for-gym-membership-signup-2026/)es do nothing about the phone-based part of the broker follow-up campaign.
+It also doesn't help with calls. Your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is typically on the same form, and [email alias](https://snipstack.io/email-alias-for-gym-membership-signup-2026/)es do nothing about the phone-based part of the broker follow-up campaign.
 
 ---
 

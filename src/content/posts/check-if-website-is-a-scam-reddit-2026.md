@@ -193,7 +193,7 @@ Do not enter any information on the page. Close the tab immediately. Run a malwa
 
 ### Why do scam emails sometimes know my personal details?
 
-Scammers purchase or obtain data from breached databases. If a previous service you used suffered a data breach, your name, address, phone number, or even partial payment details may be in criminal hands. This data is used to make phishing emails feel personal and legitimate. Checking whether your email address has appeared in known breaches — using a tool like Surfshark Alert or Have I Been Pwned — tells you whether this is likely.
+Scammers purchase or obtain data from breached databases. If a previous service you used suffered a data breach, your name, address, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), or even partial payment details may be in criminal hands. This data is used to make phishing emails feel personal and legitimate. Checking whether your email address has appeared in known breaches — using a tool like Surfshark Alert or Have I Been Pwned — tells you whether this is likely.
 
 ### Does Surfshark Scamcheck work on mobile?
 

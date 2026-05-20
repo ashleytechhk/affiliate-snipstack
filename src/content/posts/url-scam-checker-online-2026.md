@@ -128,7 +128,7 @@ If a url scam checker online flags a link you received by email:
 - **Do not click the link.** Not even to "see what it actually is."
 - **Delete the email** from your inbox and from your trash folder.
 - **Do not reply to the sender.** Replying tells the scammer that your email address is active and being monitored, which usually results in more targeted attempts.
-- **If the email appeared to come from your bank or a service you use**, contact that organisation directly using the phone number or web address you already know — not any contact details in the suspicious email.
+- **If the email appeared to come from your bank or a service you use**, contact that organisation directly using the [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) or web address you already know — not any contact details in the suspicious email.
 - **If you already clicked** the link before checking: change the password for any account you entered details into, and contact your bank if you entered any financial information.
 
 ---

@@ -28,7 +28,7 @@ Yes, you need some form of scam text message checker — but it does not have to
 
 **Smishing** is the SMS equivalent of phishing. The word is a portmanteau of "SMS" and "phishing." A scammer sends you a text that impersonates a trusted sender — a bank, a government agency, a delivery company, or a retailer — and includes a link designed to steal your credentials, install malware, or trick you into handing over personal information.
 
-Smishing has grown sharply in recent years for a straightforward reason: people are more guarded with email now. Spam filters catch the obvious stuff. But texts feel different. Your phone number is more personal than your email address, so a message to your number feels more credible. Texts also arrive in a space alongside messages from family and friends, which lowers your guard.
+Smishing has grown sharply in recent years for a straightforward reason: people are more guarded with email now. Spam filters catch the obvious stuff. But texts feel different. Your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is more personal than your email address, so a message to your number feels more credible. Texts also arrive in a space alongside messages from family and friends, which lowers your guard.
 
 According to the US Federal Trade Commission, mobile phone scams — including smishing — cost consumers billions of dollars each year, and the numbers have risen every year since 2020.
 

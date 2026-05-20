@@ -78,7 +78,7 @@ Before you start, make sure you have:
 
 - A [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) subscription (not the base VPN plan — One includes Surfshark Alert)
 - Your Surfshark account login credentials
-- The email addresses and phone numbers you want to monitor (personal, work, secondary accounts)
+- The email addresses and [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s you want to monitor (personal, work, secondary accounts)
 - About 10 minutes
 
 ---

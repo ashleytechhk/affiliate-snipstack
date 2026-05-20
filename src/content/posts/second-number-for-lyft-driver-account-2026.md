@@ -12,7 +12,7 @@ In 2024, a rideshare driver in Texas matched with a passenger on Hinge. She reco
 
 This is not an isolated incident. It is the new shape of stalking in 2026: someone uses one platform as a lookup anchor, pulls public records, and rebuilds a real identity from what looks like a harmless data point. For Lyft drivers who date online, the risk runs in both directions — passengers who become matches, or matches who decide to become passengers to close the gap between an app profile and a real face.
 
-Your real phone number is the thread that ties all of it together.
+Your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is the thread that ties all of it together.
 
 When you drive for Lyft, your number is embedded in your driver account, used for ride coordination, and linked to your real name, vehicle registration, and — in some states — your home address through licensing records. Anyone who gets close enough to that thread has a lot to pull.
 

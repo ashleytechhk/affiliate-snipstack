@@ -22,7 +22,7 @@ This guide walks you through the fastest way to get that [second number](https:/
 
 ## Quick Verdict
 
-Alt-Number gives you a real, working phone number in minutes — no SIM swap, no new device. It works with WhatsApp, dating apps, and any SMS-based verification. Numbers are available in the US, UK, and a growing list of other countries. The free trial lets you test the service before committing. For online daters who want a disposable number that actually rings, it is the most frictionless option available right now.
+Alt-Number gives you a real, working [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) in minutes — no SIM swap, no new device. It works with WhatsApp, dating apps, and any SMS-based verification. Numbers are available in the US, UK, and a growing list of other countries. The free trial lets you test the service before committing. For online daters who want a disposable number that actually rings, it is the most frictionless option available right now.
 
 ---
 

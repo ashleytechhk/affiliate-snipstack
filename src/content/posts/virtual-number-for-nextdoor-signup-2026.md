@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Why you need a virtual number for Nextdoor signup when online dating in 2026](/og/virtual-number-for-nextdoor-signup-2026.png)
 
-In 2023, the FTC received over 65,000 reports of romance scams — with total losses exceeding $1.14 billion. The majority did not begin with a hacked account or a stolen password. They began with a phone number.
+In 2023, the FTC received over 65,000 reports of romance scams — with total losses exceeding $1.14 billion. The majority did not begin with a hacked account or a stolen password. They began with a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/).
 
 You gave yours out thinking it was a small thing. A few texts, maybe a call. Then the situation changed, and suddenly someone you met through a dating app knows your number, knows the neighbourhood you verified on Nextdoor, and has a line directly into the most personal part of your life.
 

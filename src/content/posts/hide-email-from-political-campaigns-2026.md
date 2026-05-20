@@ -117,7 +117,7 @@ Filters also do nothing about your real address already sitting in campaign data
 
 ---
 
-## How to Set Up Alt-ID for Political Email Protection
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt-ID for Political Email Protection
 
 **Step 1.** Get Surfshark — Alt-ID is included with all plans. No separate subscription required.
 
@@ -155,7 +155,7 @@ No. An Alt-ID alias is a functional email address that receives mail like any ot
 
 **Does this protect my name and identity, not just my email?**
 
-Partially. Alt-ID includes an alternative identity generator — a fake name and profile you can use alongside the alias. Political campaigns use name-matching across data broker records to link email addresses to physical addresses and phone numbers. Using an alternative name severs that connection for new signups. It does not affect data already collected under your real name from prior signups.
+Partially. Alt-ID includes an alternative identity generator — a fake name and profile you can use alongside the alias. Political campaigns use name-matching across data broker records to link email addresses to physical addresses and [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s. Using an alternative name severs that connection for new signups. It does not affect data already collected under your real name from prior signups.
 
 **How many aliases can I create?**
 

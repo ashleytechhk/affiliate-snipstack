@@ -51,7 +51,7 @@ Run through this checklist. If you recognise two or more of these signs, adware 
 - Advertisements appear on websites that did not used to show them
 - You see frequent "warning" pop-ups telling you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)
 
-That last one is especially important. **Legitimate security warnings never ask you to call a phone number.** If a pop-up is asking you to call, close it immediately by pressing **Command + W** (or force-closing the browser if needed). Do not call the number under any circumstances — it is a scam.
+That last one is especially important. **Legitimate security warnings never ask you to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/).** If a pop-up is asking you to call, close it immediately by pressing **Command + W** (or force-closing the browser if needed). Do not call the number under any circumstances — it is a scam.
 
 ![Comparison of real Mac security alert vs. adware-generated fake pop-up scam warning for seniors](/og/adware-removal-tool-for-mac-2026-inline-1.png)
 

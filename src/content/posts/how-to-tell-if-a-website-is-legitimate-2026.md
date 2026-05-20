@@ -129,7 +129,7 @@ None of the free tools watch your back continuously. They are reactive — you h
 Even with tools, a sixty-second manual scan of the site itself catches a lot:
 
 - **About page exists and is specific** — real businesses name their founders, describe their history, or show team photos. Vague filler text is a warning sign.
-- **Contact page has real details** — a street address you can verify on Google Maps, a phone number that actually connects, a business email on the same domain (not a Gmail or Yahoo address).
+- **Contact page has real details** — a street address you can verify on Google Maps, a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) that actually connects, a business email on the same domain (not a Gmail or Yahoo address).
 - **Social media links work and are active** — check that the linked accounts actually exist, have real followers, and post regularly. Fake sites often link to empty or cloned social profiles.
 - **Return and refund policy is specific** — generic copy-paste policies without brand-specific terms are common on scam sites.
 - **Payment page uses recognised processors** — PayPal, Stripe, major card networks. If a site only accepts wire transfer, gift cards, or cryptocurrency, that is a significant red flag for a retail purchase.

@@ -111,7 +111,7 @@ The VoIP nature of Hushed numbers means WhatsApp registration and dating-app ver
 
 **Purpose-built for lines you know you will eventually end.**
 
-Burner pioneered the concept of a disposable phone number that you genuinely destroy at the end of its use. For personal situations with a clear exit — a short selling season on Craigslist, a month of online dating, a temporary project — the disposable model is psychologically clean. One tap and the number is gone, along with the associated call and message history.
+Burner pioneered the concept of a disposable [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) that you genuinely destroy at the end of its use. For personal situations with a clear exit — a short selling season on Craigslist, a month of online dating, a temporary project — the disposable model is psychologically clean. One tap and the number is gone, along with the associated call and message history.
 
 It is not designed for permanence, and the pricing model reflects that. You pay for a line and a duration; the auto-burn option eliminates the number at a set date. US and Canada only. VoIP-based, with the verification limitations that implies.
 

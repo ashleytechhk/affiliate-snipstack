@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 Romance scam losses in the United States exceeded $1.3 billion in 2023, according to the FTC — making it the single highest-loss fraud category the agency tracks. The people caught in those situations did not hand over their bank details on day one. It started with a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). A profile. A Google account.
 
-You can do everything right. Create a fresh Google account for your dating life. Use a separate Gmail for app notifications. Keep your real name off your profile. And then Google asks for a phone number to verify the account — and you type in your real one because you do not have another option.
+You can do everything right. Create a fresh Google account for your dating life. Use a separate Gmail for app notifications. Keep your real name off your profile. And then Google asks for a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to verify the account — and you type in your real one because you do not have another option.
 
 That one step unravels everything.
 

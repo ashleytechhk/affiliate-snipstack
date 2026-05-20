@@ -165,7 +165,7 @@ Phishing sites follow predictable patterns. Once you know these, you will spot t
 
 **The lookalike banking site:** A near-perfect copy of your bank's login page, hosted on a slightly different domain. Everything looks right except the URL.
 
-**The tech support page:** A pop-up warning that your device is infected and you must call a phone number immediately. Legitimate operating systems do not issue alerts this way.
+**The tech support page:** A pop-up warning that your device is infected and you must call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) immediately. Legitimate operating systems do not issue alerts this way.
 
 In every case, the goal is the same: get you to enter personal information, payment details, or login credentials. The domain check, HTTPS inspection, and URL scanner steps above catch most of these before you reach that point.
 

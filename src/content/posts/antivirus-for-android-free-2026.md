@@ -173,7 +173,7 @@ If any of these gaps concern you — especially the public Wi-Fi risk or identit
 
 For seniors who find managing multiple apps stressful, a single security app that covers everything is often the better choice — even if it costs a small monthly fee.
 
-Surfshark's security bundle includes:
+Surfshark's [security bundle](https://snipstack.io/security-bundle-black-friday-deals-2026/) includes:
 
 - **Antivirus** — real-time protection with automatic updates
 - **VPN** — encrypts your internet on any Wi-Fi network

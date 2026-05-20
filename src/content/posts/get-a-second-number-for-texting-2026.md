@@ -104,7 +104,7 @@ Lock in your choice before moving on — each setup flow below is specific to th
 1. Open the app or visit voice.google.com
 2. Sign in with your Google account
 3. Tap "Get a Voice number"
-4. Enter your real phone number when prompted — Google sends a verification code
+4. Enter your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) when prompted — Google sends a verification code
 5. Proceed to Step 4 (choose your area code)
 
 **TextNow**

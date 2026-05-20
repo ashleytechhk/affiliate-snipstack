@@ -50,7 +50,7 @@ A **real local number** — the kind registered on an actual mobile carrier netw
 
 ### Surfshark Alt-Number
 
-Alt-Number gives you a real local phone number in your chosen country, provisioned on the mobile network — not routed through VoIP infrastructure. Setup takes a few minutes: pick a country, choose your number, and it's live on your existing phone through the Surfshark app. No ID verification, no waiting for a physical SIM.
+Alt-Number gives you a real local [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) in your chosen country, provisioned on the mobile network — not routed through VoIP infrastructure. Setup takes a few minutes: pick a country, choose your number, and it's live on your existing phone through the Surfshark app. No ID verification, no waiting for a physical SIM.
 
 For online dating, this matters in two specific ways:
 

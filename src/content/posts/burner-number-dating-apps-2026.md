@@ -26,7 +26,7 @@ This guide covers four real options for getting a [burner number](https://snipst
 
 ## Why Dating Apps Create a Privacy Problem
 
-Most dating apps verify your identity with your real phone number during signup. That's fine — they need to reduce fake accounts. The problem is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) *after* you match with someone.
+Most dating apps verify your identity with your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) during signup. That's fine — they need to reduce fake accounts. The problem is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) *after* you match with someone.
 
 Moving from in-app chat to texting feels natural. It signals trust. But it also means handing a stranger your actual phone number — the same one tied to your bank, your employer, your family. If the vibe turns bad, you can block them, but they still have your number stored in their phone forever.
 
