@@ -101,7 +101,7 @@ Norton and McAfee both publish official removal tools that do a cleaner job than
 
 Now you are ready to get the replacement.
 
-1. Click the link below to go to the Surfshark One pricing page.
+1. Click the link below to go to the [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) pricing page.
 2. Select the plan. The **2-year plan** gives the lowest monthly rate — check the current pricing displayed on the page.
 3. Enter your email address. This becomes your Surfshark account username.
 4. Complete the payment on the secure checkout page. Look for the padlock icon in your browser address bar to confirm the page is secure.

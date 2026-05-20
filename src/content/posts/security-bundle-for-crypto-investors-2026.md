@@ -115,7 +115,7 @@ If you're paying $149/year for Norton and getting annoyed by the bloat, the math
 
 ## Switching From Norton or McAfee: What to Know
 
-Uninstalling Norton or McAfee completely requires more than dragging the app to the trash or using Add/Remove Programs. Both companies provide dedicated removal tools (Norton Remove and Reinstall Tool; McAfee Consumer Product Removal tool) because their system integrations run deeper than a normal app install. Run the official removal tool, restart, then install Surfshark One cleanly.
+Uninstalling Norton or McAfee completely requires more than dragging the app to the trash or using Add/Remove Programs. Both companies provide dedicated removal tools (Norton Remove and Reinstall Tool; McAfee Consumer Product Removal tool) because their system integrations run deeper than a normal app install. Run the official removal tool, restart, then install [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) cleanly.
 
 On Windows 11, [Windows Defender](https://snipstack.io/windows-defender-download-2026/) activates automatically once Norton/McAfee is removed and before [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) is installed — so there's no gap in coverage if you do it in sequence.
 

@@ -89,7 +89,7 @@ The savings are real, but the bigger win is management overhead. One app, one re
 
 **4a. Download the app**
 
-Go to the Surfshark One link above and complete signup. After payment, you will land on the dashboard. Download the app for your primary device (Windows, macOS, iOS, or Android).
+Go to the [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) link above and complete signup. After payment, you will land on the dashboard. Download the app for your primary device (Windows, macOS, iOS, or Android).
 
 **Screenshot placeholder:** *Surfshark dashboard showing "Download" button and your active plan.*
 

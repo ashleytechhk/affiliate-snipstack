@@ -180,7 +180,7 @@ No, and the difference matters. [Disposable email](https://snipstack.io/disposab
 
 Your real email address is your digital identity. Every time you hand it over carelessly, you are widening the attack surface — more spam, more phishing attempts, more data-broker profiles built around you.
 
-Alt-ID costs a few pounds a month as part of a Surfshark One plan, and the ROI is immediate: a clean inbox, compartmentalised signups, and a simple kill switch for any alias that goes bad.
+Alt-ID costs a few pounds a month as part of a [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) plan, and the ROI is immediate: a clean inbox, compartmentalised signups, and a simple kill switch for any alias that goes bad.
 
 **[Get Alt-ID and reclaim your inbox today](/blog/surfshark?sub=anonymous-email-2026__cta)**
 

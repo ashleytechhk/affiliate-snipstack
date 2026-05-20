@@ -131,7 +131,7 @@ After checkout, you will receive a confirmation email. Keep it — you'll use th
 2. Install and open the app
 3. Log in with your account credentials
 
-Repeat the mobile steps for every additional device. Because Surfshark One covers unlimited devices, there is no limit on how many you add.
+Repeat the mobile steps for every additional device. Because [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) covers unlimited devices, there is no limit on how many you add.
 
 ---
 

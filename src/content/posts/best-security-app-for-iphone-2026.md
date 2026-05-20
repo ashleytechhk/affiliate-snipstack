@@ -89,7 +89,7 @@ This is the feature that most directly replaces what Norton and McAfee mobile us
 - Blocked trackers that follow you across apps
 - Known phishing domains blocked before you tap them
 
-Norton Mobile Security has a similar Web Protection feature. McAfee has Safe Browsing. CleanWeb is faster and more regularly updated, and it is included in the base Surfshark One subscription rather than behind a tier wall.
+Norton Mobile Security has a similar Web Protection feature. McAfee has Safe Browsing. CleanWeb is faster and more regularly updated, and it is included in the base [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) subscription rather than behind a tier wall.
 
 ### Surfshark Alert
 

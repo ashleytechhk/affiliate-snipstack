@@ -229,7 +229,7 @@ Yes. Surfshark is a well-established security company with millions of users wor
 
 **What is the difference between Surfshark Antivirus and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)?**
 
-Surfshark Antivirus is the core package: real-time malware scanning, scam website blocking, and webcam protection. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) adds a VPN (keeps your browsing private, especially on public Wi-Fi) and Surfshark Alert (warns you if your email address appears in a data breach). If you ever use your Mac outside the home, Surfshark One is worth considering.
+Surfshark Antivirus is the core package: real-time malware scanning, scam website blocking, and webcam protection. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) adds a VPN (keeps your browsing private, especially on public Wi-Fi) and Surfshark Alert (warns you if your email address appears in a data breach). If you ever use your Mac outside the home, [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) is worth considering.
 
 **What should I do if I see a scary pop-up saying my Mac is infected?**
 

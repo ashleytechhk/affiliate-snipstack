@@ -104,7 +104,7 @@ If you are already a McAfee subscriber who rarely uses public Wi-Fi and banks on
 
 ## How to Switch From Norton or McAfee Without Losing Anything
 
-If you are moving to Surfshark One, a clean transition takes about 20 minutes.
+If you are moving to [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/), a clean transition takes about 20 minutes.
 
 **Step 1 — Export passwords before canceling.** Norton and McAfee both include password managers. Export your saved passwords as a CSV file from the password manager settings before touching anything else. Import them into a free standalone manager like Bitwarden.
 

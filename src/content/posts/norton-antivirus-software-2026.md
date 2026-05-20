@@ -50,7 +50,7 @@ For the vast majority of users — home workers, students, families — that gap
 
 ![Antivirus detection comparison flowchart](/og/norton-antivirus-software-2026-inline-1.png)
 
-Where Surfshark One pulls ahead in practical terms is system overhead. Norton's background processes are known to slow older hardware during scheduled scans. Surfshark's lighter footprint means fewer "why is my laptop a jet engine right now" moments.
+Where [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) pulls ahead in practical terms is system overhead. Norton's background processes are known to slow older hardware during scheduled scans. Surfshark's lighter footprint means fewer "why is my laptop a jet engine right now" moments.
 
 ---
 

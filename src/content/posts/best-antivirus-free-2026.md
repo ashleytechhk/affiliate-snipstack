@@ -153,7 +153,7 @@ Do not click anything on the popup — not even "Close" or "Cancel." Many of the
 
 ### Can [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) protect my phone as well as my PC?
 
-Yes. Surfshark One covers unlimited devices — one subscription protects your Windows computer, your Android or iPhone, a tablet, and any other device your family uses. That is one of its most practical advantages over free options.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) covers unlimited devices — one subscription protects your Windows computer, your Android or iPhone, a tablet, and any other device your family uses. That is one of its most practical advantages over free options.
 
 ---
 

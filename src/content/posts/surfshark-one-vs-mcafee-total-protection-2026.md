@@ -65,7 +65,7 @@ For users whose main concern is practical, day-to-day [protection against](https
 
 ### VPN — No Data Caps
 
-This is where the gap between the two products widens considerably. Surfshark One includes a full VPN — no data caps, unlimited simultaneous connections, with servers in 100+ countries and support for streaming unblocking on major platforms.
+This is where the gap between the two products widens considerably. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) includes a full VPN — no data caps, unlimited simultaneous connections, with servers in 100+ countries and support for streaming unblocking on major platforms.
 
 McAfee Total Protection includes a VPN on some plans, but it is typically capped at 5 GB per day on standard tiers. For anyone who streams video, works from a coffee shop, or simply wants to keep their browsing private on a regular basis, a 5 GB daily cap is not a VPN — it is a trial.
 

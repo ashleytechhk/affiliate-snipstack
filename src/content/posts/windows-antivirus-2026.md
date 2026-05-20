@@ -96,7 +96,7 @@ The actual migration takes under 15 minutes:
 
 1. Cancel your Norton or McAfee auto-renewal before your next billing date (do this first — both vendors make refunds difficult after renewal processes).
 2. Uninstall via Windows Settings > Apps. Run the vendor's dedicated removal tool (Norton Remove and Reinstall Tool, or McAfee Consumer Product Removal tool) to clear residual files and registry entries. This step matters — partial uninstalls leave bloat behind.
-3. Install Surfshark One Bundle. The installer handles antivirus, VPN client, and browser extension in one pass.
+3. Install [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) Bundle. The installer handles antivirus, VPN client, and browser extension in one pass.
 4. Run a full scan on first launch. On most machines this takes 20–40 minutes and runs in the background.
 
 Windows Defender will automatically pause itself when it detects an active third-party antivirus — you do not need to manually disable it.

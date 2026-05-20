@@ -62,7 +62,7 @@ Surfshark's VPN is the foundation here and it shows — it is clearly where the 
 
 The one feature missing compared to NordVPN is Double VPN (chaining two servers for additional obfuscation). For most users this is not a meaningful gap. For the Norton-switcher persona this review is written for, it is irrelevant — they were not getting double VPN from Norton's 200MB/day offering.
 
-> **Get Surfshark One — full VPN included with the bundle**
+> **Get [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) — full VPN included with the bundle**
 > [See current pricing](/blog/one?sub=surfshark-one-review-2026__mid)
 
 ---

@@ -102,7 +102,7 @@ Norton 360 Standard or McAfee's identity-focused tier might be worth the premium
 
 **Scenario C: Household with 7+ devices, teenagers with their own accounts, tight budget**
 
-Surfshark One Bundle again. The per-device cost is effectively zero once you're past the first few. Breach alerts cover everyone's accounts, not just the primary email.
+[Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) Bundle again. The per-device cost is effectively zero once you're past the first few. Breach alerts cover everyone's accounts, not just the primary email.
 
 **Scenario D: Power user who wants the best raw AV engine**
 

@@ -79,7 +79,7 @@ A product that handles these specific threat types is more useful than one with 
 
 ## What [Surfshark ONE](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) Actually Includes
 
-Surfshark ONE is a bundled subscription, not a single-purpose product. The core components:
+[Surfshark ONE](https://snipstack.io/surfshark-one-trial-available-2026/) is a bundled subscription, not a single-purpose product. The core components:
 
 ### [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)
 

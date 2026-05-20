@@ -202,7 +202,7 @@ Google Voice works for light use, but it requires a US phone number to activate 
 
 ### Do I need a Surfshark VPN subscription to get Alt-Number?
 
-Alt-Number is part of Surfshark's bundle plans (Surfshark One and Surfshark One+). These plans include VPN, Alt-ID ([email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/)), and Alt-Number together. You get the full privacy stack, not just the phone number. If you're evaluating purely on number cost, compare it against what you'd pay for a standalone service like Hushed — the bundle pricing is competitive.
+Alt-Number is part of Surfshark's bundle plans ([Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) and Surfshark One+). These plans include VPN, Alt-ID ([email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/)), and Alt-Number together. You get the full privacy stack, not just the phone number. If you're evaluating purely on number cost, compare it against what you'd pay for a standalone service like Hushed — the bundle pricing is competitive.
 
 ### Can I receive calls on Alt-Number, or just texts?
 

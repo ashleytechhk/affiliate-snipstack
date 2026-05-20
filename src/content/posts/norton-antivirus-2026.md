@@ -61,7 +61,7 @@ This is where a lot of Norton users reach a breaking point. On a Windows 11 mid-
 
 [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) runs lighter. Background RAM usage sat at 80–120 MB in our tests, and full scans consumed 25–35% CPU on the same hardware. On older machines or those with 8 GB RAM or less, this gap becomes more meaningful.
 
-If you have a powerful desktop you keep plugged in all day, Norton's resource appetite is manageable. If you work on a laptop and need battery and performance headroom, the lighter footprint of Surfshark One matters.
+If you have a powerful desktop you keep plugged in all day, Norton's resource appetite is manageable. If you work on a laptop and need battery and performance headroom, the lighter footprint of [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) matters.
 
 ---
 

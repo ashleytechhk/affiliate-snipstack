@@ -199,7 +199,7 @@ At home on your own password-protected Wi-Fi, a VPN is less critical than on pub
 
 ### How much does antivirus with VPN included cost?
 
-Surfshark One typically costs less than most standalone antivirus plans that do not include a VPN. Pricing changes regularly, but you can expect to pay around $2–5 per month on a multi-year plan. [Check the current offer here](/blog/antivirus?sub=antivirus-with-vpn-included-2026__faq) — discounts are often available for new subscribers.
+[Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) typically costs less than most standalone antivirus plans that do not include a VPN. Pricing changes regularly, but you can expect to pay around $2–5 per month on a multi-year plan. [Check the current offer here](/blog/antivirus?sub=antivirus-with-vpn-included-2026__faq) — discounts are often available for new subscribers.
 
 ### Do I need a different plan for each family member?
 

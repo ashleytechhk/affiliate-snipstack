@@ -96,7 +96,7 @@ Published prices for [security suite](https://snipstack.io/security-suite-for-un
 
 ## Who Should Switch — and Who Should Stay
 
-**Switch to Surfshark One if:**
+**Switch to [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) if:**
 - You're paying for Norton or McAfee and feel like you're getting less than you pay for
 - You use public Wi-Fi regularly and want a reliable VPN, not a data-capped token
 - You have more than five devices to cover

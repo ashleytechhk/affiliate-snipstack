@@ -54,7 +54,7 @@ Open the App Store on your iPhone and search for **Surfshark**. Download and ins
 
 Open the app and sign in or create a new Surfshark account. Navigate to the **Alt-Number** feature — you will find it in the app's main menu. If you are not already subscribed to [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), you will be prompted to subscribe. Alt-Number is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) plan, which also covers the VPN, [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/), and data breach alerts.
 
-Tap **Subscribe**, choose your plan length, and confirm with Face ID or your Apple ID password. Surfshark One is billed through the App Store, so it appears on your Apple account like any other subscription.
+Tap **Subscribe**, choose your plan length, and confirm with Face ID or your Apple ID password. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) is billed through the App Store, so it appears on your Apple account like any other subscription.
 
 ### Step 3: Choose Your Country and Number
 

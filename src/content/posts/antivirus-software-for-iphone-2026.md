@@ -69,7 +69,7 @@ Surfshark Alert monitors your email addresses against known data breach database
 
 Surfshark Search is a small but appreciated extra — a private, ad-free search engine that doesn't build a profile on you. It's not Google-level in result depth, but for sensitive queries (health, financial, personal) it's a cleaner option.
 
-**Pricing transparency:** Surfshark One's long-term plan pricing is competitive and the renewal bump is modest compared to what Norton pulls after year one.
+**Pricing transparency:** [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)'s long-term plan pricing is competitive and the renewal bump is modest compared to what Norton pulls after year one.
 
 **[See current Surfshark One pricing →](/blog/surfshark?sub=antivirus-software-for-iphone-2026__mid)**
 

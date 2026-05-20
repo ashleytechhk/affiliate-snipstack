@@ -72,7 +72,7 @@ Surfshark's antivirus runs lighter. The initial scan is thorough; after that, it
 
 ### The Renewal Email Arrives When You Are in a Different Country
 
-Norton's introductory pricing is designed to feel reasonable — until year two, when the bill jumps from $39.99 to $109.99 and you are in a hotel room in Amsterdam with a weak connection and no time to deal with a cancellation chat queue. Surfshark One Bundle's renewal pricing is more predictable, and the unlimited-device coverage means you are not paying extra as you add a travel router or a second laptop.
+Norton's introductory pricing is designed to feel reasonable — until year two, when the bill jumps from $39.99 to $109.99 and you are in a hotel room in Amsterdam with a weak connection and no time to deal with a cancellation chat queue. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) Bundle's renewal pricing is more predictable, and the unlimited-device coverage means you are not paying extra as you add a travel router or a second laptop.
 
 ---
 

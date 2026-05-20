@@ -108,7 +108,7 @@ The one limitation: Alt Number is only available through the [Surfshark One](htt
 
 Here's how to make the call quickly:
 
-- **Already have Surfshark One?** Use Alt Number. It's already included.
+- **Already have [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)?** Use Alt Number. It's already included.
 - **US-based, need free, comfortable with occasional failures?** Google Voice.
 - **Want a disposable number and willing to pay for reliability?** Hushed.
 - **Need something free immediately, can tolerate recycled numbers?** TextNow.

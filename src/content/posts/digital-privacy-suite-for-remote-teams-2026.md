@@ -123,7 +123,7 @@ For teams where antivirus depth is the primary concern and budget is not, Norton
 
 Here is how the math works at the team level. Assume a 5-person remote team, all needing basic privacy coverage, evaluated over 24 months:
 
-**Surfshark One Bundle (5 seats, shared unlimited plan):**
+**[Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) Bundle (5 seats, shared unlimited plan):**
 One subscription covers all 5 people on unlimited devices. At approximately $3.99/month per account — and one account covers the whole team — the real cost per seat is near negligible if sharing is permissible under personal plan terms. For proper team licensing, per-seat pricing is available but requires contacting sales.
 
 **Norton 360 Deluxe (5 seats, 1 device license):**

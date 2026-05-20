@@ -144,7 +144,7 @@ Free alias services exist — SimpleLogin (free tier), AnonAddy, DuckDuckGo Emai
 
 **Minimal UI.** The dashboard does what it says without upsells or confusing toggles. Generate alias, set forwarding address, done.
 
-The tradeoff is honest: if you only want aliases and have zero interest in a VPN or other privacy tools, a free standalone service might be enough. For users who want a layered privacy setup in one subscription, Alt-ID inside Surfshark One makes more practical sense.
+The tradeoff is honest: if you only want aliases and have zero interest in a VPN or other privacy tools, a free standalone service might be enough. For users who want a layered privacy setup in one subscription, Alt-ID inside [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) makes more practical sense.
 
 ---
 

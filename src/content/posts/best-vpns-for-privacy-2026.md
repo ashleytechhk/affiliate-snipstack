@@ -41,7 +41,7 @@ Here's how [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-tot
 | Bloatware / upsell pop-ups | Minimal | Frequent | Frequent |
 | Starting price (annual) | ~$3.99/mo | ~$4.99/mo | ~$4.99/mo |
 
-Norton's LifeLock and McAfee's full identity features are add-ons that push the real price significantly higher. Surfshark One bundles breach alerts without a separate subscription tier.
+Norton's LifeLock and McAfee's full identity features are add-ons that push the real price significantly higher. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) bundles breach alerts without a separate subscription tier.
 
 ---
 

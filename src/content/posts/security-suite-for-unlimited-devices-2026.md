@@ -72,7 +72,7 @@ If you share protection across a household — spouse, kids, adult children, eld
 
 ## What Is Inside [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/)
 
-Surfshark One is not a VPN with antivirus bolted on as an afterthought. It is four distinct tools that work across the same account:
+[Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) is not a VPN with antivirus bolted on as an afterthought. It is four distinct tools that work across the same account:
 
 ### VPN (Surfshark VPN)
 A full-featured VPN with over 3,200 servers in 100+ countries. WireGuard and IKEv2 protocols. No bandwidth cap. Includes CleanWeb, which blocks ads and trackers at the connection level across all apps — not just browsers. Independently audited by Cure53 for its no-logs policy.

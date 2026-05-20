@@ -44,7 +44,7 @@ Bitdefender Antivirus Plus is a focused, excellent product. If pure malware prot
 | Annual price (approx.) | From ~$30/yr | From ~$32–42/yr |
 | 30-day money-back | Yes | Yes |
 
-**Reading the table:** Bitdefender wins on depth of standalone antivirus features at the entry level. Surfshark One wins on breadth — the bundle delivers far more value per dollar once you factor in what you'd pay separately for a VPN and breach monitoring.
+**Reading the table:** Bitdefender wins on depth of standalone antivirus features at the entry level. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) wins on breadth — the bundle delivers far more value per dollar once you factor in what you'd pay separately for a VPN and breach monitoring.
 
 ---
 

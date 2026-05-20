@@ -88,7 +88,7 @@ None of these cost anything. None of them come bundled with a security product y
 
 All three products include real-time antivirus scanning. The technical differences are smaller than their marketing would suggest. What separates them in daily family use:
 
-**[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** (included in Surfshark One) is lightweight, with a clean dashboard and no performance-degrading background processes beyond what's necessary. Independent lab tests show detection rates that are competitive with the major players. Critically, it doesn't slow boot times or pop up during family movie night asking you to optimize something.
+**[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** (included in [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)) is lightweight, with a clean dashboard and no performance-degrading background processes beyond what's necessary. Independent lab tests show detection rates that are competitive with the major players. Critically, it doesn't slow boot times or pop up during family movie night asking you to optimize something.
 
 **Norton's antivirus engine** has decades of reputation behind it and consistently scores well in AV-Test and SE Labs evaluations. The caveat: it bundles processes that run continuously — LiveUpdate, Norton Power Eraser, the LifeLock integration — and collectively these have a measurable impact on older hardware. If the family PC is more than four years old, you may notice slowdown.
 

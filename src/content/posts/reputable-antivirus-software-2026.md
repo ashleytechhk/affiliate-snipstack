@@ -70,7 +70,7 @@ Malwarebytes Premium has a loyal following, particularly among users who want fa
 
 ## [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/): The Bundle That Actually Bundles Everything
 
-Surfshark is primarily known as a VPN, but Surfshark One is an altogether different product category. It layers real-time antivirus, a no-log VPN, breach alert monitoring (your email addresses scanned against leaked databases), and a private search engine — all under one subscription.
+Surfshark is primarily known as a VPN, but [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) is an altogether different product category. It layers real-time antivirus, a no-log VPN, breach alert monitoring (your email addresses scanned against leaked databases), and a private search engine — all under one subscription.
 
 ### Antivirus
 

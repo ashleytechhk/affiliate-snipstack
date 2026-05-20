@@ -70,7 +70,7 @@ The antivirus module is relatively new compared to Norton's decades of engine de
 
 Where [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) genuinely pulls ahead is the unlimited device policy. One subscription covers your laptop, partner's phone, the smart TV, the kids' tablets. Norton and McAfee cap you at five unless you pay for a higher tier.
 
-### Who Surfshark One is for
+### Who [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) is for
 
 - Users who already pay separately for a VPN — the bundle saves money immediately
 - Small households that need to cover multiple devices without per-seat pricing

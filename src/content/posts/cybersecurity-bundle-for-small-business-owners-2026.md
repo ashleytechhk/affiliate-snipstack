@@ -79,7 +79,7 @@ Here is what you are probably dealing with if you are currently on Norton or McA
 
 ---
 
-## What Surfshark One Actually Covers
+## What [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) Actually Covers
 
 For clarity, here is what you get inside a Surfshark One subscription:
 

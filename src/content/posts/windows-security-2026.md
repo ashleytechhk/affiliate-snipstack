@@ -180,6 +180,6 @@ Seniors are the primary target for these newer threats precisely because they te
 
 [Surfshark One](/blog/surfshark?sub=windows-security-2026__cta) adds a VPN, breach monitoring, enhanced antivirus, and cross-device coverage — the four things Windows Security does not provide — for less than the cost of most competitor suites. Setup takes five minutes and you do not need any technical knowledge.
 
-Keep Windows Security on. Add Surfshark One on top. That combination gives you the kind of protection that actually matches what's out there in 2026.
+Keep Windows Security on. Add [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) on top. That combination gives you the kind of protection that actually matches what's out there in 2026.
 
 [Get Surfshark One — and stop worrying about the gaps](/blog/surfshark?sub=windows-security-2026__cta)

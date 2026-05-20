@@ -85,7 +85,7 @@ McAfee's Android app has improved since its low point in the early 2020s. Detect
 
 The background service overhead is the highest of any paid option on this list. On mid-range Android hardware — the Snapdragon 6- and 7-series devices that the majority of Android users run — McAfee's scanner process causes noticeable battery drain and occasional thermal slowdown during scan cycles. The app is also the most aggressive of the group on upsell prompts: identity protection, safe-browsing add-ons, and storage optimization tools all surface inside the app UI.
 
-McAfee's unlimited-device policy is a genuine advantage if you manage a large household, but Surfshark One matches that and adds a real VPN for roughly the same price.
+McAfee's unlimited-device policy is a genuine advantage if you manage a large household, but [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) matches that and adds a real VPN for roughly the same price.
 
 ![Split screen mockup of McAfee mobile app settings vs. Surfshark One clean dashboard on Android phones](/og/best-security-app-for-android-2026-inline-2.png)
 

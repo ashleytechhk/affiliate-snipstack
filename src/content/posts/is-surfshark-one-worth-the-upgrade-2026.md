@@ -86,7 +86,7 @@ This is not a hidden practice — both companies disclose it in their pricing �
 
 ### Surfshark's Pricing Structure
 
-Surfshark One's pricing is not immune to promotional mechanics — the two-year plan is always cheaper per month than the one-year plan — but the renewal price gap is smaller and more predictable. There is no LifeLock-style add-on that gets bundled into the renewal quietly.
+[Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)'s pricing is not immune to promotional mechanics — the two-year plan is always cheaper per month than the one-year plan — but the renewal price gap is smaller and more predictable. There is no LifeLock-style add-on that gets bundled into the renewal quietly.
 
 Running the math over a two-year period:
 
