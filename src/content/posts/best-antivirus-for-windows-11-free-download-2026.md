@@ -93,7 +93,7 @@ If you shop online, log into your bank, or store photos and documents on your co
 
 ## Step 3 — Download Your Chosen Antivirus
 
-**If you are downloading Surfshark Antivirus:**
+**If you are downloading [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/):**
 
 1. Click the link above or use the button on the Surfshark website.
 2. Choose a plan. A one-year or two-year plan works out cheaper than monthly billing.

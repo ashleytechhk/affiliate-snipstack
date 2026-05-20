@@ -130,7 +130,7 @@ Free tools often only check for a small, outdated list of known threats. Stalker
 
 Some free "stalkerware detectors" are actually stalkerware themselves. This is not common, but it does happen, and it is extremely difficult for a non-technical person to tell the difference.
 
-A paid tool like Surfshark Antivirus updates its threat database daily, watches your phone around the clock, and has a clear privacy policy backed by independent audits. For seniors who are not confident navigating technical settings, that reliability matters.
+A paid tool like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) updates its threat database daily, watches your phone around the clock, and has a clear privacy policy backed by independent audits. For seniors who are not confident navigating technical settings, that reliability matters.
 
 Our broader guide to the [best antivirus for Android in 2026](/best-antivirus-for-android-2026/) covers how Surfshark compares to other paid and free options if you want more detail before deciding.
 

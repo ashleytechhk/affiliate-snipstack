@@ -168,7 +168,7 @@ Adware is built to look legitimate. It typically arrives bundled inside a free p
 
 Real security warnings come from apps already installed on your Mac — such as Apple's own notifications or your antivirus app. They never appear as browser pop-ups asking you to call a phone number. If a warning tells you to "Call Apple Support" or "Call Microsoft" with a phone number on screen, it is a scam. Close the browser immediately (press **Command + Q** to force-quit) and run a scan with your antivirus tool to make sure nothing was installed.
 
-### Does Surfshark Antivirus slow down a Mac?
+### Does [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) slow down a Mac?
 
 No — Surfshark Antivirus is designed to run lightly in the background. You will not notice it during normal use. Scheduled scans do use a little processing power while they run, but you can set these to happen overnight or at another time when you are not using your Mac.
 

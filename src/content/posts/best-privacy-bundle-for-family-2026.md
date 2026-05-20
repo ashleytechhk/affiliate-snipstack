@@ -157,7 +157,7 @@ Both features are already included in your Surfshark One plan. You are not payin
 ## Troubleshooting — Common Problems After Switching
 
 **"My computer feels faster after removing Norton — is that right?"**
-Yes. Norton and McAfee are both known to consume significant CPU and RAM, particularly during background scans. Removing them is one of the most common free performance upgrades on a Windows PC. Surfshark Antivirus runs lighter. If you have an older machine, the difference can be dramatic.
+Yes. Norton and McAfee are both known to consume significant CPU and RAM, particularly during background scans. Removing them is one of the most common free performance upgrades on a Windows PC. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) runs lighter. If you have an older machine, the difference can be dramatic.
 
 **"Antivirus found something during the first scan — what do I do?"**
 Click Review Threats, then Remove All for anything flagged. If you are unsure about a specific file, right-click it in the scan results — there is usually a "submit for further analysis" option. Do not ignore flagged items, especially on devices that previously ran no dedicated [antivirus software](https://snipstack.io/antivirus-software-2026/).

@@ -117,7 +117,7 @@ There are many antivirus programs available. For older Mac users who want someth
 
 **1. It is genuinely simple.** The app has a large, clean interface with a single big button that says "Scan Now." There are no confusing menus, no pop-ups asking you to buy upgrades every day, and no technical jargon.
 
-**2. It covers the gaps Apple leaves.** Surfshark Antivirus adds real-time malware scanning, scam website blocking (called CleanWeb), and webcam protection — things Apple's built-in tools do not include.
+**2. It covers the gaps Apple leaves.** [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) adds real-time malware scanning, scam website blocking (called CleanWeb), and webcam protection — things Apple's built-in tools do not include.
 
 **3. One subscription protects all your devices.** If you have an iPhone or iPad as well, one Surfshark account covers those too. You do not have to pay separately for each device.
 

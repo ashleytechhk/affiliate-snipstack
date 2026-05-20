@@ -108,7 +108,7 @@ Once it is installed, you do not need to do anything special. It runs automatica
 
 ## A Word on Cost — and Why It Is Worth It
 
-Surfshark Antivirus is available as part of a bundle that also includes a VPN (a tool that hides your internet activity from anyone trying to spy on it) and other privacy features. The price is reasonable — less than the cost of a magazine subscription per month.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is available as part of a bundle that also includes a VPN (a tool that hides your internet activity from anyone trying to spy on it) and other privacy features. The price is reasonable — less than the cost of a magazine subscription per month.
 
 Consider what you are protecting: your savings, your identity, your memories stored as photos, your correspondence. The financial and emotional cost of recovering from a cyberattack is far greater than the cost of preventing one.
 

@@ -170,7 +170,7 @@ No. Surfshark One includes dark web monitoring and breach alerts through Surfsha
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) available on all devices?
 
-Surfshark VPN runs on Windows, macOS, iOS, Android, Linux, and browser extensions. Surfshark Antivirus is currently available on Windows and Android. Surfshark Alert is managed through the web dashboard and Surfshark app. One subscription covers unlimited devices simultaneously.
+Surfshark VPN runs on Windows, macOS, iOS, Android, Linux, and browser extensions. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is currently available on Windows and Android. Surfshark Alert is managed through the web dashboard and Surfshark app. One subscription covers unlimited devices simultaneously.
 
 ### How does Surfshark One compare to Norton 360?
 

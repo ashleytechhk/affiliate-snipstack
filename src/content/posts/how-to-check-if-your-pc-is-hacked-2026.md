@@ -176,6 +176,6 @@ Knowing how to check if your PC is hacked is a skill that protects your photos, 
 
 The honest truth is that manual checks take effort and need to happen regularly to stay effective. A reliable antivirus program handles that for you, quietly, every day.
 
-If you want a straightforward option that does not assume technical knowledge, Surfshark Antivirus is a reasonable place to start.
+If you want a straightforward option that does not assume technical knowledge, [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is a reasonable place to start.
 
 **[Learn more and check current Surfshark Antivirus offers →](/blog/antivirus?sub=how-to-check-if-your-pc-is-hacked-2026__cta)**

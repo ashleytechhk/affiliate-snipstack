@@ -119,7 +119,7 @@ For seniors, the clearest sign of good software is clear communication. [Surfsha
 
 ![Surfshark Antivirus dashboard on a laptop showing real-time protection active and scheduled scan settings, alongside a comparison table with Windows Defender](/og/keylogger-detection-and-removal-tool-2026-inline-2.png)
 
-There are several antivirus tools on the market. Surfshark Antivirus earns a recommendation here for reasons that matter specifically to older adults.
+There are several antivirus tools on the market. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) earns a recommendation here for reasons that matter specifically to older adults.
 
 | What matters for seniors | Windows Defender (built-in) | Surfshark Antivirus |
 |---|---|---|

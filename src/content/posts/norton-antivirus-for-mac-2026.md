@@ -170,7 +170,7 @@ Surfshark may occasionally offer you additional features. You are never required
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Antivirus safe for older Mac models?
 
-Yes. Surfshark Antivirus works on any Mac running macOS 10.15 (Catalina) or newer. If your Mac is from 2015 or later and has received software updates, it should work fine. If you are unsure, check **About This Mac** as described in the Prerequisites section above.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) works on any Mac running macOS 10.15 (Catalina) or newer. If your Mac is from 2015 or later and has received software updates, it should work fine. If you are unsure, check **About This Mac** as described in the Prerequisites section above.
 
 ### Do I need to uninstall any other [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) first?
 

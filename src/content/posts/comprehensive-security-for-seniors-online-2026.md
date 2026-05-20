@@ -128,7 +128,7 @@ McAfee's WebAdvisor does flag risky sites, but it requires browser installation 
 
 The pricing structure has the same first-year discount / second-year spike pattern as Norton.
 
-For seniors who are primarily concerned about malware on a Windows PC and nothing else, McAfee covers the basics. For anything beyond that — monitoring for breach exposure, encrypted browsing on public Wi-Fi, phishing link protection that follows them across devices — it requires additional purchases.
+For seniors who are primarily concerned about malware on a Windows PC and nothing else, McAfee covers the basics. For anything beyond that — monitoring for breach exposure, encrypted browsing on public Wi-Fi, [phishing link](https://snipstack.io/phishing-link-checker-free-2026/) protection that follows them across devices — it requires additional purchases.
 
 ---
 

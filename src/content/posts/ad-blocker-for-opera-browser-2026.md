@@ -24,13 +24,13 @@ An [ad blocker for](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-
 
 Opera takes this a step further than most browsers by bundling the blocker directly into the browser engine itself rather than relying on a separately installed extension. That means there is no extension to install, update, or manage — the blocking logic ships with every update to the Opera app.
 
-On desktop, ad blockers have existed as extensions for over a decade. On mobile, the extension ecosystem is far more restricted. Chrome for Android does not support full ad-blocking extensions. Safari on iOS uses a sandboxed content-blocking API that limits what extensions can do. Opera for Android and iOS sidesteps the extension problem entirely by doing the blocking inside the browser.
+On desktop, [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)s have existed as extensions for over a decade. On mobile, the extension ecosystem is far more restricted. Chrome for Android does not support full ad-blocking extensions. Safari on iOS uses a sandboxed content-blocking API that limits what extensions can do. Opera for Android and iOS sidesteps the extension problem entirely by doing the blocking inside the browser.
 
 The key word is "inside the browser." That scope matters — and it is exactly where the built-in blocker's limits begin.
 
 ---
 
-## How Opera's Built-In Ad Blocker Works on Mobile
+## How Opera's Built-In [Ad Blocker](https://snipstack.io/ad-blocker-firefox-2026/) Works on Mobile
 
 Opera for Android and Opera Mini both ship with a native [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) that you activate from Settings. Once on, Opera uses its own curated blocklist — maintained by the Opera team — to filter ad requests across every website you visit inside the app.
 
@@ -67,7 +67,7 @@ There is also the question of tracker sophistication. Opera's blocklist is maint
 
 **[See how network-level blocking goes further than browser-only tools](/blog/adblock?sub=ad-blocker-for-opera-browser-2026__mid)**
 
-Finally, there is malware and phishing protection. Opera's ad blocker focuses on ads and trackers. It is not a security layer against malicious URLs. A domain that serves malware via a non-ad URL — a phishing page, a drive-by download disguised as a regular link — may not be caught by a blocklist tuned for advertising.
+Finally, there is malware and phishing protection. Opera's [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) focuses on ads and trackers. It is not a security layer against malicious URLs. A domain that serves malware via a non-ad URL — a phishing page, a drive-by download disguised as a regular link — may not be caught by a blocklist tuned for advertising.
 
 ---
 

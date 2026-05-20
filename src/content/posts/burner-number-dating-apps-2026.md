@@ -162,7 +162,7 @@ Dating apps don't care what number you use as long as verification goes through.
 
 **How is this different from just blocking someone?**
 
-Blocking stops future contact but the person already has your number. With a burner number, they never had your real number to begin with. Disabling the burner after you part ways leaves no thread back to your actual identity.
+Blocking stops future contact but the person already has your number. With a [burner number](https://snipstack.io/burner-number-for-online-classified-ads-2026/), they never had your real number to begin with. Disabling the burner after you part ways leaves no thread back to your actual identity.
 
 ---
 

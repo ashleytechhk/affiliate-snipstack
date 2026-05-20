@@ -195,7 +195,7 @@ Surfshark offers 24/7 live chat support. Click the chat icon in the bottom corne
 To recap what you have accomplished:
 
 1. Checked your macOS version
-2. Downloaded and installed Surfshark Antivirus
+2. Downloaded and installed [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/)
 3. Logged in and activated the app
 4. Ran your first full scan
 5. Turned on real-time and scheduled protection

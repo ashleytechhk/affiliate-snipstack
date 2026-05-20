@@ -164,7 +164,7 @@ Older antivirus products had a reputation for slowing computers down. Modern too
 Once a week is a good habit. Real-time protection catches most threats automatically, but a weekly scheduled scan gives you extra peace of mind. You can set this up inside the Surfshark app under Settings, so it runs automatically overnight.
 
 **Q: What if I get a phone call from someone claiming my computer has a virus?**
-Hang up. No legitimate antivirus company will call you unsolicited. These calls are scams designed to get remote access to your computer or your credit card number. Your Surfshark antivirus will alert you on screen if a real problem is found — it will not call you by phone.
+Hang up. No legitimate antivirus company will call you unsolicited. These calls are scams designed to get remote access to your computer or your credit card number. Your [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) will alert you on screen if a real problem is found — it will not call you by phone.
 
 **Q: Can I use one Surfshark subscription on more than one device?**
 Yes. A Surfshark subscription covers an unlimited number of devices. That means you can protect your Windows 10 laptop and also install it on a family member's computer or on your own tablet, all under one account at no extra cost.

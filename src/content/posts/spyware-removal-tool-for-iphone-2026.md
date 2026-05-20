@@ -170,7 +170,7 @@ The honest answer is that no tool offers complete protection. What a quality spy
 
 There are several security apps available for iPhone. The challenge for seniors is that most of them are designed for technical users: confusing menus, jargon-heavy settings, and aggressive notifications that create more anxiety than they resolve.
 
-Surfshark Antivirus takes a different approach:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) takes a different approach:
 
 - **One clear status screen** — it shows "Protected" in green or flags a problem in red. There is no guesswork.
 - **Automatic protection** — once set up, it works in the background without requiring daily attention.

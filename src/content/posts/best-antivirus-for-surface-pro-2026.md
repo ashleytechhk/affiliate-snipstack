@@ -69,7 +69,7 @@ These three gaps are precisely where targeted attacks against seniors land. A de
 
 ![Surfshark Antivirus dashboard on a Surface Pro — clean, large-text interface for seniors](/og/best-antivirus-for-surface-pro-2026-inline-1.png)
 
-## How to Install Surfshark Antivirus on Your Surface Pro
+## How to Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) on Your Surface Pro
 
 You do not need any special technical knowledge. Follow these steps one at a time.
 

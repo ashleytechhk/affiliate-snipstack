@@ -97,7 +97,7 @@ Surfshark was designed for everyday people, not IT professionals. The interface 
 
 ### Real-Time Protection That Works Quietly
 
-Once running, Surfshark Antivirus monitors your system in the background. You do not need to think about it or remember to run scans. It works quietly and only alerts you when something actually needs your attention.
+Once running, [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) monitors your system in the background. You do not need to think about it or remember to run scans. It works quietly and only alerts you when something actually needs your attention.
 
 ### It Covers Multiple Devices
 

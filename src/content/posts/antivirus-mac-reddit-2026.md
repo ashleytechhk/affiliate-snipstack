@@ -125,7 +125,7 @@ Not all antivirus software is the same. Here are the things that matter most for
 
 **Affordable and simple to renew** — Complicated pricing and hidden fees are frustrating. Look for a clear annual price with no surprises.
 
-**Surfshark Antivirus** meets all five of these criteria. It was designed to be low-maintenance, and the alerts it sends are written in plain language — not tech jargon.
+**[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/)** meets all five of these criteria. It was designed to be low-maintenance, and the alerts it sends are written in plain language — not tech jargon.
 
 ![Surfshark Antivirus running on a Mac — clean dashboard screenshot](/og/antivirus-mac-reddit-2026-inline-2.png)
 

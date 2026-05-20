@@ -153,7 +153,7 @@ Free antivirus programs offer limited protection. They often show many ads, miss
 
 ### Will antivirus software slow down my computer?
 
-Modern antivirus programs are designed to run quietly without noticeable impact. Surfshark Antivirus is particularly lightweight. You may notice a brief slowdown during a full scan, but normal day-to-day use — browsing, email, video calls — should feel the same.
+Modern antivirus programs are designed to run quietly without noticeable impact. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is particularly lightweight. You may notice a brief slowdown during a full scan, but normal day-to-day use — browsing, email, video calls — should feel the same.
 
 ### What is the difference between antivirus and a VPN?
 

@@ -164,7 +164,7 @@ Yes — [virtual numbers](https://snipstack.io/virtual-number-for-google-account
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my OfferUp listings if I delete the burner number?**
 Your listings stay live — only the contact number in the description changes. Update the description with a new number or remove it entirely. Existing conversations inside OfferUp's in-app messaging are unaffected.
 
-**Can I use the same burner number for both OfferUp and my dating apps?**
+**Can I use the same [burner number for](https://snipstack.io/burner-number-for-online-classified-ads-2026/) both OfferUp and my dating apps?**
 You can, but it's not recommended. Using separate numbers for separate contexts gives you more control. If you delete the OfferUp number, you don't also lose the number your dates are texting. Alt-Number lets you manage multiple numbers, so keeping them separate is easy.
 
 ---

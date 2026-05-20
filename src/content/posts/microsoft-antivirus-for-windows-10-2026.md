@@ -209,7 +209,7 @@ We scored each option against these five criteria below.
 
 ---
 
-## Our Winner: Surfshark Antivirus
+## Our Winner: [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/)
 
 For Windows 10 seniors, **Surfshark Antivirus** is the clear recommendation as a paid upgrade over Microsoft Defender alone.
 

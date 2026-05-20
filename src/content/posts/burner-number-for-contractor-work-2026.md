@@ -128,7 +128,7 @@ No. The number is real and fully functional — the person can call and text you
 
 **Why can't I just block someone who gets out of hand?**
 
-Blocking stops future messages but the person still has your number — and for contractors, that number connects to a full public business identity. With a burner number, the situation never escalates that far: you disable the number before they have the opportunity to misuse the connection between your dating life and your work identity.
+Blocking stops future messages but the person still has your number — and for contractors, that number connects to a full public business identity. With a [burner number](https://snipstack.io/burner-number-for-online-classified-ads-2026/), the situation never escalates that far: you disable the number before they have the opportunity to misuse the connection between your dating life and your work identity.
 
 **Does Surfshark Alt-Number work outside the US?**
 

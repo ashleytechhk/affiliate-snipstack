@@ -100,7 +100,7 @@ If everything is green, Defender is working. But remember — working does not m
 
 ## How to Add [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) (Step by Step)
 
-Surfshark Antivirus is simple to install. You do not need to be a tech person. Here is exactly what to do:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is simple to install. You do not need to be a tech person. Here is exactly what to do:
 
 [Get Surfshark Antivirus](/blog/surfshark?sub=windows-defender-seniors-2026__mid)
 

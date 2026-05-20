@@ -131,7 +131,7 @@ That is it. You are protected.
 
 ## Is the Cost Worth It?
 
-Surfshark Antivirus costs a small amount per month — roughly the price of a greeting card. Here is what you are getting for that:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) costs a small amount per month — roughly the price of a greeting card. Here is what you are getting for that:
 
 - Constant web protection, every time you go online
 - Email and message link checking

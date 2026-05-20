@@ -147,7 +147,7 @@ If you are sitting on a Norton subscription that is about to renew, that notice 
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) a legitimate antivirus replacement for Norton?
 
-Yes. Surfshark Antivirus is built on an AV-TEST certified engine and provides real-time malware protection, scheduled scanning, and behavioral threat detection. It is not a novelty security add-on — it is a functional [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) competes with established products in independent lab tests.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is built on an AV-TEST certified engine and provides real-time malware protection, scheduled scanning, and behavioral threat detection. It is not a novelty security add-on — it is a functional [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) competes with established products in independent lab tests.
 
 ### Can I use Surfshark One on all my devices including mobile?
 

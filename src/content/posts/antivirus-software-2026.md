@@ -140,7 +140,7 @@ The easiest check: run the EICAR test file (a harmless, standardized test string
 
 ### Does antivirus software slow down my computer?
 
-It depends heavily on the product. Heavy suites like older Norton and McAfee versions have a measurable impact on boot time and scan-period CPU usage. Lightweight options like ESET NOD32, Malwarebytes Premium, and Surfshark Antivirus are engineered for minimal background footprint — typically under 2% CPU at idle. If your machine is slow, checking whether your antivirus is the culprit is a reasonable first step. [Surfshark One](/blog/surfshark?sub=antivirus-software-2026__faq) consistently scores well on performance benchmarks in independent tests.
+It depends heavily on the product. Heavy suites like older Norton and McAfee versions have a measurable impact on boot time and scan-period CPU usage. Lightweight options like ESET NOD32, Malwarebytes Premium, and [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) are engineered for minimal background footprint — typically under 2% CPU at idle. If your machine is slow, checking whether your antivirus is the culprit is a reasonable first step. [Surfshark One](/blog/surfshark?sub=antivirus-software-2026__faq) consistently scores well on performance benchmarks in independent tests.
 
 ### What is the difference between antivirus and internet [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)s?
 

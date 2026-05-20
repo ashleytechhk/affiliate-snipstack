@@ -148,7 +148,7 @@ Think of it like this: asking VirusTotal if your computer is safe is like testin
 
 ![Device mockup comparison: left side shows 'online scanner — one file only' vs right side showing Surfshark Antivirus dashboard with full-machine scan progress and real-time shield active](/og/free-virus-scan-online-2026-inline-2.png)
 
-Surfshark Antivirus is installed on your computer and works continuously. Here is what that means in practice:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is installed on your computer and works continuously. Here is what that means in practice:
 
 **Full-machine scanning** — It checks every file and program on your computer, not just the ones you remember to upload somewhere.
 
