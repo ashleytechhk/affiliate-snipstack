@@ -17,7 +17,7 @@ But the answer is not "give up." There are real ways to reduce or eliminate ads 
 
 ## Quick Verdict
 
-The Nintendo Switch does not support browser extensions, so traditional [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)s cannot be installed directly. The practical options are DNS-level blocking (changing the DNS in Switch network settings) or router-level blocking (covering all devices on your home network automatically). For mobile users, the easiest all-in-one fix is Surfshark's CleanWeb feature — it handles DNS-level ad blocking on your Switch via custom DNS, covers your phone natively via the Surfshark app, and requires no technical configuration beyond a settings change.
+The Nintendo Switch does not support browser extensions, so traditional [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)s cannot be installed directly. The practical options are DNS-level blocking (changing the DNS in Switch network settings) or router-level blocking (covering all devices on your home network automatically). For mobile users, the easiest all-in-one fix [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s CleanWeb feature — it handles DNS-level ad blocking on your Switch via custom DNS, covers your phone natively via the Surfshark app, and requires no technical configuration beyond a settings change.
 
 ---
 
@@ -64,7 +64,7 @@ DNS-level ad blocking works by intercepting those lookups. When your device asks
 
 The Switch allows you to manually set DNS servers in its network settings. Pointing it to a DNS service that maintains an ad-blocking blocklist covers all requests the Switch makes — including browser sessions.
 
-Here is how to set it up:
+Here is [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up:
 
 1. On your Switch, go to **System Settings**
 2. Select **Internet** → **Internet Settings**
@@ -134,7 +134,7 @@ Router setup requires a compatible router (most modern routers support custom DN
 
 ---
 
-## CleanWeb vs. AdGuard DNS: Quick Comparison
+## CleanWeb vs. [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/): Quick Comparison
 
 Both Surfshark CleanWeb and [AdGuard DNS](/top-adguard-dns-2026/) offer DNS-level ad blocking compatible with Nintendo Switch. Here is how they compare:
 
