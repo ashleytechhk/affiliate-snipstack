@@ -141,7 +141,7 @@ The case for switching is strongest if any of these describe your situation:
 - You are tired of in-app promotions inside software you are already paying for
 - You want breach monitoring without paying for an identity-theft add-on tier
 
-The case for staying with Norton or McAfee is narrower. If you have a specific feature tied to their platform — LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance, for instance, which is underwritten by an insurance product, not just monitoring — that is worth factoring in before you cancel. For pure security suite functionality, Surfshark One covers the same ground at lower cost and without the device ceiling.
+The case for staying with Norton or McAfee is narrower. If you have a specific feature tied to their platform — LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance, for instance, which is underwritten by an insurance product, not just monitoring — that is worth factoring in before you cancel. For pure security suite functionality, [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) covers the same ground at lower cost and without the device ceiling.
 
 ---
 

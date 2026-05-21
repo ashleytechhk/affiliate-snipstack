@@ -141,7 +141,7 @@ Do this after you have confirmed the new setup is working — not before.
 
 ## Step 7 — Configure Kid-Friendly Settings
 
-Surfshark One's **CleanWeb** feature blocks malware domains and phishing sites at the DNS level — it works on every device connected through the VPN, including kids' tablets.
+[Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/)'s **CleanWeb** feature blocks malware domains and phishing sites at the DNS level — it works on every device connected through the VPN, including kids' tablets.
 
 To tighten it further:
 

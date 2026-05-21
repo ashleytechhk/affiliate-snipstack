@@ -150,7 +150,7 @@ This is the step most families skip and should not. [Alt-ID](https://snipstack.i
 
 **Alt-Number** works the same way for phone numbers. It is a real, functional number that receives SMS verification codes and forwards calls. Use it for any service that asks for a mobile number but does not strictly need your real one — [pizza delivery accounts](https://snipstack.io/virtual-phone-number-google-voice-2026/), store loyalty programs, dating apps if your teenagers are at that age, anything you do not fully trust.
 
-Both features are already included in your Surfshark One plan. You are not paying extra for them.
+Both features are already included in your [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/). You are not paying extra for them.
 
 ---
 

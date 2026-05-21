@@ -164,7 +164,7 @@ Surfshark VPN is the standalone VPN subscription. [Surfshark One](https://snipst
 
 They draw on similar breach databases, but they're different products. Surfshark Alert is a continuous monitoring service that watches specified email addresses and personal data in real time and pushes notifications. Have I Been Pwned is a free lookup tool you run manually. Alert is the proactive, automated version.
 
-### Does Surfshark One include credit monitoring?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) include credit monitoring?
 
 No. Surfshark One includes dark web monitoring and breach alerts through Surfshark Alert, but does not monitor your credit file at Experian, Equifax, or TransUnion. For credit monitoring, supplement with a free service like Credit Karma or Experian's free tier.
 

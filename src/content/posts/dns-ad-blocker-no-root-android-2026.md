@@ -8,9 +8,9 @@ tags: ["ad blocker", "privacy", "review"]
 
 Rooting your Android phone used to be the only reliable way to block ads system-wide. Tools like AdAway worked by editing the system hosts file — a process that required root access, voided warranties, and risked bricking your device if something went wrong. For most people, it was a non-starter.
 
-That has changed completely. Modern Android has built-in features that let you run a DNS ad blocker with no root, no special software installs, and no technical risk. If you have Android 9 or later — which covers the overwhelming majority of active Android phones in 2026 — you can have system-wide ad blocking running in under three minutes.
+That has changed completely. Modern Android has built-in features that let you run a DNS [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) with no root, no special software installs, and no technical risk. If you have Android 9 or later — which covers the overwhelming majority of active Android phones in 2026 — you can have system-wide ad blocking running in under three minutes.
 
-This guide explains exactly what a DNS ad blocker is, why you no longer need root to use one, how to set it up, and which option gives you the most thorough protection.
+This guide explains exactly what a DNS [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/) is, why you no longer need root to use one, how to set it up, and which option gives you the most thorough protection.
 
 ![DNS ad blocking on Android — no root required](/og/dns-ad-blocker-no-root-android-2026.png)
 
@@ -32,7 +32,7 @@ This approach is fundamentally different from browser-based ad blockers, which i
 
 ### Why Did DNS Ad Blocking Used to Require Root?
 
-The traditional method for blocking ads on Android at the system level relied on editing the `/etc/hosts` file. This file is a local override list: tell the phone that `ads.example.com` points to `0.0.0.0` (nowhere), and every app on the phone gets blocked from that domain.
+The traditional method for [blocking ads on](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) Android at the system level relied on editing the `/etc/hosts` file. This file is a local override list: tell the phone that `ads.example.com` points to `0.0.0.0` (nowhere), and every app on the phone gets blocked from that domain.
 
 The problem: `/etc/hosts` is a protected system file. Reading it is fine. Writing to it requires root — elevated OS-level access that Android locks down by default. Apps like AdAway, which was the gold standard for Android ad blocking for years, worked exclusively by writing to this file. No root, no hosts-file editing, no system-wide blocking.
 

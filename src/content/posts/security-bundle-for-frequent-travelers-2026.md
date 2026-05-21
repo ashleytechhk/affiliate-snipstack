@@ -78,7 +78,7 @@ Norton's introductory pricing is designed to feel reasonable — until year two,
 
 ## What [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) Bundle Actually Includes
 
-The "Bundle" tier adds to the base Surfshark One package. Here is the full stack:
+The "Bundle" tier adds to the base [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) package. Here is the full stack:
 
 - **Surfshark VPN** — WireGuard and OpenVPN protocols, 3,200+ servers across 100 countries, unlimited simultaneous connections, no-logs policy independently audited
 - **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** — Real-time scanning, ransomware protection, scheduled scans you control, webcam protection on desktop

@@ -126,7 +126,7 @@ Introductory pricing is designed to obscure long-term cost. Run the two-year mat
 
 - **Norton 360 Deluxe:** ~$30 year one + ~$110–150 year two = **~$140–180 total**
 - **McAfee Total Protection:** ~$25 year one + ~$120–130 year two = **~$145–155 total**
-- **Surfshark One Bundle (2-year plan):** ~$55–65 total, stable pricing, no cliff at renewal
+- **[Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) Bundle (2-year plan):** ~$55–65 total, stable pricing, no cliff at renewal
 
 If you add a standalone VPN to Norton (because the bundled one isn't enough for banking on the go), add another $40–80 per year. The gap widens further.
 

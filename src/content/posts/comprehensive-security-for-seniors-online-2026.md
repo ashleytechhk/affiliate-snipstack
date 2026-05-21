@@ -134,7 +134,7 @@ For seniors who are primarily concerned about malware on a Windows PC and nothin
 
 ![Infographic diagram showing five protection layers of Surfshark ONE covering a senior's laptop, phone, and tablet under a single subscription umbrella](/og/comprehensive-security-for-seniors-online-2026-inline-2.png)
 
-*Surfshark ONE's five layers — antivirus, VPN, breach alerts, DNS-level phishing blocking, and identity masking — operate across unlimited devices under one subscription.*
+*[Surfshark ONE](https://snipstack.io/surfshark-one-plan-comparison-2026/)'s five layers — antivirus, VPN, breach alerts, DNS-level phishing blocking, and identity masking — operate across unlimited devices under one subscription.*
 
 ## The Specific Scenarios Where Surfshark ONE Wins
 

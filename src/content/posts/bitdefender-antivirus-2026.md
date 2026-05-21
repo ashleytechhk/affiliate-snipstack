@@ -80,7 +80,7 @@ Pricing those out separately:
 
 That's $80–140/year stacked, before any overlap or redundancy.
 
-Surfshark One covers all three categories at a price that lands well below that stack — with unlimited simultaneous devices, so your phone, laptop, and partner's tablet are all covered under one subscription.
+[Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) covers all three categories at a price that lands well below that stack — with unlimited simultaneous devices, so your phone, laptop, and partner's tablet are all covered under one subscription.
 
 ![Surfshark One bundle pricing vs standalone antivirus cost](/og/bitdefender-antivirus-2026-inline-2.png)
 

@@ -147,7 +147,7 @@ Yes — iOS Silence Unknown Callers, Android Call Screen, and the free tiers of 
 
 ### Can a spam blocker stop a dating match from harassing me?
 
-Standard spam blockers target robocalls and known scam numbers. If a specific person is calling you from their personal number, a spam blocker is unlikely to catch it — you would need to block that number manually. A virtual number (like [Surfshark Alt Number](/blog/surfshark?sub=free-spam-call-blocker-2026__faq)) is more effective because you can simply delete the number they have, cutting off all future contact in one step.
+Standard spam blockers target robocalls and known scam numbers. If a specific person is calling you from their personal number, a spam blocker is unlikely to catch it — you would need to block that number manually. A [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/) (like [Surfshark Alt Number](/blog/surfshark?sub=free-spam-call-blocker-2026__faq)) is more effective because you can simply delete the number they have, cutting off all future contact in one step.
 
 ### Does Google Voice fully hide my real number?
 

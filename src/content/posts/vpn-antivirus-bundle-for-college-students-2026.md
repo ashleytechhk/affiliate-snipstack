@@ -117,7 +117,7 @@ The bloatware complaint is real, but the financial complaint is equally valid. H
 
 **Year 3 and beyond:** Price stays elevated. No multi-year discount unless you cancel and re-subscribe, which requires deliberately going through the cancellation process (notoriously difficult with these providers).
 
-Surfshark One's long-term plan pricing is stable, and multi-year plans lock in a lower monthly rate from the start. There is no introductory bait-and-switch. The price you see at checkout is what you commit to for the duration of the plan.
+[Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/)'s long-term plan pricing is stable, and multi-year plans lock in a lower monthly rate from the start. There is no introductory bait-and-switch. The price you see at checkout is what you commit to for the duration of the plan.
 
 ![Surfshark One app interface showing antivirus, VPN, and CleanWeb features on a student laptop](/og/vpn-antivirus-bundle-for-college-students-2026-inline-2.png)
 

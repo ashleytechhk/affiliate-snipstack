@@ -156,7 +156,7 @@ Yes. Surfshark One includes unlimited simultaneous connections, so every person 
 
 ### What is Surfshark Alert and is it worth using?
 
-Surfshark Alert monitors your email addresses, passwords, credit cards, and personal IDs against known breach databases. When your data appears in a leaked dataset, you get an alert so you can act immediately — change passwords, cancel cards, freeze credit. It is included in all Surfshark One plans at no extra cost. Bitdefender does not include equivalent breach monitoring in Total Security; it is a separate add-on.
+Surfshark Alert monitors your email addresses, passwords, credit cards, and personal IDs against known breach databases. When your data appears in a leaked dataset, you get an alert so you can act immediately — change passwords, cancel cards, freeze credit. It is included in all [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/)s at no extra cost. Bitdefender does not include equivalent breach monitoring in Total Security; it is a separate add-on.
 
 ---
 

@@ -99,7 +99,7 @@ The device limit on standard plans (up to 5 devices) is a pain point for househo
 
 McAfee's renewal pricing follows the same playbook as Norton — heavy year-one discount, steeper renewal. If you're reading this as a current McAfee subscriber, check your renewal date.
 
-**Bottom line on McAfee:** SMS scam detection is legitimately useful in 2026. But the device limit and pricing trajectory make it hard to recommend over Surfshark One for most iPhone users.
+**Bottom line on McAfee:** SMS scam detection is legitimately useful in 2026. But the device limit and pricing trajectory make it hard to recommend over [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) for most iPhone users.
 
 ---
 

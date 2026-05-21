@@ -103,7 +103,7 @@ Norton's engine is battle-tested. SmartScreen integration, SONAR behavioural det
 
 The problem is structural. Norton's introductory pricing creates a bait-and-switch dynamic that has generated significant user frustration on forums and review sites. Year-two pricing can be double the promotional rate.
 
-If your employer or insurer provides Norton 360 at no cost, keep it. If you are self-paying and renewing annually, the value case versus Surfshark One weakens every year.
+If your employer or insurer provides Norton 360 at no cost, keep it. If you are self-paying and renewing annually, the value case versus [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) weakens every year.
 
 ---
 

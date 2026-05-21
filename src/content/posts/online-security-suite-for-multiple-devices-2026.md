@@ -178,7 +178,7 @@ Switch to the **WireGuard** protocol in VPN settings — it's significantly fast
 Stop both immediately and complete the Norton removal process from Step 2. Two active antivirus programs will conflict. The symptoms are sluggish performance and erratic threat alerts from both products simultaneously.
 
 **"Surfshark won't install on my older Windows machine."**
-Check that Windows is updated to at least version 10 (1903 or later). Surfshark One supports [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and 11. If you're running Windows 7 or 8, an OS update is the prerequisite — running unsupported operating systems is itself a security risk regardless of [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/).
+Check that Windows is updated to at least version 10 (1903 or later). [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) supports [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and 11. If you're running Windows 7 or 8, an OS update is the prerequisite — running unsupported operating systems is itself a security risk regardless of [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/).
 
 **"I forgot to cancel Norton before it renewed."**
 Contact Norton's support team directly and ask about their refund policy — many users report successful refunds within 60 days. For McAfee, check your account's subscription terms for the cancellation window. Act immediately after noticing the charge rather than waiting.

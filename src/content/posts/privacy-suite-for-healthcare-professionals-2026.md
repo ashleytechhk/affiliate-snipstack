@@ -112,7 +112,7 @@ The math for a single user who was paying $105/year for Norton 360 Deluxe with a
 
 ## Who Should Make This Switch
 
-**You're a good fit for Surfshark One if:**
+**You're a good fit for [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) if:**
 - You're currently renewing Norton or McAfee at $80–110/year and feeling the price creep
 - You want a VPN with no data cap for coffee shop, hotel, or conference Wi-Fi
 - You're on more than five personal devices

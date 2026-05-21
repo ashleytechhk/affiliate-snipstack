@@ -117,7 +117,7 @@ Yes. The antivirus and VPN client support Windows 10 (64-bit, version 1903 and l
 
 ### Can I use the same subscription on my phone?
 
-Surfshark One Bundle supports unlimited devices across Windows, macOS, Android, iOS, and Linux. One subscription covers your entire household, which is a meaningful advantage over Norton or McAfee single-device base plans.
+[Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) Bundle supports unlimited devices across Windows, macOS, Android, iOS, and Linux. One subscription covers your entire household, which is a meaningful advantage over Norton or McAfee single-device base plans.
 
 ### Does Windows need antivirus if I have Defender?
 

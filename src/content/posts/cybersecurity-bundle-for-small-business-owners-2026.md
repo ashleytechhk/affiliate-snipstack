@@ -101,7 +101,7 @@ The combination means one subscription, one app, one login — covering your ful
 
 This is a comparison, not a one-sided takedown. Both Norton 360 and McAfee Total Protection have strong detection rates. Independent AV testing labs like AV-TEST and AV-Comparatives regularly give both products high marks for malware detection accuracy.
 
-If you have an IT department that manages software deployment and does not mind configuring multiple components, the enterprise tiers of both products offer features that go beyond what Surfshark One provides — including deeper [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance options, managed detection tools, and phone-based support lines.
+If you have an IT department that manages software deployment and does not mind configuring multiple components, the enterprise tiers of both products offer features that go beyond what [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) provides — including deeper [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance options, managed detection tools, and phone-based support lines.
 
 For a small business owner without dedicated IT staff who needs reliable baseline protection across every device without management overhead, that enterprise feature depth is not what matters. What matters is that the software runs quietly, covers every device, alerts you when something real happens, and costs a predictable amount per month.
 

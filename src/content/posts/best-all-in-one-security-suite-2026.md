@@ -125,7 +125,7 @@ Introductory pricing is designed to obscure the actual cost of ownership. Run a 
 - Norton 360 Deluxe: ~$30 year one + ~$110 year two = **~$140 total**
 - McAfee Total Protection: ~$25 year one + ~$120 year two = **~$145 total**
 - Bitdefender Total Security: ~$40/year (more stable pricing) = **~$80 total** — but no VPN or breach alerts included
-- Surfshark One Bundle (2-year plan): ~$55–$65 total for 2 years at current multi-year pricing = **~$55–$65 total**, includes VPN and breach monitoring
+- [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) Bundle (2-year plan): ~$55–$65 total for 2 years at current multi-year pricing = **~$55–$65 total**, includes VPN and breach monitoring
 
 If you're comparing Norton's $30 intro offer to Surfshark's $55 two-year plan, the Norton option looks cheaper until you include year two. Factor VPN and breach monitoring as separate Norton add-ons (or a standalone VPN subscription at $40–$80/year) and the math shifts decisively.
 

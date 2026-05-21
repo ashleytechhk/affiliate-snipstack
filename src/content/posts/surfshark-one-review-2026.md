@@ -112,7 +112,7 @@ This is not a feature Norton or McAfee offers at all. Legacy suites protect your
 
 ## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/). Norton 360 vs. McAfee Total Protection
 
-| Feature | Surfshark One | Norton 360 | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) | Norton 360 | McAfee Total Protection |
 |---|---|---|---|
 | Real-time antivirus | Yes | Yes | Yes |
 | Full VPN (unlimited data) | Yes | Limited (200MB/day on entry tier) | Limited |

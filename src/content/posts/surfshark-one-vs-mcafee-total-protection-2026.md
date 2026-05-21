@@ -109,7 +109,7 @@ McAfee Total Protection is frequently offered at introductory prices that drop t
 
 This is not technically deceptive — the renewal terms are disclosed — but the gap between the introductory and renewal price is wide enough that many users pay significantly more than they expected.
 
-### Surfshark One's Pricing Model
+### [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/)'s Pricing Model
 
 Surfshark One uses the same long-term plan structure common in the VPN industry: lower per-month cost on 1-year or 2-year plans versus month-to-month. The pricing is more transparent about what the cost becomes after the first term.
 

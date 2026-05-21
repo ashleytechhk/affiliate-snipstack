@@ -176,7 +176,7 @@ Reboot your computer and check Programs and Features (Windows) or Applications (
 Alert checks against known breach databases. If your email has not appeared in any documented breach, Alert will show clear — that is a good result. The service sends notifications when new breaches are discovered; it monitors ongoing, not just at setup.
 
 **"My phone is not covered yet."**
-Download the Surfshark app on your phone from the App Store or Google Play and log in with the same email. One Surfshark One subscription covers unlimited devices simultaneously.
+Download the Surfshark app on your phone from the App Store or Google Play and log in with the same email. One [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) subscription covers unlimited devices simultaneously.
 
 ---
 

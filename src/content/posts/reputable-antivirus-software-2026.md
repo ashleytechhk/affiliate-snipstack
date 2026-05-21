@@ -116,7 +116,7 @@ Less than most established alternatives in testing. Because Surfshark's antiviru
 
 ### What is the difference between Surfshark One and Surfshark One+?
 
-Surfshark One+ adds Incogni, Surfshark's personal data removal service, which contacts data broker sites and requests deletion of your personal information. If you want proactive data removal in addition to antivirus, VPN, breach alerts, and private search, One+ covers all of it. For most users upgrading from Norton or McAfee, the base Surfshark One plan is sufficient.
+Surfshark One+ adds Incogni, Surfshark's personal data removal service, which contacts data broker sites and requests deletion of your personal information. If you want proactive data removal in addition to antivirus, VPN, breach alerts, and private search, One+ covers all of it. For most users upgrading from Norton or McAfee, the base [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/) is sufficient.
 
 ### Can you replace Norton with Surfshark One completely?
 

@@ -122,7 +122,7 @@ For everyone else — especially anyone annoyed by Norton's bloat, confused by i
 
 ---
 
-## Who Should Switch to Surfshark One?
+## Who Should Switch to [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/)?
 
 Surfshark One is the right move if:
 - You want one plan to cover every device you own

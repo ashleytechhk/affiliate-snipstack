@@ -37,7 +37,7 @@ Legacy suites like [Norton 360](https://snipstack.io/surfshark-one-vs-norton-360
 
 ## Cost Comparison Table
 
-| Tool | Surfshark One (bundle) | Standalone equivalent | Typical standalone cost (per month) |
+| Tool | [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) (bundle) | Standalone equivalent | Typical standalone cost (per month) |
 |---|---|---|---|
 | VPN | Included | Surfshark VPN standalone | ~$4.49/mo (2-yr plan) |
 | Antivirus | Included | [Bitdefender Antivirus](https://snipstack.io/bitdefender-antivirus-2026/) Plus / Malwarebytes Premium | ~$3–5/mo |

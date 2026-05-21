@@ -20,7 +20,7 @@ The question most people hit next: can I get an alias that uses my own domain �
 
 ## Quick Verdict
 
-Across every major alias service — Alt-ID, SimpleLogin, addy.io, Firefox Relay, and Proton Pass — custom domain support is a paid feature, not a free one. If that's a hard requirement, you'll need to pay somewhere. What varies dramatically is what you get for free and how the paid tiers are priced.
+Across every major alias service — Alt-ID, SimpleLogin, addy.io, Firefox Relay, and [Proton Pass](https://snipstack.io/proton-pass-email-alias-review-2026/) — custom domain support is a paid feature, not a free one. If that's a hard requirement, you'll need to pay somewhere. What varies dramatically is what you get for free and how the paid tiers are priced.
 
 For most spam-exhausted users, **Alt-ID is the strongest free-tier option** because it's bundled with a Surfshark subscription that also includes a VPN and data removal — meaning the alias service alone isn't the cost. You get unlimited aliases, instant deletion, and reply support without juggling a separate paid account. If you're a standalone free-tier purist, **addy.io** offers unlimited standard aliases at no cost, with custom domain unlocked from $1/month — the lowest paid upgrade price in this comparison.
 
@@ -164,7 +164,7 @@ If you're getting 50+ spam emails a day, the features that actually matter are:
 
 **Is there any [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) service that offers custom domain support completely free?**
 
-No — as of 2026, every major alias service (Alt-ID, SimpleLogin, addy.io, Firefox Relay, Proton Pass) requires a paid plan for custom domain support. The cheapest path to a custom domain alias is addy.io at $1/month. If you see claims of "free custom domain email alias," verify carefully — they typically mean a shared domain at no cost, not a user-supplied domain.
+No — as of 2026, every major alias service (Alt-ID, SimpleLogin, addy.io, Firefox Relay, Proton Pass) requires a paid plan for custom domain support. The cheapest path to a custom domain alias is addy.io at $1/month. If you see claims of "free custom domain [email alias](https://snipstack.io/email-alias-for-gym-membership-signup-2026/)," verify carefully — they typically mean a shared domain at no cost, not a user-supplied domain.
 
 **What is the difference between a shared domain alias and a custom domain alias?**
 
@@ -182,7 +182,7 @@ Alt-ID aliases are tied to your Surfshark account. If you cancel your subscripti
 
 If you're not adding a VPN subscription, addy.io is the strongest free standalone option — unlimited standard aliases at no cost, with custom domain available for $1/month if you need it. SimpleLogin is the better choice if you want custom domain support with a more polished interface and don't mind $36/year.
 
-**Will email aliases stop all spam?**
+**Will [email alias](https://snipstack.io/email-alias-for-real-estate-inquiries-2026/)es stop all spam?**
 
 Aliases prevent new spam from reaching your real address for any service you sign up for going forward. They don't retroactively fix your existing real address if it's already on spam lists. For a full solution: use aliases for all future signups, and manage existing spam on your real address with inbox filters in parallel.
 

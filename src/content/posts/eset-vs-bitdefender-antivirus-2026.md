@@ -33,7 +33,7 @@ Cybercriminals are calculated. They go where the money is. Older adults control 
 Here is what the attacks look like in real life:
 
 - An email arrives that looks exactly like it came from your bank, asking you to "verify your account." One click and a scammer has your password.
-- A pop-up appears on your screen warning that your computer is infected and telling you to call a phone number. The number connects to a scammer who charges hundreds of dollars to "fix" a problem that never existed.
+- A pop-up appears on your screen warning that your computer is infected and telling you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). The number connects to a scammer who charges hundreds of dollars to "fix" a problem that never existed.
 - A shopping website offers a deal that seems too good to be true. You buy. The package never comes, and your card details are sold on the dark web.
 
 An [antivirus](https://snipstack.io/vs-antivirus-2026/) program cannot stop all of these by itself. But a good one can stop the vast majority — automatically, without you needing to do anything.
@@ -153,7 +153,7 @@ Both ESET and Bitdefender offer mobile versions for Android and iPhone. Whether 
 
 ### What does "phishing" mean and why should I care?
 
-Phishing is when a criminal sends you a fake email or creates a fake website that looks exactly like a real one — your bank, Amazon, PayPal, or even a government agency. The goal is to trick you into typing in your password, account number, or credit card information. Once you do, the criminal has it and can use it immediately. Phishing is by far the most common way older adults lose money online. Good [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) — particularly Bitdefender — detects and blocks these fake sites automatically, before you even realize they were fake.
+Phishing is when a criminal sends you a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) or creates a fake website that looks exactly like a real one — your bank, Amazon, PayPal, or even a government agency. The goal is to trick you into typing in your password, account number, or credit card information. Once you do, the criminal has it and can use it immediately. Phishing is by far the most common way older adults lose money online. Good [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) — particularly Bitdefender — detects and blocks these fake sites automatically, before you even realize they were fake.
 
 ### How much do ESET and Bitdefender cost per year?
 
@@ -165,7 +165,7 @@ Yes, as long as you buy directly from the official company website or a trusted 
 
 ### What should I do if I think my computer is already infected?
 
-First, do not panic. Disconnect from the internet by unplugging your network cable or turning off your Wi-Fi. Then run a full scan with whatever antivirus software you have installed. If you do not have antivirus installed, ask a trusted family member to help you download and install one from an official website. Do not call any phone number that appears on a pop-up warning on your screen — those are almost always scams. Real antivirus alerts never ask you to call a phone number.
+First, do not panic. Disconnect from the internet by unplugging your network cable or turning off your Wi-Fi. Then run a full scan with whatever antivirus software you have installed. If you do not have antivirus installed, ask a trusted family member to help you download and install one from an official website. Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) that appears on a pop-up warning on your screen — those are almost always scams. Real antivirus alerts never ask you to call a phone number.
 
 ---
 

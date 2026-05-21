@@ -65,7 +65,7 @@ Norton and McAfee built their businesses on desktop antivirus in the 1990s. The 
 
 **[Try Surfshark One — 30-Day Money-Back Guarantee](/blog/surfshark?sub=best-vpns-for-privacy-2026__mid)**
 
-Surfshark One is a bundle of four tools:
+[Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) is a bundle of four tools:
 
 ### VPN — The Privacy Core
 
