@@ -36,7 +36,7 @@ For someone who is *not* already in the Proton ecosystem and is specifically sho
 
 ## What Is Surfshark Alt ID?
 
-Alt ID is Surfshark's [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) and identity-masking tool. It generates randomized email aliases — addresses that look like real emails to any sender — and forwards all incoming mail to your actual inbox. You can create multiple aliases, label them, toggle forwarding on or off, and delete them permanently with one click.
+Alt ID is Surfshark's [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) and identity-masking tool. It generates randomized [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/)es — addresses that look like real emails to any sender — and forwards all incoming mail to your actual inbox. You can create multiple aliases, label them, toggle forwarding on or off, and delete them permanently with one click.
 
 Alt ID is part of Surfshark One and Surfshark One+ subscriptions, which bundle the alias tool with a VPN and a data removal service (which actively scrubs your real email from broker databases). That combination is directly relevant if you are dealing with heavy spam: the VPN stops tracking at the network level, the alias masks your address going forward, and the data removal service cleans up existing exposure.
 
@@ -46,7 +46,7 @@ Alt ID is part of Surfshark One and Surfshark One+ subscriptions, which bundle t
 
 | Feature | Proton Pass | Surfshark Alt ID |
 |---|---|---|
-| Alias creation | Yes — hide-my-email aliases | Yes — randomized masked addresses |
+| Alias creation | Yes — hide-my-[email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/)es | Yes — randomized masked addresses |
 | Forwarding to real inbox | Yes | Yes |
 | Two-way reply from alias | Yes (ProtonMail users) | Yes |
 | Instant alias deletion | Yes | Yes |
@@ -126,7 +126,7 @@ For step 3 and 4, Proton Pass has no equivalent in a single subscription. You wo
 
 ## FAQ
 
-**Is Proton Pass email alias actually free?**
+**Is Proton Pass [email alias](https://snipstack.io/email-alias-for-contractor-estimates-2026/) actually free?**
 Proton Pass offers a free plan with up to 10 hide-my-email aliases per month. The paid Proton Pass Plus plan removes the monthly limit. Note that full two-way reply support (sending replies from your alias) works best with a ProtonMail inbox — if you use Gmail or Outlook as your primary email, the alias is forwarding-only by default.
 
 **Does Surfshark Alt ID work if I don't use Surfshark VPN?**

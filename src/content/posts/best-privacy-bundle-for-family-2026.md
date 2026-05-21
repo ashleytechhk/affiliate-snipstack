@@ -63,7 +63,7 @@ Once auto-renew is off, keep the old software installed until after you confirm 
 
 ---
 
-## Step 2 — Sign Up for Surfshark One
+## Step 2 — Sign Up for [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)
 
 Go to the Surfshark One page using the link below. Do not search for it — search results can surface reseller pages with outdated pricing.
 

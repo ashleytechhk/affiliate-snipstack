@@ -75,7 +75,7 @@ Modern online threats are not just malware. Data brokers selling your home addre
 
 Norton has expanded in this direction with LifeLock (in the US) and dark web monitoring, but LifeLock tiers are priced separately and the upsell path is aggressive. You end up with a fragmented dashboard and multiple billing lines.
 
-Surfshark One bundles it more cleanly:
+[Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) bundles it more cleanly:
 
 - **Surfshark Alert** — real-time notifications when your email, password, ID number, or credit card appears in a breach database
 - **Surfshark Search** — a no-log search engine that does not serve you results shaped by an advertising profile

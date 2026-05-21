@@ -53,7 +53,7 @@ If you're drowning in spam and want the fastest path to a clean inbox, go with A
 
 ## SimpleLogin: What It Does Well
 
-SimpleLogin launched as an open-source [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) service and has built a loyal following among privacy-focused users who want full transparency into how their data is handled. Proton — the company behind ProtonMail and ProtonVPN — acquired it in 2022, which gave it a significant credibility boost.
+SimpleLogin launched as an open-source [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) service and has built a loyal following among privacy-focused users who want full transparency into how their data is handled. Proton — the company behind ProtonMail and [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) — acquired it in 2022, which gave it a significant credibility boost.
 
 ### Open Source and Auditable
 

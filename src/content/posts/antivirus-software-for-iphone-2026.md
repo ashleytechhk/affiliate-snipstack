@@ -95,7 +95,7 @@ Norton's iOS app has improved but remains heavier than it needs to be. On an old
 
 McAfee rebuilt its reputation after spinning off from Intel, and the current Total Protection product is meaningfully better than what it was in 2021. The iOS app includes web browsing protection, a VPN, and identity monitoring. Their AI-powered scam detection for SMS messages is one of the better implementations in the market.
 
-The device limit on standard plans (up to 5 devices) is a pain point for households or anyone who wants to cover a phone, tablet, and laptop without stepping up to a pricier tier. Surfshark One's unlimited device policy is a clear differentiator here.
+The device limit on standard plans (up to 5 devices) is a pain point for households or anyone who wants to cover a phone, tablet, and laptop without stepping up to a pricier tier. [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)'s unlimited device policy is a clear differentiator here.
 
 McAfee's renewal pricing follows the same playbook as Norton — heavy year-one discount, steeper renewal. If you're reading this as a current McAfee subscriber, check your renewal date.
 

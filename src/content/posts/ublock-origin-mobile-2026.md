@@ -95,7 +95,7 @@ If you are an Android user who is comfortable living inside Firefox, uBlock Orig
 
 Practical limitations in 2026:
 - Android-only (iOS is a hard no)
-- Requires Firefox — cannot block ads in Chrome, Samsung Internet, or any other browser on the same device
+- Requires Firefox — cannot [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) Chrome, Samsung Internet, or any other browser on the same device
 - Zero protection outside the browser
 - Firefox for Android has improved but still lags behind Chrome in performance on lower-end devices
 

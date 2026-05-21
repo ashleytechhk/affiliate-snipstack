@@ -109,7 +109,7 @@ Back on the main screen, tap the large **Connect** button. The app picks the fas
 
 ## Step 5 — Add Every Device Under One Login
 
-This is where Surfshark One pulls ahead of Norton and McAfee: there is no per-device limit.
+This is where [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) pulls ahead of Norton and McAfee: there is no per-device limit.
 
 **For family members' phones (iOS / Android):**
 

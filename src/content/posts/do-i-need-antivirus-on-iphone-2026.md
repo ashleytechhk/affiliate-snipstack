@@ -187,7 +187,7 @@ It is extremely rare. Apple's design makes it very difficult for viruses to spre
 
 **Q: Is the security built into my iPhone good enough?**
 
-For traditional viruses, yes — Apple's built-in security is strong. For scam text message links, unsafe public Wi-Fi, and data breach alerts, the built-in protection has real gaps. These are the threats that affect seniors most often in 2026, and adding Surfshark One covers them all.
+For traditional viruses, yes — Apple's built-in security is strong. For scam text message links, unsafe public Wi-Fi, and data breach alerts, the built-in protection has real gaps. These are the threats that affect seniors most often in 2026, and adding [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) covers them all.
 
 **Q: What is a VPN and do I need one on my iPhone?**
 

@@ -130,7 +130,7 @@ For a second number that looks and behaves like a genuine mobile line, Alt-Numbe
 ## Troubleshooting
 
 **The Alt-Number section is not showing in the Surfshark app.**
-Make sure you are subscribed to Surfshark One, not just the base VPN plan. Open the app, go to Account, and check your active plan. If Alt-Number is not listed, upgrade from within the app.
+Make sure you are subscribed to [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/), not just the base VPN plan. Open the app, go to Account, and check your active plan. If Alt-Number is not listed, upgrade from within the app.
 
 **My eSIM activation code is not working.**
 eSIM codes expire. If more than 24–48 hours have passed since your carrier sent the code, contact them for a fresh one. Also confirm you are entering the code exactly as provided — some carriers use capital letters and hyphens that are easy to misread.

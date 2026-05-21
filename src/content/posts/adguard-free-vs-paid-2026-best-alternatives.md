@@ -253,7 +253,7 @@ AdGuard DNS is a public DNS resolver that blocks ads and trackers at the DNS loo
 
 Yes — AdGuard has a dedicated iOS app available on the App Store. On iOS, the app uses Safari Content Blockers and DNS filtering (since iOS does not allow the same type of system-level blocking as Windows/Mac). AdGuard for iOS is a separate purchase from the desktop apps.
 
-### Can AdGuard block ads in all apps, or just the browser?
+### Can AdGuard [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) all apps, or just the browser?
 
 The browser extension blocks ads only in the browser. AdGuard for Windows and AdGuard for Mac block ads system-wide — across all applications. For mobile (iOS/Android), the apps use DNS-level filtering to cover all apps. Coverage varies by platform and product tier.
 

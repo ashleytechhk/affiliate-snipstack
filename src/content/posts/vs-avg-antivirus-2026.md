@@ -64,7 +64,7 @@ Surfshark's VPN is the flagship product — it came first and it shows. You get:
 - **Kill switch and DNS leak protection** — standard and functional
 - **CleanWeb** — blocks ads and trackers at the DNS level before they load
 
-For a household with laptops, phones, tablets, and a smart TV, Surfshark One's unlimited device policy alone justifies the switch from AVG Ultimate.
+For a household with laptops, phones, tablets, and a smart TV, [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)'s unlimited device policy alone justifies the switch from AVG Ultimate.
 
 **[Check current Surfshark One Bundle deals](/blog/surfshark?sub=vs-avg-antivirus-2026__mid)**
 

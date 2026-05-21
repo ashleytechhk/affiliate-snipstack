@@ -113,7 +113,7 @@ Play Protect makes a sensible free layer for very low-risk users. It is not a su
 
 ---
 
-## Who Should Switch to Surfshark One
+## Who Should Switch to [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)
 
 The case for switching is clearest if you are:
 

@@ -196,7 +196,7 @@ Pi-hole offers more customization and covers your entire home network without an
 
 DNS blocking adds less than 1ms to DNS lookups — imperceptible. The VPN component itself, if active, adds 5-15ms of latency depending on server distance, which does not affect streaming or browsing in practice. In many cases, blocking ad domains reduces overall page load times because fewer requests are being made.
 
-### Do browser extensions block ads in apps?
+### Do browser extensions [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) apps?
 
 No. Browser extensions only work within the browser. They cannot see or affect traffic from the YouTube app, from free games, from ad-supported streaming apps, or from any other app on your phone. Only DNS-level blocking (or the OS-level equivalent) can reach in-app ad traffic.
 

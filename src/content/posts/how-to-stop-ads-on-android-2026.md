@@ -169,7 +169,7 @@ Not directly, but the Private DNS setting (Android 9+) lets you point your devic
 **Will [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) break apps?**
 Occasionally. A small number of apps check for their ad SDK before loading content, and aggressive DNS blocking can trigger those checks. If an app stops loading, temporarily disable your DNS blocking or whitelist the app's domain in your resolver settings. This is rare with standard blocklists from AdGuard or NextDNS.
 
-**Can I block ads in apps without rooting my phone?**
+**Can I [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) apps without rooting my phone?**
 Yes. Private DNS, browser-level blockers, and VPN-based blocking like CleanWeb all work on unrooted Android. Rooting opens up additional options (like system-wide hosts file modification) but is not required for effective ad blocking in 2026. [Learn more about CleanWeb for unrooted Android →](/blog/adblock?sub=how-to-stop-ads-on-android-2026__faq)
 
 **Does using a VPN to block ads slow down my phone?**

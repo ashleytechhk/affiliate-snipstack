@@ -96,7 +96,7 @@ Both apps work on Android and iOS. Neither requires you to change carriers or pl
 
 **What they catch:** Known bad actors, numbers that have been reported at volume, patterns consistent with robocall campaigns.
 
-**What they miss:** Fresh numbers used for targeted individual attacks — which is exactly what happens in romance scam operations where you've been specifically identified as a target.
+**What they miss:** Fresh numbers used for targeted individual attacks — which is exactly [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) in romance scam operations where you've been specifically identified as a target.
 
 ---
 

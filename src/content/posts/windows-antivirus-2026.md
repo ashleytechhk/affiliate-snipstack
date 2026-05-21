@@ -111,7 +111,7 @@ Windows Defender will automatically pause itself when it detects an active third
 
 Detection rates between Surfshark's antivirus engine and Norton are within one percentage point in independent lab tests. For real-world threats — [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, malware downloads, ransomware — the practical difference is negligible. Where Surfshark pulls ahead is system performance and the integrated VPN quality.
 
-### Does Surfshark One Bundle work on [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/)?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) Bundle work on [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/)?
 
 Yes. The antivirus and VPN client support Windows 10 (64-bit, version 1903 and later) and Windows 11. [Check the full compatibility list here.](/blog/surfshark?sub=windows-antivirus-2026__faq)
 

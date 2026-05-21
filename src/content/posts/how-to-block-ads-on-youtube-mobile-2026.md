@@ -84,7 +84,7 @@ Surfshark CleanWeb is a DNS and domain-level blocker built into the Surfshark VP
 
 ![Surfshark CleanWeb system-wide blocking diagram on mobile](/og/how-to-block-ads-on-youtube-mobile-2026-inline-2.png)
 
-Here is where honest framing matters: **CleanWeb does not reliably block ads inside the native YouTube app.** YouTube's ad delivery is tightly coupled to its video delivery infrastructure, and a DNS-level block that catches YouTube's ad domains will typically break video playback too. This is a technical limitation shared by all DNS-based blockers, not a flaw specific to CleanWeb.
+Here is where honest framing matters: **CleanWeb does not reliably [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side the native YouTube app.** YouTube's ad delivery is tightly coupled to its video delivery infrastructure, and a DNS-level block that catches YouTube's ad domains will typically break video playback too. This is a technical limitation shared by all DNS-based blockers, not a flaw specific to CleanWeb.
 
 What CleanWeb does exceptionally well is cover everything else on your phone:
 

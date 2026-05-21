@@ -74,7 +74,7 @@ Surfshark is primarily known as a VPN, but [Surfshark One](https://snipstack.io/
 
 ### Antivirus
 
-Surfshark's antivirus engine provides real-time protection on Windows and macOS, with on-demand scanning for Android. Detection rates are competitive with the mid-tier from established vendors; Surfshark One has been independently tested and has achieved passing scores across protection, performance, and usability. It is not yet a decade-old legacy engine, which means it is also not carrying a decade of legacy weight — the scan footprint is noticeably lighter than Norton or McAfee on the same hardware.
+Surfshark's antivirus engine provides real-time protection on Windows and macOS, with on-demand scanning for Android. Detection rates are competitive with the mid-tier from established vendors; [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) has been independently tested and has achieved passing scores across protection, performance, and usability. It is not yet a decade-old legacy engine, which means it is also not carrying a decade of legacy weight — the scan footprint is noticeably lighter than Norton or McAfee on the same hardware.
 
 ### VPN
 

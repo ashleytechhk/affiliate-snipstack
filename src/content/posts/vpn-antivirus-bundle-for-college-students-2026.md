@@ -109,7 +109,7 @@ A no-tracking search engine alternative for when you do not want your academic r
 
 ## The Renewal Math: What You Are Actually Paying
 
-The bloatware complaint is real, but the financial complaint is equally valid. Here is how the typical cost trajectory looks for Norton-style subscriptions versus Surfshark One:
+The bloatware complaint is real, but the financial complaint is equally valid. Here is how the typical cost trajectory looks for Norton-style subscriptions versus [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/):
 
 **Year 1 (introductory):** Norton or McAfee at ~$40–50. Seems affordable.
 

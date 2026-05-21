@@ -92,7 +92,7 @@ Running the math over a two-year period:
 
 - **Norton 360 Deluxe:** Year 1 promo ~$50, Year 2 renewal ~$130 = approximately $180 total
 - **McAfee+ Individual:** Year 1 promo ~$40, Year 2 renewal ~$120 = approximately $160 total
-- **Surfshark One (2-year plan):** Approximately $55–$70 flat upfront, renewal comparable
+- **[Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) (2-year plan):** Approximately $55–$70 flat upfront, renewal comparable
 
 For users who actually check their bills and cancel-and-re-subscribe to grab the promo rate again, Norton and McAfee can be competitive. For users who let subscriptions auto-renew — the majority — Surfshark One is meaningfully cheaper over a two-year horizon.
 

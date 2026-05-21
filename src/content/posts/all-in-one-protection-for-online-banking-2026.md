@@ -110,7 +110,7 @@ If you are moving to [Surfshark One](https://snipstack.io/surfshark-one-trial-av
 
 **Step 2 — Use the official removal tool.** Standard uninstalls leave AV drivers behind. Norton's removal tool is `NRnR.exe`. McAfee provides MCPR. Run these, then restart your machine. Running two antivirus engines simultaneously causes driver conflicts and unreliable detection on both sides.
 
-**Step 3 — Install Surfshark One and configure it.** After installing, enable CleanWeb in the VPN settings tab (off by default), turn on real-time antivirus protection, and add all your email addresses to Surfshark Alert. More emails monitored equals a wider breach net.
+**Step 3 — Install [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) and configure it.** After installing, enable CleanWeb in the VPN settings tab (off by default), turn on real-time antivirus protection, and add all your email addresses to Surfshark Alert. More emails monitored equals a wider breach net.
 
 **Step 4 — Set the VPN to auto-connect on untrusted networks.** Under Settings > VPN > Auto-connect. This ensures protection activates automatically whenever you connect at a hotel, airport, or cafe — exactly the environments where banking on unsecured Wi-Fi is a risk.
 

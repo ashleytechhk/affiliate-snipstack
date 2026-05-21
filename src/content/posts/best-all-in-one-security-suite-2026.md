@@ -110,7 +110,7 @@ Bitdefender Total Security for antivirus, paired with a standalone VPN subscript
 
 **Scenario E: IT professional or developer, needs Linux support**
 
-Surfshark One is one of the only all-in-one suites with proper Linux support. The others either skip Linux entirely or offer a hobbled command-line-only client.
+[Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) is one of the only all-in-one suites with proper Linux support. The others either skip Linux entirely or offer a hobbled command-line-only client.
 
 **[See which Surfshark One plan fits your household size and budget](/blog/one?sub=best-all-in-one-security-suite-2026__mid)**
 

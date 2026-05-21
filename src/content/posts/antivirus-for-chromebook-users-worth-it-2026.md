@@ -195,7 +195,7 @@ Yes. Surfshark Antivirus covers multiple devices under one subscription. You can
 
 ## The Bottom Line
 
-The question "is antivirus for Chromebook users worth it?" has a clear answer in 2026: yes, and particularly so if you are over 60. The threats have grown more sophisticated, the losses are real and significant, and the cost of protection is minimal compared to the cost of falling victim to a scam.
+The question "is [antivirus for](https://snipstack.io/antivirus-for-online-gamers-2026/) Chromebook users worth it?" has a clear answer in 2026: yes, and particularly so if you are over 60. The threats have grown more sophisticated, the losses are real and significant, and the cost of protection is minimal compared to the cost of falling victim to a scam.
 
 Surfshark Antivirus gives you real-time web protection, phishing warnings, data breach monitoring, and multi-device coverage — all running automatically in the background while you get on with your day.
 

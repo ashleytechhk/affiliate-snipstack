@@ -151,7 +151,7 @@ Not through the number itself. The whole point of a secondary number is that it 
 
 Protecting your real number when you're meeting strangers online is a small habit with meaningful upside. The right tool depends on what you're already paying for and how reliable you need verification to be.
 
-For most people who date online regularly, **Surfshark Alt Number stands out** — it's a real number, it's included with Surfshark One, and it doesn't require a separate subscription or a US-only workaround. If you're already paying for Surfshark, you're leaving this on the table.
+For most people who date online regularly, **Surfshark Alt Number stands out** — it's a real number, it's included with [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/), and it doesn't require a separate subscription or a US-only workaround. If you're already paying for Surfshark, you're leaving this on the table.
 
 **[Get Surfshark One and include Alt Number →](/blog/altnumber?sub=temporary-phone-number-for-verification-2026__cta)**
 

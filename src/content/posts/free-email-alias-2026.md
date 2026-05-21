@@ -167,7 +167,7 @@ Some sites block browser extensions from injecting into input fields. In those c
 ## Frequently Asked Questions
 
 **Is a [free email](https://snipstack.io/free-email-scammer-check-2026/) alias actually free with Alt-ID?**
-Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) — there is no separate per-alias fee. The cost is the Surfshark One subscription, which also includes a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). [See current pricing here.](/blog/surfshark?sub=free-email-alias-2026__faq)
+Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) — there is no separate per-alias fee. The cost is the [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) subscription, which also includes a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). [See current pricing here.](/blog/surfshark?sub=free-email-alias-2026__faq)
 
 **How many aliases can I create?**
 Alt-ID supports unlimited aliases. There is no cap on how many you can generate or keep active simultaneously.

@@ -95,7 +95,7 @@ AdBlock Plus is available for Safari via the Mac App Store. Search "AdBlock Plus
 
 This is where AdBlock Plus gets complicated, and where most users hit a wall.
 
-**Android:** ABP published a standalone browser app called "Adblock Browser" — but it's a separate browser, not Chrome. Chrome for Android does not support browser extensions, so you cannot install ABP into Chrome on your Android phone the way you would on desktop. To block ads in Chrome on Android, you need a different approach (more on this below).
+**Android:** ABP published a standalone browser app called "Adblock Browser" — but it's a separate browser, not Chrome. Chrome for Android does not support browser extensions, so you cannot install ABP into Chrome on your Android phone the way you would on desktop. To [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) Chrome on Android, you need a different approach (more on this below).
 
 **iOS:** iOS Safari supports Content Blockers via the App Store. ABP has an iOS app that works as a Safari content blocker. Like the Android situation, it does not work inside Chrome for iOS, only Safari.
 

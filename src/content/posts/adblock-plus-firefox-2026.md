@@ -52,7 +52,7 @@ It's a reasonable choice if you're already familiar with the interface or switch
 
 ![How Surfshark CleanWeb blocks ads at the VPN layer](/og/adblock-plus-firefox-2026-inline-1.png)
 
-Browser extensions only block ads inside the browser. **Surfshark's CleanWeb** feature works at the VPN layer, which means it blocks ads, trackers, and malware domains across every app on your phone — not just Firefox. That includes in-app ads in games, tracking pixels in email clients, and phishing domains that browser-only blockers never see.
+Browser extensions only [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side the browser. **Surfshark's CleanWeb** feature works at the VPN layer, which means it blocks ads, trackers, and malware domains across every app on your phone — not just Firefox. That includes in-app ads in games, tracking pixels in email clients, and phishing domains that browser-only blockers never see.
 
 Setup is one toggle inside the Surfshark app. No filter lists to manage, no extension permissions to grant, no per-browser configuration. CleanWeb uses DNS-level blocking to drop requests to known ad-serving and tracker domains before they reach your device, which also reduces data usage and speeds up page loads as a side effect.
 

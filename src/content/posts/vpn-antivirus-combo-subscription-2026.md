@@ -125,7 +125,7 @@ Now you are ready to get the replacement.
 
 ---
 
-## Step 5 — Activate Each Tool in Surfshark One
+## Step 5 — Activate Each Tool in [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)
 
 The app installs all four tools, but you need to activate them:
 

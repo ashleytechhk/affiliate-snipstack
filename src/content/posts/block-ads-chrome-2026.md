@@ -67,7 +67,7 @@ The practical effect: uBlock Origin Lite (the MV3-compliant version) catches an 
 
 ---
 
-## Top Extensions to Block Ads in Chrome in 2026
+## Top Extensions to [Block Ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) Chrome in 2026
 
 ### uBlock Origin Lite — The Weakened Classic
 

@@ -81,7 +81,7 @@ For users who stream from abroad, work remotely across networks, or just want re
 
 Modern security is not just about blocking malware. Data brokers harvest your name, address, and email from public records. Your email address appears in breach databases. Your searches are profiled by ad networks. Norton 360 does address some of this via its LifeLock identity features — but LifeLock is a paid add-on in most tiers, not included in the base plan.
 
-Surfshark One bundles:
+[Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) bundles:
 
 - **Surfshark Alert** — monitors your email, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), ID details, and credit cards against breach databases in real time
 - **CleanWeb** — blocks ads, trackers, malware URLs, and phishing sites at the DNS level across all your devices

@@ -153,7 +153,7 @@ Once installed on each device, take five minutes to configure it properly:
 
 ## Step 6 — Verify Coverage Across All Devices
 
-Once you've installed Surfshark One on all your devices, do a quick check:
+Once you've installed [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) on all your devices, do a quick check:
 
 1. Open the Surfshark app on each device and confirm you're logged in
 2. Check that real-time antivirus protection shows as **Active** on each device

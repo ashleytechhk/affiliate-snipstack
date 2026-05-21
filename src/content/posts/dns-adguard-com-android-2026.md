@@ -138,7 +138,7 @@ If you want granular control, go with Option 5 (AdGuard app). If you have the sk
 
 `dns.adguard-dns.com` is the hostname for AdGuard's public DNS-over-TLS resolver. When you enter it in Android's Private DNS setting, your phone uses AdGuard's servers to resolve domain names instead of your carrier's default DNS. Every domain in AdGuard's block list (ads, trackers, malware) simply does not resolve — the request is dropped before any connection is made. The `.com` variant in the hostname is just the domain AdGuard uses to identify the server; the connection itself uses the DoT protocol.
 
-### Does AdGuard DNS block ads inside apps, not just browsers?
+### Does AdGuard DNS [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side apps, not just browsers?
 
 Yes — this is the key advantage over browser extensions. Because Private DNS applies at the operating system level, it filters DNS queries from every app on your device: social media apps, news aggregators, games, utility apps, and browsers alike. Apps that serve ads by calling out to known ad-network domains will see those calls blocked. Apps that serve ads from their own first-party domain (less common but it happens) are harder to block with DNS alone — that is where CleanWeb's VPN-layer filtering adds meaningful coverage.
 

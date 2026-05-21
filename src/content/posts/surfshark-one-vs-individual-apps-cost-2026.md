@@ -24,7 +24,7 @@ Buying the equivalent security tools individually costs roughly two to three tim
 
 ## What You Are Actually Replacing
 
-Before comparing costs, it helps to be clear about what Surfshark One includes. It is not just a VPN with a marketing wrapper around it. The four components are:
+Before comparing costs, it helps to be clear about what [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) includes. It is not just a VPN with a marketing wrapper around it. The four components are:
 
 - **Surfshark VPN** — full VPN, WireGuard/OpenVPN/IKEv2 protocols, 3,200-plus servers across 100 countries, unlimited devices, no data caps
 - **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** — real-time malware protection, scheduled scans, ransomware behavioral detection

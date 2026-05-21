@@ -138,7 +138,7 @@ For 2026, if you're a mobile-first user who spends serious time in Chrome, the p
 
 Not in the way desktop Chrome does. Google's Manifest v3 transition significantly limited extension capabilities on Android Chrome. Most full-featured [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s now recommend using a network-level solution (like a VPN with built-in blocking) or switching to a Chromium-based browser like Brave that still allows capable extensions.
 
-### Can I block ads in Chrome on iPhone?
+### Can I [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) Chrome on iPhone?
 
 Chrome on iOS doesn't support content-blocking extensions at all — that's an Apple restriction, not a Google one. Your best options are: a VPN with built-in ad blocking like [Surfshark CleanWeb](/blog/surfshark?sub=ad-blocker-chrome-2026__faq), a DNS-based filtering service configured at the system level, or switching to Safari where content-blocking extensions are supported natively.
 

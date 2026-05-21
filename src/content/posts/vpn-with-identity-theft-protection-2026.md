@@ -158,7 +158,7 @@ A VPN encrypts your internet traffic and masks your IP address, which reduces yo
 
 ### What's the difference between Surfshark VPN and [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)?
 
-Surfshark VPN is the standalone VPN subscription. Surfshark One adds Surfshark Alert (dark web monitoring and breach alerts), [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), and Alternative ID. The One bundle is priced higher than the base VPN but significantly lower than comparable all-in-one suites from Norton or McAfee.
+Surfshark VPN is the standalone VPN subscription. [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) adds Surfshark Alert (dark web monitoring and breach alerts), [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), and Alternative ID. The One bundle is priced higher than the base VPN but significantly lower than comparable all-in-one suites from Norton or McAfee.
 
 ### Is Surfshark Alert the same as Have I Been Pwned?
 

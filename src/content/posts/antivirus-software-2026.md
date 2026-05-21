@@ -90,7 +90,7 @@ If you are reading this article, you have probably already noticed the weight of
 
 The weight of the suite is still a concern. McAfee's scanner process can peg CPU on older hardware during scans in a way that Bitdefender or ESET does not. The interface — like Norton's — is layered with prompts to upgrade, add services, or engage with McAfee's identity protection subscription. If you are on a mid-spec laptop using McAfee, you have almost certainly felt the fan spin up mid-scan.
 
-The price-to-value comparison also cuts against McAfee at current renewal rates. For the money McAfee charges annually, you can get Surfshark One's full bundle or Bitdefender Total Security with change to spare. McAfee still makes sense for enterprise licensing scenarios where IT teams can manage fleet installs centrally — but for individuals, there are better options at every price point.
+The price-to-value comparison also cuts against McAfee at current renewal rates. For the money McAfee charges annually, you can get [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)'s full bundle or Bitdefender Total Security with change to spare. McAfee still makes sense for enterprise licensing scenarios where IT teams can manage fleet installs centrally — but for individuals, there are better options at every price point.
 
 ---
 

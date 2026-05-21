@@ -154,7 +154,7 @@ Minimal impact in practice. VPN-based blockers like CleanWeb add a small amount 
 
 Yes. AdGuard offers a free public DNS resolver at 94.140.14.14 / 94.140.15.15. You can also download AdGuard's free DNS configuration profile from their site, which sets up encrypted DNS (DoH or DoT) on iOS without any app install. The free public resolver doesn't require an account.
 
-### Does CleanWeb block ads in apps like YouTube or Spotify?
+### Does CleanWeb [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) apps like YouTube or Spotify?
 
 CleanWeb blocks known ad-serving domains at the network level. For apps that serve ads from their own infrastructure (like YouTube Premium ads on google.com domains), VPN-level blocking has limits — the same limitation applies to all DNS/VPN-based blockers. For apps that pull ads from third-party ad networks, CleanWeb is effective. A browser-based adguard extension on desktop will generally be more thorough for YouTube specifically.
 

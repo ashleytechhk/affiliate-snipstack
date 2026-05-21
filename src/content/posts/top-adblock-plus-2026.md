@@ -136,7 +136,7 @@ If you want browser-only blocking for free, Brave is the fastest path. If you ar
 
 ### Does Adblock Plus work on mobile?
 
-Adblock Plus works in Firefox for Android and Samsung Internet as a browser extension. It does not block ads in other browsers or inside apps. For full-phone coverage, a DNS-level or VPN-level tool is required.
+Adblock Plus works in Firefox for Android and Samsung Internet as a browser extension. It does not [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) other browsers or inside apps. For full-phone coverage, a DNS-level or VPN-level tool is required.
 
 ### What is the best free [ad blocker for Android](https://snipstack.io/ad-blocker-for-android-2026/)?
 

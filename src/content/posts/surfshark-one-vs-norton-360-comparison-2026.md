@@ -107,7 +107,7 @@ Norton 360 is notorious for doubling or tripling the price after year one. The $
 
 Surfshark's renewal pricing is more predictable and typically stays within a reasonable range of the introductory price. The unlimited-device coverage also means you are not paying per-device fees as your household grows.
 
-For families or households with multiple devices, Surfshark One's value equation is particularly strong — Norton's multi-device plans scale up in cost in ways Surfshark simply does not.
+For families or households with multiple devices, [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)'s value equation is particularly strong — Norton's multi-device plans scale up in cost in ways Surfshark simply does not.
 
 ---
 

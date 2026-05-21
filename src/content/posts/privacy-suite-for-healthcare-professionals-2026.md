@@ -106,7 +106,7 @@ Security software companies have mastered the introductory pricing trap. Norton 
 
 [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)'s pricing is more consistent between promotional and renewal rates, and it includes more features in the base bundle. For a two-year commitment, you're typically looking at an equivalent monthly rate that comes in below either Norton's or McAfee's renewal pricing — while covering unlimited devices and including the VPN without a data cap.
 
-The math for a single user who was paying $105/year for Norton 360 Deluxe with a limited VPN is straightforward: Surfshark One costs less at renewal, covers more devices, and includes features Norton reserves for higher tiers or separate products.
+The math for a single user who was paying $105/year for Norton 360 Deluxe with a limited VPN is straightforward: [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) costs less at renewal, covers more devices, and includes features Norton reserves for higher tiers or separate products.
 
 ---
 

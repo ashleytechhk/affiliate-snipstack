@@ -68,7 +68,7 @@ This is the most common download and the one most people actually need. You inst
 - Hides the empty white space left behind when an ad is removed
 
 **What it does not do:**
-- Block ads in apps on your phone
+- [Block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) apps on your phone
 - Block ads outside your browser (in desktop apps, for example)
 - Protect other devices — it only works in the browser where you installed it
 

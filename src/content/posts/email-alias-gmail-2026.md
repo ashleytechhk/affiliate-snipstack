@@ -160,7 +160,7 @@ It significantly reduces new spam for email addresses you haven't given out yet.
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-ID free?
 
-Alt-ID is included in the **Surfshark One** subscription. There is no standalone free tier, but Surfshark One frequently runs promotional pricing with substantial discounts. [Check the current offer here.](/blog/surfshark?sub=email-alias-gmail-2026__faq)
+Alt-ID is included in the **[Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)** subscription. There is no standalone free tier, but Surfshark One frequently runs promotional pricing with substantial discounts. [Check the current offer here.](/blog/surfshark?sub=email-alias-gmail-2026__faq)
 
 ### Can I use [email alias](https://snipstack.io/email-alias-for-discord-account-2026/)es with Google Workspace?
 

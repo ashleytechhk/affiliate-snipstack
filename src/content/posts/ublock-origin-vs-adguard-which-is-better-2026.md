@@ -188,7 +188,7 @@ It depends on the platform. On Firefox (desktop or Android), uBlock Origin is mo
 
 ### Does uBlock Origin work on mobile?
 
-Only on Firefox for Android, and only inside the Firefox browser. It does not work on Chrome for Android (only the degraded Lite version is available), it does not work on iOS in any browser, and it cannot block ads inside apps on any platform. If your phone is your primary device, uBlock Origin's coverage is limited.
+Only on Firefox for Android, and only inside the Firefox browser. It does not work on Chrome for Android (only the degraded Lite version is available), it does not work on iOS in any browser, and it cannot [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side apps on any platform. If your phone is your primary device, uBlock Origin's coverage is limited.
 
 ### Is [AdGuard free](https://snipstack.io/adguard-free-vs-paid-2026-best-alternatives/) on mobile?
 

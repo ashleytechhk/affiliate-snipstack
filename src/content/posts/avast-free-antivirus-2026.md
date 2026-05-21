@@ -79,7 +79,7 @@ If you work from coffee shops, travel, or just want your ISP out of your busines
 
 ## Data Breach Monitoring: Do You Know If Your Email Is Already Out There?
 
-Identity monitoring is the unglamorous feature that saves people thousands of dollars. Surfshark One's Alert tool continuously scans known breach databases and alerts you if your email addresses, credit card numbers, or ID documents appear in a leak.
+Identity monitoring is the unglamorous feature that saves people thousands of dollars. [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)'s Alert tool continuously scans known breach databases and alerts you if your email addresses, credit card numbers, or ID documents appear in a leak.
 
 Avast Free has no equivalent. Avast One (their paid all-in-one tier) includes it, but that puts you back into paid territory anyway.
 

@@ -76,7 +76,7 @@ Norton's introductory pricing is designed to feel reasonable — until year two,
 
 ---
 
-## What Surfshark One Bundle Actually Includes
+## What [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) Bundle Actually Includes
 
 The "Bundle" tier adds to the base Surfshark One package. Here is the full stack:
 

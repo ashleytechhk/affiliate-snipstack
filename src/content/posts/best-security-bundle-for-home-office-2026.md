@@ -77,7 +77,7 @@ Norton includes a VPN, but on lower-tier plans it's capped at 50GB per month —
 
 McAfee's VPN is similarly limited in some configurations and has faced criticism for data logging practices in the past.
 
-Surfshark One's VPN is unlimited, with no data caps, across all devices. It uses the WireGuard protocol for speed, has a no-logs policy, and includes features like split tunneling (route only some traffic through the VPN) and multi-hop connections. For home-office workers who connect to client networks or handle sensitive documents, these are real-world tools, not spec-sheet filler.
+[Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)'s VPN is unlimited, with no data caps, across all devices. It uses the WireGuard protocol for speed, has a no-logs policy, and includes features like split tunneling (route only some traffic through the VPN) and multi-hop connections. For home-office workers who connect to client networks or handle sensitive documents, these are real-world tools, not spec-sheet filler.
 
 **[See Surfshark One's full VPN features →](/blog/one?sub=best-security-bundle-for-home-office-2026__mid)**
 

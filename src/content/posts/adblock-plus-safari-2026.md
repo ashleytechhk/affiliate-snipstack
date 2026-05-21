@@ -112,7 +112,7 @@ AdGuard's Safari extension also does not have an Acceptable Ads program — ever
 
 **Best for:** Users who want a browser-only, free or low-cost solution specifically within Safari, and who want the most capable content blocker available.
 
-**Limitation:** Like all Safari content blockers, it does not block ads in non-Safari apps.
+**Limitation:** Like all Safari content blockers, it does not [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) non-Safari apps.
 
 ---
 

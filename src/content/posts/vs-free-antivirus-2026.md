@@ -120,7 +120,7 @@ For basic malware protection on a single Windows device, yes — Windows Defende
 **Is Avast Free safe to use after its past data-sharing controversy?**
 Avast overhauled its data practices after the controversy and the resulting regulatory attention. The current product has stated policy changes. Whether you trust those changes is a personal call. If data privacy is a concern, leaning toward a product that is not ad-supported (like Defender, or a paid bundle) removes the structural incentive for data monetization.
 
-**Does Surfshark One slow down my computer?**
+**Does [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) slow down my computer?**
 In common usage, the performance impact is minimal. Surfshark's antivirus module is designed to run alongside the VPN client without stacking resource overhead. It is considerably lighter than full Norton or McAfee suites.
 
 **Can I cancel Norton mid-subscription and switch?**

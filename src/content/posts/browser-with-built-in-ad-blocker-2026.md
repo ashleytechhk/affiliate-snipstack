@@ -184,7 +184,7 @@ Chrome for Android and iOS does not support extensions, so you cannot add a trad
 
 **Does Brave Browser block [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s?**
 
-Brave blocks YouTube ads when you watch YouTube through the Brave browser's built-in YouTube web view or when visiting youtube.com in Brave. It does not block ads in the standalone YouTube app, because the YouTube app is a separate application outside Brave's scope. For YouTube app ad blocking, a DNS-level solution like CleanWeb is more effective.
+Brave blocks YouTube ads when you watch YouTube through the Brave browser's built-in YouTube web view or when visiting youtube.com in Brave. It does not [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) the standalone YouTube app, because the YouTube app is a separate application outside Brave's scope. For YouTube app ad blocking, a DNS-level solution like CleanWeb is more effective.
 
 **Will blocking ads break websites I use regularly?**
 
