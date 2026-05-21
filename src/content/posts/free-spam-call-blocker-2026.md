@@ -151,7 +151,7 @@ Standard spam blockers target robocalls and known scam numbers. If a specific pe
 
 ### Does Google Voice fully hide my real number?
 
-Partially. Google Voice forwards calls to your real line, and the caller only sees your Voice number. However, the service is US-only and is connected to your Google account. For stronger separation, a purpose-built virtual number service gives you more control and cleaner privacy.
+Partially. Google Voice forwards calls to your real line, and the caller only sees your Voice number. However, the service is US-only and is connected to your Google account. For stronger separation, a purpose-built [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) service gives you more control and cleaner privacy.
 
 ### Will using a virtual number affect call quality?
 

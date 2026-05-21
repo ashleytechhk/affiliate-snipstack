@@ -74,7 +74,7 @@ A [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-
 
 The process for using one with Signal is straightforward:
 
-1. You get a virtual number through a service like Surfshark Alt-Number
+1. You get a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) through a service like Surfshark Alt-Number
 2. You open Signal and enter that number instead of your real one
 3. Signal sends an SMS verification to your virtual number
 4. You retrieve the code inside the Alt-Number app and paste it into Signal

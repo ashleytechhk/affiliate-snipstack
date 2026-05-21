@@ -84,7 +84,7 @@ AT&T's tool also shows you a fraud risk score for unknown numbers, which is usef
 
 All three carriers update their block lists regularly. This layer catches a lot of the high-volume spam campaigns that originate from known bad numbers.
 
-**Troubleshooting:** Some carrier features require you to be the account owner. If you're on a family plan and don't have account access, ask the account holder to enable these settings.
+**Troubleshooting:** Some carrier features require you to be the account owner. If you're on a [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) and don't have account access, ask the account holder to enable these settings.
 
 ---
 

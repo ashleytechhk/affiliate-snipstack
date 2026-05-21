@@ -92,7 +92,7 @@ The DNS-level blocking approach means you're not dependent on browser extensions
 
 ### 7. YouTube Premium — The Official Ad-Free Option
 
-**What it is:** Google's own paid tier. $13.99/month (individual) or $22.99/month (family plan up to 6 people) in the US. Removes all ads, adds background play, downloads, and YouTube Music.
+**What it is:** Google's own paid tier. $13.99/month (individual) or $22.99/month ([family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) up to 6 people) in the US. Removes all ads, adds background play, downloads, and YouTube Music.
 
 **The good:** The only option that gives you a completely ad-free official YouTube app on both Android and iOS, with full feature support, background play, and no sideloading or technical setup. Family plan brings the per-person cost down to under $4.
 

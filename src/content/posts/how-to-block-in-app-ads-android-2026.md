@@ -68,12 +68,12 @@ That is the entire setup. There is no certificate to trust, no rooting required,
 
 ## Method 2 — Private DNS (Android 9+ Built-In Option)
 
-Android 9 and later include a **Private DNS** setting that lets you specify a custom DNS resolver for your entire device. If you point this at a DNS service that blocks ad domains — like AdGuard DNS or NextDNS — you get system-wide DNS-level blocking without installing any app.
+Android 9 and later include a **Private DNS** setting that lets you specify a custom DNS resolver for your entire device. If you point this at a DNS service that blocks ad domains — like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) or NextDNS — you get system-wide DNS-level blocking without installing any app.
 
 **How to set it up:**
 1. Go to **Settings → Network & Internet → Advanced → Private DNS**
 2. Select "Private DNS provider hostname"
-3. Enter `dns.adguard.com` (AdGuard DNS) or your NextDNS hostname
+3. Enter `dns.adguard.com` ([AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/)) or your NextDNS hostname
 
 This costs nothing and requires no additional app. It will catch a meaningful portion of in-app ad network calls.
 
@@ -177,7 +177,7 @@ Browser extensions operate inside the browser's rendering engine. When an Androi
 
 For the vast majority of apps, no. Blocked ad requests simply return no response, and the app continues normally with an empty ad slot. Some ad-heavy games load noticeably faster with ad blocking active because they are no longer waiting for ad SDK responses. A small number of apps with ad-gating mechanics (watch an ad to earn a reward) may behave differently — you can whitelist those specific apps if needed.
 
-### Is using a VPN ad blocker on Android safe?
+### Is using a VPN [ad blocker](https://snipstack.io/ad-blocker-that-hides-your-location-2026/) on Android safe?
 
 Yes, provided you choose a reputable VPN provider. Surfshark is a well-established provider with a published no-logs policy and independent security audits. The key thing to avoid is free VPNs with unclear business models — a VPN that is free but has no obvious revenue source may be monetizing your traffic data, which is the opposite of what you want. [Learn more about Surfshark CleanWeb.](/blog/adblock?sub=how-to-block-in-app-ads-android-2026__faq)
 

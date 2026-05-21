@@ -20,13 +20,13 @@ If you've decided to switch to Surfshark, the next question is which plan you ac
 
 ## Quick Verdict
 
-For most people switching from Norton or McAfee, **[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) is the right tier**. It includes the full VPN, a capable antivirus, dark web breach monitoring, and a private search engine — all four tools that replace what your legacy suite offered, plus things it never did. Surfshark Starter (VPN only) is the right call if antivirus is already handled elsewhere and you just need a reliable VPN. Both options run lighter, cost less at renewal, and do not install browser toolbars or push upsell popups at you every time you open the app.
+For most people switching from Norton or McAfee, **[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) is the right tier**. It includes the full VPN, a capable [antivirus](https://snipstack.io/vs-antivirus-2026/), dark web breach monitoring, and a private search engine — all four tools that replace what your legacy suite offered, plus things it never did. Surfshark Starter (VPN only) is the right call if antivirus is already handled elsewhere and you just need a reliable VPN. Both options run lighter, cost less at renewal, and do not install browser toolbars or push upsell popups at you every time you open the app.
 
 ---
 
 ## The Comparison Table You Actually Need
 
-| Feature | Surfshark Starter | [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) | Norton 360 Standard | McAfee Total Protection |
+| Feature | Surfshark Starter | [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Standard | McAfee Total Protection |
 |---|---|---|---|---|
 | **VPN** | Yes — full WireGuard VPN | Yes — same full VPN | Limited (few servers, no WireGuard) | Limited (5 GB/day cap) |
 | **Antivirus** | No | Yes — real-time + ransomware | Yes | Yes |
@@ -59,7 +59,7 @@ The honest trade-off: you are on your own for breach monitoring, private search,
 
 [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) layers four tools onto the same VPN foundation:
 
-**Surfshark Antivirus** — real-time malware and ransomware protection. Not the flashiest antivirus on the market — Bitdefender's detection rates are marginally higher — but it is competent, light on system resources, and it does not install browser toolbars or generate a notification every time it updates. Scans run in the background without slowing your machine to a crawl during startup. [Full comparison of how the antivirus performs here.](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)
+**[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** — real-time malware and ransomware protection. Not the flashiest antivirus on the market — Bitdefender's detection rates are marginally higher — but it is competent, light on system resources, and it does not install browser toolbars or generate a notification every time it updates. Scans run in the background without slowing your machine to a crawl during startup. [Full comparison of how the antivirus performs here.](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)
 
 **Surfshark Alert** — dark web breach monitoring. Registers your email addresses, credit card numbers, and personal IDs against breach databases and fires a notification the moment any of them appear in a leak. Unlike a one-time check on a free tool, Alert monitors continuously. When something surfaces, you get the breach name, the type of data exposed, and clear next steps. No upsell to a premium tier to unlock basic notifications.
 

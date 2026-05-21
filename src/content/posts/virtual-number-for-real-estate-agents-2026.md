@@ -78,7 +78,7 @@ A virtual number is a working phone number that is not tied to your physical SIM
 
 The key properties you need:
 
-1. **Receives calls and SMS** — a virtual number that only receives texts is not enough if someone wants to call
+1. **Receives calls and SMS** — a [virtual number that](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) only receives texts is not enough if someone wants to call
 2. **Works from anywhere** — the number should route over the internet, not require a second SIM
 3. **Can be changed or disabled** — if a situation goes bad, you need to be able to cut the connection
 4. **Does not expose your real number** — end-to-end, your actual mobile should never appear in caller ID or SMS metadata

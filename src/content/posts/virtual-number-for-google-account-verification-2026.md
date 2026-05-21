@@ -64,7 +64,7 @@ A [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-
 
 Using one to verify a Google account works like this:
 
-1. You get a virtual number through Surfshark Alt-Number
+1. You get a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) through Surfshark Alt-Number
 2. You start creating your new Google account and reach the phone verification step
 3. You enter your Alt-Number instead of your real number
 4. Google sends an SMS verification code to your Alt-Number

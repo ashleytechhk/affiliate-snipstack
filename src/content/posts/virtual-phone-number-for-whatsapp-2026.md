@@ -116,7 +116,7 @@ The major caveat: Skype has been progressively de-emphasized by Microsoft, and t
 
 ---
 
-## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up WhatsApp With a Virtual Number (Step by Step)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up WhatsApp With a [Virtual Number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) (Step by Step)
 
 Getting this working takes under five minutes once you have your virtual number ready.
 

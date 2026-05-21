@@ -146,7 +146,7 @@ It depends on the app and the service. Major dating platforms have started block
 
 ### Can someone trace my real number from a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/)?
 
-No — that's the point. Your [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/) and your real number are separate. Someone with your virtual number cannot reverse-lookup your real phone number. They can only reach you through the virtual number until you choose to retire it.
+No — that's the point. Your [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/) and your real number are separate. Someone with your [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) cannot reverse-lookup your real phone number. They can only reach you through the virtual number until you choose to retire it.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my virtual number?
 

@@ -42,7 +42,7 @@ This is the scope gap that separates network-level VPN protection from browser-e
 
 ### What a Browser Extension VPN Does
 
-A Chrome or Firefox VPN extension creates an encrypted tunnel for traffic that flows through that browser. When you visit a website inside Chrome with the extension active, the site sees the VPN's IP address instead of yours, and the traffic between your browser and the VPN server is encrypted.
+A Chrome or Firefox [VPN extension](https://snipstack.io/vpn-extension-for-brave-browser-2026/) creates an encrypted tunnel for traffic that flows through that browser. When you visit a website inside Chrome with the extension active, the site sees the VPN's IP address instead of yours, and the traffic between your browser and the VPN server is encrypted.
 
 That is where the coverage stops. Any application on your device that is not that specific browser — your email client, your gaming platform, your streaming apps, your torrent client, your system update processes — sends traffic on your real IP address, unencrypted by the VPN.
 

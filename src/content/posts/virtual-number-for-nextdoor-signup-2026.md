@@ -158,7 +158,7 @@ Your account remains active. Replacing the number means Nextdoor's future SMS me
 
 **Why does Nextdoor need a phone number at all?**
 
-Nextdoor uses phone verification as part of its local membership model. The platform is neighbourhood-specific, so it verifies that each member has a real presence in a particular area. Phone numbers, combined with address information, are part of how it places users in the right local community. This is why the number-to-location link exists — and why using a virtual number that you control is the cleaner approach.
+Nextdoor uses phone verification as part of its local membership model. The platform is neighbourhood-specific, so it verifies that each member has a real presence in a particular area. Phone numbers, combined with address information, are part of how it places users in the right local community. This is why the number-to-location link exists — and why using a [virtual number that](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) you control is the cleaner approach.
 
 **Is using a virtual number on Nextdoor against their terms of service?**
 

@@ -38,7 +38,7 @@ For someone who is *not* already in the Proton ecosystem and is specifically sho
 
 Alt ID is Surfshark's [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) and identity-masking tool. It generates randomized [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/)es — addresses that look like real emails to any sender — and forwards all incoming mail to your actual inbox. You can create multiple aliases, label them, toggle forwarding on or off, and delete them permanently with one click.
 
-Alt ID is part of Surfshark One and Surfshark One+ subscriptions, which bundle the alias tool with a VPN and a data removal service (which actively scrubs your real email from broker databases). That combination is directly relevant if you are dealing with heavy spam: the VPN stops tracking at the network level, the alias masks your address going forward, and the data removal service cleans up existing exposure.
+Alt ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ subscriptions, which bundle the alias tool with a VPN and a data removal service (which actively scrubs your real email from broker databases). That combination is directly relevant if you are dealing with heavy spam: the VPN stops tracking at the network level, the alias masks your address going forward, and the data removal service cleans up existing exposure.
 
 ---
 
@@ -54,7 +54,7 @@ Alt ID is part of Surfshark One and Surfshark One+ subscriptions, which bundle t
 | Alias labeling / organization | Yes, per-item labels in password manager | Yes, dashboard labels |
 | Integrated password manager | Yes — core product | No (standalone tool) |
 | VPN bundled | No (separate Proton VPN product) | Yes — same subscription |
-| Data broker removal | No | Yes (Surfshark One+) |
+| Data broker removal | No | Yes ([Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+) |
 | Works outside Proton ecosystem | Partial — reply-from-alias works best with ProtonMail | Yes — any email provider |
 | Platform | iOS, Android, browser extension | iOS, Android, web dashboard |
 

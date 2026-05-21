@@ -53,7 +53,7 @@ Any [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2
 You want something stable — a number you can put on a business card or reply from consistently. Hushed and Surfshark Alt-Number both work. Burner is less ideal since the "burn" mechanic runs counter to building client relationships.
 
 **Kid's phone or family member**
-This guide isn't the right fit — these apps are secondary numbers attached to an existing iPhone, not replacements for a dedicated device. For that, look at a physical SIM on a family plan.
+This guide isn't the right fit — these apps are secondary numbers attached to an existing iPhone, not replacements for a dedicated device. For that, look at a physical SIM on a [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/).
 
 ---
 

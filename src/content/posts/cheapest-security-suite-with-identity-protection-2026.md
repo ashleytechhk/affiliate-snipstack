@@ -96,7 +96,7 @@ Norton makes sense if you want the most comprehensive LifeLock coverage — actu
 
 ## McAfee Total Protection — Familiar Problems
 
-McAfee Total Protection includes identity monitoring on its individual and family plans, covering breach alerts, Social Security number monitoring (US), and a password manager. The antivirus engine is solid. Multi-device coverage on the unlimited tier is genuinely useful for households.
+McAfee Total Protection includes identity monitoring on its individual and [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/)s, covering breach alerts, Social Security number monitoring (US), and a password manager. The antivirus engine is solid. Multi-device coverage on the unlimited tier is genuinely useful for households.
 
 Where McAfee stumbles is in the same places it has for years: installer bloat, aggressive upsell prompts within the app, and a VPN that either is not included or is capped on most plans. Users migrating to McAfee from Norton often report trading one set of popup frustrations for another.
 

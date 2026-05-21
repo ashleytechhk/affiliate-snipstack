@@ -36,7 +36,7 @@ This is the clarification most articles skip. Here is the short version:
 
 Google deprecated NPAPI support in 2015 and removed it entirely by 2020. Chrome plugins, as a category, do not exist.
 
-**Chrome extensions** are a separate system entirely. They run inside the browser's sandboxed JavaScript environment and interact with Chrome through official APIs. They are listed in the Chrome Web Store, installed through the browser UI, and operate under permissions that Chrome enforces. A VPN extension uses these APIs to route your browser traffic through a remote server — it cannot interact with the OS the way a plugin could.
+**Chrome extensions** are a separate system entirely. They run inside the browser's sandboxed JavaScript environment and interact with Chrome through official APIs. They are listed in the Chrome Web Store, installed through the browser UI, and operate under permissions that Chrome enforces. A [VPN extension](https://snipstack.io/vpn-extension-for-brave-browser-2026/) uses these APIs to route your browser traffic through a remote server — it cannot interact with the OS the way a plugin could.
 
 When someone types "VPN plugin Chrome" into a search engine in 2026, they mean a Chrome extension. That is what this guide covers.
 

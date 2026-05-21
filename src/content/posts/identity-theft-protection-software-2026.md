@@ -100,7 +100,7 @@ Aura is a newer service that has grown quickly for good reason: it bundles antiv
 
 The interface is straightforward and the mobile app is rated highly for ease of use — a genuine consideration for seniors who do not want to dig through menus. Aura's credit monitoring sends alerts within hours of suspicious activity, which is faster than many competitors.
 
-The main limitation is price: Aura runs around $144 per year for an individual, or more for family plans. That is a fair price for what it includes, but if credit monitoring and insurance are not priorities, you are paying for features you will not use. For seniors specifically interested in the financial protection layer, Aura is worth comparing directly against Norton 360 with LifeLock at current prices.
+The main limitation is price: Aura runs around $144 per year for an individual, or more for [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/)s. That is a fair price for what it includes, but if credit monitoring and insurance are not priorities, you are paying for features you will not use. For seniors specifically interested in the financial protection layer, Aura is worth comparing directly against Norton 360 with LifeLock at current prices.
 
 ---
 

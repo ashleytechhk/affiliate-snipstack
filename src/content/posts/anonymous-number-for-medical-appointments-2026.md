@@ -94,7 +94,7 @@ It's different from Google Voice and similar services in a few important ways th
 Getting a working anonymous number takes about as long as making a cup of coffee.
 
 1. Download the Surfshark app from the App Store or Google Play
-2. Create an account and choose a subscription plan — Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which bundles the VPN, antivirus, and identity monitoring tools
+2. Create an account and choose a subscription plan — Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which bundles the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring tools
 3. In the app, navigate to **Alt-Number** (under "Products" on iOS, or the menu on Android)
 4. Choose your country and select a number from the available list
 5. Tap **Activate** — your number is live immediately
@@ -153,7 +153,7 @@ Yes. Unlike Google Voice (US only) or Burner (US and Canada only), [Surfshark Al
 
 Yes. You're providing a real, functional contact number — it just isn't your primary line. Healthcare providers require a working contact number so they can reach you; Alt-Number fulfills that requirement. You're reachable on it. You're not misrepresenting anything.
 
-**How much does Surfshark Alt-Number cost?**
+**[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Alt-Number cost?**
 
 Alt-Number is available as a standalone add-on or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), which bundles the VPN, antivirus, and identity monitoring tools. The bundle typically offers better value if you'd use more than one feature. Surfshark runs promotions regularly — check the current pricing through the official link.
 

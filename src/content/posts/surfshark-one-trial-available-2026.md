@@ -121,7 +121,7 @@ If you are on Norton or McAfee right now, the trial window is only useful if Sur
 
 **Password manager.** Surfshark One does not include one. Norton and McAfee both do. If a built-in password manager is important to your setup, that is a genuine gap in Surfshark One. The workaround is a free tool like Bitwarden, but that adds a step.
 
-**LifeLock-style identity coverage.** Norton's higher-tier plans include identity theft insurance and credit monitoring features that go well beyond what Surfshark Alert covers. For US users with specific identity theft concerns, that may outweigh Surfshark's price and VPN advantages.
+**LifeLock-style identity coverage.** Norton's higher-tier plans include [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and credit monitoring features that go well beyond what Surfshark Alert covers. For US users with specific identity theft concerns, that may outweigh Surfshark's price and VPN advantages.
 
 ---
 
@@ -165,9 +165,9 @@ For most home users, yes. [Surfshark Antivirus](https://snipstack.io/surfshark-a
 
 Yes. The 30-day money-back window applies to monthly, one-year, and two-year plans. The two-year plan offers the lowest per-month cost and is worth considering if you decide to commit after the evaluation period. **[Check current Surfshark One pricing here](/blog/one?sub=surfshark-one-trial-available-2026__faq)**
 
-### What happens to my Surfshark Alert monitoring data if I cancel?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Surfshark Alert monitoring data if I cancel?
 
-When you cancel and request a refund, your Surfshark account and associated data are removed. Any breach monitoring data stored against your email addresses in the Alert system is deleted. You will stop receiving breach notifications. If you switch back in the future, you set up monitoring from scratch — there is no data retention.
+When you cancel and request a refund, your Surfshark account and associated data are removed. Any breach monitoring data stored against your email addresses in the Alert system is deleted. You will [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) breach notifications. If you switch back in the future, you set up monitoring from scratch — there is no data retention.
 
 ### Does Surfshark One work on all my devices during the trial?
 

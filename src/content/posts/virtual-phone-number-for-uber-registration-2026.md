@@ -66,7 +66,7 @@ A [virtual number for](https://snipstack.io/virtual-number-for-signal-registrati
 
 **It must be permanent (or at least as long as your account exists).** A number you can only hold for 30 days creates the same problem you started with: eventually you lose access to account recovery.
 
-**It must not require a SIM swap or a second device.** The point is friction reduction. If getting a virtual number is more complicated than just using your real one, most people will not bother.
+**It must not require a SIM swap or a second device.** The point is friction reduction. If getting a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) is more complicated than just using your real one, most people will not bother.
 
 **[Get Alt-Number — designed for exactly this use case](/blog/altnumber?sub=virtual-phone-number-for-uber-registration-2026__mid)**
 

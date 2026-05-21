@@ -139,7 +139,7 @@ Yes. One Bundle covers unlimited simultaneous devices. Install it on every devic
 
 AVG is owned by Avast, which was fined by the FTC in 2024 for selling user browsing data collected through its products. Surfshark has a no-logs VPN policy that has been independently audited. For users who care about data privacy beyond just malware blocking, this distinction is significant.
 
-### Is there a family plan option?
+### Is there a [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) option?
 
 Surfshark One's unlimited device policy effectively functions as a family plan — every device in your household can run under the same subscription. AVG charges per device or per tier and does not offer an equivalent.
 

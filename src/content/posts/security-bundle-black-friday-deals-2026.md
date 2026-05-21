@@ -90,7 +90,7 @@ The practical problems start at renewal, at the dashboard, and during setup.
 The 2026 Norton 360 installation still pushes Norton Password Manager, Norton Secure Browser, and LifeLock marketing as separate install prompts — some of them during setup, some via notification after first launch. The dashboard is feature-dense in a way that consistently confuses users who want to run a scan, not navigate a product matrix. These are not new complaints; they have been there for years and have not been redesigned away.
 
 **Norton makes sense if:**
-- You are in the US and want LifeLock identity theft insurance at the higher tier
+- You are in the US and want LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance at the higher tier
 - Antivirus detection rate is your single top priority and you want benchmark history
 - You negotiated a favorable multi-year renewal during a previous promotion and your rate is grandfathered
 

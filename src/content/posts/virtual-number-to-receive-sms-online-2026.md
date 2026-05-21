@@ -137,7 +137,7 @@ This is the specific workflow that makes a real local [virtual number](https://s
 
 ## FAQ
 
-**Will a virtual number work for Tinder SMS verification?**  
+**Will a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) work for Tinder SMS verification?**  
 It depends on the type of virtual number. VoIP numbers — the kind used by Google Voice, Hushed, Burner, and TextNow — are frequently rejected by Tinder during account creation because dating apps run carrier-level checks to detect non-mobile numbers. [Surfshark Alt-Number](/blog/altnumber?sub=virtual-number-to-receive-sms-online-2026__faq) uses a real local number provisioned on the mobile network, which passes those checks in most cases. If dating app verification is your primary use case, a real local number is the only reliable option.
 
 **Can I receive 2FA and OTP codes on a virtual number?**  

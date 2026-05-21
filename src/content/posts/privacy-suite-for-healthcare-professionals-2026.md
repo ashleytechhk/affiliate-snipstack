@@ -94,7 +94,7 @@ Norton and McAfee have no equivalent. This one feature alone is worth the price 
 
 This is the one that Norton and McAfee should be embarrassed about in 2026. Both products still install browser toolbars by default. Both push in-app notifications to upgrade to higher tiers or add-on products. Both have interfaces designed around surfacing upsell opportunities.
 
-Surfshark's interface is clean. The features are accessible without navigating a marketing funnel every time you open the app. This matters if you're opening it on call at 11pm and want to check that breach monitoring is active — not read a banner about adding a family plan.
+Surfshark's interface is clean. The features are accessible without navigating a marketing funnel every time you open the app. This matters if you're opening it on call at 11pm and want to check that breach monitoring is active — not read a banner about adding a [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/).
 
 ---
 

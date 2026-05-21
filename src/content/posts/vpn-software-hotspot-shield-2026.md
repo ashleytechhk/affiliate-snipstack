@@ -81,7 +81,7 @@ The paid plan removes the limitations:
 - Access to 1,800+ servers in 80+ countries
 - No data cap
 - No ads in-app
-- Up to 5 simultaneous devices (Family plan: up to 25)
+- Up to 5 simultaneous devices ([Family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/): up to 25)
 - 24/7 customer support
 - 45-day money-back guarantee
 
