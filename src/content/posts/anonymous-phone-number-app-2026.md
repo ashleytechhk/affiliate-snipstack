@@ -159,7 +159,7 @@ Messages sent to a cancelled number either bounce or go nowhere — there's no f
 
 Yes. This is one of its main advantages over free alternatives like Google Voice (US only) or Burner (US and Canada only). [Surfshark Alt-Number](/blog/altnumber?sub=anonymous-phone-number-app-2026__faq) offers numbers from multiple countries, which matters for international daters and anyone who travels regularly.
 
-**How much does it cost?**
+**[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) it cost?**
 
 Pricing varies by region and plan. Alt-Number is available as a standalone product or bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/), which includes a VPN, antivirus, and identity monitoring tools. The bundle typically works out to a better per-feature cost if you'd use more than one tool. Check the current pricing at the official site — Surfshark runs promotions regularly.
 

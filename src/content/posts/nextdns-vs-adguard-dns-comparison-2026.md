@@ -10,7 +10,7 @@ Mobile ads are a tax on your attention. Every banner, interstitial, and retarget
 
 NextDNS and [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) are the two names that come up most often when mobile users start down this path. Both are DNS resolvers with built-in block lists. Both are free to start. Both work on Android and iOS. But they are built for different kinds of users, and choosing the wrong one means either not enough blocking or more configuration than you needed.
 
-This guide breaks down exactly what each does, how they compare feature by feature, how to set them up on a phone in under five minutes, and which one is right for you in 2026.
+This guide breaks down exactly what each does, how they compare feature by feature, [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) them up on a phone in under five minutes, and which one is right for you in 2026.
 
 ![NextDNS vs AdGuard DNS mobile comparison 2026](/og/nextdns-vs-adguard-dns-comparison-2026.png)
 

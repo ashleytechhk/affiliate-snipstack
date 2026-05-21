@@ -179,7 +179,7 @@ Yes. Email and web browsing are the two most common ways threats reach your comp
 **Q: Will antivirus software slow down my Mac?**
 Modern antivirus apps are designed to have minimal impact on performance. Surfshark uses very little memory and processor power during regular use. You are unlikely to notice any slowdown.
 
-**Q: How much does [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) cost?**
+**Q: [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) cost?**
 Pricing varies by plan and promotion. The two-year plan is typically the most affordable option. Check the current price at the [official offer page](/blog/surfshark?sub=how-antivirus-mac-2026__faq).
 
 **Q: Can I use Surfshark on more than one device?**

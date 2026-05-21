@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![How to stop number spoofing calls for online dating](/og/how-to-stop-number-spoofing-calls-2026.png)
 
-Americans lost **$1.14 billion to romance scams in 2023** — more than any other fraud category tracked by the FTC. The average victim lost $2,000. The most targeted age group was 55–64. And in nearly every case, the scam started with a phone number.
+Americans lost **$1.14 billion to romance scams in 2023** — more than any other fraud category tracked by the FTC. The average victim lost $2,000. The most targeted age group was 55–64. And in nearly every case, the scam started with a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/).
 
 Not always the victim's number. Sometimes a spoofed one — a call that showed up as a familiar local number, a match's number, or even the victim's own number. By the time the person realized what was happening, they'd handed over enough information to make the next phase of the scam possible.
 
@@ -38,7 +38,7 @@ The most common spoofing patterns targeting online daters:
 
 **Own-number spoofing.** A call that shows your own number. Alarming enough that most people answer out of confusion. The script on the other end usually starts with "we've detected suspicious activity on your account."
 
-None of these can be faked without one prerequisite: your real phone number. To neighbor-spoof effectively, attackers need to know your area code and prefix. To contact-spoof, they need your contacts. To run a targeted romance-scam operation, they need your actual number to verify you're a viable target.
+None of these can be faked without one prerequisite: your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/). To neighbor-spoof effectively, attackers need to know your area code and prefix. To contact-spoof, they need your contacts. To run a targeted romance-scam operation, they need your actual number to verify you're a viable target.
 
 That's the entry point Alt-Number addresses.
 
@@ -114,7 +114,7 @@ If spam starts hitting your alias — or if someone you gave it to turns into a 
 
 This is the difference between filtering the water that floods your floor and turning off the tap.
 
-**How to get started:**
+**[How to get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) started:**
 
 1. Download the Surfshark app and create an account
 2. Open the **Alt-Number** section in the app

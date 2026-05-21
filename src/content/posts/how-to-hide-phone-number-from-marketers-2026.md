@@ -153,13 +153,13 @@ Most major dating apps — Tinder, Hinge, Bumble, OkCupid, and others — accept
 
 No. Your Alt-Number looks like an ordinary phone number to anyone receiving it. There's no indication it's virtual, no unusual dialling prefix, and no difference in how calls or texts appear on their end.
 
-**What happens to my dating app account if I retire my alias number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my dating app account if I retire my alias number?**
 
 Your dating app account is separate from your phone number once registration is complete. Retiring your alias number means the number is no longer active — it doesn't automatically delete your app account. You'd want to update your contact number in the app's settings before retiring the alias if you plan to keep the account active. Think of the phone number as the key to the front door at signup, not a permanent anchor to your profile.
 
 **Is this different from just putting my phone on Do Not Disturb?**
 
-Completely different. Do Not Disturb silences notifications but doesn't prevent your number from being in marketing databases, doesn't stop callers from leaving voicemails, and doesn't protect you from the broader consequences of number exposure (reverse lookup, cross-platform tracking, etc.). A virtual number solves the problem at the source. Do Not Disturb is a mute button. An alias number is a different door entirely.
+Completely different. Do Not Disturb silences notifications but doesn't prevent your number from being in marketing databases, doesn't stop callers from leaving voicemails, and doesn't protect you from the broader consequences of number exposure (reverse lookup, cross-platform tracking, etc.). A [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) solves the problem at the source. Do Not Disturb is a mute button. An alias number is a different door entirely.
 
 **Does an alias number protect me from being found on other apps by someone who has it?**
 

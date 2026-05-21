@@ -138,7 +138,7 @@ If you can use email, you can use Surfshark Antivirus. The setup takes about thr
 
 Avast Free still detects and blocks malware effectively — its core scanning engine has strong test results. The concern is privacy, not virus-blocking performance. The 2024 FTC settlement confirmed that Avast collected and sold user browsing data through its Jumpshot subsidiary. The settlement required Avast to stop, but seniors who are uncomfortable with their online activity being recorded should consider a privacy-respecting alternative.
 
-### How much does Surfshark Antivirus cost?
+### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Antivirus cost?
 
 Surfshark Antivirus is typically available as part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) bundle. Introductory pricing is usually in the range of $3–4 per month when billed annually. Renewal pricing may differ — always check the current rate before purchasing. Even at renewal rates, it compares favorably against standalone antivirus subscriptions from large brands.
 

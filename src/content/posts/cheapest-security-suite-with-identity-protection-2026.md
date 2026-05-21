@@ -12,7 +12,7 @@ You signed up for Norton at $29.99 for the first year. Then the renewal landed i
 
 That cycle is exactly what a growing number of users are escaping. The question is: what do you actually need in a [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/), and what does it cost without the first-year bait-and-switch?
 
-This comparison focuses on security suites that include **identity protection** — specifically breach monitoring, not just antivirus. If you are carrying a Norton or McAfee subscription and wondering whether you are overpaying, these numbers will give you a clear answer.
+This comparison focuses on security suites that include **identity protection** — specifically breach monitoring, not just [antivirus](https://snipstack.io/vs-antivirus-2026/). If you are carrying a Norton or McAfee subscription and wondering whether you are overpaying, these numbers will give you a clear answer.
 
 [Skip to Surfshark One — our top pick for value](/blog/one?sub=cheapest-security-suite-with-identity-protection-2026__above-fold)
 
@@ -62,7 +62,7 @@ This is worth spelling out precisely, because the marketing copy can be vague.
 
 **VPN** — Full Surfshark VPN access across an unlimited number of devices simultaneously. Unlike Norton's VPN inclusion, which is data-capped on some plans, Surfshark's VPN is uncapped. WireGuard protocol, audited no-logs policy, 3,200+ servers across 100 countries.
 
-**Antivirus** — Real-time malware scanning and scheduled full-device scans on Windows, Mac, and Android. Independent lab testing (AV-TEST, SE Labs) has rated Surfshark Antivirus as effective at catching known threats, though it is newer to the market than Norton or McAfee's engines.
+**Antivirus** — Real-time malware scanning and scheduled full-device scans on Windows, Mac, and Android. Independent lab testing (AV-TEST, SE Labs) has rated [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) as effective at catching known threats, though it is newer to the market than Norton or McAfee's engines.
 
 **Alert (breach monitoring)** — Continuous monitoring across email addresses, credit card numbers, ID document numbers, and passwords. When Surfshark detects your data in a breach database, you receive an alert. This is breach notification and monitoring — not insurance or legal ID restoration services. That distinction matters.
 
@@ -144,7 +144,7 @@ It is a customer acquisition model. The first-year price is subsidized to get yo
 
 **[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus as good as Norton or McAfee?**
 
-Norton and McAfee have decades of antivirus engine development behind them and score at the top of independent testing labs. Surfshark Antivirus is newer and scores well in lab tests, but its track record is shorter. For most home users, any well-maintained antivirus engine will catch the threats they actually encounter. If you are in a high-risk environment — handling sensitive files professionally, running a small business — Norton or Bitdefender's longer track record may be worth the premium.
+Norton and McAfee have decades of antivirus engine development behind them and score at the top of independent testing labs. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is newer and scores well in lab tests, but its track record is shorter. For most home users, any well-maintained antivirus engine will catch the threats they actually encounter. If you are in a high-risk environment — handling sensitive files professionally, running a small business — Norton or Bitdefender's longer track record may be worth the premium.
 
 **Can I cancel Norton or McAfee and get a refund?**
 

@@ -207,7 +207,7 @@ Alt-Number offers numbers from multiple countries. If you're using international
 
 No. You're still fully reachable on that number — they can call and text you normally. You're protecting your primary contact information from someone you've just met, the same way you'd use a work email rather than your personal one for new professional contacts. If the relationship develops, you can always share your real number later.
 
-**How much does Surfshark Alt-Number cost?**
+**[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Alt-Number cost?**
 
 Alt-Number is included in specific Surfshark subscription plans. Pricing varies by plan length — annual plans work out significantly cheaper per month than monthly billing. Check current pricing at the link below.
 

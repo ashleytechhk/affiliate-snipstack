@@ -185,7 +185,7 @@ Windows 11 includes a built-in tool called [Windows Defender](https://snipstack.
 
 Modern [antivirus software](https://snipstack.io/antivirus-software-2026/) is designed to use very little memory. Surfshark Antivirus is particularly lightweight — during normal computer use, you should not notice any slowdown. You may notice a slight delay during a full scan (which only needs to happen occasionally), but day-to-day browsing, email, and video calls are not affected.
 
-### How much does Surfshark Antivirus cost?
+### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Antivirus cost?
 
 Surfshark offers several plans at different price points. Multi-year plans bring the monthly cost down significantly — often to just a few dollars per month. Pricing changes regularly with promotions, so check the current offers at the link below. A money-back option is available if you want to try it first. [See current pricing here.](/blog/antivirus?sub=surfshark-antivirus-vs-kaspersky-comparison-2026__faq)
 

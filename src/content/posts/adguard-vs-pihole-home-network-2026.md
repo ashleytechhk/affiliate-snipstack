@@ -80,7 +80,7 @@ The table makes the pattern obvious: Pi-hole's coverage is home-only unless you 
 
 Both AdGuard and Pi-hole leave something unresolved for the mobile power-user:
 
-**AdGuard on iOS** blocks ads well, but uses the VPN slot. If you travel frequently and need a privacy VPN for public Wi-Fi — hotels, airports, coffee shops — you have to choose between running AdGuard's blocking or running a real VPN tunnel. You cannot do both simultaneously.
+**AdGuard on iOS** blocks ads well, but uses the VPN slot. If you travel frequently and need a privacy [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) Wi-Fi — hotels, airports, coffee shops — you have to choose between running AdGuard's blocking or running a real VPN tunnel. You cannot do both simultaneously.
 
 **Pi-hole** stops at your home network boundary. Unless you maintain the WireGuard tunnel, your phone is fully exposed the moment you leave home.
 

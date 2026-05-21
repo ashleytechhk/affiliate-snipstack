@@ -204,7 +204,7 @@ Yes. Windows Defender provides basic protection, but dedicated antivirus softwar
 
 Yes, as long as you use the official link. Always make sure the website address starts with **https://** (the "s" stands for secure). The affiliate link in this article goes directly to the official Surfshark purchase page. Avoid clicking links in emails you were not expecting. [Visit the official page here.](/blog/surfshark?sub=best-antivirus-for-windows-11-2026__faq)
 
-### How much does antivirus software cost?
+### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) antivirus software cost?
 
 Prices vary. Surfshark Antivirus is one of the more affordable premium options, especially if you purchase a one-year or two-year plan. Multi-year plans can bring the cost down to just a few dollars per month. Always check the official pricing page for current deals, as promotions change regularly.
 

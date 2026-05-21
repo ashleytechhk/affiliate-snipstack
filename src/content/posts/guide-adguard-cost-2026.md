@@ -217,7 +217,7 @@ Consider a DNS-level alternative if:
 
 The AdGuard browser extension is completely free with no trial period or expiry — it works in Chrome, Firefox, Edge, and Safari indefinitely. The desktop apps (Windows, Mac) and mobile apps (Android, iOS) require a paid Personal or Family license, though desktop and Android offer a 14-day free trial.
 
-### How much does AdGuard cost per year?
+### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) AdGuard cost per year?
 
 Pricing varies by region and promotional period. As a general reference, the Personal plan (3 devices) typically runs in the $25–$35/year range, and the Family plan (9 devices) in the $50–$65/year range. Check adguard.com for current rates — AdGuard runs discounts regularly that can lower these figures meaningfully.
 

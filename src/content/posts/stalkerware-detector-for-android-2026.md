@@ -170,7 +170,7 @@ In most countries, installing tracking or spying software on someone else's phon
 
 A factory reset removes all apps and data from your phone, which includes stalkerware. However, it also removes your photos, contacts, and apps, so it is worth trying a dedicated antivirus scan first. If the scan cannot remove the threat, or if you feel unsafe, a factory reset with a prior backup is a reliable last resort.
 
-### How much does Surfshark Antivirus cost, and is it worth it for seniors?
+### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Antivirus cost, and is it worth it for seniors?
 
 Surfshark Antivirus is available as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which typically costs a few dollars per month when billed annually. For seniors who hold savings, use online banking, or simply value their privacy and peace of mind, that cost is modest compared to the potential harm of having your passwords, location, and messages exposed to someone you did not choose to share them with.
 
