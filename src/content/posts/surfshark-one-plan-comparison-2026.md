@@ -199,7 +199,7 @@ Pick the tier. Make the switch. Stop paying more for less.
       "name": "Does Surfshark One antivirus replace Norton or McAfee completely?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For home users, yes. It covers real-time antivirus with ransomware protection, VPN, and breach monitoring. The only significant gap is LifeLock-level identity theft insurance exclusive to Norton's upper-tier US plans."
+        "text": "For home users, yes. It covers real-time [antivirus with](https://snipstack.io/antivirus-with-safe-banking-browser-2026/) ransomware protection, VPN, and breach monitoring. The only significant gap is LifeLock-level identity theft insurance exclusive to Norton's upper-tier US plans."
       }
     },
     {

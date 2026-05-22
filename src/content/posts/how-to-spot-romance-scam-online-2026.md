@@ -44,7 +44,7 @@ Before diving into the warning signs, here is a side-by-side view of what each a
 
 ---
 
-## The 7 Warning Signs of a Romance Scam
+## The 7 Warning [Signs of a](https://snipstack.io/signs-of-a-fake-website-2026/) Romance Scam
 
 ### 1. They Appear Instantly Perfect
 

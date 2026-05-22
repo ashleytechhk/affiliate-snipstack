@@ -71,7 +71,7 @@ Using one to verify a Google account works like this:
 5. You retrieve the code inside the Alt-Number app and enter it in Google
 6. The account is verified — your real number was never submitted
 
-From that point forward, your dating Google account is tied to the virtual number, not your personal line. If someone reverses the number, they find the virtual number's carrier registration — not your name, not your home address, not your real identity.
+From that point forward, your dating Google account is tied to the [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/), not your personal line. If someone reverses the number, they find the virtual number's carrier registration — not your name, not your home address, not your real identity.
 
 [**Set up your Alt-Number and verify your Google account privately →**](/blog/altnumber?sub=virtual-number-for-google-account-verification-2026__mid)
 

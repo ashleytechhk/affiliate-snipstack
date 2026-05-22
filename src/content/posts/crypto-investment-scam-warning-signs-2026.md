@@ -37,7 +37,7 @@ Use this table as a fast reference before diving into each sign in detail.
 | Pressure to act before a deadline | Slow down and verify independently | Not applicable — judgment call |
 | Requests to pay in gift cards or crypto only | Legitimate platforms accept standard payment | Detects known fraud-linked wallet addresses |
 | The "rug pull" — platform vanishes after deposit | Check domain age; look for registered company | Surfaces newly registered scam domains |
-| Romance or "pig butchering" grooming | No fast check; trust instinct and slow down | Flags phishing links sent during contact |
+| Romance or "pig butchering" grooming | No fast check; trust instinct and slow down | Flags [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s sent during contact |
 | Requests for your seed phrase or private key | Never share these under any circumstances | Flags phishing pages harvesting wallet credentials |
 
 > **Bottom line:** Surfshark's Scam Detector automates the technical checks — suspicious links, phishing domains, newly registered sites. The judgment calls — spotting impossible promises, resisting pressure, recognising grooming — still need your awareness.

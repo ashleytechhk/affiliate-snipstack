@@ -74,7 +74,7 @@ None of these scenarios require the other person to be overtly criminal. Harassm
 
 **[See how Surfshark Alt-Number works](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__mid)**
 
-A virtual number is a working phone number that is not tied to your physical SIM or carrier account. You give it out; people call and text it; you receive those calls and messages through the app or service that issued the number. Your real number never appears.
+A [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) is a working phone number that is not tied to your physical SIM or carrier account. You give it out; people call and text it; you receive those calls and messages through the app or service that issued the number. Your real number never appears.
 
 The key properties you need:
 

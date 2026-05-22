@@ -74,7 +74,7 @@ The parallel to home service professionals holds exactly. A plumber using a [vir
 
 For online daters:
 
-1. You generate a virtual number before you move a conversation off the app.
+1. You generate a [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) before you move a conversation off the app.
 2. You share that number instead of your real one.
 3. The other person calls and texts it; you receive those contacts through the service.
 4. Your real number is never involved. A reverse lookup on your virtual number does not resolve to your personal details.

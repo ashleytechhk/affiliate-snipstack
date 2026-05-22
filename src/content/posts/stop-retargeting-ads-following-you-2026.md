@@ -70,7 +70,7 @@ This is the mechanism behind cross-app retargeting: you are recognized as the sa
 
 Major ad platforms have shifted significant retargeting infrastructure to **server-side conversion APIs** (Meta CAPI, Google Enhanced Conversions, TikTok Events API). Instead of relying on a browser pixel that a blocker can intercept, the retailer's server sends event data directly to the ad platform's server — no client-side script required.
 
-This means browser-based ad blockers and Safari Content Blockers do not stop server-side retargeting data. The signal is sent after you act, without touching your device.
+This means browser-based [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/)s and Safari Content Blockers do not stop server-side retargeting data. The signal is sent after you act, without touching your device.
 
 ![Diagram showing how a tracking pixel fires on a product page, matches the user's advertising ID, and routes the retargeting audience to Meta and Google ad platforms — all before the page finishes loading](/og/stop-retargeting-ads-following-you-2026-inline-1.png)
 
@@ -88,7 +88,7 @@ The most effective single step is preventing the pixel request from ever leaving
 
 DNS-level blocking intercepts requests to these domains before they resolve. When your device tries to load a retargeting pixel, the DNS resolver blocks the request instead of routing it. No request reaches the ad platform's servers, so no audience match is made.
 
-Surfshark CleanWeb operates at the DNS level and works across all browsers and all apps simultaneously — not just inside one browser where a content blocker might catch some pixels but miss others. This is what separates it from a browser extension: it covers in-app pixels, embedded browser views inside apps, and pixels loaded via JavaScript that extension-based blockers increasingly miss due to obfuscation.
+[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) operates at the DNS level and works across all browsers and all apps simultaneously — not just inside one browser where a content blocker might catch some pixels but miss others. This is what separates it from a browser extension: it covers in-app pixels, embedded browser views inside apps, and pixels loaded via JavaScript that extension-based blockers increasingly miss due to obfuscation.
 
 > **Stop the pixel before it fires — not just the ad after it loads**
 > CleanWeb runs DNS-level blocking across every app on your phone.

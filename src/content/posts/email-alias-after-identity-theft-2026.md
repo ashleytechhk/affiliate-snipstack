@@ -6,7 +6,7 @@ heroImage: "/og/email-alias-after-identity-theft-2026.png"
 tags: ["altid", "privacy", "review"]
 ---
 
-Identity theft does not end when you cancel the card. The leaked email address keeps circulating. Spammers buy breach lists within hours of a dump going public, and your address — already paired with your name, maybe your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) and address — gets traded across marketplaces you will never find. The spam that follows is not random noise. It is targeted, because the buyer knows something real about you.
+[Identity theft](https://snipstack.io/identity-theft-protection-software-2026/) does not end when you cancel the card. The leaked email address keeps circulating. Spammers buy breach lists within hours of a dump going public, and your address — already paired with your name, maybe your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) and address — gets traded across marketplaces you will never find. The spam that follows is not random noise. It is targeted, because the buyer knows something real about you.
 
 Filtering and unsubscribing does not fix a burned address. The only structural fix is taking your real email off the table entirely and routing everything through aliases you can kill on demand.
 
@@ -47,7 +47,7 @@ This comparison breaks down the five most-used [email alias](https://snipstack.i
 
 Most spam comes from one of two sources: you signed up for something that sold your address, or a service you trusted had a breach. Either way, the leak is usually just your email.
 
-Identity theft is different. In a full identity theft incident — Social Security number exposure, credit application fraud, or a comprehensive data broker dump — your email is paired with real personal data: legal name, physical address, phone number, date of birth. Spammers and phishers who buy these lists can craft attacks that reference real details about you. That is not random spam. It is targeted social engineering.
+Identity theft is different. In a full identity theft incident — Social Security number exposure, credit application fraud, or a comprehensive data broker dump — your email is paired with real personal data: legal name, physical address, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), date of birth. Spammers and phishers who buy these lists can craft attacks that reference real details about you. That is not random spam. It is targeted social engineering.
 
 A plain alias service stops new senders from learning your real email. But it does not address the correlation problem: if every new service you sign up for gets your real name, the information builds. One breach at a new service connects your alias to your real identity through the name field.
 
@@ -159,7 +159,7 @@ For someone deep in Apple's ecosystem who wants a no-friction alias layer for ne
 
 Gmail's `+tag` addressing (`yourname+amazon@gmail.com`) and the ability to add up to 30 alias addresses in Settings are widely used because they cost nothing. Both have significant limitations for identity theft recovery.
 
-Plus addresses reveal your real address: anyone who sees `yourname+amazon@gmail.com` knows your real address is `yourname@gmail.com`. Spammers and data brokers strip the `+tag` automatically. It provides minimal protection against targeted attacks.
+Plus addresses reveal your real address: anyone who sees `yourname+amazon@gmail.com` knows your real address is `yourname@gmail.com`. Spammers and data brokers strip the `+tag` automatically. It provides minimal [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) targeted attacks.
 
 Gmail alias addresses (added via Settings) are permanent — you cannot delete them, only disable forwarding. They also do not mask your real domain.
 

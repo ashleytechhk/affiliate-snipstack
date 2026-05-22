@@ -28,7 +28,7 @@ This article covers exactly what to look for in the **best app for temporary SMS
 
 ## The Risk Nobody Talks About
 
-Online dating apps do a reasonable job of keeping conversations inside their platforms. What they cannot protect is what happens the moment you move the conversation off-app.
+Online dating apps do a reasonable job of keeping conversations inside their platforms. What they cannot protect is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) the moment you move the conversation off-app.
 
 That transition — when you swap numbers with someone — is the point where your privacy disappears.
 
@@ -82,7 +82,7 @@ Not all temporary number apps are built for the same use case. For online dating
 
 ## Surfshark Alt-Number: How It Works for Online Dating
 
-Alt-Number is Surfshark's [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) product. It gives you a real local number in your chosen country, provisioned on the mobile network — not VoIP infrastructure. Setup takes a few minutes through the Surfshark app: pick a country, select a number, and it is live on your existing phone. No physical SIM required.
+Alt-Number [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) product. It gives you a real local number in your chosen country, provisioned on the mobile network — not VoIP infrastructure. Setup takes a few minutes through the Surfshark app: pick a country, select a number, and it is live on your existing phone. No physical SIM required.
 
 For online dating, the workflow is straightforward:
 
@@ -94,7 +94,7 @@ For online dating, the workflow is straightforward:
 
 ![How Alt-Number protects your real number across the entire online dating lifecycle](/og/best-app-for-temporary-sms-online-2026-inline-2.png)
 
-Alt-Number sits within the broader Surfshark privacy suite, which also includes a VPN and Alt-ID (an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) tool). For daters who want layered protection — number, email, and IP all handled through a single subscription — this is a meaningfully stronger posture than patching each one separately with different free tools.
+Alt-Number sits within the broader Surfshark [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which also includes a VPN and Alt-ID (an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) tool). For daters who want layered protection — number, email, and IP all handled through a single subscription — this is a meaningfully stronger posture than patching each one separately with different free tools.
 
 Surfshark offers local numbers across multiple countries. If you travel and want to use dating apps in a local market, you can pick up a country-appropriate number in advance.
 

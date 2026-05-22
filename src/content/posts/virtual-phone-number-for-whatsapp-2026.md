@@ -118,7 +118,7 @@ The major caveat: Skype has been progressively de-emphasized by Microsoft, and t
 
 ## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up WhatsApp With a [Virtual Number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) (Step by Step)
 
-Getting this working takes under five minutes once you have your virtual number ready.
+Getting this working takes under five minutes once you have your [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) ready.
 
 1. Sign up for your chosen service — Alt-Number takes the least steps
 2. Note the [virtual phone number](https://snipstack.io/virtual-phone-number-2026/) assigned to you, including its country code

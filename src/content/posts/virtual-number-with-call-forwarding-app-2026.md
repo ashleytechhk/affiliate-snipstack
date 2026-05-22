@@ -48,7 +48,7 @@ Most [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-
 
 Surfshark Alt-Number issues real mobile numbers provisioned on actual carrier networks. This matters specifically because it passes the checks that VoIP fails.
 
-**What you can do with a virtual number on a dating app:**
+**What you can do with a [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) on a dating app:**
 
 - Register your dating app account with the virtual number instead of your real one
 - Share the virtual number when moving a conversation off-platform

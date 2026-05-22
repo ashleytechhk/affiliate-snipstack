@@ -123,7 +123,7 @@ Any call or text sent to the disabled number either bounces or goes unanswered. 
 
 ## Alt-Number vs. The Alternatives
 
-Not all virtual number options are equal for dating use cases. Here is a practical comparison.
+Not all [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) options are equal for dating use cases. Here is a practical comparison.
 
 | Option | Works Globally | Easy to Cancel | App Detection Risk | Cost |
 |---|---|---|---|---|

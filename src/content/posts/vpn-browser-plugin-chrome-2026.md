@@ -93,7 +93,7 @@ Understanding scope saves you from a false sense of security.
 | Encrypt Chrome browsing traffic | Yes | Yes |
 | Protect public Wi-Fi browsing in Chrome | Yes | Yes |
 | Unblock geo-restricted sites in Chrome tab | Paid extensions can | Yes |
-| Protect email client (Outlook, Thunderbird) | No | Yes |
+| [Protect email](https://snipstack.io/protect-email-from-linkedin-scraping-2026/) client (Outlook, Thunderbird) | No | Yes |
 | Protect streaming apps (Netflix app, etc.) | No | Yes |
 | Protect messaging apps and system traffic | No | Yes |
 | Cover mobile devices | Not applicable | Yes |

@@ -54,7 +54,7 @@ The result: your real email address circulates far beyond LinkedIn itself, in da
 
 ---
 
-## Method 1: Alt-ID Masked Email Alias
+## Method 1: Alt-ID Masked [Email Alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/)
 
 Alt-ID generates a unique forwarding alias — something like `claire.foster3841@altid.surfshark.net` — that you put on your LinkedIn profile instead of your real address. Any recruiter, client, or connection who emails you reaches your real inbox via the alias. Scrapers who harvest that alias get a dead end: they have an address that stops working the moment you delete it.
 
@@ -145,7 +145,7 @@ A secondary account shifts the inbox problem rather than solving it. The real em
 
 **Step 2.** Open the Surfshark app or browser extension. Navigate to **Alt-ID** in the sidebar.
 
-**Step 3.** Click **Generate new Alt-ID**. Surfshark creates a randomized email alias that forwards to your real inbox.
+**Step 3.** Click **Generate new Alt-ID**. Surfshark creates a randomized [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) that forwards to your real inbox.
 
 **Step 4.** Label the alias clearly — "LinkedIn" — so you know immediately which alias has been scraped if cold outreach starts arriving.
 
@@ -163,7 +163,7 @@ From this point on: legitimate contacts reach you normally. Scrapers harvest an 
 
 No. You're providing a working email address — messages sent to it reach you. LinkedIn's terms require contact information to be accurate and functional. An alias that forwards to your real inbox is both. The fact that it routes through a forwarding service is invisible to LinkedIn and to anyone who emails you.
 
-**What happens to legitimate recruiter emails if I delete a compromised alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to legitimate recruiter emails if I delete a compromised alias?**
 
 They stop arriving, along with the spam. If you're actively in contact with a recruiter when you decide to delete an alias, move them to a direct communication channel first — give them your real email or connect via LinkedIn InMail — then delete the alias. For cold outreach you haven't responded to, the cut-off causes no harm.
 
