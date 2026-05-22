@@ -32,7 +32,7 @@ We will cover protection quality, speed impact, features, price, and everyday us
 | VPN included | Yes (limited logs) | Yes (unlimited, no-logs) |
 | Number of devices | 5 | Unlimited |
 | Dark web monitoring | Yes | Yes (Surfshark Alert) |
-| Ad + tracker blocker | Basic | CleanWeb (full) |
+| Ad + [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Basic | CleanWeb (full) |
 | Privacy search engine | No | Surfshark Search |
 | Webcam protection | Windows only | — |
 | Password manager | Yes (basic) | — |

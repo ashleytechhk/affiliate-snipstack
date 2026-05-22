@@ -33,7 +33,7 @@ This comparison breaks down what a modern [cyber security](https://snipstack.io/
 | Data breach alerts | Yes (email + ID) | Yes (LifeLock, paid add-on) | Yes |
 | Private search | Yes (Surfshark Search) | No | No |
 | Device limit | Unlimited | 1–5 (by tier) | Unlimited |
-| Ad / tracker blocker | Yes (CleanWeb) | Limited | Limited |
+| Ad / [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Yes (CleanWeb) | Limited | Limited |
 | System performance impact | Low | Moderate–High | Moderate |
 | Price (approx. annual) | Lower | Higher | Comparable |
 | Bloatware / upsell prompts | Minimal | Frequent | Frequent |

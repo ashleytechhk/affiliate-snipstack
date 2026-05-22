@@ -68,7 +68,7 @@ Compare this to Norton's VPN: it caps data at 200MB per day on the standard plan
 
 **[See Surfshark One's full feature list](/blog/one?sub=how-much-does-surfshark-one-cost-2026__mid)**
 
-### Surfshark Antivirus
+### [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)
 
 Real-time malware protection, scheduled scans, and webcam protection. Lightweight in terms of system resource usage — it runs quietly without the constant notification banners and update pop-ups that Norton and McAfee have become known for.
 
@@ -107,7 +107,7 @@ Surfshark One takes a different approach. The four bundled tools cover the secur
 - You want breach monitoring and private search in a single subscription
 
 **Stick with Norton or McAfee if:**
-- You use Norton's LifeLock identity theft insurance features heavily (these require a specific Norton tier and include reimbursement coverage that Surfshark doesn't offer)
+- You use Norton's LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance features heavily (these require a specific Norton tier and include reimbursement coverage that Surfshark doesn't offer)
 - You are in a corporate or managed IT environment with centralized security policies
 - You have a long-standing relationship with your current provider and the pricing hasn't increased significantly for you
 
@@ -129,7 +129,7 @@ Yes. Surfshark One covers unlimited devices simultaneously under a single subscr
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus as strong as Norton or McAfee?
 
-Surfshark Antivirus provides real-time malware protection and achieves strong detection rates in independent lab testing. Norton and McAfee have longer track records in antivirus detection benchmarks, and for users whose primary concern is raw malware detection rate rather than the bundle value, they remain solid options. For most everyday users, Surfshark's detection performance is more than adequate, and the lighter system footprint is a tangible trade-off benefit.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) provides real-time malware protection and achieves strong detection rates in independent lab testing. Norton and McAfee have longer track records in antivirus detection benchmarks, and for users whose primary concern is raw malware detection rate rather than the bundle value, they remain solid options. For most everyday users, Surfshark's detection performance is more than adequate, and the lighter system footprint is a tangible trade-off benefit.
 
 ### Will my price increase when I renew Surfshark One?
 

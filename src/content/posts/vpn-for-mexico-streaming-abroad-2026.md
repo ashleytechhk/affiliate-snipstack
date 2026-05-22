@@ -118,7 +118,7 @@ Surfshark hits every criterion on the list above, which is why it is the recomme
 
 **Nexus routing.** Surfshark's Nexus technology routes your connection across multiple nodes rather than a single server, which adds resilience — if one Mexico IP gets flagged by Netflix, your session does not drop, it shifts. This is meaningful for continuous streaming sessions.
 
-**CleanWeb.** Built-in ad and tracker blocker. Not specific to Mexico streaming, but useful when browsing on unfamiliar networks or when platform pages serve aggressive ad overlays.
+**CleanWeb.** Built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). Not specific to Mexico streaming, but useful when browsing on unfamiliar networks or when platform pages serve aggressive ad overlays.
 
 **NoBorders mode.** If you are on a network that actively blocks VPN traffic — some corporate Wi-Fi, some hotel networks — NoBorders obfuscates the VPN tunnel to look like regular HTTPS. Relevant if you travel frequently.
 

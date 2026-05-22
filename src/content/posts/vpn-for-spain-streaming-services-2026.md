@@ -94,7 +94,7 @@ Surfshark maintains active Spanish server infrastructure with IPs specifically m
 
 **Unlimited simultaneous connections.** One Surfshark account covers every device in your household. Smart TV, phone, laptop, tablet — all connected to Spain at once if needed. This matters if you are watching DAZN Spain on the TV while someone else checks RTVE Play on a tablet.
 
-**CleanWeb.** Surfshark's built-in ad and tracker blocker works alongside the VPN. RTVE Play's free tier and Spanish catch-up platforms run advertising. CleanWeb handles this at the DNS level without an additional extension.
+**CleanWeb.** Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) works alongside the VPN. RTVE Play's free tier and Spanish catch-up platforms run advertising. CleanWeb handles this at the DNS level without an additional extension.
 
 **NoBorders mode.** If you are connecting from a country that restricts VPN traffic, NoBorders obfuscates your VPN connection to look like standard HTTPS traffic. Not needed in most Western countries, but useful if you travel broadly.
 

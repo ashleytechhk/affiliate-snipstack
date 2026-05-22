@@ -32,7 +32,7 @@ NordVPN's "free trial" is really a paid plan with a refund window — your card 
 | Simultaneous device connections | 10 | Unlimited |
 | Server count | 6,000+ | 3,200+ |
 | Streaming unblock (Netflix, Disney+, BBC iPlayer) | Yes | Yes |
-| Ad & tracker blocker built-in | Yes (Threat Protection) | Yes (CleanWeb) |
+| Ad & [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) built-in | Yes (Threat Protection) | Yes (CleanWeb) |
 | RAM-only servers | Yes | Yes |
 | No-logs audit | Yes (multiple) | Yes (Deloitte) |
 | 24/7 live chat support | Yes | Yes |

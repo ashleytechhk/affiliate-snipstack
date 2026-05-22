@@ -80,7 +80,7 @@ The free tier is functional but limits the number of active rules. The Pro subsc
 
 **Zero configuration ad blocking built into a full browser.**
 
-Brave ships with Shields — its ad and tracker blocker — enabled by default. Open Brave, browse the web, and ads are gone. There is nothing to install. On both Android and iOS, Brave blocks ads, cross-site trackers, fingerprinting scripts, and phishing URLs at the browser level.
+Brave ships with Shields — its ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) — enabled by default. Open Brave, browse the web, and ads are gone. There is nothing to install. On both Android and iOS, Brave blocks ads, cross-site trackers, fingerprinting scripts, and phishing URLs at the browser level.
 
 **[Pair Brave with Surfshark CleanWeb for app-level coverage too](/blog/surfshark?sub=ad-blocker-extensions-2026__mid)**
 

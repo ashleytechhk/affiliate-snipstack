@@ -71,7 +71,7 @@ Upgrading to Proton VPN Plus unlocks the full Android experience. At approximate
 - **High-speed servers** — dedicated infrastructure not shared with free users.
 - **Up to 10 simultaneous devices** — one account covers most households.
 - **Streaming-optimized servers** — designed to access geo-restricted content libraries on major platforms.
-- **NetShield ad and tracker blocker** — runs at the DNS level inside the VPN tunnel.
+- **NetShield ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)** — runs at the DNS level inside the VPN tunnel.
 - **Secure Core** — a multi-hop architecture that routes your traffic through hardened servers in Switzerland, Iceland, or Sweden before exiting to your destination. Adds latency but provides a stronger privacy guarantee.
 - **Tor over VPN** — route traffic through Tor natively from within the app.
 - **Kill switch** — cuts your internet connection if the VPN drops, preventing IP exposure.

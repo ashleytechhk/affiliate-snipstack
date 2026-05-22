@@ -35,7 +35,7 @@ This comparison cuts through the bloatware era and looks at what you're actually
 | **Antivirus** | Yes | Yes | Yes |
 | **Data breach monitoring** | Yes — real-time alerts | Yes — LifeLock add-on extra | Yes — basic |
 | **Alternative ID / masked email** | Yes | No | No |
-| **[Ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) / tracker blocker** | Yes (CleanWeb) | Partial | Partial |
+| **[Ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) / [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)** | Yes (CleanWeb) | Partial | Partial |
 | **Browser toolbar forced on install** | No | Yes | Yes |
 | **Upsell popups in-app** | Minimal | Frequent | Frequent |
 

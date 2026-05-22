@@ -44,7 +44,7 @@ Surfshark checks every technical box for torrenting and does it at a price point
 
 The subscription savings angle is where Surfshark pulls ahead of the competition. At approximately $2.19/month on the 2-year plan, it's meaningfully cheaper than NordVPN's comparable plan. Unlimited simultaneous connections mean the single subscription covers your torrent client, streaming devices, phone, and a partner's laptop — all running at once. For someone using the VPN to access regional streaming pricing, the break-even on the VPN cost arrives faster with a lower monthly overhead.
 
-Surfshark also includes CleanWeb, a DNS-level ad and tracker blocker that works across all connected devices. For a torrent-and-stream setup, that adds meaningful value without adding cost.
+Surfshark also includes CleanWeb, a DNS-level ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) that works across all connected devices. For a torrent-and-stream setup, that adds meaningful value without adding cost.
 
 ---
 

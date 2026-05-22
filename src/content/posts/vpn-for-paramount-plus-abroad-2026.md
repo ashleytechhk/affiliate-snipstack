@@ -123,7 +123,7 @@ Key points relevant to Paramount+ specifically:
 
 **Unlimited simultaneous connections.** One Surfshark account covers every device you own — phone, laptop, tablet, smart TV, streaming stick — without any connection cap. For travelers with multiple devices, or households where several people share a subscription, this eliminates a real friction point that competing services still impose.
 
-**CleanWeb.** Surfshark's built-in ad and tracker blocker works alongside the VPN connection. Not essential for Paramount+ itself, but useful when connecting through hotel, airport, or public Wi-Fi networks where ad injection and tracking are more common.
+**CleanWeb.** Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) works alongside the VPN connection. Not essential for Paramount+ itself, but useful when connecting through hotel, airport, or public Wi-Fi networks where ad injection and tracking are more common.
 
 **NoBorders mode.** On networks that actively restrict or throttle VPN traffic, NoBorders obfuscates VPN traffic to look like regular HTTPS. Useful for travelers in regions with heavy internet filtering.
 

@@ -128,7 +128,7 @@ Pricing runs approximately **$7.99/month on a monthly plan** and drops to roughl
 | **Protocol** | Proprietary Hydra | WireGuard / OpenVPN (open-source) |
 | **Streaming unblocking** | Inconsistent | Reliable across major platforms |
 | **Kill switch** | Yes | Yes |
-| **Ad & tracker blocker** | No | Yes (CleanWeb) |
+| **Ad & [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)** | No | Yes (CleanWeb) |
 | **Money-back guarantee** | 45 days | 30 days |
 | **Jurisdiction** | US (Five Eyes) | Netherlands (outside Five Eyes) |
 

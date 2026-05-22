@@ -31,7 +31,7 @@ AVG Antivirus is a competent standalone AV scanner with a recognisable brand, bu
 | VPN server locations | 50+ | 100+ countries |
 | Unlimited devices | No (limited by plan) | Yes |
 | Data breach alerts | No | Yes (Surfshark Alert) |
-| Ad & tracker blocker | Limited | Yes (CleanWeb) |
+| Ad & [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Limited | Yes (CleanWeb) |
 | Webcam protection | Yes (Ultimate only) | No |
 | Search anonymisation | No | Yes (Surfshark Search) |
 | Identity monitoring | Add-on (paid) | Included |

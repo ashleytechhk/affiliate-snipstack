@@ -34,7 +34,7 @@ For someone who is *not* already in the Proton ecosystem and is specifically sho
 
 ---
 
-## What Is Surfshark Alt ID?
+## What [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt ID?
 
 Alt ID is Surfshark's [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) and identity-masking tool. It generates randomized [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/)es — addresses that look like real emails to any sender — and forwards all incoming mail to your actual inbox. You can create multiple aliases, label them, toggle forwarding on or off, and delete them permanently with one click.
 
@@ -78,7 +78,7 @@ Alt ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefen
 
 **Bundled VPN stops leakage upstream.** Spam doesn't start in your inbox — it starts with trackers, third-party scripts, and data brokers harvesting your activity. The Surfshark VPN bundled with Alt ID blocks a significant portion of that upstream tracking. You're not just masking your address; you're reducing the surface area that exposes it in the first place.
 
-**Data removal addresses existing exposure.** If your real email is already on broker lists — which it almost certainly is if you're getting 50+ spam emails a day — a new alias only protects you going forward. Surfshark One+'s data removal feature actively submits opt-out requests to data broker databases on your behalf. That is the only way to shrink existing spam volume, not just prevent future growth.
+**Data removal addresses existing exposure.** If your real email is already on broker lists — which it almost certainly is if you're getting 50+ spam emails a day — a new alias only protects you going forward. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/)+'s data removal feature actively submits opt-out requests to data broker databases on your behalf. That is the only way to shrink existing spam volume, not just prevent future growth.
 
 **No ecosystem lock-in.** Alt ID works with Gmail, Outlook, iCloud, or any inbox. You don't need to be in the Surfshark ecosystem for anything else; the alias tool functions independently of which email provider you use.
 
@@ -97,7 +97,7 @@ The practical answer for heavy-spam users:
 3. **Remove your real address from existing broker lists** — only Alt ID's bundle addresses this.
 4. **Stop trackers from re-harvesting your address** — only Alt ID's bundle addresses this.
 
-For step 3 and 4, Proton Pass has no equivalent in a single subscription. You would need Proton Pass for aliases, Proton VPN separately for network protection, and a separate data removal service for broker opt-outs. Alt ID (via Surfshark One+) combines all three.
+For step 3 and 4, Proton Pass has no equivalent in a single subscription. You would need Proton Pass for aliases, Proton VPN separately for network protection, and a separate data removal service for broker opt-outs. Alt ID (via [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)+) combines all three.
 
 ![Inline device mockup: Alt ID dashboard showing multi-alias management for spam categories](/og/proton-pass-email-alias-review-2026-inline-2.png)
 

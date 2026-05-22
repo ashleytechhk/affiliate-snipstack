@@ -32,7 +32,7 @@ Surfshark beats ExpressVPN for iPhone users who are primarily motivated by savin
 | Streaming unblock success | High | High |
 | Kill switch on iPhone | Yes | Yes |
 | Split tunneling on iOS | No | Yes |
-| Ad / tracker blocker | No | Yes (CleanWeb) |
+| Ad / [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | No | Yes (CleanWeb) |
 | No-logs audit | Yes | Yes |
 | Free trial on iOS | 7 days | 7 days |
 | Money-back guarantee | 30 days | 30 days |

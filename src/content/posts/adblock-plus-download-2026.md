@@ -136,7 +136,7 @@ For those cases, the more capable solution is a **network-level [ad blocker](htt
 
 ## Surfshark CleanWeb: The Network-Level Alternative
 
-CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and tracker blocker. It's included with every Surfshark subscription and is active across all devices on your account — phones, tablets, laptops, desktops.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). It's included with every Surfshark subscription and is active across all devices on your account — phones, tablets, laptops, desktops.
 
 How it differs from ABP:
 

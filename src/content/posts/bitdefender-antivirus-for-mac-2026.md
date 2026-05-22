@@ -58,7 +58,7 @@ Surfshark started as a VPN company and expanded into full antivirus. Their Mac a
 - Webcam protection
 - Alert system for data breaches (notifies you if your email or passwords have been leaked)
 - Full VPN included with unlimited data — not the 200 MB daily cap Bitdefender offers
-- [Ad blocker](https://snipstack.io/top-ad-blocker-2026/) and tracker blocker
+- [Ad blocker](https://snipstack.io/top-ad-blocker-2026/) and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)
 
 **Price:** Around $35.88–$47.88/year (often heavily discounted for the first year).
 

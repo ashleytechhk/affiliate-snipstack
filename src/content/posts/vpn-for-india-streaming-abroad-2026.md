@@ -117,7 +117,7 @@ Specifics relevant to the India streaming use case:
 
 **Unlimited simultaneous connections.** One Surfshark subscription covers every device without managing connection slots. Watch IPL on your phone, stream Hotstar on a smart TV, and have another device connected at the same time — all on a single plan.
 
-**CleanWeb.** Surfshark's built-in ad and tracker blocker works alongside the VPN. Useful for the ad-supported tiers of JioCinema and other Indian streaming services that rely heavily on ad revenue.
+**CleanWeb.** Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) works alongside the VPN. Useful for the ad-supported tiers of JioCinema and other Indian streaming services that rely heavily on ad revenue.
 
 **30-day money-back guarantee.** Test it specifically against the Indian streaming services you care about before committing. If JioCinema or Hotstar does not unblock on the Indian servers during your test, you have 30 days to get a refund.
 

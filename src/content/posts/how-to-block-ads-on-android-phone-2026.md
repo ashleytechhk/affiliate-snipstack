@@ -73,7 +73,7 @@ Brave is a Chromium fork, so every Chrome extension you rely on works in the des
 
 ### Vivaldi
 
-Vivaldi is the power-user pick. Its built-in **Ad & Tracker Blocker** lets you choose between multiple filter lists (EasyList, uBlock, custom lists) and toggle blocking per-site. It's more configurable than Brave and still significantly lighter than running a stock [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) no filtering.
+Vivaldi is the power-user pick. Its built-in **Ad & [Tracker Blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)** lets you choose between multiple filter lists (EasyList, uBlock, custom lists) and toggle blocking per-site. It's more configurable than Brave and still significantly lighter than running a stock [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) no filtering.
 
 Both browsers handle HTTPS, support Android's autofill, and sync bookmarks — they're not compromises, just better defaults.
 

@@ -108,7 +108,7 @@ A few specifics relevant to the DAZN use case:
 
 **NoBorders mode.** In countries with heavy network filtering that blocks VPN traffic, NoBorders obfuscates Surfshark's protocol to look like regular HTTPS. This matters for travelers passing through regions with restrictive internet policies.
 
-**CleanWeb.** Surfshark's built-in ad and tracker blocker runs alongside the VPN connection. Useful for general browsing on hotel networks between matches; irrelevant to the stream itself but a nice-to-have at no extra cost.
+**CleanWeb.** Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) runs alongside the VPN connection. Useful for general browsing on hotel networks between matches; irrelevant to the stream itself but a nice-to-have at no extra cost.
 
 **Price.** Surfshark's two-year plan comes in around $2.19/month at current pricing — significantly less than ExpressVPN or NordVPN on equivalent long-term plans. For a subscription arbitrageur whose goal is to spend less on access overall, a VPN that costs less annually while delivering comparable streaming reliability is the right tool for the job.
 

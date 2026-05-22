@@ -37,7 +37,7 @@ Here's how [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-tot
 | Data breach / ID alerts | Yes (Alert) | Yes (LifeLock add-on) | Yes (Identity tier) |
 | Private / clean search | Yes (Search) | No | No |
 | Webcam protection | Yes | Yes | No |
-| Ad / tracker blocker | Yes (CleanWeb) | Limited | Limited |
+| Ad / [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Yes (CleanWeb) | Limited | Limited |
 | Bloatware / upsell pop-ups | Minimal | Frequent | Frequent |
 | Starting price (annual) | ~$3.99/mo | ~$4.99/mo | ~$4.99/mo |
 

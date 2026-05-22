@@ -138,7 +138,7 @@ The difference is positioning. NordVPN is the premium flagship. Surfshark is the
 | Specialty servers | Yes | Partial |
 | Linux client | Yes (CLI) | Yes (CLI + GUI) |
 | Router support | Yes (manual) | Yes (manual) |
-| Built-in ad/tracker blocker | Yes (Threat Protection) | Yes (CleanWeb) |
+| Built-in ad/[tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Yes (Threat Protection) | Yes (CleanWeb) |
 | Money-back guarantee | 30 days | 30 days |
 
 The honest assessment: NordVPN's larger server count and specialty servers justify the premium only if you specifically need them. For everyday privacy protection, streaming geo-unblocking, and public Wi-Fi security, Surfshark does the job at a lower cost with no device cap.

@@ -37,7 +37,7 @@ No rooting required. No technical knowledge beyond tapping through app menus.
 
 ## Path A: Setting Up Brave Browser (Built-In Blocking, Free)
 
-Brave is a Chromium-based browser with Shields — its native ad and tracker blocker — turned on by default. It looks and feels like Chrome. Setup takes under two minutes.
+Brave is a Chromium-based browser with Shields — its native ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) — turned on by default. It looks and feels like Chrome. Setup takes under two minutes.
 
 ### Step 1 — Download Brave
 

@@ -48,7 +48,7 @@ This guide breaks down exactly how the two products compare in 2026 — feature 
 Surfshark's VPN is the same engine used in its standalone product — WireGuard and OpenVPN protocols, 3,200-plus servers across 100 countries, and a strict no-logs policy audited by independent security firms. The key advantage: **unlimited simultaneous connections**. Every device in your household is covered under a single plan.
 
 Features worth noting:
-- CleanWeb ad and tracker blocker built in
+- CleanWeb ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) built in
 - MultiHop (double VPN) for extra routing privacy
 - Kill switch on all platforms
 - Split tunneling on Windows and Android

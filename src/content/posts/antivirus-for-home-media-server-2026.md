@@ -125,7 +125,7 @@ This is usually the computer or NAS drive that stores your files. If you are not
 
 ### Step 2 — Install antivirus on that device
 
-If your media server runs on a Windows or Mac computer, install a trusted antivirus program directly on it. **Surfshark Antivirus** supports Windows and Mac, installs in a few clicks, and walks you through the setup in plain language.
+If your media server runs on a Windows or Mac computer, install a trusted antivirus program directly on it. **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** supports Windows and Mac, installs in a few clicks, and walks you through the setup in plain language.
 
 ### Step 3 — Run your first full scan
 
@@ -141,7 +141,7 @@ Set a reminder on your phone or calendar for the first of each month. Open the a
 
 ---
 
-## Why Surfshark Antivirus Is a Good Fit for Seniors
+## Why [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) Is a Good Fit for Seniors
 
 There are many antivirus products on the market. What makes Surfshark a sensible choice for older adults who are not particularly tech-savvy?
 
@@ -173,7 +173,7 @@ Yes. Automated scanning tools probe millions of internet addresses every minute 
 
 ### Will antivirus slow down my media server?
 
-Modern antivirus is designed to run quietly without disrupting normal use. Surfshark Antivirus in particular is lightweight — it monitors in the background without noticeably affecting streaming or storage performance. You may notice a slight slowdown during a full scan, which is normal. Schedule those for overnight or times when you are not using the device.
+Modern antivirus is designed to run quietly without disrupting normal use. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) in particular is lightweight — it monitors in the background without noticeably affecting streaming or storage performance. You may notice a slight slowdown during a full scan, which is normal. Schedule those for overnight or times when you are not using the device.
 
 ### What if I already have antivirus on my main computer?
 

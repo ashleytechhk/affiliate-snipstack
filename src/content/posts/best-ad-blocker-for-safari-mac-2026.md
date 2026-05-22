@@ -81,7 +81,7 @@ The result is fast and lightweight. Because there are no settings to tune and no
 
 Mobile Safari support is included: a separate Wipr app on the App Store extends the same blocklist to iPhone and iPad Safari. The one-time purchase covers both Mac and iOS versions through a universal purchase if you buy through the App Store.
 
-**Verdict:** Excellent for users who want something that works without any setup. Not the deepest tracker blocker, but fast, cheap, and zero-maintenance. Limitation: light on advanced tracking protection; browser-only.
+**Verdict:** Excellent for users who want something that works without any setup. Not the deepest [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/), but fast, cheap, and zero-maintenance. Limitation: light on advanced tracking protection; browser-only.
 
 ---
 

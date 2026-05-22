@@ -33,7 +33,7 @@ If your priority is saving money on streaming subscriptions by switching regions
 | No-logs policy | Audited | Audited |
 | Kill switch | Yes | Yes |
 | Split tunneling | Yes | Yes |
-| Ad / tracker blocker | No (separate tool) | Yes (CleanWeb, built-in) |
+| Ad / [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | No (separate tool) | Yes (CleanWeb, built-in) |
 | Streaming unblock | Netflix, Hulu, BBC iPlayer, Disney+ | Netflix, Hulu, BBC iPlayer, Disney+ |
 | Router app | Yes | Yes |
 | Free trial / money-back | 30-day guarantee | 30-day guarantee |

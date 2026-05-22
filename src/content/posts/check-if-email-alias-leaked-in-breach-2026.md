@@ -35,7 +35,7 @@ If your alias is already burned, no lookup tool fixes it — you need to kill th
 | Can delete compromised alias | No | No | Yes — 1 click |
 | Replace alias instantly | No | No | Yes — unlimited new aliases |
 | Identity masking alongside alias | No | No | Yes (name, DOB, alt identity) |
-| Price | Free / paid | Free | Included in Surfshark One |
+| Price | Free / paid | Free | Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) |
 
 The table shows a clear pattern: lookup tools tell you *what happened*. Alt ID tells you what happened *and* gives you the tools to fix it in 30 seconds.
 
@@ -188,7 +188,7 @@ A few possibilities: the service you gave the alias to sold or shared it with ma
 
 Yes, with a brief delay. Mail already in transit before the alias was deleted may deliver for a short window (usually under an hour). After that, anything sent to the deleted alias bounces. There's no way for a spammer to "follow" a deleted alias — it simply ceases to exist.
 
-**How many email aliases should I monitor?**
+**How many [email alias](https://snipstack.io/email-alias-for-gym-membership-signup-2026/)es should I monitor?**
 
 Monitor every alias you actively use. If you have 20 aliases across 20 services, all 20 need monitoring. This is where the 5-alias cap on free tools becomes a practical problem. If you're building a proper alias system, plan for a monitoring solution that scales with your alias count.
 
@@ -196,7 +196,7 @@ Monitor every alias you actively use. If you have 20 aliases across 20 services,
 
 ## The Bottom Line
 
-Checking whether an email alias leaked in a breach is a one-minute job with HaveIBeenPwned. The harder problem is doing it consistently across all your aliases, getting alerts before spam volume spikes, and being able to act on a breach in under a minute rather than spending half an hour updating records.
+Checking whether an [email alias](https://snipstack.io/email-alias-for-real-estate-inquiries-2026/) leaked in a breach is a one-minute job with HaveIBeenPwned. The harder problem is doing it consistently across all your aliases, getting alerts before spam volume spikes, and being able to act on a breach in under a minute rather than spending half an hour updating records.
 
 The combination that solves all three: Surfshark Alert for monitoring, Alt ID for instant alias replacement. The free tools cover the detection side for people with a small alias set. For anyone managing a serious inbox hygiene setup — which is most people who have been dealing with 50+ spam emails a day — the paid bundle is the only option that closes the full loop.
 

@@ -34,7 +34,7 @@ Surfshark beats NordVPN on price at every tier — often by 40–60% on multi-ye
 | Kill switch | Yes | Yes |
 | Split tunneling | Yes | Yes |
 | No-logs policy (audited) | Yes | Yes |
-| Ad & tracker blocker built-in | Threat Protection | CleanWeb |
+| Ad & [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) built-in | Threat Protection | CleanWeb |
 | Device platforms | All major | All major |
 | Money-back guarantee | 30 days | 30 days |
 

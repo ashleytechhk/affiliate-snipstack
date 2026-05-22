@@ -44,7 +44,7 @@ In practice, CleanWeb eliminates the majority of banner ads, pre-roll video ads,
 
 **The fastest privacy-first browser with ad blocking baked in from the start.**
 
-Brave ships with Shields — its native ad and tracker blocker — enabled by default. You do not install anything; blocking just works the moment you open the browser. On Android, Brave consistently outperforms Chrome-with-extensions in benchmark tests because blocking happens before page rendering rather than after a request fires. Shields blocks third-party ads, cross-site trackers, fingerprinting scripts, and bounce tracking.
+Brave ships with Shields — its native ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) — enabled by default. You do not install anything; blocking just works the moment you open the browser. On Android, Brave consistently outperforms Chrome-with-extensions in benchmark tests because blocking happens before page rendering rather than after a request fires. Shields blocks third-party ads, cross-site trackers, fingerprinting scripts, and bounce tracking.
 
 The trade-off is obvious: you have to switch browsers. If you are Chrome-loyal for sync, bookmarks, or Chromecast integration, Brave requires some migration effort. But for users willing to make the switch, it is the most complete browser-native [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) on Android in 2026. iOS performance is similarly strong, though Apple's WebKit engine limits some advanced fingerprint protection.
 

@@ -41,7 +41,7 @@ What Opera blocks in practice:
 - **Third-party tracker scripts** that follow your browsing history across sites
 - **Some autoplay video pre-rolls** on ad-supported publishers
 
-Opera also provides a "native ad blocking" toggle distinct from a general tracker blocker, which means you can layer them. The browser displays a count of blocked elements in the address bar, giving you visible feedback that something is actually happening.
+Opera also provides a "native ad blocking" toggle distinct from a general [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/), which means you can layer them. The browser displays a count of blocked elements in the address bar, giving you visible feedback that something is actually happening.
 
 ![Opera browser ad blocker settings on Android — shield icon and blocked count visible in address bar](/og/ad-blocker-for-opera-browser-2026-inline-1.png)
 

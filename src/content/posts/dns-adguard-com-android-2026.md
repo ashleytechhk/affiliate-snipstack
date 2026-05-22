@@ -62,7 +62,7 @@ This approach requires slightly more setup than the Private DNS toggle, but it i
 
 **Best for: users who want maximum ad blocking across all apps**
 
-DNS-level blocking is powerful, but it works at the domain level — it cannot block an ad served from the same domain as the content. CleanWeb, Surfshark's built-in ad and tracker blocker, fills that gap by filtering at the VPN tunnel level, blocking specific ad URLs, stripping tracking parameters, and catching malware domains before a connection is established.
+DNS-level blocking is powerful, but it works at the domain level — it cannot block an ad served from the same domain as the content. CleanWeb, Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/), fills that gap by filtering at the VPN tunnel level, blocking specific ad URLs, stripping tracking parameters, and catching malware domains before a connection is established.
 
 Running both together is the most thorough ad-blocking setup available on Android without rooting. DNS handles the bulk of known ad networks. CleanWeb catches what leaks through. In practical testing, DNS alone removes roughly 60-65% of ads on heavy ad-supported sites. DNS plus CleanWeb pushes that past 90%.
 

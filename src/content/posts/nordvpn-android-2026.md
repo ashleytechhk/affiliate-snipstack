@@ -50,7 +50,7 @@ Battery and data overhead on NordLynx (WireGuard-based) is minimal — in line w
 
 ### Surfshark Android
 
-Surfshark's Android app covers the same ground with a slightly different visual style. The server browser lets you filter by country, city, or feature (static IP, MultiHop). CleanWeb — Surfshark's built-in ad and tracker blocker — runs natively in the app without an extra subscription tier.
+Surfshark's Android app covers the same ground with a slightly different visual style. The server browser lets you filter by country, city, or feature (static IP, MultiHop). CleanWeb — Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) — runs natively in the app without an extra subscription tier.
 
 ![Surfshark Android app walkthrough — region switching flow](/og/nordvpn-android-2026-inline-1.png)
 

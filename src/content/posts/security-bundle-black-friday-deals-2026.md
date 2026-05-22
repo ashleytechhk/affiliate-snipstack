@@ -161,7 +161,7 @@ For most users leaving Norton or McAfee, [Surfshark One](/blog/one?sub=security-
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) include a VPN in the bundle?
 
-Yes. Every Surfshark One subscription includes the full Surfshark VPN — unlimited simultaneous devices, access to the complete server network across 100 countries, and features like the CleanWeb ad and tracker blocker. This is the same VPN sold as a standalone product, with no data caps or feature restrictions.
+Yes. Every Surfshark One subscription includes the full Surfshark VPN — unlimited simultaneous devices, access to the complete server network across 100 countries, and features like the CleanWeb ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). This is the same VPN sold as a standalone product, with no data caps or feature restrictions.
 
 ### Is Surfshark's antivirus as good as Norton's?
 

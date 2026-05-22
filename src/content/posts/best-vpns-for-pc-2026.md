@@ -111,7 +111,7 @@ Paid plans start at around $4.99/month and unlock faster speeds, more server loc
 
 Surfshark offers the lowest price among fully-featured mainstream VPNs. At around $2.19/month on a 2-year plan, it consistently undercuts NordVPN and ExpressVPN by a meaningful margin. Critically, it covers **unlimited devices simultaneously** on one account — no cap.
 
-The no-logs policy has been audited by Deloitte. It uses WireGuard as the default protocol on both Windows and macOS, which delivers strong speeds. CleanWeb, its DNS-level ad and tracker blocker, is included at no extra cost. A kill switch is available on both platforms — worth enabling, as it cuts your connection if the VPN drops so your real IP is never accidentally exposed.
+The no-logs policy has been audited by Deloitte. It uses WireGuard as the default protocol on both Windows and macOS, which delivers strong speeds. CleanWeb, its DNS-level ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/), is included at no extra cost. A kill switch is available on both platforms — worth enabling, as it cuts your connection if the VPN drops so your real IP is never accidentally exposed.
 
 It is not the fastest VPN in benchmarks — NordVPN and ExpressVPN edge it out. But for the typical PC user who wants privacy on public Wi-Fi, streaming access, and ISP-level protection, the speed gap is irrelevant in practice.
 

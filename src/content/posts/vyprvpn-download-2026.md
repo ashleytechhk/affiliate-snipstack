@@ -34,7 +34,7 @@ VyprVPN is a credible, independently audited VPN with solid cross-platform cover
 | No-logs audit | Yes (Leviathan Security, 2018) | Yes (Deloitte, 2023) |
 | Kill switch | Yes | Yes |
 | Split tunneling | Yes | Yes |
-| Ad / tracker blocker | No | Yes (CleanWeb, built-in) |
+| Ad / [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | No | Yes (CleanWeb, built-in) |
 | Streaming support | Netflix, BBC iPlayer, others | Netflix, Disney+, Hulu, BBC iPlayer, Amazon Prime Video |
 | Platforms | Windows, Mac, iOS, Android, router | Windows, Mac, iOS, Android, Linux, Fire TV |
 | Money-back guarantee | 30 days | 30 days |

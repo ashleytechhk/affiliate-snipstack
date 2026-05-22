@@ -138,7 +138,7 @@ Getting started takes under five minutes:
 2. **Download the app** for your device — Windows, macOS, Android, iOS, and Linux are all supported.
 3. **Log in and open the server list.** For privacy while in Poland, connect to a Polish server. For subscription savings, choose the target region's server.
 4. **Enable the Kill Switch** in settings — this cuts your internet connection if the VPN drops, preventing accidental IP exposure.
-5. **Turn on CleanWeb** — Surfshark's built-in ad and tracker blocker adds another layer of privacy without needing a separate extension.
+5. **Turn on CleanWeb** — Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) adds another layer of privacy without needing a separate extension.
 
 That's it. The app handles everything else automatically.
 

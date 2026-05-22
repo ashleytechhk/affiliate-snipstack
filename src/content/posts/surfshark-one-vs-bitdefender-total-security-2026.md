@@ -83,7 +83,7 @@ This monitors known data breach databases and alerts you when your email address
 
 A private, ad-free search engine that does not track queries or build a profile on you. It is not Google-caliber in results depth, but for users who want their searches to stay private — especially after leaving a major security suite that harvested usage data — it is a meaningful perk.
 
-### CleanWeb (Ad and Tracker Blocker)
+### CleanWeb (Ad and [Tracker Blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/))
 
 Built into the Surfshark VPN client, CleanWeb blocks ads and trackers at the DNS level across all traffic when the VPN is active. Bitdefender has a web protection module but does not include equivalent cross-app ad blocking.
 
