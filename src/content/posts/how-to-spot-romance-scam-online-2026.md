@@ -12,7 +12,7 @@ You matched with someone online. The messages are warm, attentive, almost too pe
 
 Romance scams are among the most damaging fraud types in 2026, not just financially but emotionally. The FBI's Internet Crime Complaint Center reported over $650 million lost to confidence and romance fraud in a single recent year — and that figure represents only the cases people reported. Millions more go unreported out of embarrassment.
 
-This guide explains how to spot a romance scam at every stage, compares the tools available to help you check suspicious profiles and emails, and tells you which approach works best for seniors or anyone navigating online dating for the first time.
+This guide explains [how to spot](https://snipstack.io/how-to-spot-online-shopping-scam-2026/) a romance scam at every stage, compares the tools available to help you [check suspicious](https://snipstack.io/check-suspicious-link-before-clicking-2026/) profiles and emails, and tells you which approach works best for seniors or anyone navigating online dating for the first time.
 
 **[Check a suspicious email or profile now — free →](/blog/scamcheck?sub=how-to-spot-romance-scam-online-2026__above-fold)**
 
@@ -102,7 +102,7 @@ If someone you have never met in person asks you for money in any form, stop all
 
 ## How to Use Surfshark Scam Detector to Check a Suspicious Contact
 
-If someone you have been speaking with online has given you an email address, sent you a link, or directed you to a website, here is how to verify it in under a minute.
+If someone you have been speaking with online has given you an email address, sent you a link, or directed you to a website, here is [how to verify](https://snipstack.io/how-to-verify-a-website-before-buying-2026/) it in under a minute.
 
 1. Go to **[Surfshark Scam Detector via this link](/blog/scamcheck?sub=how-to-spot-romance-scam-online-2026__mid)**
 2. Create a free account or log in if you already have one

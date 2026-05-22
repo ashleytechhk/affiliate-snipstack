@@ -102,7 +102,7 @@ The privacy separation is also solid: the number is tied to your Hushed account,
 
 The main trade-off versus Alt-Number: you are paying for the number feature only. If you want a VPN alongside your dating privacy setup — which most privacy-aware users benefit from — Hushed does not bundle it, and you'll pay separately. At comparable quality for the number itself, Alt-Number wins on overall value when you account for the bundled suite.
 
-**Best for:** Users who want a clean, standalone paid second number without committing to a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).
+**Best for:** Users who want a clean, standalone paid [second number with](https://snipstack.io/second-number-with-auto-reply-feature-2026/)out committing to a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).
 
 ---
 

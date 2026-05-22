@@ -105,7 +105,7 @@ Voicemail transcription, auto-reply when you are driving, and a separate contact
 
 Limitation: US numbers only, no international coverage. If you travel or need a number in multiple countries, Sideline does not help. Number portability is available on request.
 
-**Best for:** US users who want a permanent local second number with more features than Google Voice and do not need international coverage.
+**Best for:** US users who want a permanent local [second number with](https://snipstack.io/second-number-with-auto-reply-feature-2026/) more features than Google Voice and do not need international coverage.
 
 ---
 

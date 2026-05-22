@@ -155,7 +155,7 @@ For solo users, OpenPhone's team-first features are overhead you don't need. Pri
 
 ## Our Winner: Alt-Number for Most Remote-Work Professionals
 
-If you're a freelancer, consultant, or solo remote worker who uses Zoom for meetings and wants a clean second number to give clients — **Alt-Number is the right pick**.
+If you're a freelancer, consultant, or solo remote worker who uses Zoom for meetings and wants a clean [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/) to give clients — **Alt-Number is the right pick**.
 
 Here's why:
 

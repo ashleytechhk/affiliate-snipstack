@@ -110,7 +110,7 @@ The trade-off versus Alt-Number: Hushed charges per number as a standalone subsc
 
 For daters who need international numbers — matching with someone from another country, or dating while traveling — Hushed's geographic flexibility is a genuine advantage over US-only options.
 
-**Best for:** Daters who want a reliable paid second number without bundling into a [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), or who specifically need US, CA, or UK numbers.
+**Best for:** Daters who want a reliable paid [second number with](https://snipstack.io/second-number-with-auto-reply-feature-2026/)out bundling into a [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), or who specifically need US, CA, or UK numbers.
 
 ---
 

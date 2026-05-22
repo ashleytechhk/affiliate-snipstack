@@ -10,7 +10,7 @@ You spend three minutes looking at a jacket on a shopping site. You close the ta
 
 This is not accidental. It is the intended behavior of surveillance infrastructure built into almost every major shopping site — a network of tracking pixels, ad exchange beacons, and behavioral data brokers operating silently in the background of every product page you visit. On mobile, it is more aggressive than on desktop, because your phone carries more identifying signals and you are logged in to more apps simultaneously.
 
-The good news: you can cut off that data pipeline. This guide explains exactly what shopping site surveillance looks like, which trackers are doing it, and how to block them on your phone in under 15 minutes.
+The good news: you can cut off that data pipeline. This guide explains exactly what shopping site surveillance looks like, which trackers are doing it, and [how to block](https://snipstack.io/how-to-block-ads-on-instagram-feed-2026/) them on your phone in under 15 minutes.
 
 ![Smartphone screen showing the same product ad appearing across Instagram, a news app, and a mobile game after a single shopping site visit](/og/block-surveillance-ads-on-shopping-sites-2026.png)
 
@@ -104,7 +104,7 @@ Even if you avoid in-app browsers, a default mobile browser sends more data than
 **Best options for mobile shopping sessions:**
 
 - **Brave (iOS and Android):** Built-in Shields blocks tracker requests by default, no setup required. Tap the lion icon → set to Aggressive for the strongest protection. Works across all shopping sites without breaking checkout flows.
-- **Firefox for Android:** Supports uBlock Origin as a browser extension — the most granular tracker blocking available on any mobile browser. Set uBlock Origin to Medium mode for shopping sites.
+- **Firefox for Android:** Supports [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) as a browser extension — the most granular tracker blocking available on any mobile browser. Set [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) to Medium mode for shopping sites.
 - **Safari with Content Blocker (iPhone only):** Download AdGuard or 1Blocker from the App Store, then enable it in Settings → Safari → Extensions. Covers in-browser trackers. Does not cover in-app trackers — that is what Step 4 addresses.
 
 ---

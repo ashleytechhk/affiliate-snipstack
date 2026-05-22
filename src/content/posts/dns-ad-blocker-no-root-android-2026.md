@@ -36,7 +36,7 @@ The traditional method for [blocking ads on](https://snipstack.io/blocking-ads-o
 
 The problem: `/etc/hosts` is a protected system file. Reading it is fine. Writing to it requires root — elevated OS-level access that Android locks down by default. Apps like AdAway, which was the gold standard for Android ad blocking for years, worked exclusively by writing to this file. No root, no hosts-file editing, no system-wide blocking.
 
-This is why "DNS ad blocker no root Android" was, for a long time, a question without a clean answer.
+This is why "DNS [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) no root Android" was, for a long time, a question without a clean answer.
 
 ---
 
@@ -48,7 +48,7 @@ Here's why this matters for ad blocking: when you point Android's Private DNS to
 
 ![Android Private DNS settings screen showing custom hostname entry](/og/dns-ad-blocker-no-root-android-2026-inline-1.png)
 
-### How to Set Up a DNS Ad Blocker on Android (No Root)
+### How to Set Up a DNS [Ad Blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) on Android (No Root)
 
 1. Open **Settings** on your Android phone
 2. Go to **Network & Internet** (some manufacturers label this **Connections** or **Wi-Fi & Network**)
@@ -87,7 +87,7 @@ In practice, DNS blocking alone typically removes 50–70% of mobile ads. That i
 
 ## The More Complete Solution: VPN-Layer Ad Blocking
 
-A **VPN with a built-in ad blocker** fills in the gaps that DNS alone cannot cover. Instead of blocking at the domain-lookup level, a VPN-layer blocker analyzes outbound connections before they leave your device and drops ad requests even when they're destined for a shared domain.
+A **VPN with a built-in [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)** fills in the gaps that DNS alone cannot cover. Instead of blocking at the domain-lookup level, a VPN-layer blocker analyzes outbound connections before they leave your device and drops ad requests even when they're destined for a shared domain.
 
 [Surfshark's CleanWeb](/blog/adblock?sub=dns-ad-blocker-no-root-android-2026__mid) is the most practical implementation of this on Android. It runs as part of the Surfshark VPN app — no root required — and works by:
 

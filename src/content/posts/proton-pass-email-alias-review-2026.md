@@ -130,10 +130,10 @@ For step 3 and 4, Proton Pass has no equivalent in a single subscription. You wo
 Proton Pass offers a free plan with up to 10 hide-my-[email alias](https://snipstack.io/email-alias-for-event-registrations-2026/)es per month. The paid Proton Pass Plus plan removes the monthly limit. Note that full two-way reply support (sending replies from your alias) works best with a ProtonMail inbox — if you use Gmail or Outlook as your primary email, the alias is forwarding-only by default.
 
 **Does Surfshark Alt ID work if I don't use Surfshark VPN?**
-Alt ID is included in Surfshark One and Surfshark One+ plans. You can use the alias feature independently of the VPN — you don't need to have the VPN active for aliases to forward mail. But both tools are included in the subscription, so most users run both.
+Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)+ plans. You can use the alias feature independently of the VPN — you don't need to have the VPN active for aliases to forward mail. But both tools are included in the subscription, so most users run both.
 
 **Can these alias services stop spam that's already hitting my inbox?**
-No alias service stops spam on your existing address from existing senders. Aliases only protect you going forward — future signups use the alias, not your real address. For existing spam, your options are aggressive inbox filtering or, with Surfshark One+, the data removal service that submits opt-outs to broker databases over time.
+No alias service stops spam on your existing address from existing senders. Aliases only protect you going forward — future signups use the alias, not your real address. For existing spam, your options are aggressive inbox filtering or, with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/)+, the data removal service that submits opt-outs to broker databases over time.
 
 **Will websites accept aliases, or do they block them?**
 Some services block known disposable-address domains (common with streaming platforms). Alt ID generates unique addresses that are not on standard blocklists, so they pass validation on most services. Proton Pass hide-my-[email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/)es use `@simplelogin.com` as the alias domain — some platforms may flag this. If an alias is rejected, you can usually use your real address for that specific service while keeping aliases everywhere else.

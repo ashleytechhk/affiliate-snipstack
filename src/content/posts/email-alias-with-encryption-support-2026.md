@@ -18,7 +18,7 @@ But not all alias tools handle encryption the same way. Some encrypt message con
 
 ## Quick Verdict
 
-[Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-with-encryption-support-2026__above-fold) is the strongest pick for the spam-exhausted majority. It pairs a forwarding alias with a full generated identity — randomised name, date of birth, and email — so you hand over less real data on every signup form. That reduces your plaintext PII footprint before encryption even enters the picture. It ships inside Surfshark One, which adds VPN-level transport encryption and breach alerts in the same subscription. For users who actively manage GPG keys, AnonAddy is the better technical fit. For everyone else, Alt-ID wins on usability, value, and practical privacy coverage.
+[Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-with-encryption-support-2026__above-fold) is the strongest pick for the spam-exhausted majority. It pairs a forwarding alias with a full generated identity — randomised name, date of birth, and email — so you hand over less real data on every signup form. That reduces your plaintext PII footprint before encryption even enters the picture. It ships inside [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which adds VPN-level transport encryption and breach alerts in the same subscription. For users who actively manage GPG keys, AnonAddy is the better technical fit. For everyone else, Alt-ID wins on usability, value, and practical privacy coverage.
 
 ---
 
@@ -58,7 +58,7 @@ All three are addressed more effectively by **not sharing your real address in t
 
 Alt-ID does more than generate a forwarding address. When you create an alias, you also get a randomised identity: a generated name and date of birth. Most signup forms ask for exactly this combination. Instead of typing your real details, you paste in the generated profile and use the Alt-ID email. Your real identity was never submitted.
 
-Forwarding uses TLS-encrypted connections. Alt-ID is bundled inside Surfshark One, which means your browsing traffic can also run through Surfshark's VPN — adding transport-level encryption to every web request you make. That is a broader encryption story than any standalone alias tool offers.
+Forwarding uses TLS-encrypted connections. Alt-ID is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), which means your browsing traffic can also run through Surfshark's VPN — adding transport-level encryption to every web request you make. That is a broader encryption story than any standalone alias tool offers.
 
 The trade-off is honest: Alt-ID does not offer PGP forwarding or an end-to-end encrypted inbox. If you need those features for legal, journalistic, or medical correspondence, look at ProtonMail aliases or AnonAddy instead. For a spam-flooded personal inbox, that is an unlikely requirement.
 

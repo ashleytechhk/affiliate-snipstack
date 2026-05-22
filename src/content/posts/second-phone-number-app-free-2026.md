@@ -130,7 +130,7 @@ It's not free. But for anyone who's had a Google Voice number rejected at signup
 
 ## FAQ
 
-**Can I use a free second number to verify a Tinder or Hinge account?**
+**Can I use a free [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/) to verify a Tinder or Hinge account?**
 
 Sometimes. Google Voice, TextNow, and similar VoIP services are increasingly blocked by dating apps that use third-party number verification. Alt-Number uses real mobile number ranges and passes verification on most platforms. If you've already had a VoIP number rejected, a real mobile number from [Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__faq) is the more reliable path.
 

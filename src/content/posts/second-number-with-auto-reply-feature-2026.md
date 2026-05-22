@@ -6,7 +6,7 @@ heroImage: "/og/second-number-with-auto-reply-feature-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-In 2023, a Pew Research study found that 46% of Americans who had used a dating app reported receiving unwanted contact after a match went wrong. That same year, the National Domestic Violence Hotline documented a sharp rise in technology-facilitated stalking cases where the initial contact point was a phone number shared through a dating platform. The victim gave out the number. The harasser kept it. Everything else followed from there.
+In 2023, a Pew Research study found that 46% of Americans who had used a dating app reported receiving unwanted contact after a match went wrong. That same year, the National Domestic Violence Hotline documented a sharp rise in technology-facilitated stalking cases where the initial contact point was a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) shared through a dating platform. The victim gave out the number. The harasser kept it. Everything else followed from there.
 
 Giving your real phone number to someone you met online is one of the fastest ways to hand a stranger a thread that unravels your entire identity — home neighborhood, employer, relatives, social accounts. Reverse-lookup services like Spokeo and BeenVerified will do it for under five dollars.
 
@@ -74,7 +74,7 @@ The asymmetry matters: the exposure builds for years. The protection from an ali
 
 The complete workflow has two components. Here is how to configure both.
 
-### Step 1 — Get Your Second Number
+### Step 1 — Get Your [Second Number](https://snipstack.io/second-number-for-lyft-driver-account-2026/)
 
 1. Download the Surfshark app on iOS or Android.
 2. Navigate to the Alt-Number section.
@@ -144,7 +144,7 @@ Not through the number itself. The alias is a real mobile number assigned to you
 
 **Is it legal to use an alias number for online dating?**
 
-Yes. Using a secondary phone number for privacy is legal in every jurisdiction where Surfshark operates. The only scenario where any phone number use becomes a legal issue is if it is used for fraud or harassment — which is illegal regardless of what number you use. Using an alias to protect your own privacy is straightforward and common.
+Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) privacy is legal in every jurisdiction where Surfshark operates. The only scenario where any phone number use becomes a legal issue is if it is used for fraud or harassment — which is illegal regardless of what number you use. Using an alias to protect your own privacy is straightforward and common.
 
 **What happens to my alias number if I cancel my Surfshark subscription?**
 

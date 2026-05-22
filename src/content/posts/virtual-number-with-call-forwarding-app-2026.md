@@ -142,7 +142,7 @@ If you only ever share the virtual number, your real number stays out of the cha
 
 Under ten minutes for most users. Download the Surfshark app, navigate to Alt-Number, pick a number, and you are ready. If you already have Surfshark installed, it is closer to two minutes.
 
-**What happens to my conversations if I disable the virtual number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my conversations if I disable the virtual number?**
 
 Any messages or calls sent to the disabled number stop reaching you immediately. Contacts who had the virtual number get no response — the number does not forward, and in most cases returns a generic "unable to complete call" result on their end. Your real inbox and real number are unaffected.
 

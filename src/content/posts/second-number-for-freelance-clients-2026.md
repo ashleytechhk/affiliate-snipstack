@@ -108,7 +108,7 @@ Replace the number on your Upwork or Fiverr profile, your portfolio contact page
 
 ### Step 4 — Use it for new client onboarding
 
-Going forward, every new client gets the Alt-Number. Contracts, invoices, email signatures — the second number is your professional contact. Your real number is for personal use only.
+Going forward, every new client gets the Alt-Number. Contracts, invoices, email signatures — the [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/) is your professional contact. Your real number is for personal use only.
 
 ### Step 5 — Keep your dating app verification separate
 

@@ -97,7 +97,7 @@ For streaming arbitrage, the privacy features matter primarily in protecting you
 
 Speed matters for 4K streaming. Neither service will bottleneck a modern broadband connection.
 
-NordVPN consistently tops independent speed charts, often retaining 80–90% of base connection speed. This makes it the better choice if you are also using your VPN for gaming, large downloads, or video calls.
+NordVPN consistently tops independent speed charts, often retaining 80–90% of base connection speed. This makes it the better choice if you are also using your [VPN for gaming](https://snipstack.io/vpn-for-gaming-pc-setup-2026/), large downloads, or video calls.
 
 Surfshark performs well in the 70–85% range — comfortably above what Netflix 4K requires (25 Mbps) even on modest home internet. For pure streaming, the difference is not perceptible.
 

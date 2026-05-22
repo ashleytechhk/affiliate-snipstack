@@ -153,7 +153,7 @@ No. A browser extension VPN only encrypts traffic inside that browser. Your torr
 
 A proxy reroutes your traffic through a different server without encrypting it. Some browser "VPNs" — including built-in options in Opera and some Chrome extensions — are technically proxies. They can change your apparent location but do not provide the encryption that makes a VPN useful on public Wi-Fi or for general traffic privacy. A true VPN encrypts all traffic between your device and the VPN server.
 
-### Can I use a free VPN for gaming?
+### Can I use a free [VPN for gaming](https://snipstack.io/vpn-for-gaming-pc-setup-2026/)?
 
 You can, but with caveats. A system-level free VPN (like ProtonVPN Free) will route your game client's traffic through the VPN, which may increase ping depending on server distance. Free-tier servers are shared infrastructure, which typically means higher and less consistent latency. For gaming, split tunneling — which routes your game client directly while other apps use the VPN — is the practical answer, but it is a paid-tier feature on most providers.
 

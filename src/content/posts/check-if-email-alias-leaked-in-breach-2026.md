@@ -113,7 +113,7 @@ If you use 5 or fewer aliases total, Firefox Monitor is a reasonable free setup.
 
 **Best for:** Continuous monitoring plus immediate remediation — the full loop.
 
-[Surfshark Alert](https://snipstack.io/blog/altid?sub=check-if-email-alias-leaked-in-breach-2026__mid) monitors your email addresses against breach databases in real time and sends alerts the moment new data appears. It covers personal details beyond email: passwords, card numbers, ID documents. Alt ID is the alias engine bundled into Surfshark One — you generate unlimited masked aliases, each forwarding to your real inbox, and you delete any compromised alias from the dashboard with one click.
+[Surfshark Alert](https://snipstack.io/blog/altid?sub=check-if-email-alias-leaked-in-breach-2026__mid) monitors your email addresses against breach databases in real time and sends alerts the moment new data appears. It covers personal details beyond email: passwords, card numbers, ID documents. Alt ID is the alias engine bundled into [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) — you generate unlimited masked aliases, each forwarding to your real inbox, and you delete any compromised alias from the dashboard with one click.
 
 **What it does well:**
 
@@ -125,7 +125,7 @@ If you use 5 or fewer aliases total, Firefox Monitor is a reasonable free setup.
 
 **Limitations:**
 
-- Paid (included in Surfshark One subscription)
+- Paid (included in [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) subscription)
 - Requires using Alt ID as your alias service, not just checking existing aliases from other providers
 
 The paid aspect is the main tradeoff. For someone receiving 50+ spam emails a day, the calculation is: how much is inbox sanity worth? For most people dealing with serious spam volume, the answer is clear.

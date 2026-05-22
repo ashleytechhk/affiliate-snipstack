@@ -206,7 +206,7 @@ This is normal — providers confirm you're a real person during setup. Your rea
 **I can't pick the area code I want.**
 Popular area codes (212 New York, 310 LA) fill up fast on free tiers. Try off-peak times or move to a paid tier which has wider number inventory.
 
-**Dating app rejected my second number during verification.**
+**Dating app rejected my [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/) during verification.**
 Some apps specifically block known VOIP ranges. Alt Number or Hushed (paid) are your best options here — their numbers pass more verification checks than Google Voice or TextNow free tier.
 
 **I lost access to the app and now I can't receive texts.**
