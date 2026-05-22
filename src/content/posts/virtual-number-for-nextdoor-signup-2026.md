@@ -62,7 +62,7 @@ A [virtual number](https://snipstack.io/virtual-number-for-international-calling
 
 Using one for Nextdoor signup works like this:
 
-1. You get a virtual number through Surfshark Alt-Number
+1. You get a [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) through Surfshark Alt-Number
 2. You open Nextdoor and begin the account creation process
 3. When Nextdoor asks for a phone number for SMS verification, you enter your Alt-Number
 4. Nextdoor sends a verification code to that number

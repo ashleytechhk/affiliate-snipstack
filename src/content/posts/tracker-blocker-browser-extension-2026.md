@@ -86,7 +86,7 @@ Here is the core limitation that most tracker blocker guides skip over.
 
 Browser extensions as a category do not exist in mobile browsers the way they do on desktop. Apple's iOS only allows Safari Content Blockers — a privacy-preserving API that lets apps deliver filter rules to Safari, but only for Safari. Extensions that run arbitrary JavaScript in a browser tab are not permitted.
 
-On Android, Chrome does not support extensions at all. Firefox for Android supports extensions including uBlock Origin — but only within Firefox. When you switch to another app, the extension is not running.
+On Android, Chrome does not support extensions at all. Firefox for Android supports extensions including [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) — but only within Firefox. When you switch to another app, the extension is not running.
 
 What this means practically:
 
@@ -132,7 +132,7 @@ This is the setup that closes the gap browser extensions cannot.
 
 ---
 
-## How to Set Up CleanWeb on Your Phone
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up CleanWeb on Your Phone
 
 ### iPhone Setup (3 minutes)
 

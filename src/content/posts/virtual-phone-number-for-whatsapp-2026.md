@@ -125,7 +125,7 @@ Getting this working takes under five minutes once you have your [virtual number
 3. Open WhatsApp and start the registration flow as if it were a new account
 4. When prompted for your phone number, enter the [virtual number with](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/) the correct country code
 5. WhatsApp will send an SMS verification code to that number
-6. Check your virtual number app's inbox for the code — it arrives within 30–60 seconds in most cases
+6. Check your [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) app's inbox for the code — it arrives within 30–60 seconds in most cases
 7. Enter the code in WhatsApp and complete your profile setup
 
 Your WhatsApp account is now decoupled from your personal SIM. The dating-only profile is live.

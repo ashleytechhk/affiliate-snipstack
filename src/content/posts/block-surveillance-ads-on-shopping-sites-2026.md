@@ -117,7 +117,7 @@ DNS-level blocking operates differently. Instead of filtering scripts inside a b
 
 [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) works at the DNS level and applies to every app and browser on your phone simultaneously — not just the browser you are currently using. That means it catches the Meta Pixel firing from a shopping site's mobile web page *and* the Criteo beacon loading inside a shopping app.
 
-**How to set it up on iPhone:**
+**[How to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up on iPhone:**
 
 1. Download the **Surfshark** app from the App Store
 2. Sign in to your account
@@ -178,7 +178,7 @@ DNS-level blocking stops the Meta Pixel from registering new product views. Howe
 
 ### Does CleanWeb work when I use shopping apps, not the mobile browser?
 
-Yes. CleanWeb's DNS-level filtering applies system-wide — it covers shopping apps, social apps, and mobile browsers simultaneously. Browser-only blockers (Safari content blockers, uBlock Origin) only filter browser traffic. CleanWeb is the only option in this guide that catches tracker requests fired from within native shopping apps.
+Yes. CleanWeb's DNS-level filtering applies system-wide — it covers shopping apps, social apps, and mobile browsers simultaneously. Browser-only blockers (Safari content blockers, [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/)) only filter browser traffic. CleanWeb is the only option in this guide that catches tracker requests fired from within native shopping apps.
 
 ### Can I block surveillance ads for free without a paid tool?
 

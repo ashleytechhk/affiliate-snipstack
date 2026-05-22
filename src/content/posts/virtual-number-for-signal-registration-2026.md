@@ -76,7 +76,7 @@ The process for using one with Signal is straightforward:
 
 1. You get a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) through a service like Surfshark Alt-Number
 2. You open Signal and enter that number instead of your real one
-3. Signal sends an SMS verification to your virtual number
+3. Signal sends an SMS verification to your [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/)
 4. You retrieve the code inside the Alt-Number app and paste it into Signal
 5. Your Signal account is now registered to the virtual number — your real number was never entered
 

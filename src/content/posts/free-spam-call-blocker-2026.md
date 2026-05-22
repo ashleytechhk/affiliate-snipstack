@@ -155,7 +155,7 @@ Partially. Google Voice forwards calls to your real line, and the caller only se
 
 ### Will using a [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) affect call quality?
 
-Modern virtual number services use VoIP over stable internet connections, so quality is generally good on a decent mobile data or Wi-Fi connection. There can be slight latency compared to a direct call, but it is not noticeable in practice for most users.
+Modern [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) services use VoIP over stable internet connections, so quality is generally good on a decent mobile data or Wi-Fi connection. There can be slight latency compared to a direct call, but it is not noticeable in practice for most users.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my virtual number if I stop paying?
 

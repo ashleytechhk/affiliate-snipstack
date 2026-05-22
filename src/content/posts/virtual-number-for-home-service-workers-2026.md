@@ -77,7 +77,7 @@ For online daters:
 1. You generate a [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) before you move a conversation off the app.
 2. You share that number instead of your real one.
 3. The other person calls and texts it; you receive those contacts through the service.
-4. Your real number is never involved. A reverse lookup on your virtual number does not resolve to your personal details.
+4. Your real number is never involved. A reverse lookup on your [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) does not resolve to your personal details.
 5. If the situation goes wrong, you disable or replace the virtual number. That person's access ends immediately.
 
 The experience from their side is normal. They see a working phone number. Calls go through. Texts arrive. Nothing signals that it is virtual. The protection is entirely on your end.

@@ -181,7 +181,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-
 
 ## Frequently Asked Questions
 
-### Why do I need antivirus with VPN included — can I just get one or the other?
+### Why do I need [antivirus with](https://snipstack.io/antivirus-with-firewall-included-2026/) VPN included — can I just get one or the other?
 
 Antivirus and VPN protect you from different threats. Antivirus removes malware already targeting your device. A VPN protects your connection from outside snooping — especially on public Wi-Fi. Using both together covers far more ground than either one alone. Getting them bundled is also cheaper than buying separately.
 

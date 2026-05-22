@@ -76,7 +76,7 @@ The entire setup takes under ten minutes. If you already have the Surfshark app 
 
 ## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) You Need to End It
 
-The cleanest feature of a forwarding virtual number is what happens on the other end when you disable it.
+The cleanest feature of a forwarding [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) is what happens on the other end when you disable it.
 
 Blocking works on individual contacts and individual platforms. A determined person can switch numbers. They can create a new account. Blocking is reactive and has to be applied continuously.
 

@@ -112,7 +112,7 @@ Alt-Number sits within Surfshark's broader [privacy suite](https://snipstack.io/
 
 To be clear about what a [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-2026/) covers and what it does not:
 
-A virtual number **does not** make you anonymous on a dating app. Your profile photo, location settings, and app behavior are still visible to matches. It protects one specific vector — your phone number — not your entire digital footprint.
+A [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) **does not** make you anonymous on a dating app. Your profile photo, location settings, and app behavior are still visible to matches. It protects one specific vector — your phone number — not your entire digital footprint.
 
 A virtual number **does not** prevent screenshots of your conversations or profile. It limits the damage of those screenshots by ensuring the number shown is not your real one.
 

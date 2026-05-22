@@ -187,7 +187,7 @@ CleanWeb blocks ad-serving domains at the DNS level across every app on your dev
 
 No — DNS-level blocking actually makes apps faster in most cases. Blocking ad requests means fewer network calls per session, less data transferred, and faster page or content loads. You're not loading the ad content at all, which removes that overhead rather than adding to it.
 
-### Is it legal to use an ad blocker on streaming apps?
+### Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) on streaming apps?
 
 Yes. Ad blocking is a consumer choice about what content your device loads. There are no laws requiring you to view advertising. Some services may include ad viewing in their terms of service for free tiers, but this is a contractual matter between you and the service — not a legal issue.
 

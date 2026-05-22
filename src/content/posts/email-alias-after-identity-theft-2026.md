@@ -59,7 +59,7 @@ A plain alias service stops new senders from learning your real email. But it do
 
 **Best for: Identity theft recovery, comprehensive inbox protection**
 
-Alt ID is Surfshark's alias and identity masking tool. When you create an alias, it generates both a forwarding address and a distinct identity (name, date of birth) to go with it. You use that combination for signups. If that service gets breached, the leaked data describes a person who does not exist, attached to an address you can delete in one click.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s alias and identity masking tool. When you create an alias, it generates both a forwarding address and a distinct identity (name, date of birth) to go with it. You use that combination for signups. If that service gets breached, the leaked data describes a person who does not exist, attached to an address you can delete in one click.
 
 **What works well:**
 

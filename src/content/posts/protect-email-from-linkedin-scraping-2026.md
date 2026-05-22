@@ -29,7 +29,7 @@ A permanent masked [email alias](/blog/altid?sub=protect-email-from-linkedin-scr
 | Method | Hides real email from scrapers | Stays contactable | Works without changing jobs or platforms | Kill on demand | Cost |
 |---|---|---|---|---|---|
 | **Alt-ID masked alias** | Yes | Yes | Yes | Yes | Included with Surfshark |
-| Hide email in LinkedIn settings | Yes | No | Yes | N/A | Free |
+| [Hide email](https://snipstack.io/hide-email-from-hotel-loyalty-programs-2026/) in LinkedIn settings | Yes | No | Yes | N/A | Free |
 | LinkedIn privacy controls | Partial | Yes | Yes | No | Free |
 | Unsubscribe + inbox filters | No | Yes | Yes | No | Free |
 | Secondary "junk" email account | Partial | Yes | No (manual) | No | Free |
@@ -139,7 +139,7 @@ A secondary account shifts the inbox problem rather than solving it. The real em
 
 ---
 
-## How to Set Up Alt-ID on LinkedIn (Step by Step)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt-ID on LinkedIn (Step by Step)
 
 **Step 1.** Get Surfshark — Alt-ID is included with all plans. No separate subscription or add-on needed.
 

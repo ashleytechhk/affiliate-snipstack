@@ -282,7 +282,7 @@ Not by default — the service provider still knows your payment details and dev
 
 ### Can I receive calls on a second number without a second phone?
 
-Yes — this is the core function of virtual number apps. Calls to your second number ring on your existing phone via the app. You can answer using the app or forward to your real number. No second device required.
+Yes — this is the core function of [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) apps. Calls to your second number ring on your existing phone via the app. You can answer using the app or forward to your real number. No second device required.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I get too many spam calls on my second number?
 

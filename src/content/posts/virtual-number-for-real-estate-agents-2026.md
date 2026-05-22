@@ -83,7 +83,7 @@ The key properties you need:
 3. **Can be changed or disabled** — if a situation goes bad, you need to be able to cut the connection
 4. **Does not expose your real number** — end-to-end, your actual mobile should never appear in caller ID or SMS metadata
 
-Surfshark Alt-Number meets all four. It generates a US virtual number that receives both calls and SMS. It works globally over an internet connection. If you need to remove someone's access, you manage it from the dashboard — not from your carrier's frustrating support process.
+Surfshark Alt-Number meets all four. It generates a US [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) that receives both calls and SMS. It works globally over an internet connection. If you need to remove someone's access, you manage it from the dashboard — not from your carrier's frustrating support process.
 
 ---
 
