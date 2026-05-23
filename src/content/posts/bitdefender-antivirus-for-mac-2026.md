@@ -106,7 +106,7 @@ For seniors, the more practical question is: **which app warns you when somethin
 
 ### Scam and Phishing Protection
 
-Phishing is the biggest real-world threat for most older users — [fake email](https://snipstack.io/top-fake-email-2026/)s and websites designed to steal your bank login or Social Security details. Both apps block known phishing sites in your browser. Surfshark also includes a browser extension that blocks trackers and ads, which reduces exposure. Fewer ads means fewer chances to accidentally click a malicious one.
+Phishing is the biggest real-world threat for most older users — [fake email](https://snipstack.io/top-fake-email-2026/)s and websites designed to steal your bank login or [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) details. Both apps block known phishing sites in your browser. Surfshark also includes a browser extension that blocks trackers and ads, which reduces exposure. Fewer ads means fewer chances to accidentally click a malicious one.
 
 ---
 

@@ -199,7 +199,7 @@ A VPN encrypts your internet traffic and routes it through servers in other loca
 
 Yes — AdGuard DNS and NextDNS both offer free tiers that work at the DNS level, covering the Apple TV app and every other app on your device. These are solid options if you want ad blocking without a VPN subscription. The trade-off is that they don't include VPN features (geo-unlocking, encrypted tunneling). For ad blocking only, both free DNS services are legitimate options.
 
-### Why can't I just use my browser's built-in ad blocker?
+### Why can't I just use my browser's built-in [ad blocker](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/)?
 
 Browser-built-in blocking (like Brave's Shields or Safari's Intelligent Tracking Prevention) works within the browser only. The Apple TV app is a separate native application that doesn't use any browser engine or browser network stack — browser-level tools have no visibility into its traffic.
 

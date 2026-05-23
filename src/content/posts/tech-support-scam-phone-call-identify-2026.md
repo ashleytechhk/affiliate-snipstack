@@ -191,7 +191,7 @@ Scammers target people they assess as less likely to recognise the warning signs
 
 ### Does Surfshark's Email Scam Checker work on mobile?
 
-Yes. Open your phone's browser, go to the Surfshark Email Scam Checker, and paste in the suspicious email address or link. On most phones you can copy a link by pressing and holding it until a menu appears, then tapping "Copy link." The checker works in any mobile browser with no app download required.
+Yes. Open your phone's browser, go to the Surfshark Email Scam Checker, and paste in the suspicious email address or link. On most phones you can copy a link by pressing and holding it until a menu appears, then tapping "Copy link." The checker works in any mobile [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) no app download required.
 
 ---
 

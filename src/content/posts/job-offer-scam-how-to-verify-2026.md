@@ -155,7 +155,7 @@ Unsolicited recruiter outreach does happen legitimately, particularly on LinkedI
 
 ### What information should I never give to a recruiter before a job offer is confirmed?
 
-Never provide your Social Security number, bank account details, a copy of your passport or driver's license, or any payment before you have a signed contract and have verified the employer independently. Legitimate hiring processes collect sensitive documents during onboarding after a formal offer — not during initial contact.
+Never provide your [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number, bank account details, a copy of your passport or driver's license, or any payment before you have a signed contract and have verified the employer independently. Legitimate hiring processes collect sensitive documents during onboarding after a formal offer — not during initial contact.
 
 ### Can scammers fake a real company's email address?
 

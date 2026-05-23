@@ -52,7 +52,7 @@ Keyloggers arrive through innocent-looking email attachments — a "statement fr
 
 ### Phishing Pages: Fake Brokerage Logins
 
-Phishing is when a criminal sends you an email that looks like it came from your brokerage, your bank, or even the Social Security Administration. The email contains a link. You click it and arrive at a page that looks exactly like your account login screen. You type your username and password. The page captures your credentials and redirects you to the real site, so you never suspect anything went wrong.
+Phishing is when a criminal sends you an email that looks like it came from your brokerage, your bank, or even the [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) Administration. The email contains a link. You click it and arrive at a page that looks exactly like your account login screen. You type your username and password. The page captures your credentials and redirects you to the real site, so you never suspect anything went wrong.
 
 Modern phishing pages are frighteningly convincing. The URL (web address) in the bar at the top of the browser is slightly different — perhaps "f1delity.com" instead of "fidelity.com" — but it is easy to miss, especially on a small screen or in a hurry.
 

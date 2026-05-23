@@ -82,7 +82,7 @@ One+ adds Incogni, which automatically contacts 400+ data broker companies to re
 
 ## Norton 360 — Capable, but Price-Engineered Against You
 
-Norton is a legitimate security product. Its antivirus engine consistently scores well in independent lab tests. LifeLock's identity monitoring is genuinely broad — Social Security monitoring, credit alerts, and legal support coverage that goes beyond simple breach notifications.
+Norton is a legitimate security product. Its antivirus engine consistently scores well in independent lab tests. LifeLock's identity monitoring is genuinely broad — [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) monitoring, credit alerts, and legal support coverage that goes beyond simple breach notifications.
 
 The issue is cost and system impact.
 

@@ -93,7 +93,7 @@ In the interest of being straight with you:
 
 **Password manager.** Norton 360 includes a password manager. [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) does not. If you're currently using Norton's password manager and storing credentials there, factor in migration time — standalone options like Bitwarden are free, but moving passwords takes an afternoon.
 
-**LifeLock integration (US users).** If you're in the US and serious about [identity theft protection](https://snipstack.io/identity-theft-protection-software-2026/) tied to Social Security number monitoring and credit alerts, Norton's LifeLock tiers offer genuinely deep coverage. Surfshark Alert covers data breach notifications and personal info monitoring but doesn't go as deep as LifeLock's credit bureau integration.
+**LifeLock integration (US users).** If you're in the US and serious about [identity theft protection](https://snipstack.io/identity-theft-protection-software-2026/) tied to [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number monitoring and credit alerts, Norton's LifeLock tiers offer genuinely deep coverage. Surfshark Alert covers data breach notifications and personal info monitoring but doesn't go as deep as LifeLock's credit bureau integration.
 
 **Lab testing history.** Norton has 30+ years of AV-TEST results behind it. If institutional track record matters to your decision, that's a real point in their favor.
 

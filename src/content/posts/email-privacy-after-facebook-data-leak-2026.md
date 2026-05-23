@@ -89,7 +89,7 @@ The right fix is upstream: stop your real address from being useful to the next 
 
 ## Option 4: Proton Pass Aliases
 
-**What it does:** Proton's password manager includes an alias generator that creates `@passmail.net` addresses. Integrated into the Proton ecosystem alongside ProtonMail and ProtonVPN.
+**What it does:** Proton's password manager includes an alias generator that creates `@passmail.net` addresses. Integrated into the Proton ecosystem alongside ProtonMail and [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/).
 
 **Where it works:** If you are already a Proton user, this is a seamless addition. The free tier includes ten alias addresses. The interface is clean and the privacy track record is strong.
 

@@ -10,7 +10,7 @@ In 2023, a woman in Oregon gave her [phone number](https://snipstack.io/phone-nu
 
 She had no idea her number was a map to her front door.
 
-This is not a fringe scenario. The National Domestic Violence Hotline reported a 53% increase in technology-facilitated stalking cases between 2021 and 2023, with phone numbers identified as the single most common entry point for location tracing. Reverse-lookup services like Spokeo, BeenVerified, and WhitePages Premium can return a full name, home address, and workplace from a phone number in seconds — for anyone with $5 and a Google search.
+This is not a fringe scenario. The [National Do](https://snipstack.io/burner-number-dating-apps-2026/)mestic Violence Hotline reported a 53% increase in technology-facilitated stalking cases between 2021 and 2023, with phone numbers identified as the single most common entry point for location tracing. Reverse-lookup services like Spokeo, BeenVerified, and WhitePages Premium can return a full name, home address, and workplace from a phone number in seconds — for anyone with $5 and a Google search.
 
 And yet tens of millions of people hand their real phone numbers to strangers on dating apps every day, often the moment a conversation starts to feel promising.
 
@@ -42,7 +42,7 @@ This is the exposure that happens before you ever give your number to a specific
 
 ---
 
-## What Happens When You Share Your Real Number With a Match
+## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) You Share Your Real Number With a Match
 
 Most people think of phone number exposure in terms of spam calls. The actual risk is more targeted.
 

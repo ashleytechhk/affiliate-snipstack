@@ -47,7 +47,7 @@ This comparison breaks down the five most-used [email alias](https://snipstack.i
 
 Most spam comes from one of two sources: you signed up for something that sold your address, or a service you trusted had a breach. Either way, the leak is usually just your email.
 
-Identity theft is different. In a full identity theft incident — Social Security number exposure, credit application fraud, or a comprehensive data broker dump — your email is paired with real personal data: legal name, physical address, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), date of birth. Spammers and phishers who buy these lists can craft attacks that reference real details about you. That is not random spam. It is targeted social engineering.
+Identity theft is different. In a full identity theft incident — [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number exposure, credit application fraud, or a comprehensive data broker dump — your email is paired with real personal data: legal name, physical address, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), date of birth. Spammers and phishers who buy these lists can craft attacks that reference real details about you. That is not random spam. It is targeted social engineering.
 
 A plain alias service stops new senders from learning your real email. But it does not address the correlation problem: if every new service you sign up for gets your real name, the information builds. One breach at a new service connects your alias to your real identity through the name field.
 

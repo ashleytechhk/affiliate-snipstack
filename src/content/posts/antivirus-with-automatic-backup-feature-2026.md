@@ -92,7 +92,7 @@ If the software is complicated to use, you will not use it properly. Look for a 
 
 You might be wondering what "automatic backup" actually means in practice. Here is the short version.
 
-When you turn on automatic backup in your antivirus software, you select which folders matter most to you — typically your Pictures, Documents, and Desktop folders. The software then makes a copy of everything in those folders and stores it in a secure location online (called "the cloud").
+When you turn on automatic backup in your [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/), you select which folders matter most to you — typically your Pictures, Documents, and Desktop folders. The software then makes a copy of everything in those folders and stores it in a secure location online (called "the cloud").
 
 After that initial setup, it watches those folders for changes. When you add a new photo or save a new document, it quietly copies the new version to the cloud within a short time. You never see it happening. You never have to remember to do anything.
 
@@ -139,13 +139,13 @@ The software is your digital security system. You are still the person who decid
 
 ## Frequently Asked Questions
 
-### What does "automatic backup" mean in antivirus software?
+### What does "automatic backup" mean in [antivirus software](https://snipstack.io/antivirus-software-2026/)?
 
 Automatic backup means the software regularly copies your important files — photos, documents, contacts — to a secure online location without you needing to do anything. If your computer is damaged, stolen, or infected, you can retrieve those files from the cloud. [Get started with Surfshark Antivirus](/blog/antivirus?sub=antivirus-with-automatic-backup-feature-2026__faq), which includes automatic backup as part of its protection suite.
 
 ### Is [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) good enough for seniors?
 
-Basic free antivirus — like the one built into Windows — provides a foundation, but it does not include automatic backup, web [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) scam sites, or breach alerts. For seniors who bank online, store family photos, or use public Wi-Fi, a paid product with these additional features provides meaningfully stronger protection. The cost is typically a few dollars a month.
+Basic [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) — like the one built into Windows — provides a foundation, but it does not include automatic backup, web [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) scam sites, or breach alerts. For seniors who bank online, store family photos, or use public Wi-Fi, a paid product with these additional features provides meaningfully stronger protection. The cost is typically a few dollars a month.
 
 ### How often does automatic backup run?
 

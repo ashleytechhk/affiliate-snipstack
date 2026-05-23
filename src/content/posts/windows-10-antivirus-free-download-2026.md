@@ -20,7 +20,7 @@ This guide walks through seven of the best **windows 10 [antivirus](https://snip
 
 ## Why Seniors Need Extra Protection on Windows 10
 
-Older adults are disproportionately targeted by online scammers. Cybercriminals send emails pretending to be Medicare, Social Security, or a grandchild in trouble. They create pop-ups that look exactly like Windows alerts. They hide tracking software inside free games or recipe downloads.
+Older adults are disproportionately targeted by online scammers. Cybercriminals send emails pretending to be Medicare, [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/), or a grandchild in trouble. They create pop-ups that look exactly like Windows alerts. They hide tracking software inside free games or recipe downloads.
 
 A good antivirus catches these threats before they land. It scans downloads automatically, warns you before you open a dangerous email attachment, and blocks websites known to steal passwords. The tools below do all of this — and most are completely free to download and use.
 

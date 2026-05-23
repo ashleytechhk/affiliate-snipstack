@@ -55,7 +55,7 @@ Learning to recognise the pattern takes less than five minutes. Here are the six
 
 "Your account will be suspended in 24 hours." "Unusual activity detected — verify now." "Your payment failed — act immediately."
 
-Legitimate companies do not communicate this way. They give you time. They include phone numbers. They do not threaten consequences if you do not click a link *right now*.
+Legitimate companies do not communicate this way. They give you time. They include [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s. They do not threaten consequences if you do not click a link *right now*.
 
 **Rule:** If an email is trying to make you panic, that is a sign you should slow down — not speed up.
 
@@ -89,7 +89,7 @@ Unless you specifically requested a document — a statement, a receipt, a form 
 
 ---
 
-## What Happens If You Click: The Real Risk
+## [What Happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) If You Click: The Real Risk
 
 ![Phishing email attack chain — how a single click leads to account theft](/og/how-to-protect-against-phishing-emails-2026-inline-1.png)
 
@@ -111,7 +111,7 @@ You do not need to become technical. You need four habits.
 
 **2. Look at the full sender address before doing anything.** Not the display name — the actual address. If it does not match the company exactly, delete the email.
 
-**3. When in doubt, call.** Look up the company's phone number from their official website (not from the email) and call to check whether the message was real.
+**3. When in doubt, call.** Look up the company's [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) from their official website (not from the email) and call to check whether the message was real.
 
 **4. Run a security tool that catches what you miss.** Even careful people occasionally click something they should not have. A security layer that checks every link before it loads — and blocks dangerous websites automatically — catches the mistakes that habits alone cannot always prevent.
 

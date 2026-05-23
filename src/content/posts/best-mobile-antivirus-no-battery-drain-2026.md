@@ -30,7 +30,7 @@ Scammers do not pick their victims at random. They specifically target older adu
 
 **Reason 1: Seniors answer the phone.** Younger people screen calls. Many seniors still answer every call, including the ones from fake [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) agents claiming your phone is infected.
 
-**Reason 2: Seniors are more trusting of official-looking messages.** A text that appears to come from Medicare, Social Security, or a major bank triggers a sense of urgency that scammers deliberately exploit.
+**Reason 2: Seniors are more trusting of official-looking messages.** A text that appears to come from Medicare, [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/), or a major bank triggers a sense of urgency that scammers deliberately exploit.
 
 **Reason 3: Seniors often delay taking action on security.** If an antivirus app drains the battery and causes frustration, many older users simply turn it off. Scammers know this.
 

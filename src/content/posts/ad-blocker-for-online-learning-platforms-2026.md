@@ -133,9 +133,9 @@ For browser-based study on iPhone, pairing CleanWeb with a Safari Content Blocke
 If you only study in a mobile browser and want to start for free:
 
 - **AdGuard for iOS / Android** — Strong filter lists, covers in-browser ads well. The free tier handles standard lists; DNS blocking requires the paid version or a separate DNS profile setup.
-- **Firefox + uBlock Origin on Android** — The closest thing to desktop-level browser ad blocking on mobile. Effective for browser-based learning platforms. Does not touch app traffic.
+- **Firefox + [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) on Android** — The closest thing to desktop-level browser ad blocking on mobile. Effective for browser-based learning platforms. Does not touch app traffic.
 - **Brave Browser** — Built-in blocking on iOS and Android. Good for browser-based courses; zero coverage for apps.
-- **DNS-based filters (AdGuard DNS, NextDNS)** — Free tiers exist, require manual profile configuration. Effective but technical to set up on iOS; easier on Android through Private DNS settings.
+- **DNS-based filters ([AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/), NextDNS)** — Free tiers exist, require manual profile configuration. Effective but technical to set up on iOS; easier on Android through Private DNS settings.
 
 For a mobile power user who splits time between learning apps and browser-based platforms, a purpose-built system-level solution like CleanWeb outperforms patching together multiple free tools — and it adds VPN-level connection privacy on public Wi-Fi at the same time.
 

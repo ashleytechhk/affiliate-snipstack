@@ -167,7 +167,7 @@ No. Surfshark One includes VPN, Antivirus, Alert (breach monitoring), and Search
 
 ### How does Surfshark Alert compare to Norton's dark web monitoring?
 
-Both scan known breach databases for your email address and notify you when credentials appear. Norton's LifeLock integration on higher tiers adds Social Security number monitoring and identity theft insurance — features Surfshark Alert does not include. For email and credit card monitoring, the two are functionally comparable.
+Both scan known breach databases for your email address and notify you when credentials appear. Norton's LifeLock integration on higher tiers adds [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number monitoring and identity theft insurance — features Surfshark Alert does not include. For email and credit card monitoring, the two are functionally comparable.
 
 ### Can I cancel Norton or McAfee and switch mid-subscription?
 

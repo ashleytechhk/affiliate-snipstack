@@ -72,7 +72,7 @@ Keyloggers are a type of malware that record every key you press. If one is runn
 
 ### Your Identity Can Be Used Against You
 
-With enough personal data — your name, address, date of birth, NHS or Social Security number — criminals can open accounts, take out loans, or file fraudulent tax returns in your name. Recovering from [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) takes months and causes enormous stress.
+With enough personal data — your name, address, date of birth, NHS or [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number — criminals can open accounts, take out loans, or file fraudulent tax returns in your name. Recovering from [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) takes months and causes enormous stress.
 
 None of these outcomes are theoretical. They happen every day to real people who believed they were safe.
 

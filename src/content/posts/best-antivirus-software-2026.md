@@ -44,7 +44,7 @@ Why seniors? Because scammers know that many older adults:
 
 The threats are not just viruses anymore. In 2026, the biggest risks include:
 
-**Phishing emails** — [Fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/)s that look like they are from your bank, Medicare, the IRS, or even Amazon. They trick you into clicking a link and entering your password or Social Security number on a fake website.
+**Phishing emails** — [Fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/)s that look like they are from your bank, Medicare, the IRS, or even Amazon. They trick you into clicking a link and entering your password or [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number on a fake website.
 
 **Ransomware** — A type of attack where criminals lock all your photos, documents, and files on your computer, then demand money to unlock them. Losing twenty years of family photos to ransomware is devastating.
 

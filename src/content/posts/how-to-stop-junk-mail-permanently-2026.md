@@ -62,7 +62,7 @@ Those envelopes promising "You've been pre-selected for a Platinum card" come fr
 1. Go to **optoutprescreen.com** — the official, FTC-referenced opt-out site operated by the credit bureaus.
 2. Choose **5-Year Opt-Out** (online, takes effect in days) or **Permanent Opt-Out** (requires a mailed form but lasts indefinitely).
 3. For the permanent option: download and print the form, sign it, and mail it to the address shown. Keep a photo of the form before you mail it.
-4. For the 5-year option: fill in your name, address, date of birth, and the last four digits of your Social Security Number. The site is encrypted and operated by the credit bureaus themselves.
+4. For the 5-year option: fill in your name, address, date of birth, and the last four digits of your [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) Number. The site is encrypted and operated by the credit bureaus themselves.
 5. Confirm your submission. You will [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) pre-screened offers within a few weeks.
 
 **Note:** Opting out of pre-screened offers does not affect your credit score and does not prevent you from applying for credit cards normally.

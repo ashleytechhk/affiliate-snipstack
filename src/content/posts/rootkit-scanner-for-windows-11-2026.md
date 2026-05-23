@@ -43,7 +43,7 @@ Windows 11 has built-in security called [Windows Defender](https://snipstack.io/
 
 Cybercriminals are not random. They are strategic. They target seniors specifically because:
 
-**Seniors often have more savings.** After a lifetime of work, many older adults have retirement funds, Social Security deposits, and savings accounts that criminals want access to.
+**Seniors often have more savings.** After a lifetime of work, many older adults have retirement funds, [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) deposits, and savings accounts that criminals want access to.
 
 **Seniors grew up before the internet.** Most people over 60 learned to use computers as adults, not children. Recognizing a hidden digital threat requires instincts that come from growing up online — instincts that many seniors simply were not given time to develop.
 

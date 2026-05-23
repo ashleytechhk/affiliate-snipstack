@@ -180,13 +180,13 @@ Yes. The more accurate statement is that Macs are targeted less than Windows com
 
 For basic protection, yes — Apple's tools handle many common threats automatically. For seniors who bank, shop, or receive lots of emails online, the built-in tools have meaningful gaps. They do not flag new phishing websites in real time, they do not alert you to data breaches, and they do not stop the fake pop-up scams that specifically target older adults. A lightweight paid tool fills those gaps.
 
-**Will antivirus software slow down my Mac?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) slow down my Mac?**
 
 A well-designed modern antivirus has almost no noticeable impact on everyday Mac performance. Tools like [Surfshark Antivirus](/blog/antivirus?sub=do-macs-need-antivirus-in-2026__faq) are built to run quietly in the background without affecting how fast your Mac feels when you are browsing, emailing, or video calling.
 
 **What if I get a pop-up saying my Mac is infected?**
 
-Do not call any phone number it shows. Do not click any button inside the pop-up. Close your browser using Command + Q, or restart your Mac. Real security warnings from Apple never include a phone number to call. After restarting, if you are worried, run a scan with a reputable antivirus tool to confirm your Mac is clean.
+Do not call any phone number it shows. Do not click any button inside the pop-up. Close your browser using Command + Q, or restart your Mac. Real security warnings from Apple never include a phone number to call. After restarting, if you are worried, run a scan with a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) tool to confirm your Mac is clean.
 
 **Is it safe to use online banking on a Mac without antivirus?**
 
@@ -194,7 +194,7 @@ Risky, yes. Apple's built-in tools offer some protection, but they do not check 
 
 **Do I need antivirus on my iPhone as well as my Mac?**
 
-iPhones are harder to infect than Macs because of how Apple's iOS works. However, phishing attacks work just as well on iPhones — a convincing fake text message or email link is dangerous regardless of which device you use to click it. A security tool that covers both your Mac and iPhone under one plan, like Surfshark Antivirus, gives you consistent protection across all your devices.
+iPhones are harder to infect than Macs because of how Apple's iOS works. However, phishing attacks work just as well on iPhones — a convincing fake text message or email link is dangerous regardless of which device you use to click it. A security tool that covers both your Mac and iPhone under one plan, like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/), gives you consistent protection across all your devices.
 
 **How do I know if my Mac already has a virus?**
 

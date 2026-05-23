@@ -99,7 +99,7 @@ Even without any tools, the content of the email itself reveals a lot.
 **Common red flags in the body:**
 - **Urgency language:** "Your account will be closed in 24 hours." Scammers pressure you to act fast so you do not think clearly.
 - **Generic greetings:** "Dear Customer" or "Dear User" instead of your actual name suggests a mass-sent phishing blast.
-- **Requests for personal information:** Legitimate banks and services will never ask for your password, full card number, or Social Security number via email.
+- **Requests for personal information:** Legitimate banks and services will never ask for your password, full card number, or [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number via email.
 - **Poor spelling and grammar:** Not every scam email has bad spelling in 2026 — AI tools have improved scammer copy — but obvious errors are still a warning sign.
 - **Mismatched branding:** Compare the email's logo and colours against the company's real website. Slightly off fonts and blurry logos are common in phishing emails.
 
