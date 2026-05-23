@@ -185,7 +185,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-
 
 Antivirus and VPN protect you from different threats. Antivirus removes malware already targeting your device. A VPN protects your connection from outside snooping — especially on public Wi-Fi. Using both together covers far more ground than either one alone. Getting them bundled is also cheaper than buying separately.
 
-### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus with VPN included difficult to set up?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [antivirus with](https://snipstack.io/antivirus-with-automatic-backup-feature-2026/) VPN included difficult to set up?
 
 Not at all. The steps in this guide take about 10–15 minutes from start to finish. The app is designed with a single main screen and large buttons. If you can use email and browse the internet, you can set this up yourself without any technical help.
 

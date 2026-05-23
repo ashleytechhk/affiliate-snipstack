@@ -246,7 +246,7 @@ The biggest mistake mobile users make is assuming any VPN [ad blocker](https://s
     },
     {
       "@type": "Question",
-      "name": "Do I need to keep the VPN connected for the ad blocker to work?",
+      "name": "Do I need to keep the VPN connected for the [ad blocker](https://snipstack.io/ad-blocker-for-parental-control-devices-2026/) to work?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "For Surfshark CleanWeb on iOS: no — DNS blocking works independently of the VPN tunnel state. For NordVPN Threat Protection Lite on iOS: yes, it requires an active VPN connection. On Android, both work while connected. Surfshark has the more reliable always-on behavior across both mobile platforms."

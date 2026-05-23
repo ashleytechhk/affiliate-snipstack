@@ -97,7 +97,7 @@ If you ever need a clean break — an interaction turned hostile, a server situa
 
 ---
 
-## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) You Do Not Use a Second Number
+## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) You Do Not Use a [Second Number](https://snipstack.io/second-number-with-wifi-calling-support-2026/)
 
 This is the scenario most online daters on Discord do not think through until something goes wrong.
 

@@ -280,7 +280,7 @@ Financial institutions often reject VoIP-originated numbers for SMS verification
 
 Not by default — the service provider still knows your payment details and device. The level of privacy varies significantly by provider. Surfshark's privacy-first infrastructure minimizes what they log and retain. For maximum anonymity, combining a [virtual number with](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/) a VPN (to mask your IP during usage) and a privacy-focused payment method provides the strongest protection.
 
-### Can I receive calls on a second number without a second phone?
+### Can I receive calls on a [second number with](https://snipstack.io/second-number-with-wifi-calling-support-2026/)out a second phone?
 
 Yes — this is the core function of [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) apps. Calls to your second number ring on your existing phone via the app. You can answer using the app or forward to your real number. No second device required.
 

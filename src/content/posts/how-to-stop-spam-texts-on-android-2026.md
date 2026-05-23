@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![How to stop spam texts on Android](/og/how-to-stop-spam-texts-on-android-2026.png)
 
-You matched with someone on a dating app, swapped numbers, and now your inbox is a wasteland of package delivery scams, fake bank alerts, and texts from numbers you've never seen before.
+You matched with someone on a dating app, swapped numbers, and now your inbox is a wasteland of [package delivery scam](https://snipstack.io/package-delivery-scam-text-checker-2026/)s, fake bank alerts, and texts from numbers you've never seen before.
 
 Spam texts on Android are a specific kind of miserable. Unlike email spam, they land in the same thread as messages from people you actually care about. There's no folder, no automatic sorting, and the "block" button only works after the damage is done.
 

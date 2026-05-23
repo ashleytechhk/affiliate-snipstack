@@ -81,7 +81,7 @@ SimpleLogin (now owned by Proton) is a credible runner-up. It's open-source, int
 
 The paid plan at $4/month unlocks unlimited aliases and custom domains. If you already use ProtonMail, SimpleLogin feels like a natural extension of your privacy setup.
 
-The gap versus Alt-ID: SimpleLogin gives you email privacy but not identity privacy. Your Twitch account still has your real name attached. If that distinction matters to you — and for streamers it often does — Alt-ID's alternate identity layer is the deciding factor.
+The gap versus Alt-ID: SimpleLogin gives you [email privacy](https://snipstack.io/email-privacy-after-facebook-data-leak-2026/) but not identity privacy. Your Twitch account still has your real name attached. If that distinction matters to you — and for streamers it often does — Alt-ID's alternate identity layer is the deciding factor.
 
 ---
 

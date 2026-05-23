@@ -190,7 +190,7 @@ Yes. Clients call and text your virtual number exactly as they would any other p
 Your number goes inactive at the end of the billing period. Calls to that number will no longer connect. It's good practice to give active clients a heads-up before changing numbers — or to port the number to another service if you want to keep it long-term.
 
 **Can I run Alt-Number and Zoom Phone at the same time?**
-Yes, they're completely separate products. Zoom Phone handles your team telephony inside Zoom. Alt-Number is a personal second number on your smartphone. There's no technical conflict — they serve different functions and run independently.
+Yes, they're completely separate products. Zoom Phone handles your team telephony inside Zoom. Alt-Number is a personal [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) on your smartphone. There's no technical conflict — they serve different functions and run independently.
 
 ---
 

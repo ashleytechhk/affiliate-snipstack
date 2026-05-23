@@ -104,7 +104,7 @@ A match who knows your first name, your city, and that you drive a specific make
 
 This is not a hypothetical threat model for security researchers. This is the actual behavior pattern that appears in stalking incident reports involving rideshare drivers, most of which never make national news because they are resolved — or not — quietly and locally.
 
-The cost of a second number is minimal. The cost of not having one — in a situation where someone has decided to find you — can be significant.
+The cost of a [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) is minimal. The cost of not having one — in a situation where someone has decided to find you — can be significant.
 
 ![Device mockup comparison: Lyft driver account verified with a real number versus an Alt-Number, showing the clean separation between your real identity and your rideshare presence](/og/second-number-for-lyft-driver-account-2026-inline-2.png)
 

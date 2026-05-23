@@ -154,7 +154,7 @@ Alt-Number provides strong privacy by keeping your real number out of the pictur
 
 ## Final Take
 
-Spam call blockers range from the bare minimum (iOS's built-in silence toggle) to sophisticated multi-layer systems. For anyone actively dating online, the priority should be keeping your real number out of new contacts' hands — which means using a virtual second number rather than relying purely on after-the-fact filtering.
+Spam call blockers range from the bare minimum (iOS's built-in silence toggle) to sophisticated multi-layer systems. For anyone actively dating online, the priority should be keeping your real number out of new contacts' hands — which means using a virtual [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) rather than relying purely on after-the-fact filtering.
 
 Alt-Number handles this cleanly: one number for dating, your real number for everyone else. The apps in this list round out the protection, but they're all playing defense. Alt-Number keeps you out of the situation to begin with.
 

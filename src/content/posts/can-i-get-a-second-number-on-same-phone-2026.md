@@ -68,7 +68,7 @@ For dating specifically, two things stand out:
 
 **Disposability on your terms.** If a match gets uncomfortable, you delete the number. Their calls and texts go nowhere. You can get a new number the same day. Your real number — and everything attached to it — was never involved.
 
-Alt-Number is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), alongside a VPN, CleanWeb ad and tracker blocking, and data breach monitoring. If you are already using a VPN (and for privacy-aware dating, you should be), the marginal cost of adding a real second number is close to nothing.
+Alt-Number is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), alongside a VPN, CleanWeb ad and tracker blocking, and data breach monitoring. If you are already using a VPN (and for privacy-aware dating, you should be), the marginal cost of adding a real [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) is close to nothing.
 
 **[Get Surfshark Alt-Number — carrier number, no second SIM needed](/blog/altnumber?sub=can-i-get-a-second-number-on-same-phone-2026__mid)**
 

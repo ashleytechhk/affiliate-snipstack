@@ -175,7 +175,7 @@ There are several ways to get a [second phone number](https://snipstack.io/secon
 
 **Prepaid SIM** works, but requires a second device or a dual-SIM phone, upfront hardware cost, and manual cancellation. It's the old-school approach.
 
-**Alt-Number** works globally, requires no second device, activates in minutes, and is built within a privacy-first ecosystem. For a dating-specific second number, it hits the right balance of convenience, reliability, and control.
+**Alt-Number** works globally, requires no second device, activates in minutes, and is built within a privacy-first ecosystem. For a dating-specific [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/), it hits the right balance of convenience, reliability, and control.
 
 > **[Get Surfshark Alt-Number for dating privacy](/blog/altnumber?sub=2number-second-phone-number-2026__mid)** — real number, no SIM, full control.
 

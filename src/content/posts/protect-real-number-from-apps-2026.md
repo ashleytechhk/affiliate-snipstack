@@ -106,7 +106,7 @@ Hushed is purpose-built for the [second number](https://snipstack.io/second-numb
 
 Hushed numbers come from real carrier ranges in most markets, which puts them in a different category from pure-VoIP services like Google Voice or TextNow. Pass rates on Tinder, Bumble, and Hinge are good — not identical to a carrier-backed line, but materially better than VoIP. Most online daters who use Hushed will not encounter verification failures.
 
-The trade-off versus Alt-Number: Hushed charges per number as a standalone subscription. If you are also going to use a VPN (which you probably should be, if you care about dating app privacy), Alt-Number's bundled pricing makes more economic sense. If you have no interest in a VPN and purely want a second number, Hushed is a clean choice.
+The trade-off versus Alt-Number: Hushed charges per number as a standalone subscription. If you are also going to use a VPN (which you probably should be, if you care about dating app privacy), Alt-Number's bundled pricing makes more economic sense. If you have no interest in a VPN and purely want a [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/), Hushed is a clean choice.
 
 For daters who need international numbers — matching with someone from another country, or dating while traveling — Hushed's geographic flexibility is a genuine advantage over US-only options.
 

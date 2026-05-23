@@ -37,7 +37,7 @@ This comparison breaks down exactly what you get from each major [family securit
 | **Ad & tracker blocking** | Yes (built-in) | Partial | Partial |
 | **Password manager** | Yes | Yes (Norton Password Manager) | Yes |
 | **Data breach / dark web monitoring** | Yes (Alert) | Yes | Yes |
-| **Identity theft protection** | Yes | Yes (US only, higher tier) | Yes (US-focused) |
+| **[Identity theft protection](https://snipstack.io/identity-theft-protection-software-2026/)** | Yes | Yes (US only, higher tier) | Yes (US-focused) |
 | **System performance impact** | Low | Moderate | Moderate to high |
 | **2-year price (monthly equiv.)** | ~$3.19/mo | ~$4.99/mo | ~$4.17/mo |
 | **Renewal price jump** | Minimal | Significant | Significant |
@@ -153,9 +153,9 @@ Yes. Surfshark's unlimited simultaneous connections policy means every device in
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Antivirus as effective as Norton or McAfee?
 
-Independent testing from AV-TEST and other labs rates [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) as effective against real-world threats, including zero-day malware. Norton has a longer testing track record and consistently strong lab scores. For typical family use — browsing, email, downloads, streaming — Surfshark Antivirus provides reliable protection with less system overhead than Norton or McAfee.
+Independent testing from AV-TEST and other labs rates [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) as effective against real-world threats, including zero-day malware. Norton has a longer testing track record and consistently strong lab scores. For typical family use — browsing, email, downloads, streaming — [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) provides reliable protection with less system overhead than Norton or McAfee.
 
-### What happens to my Norton data if I cancel?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton data if I cancel?
 
 Norton stores your password manager vault and backup data on its servers. Before cancelling, export your password vault to a local file and verify your cloud backup is downloaded. Norton's cancellation process is straightforward, but confirming the auto-renewal is fully disabled and requesting a pro-rated refund (if applicable) is worth the 10-minute customer service call.
 

@@ -219,7 +219,7 @@ This is the main risk with app-based numbers. Keep the app installed and logged 
 **Is it legal to use a second texting number?**
 Yes, using a [second phone number](https://snipstack.io/second-phone-number-app-free-2026/) is legal. Millions of people use secondary numbers for business, privacy, and personal separation. The only legal concern would be using one for deceptive or fraudulent purposes — which is illegal regardless of what number you use.
 
-**Will the person I text know it's a second number?**
+**Will the person I text know it's a [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/)?**
 Not from the number alone. A real US number from Alt Number or Hushed looks identical to a carrier-issued number in most apps. Reverse-lookup sites may flag some VOIP numbers — another reason to use a provider with real number inventory.
 
 **Can I use a second number to verify dating apps like Tinder or Bumble?**

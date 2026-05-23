@@ -31,7 +31,7 @@ If your email address leaked in the Facebook breach, native spam filters and uns
 | **Surfshark Alt ID** | Yes | Yes | Yes | Yes | Included with Surfshark |
 | **Gmail Plus Addressing** | No | Partial | No | No | Free |
 | **SimpleLogin / addy.io** | Yes | Yes | Yes | No | Free / $3/mo |
-| **Proton Pass Aliases** | Yes | Yes | Yes | No | Free / $4/mo |
+| **[Proton Pass](https://snipstack.io/proton-pass-email-alias-review-2026/) Aliases** | Yes | Yes | Yes | No | Free / $4/mo |
 | **Temp-Mail / Disposables** | Yes | No | N/A | No | Free |
 | **Native Spam Filters** | No | No | No | No | Free |
 
@@ -111,7 +111,7 @@ The right fix is upstream: stop your real address from being useful to the next 
 
 ## Option 6: Surfshark Alt ID
 
-**What it does:** Generates a randomized email alias that forwards to your real inbox — so far, similar to SimpleLogin. The key difference is that Alt ID also generates a complete alternative identity to pair with each alias: a random name, date of birth, and other profile fields. Every service you sign up for gets a different address and a different identity.
+**What it does:** Generates a randomized [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) that forwards to your real inbox — so far, similar to SimpleLogin. The key difference is that Alt ID also generates a complete alternative identity to pair with each alias: a random name, date of birth, and other profile fields. Every service you sign up for gets a different address and a different identity.
 
 **Where it works:**
 
@@ -134,7 +134,7 @@ Here is the scenario most alias tools do not fully account for: you have used a 
 
 With a **plain alias service** (SimpleLogin, addy.io): they have a masked email address. They cannot trace it back to your real address unless they breach the alias service itself. Good, but the alias is still tied to whatever real-name data you gave the service during signup.
 
-With **Alt ID**: they have a masked email address tied to a fictional name and date of birth. Even if a second breach somewhere else exposes the same fictional identity, it does not connect back to you — the fictional person does not exist. Cross-database identity correlation, which is how data brokers build detailed profiles on real people, has nothing to work with.
+With **Alt ID**: they have a masked email address tied to a fictional name and date of birth. Even if a second breach somewhere else exposes the same fictional identity, it does not connect back to you — the fictional person does not exist. Cross-database identity correlation, which is [how data brokers](https://snipstack.io/how-data-brokers-get-your-email-address-2026/) build detailed profiles on real people, has nothing to work with.
 
 This matters more than most alias comparisons acknowledge. Single-service isolation is good. Cross-database identity protection is better.
 

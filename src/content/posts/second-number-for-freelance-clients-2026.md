@@ -122,7 +122,7 @@ If a client relationship turns difficult, generate a new number in the app. Your
 
 ---
 
-## What Happens When You Do Not Have a Second Number
+## What Happens When You Do Not Have a [Second Number](https://snipstack.io/second-number-with-wifi-calling-support-2026/)
 
 The scenario most freelancers do not think about until it happens: a difficult client situation and a difficult dating situation overlap. You are trying to go no-contact with an ex-match while also managing a client who does not respect project boundaries. Both of them have the same number. Both of them are texting you at the same time. There is no clean way to close one without closing the other.
 

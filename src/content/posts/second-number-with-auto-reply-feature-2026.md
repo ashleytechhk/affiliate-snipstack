@@ -130,7 +130,7 @@ Combined with an auto reply that runs through the alias, the exit is clean: auto
 
 Yes. Alt-Number provides real mobile numbers that pass SMS verification on major dating platforms. VOIP numbers from Google Voice or TextNow are frequently blocked at this step — Alt-Number is not a VOIP line and does not trigger those blocks. [Get Alt-Number here](/blog/altnumber?sub=second-number-with-auto-reply-feature-2026__faq) if you want to verify before your next signup.
 
-**How do I set up auto reply to work through my second number?**
+**How do I set up auto reply to work through my [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/)?**
 
 Auto reply on iOS (Focus mode) and Android (Messages auto-reply or Bixby Routines) sends responses through your active device messaging system. When you use Alt-Number for your dating contacts, their texts arrive via the alias forwarding. Your auto reply fires from within that channel — your real number is not involved. The alias number is what appears in any outbound reply.
 

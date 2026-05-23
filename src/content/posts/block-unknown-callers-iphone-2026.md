@@ -181,7 +181,7 @@ No — it silences and redirects to voicemail. The caller can still leave a voic
 Yes. If someone you've interacted with is in your contacts, recent calls, or linked emails, they ring through. Someone could also call from a different number not in your recent history. The feature is effective against strangers and spam, not against people you've already engaged with.
 
 **Is it safe to share a [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/) on dating apps?**
-Using a second number like [Alt-Number](/blog/altnumber?sub=block-unknown-callers-iphone-2026__faq) is a widely used privacy practice. It lets you move conversations off-app without exposing your real carrier number. If something goes wrong, you can stop using that number without affecting your real phone service.
+Using a [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) like [Alt-Number](/blog/altnumber?sub=block-unknown-callers-iphone-2026__faq) is a widely used privacy practice. It lets you move conversations off-app without exposing your real carrier number. If something goes wrong, you can stop using that number without affecting your real phone service.
 
 **Will Silence Unknown Callers affect work calls?**
 Potentially yes. If clients, recruiters, or colleagues call from numbers not in your contacts, those calls go to voicemail. Review this trade-off before enabling it on a number you use for professional purposes. Many people keep it on their personal number and off their work number.

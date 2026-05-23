@@ -111,7 +111,7 @@ Go to **Settings → Mobile Service** and configure the following:
 
 ### Step 5: Make a Call or Send a Text from Your Dating Number
 
-When composing a new message or making a call, iOS will show a line selector. Tap the line label to switch to your dating number before sending. Your second number appears as the caller ID on the recipient's device.
+When composing a new message or making a call, iOS will show a line selector. Tap the line label to switch to your dating number before sending. Your [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) appears as the caller ID on the recipient's device.
 
 ---
 
