@@ -120,13 +120,13 @@ For a definitive check, copy the link and run it through Surfshark's Email Scam 
 
 Legitimate lotteries verify winner identities through official, documented processes — usually involving certified identification submitted through a secure portal or in person at a claims office. They do not ask for your passport number, bank account details, mother's maiden name, or national insurance number in a reply email.
 
-If a lottery email asks you to reply with personal or financial information, that information will be used for identity theft or fraud. Common asks include:
+If a lottery email asks you to reply with personal or financial information, that information will be used for [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) or fraud. Common asks include:
 
 - Full name and date of birth
 - Home address
 - Copies of ID documents
 - Bank account numbers for "direct transfer"
-- Social security or national insurance numbers
+- [Social security](https://snipstack.io/social-security-scam-call-verify-2026/) or national insurance numbers
 
 None of these should ever be sent by email, to anyone, in response to an unsolicited message.
 
@@ -160,7 +160,7 @@ No. This is the most fundamental rule: you cannot win a prize draw you did not e
 
 Some lotteries do send email notifications — but only to people who purchased tickets through accounts registered with that lottery. They will not email random addresses with news of a win. If you have an account with a lottery service, you can log in directly to check your tickets. Always verify through the official site rather than trusting an inbound email.
 
-### What happens if I reply to a lottery scam email?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I reply to a lottery scam email?
 
 Replying confirms your address is active and monitored, which increases the volume of scam emails you will receive. Scammers are also trained negotiators who will work to keep you engaged, build trust, and eventually extract payment or personal information. Do not reply to any lottery email that arrived unsolicited.
 

@@ -47,7 +47,7 @@ Android's Messages app has a built-in spam filter powered by Google's detection 
 
 ![Step-by-step illustrated guide showing Android Messages spam filter settings screen in dark mode](/og/how-to-stop-spam-texts-on-android-2026-inline-1.png)
 
-**What this does:** Google's system scans incoming messages for known spam patterns — fake delivery notifications, [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, lottery scams — and moves them to a separate "Spam & blocked" folder instead of your main inbox.
+**What this does:** Google's system scans incoming messages for known spam patterns — fake delivery notifications, [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, [lottery scam](https://snipstack.io/lottery-scam-email-how-to-spot-2026/)s — and moves them to a separate "Spam & blocked" folder instead of your main inbox.
 
 **What this doesn't do:** It won't catch every spam text, especially from new sender numbers that haven't been flagged yet. It also won't block calls, only messages.
 

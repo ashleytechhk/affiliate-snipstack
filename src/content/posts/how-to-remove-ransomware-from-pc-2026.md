@@ -117,7 +117,7 @@ With your PC in Safe Mode, you can now use a scanner to find and remove the rans
 2. Press Enter to open it.
 3. Click **Virus & threat protection**.
 4. Scroll down to **Scan options** and click it.
-5. Select **Microsoft Defender Offline scan** and click **Scan now**.
+5. Select **[Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) Offline scan** and click **Scan now**.
 6. Your PC will restart and run a deep scan before Windows fully loads — this catches threats that hide from normal scans.
 
 When the scan is complete, follow the on-screen instructions to remove everything found. Both tools will handle the deletion for you — you do not need to do it manually.
@@ -172,7 +172,7 @@ Cleaning up after ransomware is stressful and often involves permanent file loss
 Windows updates patch security holes that ransomware exploits. Go to **Start > Settings > Windows Update** and turn on automatic updates if they are not already on.
 
 **Back Up Your Files Regularly**
-An external hard drive connected weekly — and then unplugged and stored — is the single most effective protection against ransomware. Even if your PC gets infected, your files are safe on a separate device.
+An external hard drive connected weekly — and then unplugged and stored — is the single most effective [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) ransomware. Even if your PC gets infected, your files are safe on a separate device.
 
 **Be Suspicious of Every Link and Attachment**
 Ransomware most often arrives via email. An email that looks like it is from your bank, a courier company, or even a family member but asks you to click a link or open a file should be treated with extreme caution. When in doubt, do not click.
@@ -204,7 +204,7 @@ The most common entry points are: a malicious email attachment (often pretending
 
 After running a full scan and removing everything found, restart your PC normally (not in Safe Mode) and open a few files. If they open normally, the ransomware program has been removed. If files are still scrambled, the ransomware itself is gone but the encrypted files remain — those need to be recovered from a backup or decryptor, not scanned again.
 
-### Does Surfshark Antivirus stop ransomware?
+### Does [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) stop ransomware?
 
 **[Surfshark Antivirus](/blog/antivirus?sub=how-to-remove-ransomware-from-pc-2026__faq)** includes real-time file scanning that flags ransomware behavior before files are encrypted. It also blocks known malicious download sources and phishing websites — cutting off the most common delivery routes. It will not recover files that were already encrypted before installation, but it significantly reduces the risk of getting infected in the first place.
 

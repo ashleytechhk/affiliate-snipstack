@@ -60,7 +60,7 @@ Manual backups require remembering to do them, connecting an external hard drive
 
 Automatic backup solves the human problem. You turn it on once. After that, it runs itself. Every time you add a photo, write a document, or update your contacts, the backup runs automatically. You never have to think about it again.
 
-When an antivirus combines real-time threat detection with automatic backup in a single product, you get something genuinely useful: protection that does not require you to do anything to keep working. That is the case for choosing **[antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/) automatic backup feature** over basic, free protection alone.
+When an [antivirus](https://snipstack.io/vs-antivirus-2026/) combines real-time threat detection with automatic backup in a single product, you get something genuinely useful: protection that does not require you to do anything to keep working. That is the case for choosing **[antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/) automatic backup feature** over basic, free protection alone.
 
 ---
 
@@ -96,7 +96,7 @@ When you turn on automatic backup in your [antivirus software](https://snipstack
 
 After that initial setup, it watches those folders for changes. When you add a new photo or save a new document, it quietly copies the new version to the cloud within a short time. You never see it happening. You never have to remember to do anything.
 
-If your computer is ever infected, hit by ransomware, broken, stolen, or simply stops working, you can retrieve all your backed-up files from the cloud onto any device. Your memories and documents are safe, regardless of what happens to your physical computer.
+If your computer is ever infected, hit by ransomware, broken, stolen, or simply stops working, you can retrieve all your backed-up files from the cloud onto any device. Your memories and documents are safe, regardless of [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to your physical computer.
 
 ![Setting up automatic backup in antivirus software — what the screen looks like](/og/antivirus-with-automatic-backup-feature-2026-inline-2.png)
 
@@ -165,7 +165,7 @@ Most paid antivirus products, including [Surfshark Antivirus](https://snipstack.
 
 ### What should I do if I get a pop-up saying my computer is infected?
 
-Do not call any phone number shown in the pop-up. Legitimate security software never asks you to call a number. Close the pop-up by pressing Alt + F4 on your keyboard, or simply restart your computer. Then open your real antivirus software and run a scan to confirm whether a threat was actually detected.
+Do not call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown in the pop-up. Legitimate security software never asks you to call a number. Close the pop-up by pressing Alt + F4 on your keyboard, or simply restart your computer. Then open your real antivirus software and run a scan to confirm whether a threat was actually detected.
 
 ---
 

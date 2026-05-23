@@ -26,7 +26,7 @@ When people search this phrase, they usually mean one of two things:
 
 **1. I want to leave all the mailing lists I'm on in one click** — newsletters, promotional emails, store updates. These senders are almost always legitimate and are legally required to honor unsubscribe requests under CAN-SPAM (US), GDPR (Europe), and similar laws elsewhere.
 
-**2. I want all spam to stop, including the random junk I never signed up for** — pharmacy emails, lottery scams, phishing attempts. These senders have no relationship with you, bought your address from a data broker, and will not honor any opt-out request.
+**2. I want all spam to stop, including the random junk I never signed up for** — pharmacy emails, [lottery scam](https://snipstack.io/lottery-scam-email-how-to-spot-2026/)s, phishing attempts. These senders have no relationship with you, bought your address from a data broker, and will not honor any opt-out request.
 
 Bulk-unsubscribe tools handle the first category extremely well. The second category cannot be unsubscribed from — that address is already on too many lists and the only real solution is eliminating the address's usefulness entirely.
 

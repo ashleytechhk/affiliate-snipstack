@@ -37,7 +37,7 @@ For the spam-exhausted user who wants to start killing junk mail in the next ten
 | **Instant Delete** | Yes | Yes | Yes |
 | **Standalone Price** | Bundled with Surfshark | $36/yr (Premium) | $36/yr (Pro) |
 | **Setup Complexity** | Low — no DNS needed | Medium | Medium-High |
-| **Included In Bundle** | Yes (Surfshark plan) | Proton Pass ecosystem | Standalone only |
+| **Included In Bundle** | Yes (Surfshark plan) | [Proton Pass](https://snipstack.io/proton-pass-email-alias-review-2026/) ecosystem | Standalone only |
 
 *Pricing based on publicly listed plans as of May 2026. Verify at each provider's checkout page — promotional rates change.*
 
@@ -59,7 +59,7 @@ Both approaches stop spam. The difference is setup overhead and whether the rece
 
 ## Alt-ID: Best for Users Who Want Results Today
 
-Surfshark's Alternative ID generates randomised email aliases at a Surfshark-managed domain. There is no custom domain support, and there is no catch-all. What it does have:
+Surfshark's Alternative ID generates randomised [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/)es at a Surfshark-managed domain. There is no custom domain support, and there is no catch-all. What it does have:
 
 - Unlimited aliases (create as many as you need, no cap)
 - Instant delete — one click kills the alias and all spam sent to it stops cold
@@ -141,7 +141,7 @@ No. Alt-ID generates randomised aliases at a Surfshark-managed domain. It does n
 
 Yes. addy.io's free plan includes catch-all on a shared addy.io subdomain (e.g., `anything@username.addy.io`). SimpleLogin and Alt-ID's free tiers do not include catch-all. For custom-domain catch-all, addy.io Lite starts at $12/year.
 
-**What happens to emails sent to a deleted alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to emails sent to a deleted alias?**
 
 Once you delete an alias, the address stops accepting mail. Senders receive a bounce or a non-delivery notification depending on the provider's configuration. Any mail already in transit at the moment of deletion may still deliver briefly — typically within minutes.
 

@@ -77,7 +77,7 @@ What makes it the right fit for survey site signups specifically:
 - **One-click disable.** When a panel starts flooding your inbox, open the Alt ID dashboard, find the alias, toggle it off or delete it. That address stops existing. No unsubscribe forms, no waiting 10 business days for a list removal, no residual emails. The spam stops immediately.
 - **Rarely blocked.** Free throwaway services use well-known domains that survey platforms have started rejecting at registration. Alt ID uses its own domain, which passes most form validation checks.
 
-**Limitation:** Alt ID is not a standalone product — it's included with a Surfshark plan. If you're not already a Surfshark subscriber, the plan also covers VPN, antivirus, and other privacy tools, which makes it good value if you use those features alongside the alias.
+**Limitation:** Alt ID is not a standalone product — it's included with a Surfshark plan. If you're not already a Surfshark subscriber, the plan also covers VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and other privacy tools, which makes it good value if you use those features alongside the alias.
 
 ---
 
