@@ -48,7 +48,7 @@ Criminals target **any** online game where people are relaxed and interacting wi
 
 ## The Four Biggest Threats Inside Online Games
 
-### 1. Fake Virus Pop-Ups (Tech Support Scams)
+### 1. Fake Virus Pop-Ups ([Tech Support Scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s)
 
 This is the most common attack. While you are playing, a message appears — sometimes covering the whole screen — claiming your computer has been infected. It may look like it comes from Microsoft or your [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/). It always includes a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to call.
 

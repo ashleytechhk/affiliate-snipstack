@@ -104,7 +104,7 @@ So if pure virus-catching performance is your measuring stick, Defender is genui
 
 ### Should Seniors Be Worried About Viruses Specifically?
 
-Malware and viruses are real threats, but research consistently shows that the most common attacks targeting older adults are **social engineering scams** — fake tech support calls, phishing emails, and fraudulent websites designed to look trustworthy. These attacks rely on tricking people rather than bypassing [antivirus software](https://snipstack.io/antivirus-software-2026/).
+Malware and viruses are real threats, but research consistently shows that the most common attacks targeting older adults are **social engineering scams** — fake [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) calls, phishing emails, and fraudulent websites designed to look trustworthy. These attacks rely on tricking people rather than bypassing [antivirus software](https://snipstack.io/antivirus-software-2026/).
 
 This is precisely why broader protection (phishing warnings across all browsers, scam call alerts, dark web monitoring) matters alongside traditional antivirus.
 

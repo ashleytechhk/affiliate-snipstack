@@ -177,7 +177,7 @@ One extra tip for SMS: legitimate couriers and banks will never ask you to pay a
 
 ## Voice Phishing (Vishing) — When the Scam Calls You
 
-Voice phishing, or vishing, involves a caller pretending to be from your bank, a government agency, or a tech support team. AI voice cloning has made this more convincing in recent years.
+Voice phishing, or vishing, involves a caller pretending to be from your bank, a government agency, or a [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) team. AI voice cloning has made this more convincing in recent years.
 
 **How to handle suspicious calls:**
 

@@ -134,7 +134,7 @@ AVG Free catches many file-based viruses — but not all, and not ones that live
 
 You are browsing a recipe website and suddenly a full-screen warning appears: "CRITICAL VIRUS DETECTED. Call this number immediately." Your heart races. You call the number. A friendly voice says they can fix it for $299.
 
-This is a scam — a common one called "tech support fraud." AVG Free cannot block the fake webpage that triggers this pop-up. Surfshark's web protection detects and blocks the malicious sites that run these scams before the page even loads.
+This is a scam — a common one called "[tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) fraud." AVG Free cannot block the fake webpage that triggers this pop-up. Surfshark's web protection detects and blocks the malicious sites that run these scams before the page even loads.
 
 ### Scenario 3: The Grandchild Email
 

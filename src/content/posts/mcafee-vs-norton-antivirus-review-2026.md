@@ -164,7 +164,7 @@ Do not wait until something goes wrong. These are the signs that your computer m
 - Friends are receiving strange emails that seem to come from your address
 - You see a message claiming your PC is infected and asking you to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)
 
-**If you see a pop-up asking you to call a [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) tech support — do not call it.** This is one of the most common scams targeting seniors. Real [antivirus software](https://snipstack.io/antivirus-software-2026/) does not ask you to call anyone. Close your browser (press Alt + F4 on Windows), restart your computer, and run a scan.
+**If you see a pop-up asking you to call a [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) — do not call it.** This is one of the most common scams targeting seniors. Real [antivirus software](https://snipstack.io/antivirus-software-2026/) does not ask you to call anyone. Close your browser (press Alt + F4 on Windows), restart your computer, and run a scan.
 
 ![Signs your computer needs antivirus protection — senior safety guide 2026](/og/mcafee-vs-norton-antivirus-review-2026-inline-2.png)
 

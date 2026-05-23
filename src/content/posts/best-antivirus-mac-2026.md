@@ -93,7 +93,7 @@ These are genuine protections, and they do help. But as the section above explai
 
 Cybercriminals increasingly target older adults, because they know this group is less likely to spot the warning signs. These are the most common threats to be aware of:
 
-### Tech Support Scams
+### [Tech Support Scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s
 
 A pop-up appears on your screen. It says your Mac has a virus. It shows an "Apple" logo. It gives you a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to call. **This is a scam.** Real Apple warnings never give you a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/). [Antivirus software](https://snipstack.io/antivirus-software-2026/) can block the websites that trigger these pop-ups.
 

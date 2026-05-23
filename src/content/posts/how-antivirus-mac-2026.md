@@ -36,7 +36,7 @@ Many people believe Macs cannot get viruses. Apple has built some protection int
 - **Phishing websites** — fake bank pages designed to steal your password
 - **Adware** — software that floods your screen with pop-up ads
 - **Spyware** — programs that watch what you type, including passwords
-- **Fake tech support scams** — pop-ups claiming your Mac is infected (they are lying — but the real infection comes when you call the number they show you)
+- **Fake [tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s** — pop-ups claiming your Mac is infected (they are lying — but the real infection comes when you call the number they show you)
 
 These threats have grown significantly in the past two years. Older adults are frequently targeted because scammers know they may be less familiar with warning signs.
 

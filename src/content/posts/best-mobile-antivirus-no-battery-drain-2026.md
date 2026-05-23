@@ -28,7 +28,7 @@ Most antivirus apps drain your battery because they run aggressive, constant sca
 
 Scammers do not pick their victims at random. They specifically target older adults for three reasons:
 
-**Reason 1: Seniors answer the phone.** Younger people screen calls. Many seniors still answer every call, including the ones from fake tech support agents claiming your phone is infected.
+**Reason 1: Seniors answer the phone.** Younger people screen calls. Many seniors still answer every call, including the ones from fake [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) agents claiming your phone is infected.
 
 **Reason 2: Seniors are more trusting of official-looking messages.** A text that appears to come from Medicare, Social Security, or a major bank triggers a sense of urgency that scammers deliberately exploit.
 

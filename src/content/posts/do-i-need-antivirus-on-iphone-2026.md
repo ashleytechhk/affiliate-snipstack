@@ -79,7 +79,7 @@ Your iPhone cannot warn you when this happens to your information. You need a se
 
 ### 4. [Scam Phone](https://snipstack.io/scam-phone-number-lookup-free-2026/) Calls
 
-Scam calls pretending to be from the government, your bank, or tech support are still common. While iPhone has some built-in spam filtering, it is not comprehensive.
+Scam calls pretending to be from the government, your bank, or [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) are still common. While iPhone has some built-in spam filtering, it is not comprehensive.
 
 ![Common iPhone threats seniors face in 2026](/og/do-i-need-antivirus-on-iphone-2026-inline-1.png)
 

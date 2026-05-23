@@ -55,7 +55,7 @@ Before comparing the two products, it helps to understand what threats you actua
 
 The most common threats include:
 
-- **Fake tech support calls** — someone claims your computer is infected and asks you to pay them to fix it or give them remote access
+- **Fake [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) calls** — someone claims your computer is infected and asks you to pay them to fix it or give them remote access
 - **Phishing emails** — messages that look like they come from your bank, Medicare, or the IRS asking for personal information
 - **Ransomware** — software that secretly encrypts all your files and demands payment to unlock them
 - **Fake shopping websites** — online stores designed to steal your credit card number

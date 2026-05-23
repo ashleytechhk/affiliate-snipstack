@@ -173,7 +173,7 @@ Open the antivirus app and check that real-time protection shows as "on" or "act
 
 **What should I do if a pop-up tells me to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to fix a virus?**
 
-Do not call the number. Legitimate antivirus software never asks you to call a phone number. Pop-ups like this are a common scam called "tech support fraud" — criminals pretend your computer is infected to frighten you into calling, then charge you money or ask for remote access to your computer. If you see one of these, close the browser window (or restart your computer if the pop-up will not go away). Then run a scan using your actual antivirus app.
+Do not call the number. Legitimate antivirus software never asks you to call a phone number. Pop-ups like this are a common scam called "[tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) fraud" — criminals pretend your computer is infected to frighten you into calling, then charge you money or ask for remote access to your computer. If you see one of these, close the browser window (or restart your computer if the pop-up will not go away). Then run a scan using your actual antivirus app.
 
 **Is the antivirus the same as the VPN that comes with Surfshark?**
 

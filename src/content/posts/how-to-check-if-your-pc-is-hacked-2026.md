@@ -30,7 +30,7 @@ This can happen in several ways:
 
 - **Malware** — short for "malicious software." A program that sneaks onto your computer, often disguised as something harmless. It can spy on you, slow your machine down, or lock your files.
 - **Phishing** — a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) or website that tricks you into typing your password. Once the attacker has it, they log into your accounts as if they were you.
-- **Remote access tools** — software that lets someone control your screen from far away. Scammers sometimes talk seniors into installing these by pretending to be tech support.
+- **Remote access tools** — software that lets someone control your screen from far away. Scammers sometimes talk seniors into installing these by pretending to be [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/).
 - **Data breaches** — when a company you use (your bank, your email provider) gets attacked and your login details are stolen in bulk.
 
 You do not have to understand every technical detail. What matters is recognizing the signs that something is wrong.

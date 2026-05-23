@@ -30,7 +30,7 @@ Before comparing identification tools, it helps to understand the full picture. 
 
 The typical sequence looks like this:
 
-1. **A fake alert appears on your screen** — a pop-up or browser warning claiming your computer is infected, with a phone number to call
+1. **A fake alert appears on your screen** — a pop-up or browser warning claiming your computer is infected, with a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to call
 2. **A call arrives claiming to be from a tech company** — triggered either by you calling the number in the pop-up, or by the scammer cold-calling from a purchased list
 3. **A follow-up email arrives** — containing a fake invoice, a remote-access link, or a "confirmation" message for a service you never signed up for
 4. **The real damage happens** when you grant remote access, make a payment, or click a link in that email
@@ -45,9 +45,9 @@ Understanding this means you need to identify the scam at multiple points — no
 |---|---|---|---|---|
 | Know the 4 warning signs (manual) | Scam calls in progress | Instant | Low — memorise once | Free |
 | Reverse phone lookup | Caller ID spoofing, known scam numbers | 1–2 min | Low | Free (basic) |
-| Google the phone number | Community-reported scam numbers | 1–2 min | Low | Free |
+| Google the [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) | Community-reported scam numbers | 1–2 min | Low | Free |
 | Check the follow-up email sender | Fake sender domains | 2–3 min | Medium | Free |
-| Surfshark Email Scam Checker | Suspicious links, fake emails, phishing | Under 1 min | Very low — no tech knowledge needed | Free |
+| Surfshark Email Scam Checker | Suspicious links, [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/)s, phishing | Under 1 min | Very low — no tech knowledge needed | Free |
 | Surfshark Alert (monitoring) | Breached data scammers use to target you | Continuous | None — automatic alerts | Paid subscription |
 
 > **Bottom line:** For the phone call itself, manual recognition is fast and free. For the emails and links that follow the call — where the real financial damage happens — Surfshark's Email Scam Checker is the most effective tool for everyday users.

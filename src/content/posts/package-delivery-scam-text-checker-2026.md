@@ -82,7 +82,7 @@ Surfshark's Email Scam Checker is designed for everyday users, not IT profession
 
 Google Safe Browsing and VirusTotal are well-known security tools that let you submit a URL and receive a report on whether it has been flagged as malicious.
 
-**Strengths:** Both tools draw on large, frequently updated databases. VirusTotal aggregates results from over 70 antivirus engines.
+**Strengths:** Both tools draw on large, frequently updated databases. VirusTotal aggregates results from over 70 [antivirus](https://snipstack.io/vs-antivirus-2026/) engines.
 
 **Limitations for seniors and everyday users:**
 

@@ -44,7 +44,7 @@ It helps to understand exactly what you are up against. These are not abstract d
 
 ### Fake "Your Computer Has a Virus" Pop-ups
 
-You are browsing a website and suddenly a large red warning fills your screen: "CRITICAL ALERT — Your computer is infected. Call this number immediately." This is a scam called **scareware**. The goal is to get you to call a fake tech support number where a criminal will ask for remote access to your Chromebook and your credit card details. ChromeOS does not block these sites by default. A good antivirus does.
+You are browsing a website and suddenly a large red warning fills your screen: "CRITICAL ALERT — Your computer is infected. Call this number immediately." This is a scam called **scareware**. The goal is to get you to call a fake [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) number where a criminal will ask for remote access to your Chromebook and your credit card details. ChromeOS does not block these sites by default. A good antivirus does.
 
 ### Phishing Emails Pretending to Be Banks or Delivery Services
 

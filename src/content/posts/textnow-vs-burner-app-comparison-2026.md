@@ -169,13 +169,13 @@ Inconsistently. Burner numbers perform better than TextNow but are still flagged
 
 No. Both TextNow and Burner are limited to US and Canadian numbers. If you are traveling, living abroad, or prefer a local number from another country, neither option applies. [Surfshark Alt-Number](/blog/altnumber?sub=textnow-vs-burner-app-comparison-2026__faq) supports multiple countries.
 
-**Is giving out a virtual number dishonest?**
+**Is giving out a [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) dishonest?**
 
 No. The number is real — it rings, it receives texts, the other person can reach you on it. Using a separate number is no different from using a work phone instead of your personal one. You are protecting your primary identity from someone you just met, which is a reasonable precaution. If things develop, you can share your real number later. If they don't, you have not handed a stranger a permanent thread back to your actual life.
 
-**What happens to my real number when I use a virtual number?**
+**What happens to my real number when I use a [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/)?**
 
-Nothing changes. Your real number stays exactly as it is. The virtual number sits alongside it on your phone, handled through the Alt-Number app. You choose which number to use in which situation. If you disable the virtual number, your real number is completely unaffected.
+Nothing changes. Your real number stays exactly as it is. The [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) sits alongside it on your phone, handled through the Alt-Number app. You choose which number to use in which situation. If you disable the virtual number, your real number is completely unaffected.
 
 **Can the person I matched with figure out it is a virtual number?**
 

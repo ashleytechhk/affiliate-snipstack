@@ -70,7 +70,7 @@ Think of it this way: your NAS is a safe in your home. [Antivirus software](http
 
 ![Step-by-step illustrated guide showing how antivirus protects devices connected to a home NAS network](/og/best-antivirus-for-nas-storage-device-2026-inline-1.png)
 
-## Step-by-Step: How to Protect Your NAS Setup Right Now
+## Step-by-Step: [How to Protect](https://snipstack.io/how-to-protect-against-phishing-emails-2026/) Your NAS Setup Right Now
 
 You do not need technical skills for these steps. Go through each one at your own pace.
 
