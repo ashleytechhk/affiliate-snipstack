@@ -12,7 +12,7 @@ In 2025, a woman in Austin listed her apartment for sublease on Craigslist. With
 
 The FBI's Internet Crime Complaint Center recorded over 91,000 online fraud and harassment reports tied to classified ad platforms in 2024. That number has climbed every year for the past five years. And it doesn't capture the softer harms — the persistent texts, the reverse phone lookups, the strangers who now know your neighborhood because you listed a table for $40.
 
-If you use dating apps *and* post on classified ad sites — Craigslist, OfferUp, Facebook Marketplace, Gumtree — you are running the same phone number through two very different crowds. That's not a privacy strategy. That's an open door.
+If you use dating apps *and* post on classified ad sites — Craigslist, OfferUp, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), Gumtree — you are running the same phone number through two very different crowds. That's not a privacy strategy. That's an open door.
 
 A **[burner number for](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) online classified ads** closes it.
 

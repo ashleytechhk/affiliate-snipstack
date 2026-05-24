@@ -133,7 +133,7 @@ A number that actually works — for both account creation and day-to-day textin
 - **Global availability.** Numbers available in multiple countries. Not restricted to the US or Canada.
 - **No second SIM or [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).** Everything runs through the Surfshark app on your existing device.
 - **Full control.** Disable the number, replace it, or let it run — on your schedule.
-- **Bundled with Surfshark's privacy suite.** The same subscription that covers Alt-Number also includes VPN access and other privacy tools.
+- **Bundled with Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).** The same subscription that covers Alt-Number also includes VPN access and other privacy tools.
 
 The trade-off is that it is a paid service, and it requires the Surfshark app. There is no free tier. But if you are already paying for Burner and running into detection issues, the comparison on cost is closer than it looks — and Alt-Number delivers the reliability Burner cannot.
 
@@ -181,7 +181,7 @@ Nothing changes. Your real number stays exactly as it is. The [virtual number](h
 
 Not from the number itself. Real mobile numbers and VoIP numbers look the same to the person receiving them. If they tried to look it up through a reverse-directory service, it would not connect to your identity — which is the point.
 
-**Is TextNow private if I use a fake email to register?**
+**Is TextNow private if I use a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) to register?**
 
 Less than you might think. TextNow collects data through the app itself, including usage patterns and device identifiers. The email address is just the account entry point. Using a throwaway email reduces one vector but does not make the overall setup private.
 

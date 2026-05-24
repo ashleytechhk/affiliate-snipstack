@@ -46,7 +46,7 @@ Here's the breakdown by use case:
 **Online dating (Tinder, Hinge, Bumble, etc.)**
 You need a number that passes SMS verification reliably. Many dating apps have gotten stricter about VoIP numbers — a lot of free [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) services get flagged and rejected. You want a real mobile number, not a VoIP line.
 
-**Craigslist / Facebook Marketplace**
+**Craigslist / [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/)**
 Any [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) works here. You're protecting against strangers calling your real line, not navigating app-level verification. Google Voice handles this fine.
 
 **Side hustle / freelance**

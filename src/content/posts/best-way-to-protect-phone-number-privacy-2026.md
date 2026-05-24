@@ -108,7 +108,7 @@ Your real number is completely unaffected because it was never the one they had.
 
 The alias number strategy applies wherever your phone number is a liability beyond dating apps.
 
-**Facebook Marketplace and local buy/sell groups.** Exchanging numbers with strangers for a transaction means they hold that number indefinitely. An alias for local commerce keeps you reachable through the deal, then gone after.
+**[Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/) and local buy/sell groups.** Exchanging numbers with strangers for a transaction means they hold that number indefinitely. An alias for local commerce keeps you reachable through the deal, then gone after.
 
 **Subscription and loyalty sign-ups.** Retailers often require a phone number that ends up in marketing lists and, occasionally, breach datasets. An alias here means spam texts go to a number you can swap out rather than your permanent one.
 

@@ -130,12 +130,12 @@ This step is the most practical way to use the tool during a rental search: it i
 
 ---
 
-## What to Do If You Think You Have Found a Scam
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If You Think You Have Found a Scam
 
 If any of the warning signs above appear — particularly if you are feeling rushed — take these steps before you do anything else:
 
 1. **Stop all communication** with the person who contacted you.
-2. **Report the listing** to the platform where you found it. Most sites (Zillow, Craigslist, Facebook Marketplace, Rightmove, Gumtree) have a "Report this listing" button.
+2. **Report the listing** to the platform where you found it. Most sites (Zillow, Craigslist, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), Rightmove, Gumtree) have a "Report this listing" button.
 3. **If you have already sent money**, contact your bank immediately. The faster you act, the better your chances of stopping or reversing the transaction.
 4. **Report to the relevant consumer protection body** — in the US, file at reportfraud.ftc.gov; in the UK, report to Action Fraud.
 

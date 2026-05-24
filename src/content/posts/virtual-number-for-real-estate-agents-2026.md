@@ -129,7 +129,7 @@ The experience from the other person's side is indistinguishable from a normal p
 
 The dating app use case is the clearest, but the same exposure exists anywhere you hand out your number to someone you do not fully trust:
 
-- **Marketplace apps** (Facebook Marketplace, Craigslist, eBay local) — sellers and buyers have your number the moment you arrange a handoff
+- **Marketplace apps** ([Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), Craigslist, eBay local) — sellers and buyers have your number the moment you arrange a handoff
 - **Rental inquiries** — responding to ads puts your number in front of strangers
 - **Freelance or gig work** — clients you have not vetted yet
 - **Event tickets resale** — the buyer needs to contact you to coordinate

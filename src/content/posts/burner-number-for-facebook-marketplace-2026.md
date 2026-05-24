@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Burner number for Facebook Marketplace — protect your real number](/og/burner-number-for-facebook-marketplace-2026.png)
 
-In 2025, a woman in Phoenix listed a couch on Facebook Marketplace. The buyer texted her number three times after she declined the sale. Then he showed up at her apartment. She'd given him her real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) — because Marketplace asks for it — and he used it to find her address.
+In 2025, a woman in Phoenix listed a couch on [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/). The buyer texted her number three times after she declined the sale. Then he showed up at her apartment. She'd given him her real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) — because Marketplace asks for it — and he used it to find her address.
 
 This is not a rare edge case. The FBI's Internet Crime Complaint Center logged over 83,000 online marketplace fraud and harassment complaints in 2024 alone. Facebook Marketplace is the largest peer-to-peer selling platform in the US, and it connects buyers with your personal contact details the moment you post a listing. If you're also using dating apps and meeting people through Marketplace — two habits that increasingly overlap in 2026 — you're handing strangers a direct line to your life.
 

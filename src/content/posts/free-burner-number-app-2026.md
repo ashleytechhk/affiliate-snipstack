@@ -14,7 +14,7 @@ You hesitate — and that hesitation is sensible. Your real [phone number](https
 
 A **[burner number](https://snipstack.io/burner-number-online-2026/)** solves this problem cleanly. You hand out a secondary number, keep your real one completely private, and when a match stops being someone you want to hear from — you burn the number. Clean break. No lingering digits saved in someone's phone.
 
-This guide walks you through [how to get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) a free [burner number](https://snipstack.io/burner-number-free-2026/) app set up for online dating in 2026, step by step. We'll cover what to look for, why free options have limits, and how to get running in under five minutes.
+This guide walks you through [how to get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) a free [burner number](https://snipstack.io/burner-number-free-2026/) app set up for online dating in 2026, step by step. We'll cover what to look for, why free options have limits, and [how to get](https://snipstack.io/how-to-get-international-number-cheaply-2026/) running in under five minutes.
 
 [**Get a burner number with Alt-Number — try it free →**](/blog/altnumber?sub=free-burner-number-app-2026__above-fold)
 

@@ -44,7 +44,7 @@ Here are the most common use cases where a [second number](https://snipstack.io/
 
 **Online dating:** Sharing your real number with someone you met online means they have it forever, regardless of how the relationship goes. A [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) keeps you contactable while maintaining distance until you are sure.
 
-**Marketplace buying and selling:** Listing on Craigslist, Facebook Marketplace, or similar platforms exposes your number to strangers. A [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) keeps the interaction contained.
+**Marketplace buying and selling:** Listing on Craigslist, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), or similar platforms exposes your number to strangers. A [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) keeps the interaction contained.
 
 **Business and freelance separation:** Running a side hustle or freelance business with your personal number bleeds into your personal life. A second dedicated number — and voicemail — makes you look more professional and keeps work calls separate.
 

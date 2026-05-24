@@ -106,8 +106,8 @@ Here is what makes it the right choice for online daters specifically:
 
 Using Alt-Number is faster than most people expect.
 
-**Step 1 — Get Alt-Number via Surfshark One.**
-If you have an existing Surfshark One or One+ subscription, Alt-Number is already available in your account dashboard. If not, use the link below to get set up with a plan that includes it.
+**Step 1 — Get Alt-Number via [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/).**
+If you have an existing [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) or One+ subscription, Alt-Number is already available in your account dashboard. If not, use the link below to get set up with a plan that includes it.
 
 **Step 2 — Generate your masked number.**
 In the Surfshark app, navigate to Alt-Number and select a number. You can choose from available numbers in your region. Copy it.
@@ -156,7 +156,7 @@ When you retire a number, anyone who had it can no longer reach you through call
 Functionally similar, but practically very different. A burner phone requires carrying a second device, buying a prepaid SIM, and managing two phones. A number masking app gives you the same separation — a secondary number that is genuinely separate from your identity — on a single device, with no hardware cost, and with features like call forwarding that make the number behave like a real line.
 
 **Do I need a separate subscription for Alt-Number?**
-No, if you already subscribe to Surfshark One or Surfshark One+. Alt-Number is included in both plans alongside Surfshark VPN, Alt ID (email masking), and Antivirus. If you do not currently subscribe, the One plan is the entry point.
+No, if you already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) or Surfshark One+. Alt-Number is included in both plans alongside Surfshark VPN, Alt ID (email masking), and Antivirus. If you do not currently subscribe, the One plan is the entry point.
 
 **Is this just for online dating or does it have other uses?**
 The same number masking mechanic works anywhere you need to share a contact number with someone you are not sure about yet: online classified buyers and sellers, short-term service providers, casual acquaintances you have just met, or any other situation where sharing your real personal number feels premature. The small business use case — keeping professional contacts off your personal line — is simply the longest-established application of the same principle.

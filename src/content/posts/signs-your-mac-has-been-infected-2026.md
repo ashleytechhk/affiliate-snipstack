@@ -43,7 +43,7 @@ None of these require a virus in the technical sense. But they all signal that y
 
 ---
 
-## The 9 Signs Your Mac Has Been Infected
+## The 9 [Signs Your](https://snipstack.io/signs-your-phone-has-a-virus-2026/) Mac Has Been Infected
 
 ### Sign 1: Your Mac Has Become Noticeably Slower
 
@@ -51,7 +51,7 @@ A Mac that has always been fast but suddenly feels sluggish — taking longer to
 
 This is different from normal aging. A Mac that slows down gradually over years is just getting old. A Mac that slows down suddenly, especially after you opened an attachment or visited an unfamiliar website, deserves a closer look.
 
-**What to do:** Open Activity Monitor (found in Applications > Utilities) and look for any process using a very high percentage of CPU that you do not recognize. Take a screenshot and search the process name online if it looks unfamiliar.
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):** Open Activity Monitor (found in Applications > Utilities) and look for any process using a very high percentage of CPU that you do not recognize. Take a screenshot and search the process name online if it looks unfamiliar.
 
 ---
 
@@ -192,7 +192,7 @@ If you have real-time protection enabled, continuous background scanning means m
 
 **Will antivirus software slow down my Mac?**
 
-Modern antivirus tools, including Surfshark Antivirus, are designed to have minimal impact on everyday performance. Background scanning uses only a small portion of your Mac's resources. You should not notice any slowdown during normal use — email, web browsing, video calls, or streaming. A full manual scan may briefly use more processing power, but most people schedule these for times when the Mac is idle.
+Modern antivirus tools, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), are designed to have minimal impact on everyday performance. Background scanning uses only a small portion of your Mac's resources. You should not notice any slowdown during normal use — email, web browsing, video calls, or streaming. A full manual scan may briefly use more processing power, but most people schedule these for times when the Mac is idle.
 
 ---
 

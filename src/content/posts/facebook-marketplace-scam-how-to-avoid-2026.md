@@ -18,7 +18,7 @@ Facebook Marketplace fraud has grown sharply as the platform has expanded. The s
 
 ## Quick Verdict
 
-Facebook Marketplace scams almost always involve email at some stage — a fake payment confirmation, a phishing link, or a spoofed notification asking for your details. Manual checks (reading the sender address, searching the message text) catch many of them, but they require you to slow down at exactly the moment scammers want you to act fast. Surfshark's Email Scam Checker scans suspicious messages automatically and flags deceptive content, spoofed senders, and malicious links before you do anything irreversible. For anyone who buys or sells on Marketplace regularly, combining both approaches is the practical answer.
+Facebook Marketplace scams almost always involve email at some stage — a fake payment confirmation, a [phishing link](https://snipstack.io/phishing-link-checker-free-2026/), or a spoofed notification asking for your details. Manual checks (reading the sender address, searching the message text) catch many of them, but they require you to slow down at exactly the moment scammers want you to act fast. Surfshark's Email Scam Checker scans suspicious messages automatically and flags deceptive content, spoofed senders, and malicious links before you do anything irreversible. For anyone who buys or sells on Marketplace regularly, combining both approaches is the practical answer.
 
 ---
 
@@ -36,7 +36,7 @@ A buyer sends a physical check or digital transfer for more than the asking pric
 
 ### The Shipping Courier Request
 
-A buyer says they cannot collect in person and will send a courier. They request your personal details — full name, address, sometimes your email and phone number — to "arrange pickup." The courier never arrives; the details go to a fraud database.
+A buyer says they cannot collect in person and will send a courier. They request your personal details — full name, address, sometimes your email and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) — to "arrange pickup." The courier never arrives; the details go to a fraud database.
 
 ### The Phishing Notification
 
@@ -65,7 +65,7 @@ Before diving into how to apply each check, here is how the two approaches stack
 
 ---
 
-## How to Check a Suspicious Email Manually
+## [How to Check](https://snipstack.io/how-to-check-if-a-website-is-safe-2026/) a Suspicious Email Manually
 
 ![Step-by-step guide to inspecting a suspicious Facebook Marketplace email header and sender address](/og/facebook-marketplace-scam-how-to-avoid-2026-inline-1.png)
 

@@ -83,7 +83,7 @@ For domestic US communication where you just want a second line for personal/pro
 
 **Temporary numbers for specific situations. Simple and affordable.**
 
-Hushed specializes in temporary and disposable phone numbers. You buy a number for a week, a month, or longer, use it for whatever you need, and let it expire. The app covers numbers across dozens of countries, and it's particularly popular for marketplace transactions — think buying or selling on Craigslist or Facebook Marketplace where you want a number that can't be traced back to your real identity.
+Hushed specializes in temporary and disposable phone numbers. You buy a number for a week, a month, or longer, use it for whatever you need, and let it expire. The app covers numbers across dozens of countries, and it's particularly popular for marketplace transactions — think buying or selling on Craigslist or [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/) where you want a number that can't be traced back to your real identity.
 
 The app is clean and straightforward. Call quality is good. There's no subscription pressure — you top up credits or buy plans as needed. The downside is that Hushed numbers are VoIP-based, so you'll run into the same verification failures as Google Voice on dating apps and many financial services. It's also not designed for a permanent [second number](https://snipstack.io/second-number-for-discord-account-2026/) — the pricing model is built around short-term use.
 

@@ -26,7 +26,7 @@ For returns tracking specifically, you need an alias that stays alive long enoug
 
 ## Why Returns Tracking Demands a Persistent Alias
 
-Most email alias use cases can tolerate a temporary address. Returns tracking cannot.
+Most [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) use cases can tolerate a temporary address. Returns tracking cannot.
 
 A typical ecommerce return generates between 4 and 8 transactional emails: order cancellation or return request confirmation, prepaid label delivery, carrier pickup scan, warehouse received scan, refund initiated, and refund completed. These arrive over days to weeks — not minutes.
 
@@ -69,7 +69,7 @@ Alt ID is Surfshark's email masking feature, bundled into the Surfshark One and 
 
 **For returns tracking:** Alt ID excels. Forwarding is persistent by default — you do not need to renew or touch anything. The in-app alias list shows you every address you have created, with the ability to label them by store. When a return is complete and you no longer need emails from that retailer, you toggle off forwarding for that alias in one tap.
 
-**The checkout blocking issue:** Domain-based blocking is Alt ID's strongest advantage here. Retailers that screen for disposable email addresses use blocklists of known services. Alt ID's generated addresses use domains that do not appear on those lists. In testing across major US and UK retailers — including platforms known for blocking burner addresses — Alt ID addresses pass checkout validation at a consistently higher rate than DuckDuckGo or Firefox Relay.
+**The checkout blocking issue:** Domain-based blocking is Alt ID's strongest advantage here. Retailers that screen for [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) addresses use blocklists of known services. Alt ID's generated addresses use domains that do not appear on those lists. In testing across major US and UK retailers — including platforms known for blocking burner addresses — Alt ID addresses pass checkout validation at a consistently higher rate than DuckDuckGo or Firefox Relay.
 
 **Cost:** Requires a Surfshark plan. If you already subscribe for the VPN, Alt ID costs nothing extra. If you are signing up fresh, the plan includes VPN plus Alt ID, making the per-feature cost lower than paying for an alias service separately.
 
@@ -177,7 +177,7 @@ The entire setup per store takes under 90 seconds.
 **What is an [email alias for](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/) ecommerce returns tracking?**
 An email alias is a forwarding address that sits between your real inbox and a retailer. You give the alias to the store; they send order and return emails to it; those emails forward to your actual inbox. Your real email address is never exposed, and when you no longer want emails from that retailer, you disable the alias.
 
-**Will retailers accept an email alias for my account?**
+**Will retailers accept an [email alias for](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) my account?**
 Most do. Mainstream retailers — Amazon, eBay, Walmart, ASOS, Zara, and the majority of Shopify-powered stores — accept alias addresses the same as any regular email. The exception is some platforms that actively block known alias domains. Alt ID has the lowest block rate of the tools compared here because its addresses use realistic-looking domains not found on standard blocklists. [See how Alt ID compares →](/blog/altid?sub=email-alias-for-ecommerce-returns-tracking-2026__faq)
 
 **Can I receive return labels and RMA codes through an alias?**

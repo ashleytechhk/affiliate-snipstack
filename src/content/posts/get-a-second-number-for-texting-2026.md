@@ -27,7 +27,7 @@ If you want a real US number that works reliably across SMS apps and dating plat
 Before the steps, here's why people reach for a [burner number](https://snipstack.io/burner-number-for-verification-2026/) — and which use case you probably fall into:
 
 - **Online dating** — Keep your real number off strangers' phones until trust is established. Block cleanly if things go sideways, no awkward "please stop texting me" conversations on your personal line.
-- **Craigslist / Facebook Marketplace / side hustle** — Listing a bike or renting a room? You'll get spam calls for months. A [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) absorbs that noise.
+- **Craigslist / [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/) / side hustle** — Listing a bike or renting a room? You'll get spam calls for months. A [second number](https://snipstack.io/second-number-for-freelance-clients-2026/) absorbs that noise.
 - **Kids' phone safety** — Give a child a texting number that you can monitor or revoke without touching their primary SIM.
 - **Work-life separation** — A dedicated work number that you can silence after hours without putting your personal phone on Do Not Disturb.
 

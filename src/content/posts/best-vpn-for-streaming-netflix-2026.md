@@ -190,7 +190,7 @@ Surfshark's US streaming servers work with Hulu consistently. Note: Hulu require
 
 This is distinct from content access — Spotify's catalog is nearly identical globally. The reason people use VPNs with Spotify is **pricing**: Spotify charges dramatically different subscription prices in different countries due to local purchasing power parity.
 
-Examples of Spotify Premium pricing (approximate, 2026):
+Examples of [Spotify Premium](https://snipstack.io/spotify-premium-vs-ad-blocker-comparison-2026/) pricing (approximate, 2026):
 - **Turkey:** ~$2-3/month equivalent
 - **Argentina:** ~$2-3/month equivalent
 - **India:** ~$2-3/month equivalent

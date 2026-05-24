@@ -132,7 +132,7 @@ Here is what the numbers look like for a cost-motivated subscriber:
 | Service | US Price/month | India Price/month (approx.) | Monthly Saving |
 |---|---|---|---|
 | Netflix Standard | $15.49 | $2.60 | $12.89 |
-| Spotify Premium | $11.99 | $1.50 | $10.49 |
+| [Spotify Premium](https://snipstack.io/spotify-premium-vs-ad-blocker-comparison-2026/) | $11.99 | $1.50 | $10.49 |
 | YouTube Premium | $13.99 | $2.00 | $11.99 |
 
 That is over $35/month in potential savings from three subscriptions alone. A Surfshark two-year plan at $2.19/month has a net monthly value of roughly $33+ once the savings offset the VPN cost — in the first month.
