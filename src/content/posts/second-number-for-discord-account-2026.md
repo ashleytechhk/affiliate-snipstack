@@ -107,7 +107,7 @@ Now that match has your Discord username. They also have access to a fairly pers
 
 The thing about privacy failures is that they are invisible until they are not. You do not know that someone reverse-searched your number until you start getting calls to a phone that is supposed to be unlisted. You do not know that someone rebuilt your identity from your Discord metadata until they say something they could not have known.
 
-A second number costs less per month than a single date. The downside of not having one is potentially much higher.
+A [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) costs less per month than a single date. The downside of not having one is potentially much higher.
 
 ![Device mockup comparison: Discord account verified with a real number vs. a dedicated Alt-Number — showing the clean separation between your identity and your dating presence](/og/second-number-for-discord-account-2026-inline-2.png)
 

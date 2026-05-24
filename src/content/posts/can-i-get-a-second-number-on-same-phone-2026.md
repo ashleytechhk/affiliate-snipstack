@@ -94,7 +94,7 @@ On the privacy side, Google Voice numbers do offer some separation from your rea
 
 **Best standalone paid alternative. Solid dating-app pass rate.**
 
-Hushed is purpose-built for the second number use case: clean app, fast setup, numbers available in the US, Canada, and UK. The pricing model is per-number per month, with a lifetime line option that lowers the long-term economics.
+Hushed is purpose-built for the [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) use case: clean app, fast setup, numbers available in the US, Canada, and UK. The pricing model is per-number per month, with a lifetime line option that lowers the long-term economics.
 
 Hushed numbers come from real carrier ranges in most markets, which gives them meaningfully better pass rates on dating apps than Google Voice or Burner. Not carrier-backed in exactly the same way Alt-Number provisions numbers, but they perform well on Tinder and Hinge in practice.
 

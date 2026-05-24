@@ -50,7 +50,7 @@ Here are the most common use cases where a [second number](https://snipstack.io/
 
 **App and service verification:** Many apps require a [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) signup verification. Using a [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) prevents your real number from getting into their marketing database.
 
-**Spam call protection:** If your current number is already compromised by spam calls, a second number lets you migrate your important contacts to a new number while the old one absorbs the noise.
+**Spam call protection:** If your current number is already compromised by spam calls, a [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) lets you migrate your important contacts to a new number while the old one absorbs the noise.
 
 ---
 

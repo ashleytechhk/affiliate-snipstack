@@ -162,7 +162,7 @@ If you want a [second number for](https://snipstack.io/second-number-for-discord
 
 ## Frequently Asked Questions
 
-### Can dating apps tell I am using a second number?
+### Can dating apps tell I am using a [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/)?
 
 No. A carrier-backed number from Alt-Number or a carrier-range number from Hushed looks identical to a standard mobile number from a match's perspective. Caller ID apps will not flag it as virtual. The person you are texting sees a normal [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) and normal messages. Dating apps cannot tell the difference during or after verification — only during the initial number-type check, which carrier-backed numbers pass.
 

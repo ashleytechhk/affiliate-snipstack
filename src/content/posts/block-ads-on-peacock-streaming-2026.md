@@ -227,7 +227,7 @@ If you're already using a VPN for streaming or privacy, enabling CleanWeb takes 
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Can I block ads on Peacock for free on my phone?",
+      "name": "Can I [block ads on](https://snipstack.io/block-ads-on-pandora-radio-app-2026/) Peacock for free on my phone?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Not completely. Peacock's video ads use server-side injection, which no free tool blocks on mobile. You can reduce tracking and ad infrastructure with a DNS-level blocker, but the video ads themselves require either a Peacock Premium Plus upgrade or technical workarounds with significant tradeoffs."

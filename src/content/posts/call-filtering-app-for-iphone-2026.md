@@ -6,7 +6,7 @@ heroImage: "/og/call-filtering-app-for-iphone-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-In 2025, one in three online daters in the US reported receiving unwanted calls or texts after sharing their number with a match. A significant share of those escalated — repeated calls at 2 a.m., messages from unknown numbers after blocking, one person showing up at a location they had no right to know about. The thread that connected all of them: a real phone number handed over too soon.
+In 2025, one in three online daters in the US reported receiving unwanted calls or texts after sharing their number with a match. A significant share of those escalated — repeated calls at 2 a.m., messages from unknown numbers after blocking, one person showing up at a location they had no right to know about. The thread that connected all of them: a real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) handed over too soon.
 
 Your phone number is not just a contact detail. On an iPhone, it is a key that unlocks your iMessage profile, your FaceTime identity, your WhatsApp photo, your Apple ID region — and, through public data brokers, your full name, home address, and social accounts. Giving it to a stranger on a dating app is handing over more than you realise, and the iPhone's default call handling does nothing to protect you once that number is out.
 
@@ -77,7 +77,7 @@ Surfshark Alt Number is a feature within the Surfshark app for iPhone, available
 
 ### Real Carrier Numbers, Not VOIP Flags
 
-Alt Number assigns numbers from standard mobile carrier allocations. When Tinder or Hinge runs its carrier check during SMS verification, the number looks like a normal mobile line. This matters practically: Google Voice numbers, TextNow numbers, and most other free virtual number services fail these checks routinely. Alt Number passes them.
+Alt Number assigns numbers from standard mobile carrier allocations. When Tinder or Hinge runs its carrier check during SMS verification, the number looks like a normal mobile line. This matters practically: Google Voice numbers, TextNow numbers, and most other free [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) services fail these checks routinely. Alt Number passes them.
 
 ### No Real Number Required at Setup
 
@@ -158,7 +158,7 @@ Yes, significantly. Blocking numbers on your iPhone only affects calls and texts
 Generally yes. Alt Number uses numbers from real mobile carrier pools, which pass the carrier-database checks these apps run during SMS verification. VOIP numbers — including Google Voice — frequently fail these checks. If your goal is to verify a dating account with a number that does not trace back to your real identity, [Alt Number is the more reliable option](/blog/altnumber?sub=call-filtering-app-for-iphone-2026__faq).
 
 **Does my match know my Alt Number is a virtual number?**
-No. Alt Number draws from real carrier allocations, so it appears as a standard mobile number in caller ID, carrier checks, and reverse lookup databases. There is no visible VOIP label or indicator that it is a second number. Your match sees a normal phone number.
+No. Alt Number draws from real carrier allocations, so it appears as a standard mobile number in caller ID, carrier checks, and reverse lookup databases. There is no visible VOIP label or indicator that it is a [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/). Your match sees a normal phone number.
 
 **What happens if I want to completely cut contact with someone?**
 You block their number in the Surfshark app. If the situation is more serious, you can retire the Alt Number entirely and activate a new one. Because your real number was never involved, retiring the Alt Number severs all phone-based contact routed through it — without touching your actual iPhone number or your real carrier account.

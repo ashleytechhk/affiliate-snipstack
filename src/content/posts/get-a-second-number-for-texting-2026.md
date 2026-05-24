@@ -222,7 +222,7 @@ Yes, using a [second phone number](https://snipstack.io/second-phone-number-app-
 **Will the person I text know it's a [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/)?**
 Not from the number alone. A real US number from Alt Number or Hushed looks identical to a carrier-issued number in most apps. Reverse-lookup sites may flag some VOIP numbers — another reason to use a provider with real number inventory.
 
-**Can I use a second number to verify dating apps like Tinder or Bumble?**
+**Can I use a [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) to verify dating apps like Tinder or Bumble?**
 Usually yes, but results vary by provider. Paid providers with real number inventory (Alt Number, Hushed paid tier) have better success rates than Google Voice or TextNow free tier. [Alt Number](https://snipstack.io/blog/altnumber?sub=get-a-second-number-for-texting-2026__faq) is specifically worth trying if you've had VOIP numbers rejected before.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the app — do I lose the number?**

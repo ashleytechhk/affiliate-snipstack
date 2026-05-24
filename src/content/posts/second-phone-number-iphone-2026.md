@@ -119,7 +119,7 @@ When composing a new message or making a call, iOS will show a line selector. Ta
 
 Google Voice, TextNow, and similar VoIP apps are a popular free option. They work for basic texting and are fine for casual use. The limitation that matters for dating: VoIP numbers are widely flagged by carrier-level lookup tools. Someone who wants to check whether your number is "real" can do so with a free website and get an answer in seconds. Dating apps also use these checks during SMS verification — if you try to register a new Tinder account with a VoIP number, it may be rejected outright.
 
-For a second number that looks and behaves like a genuine mobile line, Alt-Number or a carrier eSIM plan are the better choices. VoIP apps are acceptable for filtering early conversations before you decide to share a real contact.
+For a [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) that looks and behaves like a genuine mobile line, Alt-Number or a carrier eSIM plan are the better choices. VoIP apps are acceptable for filtering early conversations before you decide to share a real contact.
 
 ---
 

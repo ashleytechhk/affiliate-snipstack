@@ -22,7 +22,7 @@ An [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) for trave
 
 ---
 
-## Comparison: Email Alias Tools for Travel Booking Sites
+## Comparison: [Email Alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/) Tools for Travel Booking Sites
 
 | Tool | Free to use | Permanent forwarding | Works on Android | Killable on demand | Realistic domain |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@ An [email alias](https://snipstack.io/email-alias-example-2026/) cuts this chain
 
 ### Surfshark Alt-ID
 
-Alt-ID is Surfshark's masked email feature, bundled with every Surfshark subscription. You generate an alias in the Surfshark browser extension, use it when you register on a travel site, and all mail forwards to your real inbox automatically.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email feature, bundled with every Surfshark subscription. You generate an alias in the Surfshark browser extension, use it when you register on a travel site, and all mail forwards to your real inbox automatically.
 
 **Why it works for travel booking:**
 
@@ -174,7 +174,7 @@ An [email alias](https://snipstack.io/how-email-alias-2026/) is a forwarding add
 
 **Will travel booking sites accept an alias email address?**
 
-Most do. Booking.com, Expedia, Airbnb, and most airline booking portals accept any standard-format email address. The only consistent exception is sites that block domains known to be associated with disposable email services. Surfshark Alt-ID uses a realistic domain that is not on common blocklists, which makes it more reliable at check-in than `@duck.com` or `@mozmail.com` addresses.
+Most do. Booking.com, Expedia, Airbnb, and most airline booking portals accept any standard-format email address. The only consistent exception is sites that block domains known to be associated with [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) services. Surfshark Alt-ID uses a realistic domain that is not on common blocklists, which makes it more reliable at check-in than `@duck.com` or `@mozmail.com` addresses.
 
 **Can I still receive booking confirmations and itinerary emails through an alias?**
 

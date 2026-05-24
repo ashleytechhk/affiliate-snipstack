@@ -78,7 +78,7 @@ This is the most important step. The moment you double-click a file on an infect
 Windows may automatically open the drive the moment you plug it in. To stop this from happening:
 
 1. Click the **Start** button and open **Settings**.
-2. Click **Devices** (Windows 10) or **Bluetooth & devices** (Windows 11).
+2. Click **Devices** ([Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/)) or **Bluetooth & devices** (Windows 11).
 3. Click **AutoPlay**.
 4. Turn off the toggle that says **Use AutoPlay for all media and devices**.
 
@@ -151,7 +151,7 @@ Cleaning an infected drive solves the immediate problem. But without ongoing pro
 
 | Approach | Catches Threats Automatically | Requires Technical Knowledge | Cost |
 |---|---|---|---|
-| Windows Defender (built-in) | Partial — depends on settings | Low | Free |
+| [Windows Defender](https://snipstack.io/windows-defender-download-2026/) (built-in) | Partial — depends on settings | Low | Free |
 | [Free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) (on-demand) | No — you scan manually | Low to medium | Free |
 | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) | Yes — real-time, auto scan on connect | Very low | Paid |
 | No antivirus at all | No | None | Free now, costly later |
@@ -172,7 +172,7 @@ Yes, on Windows, it is possible through the AutoPlay feature. When a USB drive i
 
 Run a full antivirus scan on your computer immediately — not just the USB drive, but your entire computer. If malware was activated, it may have already copied itself to your hard drive. Change your passwords after the scan completes, especially for email and banking accounts. If you notice ongoing unusual behaviour after scanning, contact a trusted family member or a local computer repair shop for help.
 
-### Is Windows Defender good enough to clean an infected USB drive?
+### [Is Windows Defender](https://snipstack.io/is-windows-defender-enough-in-2026/) good enough to clean an infected USB drive?
 
 Windows Defender provides a reasonable baseline. It will catch many common USB threats, particularly well-known malware strains. Its weakness is that it can miss newer or more sophisticated threats that professional antivirus databases update faster. For seniors who want reliable, low-effort protection that stays current without manual updates, a dedicated tool is a meaningful step up. [See how Surfshark Antivirus compares &rarr;](/blog/antivirus?sub=how-to-clean-infected-usb-drive-2026__faq)
 

@@ -110,7 +110,7 @@ The cost of a [second number](https://snipstack.io/second-number-with-wifi-calli
 
 ---
 
-## Setting Up Your Lyft Driver Account Second Number: Step by Step
+## Setting Up Your Lyft Driver Account [Second Number](https://snipstack.io/second-number-for-social-media-privacy-2026/): Step by Step
 
 ### Step 1 — Get Alt-Number
 

@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2025, a 67-year-old retired teacher in Arizona lost $14,000 after a fake "virus alert" appeared on her Mac. The pop-up told her to call a phone number. A person claiming to be from Apple's technical support team walked her through "removing the virus" — and in doing so, gained remote access to her bank account. She never clicked a suspicious link. She never downloaded anything unusual. She simply trusted what she saw on her screen.
+In 2025, a 67-year-old retired teacher in Arizona lost $14,000 after a fake "virus alert" appeared on her Mac. The pop-up told her to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). A person claiming to be from Apple's technical support team walked her through "removing the virus" — and in doing so, gained remote access to her bank account. She never clicked a suspicious link. She never downloaded anything unusual. She simply trusted what she saw on her screen.
 
 She is not alone. According to the FBI's Internet Crime Complaint Center, adults over 60 reported over $3.4 billion in losses to cybercrime in a single recent year. Mac users in this age group are increasingly targeted because criminals know that older adults often assume Apple computers are immune to threats.
 
@@ -190,9 +190,9 @@ Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-compa
 
 If you have real-time protection enabled, continuous background scanning means manual scans are less critical. For users relying on scan-only tools, once a week is a sensible schedule. Run an immediate scan any time you notice one of the nine warning signs in this article, after opening a suspicious email attachment, or after downloading something from a website you are not fully confident about.
 
-**Will antivirus software slow down my Mac?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) slow down my Mac?**
 
-Modern antivirus tools, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), are designed to have minimal impact on everyday performance. Background scanning uses only a small portion of your Mac's resources. You should not notice any slowdown during normal use — email, web browsing, video calls, or streaming. A full manual scan may briefly use more processing power, but most people schedule these for times when the Mac is idle.
+Modern [antivirus](https://snipstack.io/vs-antivirus-2026/) tools, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), are designed to have minimal impact on everyday performance. Background scanning uses only a small portion of your Mac's resources. You should not notice any slowdown during normal use — email, web browsing, video calls, or streaming. A full manual scan may briefly use more processing power, but most people schedule these for times when the Mac is idle.
 
 ---
 

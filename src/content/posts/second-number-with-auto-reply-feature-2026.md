@@ -156,7 +156,7 @@ The alias is released after a grace period when a subscription lapses. Before ca
 
 Every time you hand your real phone number to a stranger from a dating app, you are extending the thread that data brokers, reverse-lookup services, and determined bad actors can pull to find you. The auto reply on your personal line confirms you are real and reachable. The people-search sites do the rest.
 
-The fix is a ten-minute setup. A second number from Surfshark Alt-Number absorbs all of the exposure — every SMS verification, every text exchange with a match, every auto reply to someone you are not engaging with. Your real number stays sealed. When something goes wrong, you revoke the alias and start clean.
+The fix is a ten-minute setup. A [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) from Surfshark Alt-Number absorbs all of the exposure — every SMS verification, every text exchange with a match, every auto reply to someone you are not engaging with. Your real number stays sealed. When something goes wrong, you revoke the alias and start clean.
 
 Stop letting dating apps hand your real number to strangers.
 

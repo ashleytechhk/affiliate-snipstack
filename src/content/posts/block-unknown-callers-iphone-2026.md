@@ -198,7 +198,7 @@ If you deactivate or stop using an Alt-Number, messages sent to it may not be de
 
 "Silence Unknown Callers" on iPhone is a useful, free feature that takes thirty seconds to enable. For blocking spam and unknown contacts reaching your real number, turn it on today — there's no reason not to.
 
-But for online dating privacy in 2026, the more meaningful protection is keeping your real number out of the equation entirely. Every match you share your real number with is a permanent exposure. A second number like Surfshark Alt-Number means you can date freely, move off-app at the right moment, and exit cleanly if things go wrong — without the anxiety of a stranger holding your personal contact details indefinitely.
+But for online dating privacy in 2026, the more meaningful protection is keeping your real number out of the equation entirely. Every match you share your real number with is a permanent exposure. A [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) like Surfshark Alt-Number means you can date freely, move off-app at the right moment, and exit cleanly if things go wrong — without the anxiety of a stranger holding your personal contact details indefinitely.
 
 Use Silence Unknown Callers as your safety net. Use Alt-Number as your front line.
 

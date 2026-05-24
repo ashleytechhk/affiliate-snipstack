@@ -78,7 +78,7 @@ An alias number — sometimes called a [second number](https://snipstack.io/seco
 
 When the alias number starts attracting spam, or when a match turns problematic and you want to cut contact completely, you replace the alias. One click. Your real number was never in the picture, so there is nothing left for the person — or the broker — to hold onto.
 
-The key distinction between a [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) and a proper second number for job hunting privacy or dating:
+The key distinction between a [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) and a proper [second number for](https://snipstack.io/second-number-for-social-media-privacy-2026/) job hunting privacy or dating:
 
 - **VoIP numbers** (Google Voice, TextNow, etc.) are frequently flagged by app verification systems and blocked at signup. They also require your real number to set up, which partially defeats the purpose.
 - **Surfshark Alt-Number** provides a real mobile number indistinguishable from a carrier-issued line. Dating apps and job platforms accept it for SMS verification. It is a full number, not a workaround.

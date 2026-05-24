@@ -102,7 +102,7 @@ The DNS method is a solid free baseline. Its limitation is that it only catches 
 
 The most effective way to skip podcast ads automatically on mobile in 2026 is to run a network-level blocker that operates across your entire device, not just inside one browser or app.
 
-**CleanWeb** is Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). It operates through the VPN layer — which means when it is active, every network request from every app on your phone passes through its filter. Known podcast ad server domains, tracking pixels, and ad measurement endpoints are blocked before the audio segment can load.
+**CleanWeb** [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). It operates through the VPN layer — which means when it is active, every network request from every app on your phone passes through its filter. Known podcast ad server domains, tracking pixels, and ad measurement endpoints are blocked before the audio segment can load.
 
 For dynamically inserted podcast ads specifically, this means:
 
@@ -159,7 +159,7 @@ For a listener who wants set-and-forget automatic blocking on mobile without thi
 
 **Can I skip podcast ads automatically without paying for anything?**
 
-Yes, partially. The Private DNS method (AdGuard DNS on Android, or a DNS configuration profile on iOS) is free and blocks dynamically inserted ads from known ad server domains. Coverage is not complete — it depends on the ad server being listed in the blocklist — but it catches a meaningful portion of ads, especially from major podcast networks. [For full device coverage, the VPN-based approach offers more.](/blog/adblock?sub=how-to-skip-podcast-ads-automatically-2026__faq)
+Yes, partially. The Private DNS method ([AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) on Android, or a DNS configuration profile on iOS) is free and blocks dynamically inserted ads from known ad server domains. Coverage is not complete — it depends on the ad server being listed in the blocklist — but it catches a meaningful portion of ads, especially from major podcast networks. [For full device coverage, the VPN-based approach offers more.](/blog/adblock?sub=how-to-skip-podcast-ads-automatically-2026__faq)
 
 **Does this work on Apple Podcasts and Spotify?**
 
