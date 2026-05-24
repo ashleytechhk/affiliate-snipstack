@@ -117,7 +117,7 @@ McAfee's renewal pricing follows the same playbook as Norton — heavy year-one 
 - You've already paid for a multi-year plan and it hasn't renewed yet
 
 **Consider McAfee if:**
-- SMS scam call filtering is your top priority
+- SMS scam [call filtering](https://snipstack.io/call-filtering-app-for-iphone-2026/) is your top priority
 - You have a promotional deal that makes year-one pricing worthwhile
 
 ![iPhone antivirus side-by-side: Surfshark One, Norton, McAfee](/og/antivirus-software-for-iphone-2026-inline-2.png)

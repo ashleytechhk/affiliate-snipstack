@@ -164,7 +164,7 @@ Platform privacy settings control who can see your number within the platform â€
 |---|---|---|
 | Alias number for signups | Surfshark Alt-Number | Real number never on dating apps or social verification |
 | Alias for match conversations | Surfshark Alt-Number | Real number stays private until you choose to share it |
-| Spam call filtering (backup) | Carrier filter + Hiya | Catches traffic that hits your real number from other sources |
+| Spam [call filtering](https://snipstack.io/call-filtering-app-for-iphone-2026/) (backup) | Carrier filter + Hiya | Catches traffic that hits your real number from other sources |
 | VPN (online activity) | Surfshark VPN | Hides IP, encrypts browsing, limits digital fingerprint |
 
 The alias number is the only layer that works before exposure. Everything else manages the consequences of a number that is already out there.

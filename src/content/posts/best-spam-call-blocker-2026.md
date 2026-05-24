@@ -30,7 +30,7 @@ Each option was evaluated on four criteria: how well it stops unwanted calls bef
 
 Alt-Number works independently of your SIM. Calls and texts land in the Alt-Number app, not your default dialler, so your real number stays invisible throughout the dating process. The number looks like a genuine local number to whoever receives it, which means matches will not see a suspicious long-digit virtual line.
 
-The downside is that Alt-Number is a Surfshark subscription add-on rather than a standalone free app. For daters who already value online privacy — and most people who use apps like Hinge or Bumble do — the bundle with Surfshark VPN represents strong value. Call filtering, number privacy, and VPN protection all under one account.
+The downside is that Alt-Number is a Surfshark subscription add-on rather than a standalone free app. For daters who already value online privacy — and most people who use apps like Hinge or Bumble do — the bundle with Surfshark VPN represents strong value. [Call filtering](https://snipstack.io/call-filtering-app-for-iphone-2026/), number privacy, and VPN protection all under one account.
 
 [Try Alt-Number with Surfshark](/blog/surfshark?sub=best-spam-call-blocker-2026__mid)
 

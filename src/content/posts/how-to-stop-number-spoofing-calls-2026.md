@@ -82,7 +82,7 @@ When STIR/SHAKEN is working, your phone or carrier assigns a "verified," "partia
 
 ---
 
-## Layer 2: Call Filtering Apps
+## Layer 2: [Call Filtering App](https://snipstack.io/call-filtering-app-for-iphone-2026/)s
 
 Two apps add meaningful protection on top of carrier filters:
 

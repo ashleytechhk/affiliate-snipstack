@@ -112,8 +112,8 @@ With your PC in Safe Mode, you can now use a scanner to find and remove the rans
 
 **Malwarebytes Free** — Go to malwarebytes.com and download the free version. Install it, let it update its definitions, then click **Scan**. It takes 10 to 20 minutes and will list everything it finds.
 
-**Windows Defender Offline Scan** — This is already built into Windows and does not require a download:
-1. Click **Start** and type **Windows Security**.
+**[Windows Defender](https://snipstack.io/windows-defender-download-2026/) Offline Scan** — This is already built into Windows and does not require a download:
+1. Click **Start** and type **[Windows Security](https://snipstack.io/windows-security-2026/)**.
 2. Press Enter to open it.
 3. Click **Virus & threat protection**.
 4. Scroll down to **Scan options** and click it.
@@ -126,7 +126,7 @@ When the scan is complete, follow the on-screen instructions to remove everythin
 
 ## Step 5 — Recover Your Files From a Backup
 
-Removing the ransomware program itself does not automatically unlock your files. Files that were encrypted before you disconnected the internet may remain locked. Here is how to get them back:
+Removing the ransomware program itself does not automatically unlock your files. Files that were encrypted before you disconnected the internet may remain locked. Here is [how to get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) them back:
 
 **Option A — Restore from a Windows Backup**
 

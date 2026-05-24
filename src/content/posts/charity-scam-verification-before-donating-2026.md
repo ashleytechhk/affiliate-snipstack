@@ -142,7 +142,7 @@ Yes — this is one of the most important things to understand. Scammers frequen
 
 Credit cards and PayPal give you chargeback rights — if the donation turns out to be fraudulent, your bank or PayPal can reverse the charge in many cases. Gift cards, wire transfers, cryptocurrency, and apps like Zelle are effectively irreversible. If a charity's only payment option is one of these, do not donate via that email.
 
-### Is Surfshark's Email Scam Checker free to use?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Email Scam Checker free to use?
 
 The core email sender verification and link scanning is free to use. Surfshark Alert — which adds continuous monitoring of your personal email address against data breach databases — is part of a paid [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) subscription. For most people, the free checker is an excellent starting point for individual charity email checks.
 
