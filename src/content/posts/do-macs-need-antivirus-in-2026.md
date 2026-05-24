@@ -90,7 +90,7 @@ You receive an email that looks like it is from your bank, your energy company, 
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/):** You enter your real password on a fake page. The criminal collects it and uses it within hours — to drain your bank account, make purchases, or sell your details.
 
-### 2. Tech Support Scams
+### 2. [Tech Support Scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s
 
 A pop-up appears warning you that your Mac is infected with a dangerous virus. It looks official. It shows a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) to call. A person answers and, sounding very professional, tells you they need to access your computer remotely to fix it. They then either install real malware, steal your financial information, or charge you hundreds of dollars for "services."
 
@@ -126,7 +126,7 @@ A dedicated security tool does several things Apple's built-in defenses do not.
 
 **Simple, plain-English alerts.** A well-designed security tool for non-technical users gives you clear instructions when it finds something — not an error code or a technical warning that means nothing to you.
 
-[Surfshark Antivirus](/blog/antivirus?sub=do-macs-need-antivirus-in-2026__mid) is built with exactly this kind of user in mind. The dashboard is uncluttered. Alerts explain in plain words what was found and what to do. Setup takes a few minutes and involves no technical knowledge. Plans cover multiple devices — Mac, iPhone, iPad — and start well under $5 a month.
+[Surfshark Antivirus](/blog/antivirus?sub=do-macs-need-antivirus-in-2026__mid) is built with exactly this kind of user in mind. The dashboard is uncluttered. Alerts explain in plain words what was found and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/). Setup takes a few minutes and involves no technical knowledge. Plans cover multiple devices — Mac, iPhone, iPad — and start well under $5 a month.
 
 ---
 
@@ -186,7 +186,7 @@ A well-designed modern antivirus has almost no noticeable impact on everyday Mac
 
 **What if I get a pop-up saying my Mac is infected?**
 
-Do not call any phone number it shows. Do not click any button inside the pop-up. Close your browser using Command + Q, or restart your Mac. Real security warnings from Apple never include a phone number to call. After restarting, if you are worried, run a scan with a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) tool to confirm your Mac is clean.
+Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) it shows. Do not click any button inside the pop-up. Close your browser using Command + Q, or restart your Mac. Real security warnings from Apple never include a phone number to call. After restarting, if you are worried, run a scan with a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) tool to confirm your Mac is clean.
 
 **Is it safe to use online banking on a Mac without antivirus?**
 

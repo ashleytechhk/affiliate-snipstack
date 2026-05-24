@@ -12,7 +12,7 @@ You need to test a contact form. Or verify that an app actually delivers file at
 
 Searching for a "[fake email](https://snipstack.io/fake-email-checker-2026/) sender with attachment" usually leads to two places: shady spoofing tools that exist for fraud, or disposable inbox services that are public, expire in minutes, and cannot handle the attachments you actually need to test.
 
-This guide takes a different approach. You will learn how to use a legitimate, persistent [email alias](https://snipstack.io/email-alias-generator-2026/) to safely stand in for your real address — for form testing, signups, and protecting your primary inbox from the inevitable spam cascade. No spoofing, no phishing, no grey-area tools. Just a smarter setup that actually works.
+This guide takes a different approach. You will learn [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) a legitimate, persistent [email alias](https://snipstack.io/email-alias-generator-2026/) to safely stand in for your real address — for form testing, signups, and protecting your primary inbox from the inevitable spam cascade. No spoofing, no phishing, no grey-area tools. Just a smarter setup that actually works.
 
 > **[Try Surfshark Alt ID — get a private alias that protects your real inbox](/blog/altid?sub=fake-email-sender-with-attachment-2026__above-fold)**
 

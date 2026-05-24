@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 In 2025, the FBI reported that adults over 60 lost more than **$3.4 billion** to internet scams in a single year — more than any other age group. And the number one device used during those attacks? A laptop. Your Chromebook is not automatically safe just because it runs Google software. Scammers do not care what computer you use. They care that you are online.
 
-This guide answers the question directly: **is [antivirus for](https://snipstack.io/antivirus-for-windows-server-2022-2026/) Chromebook users worth it?** For seniors in 2026, the answer is yes — and we will explain exactly why, and what to do about it in plain language.
+This guide answers the question directly: **is [antivirus for](https://snipstack.io/antivirus-for-windows-server-2022-2026/) Chromebook users worth it?** For seniors in 2026, the answer is yes — and we will explain exactly why, and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) about it in plain language.
 
 **Protect your Chromebook right now — before reading further.**
 [Get Surfshark Antivirus — Recommended for Seniors in 2026](/blog/antivirus?sub=antivirus-for-chromebook-users-worth-it-2026__above-fold)

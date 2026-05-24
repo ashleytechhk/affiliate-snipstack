@@ -54,7 +54,7 @@ This is the most common attack. While you are playing, a message appears — som
 
 If you call that number, the person on the other end will ask to connect to your computer remotely. Once they have access, they can steal your files, install real malware, or simply ask you to pay hundreds of dollars to "fix" a problem that never existed.
 
-**What to do instead:** Close the browser or the game by pressing Alt + F4 (Windows) or Command + Q (Mac). Never call a number from a pop-up. Real security warnings from your computer never ask you to call anyone.
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) instead:** Close the browser or the game by pressing Alt + F4 (Windows) or Command + Q (Mac). Never call a number from a pop-up. Real security warnings from your computer never ask you to call anyone.
 
 ### 2. Fake Game Downloads
 

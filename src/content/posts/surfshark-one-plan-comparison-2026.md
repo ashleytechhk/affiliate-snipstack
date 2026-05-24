@@ -109,7 +109,7 @@ Both Starter and One cover unlimited simultaneous devices. This is not marketing
 
 ---
 
-## Making the Switch: What to Do in the First 20 Minutes
+## Making the Switch: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) in the First 20 Minutes
 
 Switching from Norton or McAfee to Surfshark One is straightforward, and the total time from canceling your old subscription to having Surfshark active is typically under 20 minutes.
 

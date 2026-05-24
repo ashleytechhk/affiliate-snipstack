@@ -149,7 +149,7 @@ If the scan finds something, Surfshark shows you a simple description and a **Re
 
 ---
 
-## What to Do After Your First Scan
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) After Your First Scan
 
 Once you have run your first scan, do two more things to keep yourself protected going forward.
 

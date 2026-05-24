@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 Worried your Android phone might pick up a virus? You are not alone. Scams targeting smartphone users have jumped sharply in recent years, and older adults are among the most common targets. The good news: protecting your phone does not have to cost anything — at least to start.
 
-This plain-language guide walks you through exactly what to do, step by step.
+This plain-language guide walks you through exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/), step by step.
 
 ---
 

@@ -12,7 +12,7 @@ You get an email. A stranger on social media says they made $40,000 last month o
 
 You are right to be cautious. Crypto investment fraud is now one of the fastest-growing financial crimes in the world. According to the FBI, Americans alone lost over **$5.6 billion to crypto scams in 2023** — a 45% increase over the previous year. The scams target people of all ages, and many victims describe being convinced even after doing what felt like due diligence.
 
-This guide breaks down nine specific warning signs, shows you how manual checks compare to automated protection, and helps you know what to do the moment something looks suspicious.
+This guide breaks down nine specific warning signs, shows you how manual checks compare to automated protection, and helps you know [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) the moment something looks suspicious.
 
 **[Check a suspicious email or link right now →](/blog/scamcheck?sub=crypto-investment-scam-warning-signs-2026__above-fold)**
 

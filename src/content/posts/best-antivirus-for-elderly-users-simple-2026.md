@@ -111,7 +111,7 @@ You download one file, click through a short setup wizard, and it is done. The w
 
 ### Clean, Uncluttered Dashboard
 
-The main screen shows your protection status in plain language. Green means protected. If something needs attention, the message tells you exactly what happened and what to do — without technical jargon.
+The main screen shows your protection status in plain language. Green means protected. If something needs attention, the message tells you exactly what happened and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) — without technical jargon.
 
 ### Real-Time Web Protection
 

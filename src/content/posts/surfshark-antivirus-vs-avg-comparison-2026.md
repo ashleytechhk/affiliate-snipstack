@@ -164,7 +164,7 @@ Whether you choose Surfshark, AVG, or something else, here is the checklist that
 
 - **Real-time protection is on by default** — not something you have to remember to turn on
 - **Web/phishing protection is included** — not a paid upgrade
-- **Simple, clear alerts** — tells you what happened and what to do, in plain language
+- **Simple, clear alerts** — tells you what happened and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/), in plain language
 - **No aggressive upselling** — you should not feel like the antivirus itself is trying to scam you
 - **Covers multiple devices** — so your tablet and phone are protected too
 - **Independent audit or no-logs policy** — so your private data stays private

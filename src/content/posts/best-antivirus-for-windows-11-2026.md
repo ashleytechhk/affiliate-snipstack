@@ -218,7 +218,7 @@ It depends on the plan you choose. Surfshark offers plans that cover multiple de
 
 ### What should I do if I think my computer is already infected?
 
-Do not panic. Open the Surfshark app and run a **Full Scan** right away. Follow any on-screen instructions to remove threats that are found. If the problem seems serious or you are not sure what to do, contact Surfshark's customer support — they are available 24/7 and can guide you through the process.
+Do not panic. Open the Surfshark app and run a **Full Scan** right away. Follow any on-screen instructions to remove threats that are found. If the problem seems serious or you are not sure [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/), contact Surfshark's customer support — they are available 24/7 and can guide you through the process.
 
 ---
 

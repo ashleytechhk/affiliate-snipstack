@@ -135,7 +135,7 @@ Surfshark's no-logs policy has been independently audited by Cure53. It does not
 
 ## Potential Limitations
 
-**Learning curve for beginners:** The app is clean, but understanding which server to pick for which platform — and what to do when a server stops working — takes a few sessions to figure out. The support documentation is thorough.
+**Learning curve for beginners:** The app is clean, but understanding which server to pick for which platform — and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) when a server stops working — takes a few sessions to figure out. The support documentation is thorough.
 
 **Payment methods for regional arbitrage:** Changing your streaming subscription to a regional price often requires a payment method local to that region. A VPN handles the IP side; you may also need a virtual card or local payment method service. This is not a Surfshark limitation, but a step newer arbitrageurs often miss.
 

@@ -156,7 +156,7 @@ Antivirus is the foundation. On top of that: use a unique password for each fina
 
 ---
 
-## Summary: What to Do Today
+## Summary: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Today
 
 Your retirement savings represent a lifetime of work. Protecting them does not require technical expertise — it requires the right tools in place before a problem occurs.
 

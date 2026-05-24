@@ -62,7 +62,7 @@ Many APK sites host outdated builds. A second-number app from 2023 may have had 
 
 ---
 
-## What to Do Instead: The Safe Android Route
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Instead: The Safe Android Route
 
 ![Android phone showing Surfshark Alt-Number installed from Google Play — no APK sideloading required](/og/second-phone-number-apk-2026-inline-1.png)
 

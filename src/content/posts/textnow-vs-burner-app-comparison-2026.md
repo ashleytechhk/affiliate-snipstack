@@ -92,7 +92,7 @@ The Burner app is built specifically for the use case of disposable numbers. You
 
 **US and Canada only.** Like TextNow, [Burner number](https://snipstack.io/burner-number-for-online-classified-ads-2026/)s are limited to North America. International dating, traveling while using apps, or just preferring a non-US number are all off the table.
 
-**VoIP detection still applies.** [Burner number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/)s are better than TextNow's in terms of detection rate, but they are not immune. High-verification platforms can still flag and reject Burner numbers during SMS confirmation. The success rate varies by platform and over time as detection systems update.
+**VoIP detection still applies.** [Burner number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/)s are better than TextNow's in terms of detection rate, but they are not immune. High-verification platforms can still flag and reject [Burner number](https://snipstack.io/burner-number-for-offerup-listings-2026/)s during SMS confirmation. The success rate varies by platform and over time as detection systems update.
 
 **Number availability is limited.** Depending on your area code preference, the specific number you want may not be available. Popular area codes run thin.
 
@@ -129,9 +129,9 @@ A number that actually works — for both account creation and day-to-day textin
 
 ### Why Alt-Number Works Where Others Fail
 
-- **Real mobile numbers.** Not flagged as VoIP by carrier-detection systems the way TextNow and Burner numbers are.
+- **Real mobile numbers.** Not flagged as VoIP by carrier-detection systems the way TextNow and [Burner number](https://snipstack.io/burner-number-for-contractor-work-2026/)s are.
 - **Global availability.** Numbers available in multiple countries. Not restricted to the US or Canada.
-- **No second SIM or second phone.** Everything runs through the Surfshark app on your existing device.
+- **No second SIM or [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).** Everything runs through the Surfshark app on your existing device.
 - **Full control.** Disable the number, replace it, or let it run — on your schedule.
 - **Bundled with Surfshark's privacy suite.** The same subscription that covers Alt-Number also includes VPN access and other privacy tools.
 

@@ -90,7 +90,7 @@ Where Surfshark occasionally trails the other two is in peak-hour speed consiste
 
 ---
 
-## How to Use a VPN for Sky Go: Step by Step
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) a VPN for Sky Go: Step by Step
 
 Getting set up takes around five minutes, even if you've never used a VPN before.
 

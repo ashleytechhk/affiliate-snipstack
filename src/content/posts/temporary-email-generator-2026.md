@@ -6,7 +6,7 @@ heroImage: "/og/temporary-email-generator-2026.png"
 tags: ["altid", "privacy", "email"]
 ---
 
-# How to Use a [Temporary Email](https://snipstack.io/temporary-email-stop-spam-2026/) Generator to Stop Spam (2026 Guide)
+# [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) a [Temporary Email](https://snipstack.io/temporary-email-stop-spam-2026/) Generator to Stop Spam (2026 Guide)
 
 ![How to use a temporary email generator to stop spam](/og/temporary-email-generator-2026.png)
 

@@ -119,7 +119,7 @@ If you get stuck, Surfshark's customer support team is available 24/7 by live ch
 
 ## How to Replace Kaspersky With Surfshark Antivirus
 
-If you currently have Kaspersky on your computer, here is what to do:
+If you currently have Kaspersky on your computer, here is [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
 ### Step 1 — Remove Kaspersky
 

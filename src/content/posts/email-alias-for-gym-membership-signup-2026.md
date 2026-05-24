@@ -120,7 +120,7 @@ It also gives you no kill-switch. You can filter emails from senders that have y
 
 ---
 
-## How to Use Alt ID for Your Gym Signup (Step-by-Step)
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) Alt ID for Your Gym Signup (Step-by-Step)
 
 **Step 1.** Get Alt ID via a Surfshark plan — [start here](/blog/altid?sub=email-alias-for-gym-membership-signup-2026__mid). Alt ID is included with all plans.
 

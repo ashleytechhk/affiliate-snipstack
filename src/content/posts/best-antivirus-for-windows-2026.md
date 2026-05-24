@@ -97,7 +97,7 @@ Once installed, the app will open and ask for your email and password. Enter the
 
 Click the **Antivirus** section in the left menu, then click **Full Scan**. This checks every file on your computer. It takes about 5–20 minutes depending on how many files you have. You can use your computer while it runs.
 
-If anything suspicious is found, the app will tell you clearly and ask what to do. In most cases, just click **Remove** and the threat will be gone.
+If anything suspicious is found, the app will tell you clearly and ask [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/). In most cases, just click **Remove** and the threat will be gone.
 
 ### Step 9 — Turn On Real-Time Protection
 

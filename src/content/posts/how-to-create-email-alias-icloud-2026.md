@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 If your inbox absorbs 50+ spam emails a day, at least some of them trace back to a real address you handed out — at checkout, during a free trial, at a sign-up wall. The fix is an **[email alias](https://snipstack.io/email-alias-example-2026/)**: a throwaway address that forwards mail to your real inbox while keeping your actual address completely hidden.
 
-iCloud has a built-in alias feature called **Hide My Email**, and it works well — inside Apple's ecosystem. This guide walks you through every step to create one, covers where the feature falls short, and shows you what to do when you need aliases that work everywhere, not just on Apple devices.
+iCloud has a built-in alias feature called **Hide My Email**, and it works well — inside Apple's ecosystem. This guide walks you through every step to create one, covers where the feature falls short, and shows you [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) when you need aliases that work everywhere, not just on Apple devices.
 
 [![Stop spam — try Surfshark Alt-ID free](/og/how-to-create-email-alias-icloud-2026.png)](/blog/altid?sub=how-to-create-email-alias-icloud-2026__above-fold)
 

@@ -142,7 +142,7 @@ Surfshark at $2.19/month with a two-year plan covers unlimited devices with no d
 
 ## How to Download a VPN Safely
 
-Whether you choose a free option or a paid one, the download process matters. Here is what to do:
+Whether you choose a free option or a paid one, the download process matters. Here is [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
 1. **Go directly to the provider's official website** or their App Store / Google Play listing.
 2. **Do not use third-party download sites** — these are the primary vector for fake VPN malware.

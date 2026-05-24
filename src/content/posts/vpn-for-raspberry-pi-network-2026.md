@@ -8,7 +8,7 @@ tags: ["vpn", "privacy", "review"]
 
 You are paying $15 a month for a streaming subscription. Somewhere else in the world, the exact same service costs $4. The only thing standing between you and that price difference is a VPN — and the most powerful way to run one is directly on your home network, through a Raspberry Pi.
 
-This guide explains what a VPN for Raspberry Pi network means, why it beats running a VPN on each individual device, and how to use it to start paying less for the subscriptions you already have.
+This guide explains what a VPN for Raspberry Pi network means, why it beats running a VPN on each individual device, and [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it to start paying less for the subscriptions you already have.
 
 **[Get Surfshark — the recommended VPN for Raspberry Pi home networks →](/blog/vpn?sub=vpn-for-raspberry-pi-network-2026__above-fold)**
 

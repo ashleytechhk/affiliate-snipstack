@@ -55,7 +55,7 @@ None of the free tools watch your back continuously. They are reactive — you h
 
 **What it tells you:** When the domain was registered, who registered it (where public), where the servers are hosted, and when the registration expires.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it:**
 1. Go to `whois.domaintools.com` or `lookup.icann.org`
 2. Enter the full domain (e.g., `suspiciousshop.com`)
 3. Look at the creation date, registrant organisation, and contact details

@@ -145,7 +145,7 @@ Now your Mac will be checked regularly without you needing to do anything.
 
 ### "My Mac says the app is from an unidentified developer"
 
-This is a standard Mac security message — it does not mean anything is wrong. Here is what to do:
+This is a standard Mac security message — it does not mean anything is wrong. Here is [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
 1. Open **System Settings** (or System Preferences on older Macs).
 2. Click **Privacy & Security**.

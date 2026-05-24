@@ -88,7 +88,7 @@ Tech support scammers frequently spoof their caller ID to display a local number
 
 A reverse phone lookup — searching the phone number in a service like Truecaller, Hiya, or a simple Google search — can reveal whether the number has been reported by other people as a scam.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it:**
 
 1. Write down the number that called you (or check your recent calls list)
 2. Paste the full number into Google with the word "scam" (e.g., `+1 800 275 2273 scam`)
@@ -135,7 +135,7 @@ Many people feel more comfortable acting on written communication than on a verb
 
 Others feel reassured by a written record. The email makes the interaction feel more official, which overcomes the hesitation that ended the call.
 
-**What to do:** If you receive a suspicious email after a suspicious call, treat them as connected. Do not call the phone number in the email — it routes back to the same operation. Check the email with Surfshark's Email Scam Checker, then delete both the email and the call log.
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):** If you receive a suspicious email after a suspicious call, treat them as connected. Do not call the phone number in the email — it routes back to the same operation. Check the email with Surfshark's Email Scam Checker, then delete both the email and the call log.
 
 ---
 

@@ -112,7 +112,7 @@ Alt-ID also generates an alternative name and profile details alongside the alia
 
 ---
 
-## How to Use Alt-ID for a Dealership Interaction
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) Alt-ID for a Dealership Interaction
 
 The workflow is simple.
 

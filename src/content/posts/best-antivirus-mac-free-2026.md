@@ -166,7 +166,7 @@ Do not click anything in the pop-up. Do not call any [phone number](https://snip
 
 ---
 
-## You Are Protected — What to Do Next
+## You Are Protected — [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Next
 
 You have now:
 - Turned on Apple's built-in security tools

@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 Your neighbor got a virus on their computer. Your friend clicked a link in an email and lost money to a scam. Now you are worried about your own Windows 11 PC — and you want protection without paying a fortune.
 
-Good news: there is a [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) built right into Windows 11, and it works well. This step-by-step guide will show you [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) that it is running, how to use it, and what else you can do to stay safe — all in plain, simple language. No technical experience needed.
+Good news: there is a [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) built right into Windows 11, and it works well. This step-by-step guide will show you [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) that it is running, [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it, and what else you can do to stay safe — all in plain, simple language. No technical experience needed.
 
 ---
 
@@ -216,7 +216,7 @@ Be careful. There are many websites that offer "free antivirus" downloads but ar
 
 ---
 
-## Summary: What to Do Right Now
+## Summary: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Right Now
 
 Follow these five steps today — they take less than 15 minutes:
 

@@ -163,7 +163,7 @@ Ransomware is malicious software that secretly encrypts your files — scrambles
 
 ### How do I know if my antivirus is protecting me?
 
-Open the Surfshark Antivirus app and look for a green indicator or the words "You are protected." The app shows clearly whether real-time protection is active. You can also run a manual scan at any time by pressing the Scan button. If anything looks red or warning-coloured, tap it for instructions on what to do next.
+Open the Surfshark Antivirus app and look for a green indicator or the words "You are protected." The app shows clearly whether real-time protection is active. You can also run a manual scan at any time by pressing the Scan button. If anything looks red or warning-coloured, tap it for instructions on [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) next.
 
 ### Is it complicated to set up [antivirus for](https://snipstack.io/antivirus-for-linux-ubuntu-users-2026/) multiple devices in my home?
 

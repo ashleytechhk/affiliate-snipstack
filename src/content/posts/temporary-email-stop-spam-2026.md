@@ -93,7 +93,7 @@ Alt-ID also generates alternative identity details (name, date of birth) so you'
 
 ---
 
-## Step-by-Step: How to Use a Temporary Email to Stop Spam
+## Step-by-Step: [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) a Temporary Email to Stop Spam
 
 ### Method A — Free Throwaway (Guerrilla Mail)
 

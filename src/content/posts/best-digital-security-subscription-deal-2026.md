@@ -92,7 +92,7 @@ What's included:
 
 **Antivirus** — Real-time protection, scheduled scans, ransomware defense. Newer to the market than Norton or Bitdefender, but competitive in independent testing and lighter on system resources.
 
-**Surfshark Alert** — Continuous breach monitoring for your email addresses, credit card numbers, and personal IDs. Scans dark web databases and notifies you quickly when something turns up, with clear steps for what to do.
+**Surfshark Alert** — Continuous breach monitoring for your email addresses, credit card numbers, and personal IDs. Scans dark web databases and notifies you quickly when something turns up, with clear steps for [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/).
 
 **Surfshark Search** — A private search engine that doesn't track or log your queries. No Norton or McAfee product includes this.
 

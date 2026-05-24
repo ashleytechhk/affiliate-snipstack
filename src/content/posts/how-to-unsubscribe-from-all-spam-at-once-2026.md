@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 Fifty emails a day. Maybe a hundred. You click unsubscribe, another five arrive tomorrow. You mark them as spam, the filter misses half of them. You search for "how to unsubscribe from all spam at once" because surely there is a button — a single nuclear option — that makes it stop.
 
-There is. Sort of. This guide explains exactly what bulk-unsubscribe tools can and cannot do, how to use them, and why you need a second layer to stop new spam from finding you in the first place.
+There is. Sort of. This guide explains exactly what bulk-unsubscribe tools can and cannot do, [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) them, and why you need a second layer to stop new spam from finding you in the first place.
 
 ![How to unsubscribe from all spam at once — inbox cleanup guide 2026](/og/how-to-unsubscribe-from-all-spam-at-once-2026.png)
 

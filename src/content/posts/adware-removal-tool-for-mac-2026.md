@@ -120,7 +120,7 @@ If you accidentally click a suspicious link in an email, CleanWeb will intercept
 
 ---
 
-## What to Do After Removing Adware
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) After Removing Adware
 
 Once your Mac is clean, take these two extra steps:
 

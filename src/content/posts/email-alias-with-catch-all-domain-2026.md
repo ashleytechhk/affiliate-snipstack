@@ -163,7 +163,7 @@ Potentially, yes. Because a catch-all domain accepts mail sent to any address, i
 
 Catch-all domain aliases are the power-user tool. They let you invent addresses on the fly at the cost of DNS setup overhead and the occasional blast of dictionary-guessed spam. If you own a domain and want that workflow, addy.io is the most capable implementation and its free tier is the cheapest entry point.
 
-For the person who is simply drowning in spam today and wants a clean, unlimited alias system running before their next coffee, Alt-ID skips all of that. No domain to buy, no DNS to configure, no propagation to wait for. Unlimited aliases, instant delete, reply masking — all bundled inside a Surfshark subscription that also covers the VPN, ad blocker, and data breach alerts.
+For the person who is simply drowning in spam today and wants a clean, unlimited alias system running before their next coffee, Alt-ID skips all of that. No domain to buy, no DNS to configure, no propagation to wait for. Unlimited aliases, instant delete, reply masking — all bundled inside a Surfshark subscription that also covers the VPN, [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/), and data breach alerts.
 
 Most spam-exhausted inbox owners are not looking for a catch-all architecture. They are looking for a way to stop the bleeding now. Alt-ID is the faster path to that.
 

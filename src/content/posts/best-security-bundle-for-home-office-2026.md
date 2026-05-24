@@ -89,7 +89,7 @@ Security bundles in 2026 are competing on privacy layers beyond antivirus. Here'
 
 ### Data Breach Monitoring (Alert)
 
-Surfshark Alert monitors your email addresses, credit cards, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s, and ID documents against known data breach databases. When your data appears in a breach, you get a real-time notification with context on what was exposed and what to do about it. This is genuinely useful for home-office workers who use business email for SaaS tools, cloud services, and client portals.
+Surfshark Alert monitors your email addresses, credit cards, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s, and ID documents against known data breach databases. When your data appears in a breach, you get a real-time notification with context on what was exposed and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) about it. This is genuinely useful for home-office workers who use business email for SaaS tools, cloud services, and client portals.
 
 Norton's dark web monitoring is comparable in scope. McAfee's version works but has historically had a slower notification cadence.
 

@@ -142,7 +142,7 @@ This matters more than most alias comparisons acknowledge. Single-service isolat
 
 ---
 
-## What to Do Right Now If Your Address Leaked
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Right Now If Your Address Leaked
 
 1. **Do not unsubscribe from breach-sourced spam.** Clicking unsubscribe confirms your address is active, which can increase volume.
 2. **Set up aggressive Gmail/Outlook filters** for immediate relief — filter by subject-line patterns rather than sender domains (domains rotate; patterns don't).

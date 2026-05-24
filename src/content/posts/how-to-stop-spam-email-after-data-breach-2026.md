@@ -32,7 +32,7 @@ This is damage control, not optional housekeeping.
 
 **Why it matters:** Breached credential databases are often sold alongside plaintext or weakly hashed passwords. If your password is reused anywhere, attackers run it across every major service within minutes using automated tools.
 
-**What to do:**
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):**
 
 1. Go to your breached account's security settings.
 2. Generate a new, unique password — at minimum 16 characters, random. Use your password manager's generator.

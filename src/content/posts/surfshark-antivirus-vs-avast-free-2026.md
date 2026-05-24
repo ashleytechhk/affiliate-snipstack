@@ -164,7 +164,7 @@ A VPN matters most on public Wi-Fi — coffee shops, libraries, airports, and ho
 
 ---
 
-## What to Do Right Now
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Right Now
 
 If you are still running Avast Free, here is a simple checklist:
 

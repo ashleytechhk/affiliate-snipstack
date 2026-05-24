@@ -90,7 +90,7 @@ The only time paying ever made any sense was when no other option existed and th
 
 Safe Mode starts Windows with the absolute minimum — just the essential parts of the operating system, without most programs loading automatically. Ransomware often cannot run properly in Safe Mode, which makes it much easier to remove.
 
-**For Windows 10 or Windows 11:**
+**For [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) or Windows 11:**
 
 1. Click the **Start** button (the Windows logo at the bottom of your screen).
 2. Click the **Power** button (it looks like a circle with a vertical line).
@@ -164,7 +164,7 @@ If you use the same password on multiple sites (very common, and very risky), ch
 
 ---
 
-## How to Protect Yourself Going Forward
+## [How to Protect](https://snipstack.io/how-to-protect-against-phishing-emails-2026/) Yourself Going Forward
 
 Cleaning up after ransomware is stressful and often involves permanent file loss. Preventing it in the first place is far simpler. Here is what actually works:
 
@@ -214,7 +214,7 @@ No More Ransom (nomoreransom.org) is a free initiative backed by Europol, the FB
 
 ---
 
-## Summary: What to Do Right Now
+## Summary: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Right Now
 
 If your PC is showing a ransom demand or your files will not open, do these steps in order:
 

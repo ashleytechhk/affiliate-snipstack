@@ -40,7 +40,7 @@ This distinction matters because most guides on blocking mobile ads assume you'r
 
 This is the free, fully reliable solution for Reddit's mobile website on Android. It does not cover the Reddit app.
 
-**What to do:**
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):**
 1. Install Firefox for Android from the Google Play Store.
 2. Open Firefox, go to Add-ons (the puzzle-piece icon in the menu), and install uBlock Origin.
 3. Open reddit.com in Firefox.

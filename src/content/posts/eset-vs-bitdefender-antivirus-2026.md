@@ -74,7 +74,7 @@ Bitdefender has won more independent antivirus awards than almost any competitor
 
 **Outstanding phishing protection.** Phishing — fake websites and emails designed to steal your information — is the single biggest online threat for older adults. Bitdefender's anti-phishing system is consistently rated among the best in the industry. It checks websites in real time and blocks fakes before you even see them.
 
-**Clear, simple dashboard.** The main screen shows a large green circle labeled "Protected" when everything is fine. That is it. If something needs your attention, a clear plain-language message tells you exactly what to do.
+**Clear, simple dashboard.** The main screen shows a large green circle labeled "Protected" when everything is fine. That is it. If something needs your attention, a clear plain-language message tells you exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/).
 
 **Ransomware protection.** Bitdefender includes dedicated [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) ransomware — the type of attack that locks all your files and demands payment to get them back. This is increasingly common and devastating. ESET also covers ransomware, but Bitdefender's layered approach is slightly more comprehensive.
 

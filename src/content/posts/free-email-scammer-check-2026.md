@@ -37,7 +37,7 @@ That is it. Let us walk through the process.
 
 ## Step 1 — Read the Display Name Carefully, Then Check the Actual Address
 
-**What to do:** Open the email and look at who sent it. Most email apps show a friendly display name like "PayPal Support" — but the real sending address is hidden underneath.
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):** Open the email and look at who sent it. Most email apps show a friendly display name like "PayPal Support" — but the real sending address is hidden underneath.
 
 On Gmail, click the sender name to expand the full address. On Apple Mail or Outlook, hover over or tap the name to reveal it.
 

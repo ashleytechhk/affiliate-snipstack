@@ -117,7 +117,7 @@ It offers no real privacy. The survey platform can see your full tagged address,
 
 ---
 
-## How to Use Alt ID for Survey Site Signups (Step-by-Step)
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) Alt ID for Survey Site Signups (Step-by-Step)
 
 **Step 1.** Get Alt ID via a Surfshark subscription — [start here](/blog/altid?sub=email-alias-for-survey-sites-signup-2026__mid). Alt ID is included with all plans.
 

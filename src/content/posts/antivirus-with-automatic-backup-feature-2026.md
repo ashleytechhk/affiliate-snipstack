@@ -78,7 +78,7 @@ Look for software that backs up your important folders — Documents, Desktop, P
 
 ### Web Protection and Scam Warning
 
-Many attacks start on a website, not a downloaded file. A good antivirus will warn you before you land on a dangerous page — a fake bank login, a fake tech support site, a fake shopping page designed to steal your card number.
+Many attacks start on a website, not a downloaded file. A good antivirus will warn you before you land on a dangerous page — a fake bank login, a fake [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) site, a fake shopping page designed to steal your card number.
 
 ### Simple Interface
 

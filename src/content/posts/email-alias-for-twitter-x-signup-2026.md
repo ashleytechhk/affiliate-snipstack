@@ -68,7 +68,7 @@ SimpleLogin is an open-source alias service with a free tier. It works for X sig
 
 ---
 
-## How to Use Alt ID for Your X Signup
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) Alt ID for Your X Signup
 
 **Step 1.** Set up Surfshark and access Alt ID through the Surfshark browser extension or dashboard. [Start here if you don't have it yet.](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid)
 

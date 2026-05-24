@@ -174,7 +174,7 @@ There are several security apps available for iPhone. The challenge for seniors 
 
 - **One clear status screen** — it shows "Protected" in green or flags a problem in red. There is no guesswork.
 - **Automatic protection** — once set up, it works in the background without requiring daily attention.
-- **Plain-language alerts** — if something needs your attention, the message tells you exactly what to do, not what the technical problem is.
+- **Plain-language alerts** — if something needs your attention, the message tells you exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/), not what the technical problem is.
 - **Covers multiple devices** — one subscription protects your iPhone, your iPad, and a family member's phone simultaneously.
 - **VPN included** — your internet connection is encrypted whenever you connect to public Wi-Fi.
 - **Data breach alerts** — if your email address or password appears in a known data breach, you get a notification immediately.

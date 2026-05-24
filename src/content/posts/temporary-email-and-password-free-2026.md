@@ -68,7 +68,7 @@ You will see a clean interface with two main actions: **Generate Alt ID** (for t
 
 That is it — you now have a working temporary email address. Any message sent to the alias lands in your normal inbox, neatly labeled so you can identify it came through Alt ID.
 
-**How to use it:** When a website demands your email to unlock a discount code, download a PDF, or activate a free trial, paste your Alt ID alias instead of your real address. If spam starts arriving, you delete that alias in one click and create a fresh one. Your real inbox stays clean.
+**[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it:** When a website demands your email to unlock a discount code, download a PDF, or activate a free trial, paste your Alt ID alias instead of your real address. If spam starts arriving, you delete that alias in one click and create a fresh one. Your real inbox stays clean.
 
 > **Red line:** Alt ID is a privacy alias tool — it is not designed to help with account fraud or evading terms of service. Use it for personal privacy only.
 

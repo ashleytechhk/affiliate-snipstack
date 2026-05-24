@@ -102,7 +102,7 @@ The limitation worth flagging: the free tier does not support replying from your
 
 ---
 
-## How to Use an [Email Alias for](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) Pinterest Signup: Step by Step
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) an [Email Alias for](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/) Pinterest Signup: Step by Step
 
 1. Create your alias first — in Alt-ID, SimpleLogin, or your chosen tool — before visiting Pinterest.
 2. Copy the alias address.

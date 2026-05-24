@@ -121,7 +121,7 @@ That is the entire process. Most people complete it in under a minute once they 
 
 ---
 
-## What to Do If a Link Is Flagged as Dangerous
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If a Link Is Flagged as Dangerous
 
 If a url scam checker online flags a link you received by email:
 

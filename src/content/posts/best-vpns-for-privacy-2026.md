@@ -83,7 +83,7 @@ The VPN is the star. Surfshark operates a 3,200+ server network across 100+ coun
 
 ### Alert — Data Breach Monitoring
 
-Surfshark Alert scans data breach databases for your email addresses, credit card numbers, and personal ID numbers. When a match is found, you get an immediate notification with guidance on what to do. Norton's equivalent (LifeLock) costs extra on most plans. McAfee includes a version on higher tiers only.
+Surfshark Alert scans data breach databases for your email addresses, credit card numbers, and personal ID numbers. When a match is found, you get an immediate notification with guidance on [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/). Norton's equivalent (LifeLock) costs extra on most plans. McAfee includes a version on higher tiers only.
 
 ### Search — Private by Default
 

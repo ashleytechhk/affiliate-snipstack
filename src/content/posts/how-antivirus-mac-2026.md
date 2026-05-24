@@ -75,7 +75,7 @@ The file that downloads will be called something like `Surfshark_Setup.dmg`. It 
 
 ## Step 3: Install the App
 
-Installing on a Mac is different from Windows. Here is exactly what to do:
+Installing on a Mac is different from Windows. Here is exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
 1. Find the downloaded file — it ends in `.dmg`. Double-click it.
 2. A window will open showing the Surfshark icon and an Applications folder.

@@ -133,7 +133,7 @@ Modern security software does both. Here is how it helps specifically with phish
 
 ---
 
-## Step-by-Step: What to Do When a Suspicious Email Arrives
+## Step-by-Step: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) When a Suspicious Email Arrives
 
 ![Checking a suspicious email on a laptop — step by step for seniors](/og/how-to-protect-against-phishing-emails-2026-inline-2.png)
 

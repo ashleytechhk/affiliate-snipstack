@@ -125,7 +125,7 @@ If a caller claims to be from the SSA and does anything on the "will never" list
 
 ---
 
-## If You Already Responded: What to Do Now
+## If You Already Responded: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Now
 
 If you gave out personal information or sent money, act immediately. The steps below are time-sensitive.
 

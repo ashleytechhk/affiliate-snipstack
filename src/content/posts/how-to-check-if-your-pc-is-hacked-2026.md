@@ -115,7 +115,7 @@ You can download Autoruns from Microsoft's official website (microsoft.com/sysin
 
 ---
 
-## What to Do If You Find Something
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If You Find Something
 
 If any of the steps above turns up something suspicious:
 

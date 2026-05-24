@@ -38,7 +38,7 @@ Most scam websites fail on at least one of these three counts. The checks below 
 
 This takes five seconds and catches a large share of fake sites immediately.
 
-**What to do:** Look at the address bar in your browser before you do anything else.
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):** Look at the address bar in your browser before you do anything else.
 
 **What you are looking for:**
 
@@ -60,7 +60,7 @@ This takes five seconds and catches a large share of fake sites immediately.
 
 Google Safe Browsing is a free tool that checks a URL against Google's constantly updated list of phishing sites, malware distributors, and deceptive pages.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it:**
 
 1. Copy the full URL of the site you want to check
 2. Go to `transparencyreport.google.com/safe-browsing/search`

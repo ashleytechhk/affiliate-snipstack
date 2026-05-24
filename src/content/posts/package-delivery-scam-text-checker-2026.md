@@ -65,7 +65,7 @@ Surfshark's Email Scam Checker is designed for everyday users, not IT profession
 
 **Who it is for:** Anyone who gets delivery notifications and wants a fast, clear answer without any technical background.
 
-**How to use it for a package delivery scam text:**
+**[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it for a package delivery scam text:**
 
 1. Long-press the link in the suspicious text message to copy it (do not tap to open it)
 2. Open a browser tab and go to the checker via [this link](/blog/scamcheck?sub=package-delivery-scam-text-checker-2026__mid)
@@ -160,7 +160,7 @@ Surfshark's Email Scam Checker meets all four criteria. The others meet some of 
 
 ---
 
-## What to Do If You Already Clicked the Link
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If You Already Clicked the Link
 
 If you tapped the link before checking it, take these steps immediately:
 

@@ -72,7 +72,7 @@ The FCC mandated STIR/SHAKEN implementation for major carriers starting in 2021.
 
 When STIR/SHAKEN is working, your phone or carrier assigns a "verified," "partially verified," or "unverified" status to incoming calls. Calls with forged caller IDs often display as "Spam Risk," "Scam Likely," or show no label at all instead of the spoofed name.
 
-**What to do:**
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):**
 
 - On AT&T: Enable **ActiveArmor** through the AT&T app. It uses STIR/SHAKEN data plus AT&T's own fraud network to label and optionally block suspected scam calls.
 - On Verizon: Enable **Call Filter** through the My Verizon app. The free tier labels spam; the paid tier adds automatic blocking.

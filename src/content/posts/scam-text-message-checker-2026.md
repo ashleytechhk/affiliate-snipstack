@@ -108,7 +108,7 @@ The honest answer is: it depends on how much scam traffic you already receive an
 
 ## [How to Check](https://snipstack.io/how-to-check-if-a-website-is-safe-2026/) a Suspicious Text Message Right Now
 
-You just received a text you are not sure about. Here is what to do before you tap anything.
+You just received a text you are not sure about. Here is [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) before you tap anything.
 
 ### Step 1 — Do Not Tap the Link
 

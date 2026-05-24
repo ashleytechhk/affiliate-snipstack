@@ -108,7 +108,7 @@ Click **"Complete Purchase"** or **"Start Protection."** You will receive a conf
 
 ## Step 4 — Download and Install the App
 
-After your account is created, the website will show a large **"Download"** button. Here is what to do:
+After your account is created, the website will show a large **"Download"** button. Here is [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
 1. Click **"Download."** A file will appear at the bottom of your screen or in your Downloads folder.
 2. Double-click the downloaded file to open it.

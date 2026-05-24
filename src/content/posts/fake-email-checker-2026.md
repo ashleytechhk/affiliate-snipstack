@@ -47,7 +47,7 @@ If you do not have a Surfshark account yet, **[grab one here](/blog/surfshark?su
 
 ---
 
-## Step-by-Step: How to Use Alt ID as a Fake Email Shield
+## Step-by-Step: [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) Alt ID as a Fake Email Shield
 
 ### Step 1 — Log in to Your Surfshark Account
 

@@ -130,7 +130,7 @@ This does not replace reading the email carefully — a brand-new scam address w
 
 ---
 
-## What to Do If You've Already Responded
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If You've Already Responded
 
 If you replied to a job scam email, clicked a link, or shared personal information, take these steps immediately:
 

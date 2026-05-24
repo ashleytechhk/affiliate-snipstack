@@ -81,7 +81,7 @@ This is the layer that Surfshark's Email Scam Checker covers.
 
 **Surfaces domain registration red flags.** Scam domains are often registered very recently — days or weeks before the campaign launches. A donation link pointing to a domain registered three weeks ago, claiming to represent a charity founded in 1987, is a major warning sign. The checker surfaces this automatically.
 
-### How to use it — step by step
+### [How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it — step by step
 
 **Step 1: Do not click the donation link yet.** The urgency in charity scam emails — "donate in the next 24 hours to help disaster victims" — is designed to make you act without checking. Pause.
 
@@ -89,7 +89,7 @@ This is the layer that Surfshark's Email Scam Checker covers.
 
 **Step 3: Go to the Email Scam Checker.** Open a new tab and [navigate to the checker here](/blog/scamcheck?sub=charity-scam-verification-before-donating-2026__mid). Paste the link into the scan field and run the check.
 
-**Step 4: Read the result.** No technical knowledge required. If the checker flags the link or sender as suspicious, do not donate via that email. Go directly to the charity's real website by typing the address yourself, or call their published phone number.
+**Step 4: Read the result.** No technical knowledge required. If the checker flags the link or sender as suspicious, do not donate via that email. Go directly to the charity's real website by typing the address yourself, or call their published [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/).
 
 ---
 
@@ -144,7 +144,7 @@ Credit cards and PayPal give you chargeback rights — if the donation turns out
 
 ### Is Surfshark's Email Scam Checker free to use?
 
-The core email sender verification and link scanning is free to use. Surfshark Alert — which adds continuous monitoring of your personal email address against data breach databases — is part of a paid Surfshark One subscription. For most people, the free checker is an excellent starting point for individual charity email checks.
+The core email sender verification and link scanning is free to use. Surfshark Alert — which adds continuous monitoring of your personal email address against data breach databases — is part of a paid [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) subscription. For most people, the free checker is an excellent starting point for individual charity email checks.
 
 ### What should I do if I already donated to what might be a scam?
 

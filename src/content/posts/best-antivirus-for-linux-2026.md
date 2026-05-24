@@ -119,7 +119,7 @@ Protection should not cost a fortune. Surfshark Antivirus is priced accessibly, 
 
 ## [How to Get](https://snipstack.io/how-to-get-us-phone-number-abroad-2026/) Started in 3 Simple Steps
 
-Getting protected takes less than ten minutes. Here is exactly what to do:
+Getting protected takes less than ten minutes. Here is exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
 **Step 1:** Click the link below to go to the Surfshark Antivirus page.
 

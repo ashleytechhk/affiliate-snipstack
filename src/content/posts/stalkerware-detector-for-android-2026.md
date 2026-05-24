@@ -140,7 +140,7 @@ Our broader guide to the [best antivirus for Android in 2026](/best-antivirus-fo
 
 ## [What Happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) After You Remove Stalkerware?
 
-Removing the stalkerware is the right first step, but it is not the only one. Here is what to do next:
+Removing the stalkerware is the right first step, but it is not the only one. Here is [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) next:
 
 **Tell someone you trust.** If you believe someone put stalkerware on your phone intentionally to control or spy on you, this is a serious matter. A trusted family member, a solicitor, or in urgent situations, your local police, can help.
 

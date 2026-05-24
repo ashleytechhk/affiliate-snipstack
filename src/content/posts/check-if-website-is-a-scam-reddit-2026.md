@@ -161,7 +161,7 @@ It also monitors whether your email address has appeared in data breaches, which
 
 ## Troubleshooting: What If All the Checks Come Back Clean?
 
-A clean result does not always mean a site is safe. Here is what to do when the tools show nothing suspicious but your instincts are still telling you something is wrong:
+A clean result does not always mean a site is safe. Here is [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) when the tools show nothing suspicious but your instincts are still telling you something is wrong:
 
 **The domain is too new for the databases to have caught it.** Scam sites are often operational for only a few days before being taken down and replaced with a new domain. Databases lag. If the domain was registered in the last 7 to 14 days, treat it with heightened suspicion regardless of what the automated checkers say.
 

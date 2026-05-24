@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 In 2023, the FBI reported that Americans over 60 lost **$3.4 billion** to internet crime — more than any other age group. That number has grown every year since. And the device sitting on your lap right now — your Surface Pro — is one of their favourite targets.
 
-This guide is written in plain English. No technical jargon. By the end, you will know exactly which [antivirus](https://snipstack.io/vs-antivirus-2026/) to put on your Surface Pro, how to install it in about ten minutes, and what to do if you think something has already gone wrong.
+This guide is written in plain English. No technical jargon. By the end, you will know exactly which [antivirus](https://snipstack.io/vs-antivirus-2026/) to put on your Surface Pro, how to install it in about ten minutes, and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) if you think something has already gone wrong.
 
 **Want protection right now, before reading further?** [Get Surfshark Antivirus for your Surface Pro — simple one-click install](/blog/antivirus?sub=best-antivirus-for-surface-pro-2026__above-fold)
 

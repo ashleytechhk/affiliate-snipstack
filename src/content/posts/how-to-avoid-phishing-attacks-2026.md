@@ -76,7 +76,7 @@ This is the most important rule in the entire guide.
 
 Even if a link looks legitimate, even if it takes you to a page that looks exactly like your bank's login screen, do not type your password there.
 
-**What to do instead:**
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) instead:**
 
 1. Close the email or tab.
 2. Open a new browser tab.
@@ -131,7 +131,7 @@ Before opening any link you are unsure about — in email, SMS, or social media 
 
 Surfshark Alert includes a scam URL checker that cross-references links against databases of known phishing and malware sites. It takes seconds and can save you from a very bad day.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it:**
 
 1. Copy the suspicious link (right-click → Copy Link Address, or press and hold on mobile).
 2. Open the scam checker tool.
