@@ -55,7 +55,7 @@ Surfshark's Email Scam Checker verifies sender domain authenticity automatically
 
 ---
 
-## Red Flag 2: A Free Email Address for a Corporate Recruiter
+## Red Flag 2: A [Free Email](https://snipstack.io/free-email-scammer-check-gmail-2026/) Address for a Corporate Recruiter
 
 Legitimate corporate recruiters email from company domains — `@google.com`, `@deloitte.com`, `@accenture.com`. A recruiter claiming to represent a well-known company but emailing from `linkedin.recruiter.2026@gmail.com` or a similar free-provider address is not who they say they are.
 
@@ -79,7 +79,7 @@ Generic greetings alone are not definitive proof of a scam; some legitimate recr
 
 LinkedIn has its own messaging system. Legitimate recruiters are comfortable using it. A red flag appears when an email — or an initial LinkedIn message — quickly pushes you to continue the conversation on WhatsApp, Telegram, or a personal email address outside any traceable platform.
 
-Scammers prefer private messaging apps because those conversations cannot be reported to LinkedIn, leave no platform record, and allow them to build a false sense of personal rapport before the ask for money or personal information arrives. If a recruiter's first or second message includes a phone number and a request to move to WhatsApp, pause before responding.
+Scammers prefer private messaging apps because those conversations cannot be reported to LinkedIn, leave no platform record, and allow them to build a false sense of personal rapport before the ask for money or personal information arrives. If a recruiter's first or second message includes a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) and a request to move to WhatsApp, pause before responding.
 
 ---
 

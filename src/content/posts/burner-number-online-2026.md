@@ -168,7 +168,7 @@ For most people dating in 2026 — across multiple apps, potentially multiple co
 
 ## FAQ
 
-**Can I get a burner number online for free?**
+**Can I get a [burner number](https://snipstack.io/burner-number-for-renting-property-2026/) online for free?**
 
 Google Voice is free and is technically a burner number you get online. The tradeoff is that it is tied to your Google account, works in the US only, and its numbers are flagged as VoIP in most lookup tools — so tech-savvy matches may notice. For actual privacy with a number that looks real, a paid service like Alt-Number is the better call.
 

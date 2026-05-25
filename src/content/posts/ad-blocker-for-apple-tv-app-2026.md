@@ -254,7 +254,7 @@ Either way, browser extensions are not the answer here. Pick a tool that works a
     },
     {
       "@type": "Question",
-      "name": "Is it legal to use an ad blocker on streaming apps?",
+      "name": "Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-podcast-apps-ios-2026/) on streaming apps?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Ad blocking is a consumer choice about what content your device loads. There are no laws requiring you to view advertising. Some services may include ad viewing in their terms of service for free tiers, but this is a contractual matter between you and the service — not a legal issue."

@@ -60,7 +60,7 @@ Watch for these signs after plugging in a USB drive:
 - Your computer is noticeably slower than usual
 - Programs open or close without you doing anything
 - Your browser home page has changed
-- Your antivirus software has turned itself off or disappeared
+- Your [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) has turned itself off or disappeared
 - An unfamiliar program is asking for your password or credit card details
 
 If you notice any of these, stop using the drive immediately and do not open any files on it until you have completed the steps below.
@@ -86,7 +86,7 @@ On a Mac, AutoPlay is not a concern — macOS does not run files automatically w
 
 ### Step 3 — Run a Full Antivirus Scan on the Drive
 
-This is the step that actually removes the malware. You need antivirus software installed on your computer to do this.
+This is the step that actually removes the malware. You need [antivirus software](https://snipstack.io/antivirus-software-2026/) installed on your computer to do this.
 
 **If you already have antivirus software:**
 1. Open your antivirus program.
@@ -190,7 +190,7 @@ Reformatting wipes the drive completely, including any malware stored on it. It 
 
 ### How do I know if my USB drive is safe before giving it to someone else?
 
-Scan it with a reputable antivirus before passing it on. Run a full scan, wait for it to complete, and confirm no threats were found. If you use a real-time antivirus tool, the scan happens automatically whenever you connect the drive. You can then share the drive with confidence that it is clean.
+Scan it with a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) before passing it on. Run a full scan, wait for it to complete, and confirm no threats were found. If you use a real-time antivirus tool, the scan happens automatically whenever you connect the drive. You can then share the drive with confidence that it is clean.
 
 ---
 

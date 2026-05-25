@@ -166,7 +166,7 @@ Your listings remain live — only the contact number changes. If you re-post wi
 
 Both. Incoming calls to your Alt-Number ring through the Surfshark app on your phone. You can answer, decline, or let it go to voicemail. For classified ads, where most initial contact is by text, this is rarely the primary use — but it works for calls when needed.
 
-**I already use a dating app with my real number. Does a burner number for classified ads still help?**
+**I already use a dating app with my real number. Does a [burner number for](https://snipstack.io/burner-number-for-renting-property-2026/) classified ads still help?**
 
 Yes. The goal is to prevent cross-platform identification — the linking of your dating profile to your physical location through a shared phone number. Using a separate number for classified ads removes the bridge between your listing and your dating identity. Even if your dating app has your real number, there's no reason your Craigslist listing needs to connect to it.
 

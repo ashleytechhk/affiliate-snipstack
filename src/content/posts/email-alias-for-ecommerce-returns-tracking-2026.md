@@ -65,7 +65,7 @@ All four tools below are measured against these four criteria.
 
 ### Surfshark Alt ID
 
-Alt ID is Surfshark's email masking feature, bundled into the Surfshark One and Surfshark One+ plans. You generate a new alias inside the Surfshark app — desktop or mobile — and get a forwarding address that routes to your real inbox. The address uses a custom domain that looks like a plausible personal email, not a known alias service.
+Alt ID is Surfshark's email masking feature, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ plans. You generate a new alias inside the Surfshark app — desktop or mobile — and get a forwarding address that routes to your real inbox. The address uses a custom domain that looks like a plausible personal email, not a known alias service.
 
 **For returns tracking:** Alt ID excels. Forwarding is persistent by default — you do not need to renew or touch anything. The in-app alias list shows you every address you have created, with the ability to label them by store. When a return is complete and you no longer need emails from that retailer, you toggle off forwarding for that alias in one tap.
 
@@ -198,6 +198,6 @@ DuckDuckGo Email Protection is the only truly free unlimited option. Apple Hide 
 
 Your inbox is not a loyalty program. Every retailer that has your real address has a permanent line to your attention — return tracking emails compete with flash sales, "you might also like" sequences, and reactivation campaigns.
 
-An email alias per store is the structural fix: clean forwarding for the emails you need, a hard off-switch for everything else. For returns tracking specifically, where the forwarding window stretches over days or weeks, you need a tool that stays alive and passes checkout. Among the four options compared here, Alt ID hits all the marks — realistic domains, persistent forwarding, unlimited aliases, and a management interface that does not require you to dig through browser settings to flip a switch.
+An [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/) per store is the structural fix: clean forwarding for the emails you need, a hard off-switch for everything else. For returns tracking specifically, where the forwarding window stretches over days or weeks, you need a tool that stays alive and passes checkout. Among the four options compared here, Alt ID hits all the marks — realistic domains, persistent forwarding, unlimited aliases, and a management interface that does not require you to dig through browser settings to flip a switch.
 
 [Try Surfshark Alt ID — unlimited aliases, no checkout friction →](/blog/altid?sub=email-alias-for-ecommerce-returns-tracking-2026__cta)

@@ -119,7 +119,7 @@ Some malware creates fake authentication prompts to harvest your Apple ID creden
 
 This is the most dangerous sign on the list — not because it means your Mac is definitely infected, but because it is designed to frighten you into taking an action that creates the infection (or a far worse problem).
 
-Fake virus alerts mimic Apple's design. They may display a realistic-looking warning, a countdown timer, or a phone number to call. They sometimes lock your browser so it appears you cannot close the tab. If this happens:
+Fake virus alerts mimic Apple's design. They may display a realistic-looking warning, a countdown timer, or a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to call. They sometimes lock your browser so it appears you cannot close the tab. If this happens:
 
 1. Do not call any phone number shown on the screen.
 2. Do not enter any personal information.

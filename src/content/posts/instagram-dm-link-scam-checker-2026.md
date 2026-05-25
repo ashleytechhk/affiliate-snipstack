@@ -175,7 +175,7 @@ Yes. All five tools covered in this comparison work in a mobile browser. Surfsha
 
 Instagram has some basic safety features — it may display a warning before opening certain known-bad links. But like Google Safe Browsing, this only catches established threats that have already been reported. Fresh phishing links created this week specifically for a DM campaign will often pass through without a warning. A dedicated checker gives you a real-time second opinion that platform-level filters miss.
 
-### Is Surfshark's checker really free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s checker really free?
 
 The core link-scanning feature is free — no account required to check individual links. A subscription adds Surfshark Alert, which monitors whether your personal email address or other details have appeared in data breaches. This matters for Instagram DM safety because scammers use leaked data to personalise their attacks and make their messages more convincing.
 

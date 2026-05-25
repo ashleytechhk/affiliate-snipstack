@@ -157,7 +157,7 @@ DNS-level filtering adds a very small lookup delay — typically under 5 millise
 
 Yes. CleanWeb runs on Android tablets and iPads through the same Surfshark app. The setup steps are identical. If your child uses a Fire tablet, note that the Amazon App Store version may differ; sideloading the Android APK is an option, but consult Surfshark's support documentation for the current recommended method for Fire OS.
 
-**Is it legal to use an ad blocker on a child's device?**
+**Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-podcast-apps-ios-2026/) on a child's device?**
 
 Yes. Using software to filter network requests on a device you own or manage is legal in all major jurisdictions. Privacy regulations in some regions actually encourage or require parental tools that limit data collection from minors — a network-level ad blocker supports compliance with those goals by preventing tracker calls from leaving the device.
 
