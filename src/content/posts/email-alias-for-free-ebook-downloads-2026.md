@@ -91,7 +91,7 @@ For a spam-exhausted inbox owner specifically, the differences between tools com
 
 **"Am I on Apple devices exclusively?"** If yes, Hide My Email is already available if you pay for iCloud+. It integrates directly into Safari's autofill, so you never manually manage aliases — Safari generates and fills them automatically whenever a sign-up form appears. The limitation: it only works within Apple's ecosystem. On Windows, Android, or non-Safari browsers, Hide My Email is unavailable.
 
-**"Do I want completely free with no ecosystem lock-in?"** DuckDuckGo Email Protection is the answer. It is free, unlimited, and works in any browser with the DuckDuckGo extension. The trade-off: the `@duck.com` domain is visibly an alias domain, which some aggressive validators reject.
+**"Do I want completely free with no ecosystem lock-in?"** DuckDuckGo Email Protection is the answer. It is free, unlimited, and works in any [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) the DuckDuckGo extension. The trade-off: the `@duck.com` domain is visibly an alias domain, which some aggressive validators reject.
 
 **"Do I want open-source and don't mind a 15-alias free cap?"** SimpleLogin is worth considering. It is audited, open-source, and lets you use custom domains on paid tiers. The free tier is functional but limited.
 

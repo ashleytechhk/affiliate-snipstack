@@ -62,7 +62,7 @@ Using a dedicated [email alias](https://snipstack.io/email-alias-example-2026/) 
 
 ![Alt-ID browser extension auto-filling a webinar registration form with a masked alias](/og/email-alias-for-webinar-registration-privacy-2026-inline-1.png)
 
-Alt-ID is Surfshark's masked email and alternative identity feature. It generates a forwarding address — something like `j7m4vk29@surfshark.id` — that delivers to your existing inbox without you ever changing providers or checking a secondary account.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email and alternative identity feature. It generates a forwarding address — something like `j7m4vk29@surfshark.id` — that delivers to your existing inbox without you ever changing providers or checking a secondary account.
 
 **Why it works for webinar registrations specifically:**
 
@@ -136,7 +136,7 @@ Gmail allows `youraddress+tag@gmail.com` variants — for example, `yourname+web
 
 ---
 
-## How to Set Up Alt-ID for Webinar Registrations
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt-ID for Webinar Registrations
 
 ![Step-by-step flow: setting up Alt-ID and using it on a webinar registration form](/og/email-alias-for-webinar-registration-privacy-2026-inline-2.png)
 
