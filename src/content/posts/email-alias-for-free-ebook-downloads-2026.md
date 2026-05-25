@@ -125,9 +125,9 @@ You can use one alias for all ebook downloads — this is the simplest approach.
 
 Any future email sent to the deleted alias bounces back to the sender. Your real inbox receives nothing more from that address. You lose access to re-clicking the download link from that address — so download and save the ebook file to your device before deleting the alias if you think you may need to redownload.
 
-**Is Surfshark Alt ID free?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt ID free?**
 
-Alt ID is included in Surfshark One and Surfshark One+ subscription plans — it is not sold separately. If you already subscribe to Surfshark for VPN protection, Alt ID is available in your account at no additional cost. If you are not a Surfshark subscriber, you would need to take out a plan to access it. DuckDuckGo Email Protection is a genuinely free alternative with no subscription required.
+Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/)+ subscription plans — it is not sold separately. If you already subscribe to Surfshark for VPN protection, Alt ID is available in your account at no additional cost. If you are not a Surfshark subscriber, you would need to take out a plan to access it. DuckDuckGo Email Protection is a genuinely free alternative with no subscription required.
 
 ---
 

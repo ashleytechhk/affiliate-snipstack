@@ -108,7 +108,7 @@ The process is straightforward and takes under ten minutes.
 
 The average stalking incident costs the victim significant time, money, and mental health resources to resolve. Doxing — having your personal information published online — can take months or years of effort to suppress, and some residue never fully disappears. Romance scam victims lose an average of $10,000 per incident according to AARP research.
 
-Against those numbers, the cost of a virtual number for two factor authentication is a rounding error.
+Against those numbers, the cost of a [virtual number for](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) two factor authentication is a rounding error.
 
 The question is not whether you can afford to use a virtual number on your dating apps. It is whether you can afford not to.
 

@@ -60,7 +60,7 @@ If you use the same password on every account — and most people do — then on
 
 A strong password is at least 12 characters long and does not include your name, birthday, or common words. A password manager (a program that remembers passwords for you) is the simplest way to keep unique passwords without having to memorise them all.
 
-### Step 3 — Install a Reputable Antivirus Program
+### Step 3 — Install a [Reputable Antivirus](https://snipstack.io/reputable-antivirus-software-2026/) Program
 
 This is the most important single step for most seniors. A good antivirus program runs quietly in the background, checks every file and website you visit, and alerts you the moment something suspicious appears — before it can do damage.
 
@@ -159,13 +159,13 @@ Slow performance can have many causes, including a full hard drive, too many pro
 
 **How do I know if an email is a scam?**
 
-Scam emails share several common features: they create urgency ("your account will be closed today"), they ask you to click a link to verify your information, and they often have minor spelling differences in the sender's address (support@amaz0n.com instead of amazon.com). When in doubt, go directly to the organisation's website by typing the address yourself — never by clicking the link in the email. A phishing-protection tool in your antivirus software will also catch many of these automatically.
+Scam emails share several common features: they create urgency ("your account will be closed today"), they ask you to click a link to verify your information, and they often have minor spelling differences in the sender's address (support@amaz0n.com instead of amazon.com). When in doubt, go directly to the organisation's website by typing the address yourself — never by clicking the link in the email. A phishing-protection tool in your [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) will also catch many of these automatically.
 
 **Is it safe to shop online from my home computer?**
 
 Yes, with precautions. Always check that the website address starts with "https" (the padlock icon in your browser). Only shop on websites you recognise and trust, or that you found via a search engine rather than a link in an email. Avoid saving your card details on shopping sites unless you are certain the site is legitimate. A web protection tool like the one included in Surfshark Antivirus warns you before you enter personal information on a fake or compromised site.
 
-**Does antivirus software slow down my computer?**
+**Does [antivirus software](https://snipstack.io/antivirus-software-2026/) slow down my computer?**
 
 Modern antivirus tools, including Surfshark Antivirus, are designed to have minimal impact on performance. You will not notice it running during normal use. Full scans, if you choose to run them, may slow the computer slightly for the duration, but they typically complete within 20 to 30 minutes. Real-time protection in the background uses very little processing power.
 

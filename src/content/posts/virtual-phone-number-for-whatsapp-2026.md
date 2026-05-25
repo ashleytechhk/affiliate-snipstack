@@ -142,7 +142,7 @@ Your WhatsApp account is now decoupled from your personal SIM. The dating-only p
 
 **Retention and recycling policy.** Some free services recycle inactive numbers. If you register WhatsApp with a number and then lose that number, recovering your account is painful. Paid services typically guarantee number retention for the duration of your subscription.
 
-**Privacy policy of the service itself.** You are using a virtual number partly to protect your privacy — check that the provider does not log your messages or sell usage data. Surfshark, Hushed, and MySudo all have strong reputations here.
+**Privacy policy of the service itself.** You are using a [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) partly to protect your privacy — check that the provider does not log your messages or sell usage data. Surfshark, Hushed, and MySudo all have strong reputations here.
 
 **Disposability.** The ability to cleanly retire a number is a feature, not a gimmick. For dating use, you want this option available.
 

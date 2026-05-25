@@ -78,7 +78,7 @@ The process for using one with Signal is straightforward:
 2. You open Signal and enter that number instead of your real one
 3. Signal sends an SMS verification to your [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/)
 4. You retrieve the code inside the Alt-Number app and paste it into Signal
-5. Your Signal account is now registered to the virtual number — your real number was never entered
+5. Your Signal account is now registered to the [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) — your real number was never entered
 
 From that point forward, your date sees your Alt-Number, not your real line. They cannot reverse-search your real number because they do not have it. If you want to cut contact completely, you replace the virtual number — Signal can no longer receive messages on that account, and your real number was never in the picture.
 

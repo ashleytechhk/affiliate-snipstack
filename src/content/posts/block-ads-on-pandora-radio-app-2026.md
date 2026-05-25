@@ -46,7 +46,7 @@ On desktop, you have access to browser-based tools like [uBlock Origin](https://
 
 On mobile, you lose most of that:
 
-- **iOS Safari:** Doesn't support uBlock Origin. Content blockers exist but operate under tighter restrictions than desktop extensions.
+- **iOS Safari:** Doesn't support [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/). Content blockers exist but operate under tighter restrictions than desktop extensions.
 - **Chrome for iOS/Android:** No extension support of any kind.
 - **Firefox for Android:** Supports uBlock Origin, but using Pandora in a mobile browser rather than the dedicated app means losing the native experience — no lock screen controls, worse background playback, and a degraded interface.
 - **The Pandora app itself:** No browser extension has any reach inside a native app. Whatever blocking you've set up in your browser is irrelevant the moment Pandora is running as an app.
@@ -119,7 +119,7 @@ This is an honest tradeoff. DNS-level blocking doesn't silence Pandora's audio i
 
 ## [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/): DNS Blocking Built for Mobile
 
-CleanWeb is Surfshark's built-in DNS-level ad and tracker blocking feature. It's included with any Surfshark subscription — not a separate add-on or premium tier. Enable it once in the app settings and it covers every app and browser on your device.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in DNS-level ad and tracker blocking feature. It's included with any Surfshark subscription — not a separate add-on or premium tier. Enable it once in the app settings and it covers every app and browser on your device.
 
 For Pandora specifically, CleanWeb blocks the ad infrastructure layer: third-party trackers, display ad requests from external networks, measurement endpoints, and ad exchange domains that load alongside the music player. The audio ads themselves — served from Pandora's own infrastructure — sit outside what DNS blocking can reach.
 

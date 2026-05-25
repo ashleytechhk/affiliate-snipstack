@@ -69,7 +69,7 @@ Using one for Nextdoor signup works like this:
 5. You retrieve the code inside the Alt-Number app and enter it
 6. Your account is verified — your real number was never submitted
 
-From that point forward, your Nextdoor account is tied to the virtual number, not your personal line. Your real number is not on the account. It is not in the platform's records. It cannot be reverse-searched to connect your local neighbourhood profile to your dating identity.
+From that point forward, your Nextdoor account is tied to the [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/), not your personal line. Your real number is not on the account. It is not in the platform's records. It cannot be reverse-searched to connect your local neighbourhood profile to your dating identity.
 
 [**Set up your Alt-Number and verify Nextdoor privately →**](/blog/altnumber?sub=virtual-number-for-nextdoor-signup-2026__mid)
 

@@ -215,5 +215,5 @@ Yes, in almost all countries. Virtual phone numbers are widely used by businesse
 **[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Alternative Number cost?**
 Pricing is subscription-based and varies by country and plan. Check the [current pricing on the Surfshark website](/blog/surfshark?sub=virtual-phone-number-2026__faq) for up-to-date information. Surfshark frequently bundles Alt-Number with its VPN subscription, which can make the combined package significantly better value than buying a [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) service separately.
 
-**Can I use a virtual number internationally?**
+**Can I use a [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) internationally?**
 Yes, if you choose a service with international coverage. Surfshark Alternative Number supports multiple countries — you can get a local number in your destination before you travel, which is useful for avoiding international roaming charges and for looking local to services and contacts in that country. Google Voice, Burner, and TextNow are limited to US or North American numbers only.

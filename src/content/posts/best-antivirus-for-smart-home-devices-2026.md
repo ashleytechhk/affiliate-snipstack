@@ -160,7 +160,7 @@ No, and you do not need to. Smart cameras, doorbells, and thermostats are simple
 
 ### Is my smart home really at risk, or is this just scare tactics?
 
-The risk is real, though the likelihood varies based on how you use your devices. The most common attack affecting seniors is not a targeted hack of your specific camera — it is a phishing message designed to steal your login credentials, which then gives a criminal access to everything connected to that account. These messages are sent in bulk to millions of people. Antivirus software with phishing protection catches them automatically, which is why it matters.
+The risk is real, though the likelihood varies based on how you use your devices. The most common attack affecting seniors is not a targeted hack of your specific camera — it is a phishing message designed to steal your login credentials, which then gives a criminal access to everything connected to that account. These messages are sent in bulk to millions of people. [Antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) with phishing protection catches them automatically, which is why it matters.
 
 ### What if I am not very good with technology? Can I still set this up?
 
@@ -178,7 +178,7 @@ Antivirus software on your phone and computer does not directly protect your rou
 
 A few things worth asking them to check: confirm that every smart device has its own unique password (not the factory default), make sure each device's app is updated to the latest version, and consider whether the guest Wi-Fi network option on your router is switched on — it lets smart devices connect separately from the network you use for banking and email, which limits how far an attacker can move if one device is compromised.
 
-### How much does Surfshark Antivirus cost, and is there a free version?
+### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) cost, and is there a free version?
 
 Surfshark Antivirus is a paid product, with plans typically starting under $3 per month when billed annually. There is no ongoing free tier, but this pricing covers multiple devices — phone, tablet, and computer — under one account, which compares favourably to buying separate protection for each device. For seniors who want a single, simple solution that covers everything, the cost is modest given what it protects.
 

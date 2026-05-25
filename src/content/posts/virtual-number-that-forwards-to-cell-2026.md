@@ -80,7 +80,7 @@ The cleanest feature of a forwarding [virtual number](https://snipstack.io/virtu
 
 Blocking works on individual contacts and individual platforms. A determined person can switch numbers. They can create a new account. Blocking is reactive and has to be applied continuously.
 
-Disabling a virtual number is different. The number itself stops functioning. Anyone who had it — regardless of which device or account they use — stops reaching you. No new block required. No cat-and-mouse across platforms. The channel closes.
+Disabling a [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) is different. The number itself stops functioning. Anyone who had it — regardless of which device or account they use — stops reaching you. No new block required. No cat-and-mouse across platforms. The channel closes.
 
 **The exit sequence if things go wrong:**
 

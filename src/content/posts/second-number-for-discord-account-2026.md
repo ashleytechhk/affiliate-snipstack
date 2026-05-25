@@ -54,7 +54,7 @@ If someone ever gets access to your account — through a [phishing link](https:
 
 Online daters on Discord are in a uniquely vulnerable position. You are in a server specifically to meet people. You expect friendly, even flirtatious, DMs. You are inclined to click things, engage with links, and trust that a profile in a curated dating server is who they say they are.
 
-Phishing kits disguised as "Discord Nitro gifts," fake server invitations, and credential-harvesting links are among the most common social engineering attacks on Discord specifically. The victim base for these attacks skews toward exactly the demographic that uses Discord for dating: young adults who are actively engaging with strangers.
+Phishing kits disguised as "[Discord Nitro](https://snipstack.io/discord-nitro-scam-link-checker-2026/) gifts," fake server invitations, and credential-harvesting links are among the most common social engineering attacks on Discord specifically. The victim base for these attacks skews toward exactly the demographic that uses Discord for dating: young adults who are actively engaging with strangers.
 
 ![Flowchart showing how a real phone number linked to Discord can be exposed through account compromise or reverse lookup — and how a second number breaks the chain](/og/second-number-for-discord-account-2026-inline-1.png)
 

@@ -85,7 +85,7 @@ This is a documented pattern, not an occasional glitch. Google's stance on VoIP 
 
 The distinction with Alt-Number is specific: the numbers are carrier-backed and provisioned on real mobile networks. From Google's verification system's perspective, they are indistinguishable from a standard mobile number — because they sit in the same carrier number ranges. The verification SMS goes through. The code arrives. The account gets created.
 
-Free virtual number services also carry problems beyond just verification failure:
+Free [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) services also carry problems beyond just verification failure:
 
 **Number recycling.** You get a number that was used by someone else before you. That number may already have associations — prior sign-ups, existing Google account links, fraud history — that affect how platforms treat it.
 

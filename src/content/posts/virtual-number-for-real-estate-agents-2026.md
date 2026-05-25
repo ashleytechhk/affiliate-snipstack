@@ -113,7 +113,7 @@ The experience from the other person's side is indistinguishable from a normal p
 
 **Step 3.** Navigate to **Alternative ID** in the left sidebar, then select **Alt-Number**.
 
-**Step 4.** Click **Generate number**. Surfshark assigns you a US virtual number immediately.
+**Step 4.** Click **Generate number**. Surfshark assigns you a US [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) immediately.
 
 **Step 5.** Save the number somewhere easy to reference. This is the number you give out on dating apps, marketplaces, or anywhere you do not want your real number exposed.
 

@@ -143,7 +143,7 @@ It depends on the type of [virtual number](https://snipstack.io/virtual-number-f
 **Can I receive 2FA and OTP codes on a [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/)?**  
 Yes, if the number is a real mobile number rather than a VoIP line. Alt-Number is specifically designed to receive SMS-based authentication codes from platforms that block VoIP numbers. Standard VoIP services have inconsistent results with 2FA — some platforms accept them, many do not. For anything where SMS delivery reliability matters (banking apps, email account recovery, dating app sign-up), a real local number is the safer choice.
 
-**Will a match know I'm using a virtual number?**  
+**Will a match know I'm using a [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/)?**  
 In most cases, no. From your match's perspective, the Alt-Number behaves exactly like a regular mobile number — it shows up as a local number in their contacts, calls and texts work normally, and there is no indicator that it's routed through a privacy service. Carrier lookup tools could theoretically identify the number's registration, but this is not something most people have access to or would think to check.
 
 **[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I want to change my number?**  

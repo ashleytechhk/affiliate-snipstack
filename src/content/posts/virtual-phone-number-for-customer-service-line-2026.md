@@ -152,7 +152,7 @@ Most major dating apps verify your account via SMS during signup. Surfshark Alt-
 
 No. Disabling the number severs the routing entirely. The only number they ever had was the virtual one, and that number no longer connects to anything. Your real number was never shared and remains private.
 
-**Is using a virtual number on dating apps deceptive?**
+**Is using a [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) on dating apps deceptive?**
 
 No. The virtual number is a real, functional number — calls ring, texts arrive, and you respond normally. You are protecting your primary contact information from a stranger, exactly the same way you might use a work email instead of a personal one when dealing with people you don't know. There is nothing deceptive about protecting your privacy.
 

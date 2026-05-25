@@ -51,7 +51,7 @@ Surfshark Alt-Number issues real mobile numbers provisioned on actual carrier ne
 **What you can do with a [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) on a dating app:**
 
 - Register your dating app account with the [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) instead of your real one
-- Share the virtual number when moving a conversation off-platform
+- Share the [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) when moving a conversation off-platform
 - Receive calls and texts normally through the forwarding mechanism
 - Disable the number at any point — incoming contacts instantly stop reaching you
 - Replace it with a new number if needed without affecting your real phone
