@@ -90,7 +90,7 @@ Here's what separates it from free alternatives:
 
 **No Google account required.** Google Voice is convenient but tied to your Google identity — which means it's still traceable back to you. Alt-Number is registered through Surfshark, not your personal accounts.
 
-**Bundled with a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).** If you already have a Surfshark subscription, Alt-Number may be included. The same subscription also gives you a VPN and Alt-ID, which is an [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) service for keeping your real email private on signups. For online daters who want layered protection — private number, private email, private browsing — it covers all three.
+**Bundled with a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).** If you already have a Surfshark subscription, Alt-Number may be included. The same subscription also gives you a VPN and Alt-ID, which is an [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) service for keeping your real email private on signups. For online daters who want layered protection — [private number](https://snipstack.io/private-number-for-garage-sale-listings-2026/), private email, private browsing — it covers all three.
 
 **Works globally.** If you're outside the US, Google Voice won't give you a number at all. Surfshark Alt-Number works internationally.
 

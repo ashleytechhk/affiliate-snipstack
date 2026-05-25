@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 In 2023, the US Cybersecurity and Infrastructure Security Agency (CISA) issued a formal warning: infected USB drives are one of the most common ways malware spreads into home computers — and older adults are among the most frequently targeted victims. Attackers leave USB drives in parking lots, mail them as "free gifts," or pass them along through well-meaning friends who had no idea their drive was carrying a hidden threat.
 
-If you recently plugged a USB drive into your computer and something felt off — your computer slowed down, a strange program opened by itself, or your antivirus suddenly went quiet — this guide is for you.
+If you recently plugged a USB drive into your computer and something felt off — your computer slowed down, a strange program opened by itself, or your [antivirus](https://snipstack.io/vs-antivirus-2026/) suddenly went quiet — this guide is for you.
 
 **[Get protected before the next USB threat reaches your computer &rarr;](/blog/antivirus?sub=how-to-clean-infected-usb-drive-2026__above-fold)**
 

@@ -61,11 +61,11 @@ Retail loyalty programs and hotel/airline points accounts are uniquely aggressiv
 
 ### Alt-ID — Best Overall for Rewards Programs
 
-Alt-ID is Surfshark's built-in [email alias](https://snipstack.io/email-alias-example-2026/) tool. It generates a realistic-looking forwarding address — something like `cedar.frost82@altid-mail.net` — that you give to loyalty programs instead of your real address. Every email from the program (points updates, redemption confirmations, tier status) forwards to your real inbox automatically.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in [email alias](https://snipstack.io/email-alias-example-2026/) tool. It generates a realistic-looking forwarding address — something like `cedar.frost82@altid-mail.net` — that you give to loyalty programs instead of your real address. Every email from the program (points updates, redemption confirmations, tier status) forwards to your real inbox automatically.
 
 **What makes it the right fit for rewards programs specifically:**
 
-The fake-profile feature matters here. When you join most loyalty programs, you're asked for a name, date of birth, and phone number alongside your email. Alt-ID generates a full fake identity you can use for that form — not just an alias address. For programs where you're genuinely concerned about data exposure, this is a meaningful additional layer.
+The fake-profile feature matters here. When you join most loyalty programs, you're asked for a name, date of birth, and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) alongside your email. Alt-ID generates a full fake identity you can use for that form — not just an alias address. For programs where you're genuinely concerned about data exposure, this is a meaningful additional layer.
 
 The alias is permanent by default. Unlike throwaway inboxes that expire, Alt-ID aliases stay active until you explicitly delete them. That means a Delta SkyMiles account or a hotel loyalty program you hold for five years keeps working without you touching anything.
 
@@ -115,7 +115,7 @@ Gmail's `yourname+rewards@gmail.com` variant delivers to your real inbox and cos
 
 ---
 
-## How to Set Up an Alias for a Rewards Program (Alt-ID Walkthrough)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an Alias for a Rewards Program (Alt-ID Walkthrough)
 
 The process takes under five minutes:
 

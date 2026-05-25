@@ -6,7 +6,7 @@ heroImage: "/og/burner-number-for-renting-property-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-A 2023 RentSpree survey found that renters submit their personal contact details to an average of seven different landlords, property managers, or rental platforms before signing a single lease. Your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) is in all seven of those submissions — sitting in property management software, landlord spreadsheets, rental listing databases, and tenant screening services you have no visibility into and no way to remove yourself from.
+A 2023 RentSpree survey found that renters submit their personal contact details to an average of seven different landlords, property managers, or rental platforms before signing a single lease. Your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) is in all seven of those submissions — sitting in property management software, landlord spreadsheets, [rental listing](https://snipstack.io/rental-listing-scam-how-to-check-2026/) databases, and tenant screening services you have no visibility into and no way to remove yourself from.
 
 Now consider this: 37% of people who have used a dating app have reported being harassed on or off the platform, according to Pew Research. The people who cross the line from date to threat don't need much. A name, a city, and a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) are often enough to start stitching together a picture of your life. And your real number — the one you gave to every landlord you've applied with — is out there in ways most renters never think about.
 
@@ -118,13 +118,13 @@ The VoIP distinction matters more than people realize. Dating platforms like Tin
 
 Yes, provided the number is a real mobile line. [Surfshark Alt-Number](/blog/altnumber?sub=burner-number-for-renting-property-2026__faq) provides real mobile numbers that pass SMS verification on major dating apps. VoIP services like Google Voice are increasingly flagged and rejected at this step, making them unreliable for account setup.
 
-**If I disable my burner number, can someone still contact me?**
+**If I disable my [burner number](https://snipstack.io/burner-number-for-offerup-listings-2026/), can someone still contact me?**
 
 No. Once you disable or replace the number, calls and texts to it either bounce or go unanswered. The person has no path to your real number. Whatever they stored in their contacts no longer reaches you.
 
 **Should I also use a separate number on rental applications, or just on dating apps?**
 
-For most people, using the burner number on dating apps is the right priority. Your rental applications need to be contactable and credible — landlords will call to verify and schedule viewings. Use your real number there, and keep a clean separation by using Alt-Number on the dating side only.
+For most people, using the [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) on dating apps is the right priority. Your rental applications need to be contactable and credible — landlords will call to verify and schedule viewings. Use your real number there, and keep a clean separation by using Alt-Number on the dating side only.
 
 **Is giving someone an alternate number considered dishonest?**
 

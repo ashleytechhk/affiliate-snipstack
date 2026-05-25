@@ -88,7 +88,7 @@ Turn this on. It uses network-level pattern detection to flag and block known sp
 Settings → Phone → Silence Unknown Callers → toggle ON
 
 **On Android (varies by manufacturer):**
-Phone app → Settings → Blocked Numbers → [Block Unknown](https://snipstack.io/block-unknown-callers-iphone-2026/)/Private Numbers → toggle ON
+Phone app → Settings → Blocked Numbers → [Block Unknown](https://snipstack.io/block-unknown-callers-iphone-2026/)/[Private Number](https://snipstack.io/private-number-for-garage-sale-listings-2026/)s → toggle ON
 
 This sends any call from a number not in your contacts straight to voicemail. Telemarketers rarely leave messages. Legitimate people who aren't in your contacts can leave a voicemail and you call them back.
 

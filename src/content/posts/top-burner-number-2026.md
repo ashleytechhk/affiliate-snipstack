@@ -162,7 +162,7 @@ Once you cancel a burner number, incoming calls and texts to that number go nowh
 
 ### Is Alt-Number worth it if I already have a VPN?
 
-If you use Surfshark as your VPN, yes — Alt-Number is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), so you are not paying extra. If you use a different VPN provider, the question becomes whether the number feature alone justifies switching. For most people who are actively dating, the combination of VPN, private number, and breach alerts in one app is worth consolidating.
+If you use Surfshark as your VPN, yes — Alt-Number is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), so you are not paying extra. If you use a different VPN provider, the question becomes whether the number feature alone justifies switching. For most people who are actively dating, the combination of VPN, [private number](https://snipstack.io/private-number-for-garage-sale-listings-2026/), and breach alerts in one app is worth consolidating.
 
 ---
 

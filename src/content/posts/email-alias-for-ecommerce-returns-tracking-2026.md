@@ -55,7 +55,7 @@ All four tools below are measured against these four criteria.
 | **Works without specific browser** | Yes — any device, any browser | No — Safari / Apple ecosystem | Partial — browser extension helps | No — Firefox only |
 | **Alias management dashboard** | Yes — in-app list | Yes — iCloud settings | Yes — extension popup | Yes — relay.firefox.com |
 | **Disable/delete per alias** | Yes — single toggle | Yes | Yes | Yes |
-| **Bundled extras** | VPN + antivirus | iCloud storage | Privacy browser | Firefox sync |
+| **Bundled extras** | VPN + [antivirus](https://snipstack.io/vs-antivirus-2026/) | iCloud storage | Privacy browser | Firefox sync |
 
 ![Comparison of email alias tools for ecommerce returns — feature matrix detail](/og/email-alias-for-ecommerce-returns-tracking-2026-inline-1.png)
 
@@ -65,7 +65,7 @@ All four tools below are measured against these four criteria.
 
 ### Surfshark Alt ID
 
-Alt ID is Surfshark's email masking feature, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ plans. You generate a new alias inside the Surfshark app — desktop or mobile — and get a forwarding address that routes to your real inbox. The address uses a custom domain that looks like a plausible personal email, not a known alias service.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s email masking feature, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ plans. You generate a new alias inside the Surfshark app — desktop or mobile — and get a forwarding address that routes to your real inbox. The address uses a custom domain that looks like a plausible personal email, not a known alias service.
 
 **For returns tracking:** Alt ID excels. Forwarding is persistent by default — you do not need to renew or touch anything. The in-app alias list shows you every address you have created, with the ability to label them by store. When a return is complete and you no longer need emails from that retailer, you toggle off forwarding for that alias in one tap.
 
@@ -156,7 +156,7 @@ Once your refund lands, you have no reason to keep receiving emails from that re
 
 ---
 
-## How to Set Up an Alt ID Alias for Returns Tracking
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an Alt ID Alias for Returns Tracking
 
 If you decide Alt ID is the right fit:
 
