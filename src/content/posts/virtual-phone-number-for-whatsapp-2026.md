@@ -158,7 +158,7 @@ WhatsApp checks numbers against known VoIP ranges, and some services get flagged
 
 Yes, in virtually all jurisdictions. Using a [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/) is the same as owning a second SIM — you are receiving calls and texts through software rather than hardware. The legal question that matters is what you do with the number, not the number itself. [See how Alt-Number handles compliance here.](/blog/surfshark?sub=virtual-phone-number-for-whatsapp-2026__faq)
 
-### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my WhatsApp account if I cancel the virtual number?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my WhatsApp account if I cancel the [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/)?
 
 If you cancel or lose access to the virtual number, you lose the ability to re-verify that WhatsApp account via SMS. The account continues to work normally as long as you stay logged in — you only need the number again if you get logged out or switch devices. For this reason, do not link important ongoing conversations to a virtual number you plan to cancel in the short term.
 

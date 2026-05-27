@@ -206,7 +206,7 @@ The VPN encrypts your internet traffic and hides your IP address — protecting 
 
 Surfshark operates a verified no-logs policy, meaning they do not store records of your browsing activity, connection timestamps, or IP addresses. This policy has been independently audited. The antivirus component processes file-level threats locally on your device.
 
-### Can I share my Surfshark One subscription with family members?
+### Can I share my [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) subscription with family members?
 
 You can install it on every device in your household and everyone logs in with the same account. Each device operates independently — one person watching Netflix through the VPN does not affect another person running an antivirus scan on a different device.
 

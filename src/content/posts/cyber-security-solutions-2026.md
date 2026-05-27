@@ -126,7 +126,7 @@ Unlimited simultaneous connections on a single subscription. This covers phones,
 Surfshark operates a verified no-logs VPN policy — your browsing activity is not stored on their servers. Independent audits have confirmed this. There is no traffic log to expose. This is categorically different from what a traditional antivirus company holds about your system activity.
 
 **Can I keep my Norton subscription running alongside Surfshark?**
-Technically yes, but running two real-time antivirus engines simultaneously often causes conflicts and performance issues. Most users find a clean uninstall of the legacy suite before installing Surfshark One avoids these problems.
+Technically yes, but running two real-time antivirus engines simultaneously often causes conflicts and performance issues. Most users find a clean uninstall of the legacy suite before installing [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) avoids these problems.
 
 ---
 

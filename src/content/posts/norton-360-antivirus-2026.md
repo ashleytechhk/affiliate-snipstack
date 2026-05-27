@@ -151,7 +151,7 @@ Yes. Surfshark's antivirus is powered by a proven detection engine and has perfo
 
 ### Can I run [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) and the VPN at the same time?
 
-Yes — Surfshark One Bundle is built so the antivirus and VPN run together on the same app without conflicts. You don't need to toggle between separate products or worry about interference.
+Yes — [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle is built so the antivirus and VPN run together on the same app without conflicts. You don't need to toggle between separate products or worry about interference.
 
 ### How many devices can I protect with Surfshark One Bundle?
 

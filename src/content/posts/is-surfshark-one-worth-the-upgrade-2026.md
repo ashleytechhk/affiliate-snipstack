@@ -157,7 +157,7 @@ On Windows, Surfshark Antivirus includes webcam protection that alerts you when 
 
 ## FAQ
 
-### Is Surfshark One worth it if I already have a separate VPN?
+### Is [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) worth it if I already have a separate VPN?
 
 It depends on the math. If your current VPN costs $3–6/month and your antivirus costs $5–7/month separately, you are spending $96–156/year to cover both. Surfshark One on a two-year plan comes in below that for most users and adds Alert monitoring on top. Run your current combined spend and compare.
 

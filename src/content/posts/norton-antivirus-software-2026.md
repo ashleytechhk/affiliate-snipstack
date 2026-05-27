@@ -128,7 +128,7 @@ Do not let Norton auto-renew while you are mid-switch. Cancel as soon as you con
 **Is [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) as good as Norton?**
 In independent lab tests, both score in the high-90s for malware detection. For everyday users, the real-world difference is negligible. Surfshark's lighter system footprint and bundled privacy tools often make it the better overall package. [Check Surfshark One Bundle here](/blog/surfshark?sub=norton-antivirus-software-2026__faq).
 
-**Does Surfshark One Bundle include a VPN?**
+**Does [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle include a VPN?**
 Yes — and it is a full-featured VPN with unlimited devices, 3,200+ servers, and no data cap. Norton's bundled VPN is more restricted, especially on lower-tier plans.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription if I switch?**

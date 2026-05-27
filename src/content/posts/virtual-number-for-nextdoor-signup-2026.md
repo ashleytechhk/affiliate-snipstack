@@ -81,7 +81,7 @@ If you have already tried this with a free service — a disposable SMS site, Te
 
 Free [temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/) services are the most common target of these filters because they are the tools most commonly used to create fake local accounts. Nextdoor's verification is specifically designed to prevent that.
 
-Free virtual numbers also carry problems beyond just verification failure:
+Free [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/)s also carry problems beyond just verification failure:
 
 **Number recycling.** You get a number someone else used before you. That number may already be associated with another Nextdoor account, flagged as suspicious, or linked to prior sign-ups that affect how platforms respond to it.
 

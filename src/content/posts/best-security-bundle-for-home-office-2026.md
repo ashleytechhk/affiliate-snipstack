@@ -113,7 +113,7 @@ Here's the pattern with Norton and McAfee: year-one pricing is competitive (some
 
 ![Surfshark One pricing and value comparison](/og/best-security-bundle-for-home-office-2026-inline-2.png)
 
-The unlimited device policy amplifies the value. If you're currently paying for Norton on five devices and need a sixth, you're hitting a ceiling. Surfshark One doesn't have that ceiling.
+The unlimited device policy amplifies the value. If you're currently paying for Norton on five devices and need a sixth, you're hitting a ceiling. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) doesn't have that ceiling.
 
 ---
 

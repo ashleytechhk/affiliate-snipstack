@@ -152,7 +152,7 @@ Both companies offer 30-day refund windows on new purchases. Refund requests on 
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) work on all my devices?**
 
-Surfshark One supports Windows, Mac, iOS, and Android with no device limit on the number of simultaneous connections. The VPN component can also be configured at the router level, covering devices that cannot run an app directly. For households with multiple people and devices, the unlimited connection policy is a practical advantage over capped plans.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) supports Windows, Mac, iOS, and Android with no device limit on the number of simultaneous connections. The VPN component can also be configured at the router level, covering devices that cannot run an app directly. For households with multiple people and devices, the unlimited connection policy is a practical advantage over capped plans.
 
 ---
 

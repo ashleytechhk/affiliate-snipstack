@@ -80,7 +80,7 @@ What this means in practice:
 2. You share that number. Your real mobile number never enters the picture.
 3. A reverse lookup on the [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/) does not resolve to your name, address, or carrier account.
 4. Social platforms like WhatsApp do not auto-link the [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/) to your existing account — no profile photo leak, no status visibility, no last-seen timestamp.
-5. If the situation deteriorates, you disable the virtual number. The contact ends immediately and completely. Your real number is unaffected.
+5. If the situation deteriorates, you disable the [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/). The contact ends immediately and completely. Your real number is unaffected.
 
 Surfshark Alt-Number provides US [virtual phone numbers](https://snipstack.io/virtual-phone-number-for-uber-registration-2026/) that receive both calls and SMS, work over any internet connection — which is exactly what you have when travelling on hotel Wi-Fi or a local SIM — and can be disabled or replaced through the Surfshark dashboard at any moment.
 

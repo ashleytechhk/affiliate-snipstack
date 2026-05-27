@@ -207,7 +207,7 @@ Yes. Surfshark is a well-established company used by millions of people worldwid
 
 **Q: [How much does Surfshark One cost](https://snipstack.io/how-much-does-surfshark-one-cost-2026/)?**
 
-Surfshark One is available on longer-term plans for well under $5 per month — a very affordable price for full VPN protection, breach monitoring, and safe browsing on unlimited devices. Pricing can vary based on current promotions, so check the current rate at the link below.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) is available on longer-term plans for well under $5 per month — a very affordable price for full VPN protection, breach monitoring, and safe browsing on unlimited devices. Pricing can vary based on current promotions, so check the current rate at the link below.
 
 ---
 

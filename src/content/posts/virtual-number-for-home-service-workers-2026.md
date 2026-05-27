@@ -98,7 +98,7 @@ Surfshark Alt-Number provides exactly this. It generates a US [virtual phone num
 
 **Step 5.** Keep this number somewhere accessible — a note in your password manager works. This is the number you share on dating apps, marketplace listings, or anywhere else you interact with people you do not fully know yet.
 
-**Step 6.** When a call or text arrives on the virtual number, you get a notification through Surfshark. Handle it there, or let it sit if the contact is no longer welcome.
+**Step 6.** When a call or text arrives on the [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/), you get a notification through Surfshark. Handle it there, or let it sit if the contact is no longer welcome.
 
 **Step 7.** To cut off a contact or retire the number: return to the Alt-Number dashboard and disable or replace it. Your real number is completely unaffected.
 

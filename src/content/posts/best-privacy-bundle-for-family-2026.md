@@ -103,7 +103,7 @@ Start with your own primary device (usually a Windows laptop or Mac). Getting th
 
 ## Step 4 — Uninstall Norton or McAfee
 
-Now that Surfshark One is confirmed working on the first device, remove the old software.
+Now that [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) is confirmed working on the first device, remove the old software.
 
 **On Windows:**
 Norton and McAfee both leave behind system processes and browser extensions if you use the standard "Add or Remove Programs" uninstaller. Use the vendor's dedicated removal tool instead:

@@ -152,7 +152,7 @@ VPN usage is legal in most countries around the world. In Turkey, the legal stat
 **Will the VPN slow down my connection?**
 Any encryption adds a small amount of overhead. On modern hardware and a good broadband connection, the impact is minimal. Surfshark's WireGuard protocol is engineered for low latency. Most users report no noticeable difference for streaming, browsing, or video calls. If you connect to a geographically close server, speed impact is typically under 10%.
 
-**What happens if the VPN drops mid-stream?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if the VPN drops mid-stream?**
 Surfshark's kill switch pauses your internet connection the moment the VPN drops, rather than reverting to your real IP address. This prevents accidental exposure. The connection re-establishes automatically when VPN service resumes.
 
 **Do I need a separate payment method for Turkish streaming prices?**

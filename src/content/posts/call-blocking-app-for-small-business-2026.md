@@ -159,7 +159,7 @@ No. The Alt-Number is not linked to your personal identity in any public or sear
 When you retire a number, all incoming calls and texts to that number stop — regardless of what number the caller is using. Anyone who had the old number can no longer reach you through it. Your real number is unaffected. You can issue a new secondary number immediately if needed.
 
 **Do I need a separate subscription for Alt-Number?**
-Not if you already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or Surfshark One+. Alt-Number is included in both plans alongside Surfshark VPN, Alt ID, and Antivirus. If you are not yet a subscriber, Surfshark One is the entry point that unlocks the full bundle.
+Not if you already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/)+. Alt-Number is included in both plans alongside Surfshark VPN, Alt ID, and Antivirus. If you are not yet a subscriber, [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) is the entry point that unlocks the full bundle.
 
 **Is this different from just using call filtering on my iPhone?**
 Very different. Built-in [call filtering on iPhone](https://snipstack.io/call-filtering-app-for-iphone-2026/) silences calls from unknown numbers and flags likely spam — useful for reducing robocall noise, but it cannot stop a specific person calling from new numbers or block contact at the identity level. Alt-Number solves the problem at the source: the number they have is retired, and they have no path to your real number.
@@ -170,6 +170,6 @@ Very different. Built-in [call filtering on iPhone](https://snipstack.io/call-fi
 
 Blocklists are band-aids. The permanent solution to unwanted calls from someone who has your number is to make sure they never had your real number to begin with — and to give yourself the ability to retire the number they did have.
 
-That is what a call blocking app for small business provides. That is what Alt-Number provides. Carrier-backed, works on every platform, passes app verification, retired when you decide the contact is over. If you are already on Surfshark One, it is waiting in your dashboard right now.
+That is what a call blocking app for small business provides. That is what Alt-Number provides. Carrier-backed, works on every platform, passes app verification, retired when you decide the contact is over. If you are already on [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/), it is waiting in your dashboard right now.
 
 **[Get Surfshark Alt-Number — end unwanted calls permanently &rarr;](/blog/altnumber?sub=call-blocking-app-for-small-business-2026__cta)**

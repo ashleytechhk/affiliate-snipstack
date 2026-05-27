@@ -75,13 +75,13 @@ If you installed any of these on a new Copilot+ PC, your antivirus is running in
 
 A smaller number of vendors have released true ARM64 builds for Windows:
 
-- **Windows Security ([Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/))** — built-in, ARM64 native, always runs correctly
+- **[Windows Security](https://snipstack.io/windows-security-2026/) ([Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/))** — built-in, ARM64 native, always runs correctly
 - **Bitdefender** — released an ARM64 engine update in 2025; check that you are on the latest build
 - **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/)** — dedicated ARM64 Windows download available, confirmed native support
 
 ### The Honest Middle Ground
 
-Some vendors offer ARM64 support for their VPN or password manager but not yet for their antivirus engine specifically. This creates a confusing situation where part of a security suite runs natively and part does not.
+Some vendors offer ARM64 support for their VPN or password manager but not yet for their antivirus engine specifically. This creates a confusing situation where part of a [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) runs natively and part does not.
 
 ---
 
@@ -118,7 +118,7 @@ These are not rare scenarios. The FTC received over 2.4 million fraud reports fr
 
 ---
 
-## The Recommendation: Surfshark Antivirus on ARM Windows
+## The Recommendation: [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) on ARM Windows
 
 Surfshark offers a dedicated ARM64 installer for Windows. That means on a Copilot+ PC, Surface Pro 11, or any other Snapdragon-based laptop, Surfshark runs as a native app — not through emulation. The difference in real-world experience:
 

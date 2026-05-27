@@ -130,7 +130,7 @@ If your iPhone is your primary device and you're currently on Norton or McAfee, 
 
 The legacy players built their businesses on Windows. They've adapted to mobile, but their pricing structures, app architecture, and feature priorities still reflect that origin. Surfshark was built for connected devices from the start.
 
-Your iPhone isn't going to get a traditional virus. But it is going to connect to sketchy public Wi-Fi, receive phishing texts, and have your email show up in data breaches. Surfshark One covers all three.
+Your iPhone isn't going to get a traditional virus. But it is going to connect to sketchy public Wi-Fi, receive phishing texts, and have your email show up in data breaches. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) covers all three.
 
 **[Get Surfshark One and drop Norton/McAfee for good →](/blog/surfshark?sub=antivirus-software-for-iphone-2026__cta)**
 

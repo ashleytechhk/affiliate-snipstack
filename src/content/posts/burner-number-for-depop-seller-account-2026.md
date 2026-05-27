@@ -6,13 +6,13 @@ heroImage: "/og/burner-number-for-depop-seller-account-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-The FTC logged more than $1.1 billion in losses from romance scams in a single year. That figure covers money stolen — it doesn't count the stalking, harassment, and identity exposure that happened after victims handed their real phone numbers to the wrong person. Most of them didn't think they were doing anything risky. They were just verifying a Depop order. Replying to a match. Confirming a meetup.
+The FTC logged more than $1.1 billion in losses from romance scams in a single year. That figure covers money stolen — it doesn't count the stalking, harassment, and identity exposure that happened after victims handed their real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s to the wrong person. Most of them didn't think they were doing anything risky. They were just verifying a Depop order. Replying to a match. Confirming a meetup.
 
-Your phone number is not neutral information. It connects directly to your name, your carrier, your address history, and every account you've ever verified with it. Giving it to a stranger you met through a marketplace or a dating app is a higher-risk move than it looks.
+Your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is not neutral information. It connects directly to your name, your carrier, your address history, and every account you've ever verified with it. Giving it to a stranger you met through a marketplace or a dating app is a higher-risk move than it looks.
 
 ![Hero image: burner number for Depop seller account — phone privacy overview](/og/burner-number-for-depop-seller-account-2026.png)
 
-A burner number breaks that chain. Here is why you need one in 2026 — and what actually works.
+A [burner number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) breaks that chain. Here is why you need one in 2026 — and what actually works.
 
 ---
 

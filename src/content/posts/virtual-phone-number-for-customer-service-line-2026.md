@@ -158,7 +158,7 @@ No. The [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-l
 
 **Can I use Alt-Number for SMS verification on other apps, not just dating?**
 
-Yes. The virtual number works for any SMS verification context — social apps, gig platforms, marketplaces, or any service that requires a phone number you would rather not expose. It is the same technology that makes it useful for dating, applied to any scenario where privacy matters.
+Yes. The [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/) works for any SMS verification context — social apps, gig platforms, marketplaces, or any service that requires a phone number you would rather not expose. It is the same technology that makes it useful for dating, applied to any scenario where privacy matters.
 
 **What happens to my dating app account if I disable the virtual number?**
 

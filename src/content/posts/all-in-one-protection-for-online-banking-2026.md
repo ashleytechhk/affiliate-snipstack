@@ -142,7 +142,7 @@ An uncapped VPN is the highest-priority feature for anyone who banks on networks
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) work on mobile devices for banking apps?
 
-Yes. Surfshark One covers iOS and Android with no device cap. The VPN app runs in the background, encrypting all traffic including banking app sessions. CleanWeb's ad and tracker blocking applies across all apps on the device, not only browsers. Surfshark Alert breach monitoring runs regardless of device.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) covers iOS and Android with no device cap. The VPN app runs in the background, encrypting all traffic including banking app sessions. CleanWeb's ad and tracker blocking applies across all apps on the device, not only browsers. Surfshark Alert breach monitoring runs regardless of device.
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus engine as strong as Norton's?
 

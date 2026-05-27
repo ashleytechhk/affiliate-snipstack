@@ -132,7 +132,7 @@ For basic protection on a single Windows machine with low-risk browsing habits, 
 
 ### Can I use antivirus software on a Mac?
 
-Yes, and you should. macOS is not immune to malware — adware, browser hijackers, and info-stealing trojans targeting Macs have increased year over year. Bitdefender, Malwarebytes, and [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) all offer Mac clients. Microsoft Defender does not offer a standalone consumer Mac product in the same way it does for Windows. If you are cross-platform, a bundle like Surfshark One that covers Mac, Windows, iOS, and Android on one plan is a practical advantage.
+Yes, and you should. macOS is not immune to malware — adware, browser hijackers, and info-stealing trojans targeting Macs have increased year over year. Bitdefender, Malwarebytes, and [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) all offer Mac clients. Microsoft Defender does not offer a standalone consumer Mac product in the same way it does for Windows. If you are cross-platform, a bundle like [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) that covers Mac, Windows, iOS, and Android on one plan is a practical advantage.
 
 ### How do I know if my antivirus software is actually working?
 

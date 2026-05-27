@@ -138,7 +138,7 @@ For everyone else — especially anyone annoyed by Norton's bloat, confused by i
 ## Frequently Asked Questions
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) include a VPN?**
-Yes. Every Surfshark One subscription includes the full Surfshark VPN with unlimited simultaneous device connections. This is the same VPN sold as a standalone product — no feature restrictions.
+Yes. Every [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) subscription includes the full Surfshark VPN with unlimited simultaneous device connections. This is the same VPN sold as a standalone product — no feature restrictions.
 
 **Is Surfshark's antivirus as good as Norton's?**
 Norton has a longer antivirus track record and consistently strong independent lab scores. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is competent and lighter on system resources, but Norton edges it on raw detection history. If antivirus is your sole priority, Norton is stronger there. If you want a balanced [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) that includes a top-tier VPN and private search, Surfshark One wins overall.

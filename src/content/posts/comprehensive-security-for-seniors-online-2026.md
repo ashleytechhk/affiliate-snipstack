@@ -144,7 +144,7 @@ For seniors who are primarily concerned about malware on a Windows PC and nothin
 
 **An old account from a retail site surfaces in a data breach.** Surfshark Alert sends a notification with the specific account and advice on next steps. For seniors who reuse passwords — a common pattern across all age groups — this is a direct risk signal.
 
-**A grandchild is helping set up security on three devices: a Windows laptop, an iPad, and an Android phone.** Surfshark ONE covers all three under one account with no per-device count. Norton 360 Deluxe covers 5 devices; McAfee Total Protection varies by tier. Cost-per-device comparison tilts toward Surfshark at equal or larger device counts.
+**A grandchild is helping set up security on three devices: a Windows laptop, an iPad, and an Android phone.** [Surfshark ONE](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) covers all three under one account with no per-device count. Norton 360 Deluxe covers 5 devices; McAfee Total Protection varies by tier. Cost-per-device comparison tilts toward Surfshark at equal or larger device counts.
 
 ---
 

@@ -68,7 +68,7 @@ For context:
 
 If you know you want this product long-term, paying monthly costs you roughly three times as much over a year versus signing up annually. That said, the monthly plan carries no long-term lock-in. For users who just escaped a surprise Norton auto-renewal, paying a little more to stay month-to-month for the first few months is a reasonable trade.
 
-Norton 360 Standard is comparably priced monthly (~$14.99/mo), but its annual plan is still more expensive than Surfshark One's annual, and Norton's VPN is notably more limited — fewer servers, a data cap on lower tiers, and no WireGuard protocol. McAfee Total Protection comes in slightly cheaper monthly (~$13.99/mo) but lacks private search, has a cap on simultaneous devices, and has an FTC-documented history of deceptive auto-renewal practices.
+Norton 360 Standard is comparably priced monthly (~$14.99/mo), but its annual plan is still more expensive than [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/)'s annual, and Norton's VPN is notably more limited — fewer servers, a data cap on lower tiers, and no WireGuard protocol. McAfee Total Protection comes in slightly cheaper monthly (~$13.99/mo) but lacks private search, has a cap on simultaneous devices, and has an FTC-documented history of deceptive auto-renewal practices.
 
 ---
 

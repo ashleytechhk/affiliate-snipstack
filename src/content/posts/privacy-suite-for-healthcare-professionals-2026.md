@@ -132,7 +132,7 @@ The math for a single user who was paying $105/year for Norton 360 Deluxe with a
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) is a personal security product for your private devices — it's not a HIPAA-regulated tool and does not provide compliance guarantees for clinical systems. What it does is reduce your exposure on personal devices: encrypting your connection on public networks, alerting you to credential breaches, and blocking ad trackers. Good personal digital hygiene supports a stronger overall security posture, but your employer's IT policies govern your clinical-use devices.
 
-### Can I use Surfshark One on both my work laptop and personal phone?
+### Can I use [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) on both my work laptop and personal phone?
 
 You can install it on any device you own. Whether your employer's IT policy permits third-party security software on a work-issued device is a separate question — check with your IT department. On personal devices, there's no device cap, so covering both your personal laptop and phone is included.
 

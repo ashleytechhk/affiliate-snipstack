@@ -76,7 +76,7 @@ The [second phone number](https://snipstack.io/second-phone-number-2026/) used t
 
 ## How Surfshark Alt-Number Works for Dating
 
-Setting up a virtual number with call forwarding for online dating takes under ten minutes.
+Setting up a [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/) with call forwarding for online dating takes under ten minutes.
 
 **Step 1: Download the Surfshark app.** Alt-Number is built into the Surfshark product suite. If you already have a Surfshark account for the VPN, Alt-Number is already in your app.
 

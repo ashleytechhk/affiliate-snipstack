@@ -117,7 +117,7 @@ Switching from Norton or McAfee to [Surfshark One](https://snipstack.io/surfshar
 
 **Step 2 — Run the dedicated removal tool.** Both companies publish removal utilities that do a cleaner job than Add/Remove Programs. Search for "Norton Remove and Reinstall tool" or "McAfee Consumer Product Removal tool" and run each as Administrator. Restart your computer when complete. Check Task Manager to confirm no legacy processes are running.
 
-**Step 3 — Get Surfshark One.** The two-year plan gives you the lowest monthly rate. Complete checkout and download the installer from your confirmation email. [Get Surfshark One here.](/blog/one?sub=surfshark-one-plan-comparison-2026__mid)
+**Step 3 — Get [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/).** The two-year plan gives you the lowest monthly rate. Complete checkout and download the installer from your confirmation email. [Get Surfshark One here.](/blog/one?sub=surfshark-one-plan-comparison-2026__mid)
 
 **Step 4 — Activate each component.** Install and log in. Navigate to each tool in the left menu — Antivirus, VPN, Alert, Search — and activate in order. The antivirus first scan takes 15–30 minutes. The VPN is active in one click. Alert requires verifying each email address via inbox link.
 

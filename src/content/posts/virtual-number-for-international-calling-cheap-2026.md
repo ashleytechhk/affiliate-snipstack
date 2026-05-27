@@ -118,7 +118,7 @@ Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-con
 
 **Does Alt-Number replace my real number, or is it in addition to it?**
 
-It is in addition. Your real number works exactly as it always did. Alt-Number is a separate virtual number you give out in contexts where you do not want to share your real one — international dating matches, marketplace transactions, short-term rental contacts, or any situation involving a stranger you have not fully vetted. Your real contacts, family, employers, and banks keep your real number. Strangers get the virtual one.
+It is in addition. Your real number works exactly as it always did. Alt-Number is a separate [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/) you give out in contexts where you do not want to share your real one — international dating matches, marketplace transactions, short-term rental contacts, or any situation involving a stranger you have not fully vetted. Your real contacts, family, employers, and banks keep your real number. Strangers get the virtual one.
 
 ---
 

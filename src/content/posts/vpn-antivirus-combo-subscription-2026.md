@@ -198,7 +198,7 @@ The [antivirus software](https://snipstack.io/antivirus-software-2026/) from Nor
 
 ## FAQ
 
-### What does Surfshark One include exactly?
+### What does [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) include exactly?
 
 Surfshark One includes four tools under one subscription: a full [VPN](https://snipstack.io/vpn-anonymous-surfing-2026/) (not a limited version), real-time antivirus scanning, Alert breach monitoring for email addresses, and Surfshark Search. All four run from a single app with one login. [Check current pricing and plan details here.](/blog/one?sub=vpn-antivirus-combo-subscription-2026__faq)
 

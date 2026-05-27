@@ -173,7 +173,7 @@ Multi-year plans lock in the promotional rate for the full subscription term. A 
 
 ### How many devices does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) cover?
 
-Unlimited. One Surfshark One subscription covers every device you own simultaneously — Windows, macOS, iOS, and Android are all supported. Norton 360's standard tier caps at five devices. McAfee Total Protection also offers unlimited device coverage on its multi-device plans.
+Unlimited. One [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) subscription covers every device you own simultaneously — Windows, macOS, iOS, and Android are all supported. Norton 360's standard tier caps at five devices. McAfee Total Protection also offers unlimited device coverage on its multi-device plans.
 
 ### Can I get a refund if I buy Surfshark One on Black Friday and change my mind?
 

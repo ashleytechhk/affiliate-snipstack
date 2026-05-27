@@ -162,7 +162,7 @@ The whole install-and-configure process takes under 20 minutes.
 Switch protocols — try WireGuard if you're on OpenVPN, or vice versa. Server proximity matters: connect to a server geographically close to you for day-to-day browsing. Only use distant servers when you need to appear in a specific location.
 
 **Antivirus flagging legitimate software**
-Add trusted applications to the allowlist (Surfshark One: Settings > Antivirus > Exceptions). This is normal when AV software first sees your installed apps.
+Add trusted applications to the allowlist ([Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/): Settings > Antivirus > Exceptions). This is normal when AV software first sees your installed apps.
 
 **Breach alerts showing old data**
 Breach monitoring databases include historical leaks, not just recent ones. An alert for a breach from three years ago is still worth acting on — change that password if you haven't already.

@@ -159,7 +159,7 @@ Independent testing from AV-TEST and other labs rates [Surfshark Antivirus](http
 
 Norton stores your password manager vault and backup data on its servers. Before cancelling, export your password vault to a local file and verify your cloud backup is downloaded. Norton's cancellation process is straightforward, but confirming the auto-renewal is fully disabled and requesting a pro-rated refund (if applicable) is worth the 10-minute customer service call.
 
-### Does Surfshark One Bundle protect against phishing?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle protect against phishing?
 
 Yes. CleanWeb, included in One Bundle, blocks known phishing domains and malicious URLs in real time across browsers and apps. It also blocks ads and trackers, which reduces the surface area for malvertising attacks — a common entry point for malware on family devices.
 
