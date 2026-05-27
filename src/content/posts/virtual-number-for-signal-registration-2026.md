@@ -80,7 +80,7 @@ The process for using one with Signal is straightforward:
 4. You retrieve the code inside the Alt-Number app and paste it into Signal
 5. Your Signal account is now registered to the [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) — your real number was never entered
 
-From that point forward, your date sees your Alt-Number, not your real line. They cannot reverse-search your real number because they do not have it. If you want to cut contact completely, you replace the virtual number — Signal can no longer receive messages on that account, and your real number was never in the picture.
+From that point forward, your date sees your Alt-Number, not your real line. They cannot reverse-search your real number because they do not have it. If you want to cut contact completely, you replace the [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/) — Signal can no longer receive messages on that account, and your real number was never in the picture.
 
 [**Set up your virtual number now — see available numbers from Alt-Number →**](/blog/altnumber?sub=virtual-number-for-signal-registration-2026__mid)
 

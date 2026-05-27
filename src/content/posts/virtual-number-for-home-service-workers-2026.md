@@ -94,7 +94,7 @@ Surfshark Alt-Number provides exactly this. It generates a US [virtual phone num
 
 **Step 3.** Navigate to **Alternative ID** in the sidebar, then select **Alt-Number**.
 
-**Step 4.** Click **Generate number**. A US virtual number is assigned immediately.
+**Step 4.** Click **Generate number**. A US [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/) is assigned immediately.
 
 **Step 5.** Keep this number somewhere accessible — a note in your password manager works. This is the number you share on dating apps, marketplace listings, or anywhere else you interact with people you do not fully know yet.
 

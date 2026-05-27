@@ -110,7 +110,7 @@ Anyone who calls or texts that number after you disable it will not reach you. T
 
 **Does Alt-Number work for SMS verification on dating apps?**
 
-Surfshark Alt-Number receives SMS, which covers most dating app verification flows during sign-up. A small number of platforms actively attempt to block known virtual number ranges. For the majority of mainstream dating apps — Tinder, Hinge, Bumble, Bumble For Friends, and similar — it works for verification. **[Check current plan details here](/blog/altnumber?sub=virtual-number-for-international-calling-cheap-2026__faq)**.
+Surfshark Alt-Number receives SMS, which covers most dating app verification flows during sign-up. A small number of platforms actively attempt to block known [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/) ranges. For the majority of mainstream dating apps — Tinder, Hinge, Bumble, Bumble For Friends, and similar — it works for verification. **[Check current plan details here](/blog/altnumber?sub=virtual-number-for-international-calling-cheap-2026__faq)**.
 
 **Is this legal to use when dating internationally?**
 

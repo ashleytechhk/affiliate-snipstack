@@ -99,7 +99,7 @@ A carrier-backed number from Alt-Number gives you a clean, fresh number with no 
 
 ![Alt-Number app showing an incoming Google verification SMS code for a new dating Google account](/og/virtual-number-for-google-account-verification-2026-inline-2.png)
 
-## Setting Up Your Virtual Number: Step by Step
+## Setting Up Your [Virtual Number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/): Step by Step
 
 ### What you need
 

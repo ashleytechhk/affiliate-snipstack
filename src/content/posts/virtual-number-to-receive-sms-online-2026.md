@@ -149,7 +149,7 @@ In most cases, no. From your match's perspective, the Alt-Number behaves exactly
 **[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I want to change my number?**  
 With Alt-Number, you replace the number through the Surfshark app. Your match retains the old number in their phone — but it no longer routes to you. There is no notification sent to them, no error message on their end, and no connection back to your real number. It is a clean break.
 
-**Is it legal to use a virtual number on dating apps?**  
+**Is it legal to use a [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/) on dating apps?**  
 Using a [virtual number for](https://snipstack.io/virtual-number-for-signal-registration-2026/) privacy protection is legal. What varies by platform is whether it's permitted under terms of service — some dating apps' terms require you to register with your primary phone number. Using a separate privacy number is unlikely to result in any action in practice, but it is worth reading the platform's terms if this is a concern for you.
 
 **Can I use Alt-Number for dating apps outside my home country?**  

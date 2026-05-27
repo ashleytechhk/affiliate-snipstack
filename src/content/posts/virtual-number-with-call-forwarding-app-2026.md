@@ -66,7 +66,7 @@ The threat model for online daters is different from the general privacy case, a
 
 **The "soft stalker" pattern is common and hard to block.** This is not necessarily violent or criminal. It is someone who checked up on your Instagram after a bad date. Someone who figured out where you work from your LinkedIn. Someone who texted you from a new number after you blocked the first one. Your real number is the thread. Pull it and the pattern unravels.
 
-**Abuse of [WhatsApp read receipts](https://snipstack.io/how-to-stop-tracking-ads-follow-me-2026/) and online status.** Once a match has your number and you are connected on WhatsApp, they can see when you were last online. Some people use this obsessively after a match ends. A virtual number, given to a new contact but never linked to your WhatsApp, keeps that information away from people who should not have it.
+**Abuse of [WhatsApp read receipts](https://snipstack.io/how-to-stop-tracking-ads-follow-me-2026/) and online status.** Once a match has your number and you are connected on WhatsApp, they can see when you were last online. Some people use this obsessively after a match ends. A [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/), given to a new contact but never linked to your WhatsApp, keeps that information away from people who should not have it.
 
 **Dating app verification requirements create false confidence.** Some apps verify phone numbers at registration to reduce fake accounts. This is a useful signal about the person on the other end — they have a real number — but it does not mean sharing your number back is safe. A real number belonging to a real person can still become a problem. Verification and safety are different things.
 
