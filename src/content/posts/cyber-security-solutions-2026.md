@@ -117,7 +117,7 @@ Published prices for [security suite](https://snipstack.io/security-suite-for-un
 Yes. The One bundle includes real-time antivirus scanning alongside its VPN and breach monitoring tools. You do not need a separate antivirus product if you're running [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/). [Get Surfshark One here.](/blog/surfshark?sub=cyber-security-solutions-2026__faq)
 
 **Is the Surfshark VPN actually unlimited or are there data caps?**
-The VPN in Surfshark One has no data caps and no speed throttling. You can use it for streaming, browsing, and general traffic without hitting a wall. This is different from the limited VPNs bundled with Norton and McAfee entry-level plans.
+The VPN in [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) has no data caps and no speed throttling. You can use it for streaming, browsing, and general traffic without hitting a wall. This is different from the limited VPNs bundled with Norton and McAfee entry-level plans.
 
 **How many devices can I use with Surfshark One?**
 Unlimited simultaneous connections on a single subscription. This covers phones, laptops, tablets, and desktops regardless of operating system.

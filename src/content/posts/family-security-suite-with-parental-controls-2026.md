@@ -106,7 +106,7 @@ Norton's bundled VPN covers the same 5 devices as the overall plan and imposes a
 
 McAfee's Safe Connect VPN (bundled in some McAfee+ tiers) is similarly limited — it's not the same product as a full VPN service, and the free tier has significant data restrictions.
 
-For a family where multiple people work or study remotely, use public Wi-Fi, or travel, this difference is meaningful. With Surfshark One, everyone is covered all the time with no per-device management.
+For a family where multiple people work or study remotely, use public Wi-Fi, or travel, this difference is meaningful. With [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/), everyone is covered all the time with no per-device management.
 
 ---
 

@@ -113,7 +113,7 @@ A [second number](https://snipstack.io/second-number-for-social-media-privacy-20
 
 ---
 
-## Setting Up Your Discord Second Number: Step by Step
+## Setting Up Your Discord [Second Number](https://snipstack.io/second-number-for-airbnb-host-account-2026/): Step by Step
 
 ### Step 1 — Get Alt-Number
 

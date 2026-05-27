@@ -228,7 +228,7 @@ Usually yes, but results vary by provider. Paid providers with real number inven
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the app — do I lose the number?**
 The number is tied to your account, not the app install. Delete and reinstall is fine as long as you log back into the same account. If you cancel a paid subscription (Hushed, Alt Number), the number is released after a grace period.
 
-**Can my second number receive calls, not just texts?**
+**Can my [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) receive calls, not just texts?**
 All four providers support calls through the app (VOIP calling). Alt Number and Hushed forward calls directly through the app. Google Voice also supports voicemail. For most dating scenarios, texting is all you need initially — but the call option is there when you're ready.
 
 **Is there a truly free option with no ads?**

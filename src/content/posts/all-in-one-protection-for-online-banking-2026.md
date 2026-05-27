@@ -130,7 +130,7 @@ Introductory pricing is designed to obscure long-term cost. Run the two-year mat
 
 If you add a standalone VPN to Norton (because the bundled one isn't enough for banking on the go), add another $40–80 per year. The gap widens further.
 
-For households with more than five devices, Norton and McAfee require a tier upgrade. Surfshark One's unlimited device policy means a household of seven pays the same as a household of two.
+For households with more than five devices, Norton and McAfee require a tier upgrade. [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/)'s unlimited device policy means a household of seven pays the same as a household of two.
 
 ---
 

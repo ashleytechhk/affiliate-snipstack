@@ -170,7 +170,7 @@ No. A carrier-backed number from Alt-Number or a carrier-range number from Hushe
 
 Your dating app account is linked to the number at signup. If you replace your Alt-Number after registration, the old number no longer exists — which means if the app ever asks you to re-verify via SMS to the original number, that will fail. For this reason, replace your number between dating contexts (before starting a new round of apps), not mid-use. The number swap is for your privacy between situations, not a tool to use while you are active on a profile. [Alt-Number makes number management easy](/blog/altnumber?sub=protect-real-number-from-apps-2026__faq) — you can see your history and manage replacements from the app.
 
-### Is it legal to use a second number on dating apps?
+### Is it legal to use a [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) on dating apps?
 
 Yes. Secondary phone numbers are a standard privacy tool used for business lines, online account management, and personal separation. Using one on a dating app is not a terms-of-service violation — the platforms only require a valid phone number that can receive an SMS code. They do not require that number to be your primary line. Alt-Number is operated by Surfshark, which operates as a licensed telecom service provider in its supported markets.
 

@@ -125,7 +125,7 @@ This is not a feature Norton or McAfee offers at all. Legacy suites protect your
 | Typical renewal price | Lower | $100+/yr | $90+/yr |
 | Upsell prompts in-app | Minimal | Frequent | Frequent |
 
-The antivirus capability of Norton and McAfee is technically solid — that has never been the complaint. The complaint is the install footprint, the constant upsell prompts, and the renewal pricing that climbs every year while the core product stays the same. Surfshark One addresses all three.
+The antivirus capability of Norton and McAfee is technically solid — that has never been the complaint. The complaint is the install footprint, the constant upsell prompts, and the renewal pricing that climbs every year while the core product stays the same. [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) addresses all three.
 
 ---
 

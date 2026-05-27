@@ -114,7 +114,7 @@ In the interest of being straight with you:
 
 ## Who Should Switch?
 
-You're a good fit for switching to Surfshark One Bundle if:
+You're a good fit for switching to [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Bundle if:
 
 - Your Norton renewal just came in and you're sticker-shocked
 - You need coverage on more than 5 devices

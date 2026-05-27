@@ -95,7 +95,7 @@ Independent tests from AV-Comparatives' Performance Test generally show Avast Fr
 
 [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/)'s antivirus module is designed to be lightweight and runs scheduled scans outside peak usage hours by default. The VPN client adds negligible CPU overhead on modern hardware.
 
-Neither product is invisible. But if system impact matters to you, Surfshark One's architecture is built from the ground up to coexist with other software without the decade of cruft that legacy AV products carry.
+Neither product is invisible. But if system impact matters to you, [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/)'s architecture is built from the ground up to coexist with other software without the decade of cruft that legacy AV products carry.
 
 ---
 

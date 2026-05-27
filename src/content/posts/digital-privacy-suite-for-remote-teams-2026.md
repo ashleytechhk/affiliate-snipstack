@@ -158,7 +158,7 @@ Buying a standalone VPN (say, Surfshark VPN alone at approximately $2.19/month o
 
 Both services offer pro-rated refunds within certain windows; outside those windows, you are typically paying out the subscription. The 30-day refund window that Surfshark offers means you can test One Bundle without financial overlap risk — start it, confirm it meets your needs, then let the Norton or McAfee subscription lapse at its next renewal rather than canceling mid-term.
 
-### Does Surfshark One work on all major platforms?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) work on all major platforms?
 
 Yes — Windows, macOS, iOS, Android, and Linux are all supported. Browser extensions are available for Chrome, Firefox, and Edge. The unlimited device policy means you can install across all of them simultaneously without managing a device slot count.
 

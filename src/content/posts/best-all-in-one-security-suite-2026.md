@@ -140,7 +140,7 @@ Whichever suite you choose, a clean install matters. Running two antivirus engin
 1. Export any saved passwords from Norton/McAfee's password manager first — don't lose credentials in the transition
 2. Download the official removal tool (Norton has `NRnR.exe`; McAfee has the MCPR tool) — these remove AV drivers that standard uninstalls leave behind
 3. Restart your machine before installing the new suite
-4. Install Surfshark One (or your chosen replacement) and run an initial full scan
+4. Install [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) (or your chosen replacement) and run an initial full scan
 5. Cancel your old subscription's auto-renewal — do this before the next billing date, not after
 
 **Setting up Surfshark One specifically:**

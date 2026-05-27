@@ -102,7 +102,7 @@ If you use a VPN at all — even occasionally — this is not a minor distinctio
 
 Bitdefender Antivirus Plus does not include breach monitoring. You'd need to step up to Digital Identity Protection, which is a separate product at a separate price.
 
-Surfshark Alert monitors your email addresses, credit card numbers, and personal ID documents against breach databases and notifies you in real time when your data shows up. It's built into the Surfshark One subscription — no upgrade required.
+Surfshark Alert monitors your email addresses, credit card numbers, and personal ID documents against breach databases and notifies you in real time when your data shows up. It's built into the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) subscription — no upgrade required.
 
 Given that several hundred million records were exposed in publicly reported breaches in 2024–2025 alone, passive breach monitoring is less optional than it used to be.
 

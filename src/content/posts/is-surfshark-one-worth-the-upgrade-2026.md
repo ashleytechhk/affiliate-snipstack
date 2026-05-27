@@ -134,7 +134,7 @@ On Windows, Surfshark Antivirus includes webcam protection that alerts you when 
 
 ## Who Should Upgrade — and Who Should Stay
 
-### Upgrade to Surfshark One if you:
+### Upgrade to [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) if you:
 
 - Are currently paying full renewal price for Norton or McAfee and not getting enough to justify the cost
 - Want a VPN as part of your setup and were planning to add one separately anyway

@@ -136,7 +136,7 @@ The switch takes under an hour. Users on Reddit threads about Norton escapees co
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) include real identity protection, or just antivirus?**
 
-Surfshark One includes Alert, which monitors breach databases for your email addresses, credit card numbers, ID document numbers, and passwords. When your data appears in a known breach, you receive a notification. This is breach monitoring and alerting — it is not identity insurance or a restoration service. If you need insurance-backed ID theft coverage with a fraud specialist, you would be looking at Norton's LifeLock tier specifically. For the large majority of users who want to know when their data is exposed and take action themselves, Alert covers the need. [See what Surfshark One includes](/blog/one?sub=cheapest-security-suite-with-identity-protection-2026__faq)
+[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) includes Alert, which monitors breach databases for your email addresses, credit card numbers, ID document numbers, and passwords. When your data appears in a known breach, you receive a notification. This is breach monitoring and alerting — it is not identity insurance or a restoration service. If you need insurance-backed ID theft coverage with a fraud specialist, you would be looking at Norton's LifeLock tier specifically. For the large majority of users who want to know when their data is exposed and take action themselves, Alert covers the need. [See what Surfshark One includes](/blog/one?sub=cheapest-security-suite-with-identity-protection-2026__faq)
 
 **Why is the first-year price on Norton and McAfee so much lower?**
 

@@ -122,7 +122,7 @@ Norton 360 Deluxe's introductory price is frequently around $39–49 for the fir
 
 Neither product has materially changed its feature set to justify the renewal increase. You are paying more for the same antivirus engine, the same capped VPN, the same browser toolbar you did not ask for, and the same upsell prompt for services you have already declined.
 
-The real comparison is not just Surfshark One vs. individual apps. It is Surfshark One vs. staying where you are. On that comparison, the switch is harder to argue against.
+The real comparison is not just [Surfshark One vs](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/). individual apps. It is Surfshark One vs. staying where you are. On that comparison, the switch is harder to argue against.
 
 ![Side-by-side annual cost summary: Surfshark One vs Norton renewal vs individual app stack](/og/surfshark-one-vs-individual-apps-cost-2026-inline-2.png)
 

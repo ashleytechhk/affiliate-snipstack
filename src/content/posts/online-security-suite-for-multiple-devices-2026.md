@@ -190,7 +190,7 @@ No news here is genuinely good news — it means your email addresses have not a
 
 ## FAQ
 
-### How many devices can I protect with Surfshark One Bundle?
+### How many devices can I protect with [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Bundle?
 
 Unlimited. One subscription covers every device you own — Windows, Mac, iOS, Android, and Linux — simultaneously. There are no per-device tiers or household caps. This is one of the clearest differences from legacy suites that charge by the device count.
 

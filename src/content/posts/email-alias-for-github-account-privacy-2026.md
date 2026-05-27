@@ -10,7 +10,7 @@ You push a commit. Inside that commit, burned into the Git object forever, is yo
 
 That's before we get to npm package metadata, GitHub Actions bot emails, issue tracker notifications, third-party integrations that request your email via OAuth, and the dozen developer newsletters you signed up for using your GitHub-linked address. Developers are uniquely exposed compared to regular web users, because the tools they work with were designed for transparency, not privacy.
 
-The fix is an email alias — a forwarding address you give GitHub and everything attached to it, while your real inbox stays hidden.
+The fix is an [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) — a forwarding address you give GitHub and everything attached to it, while your real inbox stays hidden.
 
 ![Best email alias options for GitHub account privacy — comparison overview](/og/email-alias-for-github-account-privacy-2026.png)
 
@@ -38,7 +38,7 @@ GitHub's privacy risks aren't just about spam — they're architectural. The pla
 
 ---
 
-## Comparison: Email Alias Options for GitHub Privacy
+## Comparison: [Email Alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) Options for GitHub Privacy
 
 Not every alias tool is appropriate for GitHub. The requirements here are stricter than for consumer signups: the alias needs to be persistent (account recovery matters), able to receive bot and notification emails reliably, and ideally usable as a commit email directly in `.gitconfig`.
 
@@ -121,7 +121,7 @@ GitHub's noreply commit email hides your address from commit history going forwa
 
 Yes. Set `user.email` in your `.gitconfig` to the alias address. Commits will embed the alias rather than your real address. If you want to use the same alias as your GitHub account email and your commit email, that's fine — all commit notifications route through the alias. Alternatively, use GitHub's noreply address for commits and a separate alias for account registration, which gives you layered protection.
 
-**Will email aliases get blocked by GitHub or developer platforms?**
+**Will [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/)es get blocked by GitHub or developer platforms?**
 
 GitHub doesn't block established alias providers. Some platforms check against lists of known throwaway domains (like 10-minute-mail services), but Alt-ID and SimpleLogin use dedicated domains that don't appear on standard public blocklists. Registration completes normally. If a specific CI or dev tool blocks an alias domain, it's an outlier — contact their support, as the blocklist may be outdated.
 

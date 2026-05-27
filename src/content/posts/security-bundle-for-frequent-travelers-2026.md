@@ -98,7 +98,7 @@ To be clear about trade-offs:
 
 **Norton's antivirus is genuinely excellent.** Its detection rates in independent lab tests (AV-TEST, AV-Comparatives) are consistently among the highest in the industry. If raw antivirus detection history is your sole criterion, Norton earns its reputation. Surfshark's antivirus is competent and independently tested, but it does not have twenty years of threat data behind it.
 
-**Norton LifeLock** (on higher-tier plans in the US) offers [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and a restoration team that has no equivalent in Surfshark One Bundle. If you are primarily worried about identity theft and you live in the US, that matters.
+**Norton LifeLock** (on higher-tier plans in the US) offers [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and a restoration team that has no equivalent in [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Bundle. If you are primarily worried about identity theft and you live in the US, that matters.
 
 **McAfee's unlimited device coverage** matches Surfshark on seat count, but its VPN has faced scrutiny for logging practices in the past, and the interface is objectively not designed for someone who needs to connect fast at an airport.
 

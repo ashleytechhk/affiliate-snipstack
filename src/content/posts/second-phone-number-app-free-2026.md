@@ -142,7 +142,7 @@ No. Once a number is cancelled or replaced, any calls or texts sent to it either
 
 They're generally safe in terms of keeping your real number private. The privacy consideration is that ad-supported apps (TextNow, TextFree) monetize through ads and may collect usage data. If data privacy is a priority alongside number privacy, a paid service with a clear no-logs stance is worth considering.
 
-**Will dating apps ban me for using a second number?**
+**Will dating apps ban me for using a [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/)?**
 
 No. Dating apps verify you received an SMS code — they don't check whether the receiving number is your "primary" line. As long as verification goes through, you're fine. This is true for Google Voice, Burner, Alt-Number, and any other second number service.
 

@@ -133,7 +133,7 @@ Log into your Norton or McAfee account and disable auto-renewal. Both providers 
 
 Use your operating system's standard uninstall process. On Windows, go to Settings > Apps. On Mac, drag the app to Trash and also check for companion processes in your Applications folder. Norton and McAfee both offer dedicated removal tools if the standard uninstall leaves residual files — search for "Norton Remove and Reinstall tool" or "McAfee Consumer Product Removal tool" on your respective support pages.
 
-### Step 3 — Install Surfshark One
+### Step 3 — Install [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/)
 
 Download from the link below, create an account, and install. The onboarding takes roughly five minutes. Antivirus activates immediately; VPN connects with one click.
 

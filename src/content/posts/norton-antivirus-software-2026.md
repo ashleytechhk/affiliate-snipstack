@@ -100,7 +100,7 @@ If you have been a Norton customer for more than one year and never checked what
 In the interest of fairness: [Norton antivirus](https://snipstack.io/norton-antivirus-2026/) software is a reasonable choice if:
 
 - You need webcam and microphone protection specifically (Norton offers this; [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) does not)
-- You are in the US and want LifeLock's [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance layer (no equivalent in Surfshark One)
+- You are in the US and want LifeLock's [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance layer (no equivalent in [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/))
 - You are on a corporate IT policy that requires Norton for compliance reasons
 - You have an older, Windows-only setup and your IT-savvy friend set it up years ago and everything just works
 

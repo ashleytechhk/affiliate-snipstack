@@ -130,7 +130,7 @@ The case for switching is clearest if you are:
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) available on Android?
 
-Yes. Surfshark One has a dedicated Android app available on the Google Play Store. The antivirus, VPN, breach alert, and private search features are all accessible from within a single app. One subscription covers unlimited Android devices alongside any other devices (iOS, Windows, macOS) on your account. **[Get Surfshark One for Android here](/blog/one?sub=best-security-app-for-android-2026__faq)**
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) has a dedicated Android app available on the Google Play Store. The antivirus, VPN, breach alert, and private search features are all accessible from within a single app. One subscription covers unlimited Android devices alongside any other devices (iOS, Windows, macOS) on your account. **[Get Surfshark One for Android here](/blog/one?sub=best-security-app-for-android-2026__faq)**
 
 ### Does Android need [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) in 2026?
 

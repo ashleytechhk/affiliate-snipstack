@@ -101,7 +101,7 @@ Norton and McAfee offer some browser-level protection, but neither has an equiva
 
 ### Search Anonymity (Search)
 
-Surfshark One includes a private search tool that delivers results without building a profile on your queries. For a home-office worker researching competitors, clients, or sensitive business topics, this matters.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) includes a private search tool that delivers results without building a profile on your queries. For a home-office worker researching competitors, clients, or sensitive business topics, this matters.
 
 ---
 

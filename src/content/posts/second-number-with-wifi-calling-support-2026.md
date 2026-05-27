@@ -70,7 +70,7 @@ For dating specifically, this matters at three distinct points:
 
 **The awkward-exit call.** If you need to end things with someone who is not accepting a text-based farewell, a call from your alias number is still a call — but it reveals nothing about your real number, your carrier, or your location beyond what you choose to say.
 
-**The post-block situation.** If someone continues calling after you have effectively ended contact, a second number with WiFi calling means the calls they are making go to an alias — not to a number that confirms your real identity is reachable.
+**The post-block situation.** If someone continues calling after you have effectively ended contact, a [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) with WiFi calling means the calls they are making go to an alias — not to a number that confirms your real identity is reachable.
 
 [**Get Alt-Number with WiFi calling support and keep voice calls off your real line →**](/blog/altnumber?sub=second-number-with-wifi-calling-support-2026__mid)
 

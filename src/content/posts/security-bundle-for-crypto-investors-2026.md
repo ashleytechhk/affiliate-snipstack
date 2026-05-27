@@ -135,7 +135,7 @@ Norton offers prorated refunds within 60 days of purchase. After that, you can c
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) work with MetaMask or hardware wallets like Ledger?
 
-Surfshark One doesn't integrate directly with MetaMask or hardware wallets — no third-party [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) does. What it does is reduce the attack surface around those tools: blocking malicious domains that attempt to spoof MetaMask's site, monitoring your email for breach exposure that could lead to exchange account takeover, and encrypting your traffic on untrusted networks where man-in-the-middle attacks are feasible. Your seed phrase and hardware wallet PIN remain your responsibility.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) doesn't integrate directly with MetaMask or hardware wallets — no third-party [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) does. What it does is reduce the attack surface around those tools: blocking malicious domains that attempt to spoof MetaMask's site, monitoring your email for breach exposure that could lead to exchange account takeover, and encrypting your traffic on untrusted networks where man-in-the-middle attacks are feasible. Your seed phrase and hardware wallet PIN remain your responsibility.
 
 ### Can I use Surfshark One on multiple devices, including mobile?
 

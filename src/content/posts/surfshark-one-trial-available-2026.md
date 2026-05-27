@@ -34,7 +34,7 @@ The term "trial" gets used loosely in the security software space. Here is what 
 
 Every [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/) — monthly, one-year, and two-year — comes with a 30-day money-back window. You get full access to the entire bundle from day one. If you cancel within 30 days for any reason, Surfshark refunds the full amount. The refund is processed via the original payment method and typically clears within 5–10 business days.
 
-This is the closest thing to a free trial that Surfshark One offers. The requirement is that you provide a payment method at sign-up, which filters out window-shopping but gives paying users genuine risk-free access.
+This is the closest thing to a free trial that [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) offers. The requirement is that you provide a payment method at sign-up, which filters out window-shopping but gives paying users genuine risk-free access.
 
 ### What You Get During the Trial Window
 

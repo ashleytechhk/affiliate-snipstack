@@ -221,7 +221,7 @@ Skype allows you to purchase a real local number in 25+ countries — UK, German
 
 **App and website signups:** Any of the paid options work. Free services (TextNow, Google Voice) are increasingly rejected by services that specifically screen for VoIP numbers.
 
-**International second number:** Skype Number is the only service here with strong international coverage. Surfshark Alternative Number currently offers US and UK numbers.
+**International [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/):** Skype Number is the only service here with strong international coverage. Surfshark Alternative Number currently offers US and UK numbers.
 
 ---
 

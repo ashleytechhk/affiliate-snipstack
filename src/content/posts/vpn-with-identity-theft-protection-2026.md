@@ -166,7 +166,7 @@ They draw on similar breach databases, but they're different products. Surfshark
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) include credit monitoring?
 
-No. Surfshark One includes dark web monitoring and breach alerts through Surfshark Alert, but does not monitor your credit file at Experian, Equifax, or TransUnion. For credit monitoring, supplement with a free service like Credit Karma or Experian's free tier.
+No. [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) includes dark web monitoring and breach alerts through Surfshark Alert, but does not monitor your credit file at Experian, Equifax, or TransUnion. For credit monitoring, supplement with a free service like Credit Karma or Experian's free tier.
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) available on all devices?
 

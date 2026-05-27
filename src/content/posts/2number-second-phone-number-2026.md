@@ -203,7 +203,7 @@ If your subscription lapses, the Alt-Number service pauses along with it. Existi
 
 Alt-Number offers numbers from multiple countries. If you're using international dating apps or want a number that matches a different region, this is a meaningful advantage over Google Voice (US only) and Burner (US/Canada only).
 
-**Is it dishonest to give someone a second number instead of my real one?**
+**Is it dishonest to give someone a [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) instead of my real one?**
 
 No. You're still fully reachable on that number — they can call and text you normally. You're protecting your primary contact information from someone you've just met, the same way you'd use a work email rather than your personal one for new professional contacts. If the relationship develops, you can always share your real number later.
 

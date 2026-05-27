@@ -147,7 +147,7 @@ The case for staying with Norton or McAfee is narrower. If you have a specific f
 
 ## FAQ
 
-### Do I need to uninstall Norton or McAfee before installing Surfshark One?
+### Do I need to uninstall Norton or McAfee before installing [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/)?
 
 Yes — uninstall first, then install Surfshark. Running two real-time antivirus scanners at the same time causes conflicts, performance degradation, and false positives. Norton has a dedicated removal tool on their support site (Norton Remove and Reinstall). McAfee has the MCPR tool. Use these rather than standard Add/Remove Programs to ensure all background services are cleared.
 

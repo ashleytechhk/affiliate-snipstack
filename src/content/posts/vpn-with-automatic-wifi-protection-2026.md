@@ -166,7 +166,7 @@ It is a VPN feature that detects when your device joins an untrusted or unfamili
 
 Not exactly. Always-on VPN keeps the VPN connected at all times, including on trusted networks. Automatic wifi protection is more selective — it activates on untrusted or public wifi and stays inactive on networks you have marked as safe. Surfshark supports both modes, letting you choose based on your preference for privacy versus performance on home networks.
 
-### Can I trust free VPNs to provide automatic wifi protection?
+### Can I trust [free VPNs](https://snipstack.io/vs-free-vpns-2026/) to provide automatic wifi protection?
 
 Free VPNs typically offer basic auto-connect features, but the underlying privacy posture is often inconsistent. Many free [VPN providers](https://snipstack.io/vpn-providers-best-2026/) log connection data or monetize user activity to fund the service. If the point of automatic protection is to ensure your traffic is not visible to third parties, a VPN that sells usage data defeats the purpose. [Surfshark's plans](/blog/vpn?sub=vpn-with-automatic-wifi-protection-2026__faq) start at approximately $2.19/month — a modest cost relative to what you recover through streaming savings.
 
@@ -182,7 +182,7 @@ Not once it is properly configured. The auto-connect feature activates before yo
 
 Using a VPN is legal in most countries. Whether accessing streaming content through a VPN is consistent with a platform's terms of service is a separate question — policies vary across platforms and are updated periodically. Review the current terms of service for each platform before subscribing, as the responsibility for compliance rests with the user.
 
-### What happens if the VPN drops mid-session?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if the VPN drops mid-session?
 
 If auto-connect is paired with a kill switch — which it should be — the kill switch cuts your internet connection the moment the VPN tunnel drops. Your traffic does not escape unprotected. Surfshark's kill switch activates automatically when the VPN disconnects unexpectedly, and the auto-connect feature re-establishes the tunnel as soon as a stable network connection is available.
 

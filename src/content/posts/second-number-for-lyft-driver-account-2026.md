@@ -136,7 +136,7 @@ If a situation develops that makes you want a clean break — a passenger who be
 
 ## Frequently Asked Questions
 
-**Will a second number actually pass Lyft's phone verification in 2026?**
+**Will a [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) actually pass Lyft's phone verification in 2026?**
 
 It depends entirely on the type of number. Free VoIP numbers from services like Google Voice or TextNow are frequently blocked by Lyft's verification system. Carrier-backed numbers — the type provided by [Alt-Number](/blog/altnumber?sub=second-number-for-lyft-driver-account-2026__faq) — pass Lyft's check because they route through real mobile carrier infrastructure, which Lyft's system treats the same as a standard mobile line.
 

@@ -127,7 +127,7 @@ Surfshark also runs introductory promotions — that is standard practice across
 
 ---
 
-## How to Switch From Norton to Surfshark One on iPhone
+## How to Switch From Norton to [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) on iPhone
 
 Switching is a 10-minute process with no gap in coverage:
 

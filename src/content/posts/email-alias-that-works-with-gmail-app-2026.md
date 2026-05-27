@@ -143,7 +143,7 @@ Yes, if you configure Gmail's "Send mail as" feature with the alias service's SM
 
 For Alt-ID and DuckDuckGo Email Protection, yes — forwarding latency is typically under five seconds, which is fast enough for any standard verification flow. Services like Firefox Relay or newer providers occasionally have 30–60 second delays. If a verification email does not arrive, check your alias service's dashboard — some have a built-in "recent messages" view where you can complete verification without waiting for forwarding.
 
-**If I delete an alias, what happens to emails sent to it?**
+**If I delete an alias, [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to emails sent to it?**
 
 They bounce. The sender receives a delivery failure notification, and nothing reaches your Gmail inbox. This is more effective than unsubscribing because it leaves no trace that your real address exists — the alias address is simply gone.
 

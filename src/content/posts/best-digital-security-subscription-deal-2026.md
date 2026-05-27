@@ -49,7 +49,7 @@ This isn't a feature debate. It's a pricing structure built to exploit inertia.
 
 ![Norton vs McAfee vs Surfshark One two-year cost breakdown](/og/best-digital-security-subscription-deal-2026-inline-1.png)
 
-[Surfshark One](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) uses a different model. Renewal pricing stays within a reasonable range of the initial price — there's no cliff between year one and year two. If you buy a two-year Surfshark One plan today, the effective per-month rate tends to be considerably lower than Norton or McAfee once you factor in both years.
+[Surfshark One](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) uses a different model. Renewal pricing stays within a reasonable range of the initial price — there's no cliff between year one and year two. If you buy a two-year [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) plan today, the effective per-month rate tends to be considerably lower than Norton or McAfee once you factor in both years.
 
 **Rough two-year total cost comparison:**
 

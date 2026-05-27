@@ -90,7 +90,7 @@ No other product in this comparison includes all four of these features in a sin
 
 ---
 
-## Who Should Switch to Surfshark One?
+## Who Should Switch to [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/)?
 
 Surfshark One is the strongest fit for users who:
 

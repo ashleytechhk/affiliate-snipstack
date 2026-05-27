@@ -128,7 +128,7 @@ A physical SIM from a carrier is the most reliable for verification — it's car
 
 ![Alt-Number dating privacy setup — delete number on demand 2026](/og/can-i-get-a-second-number-on-same-phone-2026-inline-2.png)
 
-## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Dating Second Number on Your Current Phone
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Dating [Second Number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) on Your Current Phone
 
 The Alt-Number setup takes under five minutes:
 

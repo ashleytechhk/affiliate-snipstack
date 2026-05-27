@@ -47,7 +47,7 @@ This article breaks down exactly what you get on [Surfshark One](https://snipsta
 
 ## What [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/), Exactly?
 
-Surfshark One is a four-component bundle sold as a single subscription:
+[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) is a four-component bundle sold as a single subscription:
 
 1. **Surfshark VPN** — the full VPN product with WireGuard, 3,200+ servers across 100 countries, no device limit
 2. **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)** — real-time malware scanning, scheduled scans, cloud-based detection

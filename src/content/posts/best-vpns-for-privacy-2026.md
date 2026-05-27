@@ -91,7 +91,7 @@ Surfshark Search returns organic results with no tracking, no personalization pr
 
 ---
 
-## How to Switch from Norton or McAfee to Surfshark One
+## How to Switch from Norton or McAfee to [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/)
 
 ![Step-by-step switching guide from Norton McAfee to Surfshark One](/og/best-vpns-for-privacy-2026-inline-2.png)
 

@@ -86,7 +86,7 @@ This is where the comparison stops being close. AVG Antivirus is a security prod
 
 AVG's pricing structure is designed to create confusion. The free version is not really usable for a protected daily driver. AVG Internet Security sits around $44.99/year for one device. AVG Ultimate — which adds the VPN and some extra tools — runs around $89.99/year, again for a limited device count.
 
-Surfshark One Bundle prices vary by promotion, but it routinely comes in below AVG Ultimate on an annual basis while covering unlimited devices. You can check the current rate and any active deal at the link below — Surfshark runs seasonal promotions and the price with a discount code is typically competitive with any single-device AVG plan.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Bundle prices vary by promotion, but it routinely comes in below AVG Ultimate on an annual basis while covering unlimited devices. You can check the current rate and any active deal at the link below — Surfshark runs seasonal promotions and the price with a discount code is typically competitive with any single-device AVG plan.
 
 ![Surfshark One Bundle pricing and features overview](/og/vs-avg-antivirus-2026-inline-2.png)
 

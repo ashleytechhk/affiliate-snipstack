@@ -111,7 +111,7 @@ For a small business owner without dedicated IT staff who needs reliable baselin
 
 Running the numbers honestly at publicly listed annual plan pricing as of May 2026:
 
-- Surfshark One (unlimited devices): approximately $3.99/month — roughly $96 over two years
+- [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) (unlimited devices): approximately $3.99/month — roughly $96 over two years
 - Norton 360 (5-device plan): approximately $5.83/month — roughly $140 over two years
 - McAfee Total Protection (unlimited devices): approximately $8.33/month — roughly $200 over two years
 
