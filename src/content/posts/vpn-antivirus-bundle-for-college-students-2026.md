@@ -147,7 +147,7 @@ Download from the link below, create an account, and install. The onboarding tak
 
 For the vast majority of college students, yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) covers the threat categories that matter in a student context: malware, phishing, unsafe WiFi exposure, and data breach alerts. Norton and McAfee offer comparable antivirus protection but lag on VPN quality, ad blocking, and pricing transparency. If your school's IT policy requires a specific security product, check that first — but for personal use, [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) handles the full scope. **[See the current offer here.](/blog/one?sub=vpn-antivirus-bundle-for-college-students-2026__faq)**
 
-### Does Surfshark One work on both Mac and Windows?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) work on both Mac and Windows?
 
 Yes. The full suite — antivirus, VPN, CleanWeb, and Alert — is available on Windows and macOS. The VPN component also runs on iOS, Android, and Linux. One subscription covers all your devices simultaneously with no cap on how many you connect.
 

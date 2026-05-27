@@ -144,7 +144,7 @@ From that point, the number is your dating number. Give it to matches when you a
 
 ## Frequently Asked Questions
 
-### Does a second number actually hide me from reverse phone lookups?
+### Does a [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) actually hide me from reverse phone lookups?
 
 A carrier-backed second number like Alt-Number is issued through Surfshark's telecom infrastructure, not your name or address. A reverse lookup on that number returns Surfshark's information rather than yours. This is meaningfully different from handing out your personal mobile number, where a $5 people-search site can return your full name, address history, and linked social profiles within seconds. [Alt-Number specifically](/blog/altnumber?sub=can-i-get-a-second-number-on-same-phone-2026__faq) was designed for this separation.
 

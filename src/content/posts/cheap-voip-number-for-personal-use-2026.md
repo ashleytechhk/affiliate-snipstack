@@ -146,7 +146,7 @@ Yes. Alt Number is available globally and offers numbers from multiple countries
 **Do I need to run the Surfshark VPN to use the number?**
 No. Alt Number operates independently. You do not need the VPN active to receive calls and texts. If your concern extends beyond just your phone number — you also want your browsing and app traffic private — running the VPN alongside Alt Number covers both vectors. But the number works on its own.
 
-**Will dating apps ban me for using a second number?**
+**Will dating apps ban me for using a [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/)?**
 Dating apps verify that you can receive an SMS code — they do not cross-reference whether the number is your only number or your primary one. As long as verification goes through, which it generally does with Alt Number, you are in good standing.
 
 **Is it actually cheap enough to justify?**

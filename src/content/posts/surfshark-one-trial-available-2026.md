@@ -90,7 +90,7 @@ If you are on Norton or McAfee right now, the trial window is only useful if [Su
 
 ### Features Side by Side
 
-| Feature | Surfshark One | Norton 360 Deluxe | McAfee+ Individual |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Norton 360 Deluxe | McAfee+ Individual |
 |---|---|---|---|
 | **Annual price (approx.)** | ~$55–$70/yr | ~$100–$140/yr (renews higher) | ~$80–$110/yr |
 | **Device limit** | Unlimited | 5 | Unlimited |

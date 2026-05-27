@@ -214,7 +214,7 @@ You can install it on every device in your household and everyone logs in with t
 
 Norton's history includes a widely-reported incident where Norton Secure VPN collected usage data by default until a policy update. Surfshark's no-logs VPN policy has been independently audited, and the antivirus engine processes threats locally. If privacy practices are a factor in your decision, [review the current Surfshark privacy documentation](/blog/one?sub=online-security-suite-for-multiple-devices-2026__faq) alongside any vendor you're comparing.
 
-### What if I'm not happy with Surfshark One after switching?
+### What if I'm not happy with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) after switching?
 
 All Surfshark plans include a 30-day money-back period. If the product doesn't work for your setup within that window, you can request a full refund without a complicated cancellation process.
 

@@ -174,7 +174,7 @@ Your dating app account is linked to the number at signup. If you replace your A
 
 Yes. Secondary phone numbers are a standard privacy tool used for business lines, online account management, and personal separation. Using one on a dating app is not a terms-of-service violation — the platforms only require a valid phone number that can receive an SMS code. They do not require that number to be your primary line. Alt-Number is operated by Surfshark, which operates as a licensed telecom service provider in its supported markets.
 
-### Do I need to tell someone I am using a second number?
+### Do I need to tell someone I am using a [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/)?
 
 No. The number is yours and it behaves as a normal mobile number. There is no legal or ethical obligation to disclose that it is a secondary line — just as no one discloses whether they use a work phone or a personal phone for a given context. The number you give out is a real, working number. It is simply not your primary one.
 

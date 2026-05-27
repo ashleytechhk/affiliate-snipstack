@@ -161,7 +161,7 @@ For iPhone users, Surfshark Alt-Number is the most direct path: download the app
 **Do I need a new SIM card to get a [second phone number](https://snipstack.io/second-phone-number-for-side-hustle-2026/) on iPhone?**
 No. Surfshark Alt-Number works entirely through the app — your [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) lives in software, not on a physical card. You receive calls and texts inside the Surfshark app on your existing iPhone. The only time you need a SIM-level solution is if you specifically want a fully separate carrier plan, in which case iPhone's eSIM support handles that without a physical card either.
 
-**Will my second number work for dating app verification on Tinder, Bumble, or Hinge?**
+**Will my [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) work for dating app verification on Tinder, Bumble, or Hinge?**
 Surfshark Alt-Number provides a real local number, not a VoIP alias. Dating apps that block VoIP numbers during signup do so at the carrier level — Alt-Number passes those checks. VoIP numbers from Google Voice or TextNow are frequently rejected on major dating apps. [Get Alt-Number here](/blog/altnumber?sub=second-phone-number-iphone-2026__faq) if verification is your primary concern.
 
 **Which iPhone models support eSIM for a second carrier line?**

@@ -140,7 +140,7 @@ If a situation develops that makes you want a clean break — a passenger who be
 
 It depends entirely on the type of number. Free VoIP numbers from services like Google Voice or TextNow are frequently blocked by Lyft's verification system. Carrier-backed numbers — the type provided by [Alt-Number](/blog/altnumber?sub=second-number-for-lyft-driver-account-2026__faq) — pass Lyft's check because they route through real mobile carrier infrastructure, which Lyft's system treats the same as a standard mobile line.
 
-**Can I receive Lyft ride alerts and driver communications on my second number?**
+**Can I receive Lyft ride alerts and driver communications on my [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/)?**
 
 Yes. Alt-Number provides a full SMS inbox and call forwarding for the numbers you provision. Lyft's ride alerts, passenger coordination messages, and support SMS all arrive in your Alt-Number inbox exactly as they would on a standard mobile line. You manage which alerts you want forwarded.
 

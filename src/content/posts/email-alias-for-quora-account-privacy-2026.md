@@ -142,15 +142,15 @@ Quora rejects known throwaway and temporary mail domains. Established alias serv
 
 Two options: first, go to Quora's email settings and turn off every digest and notification category — this reduces forwarded volume immediately. Second, if you want a clean break, delete the alias entirely in Alt-ID's dashboard (one click), create a new one, and update your Quora account email. The old alias stops receiving anything. The whole process takes under three minutes.
 
-**Does using an email alias protect me from the 2018 Quora breach?**
+**Does using an [email alias](https://snipstack.io/email-alias-for-linkedin-profile-privacy-2026/) protect me from the 2018 Quora breach?**
 
 It does not remove your original address from breach databases that already hold it. What it does: ensure your current Quora activity and any future Quora communications use a different address, giving you a clean separation between old breach exposure and new activity. If spam is still arriving on your old address, you know its source is historical breach data rather than current Quora behavior — that's useful forensic information, even if the alias can't undo past exposure.
 
-**What happens if I delete my Quora alias — do I lose my account?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my Quora alias — do I lose my account?**
 
 You lose access to Quora account recovery via email. Before deleting, update your Quora account to a new alias first. The process: create a new Alt-ID alias, update your Quora email settings to the new alias, verify via the forwarded confirmation email, then delete the old alias. Your account continuity transfers to the new alias with no disruption. Never delete an alias that's still the active email for an account you want to keep.
 
-**Is an email alias legal to use on Quora?**
+**Is an [email alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/) legal to use on Quora?**
 
 Yes. Quora's terms of service require a valid, working email address — which an alias satisfies. Aliases receive email, support verification, and enable account recovery. The address format is different from a typical Gmail or Outlook address, but nothing in Quora's terms prohibits forwarding aliases from established providers. This is different from creating fake accounts with no working email, which would violate terms.
 

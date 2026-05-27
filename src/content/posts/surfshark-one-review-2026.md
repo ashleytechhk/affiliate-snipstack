@@ -170,7 +170,7 @@ Download from the confirmation page or email. On Windows, run the installer as n
 
 Settings → General: confirm Auto-Update is on. Settings → Antivirus: confirm Real-Time Protection is on. Settings → VPN: enable Kill Switch.
 
-That is the full setup. The transition from Norton or McAfee to a fully configured Surfshark One installation takes under 20 minutes.
+That is the full setup. The transition from Norton or McAfee to a fully configured [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) installation takes under 20 minutes.
 
 ---
 

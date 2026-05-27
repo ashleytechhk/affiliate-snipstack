@@ -139,7 +139,7 @@ If an interaction turns bad or you simply want a fresh slate, replace your Alt-N
 
 ## Frequently Asked Questions
 
-**Will a second number actually pass Discord's phone verification in 2026?**
+**Will a [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) actually pass Discord's phone verification in 2026?**
 
 It depends on the type of number. Free VoIP numbers from apps like Google Voice or TextNow are blocked by Discord's verification system. Carrier-backed numbers — the type provided by [Alt-Number](/blog/altnumber?sub=second-number-for-discord-account-2026__faq) — pass Discord's check because they route through real mobile carrier infrastructure, which is what Discord's system is looking for.
 

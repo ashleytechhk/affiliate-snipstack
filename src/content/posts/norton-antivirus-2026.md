@@ -151,7 +151,7 @@ Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-compa
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) on all my devices including mobile?
 
-Surfshark One covers unlimited devices simultaneously, including Windows, macOS, iOS, Android, and Linux. You install it on as many devices as you own under a single subscription.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) covers unlimited devices simultaneously, including Windows, macOS, iOS, Android, and Linux. You install it on as many devices as you own under a single subscription.
 
 ### Does Surfshark keep VPN logs?
 

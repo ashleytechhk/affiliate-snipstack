@@ -182,7 +182,7 @@ A genuine all-in-one suite combines at minimum: antivirus, VPN, and identity/bre
 
 It depends on whether you use a VPN. If you regularly connect to public Wi-Fi (cafes, airports, hotels), the VPN component alone justifies the price compared to buying antivirus and a VPN separately. For a single person with only home Wi-Fi and minimal public exposure, Bitdefender's standalone antivirus is cheaper and has a stronger engine. [Surfshark One Bundle](/blog/one?sub=best-all-in-one-security-suite-2026__faq) makes the most sense when devices or breach monitoring needs outnumber what cheaper options cover.
 
-### Does Surfshark One include antivirus or just a VPN?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) include antivirus or just a VPN?
 
 Surfshark One Bundle includes all four components: VPN, [antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/) real-time protection, Surfshark Alert (breach and identity monitoring), and CleanWeb (ad and tracker blocking). It's a single app with all features integrated — not four separate products bundled together.
 

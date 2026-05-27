@@ -147,7 +147,7 @@ Independent lab results show Surfshark's antivirus performing well for everyday 
 
 Both offer online account dashboards where you can disable auto-renew. However, both companies are known for making cancellation flows difficult and for sending retention offers once you begin the process. Check your account settings, not just the confirmation email you received at signup.
 
-### How many devices does Surfshark One cover?
+### How many devices does [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) cover?
 
 Surfshark One covers unlimited devices under a single subscription. This includes Windows, macOS, Android, and iOS. Norton 360 Deluxe covers five devices; McAfee Total Protection varies by plan (typically five on standard tiers).
 

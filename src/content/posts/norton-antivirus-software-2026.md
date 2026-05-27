@@ -141,7 +141,7 @@ Yes. All four major platforms are covered, with browser extensions available for
 Surfshark Alert monitors breach databases and notifies you if your email, passwords, or other personal data appear in leaked datasets. It is not an insurance product (no reimbursement like LifeLock), but for proactive monitoring it covers the same ground at a lower cost.
 
 **Can I run Norton and [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) at the same time?**
-Running two antivirus engines simultaneously on the same device causes conflicts and will degrade performance for both. Disable or uninstall Norton before activating Surfshark One's antivirus component.
+Running two antivirus engines simultaneously on the same device causes conflicts and will degrade performance for both. Disable or uninstall Norton before activating [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/)'s antivirus component.
 
 ---
 

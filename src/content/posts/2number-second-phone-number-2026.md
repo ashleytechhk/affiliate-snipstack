@@ -222,7 +222,7 @@ If a date goes badly, you block or replace. Your real number never enters the pi
 Surfshark Alt-Number is the cleanest implementation of this for dating users: fast setup, real mobile numbers, global availability, and the ability to shut it down without any drama.
 
 > **[Get Surfshark Alt-Number — protect your real number while dating](/blog/altnumber?sub=2number-second-phone-number-2026__cta)**
-> Virtual second number · No SIM · Works on your existing phone
+> Virtual [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) · No SIM · Works on your existing phone
 
 ---
 

@@ -116,7 +116,7 @@ McAfee+ Premium: similar pattern — introductory pricing followed by a renewal 
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle: multi-year plans average significantly less per month, and the renewal gap is smaller than Norton's or McAfee's. The unlimited device coverage also means that as you add devices — a new tablet, a travel companion you want to protect — you are not hitting a ceiling.
 
-Over a two-year period, most travelers switching from Norton to Surfshark One Bundle save money even before accounting for the time not spent dealing with a scan-locked laptop at 9 AM.
+Over a two-year period, most travelers switching from Norton to [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) Bundle save money even before accounting for the time not spent dealing with a scan-locked laptop at 9 AM.
 
 ![Surfshark One Bundle vs Norton 360 vs McAfee — pricing and device limit comparison for frequent travelers](/og/security-bundle-for-frequent-travelers-2026-inline-2.png)
 

@@ -99,7 +99,7 @@ Pricing aside, many Norton and McAfee users cite the user experience as their ma
 
 ## Who Should Switch — And Who Shouldn't
 
-**Surfshark One is the better fit if:**
+**[Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) is the better fit if:**
 - Your Norton or McAfee renewal just arrived and the price increased significantly
 - You want VPN included without paying for a separate subscription
 - You're running multiple devices and hitting device limits on your current plan

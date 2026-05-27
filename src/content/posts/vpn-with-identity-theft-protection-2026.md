@@ -184,7 +184,7 @@ Setting up the monitoring takes ten minutes. But the real work happens when an a
 
 The tools do the watching. You still need to do the responding.
 
-If your current setup is a $120/year Norton subscription you installed three years ago and haven't looked at since, it's worth doing the math on what you're actually getting versus what Surfshark One would cost you. In most cases, you come out ahead on price, get equivalent (and in some areas better) protection, and drop the software you've been meaning to uninstall anyway.
+If your current setup is a $120/year Norton subscription you installed three years ago and haven't looked at since, it's worth doing the math on what you're actually getting versus what [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) would cost you. In most cases, you come out ahead on price, get equivalent (and in some areas better) protection, and drop the software you've been meaning to uninstall anyway.
 
 **Ready to replace Norton's bloat with something that actually works for you?**
 

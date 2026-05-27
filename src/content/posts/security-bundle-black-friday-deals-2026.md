@@ -175,7 +175,7 @@ Multi-year plans lock in the promotional rate for the full subscription term. A 
 
 Unlimited. One [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) subscription covers every device you own simultaneously — Windows, macOS, iOS, and Android are all supported. Norton 360's standard tier caps at five devices. McAfee Total Protection also offers unlimited device coverage on its multi-device plans.
 
-### Can I get a refund if I buy Surfshark One on Black Friday and change my mind?
+### Can I get a refund if I buy [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) on Black Friday and change my mind?
 
 Yes. Surfshark offers a 30-day refund window on new subscriptions regardless of when you purchase. If you buy during Black Friday and decide within 30 days it is not right for you, you can request a full refund. Norton and McAfee offer similar 30-day or 60-day refund policies depending on the product and region — check the specific terms at checkout.
 

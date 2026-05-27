@@ -160,7 +160,7 @@ Yes — most paid services cover multiple devices under one subscription. [Surfs
 
 ### What should I do right now if I am worried about identity theft?
 
-Three steps make the biggest immediate difference: First, check whether your email address has already appeared in any known breaches — the website haveibeenpwned.com does this for free. Second, use a different password for your email account than any other site. Third, consider a service like Surfshark One that monitors for future breaches and blocks dangerous links automatically. Those three steps address the most common paths thieves use to access personal information.
+Three steps make the biggest immediate difference: First, check whether your email address has already appeared in any known breaches — the website haveibeenpwned.com does this for free. Second, use a different password for your email account than any other site. Third, consider a service like [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) that monitors for future breaches and blocks dangerous links automatically. Those three steps address the most common paths thieves use to access personal information.
 
 ---
 

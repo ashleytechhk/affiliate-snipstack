@@ -172,11 +172,11 @@ Yes. CleanWeb applies Surfshark's curated blocklist — a maintained set of rule
 
 ### Can I add custom filter lists to a VPN-based [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/)?
 
-VPN-based blockers like CleanWeb and AdGuard DNS do not expose a filter list UI the same way browser extensions do. The tradeoff is that list management is handled for you. If you need highly granular filter list control — custom rules, community lists, element blocking — a desktop browser extension like uBlock Origin gives you the most flexibility. For mobile users who want broad coverage with zero configuration, managed lists through a VPN-based blocker are the practical choice.
+VPN-based blockers like CleanWeb and [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) do not expose a filter list UI the same way browser extensions do. The tradeoff is that list management is handled for you. If you need highly granular filter list control — custom rules, community lists, element blocking — a desktop browser extension like uBlock Origin gives you the most flexibility. For mobile users who want broad coverage with zero configuration, managed lists through a VPN-based blocker are the practical choice.
 
 ### Why does my [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/) miss some ads on mobile apps?
 
-Two main reasons. First, if your [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) only works in a browser (like most content blockers and browser extensions), it cannot see traffic from native apps at all. Second, even network-level blockers that use filter lists miss ads that are served from the same domain as regular content — YouTube pre-rolls are the well-known example. Additionally, ads that are compiled directly into app code as SDKs do not make separate network requests that filter lists can intercept. No ad blocker eliminates every ad on mobile; the best tools reduce ad load significantly while also blocking trackers and malware domains.
+Two main reasons. First, if your [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) only works in a browser (like most content blockers and browser extensions), it cannot see traffic from native apps at all. Second, even network-level blockers that use filter lists miss ads that are served from the same domain as regular content — YouTube pre-rolls are the well-known example. Additionally, ads that are compiled directly into app code as SDKs do not make separate network requests that filter lists can intercept. No [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) eliminates every ad on mobile; the best tools reduce ad load significantly while also blocking trackers and malware domains.
 
 ### Is it better to manage filter lists manually or use a tool that handles it automatically?
 
@@ -186,7 +186,7 @@ For desktop power-users on Firefox, manual list management with uBlock Origin gi
 
 ## Bottom Line
 
-Filter lists are not a background detail — they determine whether your ad blocker is actually working or just running quietly in the background blocking nothing new. On mobile, the additional challenge is that browser-based filter lists do not reach inside native apps. The tools that do reach inside apps are network-level blockers that apply filter lists to all device traffic, not just browser sessions.
+Filter lists are not a background detail — they determine whether your [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) is actually working or just running quietly in the background blocking nothing new. On mobile, the additional challenge is that browser-based filter lists do not reach inside native apps. The tools that do reach inside apps are network-level blockers that apply filter lists to all device traffic, not just browser sessions.
 
 For mobile power-users who want meaningful coverage across apps and browsers without managing list subscriptions manually, Surfshark CleanWeb delivers the right combination: maintained filter lists, system-wide network-level coverage on iOS and Android, VPN included, and a setup that takes less time than reading this article.
 

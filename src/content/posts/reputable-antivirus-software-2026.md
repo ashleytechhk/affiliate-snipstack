@@ -110,7 +110,7 @@ It is less compelling for users who need AV-TEST-rated legacy reliability above 
 
 Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/)'s antivirus component has been independently tested by AV-TEST and has achieved passing scores on protection, performance, and usability categories. Surfshark as a company has undergone independent no-log audits for its VPN and publishes transparency reports. For users switching from Norton or McAfee, it is a credible, well-supported alternative rather than an unknown entity. [Check current Surfshark One pricing here.](/blog/surfshark?sub=reputable-antivirus-software-2026__faq)
 
-### Does Surfshark One slow down your computer?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) slow down your computer?
 
 Less than most established alternatives in testing. Because Surfshark's antivirus engine does not carry years of legacy architecture, its background CPU and memory usage tends to be lower than Norton or McAfee on equivalent hardware. AV-TEST awards a performance score alongside protection scores — check the most recent results for each vendor before deciding.
 

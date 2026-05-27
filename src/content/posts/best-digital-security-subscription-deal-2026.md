@@ -98,7 +98,7 @@ What's included:
 
 **CleanWeb** — Ad and tracker blocking at the network level. Blocks malicious ads before they load, which matters because malvertising (malware delivered through ad networks) is a common infection vector.
 
-The one gap worth noting: Surfshark One does not include a password manager. If you're currently using Norton's or McAfee's password manager, export your vault as a CSV before canceling and import it into a free standalone tool like Bitwarden.
+The one gap worth noting: [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) does not include a password manager. If you're currently using Norton's or McAfee's password manager, export your vault as a CSV before canceling and import it into a free standalone tool like Bitwarden.
 
 ---
 

@@ -113,7 +113,7 @@ Surfshark Alert is fully included in every [Surfshark One plan](https://snipstac
 
 ## Surfshark Search: The Feature Norton Doesn't Have
 
-Surfshark Search is a private search engine bundled into Surfshark One. It returns organic search results with no ads, no tracking, and no personalization based on your history.
+Surfshark Search is a private search engine bundled into [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/). It returns organic search results with no ads, no tracking, and no personalization based on your history.
 
 Norton and McAfee do not include anything equivalent. This is a genuine differentiator — for users who care about reducing their data footprint, having an ad-free, log-free search option built into the same subscription they're already paying for is straightforwardly useful.
 

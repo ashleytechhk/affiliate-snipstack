@@ -142,7 +142,7 @@ Yes. Surfshark has been independently audited by Cure53, a German cybersecurity 
 
 ### How does the Alternative ID feature protect my clinical email address?
 
-You generate a masked email through Surfshark One and use it on any registration form where you'd otherwise enter your real address. Emails sent to the masked address forward to your real inbox. If the masked address gets breached or starts receiving spam, you delete it — your real address is never exposed. This is particularly useful for conference registrations, CME platform sign-ups, and research database access where your real email commonly gets harvested.
+You generate a masked email through [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) and use it on any registration form where you'd otherwise enter your real address. Emails sent to the masked address forward to your real inbox. If the masked address gets breached or starts receiving spam, you delete it — your real address is never exposed. This is particularly useful for conference registrations, CME platform sign-ups, and research database access where your real email commonly gets harvested.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription if I switch mid-cycle?
 

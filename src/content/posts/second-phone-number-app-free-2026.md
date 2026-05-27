@@ -144,7 +144,7 @@ They're generally safe in terms of keeping your real number private. The privacy
 
 **Will dating apps ban me for using a [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/)?**
 
-No. Dating apps verify you received an SMS code — they don't check whether the receiving number is your "primary" line. As long as verification goes through, you're fine. This is true for Google Voice, Burner, Alt-Number, and any other second number service.
+No. Dating apps verify you received an SMS code — they don't check whether the receiving number is your "primary" line. As long as verification goes through, you're fine. This is true for Google Voice, Burner, Alt-Number, and any other [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) service.
 
 **Can I [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) number from a specific country?**
 

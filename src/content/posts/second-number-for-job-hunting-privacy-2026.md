@@ -124,7 +124,7 @@ Using a [second number for](https://snipstack.io/second-number-for-airbnb-host-a
 
 Yes. Alt-Number provides real mobile numbers accepted by SMS verification systems on major dating platforms. This is one of its primary use cases. VoIP numbers from services like Google Voice are commonly blocked — Alt-Number is not a VoIP line and does not trigger those blocks. [Get Alt-Number here](/blog/altnumber?sub=second-number-for-job-hunting-privacy-2026__faq) if you want to verify this before your next signup.
 
-**Can I use the same second number for both job hunting and dating apps?**
+**Can I use the same [second number for](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) both job hunting and dating apps?**
 
 Yes, and it is a practical approach. A single alias absorbs exposure from both channels. If the alias becomes compromised — high spam volume, an unwanted contact — you replace it across both contexts at once. Some people prefer a separate alias per context for cleaner attribution (knowing which channel leaked), but one alias covering both is better than using your real number in either place.
 

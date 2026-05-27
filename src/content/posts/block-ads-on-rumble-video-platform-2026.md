@@ -40,7 +40,7 @@ This is fundamentally different from, say, hiding an ad element on a webpage wit
 
 This is where most guides mislead mobile users.
 
-If you search for "[block ads on](https://snipstack.io/block-ads-on-pandora-radio-app-2026/) Rumble," most results will point you toward browser extensions — [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/), AdBlock Plus, and similar tools. These are excellent on desktop. On mobile, they have a hard architectural limit: they only work inside the browser they are installed in.
+If you search for "[block ads on](https://snipstack.io/block-ads-on-pandora-radio-app-2026/) Rumble," most results will point you toward browser extensions — [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/), [AdBlock Plus](https://snipstack.io/adblock-plus-for-android-2026/), and similar tools. These are excellent on desktop. On mobile, they have a hard architectural limit: they only work inside the browser they are installed in.
 
 The Rumble iOS app and Rumble Android app are native applications. They do not route their network traffic through your mobile browser. A Safari content blocker, a Chrome extension, or a Firefox add-on has zero visibility into what the Rumble app is requesting over the network.
 
@@ -105,7 +105,7 @@ For users who regularly switch between the app and browser, relying on browser-o
 
 ## Method 3 — Manual DNS Configuration (Advanced)
 
-Some users configure their phone's DNS settings to point at a public filtering DNS service — AdGuard DNS or similar services that maintain public ad-blocking DNS resolvers.
+Some users configure their phone's DNS settings to point at a public filtering DNS service — [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) or similar services that maintain public ad-blocking DNS resolvers.
 
 This approach works at the system level like CleanWeb does, but it requires manual setup and depends on a third-party DNS service you do not control. The blocklists on free public DNS services tend to update more slowly than maintained commercial services. On iOS, custom DNS configurations via "encrypted DNS" profiles add complexity and do not always persist reliably across network changes.
 
@@ -151,7 +151,7 @@ The easiest approach that actually works inside the Rumble app (not just a brows
 
 ### Do browser extensions [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) the Rumble mobile app?
 
-No. Browser extensions — including uBlock Origin, AdBlock Plus, and any other browser-based tool — only cover traffic within their specific browser. The Rumble iOS and Android apps are native applications that do not route traffic through your mobile browser. Extensions cannot see or block their ad requests.
+No. Browser extensions — including uBlock Origin, [AdBlock Plus](https://snipstack.io/adblock-plus-download-2026/), and any other browser-based tool — only cover traffic within their specific browser. The Rumble iOS and Android apps are native applications that do not route traffic through your mobile browser. Extensions cannot see or block their ad requests.
 
 ### Will a DNS [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) block all Rumble ads?
 

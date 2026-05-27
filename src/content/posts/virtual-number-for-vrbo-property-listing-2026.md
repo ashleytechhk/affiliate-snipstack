@@ -28,7 +28,7 @@ Surfshark Alt-Number gives you a working US [virtual phone number](https://snips
 
 When you set up a VRBO listing, the platform encourages you to provide a phone number for guests to reach you. Most hosts use their personal mobile. It feels natural — you are already using it for everything else, guests need to reach you quickly, and the platform presents it as a straightforward contact field.
 
-What VRBO does not explain is what happens to that number after a booking ends.
+What VRBO does not explain is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to that number after a booking ends.
 
 Your phone number does not disappear from a guest's contacts when checkout happens. It does not expire when you mark a booking complete. It stays in their phone, accessible forever, with no mechanism for you to revoke it. And it is not just the number itself that persists — it is everything that number connects to.
 
@@ -139,7 +139,7 @@ From the Surfshark dashboard, you can disable your current Alt-Number or replace
 Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-2026/) as a host contact is not prohibited under VRBO's standard terms of service. Hosts are not required to provide a personal mobile number — a working contact number is sufficient. Review VRBO's current terms if you have concerns. Surfshark's own Terms of Service require that Alt-Number not be used in ways that violate other platforms' rules or applicable law.
 
 **Is Alt-Number an add-on I pay for separately?**
-Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside the email alias tool. No separate purchase is required. **[See current plans and pricing](/blog/altnumber?sub=virtual-number-for-vrbo-property-listing-2026__faq)**.
+Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside the [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) tool. No separate purchase is required. **[See current plans and pricing](/blog/altnumber?sub=virtual-number-for-vrbo-property-listing-2026__faq)**.
 
 **Does this work for Airbnb hosts too, not just VRBO?**
 Yes. The same exposure exists on any platform where you provide a personal phone number to guests or potential guests. The virtual number approach — and Surfshark Alt-Number specifically — applies to Airbnb, VRBO, Hipcamp, and any other short-term rental platform where you communicate with guests via phone.

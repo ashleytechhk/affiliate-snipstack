@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 In 2025, the FBI reported that Americans over 60 lost more than **$4.8 billion** to online scams and fraud — more than any other age group. And a growing number of those victims had one thing in common: they thought they were protected.
 
-They had antivirus software installed. But it wasn't actually running properly.
+They had [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) installed. But it wasn't actually running properly.
 
 If you recently bought a new Windows laptop — a Copilot+ PC, a Surface Pro with a Snapdragon chip, or any other ARM-based model — there is a real chance the antivirus you downloaded is running in "compatibility mode." That means it is slower, it uses more battery, and in some cases it misses threats entirely. This is not a rare edge case. It is the default behavior for most popular antivirus products when installed on an ARM laptop.
 
@@ -64,8 +64,8 @@ This list reflects the state of major products as of mid-2026. The situation is 
 Several well-known antivirus brands still distribute x86-only installers for their Windows consumer products. When installed on an ARM laptop, these run through Prism emulation:
 
 - **McAfee Total Protection** — x86 installer, no ARM64 native build for consumer plans
-- **Norton 360** — partial ARM64 support; core antivirus engine still runs emulated on some builds
-- **Avast Free and Premium** — x86 only for the Windows desktop client
+- **[Norton 360](https://snipstack.io/norton-360-antivirus-2026/)** — partial ARM64 support; core antivirus engine still runs emulated on some builds
+- **[Avast Free](https://snipstack.io/avast-free-antivirus-2026/) and Premium** — x86 only for the Windows desktop client
 - **AVG** — same codebase as Avast, same limitation
 - **Trend Micro** — no ARM64 consumer build available as of 2026
 

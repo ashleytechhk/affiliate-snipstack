@@ -153,7 +153,7 @@ Yes. Surfshark's antivirus is powered by a proven detection engine and has perfo
 
 Yes — [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle is built so the antivirus and VPN run together on the same app without conflicts. You don't need to toggle between separate products or worry about interference.
 
-### How many devices can I protect with Surfshark One Bundle?
+### How many devices can I protect with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) Bundle?
 
 Unlimited. One subscription covers as many devices as you own across Windows, Mac, iOS, Android, and Linux. No tier upgrades required for household size.
 
