@@ -88,7 +88,7 @@ Quora rarely requires you to reply to emails — notifications link back to the 
 
 ---
 
-## How to Set Up an [Email Alias for](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) Your Quora Account
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias for](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) Your Quora Account
 
 The setup takes under five minutes for a new Quora account, and about eight minutes if you're updating an existing one.
 

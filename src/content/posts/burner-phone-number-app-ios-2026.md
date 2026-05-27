@@ -208,7 +208,7 @@ Depends on the app. Hushed and [Burner number](https://snipstack.io/burner-numbe
 
 No. Apps verify that you received an SMS code — they don't check whether it's your "primary" number. Using a [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) signup is fine. The only failure mode is if the number type is rejected before the code is even sent (the VoIP problem), not after.
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my dating profile if I cancel the burner number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my dating profile if I cancel the [burner number](https://snipstack.io/burner-number-for-taskrabbit-gigs-2026/)?**
 
 Your profile stays active. The phone number was only used for verification — it's not the ongoing login method on most dating apps (those use email or a linked social account). Cancelling the burner number after signup is fine; just don't need SMS verification again without a new number.
 

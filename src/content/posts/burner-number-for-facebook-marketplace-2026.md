@@ -146,7 +146,7 @@ Someone contacts you about a listing and the conversation gradually shifts perso
 
 ## FAQ
 
-**Is it legal to use a burner number on Facebook Marketplace?**
+**Is it legal to use a [burner number](https://snipstack.io/burner-number-for-taskrabbit-gigs-2026/) on Facebook Marketplace?**
 Yes. Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-personal-use-2026/) to protect your privacy is entirely legal. You're simply choosing which number to share — the same choice you make when using a work email instead of a personal one. Facebook Marketplace's terms of service do not require you to use your primary phone number.
 
 **Will buyers be suspicious if I use a different number?**

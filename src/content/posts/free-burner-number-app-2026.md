@@ -101,7 +101,7 @@ The whole process takes under three minutes.
 
 ---
 
-### Step 4 — Use Your Burner Number on Dating Apps
+### Step 4 — Use Your [Burner Number](https://snipstack.io/burner-number-for-taskrabbit-gigs-2026/) on Dating Apps
 
 With your burner number active, here is [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it across the main platforms:
 

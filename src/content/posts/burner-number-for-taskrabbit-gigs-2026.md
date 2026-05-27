@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 A 2024 report from the FBI's Internet Crime Complaint Center found that stalking and harassment via phone — where a victim's number was obtained through a public online profile — accounted for tens of thousands of complaints in a single year. Gig workers are disproportionately affected because their contact information is, by necessity, tied to a public identity.
 
-If you take gigs on TaskRabbit, your name and face are already out there. Clients browse your profile before booking. They see your photo, your first name, your general service area, your reviews. When they book you, your phone number gets shared so you can coordinate. That number is now in the hands of a stranger you've never met — and it's the same number you hand out when things get serious with someone you met on Hinge.
+If you take gigs on TaskRabbit, your name and face are already out there. Clients browse your profile before booking. They see your photo, your first name, your general service area, your reviews. When they book you, your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) gets shared so you can coordinate. That number is now in the hands of a stranger you've never met — and it's the same number you hand out when things get serious with someone you met on Hinge.
 
 That's not a hypothetical risk. It's the collision point where gig work and dating intersect — and where a lot of people find out, too late, that their personal life and professional availability were easier to connect than they realized.
 
@@ -24,7 +24,7 @@ A [burner number for](https://snipstack.io/burner-number-for-contractor-work-202
 
 ## The TaskRabbit Exposure Problem Most Taskers Miss
 
-When you list yourself on TaskRabbit, you're not just creating a service profile. You're building a searchable, persistent identity that ties your face, your name, and your location to your phone number.
+When you list yourself on TaskRabbit, you're not just creating a service profile. You're building a searchable, persistent identity that ties your face, your name, and your location to your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/).
 
 Here's what a client sees before they even book you: your first name, your profile photo, your distance from their location, your list of skills, and your recent reviews — which often mention your professionalism and sometimes your responsiveness. If you have enough reviews, your approximate neighborhood becomes clear just from the service history.
 
@@ -74,7 +74,7 @@ Not every [virtual number](https://snipstack.io/virtual-number-for-google-accoun
 
 **Controllable and killable.** You should be able to disable or replace the number in seconds if a client or match becomes a problem. Not a cancellation form. Not a three-business-day wait. Seconds.
 
-**No second device required.** Taskers are already managing a job, coordinating with clients, and handling their personal life from one phone. Adding a second handset for a private number is unnecessary friction. A [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) that runs inside an app on your existing phone is the practical option.
+**No second device required.** Taskers are already managing a job, coordinating with clients, and handling their personal life from one phone. Adding a second handset for a [private number](https://snipstack.io/private-number-for-garage-sale-listings-2026/) is unnecessary friction. A [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) that runs inside an app on your existing phone is the practical option.
 
 **Globally usable.** If you travel, work in multiple cities, or happen to be abroad, US-only services (Google Voice) or US/Canada-only services (Burner app) stop working. A service with international availability covers every situation.
 

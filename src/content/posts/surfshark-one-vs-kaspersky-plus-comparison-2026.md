@@ -82,7 +82,7 @@ The unlimited device policy is the feature that matters most if you are coming f
 
 Kaspersky Plus includes unlimited VPN bandwidth, which is more generous than many bundled VPNs. The underlying engine is Kaspersky Secure Connection, which uses Catapult Hydra protocol (a proprietary fast-tunnel protocol also used by Hotspot Shield). Speed is competitive in ideal conditions.
 
-The practical problem in 2026: for US users, the VPN stopped receiving updates in late 2024 along with the rest of Kaspersky's software stack. VPN software that is not updated is a security concern in itself — new vulnerabilities go unpatched. For non-US users evaluating Kaspersky Plus purely on technical merit, the VPN is functional but lacks the transparency and third-party audit record that [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) provides.
+The practical problem in 2026: for US users, the VPN stopped receiving updates in late 2024 along with the rest of Kaspersky's software stack. [VPN software](https://snipstack.io/vpn-software-hotspot-shield-2026/) that is not updated is a security concern in itself — new vulnerabilities go unpatched. For non-US users evaluating Kaspersky Plus purely on technical merit, the VPN is functional but lacks the transparency and third-party audit record that [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) provides.
 
 ---
 

@@ -172,7 +172,7 @@ For most people dating in 2026 — across multiple apps, potentially multiple co
 
 Google Voice is free and is technically a [burner number](https://snipstack.io/burner-number-for-depop-seller-account-2026/) you get online. The tradeoff is that it is tied to your Google account, works in the US only, and its numbers are flagged as VoIP in most lookup tools — so tech-savvy matches may notice. For actual privacy with a number that looks real, a paid service like Alt-Number is the better call.
 
-**How quickly can I get a burner number online?**
+**How quickly can I get a [burner number](https://snipstack.io/burner-number-for-taskrabbit-gigs-2026/) online?**
 
 With Surfshark Alt-Number, the gap between signing up and having an active number is under five minutes. Steps 1 through 6 above go fast when you have your payment details ready.
 

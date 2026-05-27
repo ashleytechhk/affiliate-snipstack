@@ -131,7 +131,7 @@ For someone who's already invested in online privacy — or who's had one bad ex
 
 ---
 
-## Real Scenarios Where a Burner Number Protects You
+## Real Scenarios Where a [Burner Number](https://snipstack.io/burner-number-for-taskrabbit-gigs-2026/) Protects You
 
 **Scenario 1: The persistent buyer.**
 You list a camera on OfferUp. A buyer haggles, you decline, he texts nine more times that day. With your real number, you block him — but he already has it, and it links back to you everywhere. With Alt-Number, you delete the number. His texts go nowhere.

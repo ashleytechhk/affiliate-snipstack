@@ -157,9 +157,9 @@ Yes. When you open news.google.com in Safari or Chrome on your phone, CleanWeb's
 
 No. Organic news cards, article text, images, and video from publishers all load normally — only ad domain requests are dropped. The app itself functions normally. The only visible change is that sponsored story cards are absent or replaced by blank space in the feed.
 
-**Can Google tell I am using an ad blocker?**
+**Can Google tell I am using an [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/)?**
 
-Google News can detect some browser-extension ad blockers through JavaScript fingerprinting. DNS-level blocking is much harder to detect. The ad request simply appears to time out from Google's perspective — the same as a slow network connection to an ad server. There is no browser signature to identify.
+Google News can detect some browser-extension [ad blocker](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/)s through JavaScript fingerprinting. DNS-level blocking is much harder to detect. The ad request simply appears to time out from Google's perspective — the same as a slow network connection to an ad server. There is no browser signature to identify.
 
 **Does this affect the rest of my Google services?**
 
@@ -208,7 +208,7 @@ The setup takes less time than reading this article took.
     },
     {
       "@type": "Question",
-      "name": "Can Google tell I am using an ad blocker?",
+      "name": "Can Google tell I am using an [ad blocker](https://snipstack.io/ad-blocker-for-parental-control-devices-2026/)?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Google News can detect some browser-extension ad blockers through JavaScript fingerprinting. DNS-level blocking is much harder to detect — the ad request simply appears to time out from Google's perspective, the same as a slow connection to an ad server."

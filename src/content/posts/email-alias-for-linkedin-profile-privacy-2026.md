@@ -91,7 +91,7 @@ SimpleLogin is open-source, which allows independent verification of their no-lo
 
 ---
 
-## How to Set Up an [Email Alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) on LinkedIn
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) on LinkedIn
 
 The setup takes less than five minutes:
 
