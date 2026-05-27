@@ -109,8 +109,8 @@ Here is what matters specifically for online daters who want to stop unwanted ca
 
 Getting Alt-Number running takes less time than the average first-message exchange.
 
-**Step 1 — Get Alt-Number through Surfshark One.**
-If you have a Surfshark One or One+ subscription, Alt-Number is available in your account dashboard now. If not, follow the link below to get set up with the plan that includes it.
+**Step 1 — Get Alt-Number through [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/).**
+If you have a [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) or One+ subscription, Alt-Number is available in your account dashboard now. If not, follow the link below to get set up with the plan that includes it.
 
 **Step 2 — Choose and activate your secondary number.**
 In the Surfshark app, navigate to Alt-Number and select a number. You can choose from available numbers in your area code. That number is now live and ready to receive calls and texts.
@@ -159,7 +159,7 @@ No. The Alt-Number is not linked to your personal identity in any public or sear
 When you retire a number, all incoming calls and texts to that number stop — regardless of what number the caller is using. Anyone who had the old number can no longer reach you through it. Your real number is unaffected. You can issue a new secondary number immediately if needed.
 
 **Do I need a separate subscription for Alt-Number?**
-Not if you already subscribe to Surfshark One or Surfshark One+. Alt-Number is included in both plans alongside Surfshark VPN, Alt ID, and Antivirus. If you are not yet a subscriber, Surfshark One is the entry point that unlocks the full bundle.
+Not if you already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or Surfshark One+. Alt-Number is included in both plans alongside Surfshark VPN, Alt ID, and Antivirus. If you are not yet a subscriber, Surfshark One is the entry point that unlocks the full bundle.
 
 **Is this different from just using call filtering on my iPhone?**
 Very different. Built-in [call filtering on iPhone](https://snipstack.io/call-filtering-app-for-iphone-2026/) silences calls from unknown numbers and flags likely spam — useful for reducing robocall noise, but it cannot stop a specific person calling from new numbers or block contact at the identity level. Alt-Number solves the problem at the source: the number they have is retired, and they have no path to your real number.

@@ -131,7 +131,7 @@ For someone who's already invested in online privacy — or who's had one bad ex
 
 ---
 
-## Real Scenarios Where a Burner Number Protects You
+## Real Scenarios Where a [Burner Number](https://snipstack.io/burner-number-for-depop-seller-account-2026/) Protects You
 
 **Scenario 1: The persistent buyer.**
 You list a camera on Marketplace. A buyer haggles, you decline, he texts seven more times. With your real number, you block him — but he already has it, and it links back to you. With Alt-Number, you delete the number. He texts into nothing.

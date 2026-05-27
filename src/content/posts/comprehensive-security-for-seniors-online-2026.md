@@ -138,7 +138,7 @@ For seniors who are primarily concerned about malware on a Windows PC and nothin
 
 ## The Specific Scenarios Where [Surfshark ONE](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Wins
 
-**A senior using public Wi-Fi at a medical center or airport.** Norton's VPN data cap (on lower tiers) runs out. McAfee includes no VPN. Surfshark ONE's unlimited VPN encrypts every session.
+**A senior using public Wi-Fi at a medical center or airport.** Norton's VPN data cap (on lower tiers) runs out. McAfee includes no VPN. [Surfshark ONE](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)'s unlimited VPN encrypts every session.
 
 **A phishing text arrives impersonating a courier service.** The senior taps the link. CleanWeb checks the domain — it is on a known phishing list. The page is blocked before it loads. Norton and McAfee do not have an equivalent DNS-level phishing interceptor outside the browser extension.
 

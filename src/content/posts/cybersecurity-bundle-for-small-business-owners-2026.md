@@ -115,7 +115,7 @@ Running the numbers honestly at publicly listed annual plan pricing as of May 20
 - Norton 360 (5-device plan): approximately $5.83/month — roughly $140 over two years
 - McAfee Total Protection (unlimited devices): approximately $8.33/month — roughly $200 over two years
 
-The two-year cost gap between Surfshark One and the equivalent McAfee tier is roughly $104. That is meaningful overhead for a small business watching margins. Against Norton's 5-device cap, you would need to upgrade to cover a typical small team, pushing costs further above Surfshark One's flat rate.
+The two-year cost gap between [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) and the equivalent McAfee tier is roughly $104. That is meaningful overhead for a small business watching margins. Against Norton's 5-device cap, you would need to upgrade to cover a typical small team, pushing costs further above Surfshark One's flat rate.
 
 *Verify current pricing at checkout. Promotions, introductory rates, and renewal pricing can all differ from the figures above.*
 

@@ -60,7 +60,7 @@ You get all four under one login, one dashboard, one subscription. There is no t
 
 ## The Monthly Plan: Honest Numbers
 
-Surfshark One's monthly plan runs approximately $15.45/month as of mid-2026. That is the most expensive way to buy it.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)'s monthly plan runs approximately $15.45/month as of mid-2026. That is the most expensive way to buy it.
 
 For context:
 - **Annual plan:** roughly $59.76/year, equivalent to about $4.98/month

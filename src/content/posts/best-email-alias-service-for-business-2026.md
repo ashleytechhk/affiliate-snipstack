@@ -50,7 +50,7 @@ For a business user, the key advantages are:
 - **Unlimited aliases with no throttle.** You can create one per client, per vendor, per newsletter — as many as your workflow needs.
 - **Two-way reply masking.** Client conversations work naturally without revealing your personal or business inbox address.
 - **Instant kill.** When a vendor relationship ends or a list starts spamming, you delete the alias in one click. No unsubscribes, no filters, no damage to your real address.
-- **Bundled value.** Alt-ID is included in Surfshark's standard subscription alongside VPN, antivirus, and a data removal tool. If inbox spam is part of a broader privacy concern — and for most business owners it is — this is a more efficient use of your subscription spend.
+- **Bundled value.** Alt-ID is included in Surfshark's standard subscription alongside VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and a data removal tool. If inbox spam is part of a broader privacy concern — and for most business owners it is — this is a more efficient use of your subscription spend.
 
 The main limitation: no custom domain. If you want `enquiries@yourcompany.com` to route through an alias layer, you'll need SimpleLogin instead. For most solopreneurs and small teams using Gmail or a standard business email provider, this isn't a blocker.
 
@@ -64,7 +64,7 @@ The main limitation: no custom domain. If you want `enquiries@yourcompany.com` t
 
 SimpleLogin is the strongest standalone alternative for business users who need custom domain support. You can route `contact@yourdomain.com` through SimpleLogin's alias layer, which is useful if your business email is also your public-facing address.
 
-The free tier allows 10 aliases. The paid plan (~$4/month) unlocks unlimited aliases, multiple custom domains, and PGP encryption for the privacy-focused. Two-way reply works cleanly. If you're already in the Proton ecosystem (ProtonMail, ProtonVPN), integration is seamless.
+The free tier allows 10 aliases. The paid plan (~$4/month) unlocks unlimited aliases, multiple custom domains, and PGP encryption for the privacy-focused. Two-way reply works cleanly. If you're already in the Proton ecosystem (ProtonMail, [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/)), integration is seamless.
 
 The main downside versus Alt-ID: it's an additional subscription rather than a bundled feature. If you're not already paying for Proton, you're adding another monthly line item.
 

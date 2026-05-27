@@ -171,7 +171,7 @@ Norton has a longer benchmark history and consistently earns top marks from AV-T
 
 Multi-year plans lock in the promotional rate for the full subscription term. A two-year [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/) at Black Friday pricing means you pay the discounted rate for both years — there is no renewal escalation until the plan ends. Month-to-month and annual plans typically revert to standard pricing at the next billing cycle.
 
-### How many devices does Surfshark One cover?
+### How many devices does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) cover?
 
 Unlimited. One Surfshark One subscription covers every device you own simultaneously — Windows, macOS, iOS, and Android are all supported. Norton 360's standard tier caps at five devices. McAfee Total Protection also offers unlimited device coverage on its multi-device plans.
 

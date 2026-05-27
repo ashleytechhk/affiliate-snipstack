@@ -111,7 +111,7 @@ Both Starter and One cover unlimited simultaneous devices. This is not marketing
 
 ## Making the Switch: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) in the First 20 Minutes
 
-Switching from Norton or McAfee to Surfshark One is straightforward, and the total time from canceling your old subscription to having Surfshark active is typically under 20 minutes.
+Switching from Norton or McAfee to [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) is straightforward, and the total time from canceling your old subscription to having Surfshark active is typically under 20 minutes.
 
 **Step 1 — Cancel auto-renewal before uninstalling.** Log into your Norton or McAfee account dashboard and turn off auto-renew. Screenshot the confirmation. Your existing coverage stays active until the expiry date — you are not left unprotected immediately.
 

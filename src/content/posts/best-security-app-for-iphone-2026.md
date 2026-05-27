@@ -131,7 +131,7 @@ Surfshark also runs introductory promotions — that is standard practice across
 
 Switching is a 10-minute process with no gap in coverage:
 
-1. Sign up for Surfshark One Bundle and download the iOS app from the App Store
+1. Sign up for [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) Bundle and download the iOS app from the App Store
 2. Enable the VPN and turn on CleanWeb in the Surfshark app settings
 3. Set up Surfshark Alert with your email address — it runs a first-pass breach check immediately
 4. Cancel your Norton or McAfee subscription via the App Store: Settings > Apple ID > Subscriptions

@@ -150,7 +150,7 @@ Norton and McAfee have decades of antivirus engine development behind them and s
 
 Both companies offer 30-day refund windows on new purchases. Refund requests on auto-renewals are more variable — Norton and McAfee have both received consumer complaints about renewal refusal. Check the terms of your specific plan. If you are within the renewal window, contacting support directly and citing a planned switch typically produces better results than going through automated channels.
 
-**Does Surfshark One work on all my devices?**
+**Does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) work on all my devices?**
 
 Surfshark One supports Windows, Mac, iOS, and Android with no device limit on the number of simultaneous connections. The VPN component can also be configured at the router level, covering devices that cannot run an app directly. For households with multiple people and devices, the unlimited connection policy is a practical advantage over capped plans.
 

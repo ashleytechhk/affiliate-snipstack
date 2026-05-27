@@ -114,7 +114,7 @@ For everyone else — especially people paying for antivirus plus a separate VPN
 
 Switching security software takes about 15 minutes and does not require technical expertise:
 
-1. Sign up for Surfshark One Bundle and download the installer for your platform
+1. Sign up for [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) Bundle and download the installer for your platform
 2. Run the Surfshark installer — it detects and prompts you to remove conflicting antivirus software automatically on most platforms
 3. Let the initial scan complete before cancelling your Norton subscription
 4. Cancel Norton before the next billing date — set a calendar reminder the moment you sign up for anything new

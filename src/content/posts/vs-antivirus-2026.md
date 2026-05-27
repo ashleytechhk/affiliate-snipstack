@@ -135,7 +135,7 @@ Unless you find a heavily discounted McAfee deal covering multiple years upfront
 
 ## FAQ
 
-### Does Surfshark One include a full VPN or a limited one?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) include a full VPN or a limited one?
 
 The Surfshark One bundle includes the full Surfshark VPN with unlimited data and access to 3,200+ servers across 100 countries. There is no data cap, unlike Norton's VPN on lower tiers. [Check current Surfshark One pricing here.](/blog/surfshark?sub=vs-antivirus-2026__faq)
 

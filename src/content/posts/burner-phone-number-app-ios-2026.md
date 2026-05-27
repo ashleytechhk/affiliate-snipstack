@@ -204,7 +204,7 @@ Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-
 
 Depends on the app. Hushed and [Burner number](https://snipstack.io/burner-number-for-renting-property-2026/)s remain active as long as you're subscribed. Google Voice numbers stay active as long as you make at least one call or send one text every six months. **[Surfshark Alt-Number](/blog/altnumber?sub=burner-phone-number-app-ios-2026__faq)** stays active on your subscription — no separate use-it-or-lose-it requirement.
 
-**Will dating apps ban me for using a burner number?**
+**Will dating apps ban me for using a [burner number](https://snipstack.io/burner-number-for-depop-seller-account-2026/)?**
 
 No. Apps verify that you received an SMS code — they don't check whether it's your "primary" number. Using a [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) signup is fine. The only failure mode is if the number type is rejected before the code is even sent (the VoIP problem), not after.
 

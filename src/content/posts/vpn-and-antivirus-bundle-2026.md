@@ -175,7 +175,7 @@ Check that their device has battery-saver mode set to allow Surfshark in the bac
 
 The case comes down to three factors:
 
-**1. Price at scale.** Norton 360 Deluxe lists at $49.99/year for the first year, then jumps to $104.99. NordVPN's standard plan renews at $99.99/year. Combined that is $200+ per year. Surfshark One's multi-year plan averages well below $60/year for unlimited devices.
+**1. Price at scale.** Norton 360 Deluxe lists at $49.99/year for the first year, then jumps to $104.99. NordVPN's standard plan renews at $99.99/year. Combined that is $200+ per year. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)'s multi-year plan averages well below $60/year for unlimited devices.
 
 **2. Single account management.** One set of credentials, one billing cycle, one support team. When Norton's support queue was running 45-minute wait times during the 2025 holiday season, having fewer vendors meant fewer headaches.
 

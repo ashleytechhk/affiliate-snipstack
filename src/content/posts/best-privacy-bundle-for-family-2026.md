@@ -69,7 +69,7 @@ Go to the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-compari
 
 [Get Surfshark One — VPN + Antivirus + Alt-ID + Alt-Number](/blog/one?sub=best-privacy-bundle-for-family-2026__mid)
 
-On the plans page, look for the **Surfshark One** tier (not Starter, not One+). This is the tier that includes all four components:
+On the plans page, look for the **[Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)** tier (not Starter, not One+). This is the tier that includes all four components:
 
 - **VPN** — encrypted browsing and streaming access on all devices
 - **Antivirus** — real-time malware and phishing protection (this replaces Norton/McAfee)

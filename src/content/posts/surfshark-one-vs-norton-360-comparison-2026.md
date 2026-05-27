@@ -137,7 +137,7 @@ For everyone else — especially anyone annoyed by Norton's bloat, confused by i
 
 ## Frequently Asked Questions
 
-**Does Surfshark One include a VPN?**
+**Does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) include a VPN?**
 Yes. Every Surfshark One subscription includes the full Surfshark VPN with unlimited simultaneous device connections. This is the same VPN sold as a standalone product — no feature restrictions.
 
 **Is Surfshark's antivirus as good as Norton's?**

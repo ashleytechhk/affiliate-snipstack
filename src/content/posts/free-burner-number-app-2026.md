@@ -70,7 +70,7 @@ Free [burner number](https://snipstack.io/burner-number-for-renting-property-202
 
 Dating apps that use third-party verification systems (Tinder, Hinge, and Bumble all do this to varying degrees) check whether an incoming number belongs to a real mobile carrier or a known VoIP range. If it is VoIP, verification either fails outright or the account gets flagged.
 
-**What this means practically:** If you are setting up a brand-new Tinder account with a free burner number, there is a real chance the SMS code never arrives — or the app rejects the number at entry. This is not a bug; it is an intentional fraud-prevention measure.
+**What this means practically:** If you are setting up a brand-new Tinder account with a free [burner number](https://snipstack.io/burner-number-for-depop-seller-account-2026/), there is a real chance the SMS code never arrives — or the app rejects the number at entry. This is not a bug; it is an intentional fraud-prevention measure.
 
 **The workaround:** Use a real carrier-backed number. Alt-Number provisions real mobile numbers — the same type of number that comes with a SIM card — which is why they pass verification where VoIP numbers fail.
 

@@ -90,7 +90,7 @@ AVG's pricing structure is designed to create confusion. The free version is not
 
 ![Surfshark One Bundle pricing and features overview](/og/vs-avg-antivirus-2026-inline-2.png)
 
-The value calculation is straightforward: if you have more than two or three devices in regular use, Surfshark One Bundle almost certainly costs less per device than any AVG paid tier.
+The value calculation is straightforward: if you have more than two or three devices in regular use, [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) Bundle almost certainly costs less per device than any AVG paid tier.
 
 ---
 

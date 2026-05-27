@@ -138,7 +138,7 @@ It depends on your habits. Google Play Protect covers users who exclusively inst
 
 ### Will a security app drain my Android battery?
 
-Some do, significantly. McAfee's Android background services are among the highest for battery impact in third-party benchmarks. Norton runs a persistent lock-screen widget that contributes to background drain. Bitdefender and Surfshark One both score well on battery impact tests — their background scanning is designed to run between active sessions rather than continuously.
+Some do, significantly. McAfee's Android background services are among the highest for battery impact in third-party benchmarks. Norton runs a persistent lock-screen widget that contributes to background drain. Bitdefender and [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) both score well on battery impact tests — their background scanning is designed to run between active sessions rather than continuously.
 
 ### Can I use one antivirus subscription across multiple Android phones?
 

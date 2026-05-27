@@ -88,7 +88,7 @@ This matters more for open source contributors than casual users. If you're main
 
 SimpleLogin and AnonAddy have free tiers (15–20 aliases respectively) that work for focused use. If you're aliasing only your GitHub account and a handful of dev tools, free tier is sufficient. The limitation appears when you want per-tool aliasing across your stack: GitHub, npm account, CircleCI, Vercel, Codecov, your issue tracker, your dev newsletter subscriptions — that's 10+ aliases before you've covered your core toolchain.
 
-Alt-ID is bundled with Surfshark's subscription plans. If you're already running a VPN for public WiFi on conference trips or remote work, Alt-ID comes with it — unlimited aliases at no incremental cost. For developers who travel or work from cafes, that combination is practical.
+Alt-ID is bundled with Surfshark's subscription plans. If you're already running a [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) WiFi on conference trips or remote work, Alt-ID comes with it — unlimited aliases at no incremental cost. For developers who travel or work from cafes, that combination is practical.
 
 ---
 
@@ -125,9 +125,9 @@ Yes. Set `user.email` in your `.gitconfig` to the alias address. Commits will em
 
 GitHub doesn't block established alias providers. Some platforms check against lists of known throwaway domains (like 10-minute-mail services), but Alt-ID and SimpleLogin use dedicated domains that don't appear on standard public blocklists. Registration completes normally. If a specific CI or dev tool blocks an alias domain, it's an outlier — contact their support, as the blocklist may be outdated.
 
-**What happens to my GitHub account if I delete the alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my GitHub account if I delete the alias?**
 
-You stop receiving GitHub emails at that alias until you update your account email. Before deleting any alias, update your GitHub account email to a new alias in Settings > Emails. Confirm via the verification email that arrives at your new alias, then delete the old one. The process takes about three minutes and doesn't interrupt your GitHub access.
+You [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) GitHub emails at that alias until you update your account email. Before deleting any alias, update your GitHub account email to a new alias in Settings > Emails. Confirm via the verification email that arrives at your new alias, then delete the old one. The process takes about three minutes and doesn't interrupt your GitHub access.
 
 **Is it worth creating separate aliases for every dev tool, or is one GitHub alias enough?**
 

@@ -143,7 +143,7 @@ Whichever suite you choose, a clean install matters. Running two antivirus engin
 4. Install [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) (or your chosen replacement) and run an initial full scan
 5. Cancel your old subscription's auto-renewal — do this before the next billing date, not after
 
-**Setting up Surfshark One specifically:**
+**Setting up [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) specifically:**
 
 - Enable CleanWeb in the VPN settings tab — it's off by default
 - Turn on real-time antivirus protection in the Antivirus section

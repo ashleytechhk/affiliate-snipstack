@@ -130,7 +130,7 @@ Stick with Norton if you're a US user deeply embedded in LifeLock's identity the
 
 Switching antivirus products is simpler than it sounds. The process:
 
-1. Download Surfshark One and run the lightweight installer
+1. Download [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) and run the lightweight installer
 2. Use Norton's official removal tool for a clean uninstall (avoid leaving conflicting AV drivers)
 3. Export any saved passwords from Norton Password Manager before you cancel
 4. Cancel Norton auto-renewal via your Norton account portal before the next billing date

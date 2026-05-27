@@ -166,7 +166,7 @@ WhatsApp and Telegram both run number-type checks before sending verification co
 
 They should not — but check the terms before you subscribe. Hushed and Alt-Number do not impose activity-based expiry on paid plans; your number persists as long as your subscription is active. Burner's credit-based model means a number can expire when credits run out, independent of activity. TextNow Premium does not have a hard expiry, but the underlying number pool is subject to recycling in ways the premium tier does not fully shield against.
 
-### Is a paid burner number legal to use for signups?
+### Is a paid [burner number](https://snipstack.io/burner-number-for-depop-seller-account-2026/) legal to use for signups?
 
 Yes. Secondary [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s are a mainstream tool used daily for business lines, privacy separation, and two-factor authentication backups. Using one for app signups or verification is not a terms-of-service violation — the services you are signing up for only care that the number can receive an SMS code, not that it is your primary number. Surfshark, Hushed, Burner, Telos, and TextNow all operate as legitimate telecom and VoIP service providers in their supported markets.
 

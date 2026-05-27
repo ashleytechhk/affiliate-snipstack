@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 In 2023, adults over 60 lost more than **$3.4 billion** to online fraud — the highest of any age group, according to the FBI's Internet Crime Report. A large and growing share of those attacks started on a tablet. Not a laptop. Not a desktop. A tablet. The same device you use to read the news, video call your grandchildren, and check your bank balance.
 
-If your Android tablet or iPad does not have antivirus protection right now, you are exposed to the same tricks that cost thousands of older adults their savings last year.
+If your Android tablet or iPad does not have [antivirus](https://snipstack.io/vs-antivirus-2026/) protection right now, you are exposed to the same tricks that cost thousands of older adults their savings last year.
 
 This guide explains why tablets are especially vulnerable, what the real threats look like, and [how to protect](https://snipstack.io/how-to-protect-against-phishing-emails-2026/) yourself in under ten minutes today.
 

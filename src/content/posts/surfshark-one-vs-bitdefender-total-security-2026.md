@@ -73,7 +73,7 @@ For the typical home user switching from Norton — who mostly wants something t
 
 ## What [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Adds That Bitdefender Doesn't
 
-The antivirus vs. antivirus comparison is just one slice of this. Surfshark One is explicitly a bundle — and the extras are not filler.
+The antivirus vs. antivirus comparison is just one slice of this. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) is explicitly a bundle — and the extras are not filler.
 
 ### Surfshark Alert
 

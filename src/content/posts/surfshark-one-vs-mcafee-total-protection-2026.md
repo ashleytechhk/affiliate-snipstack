@@ -113,7 +113,7 @@ This is not technically deceptive — the renewal terms are disclosed — but th
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) uses the same long-term plan structure common in the VPN industry: lower per-month cost on 1-year or 2-year plans versus month-to-month. The pricing is more transparent about what the cost becomes after the first term.
 
-For a direct cost comparison: Surfshark One on a multi-year plan typically runs below $4/month including the full VPN, antivirus, Alert, and Search. A McAfee Total Protection plan with comparable VPN (unlimited data) requires their premium tier, which runs higher and still does not include Search or an [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/).
+For a direct cost comparison: [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) on a multi-year plan typically runs below $4/month including the full VPN, antivirus, Alert, and Search. A McAfee Total Protection plan with comparable VPN (unlimited data) requires their premium tier, which runs higher and still does not include Search or an [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/).
 
 ![Device mockup showing Surfshark One dashboard across laptop, phone, and tablet — all connected simultaneously](/og/surfshark-one-vs-mcafee-total-protection-2026-inline-2.png)
 

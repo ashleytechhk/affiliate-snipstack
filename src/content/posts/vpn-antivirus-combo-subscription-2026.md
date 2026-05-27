@@ -192,7 +192,7 @@ Download the Surfshark app on your phone from the App Store or Google Play and l
 | Typical renewal price | Lower | $100+/yr | $90+/yr |
 | Browser toolbars installed | No | Often | Often |
 
-The [antivirus software](https://snipstack.io/antivirus-software-2026/) from Norton and McAfee is technically competent — that has never been the complaint. The complaint is the install footprint, the constant upsell prompts, and the renewal pricing that climbs each year. Surfshark One addresses all three.
+The [antivirus software](https://snipstack.io/antivirus-software-2026/) from Norton and McAfee is technically competent — that has never been the complaint. The complaint is the install footprint, the constant upsell prompts, and the renewal pricing that climbs each year. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) addresses all three.
 
 ---
 

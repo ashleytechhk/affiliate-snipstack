@@ -129,7 +129,7 @@ The antivirus capability of Norton and McAfee is technically solid — that has 
 
 ---
 
-## Setup Guide: Switch from Norton/McAfee to Surfshark One in 20 Minutes
+## Setup Guide: Switch from Norton/McAfee to [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) in 20 Minutes
 
 ### Step 1 — Cancel Your Existing Subscription
 

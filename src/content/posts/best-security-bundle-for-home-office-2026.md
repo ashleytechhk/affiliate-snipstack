@@ -109,7 +109,7 @@ Norton and McAfee offer some browser-level protection, but neither has an equiva
 
 Here's the pattern with Norton and McAfee: year-one pricing is competitive (sometimes deeply discounted), but year-two renewals are where the pain hits. It's common for the renewal price to be 60–80% higher than the introductory offer.
 
-Surfshark One's pricing is more predictable. The multi-year plans offer genuine savings, and the renewal gap is smaller. Over a two- or three-year window, most home-office users save money by switching — even if the first-year difference looks small.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)'s pricing is more predictable. The multi-year plans offer genuine savings, and the renewal gap is smaller. Over a two- or three-year window, most home-office users save money by switching — even if the first-year difference looks small.
 
 ![Surfshark One pricing and value comparison](/og/best-security-bundle-for-home-office-2026-inline-2.png)
 

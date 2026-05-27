@@ -147,7 +147,7 @@ Over three years, the cumulative pricing difference between a Norton 360 Deluxe 
 
 It includes the full Surfshark VPN — no data caps, no speed throttling, unlimited simultaneous connections, access to the full server network. This is the same VPN sold as a standalone product, not a limited version bundled to check a marketing box.
 
-### Can I use one Surfshark One Bundle subscription across my whole family?
+### Can I use one [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) Bundle subscription across my whole family?
 
 Yes. Surfshark's unlimited simultaneous connections policy means every device in your household can connect at the same time on a single account. There is no device cap to manage and no additional cost as your household adds devices.
 

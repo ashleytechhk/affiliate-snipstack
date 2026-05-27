@@ -144,7 +144,7 @@ On Windows, Surfshark Antivirus includes webcam protection that alerts you when 
 
 ### Stay on Norton 360 if you:
 
-- Need a password manager bundled in (Surfshark One does not include one)
+- Need a password manager bundled in ([Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) does not include one)
 - Want the highest independently tested detection rates and are willing to pay for them
 - Use LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance features beyond basic dark web monitoring
 

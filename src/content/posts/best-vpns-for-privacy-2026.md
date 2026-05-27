@@ -98,7 +98,7 @@ Surfshark Search returns organic results with no tracking, no personalization pr
 Switching is straightforward. The main step people miss is canceling before the auto-renewal date.
 
 1. **Check your renewal date** in your Norton or McAfee account portal. Set a reminder at least a week before.
-2. **Sign up for Surfshark One** and download the app on all your devices.
+2. **Sign up for [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)** and download the app on all your devices.
 3. **Import or note your existing passwords** if you use Norton's password manager (Surfshark's bundle doesn't include a password manager — use a standalone option like Bitwarden if needed).
 4. **Uninstall Norton / McAfee** via your OS's standard uninstall process. Both companies offer dedicated removal tools if the standard uninstall leaves residual files.
 5. **Enable CleanWeb and the Kill Switch** in Surfshark settings on day one — these are off by default.
