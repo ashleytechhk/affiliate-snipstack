@@ -64,7 +64,7 @@ Google Voice gives you a free US phone number that forwards calls and texts to y
 
 ### Option 3: Burner App
 
-The Burner app (iOS/Android) gives you temporary numbers you can "burn" — delete and replace — whenever you want. It's built specifically for this use case.
+The Burner app (iOS/Android) gives you [temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/)s you can "burn" — delete and replace — whenever you want. It's built specifically for this use case.
 
 **Pros:** Purpose-built for privacy. Easy to burn and replace numbers. Works for calls and texts.
 

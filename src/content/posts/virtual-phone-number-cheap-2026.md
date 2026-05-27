@@ -90,7 +90,7 @@ TextNow works best as a short-term burner — use it to verify an account, then 
 
 ## **4. Hushed**
 
-**Best for temporary numbers by the week**
+**Best for [temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/)s by the week**
 
 Hushed is a purpose-built [second number](https://snipstack.io/second-number-for-discord-account-2026/) app that sells numbers by usage — you can get a number for three days, a week, a month, or ongoing. Prices start around $1.99 for a short-term number. It supports US, Canadian, and UK numbers.
 

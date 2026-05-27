@@ -12,7 +12,7 @@ One in four online daters has experienced stalking, harassment, or threats after
 
 Your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is more exposed than you think. The moment you hand it to someone, it can be reverse-searched on services like Spokeo or BeenVerified in under 60 seconds. Name, neighborhood, employer — sometimes a street address — all tied back to one string of ten digits. And unlike an email address, you cannot just create a new phone number and move on.
 
-The simplest fix — one that most online daters have never considered — is using a dedicated temporary number for dating, kept completely separate from the number on your bank account, your work Slack, and your emergency contacts.
+The simplest fix — one that most online daters have never considered — is using a dedicated [temporary number for](https://snipstack.io/temporary-number-for-giveaway-entries-2026/) dating, kept completely separate from the number on your bank account, your work Slack, and your emergency contacts.
 
 **[Get a temporary number for online dating with Alt-Number →](/blog/altnumber?sub=best-app-for-temporary-sms-online-2026__above-fold)**
 

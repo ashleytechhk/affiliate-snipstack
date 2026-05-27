@@ -102,7 +102,7 @@ ExpressVPN passes WebRTC leak tests reliably, and its Lightway protocol delivers
 
 ### What to Avoid
 
-Free VPNs and many budget-tier providers fail WebRTC leak tests regularly. Their network drivers are often poorly maintained and do not properly bind WebRTC traffic to the VPN interface. If a WebRTC test returns your real IP while connected to a free VPN, there's typically no fix available — the architecture doesn't support it.
+[Free VPNs](https://snipstack.io/vs-free-vpns-2026/) and many budget-tier providers fail WebRTC leak tests regularly. Their network drivers are often poorly maintained and do not properly bind WebRTC traffic to the VPN interface. If a WebRTC test returns your real IP while connected to a free VPN, there's typically no fix available — the architecture doesn't support it.
 
 ![Comparison of VPN WebRTC leak protection across browsers](/og/vpn-that-passes-webrtc-leak-test-2026-inline-2.png)
 

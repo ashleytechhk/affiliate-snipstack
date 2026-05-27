@@ -79,7 +79,7 @@ From that point forward, your Nextdoor account is tied to the [virtual number](h
 
 If you have already tried this with a free service — a disposable SMS site, TextNow, a Google Voice number — you may have run into rejection. Nextdoor, like many platforms that care about location authenticity, filters known VoIP number ranges during verification. The platform's systems flag non-mobile numbers and either block the verification SMS or refuse the number outright.
 
-Free temporary number services are the most common target of these filters because they are the tools most commonly used to create fake local accounts. Nextdoor's verification is specifically designed to prevent that.
+Free [temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/) services are the most common target of these filters because they are the tools most commonly used to create fake local accounts. Nextdoor's verification is specifically designed to prevent that.
 
 Free virtual numbers also carry problems beyond just verification failure:
 

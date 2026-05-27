@@ -81,7 +81,7 @@ For domestic US communication where you just want a second line for personal/pro
 
 ### 3. Hushed — Best for Short-Term Privacy
 
-**Temporary numbers for specific situations. Simple and affordable.**
+**[Temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/)s for specific situations. Simple and affordable.**
 
 Hushed specializes in temporary and disposable phone numbers. You buy a number for a week, a month, or longer, use it for whatever you need, and let it expire. The app covers numbers across dozens of countries, and it's particularly popular for marketplace transactions — think buying or selling on Craigslist or [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/) where you want a number that can't be traced back to your real identity.
 

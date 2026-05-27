@@ -156,7 +156,7 @@ Yes, in most cases. Surfshark Alt-Number provides real mobile numbers rather tha
 
 **How cheap is "cheaply" — what does a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) actually cost?**
 
-Surfshark Alt-Number is available as part of Surfshark's subscription plans, which bundle multiple privacy tools. Compared to a physical prepaid SIM with a monthly carrier plan ($10–20/month plus hardware), a [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) through a privacy suite is significantly cheaper and requires no physical setup. Exact pricing is shown during signup.
+Surfshark Alt-Number is available as part of Surfshark's subscription plans, which bundle multiple privacy tools. Compared to a physical prepaid SIM with a monthly carrier plan ($10–20/month plus hardware), a [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) through a [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/) is significantly cheaper and requires no physical setup. Exact pricing is shown during signup.
 
 **Can someone find my real number if I give them my [virtual number](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/)?**
 

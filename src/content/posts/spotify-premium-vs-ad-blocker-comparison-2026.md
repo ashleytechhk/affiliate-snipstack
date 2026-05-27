@@ -146,7 +146,7 @@ The two tools are not competitors. They operate at different layers. Plenty of u
 
 ---
 
-## How to Set Up CleanWeb on Mobile
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up CleanWeb on Mobile
 
 If you decide a network-level [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) is the right call — or you want to stack it alongside Premium — here is how CleanWeb sets up on iOS and Android.
 

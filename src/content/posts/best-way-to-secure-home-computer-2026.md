@@ -50,7 +50,7 @@ Windows and macOS release security updates regularly. These updates fix known se
 
 **[How to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) on Windows:** Click the Start button, open Settings, then go to Windows Update. Click "Check for updates" and install anything listed.
 
-**How to check on Mac:** Click the Apple icon in the top left corner, then go to System Settings and Software Update. Install any updates shown.
+**[How to check](https://snipstack.io/how-to-check-if-a-website-is-safe-2026/) on Mac:** Click the Apple icon in the top left corner, then go to System Settings and Software Update. Install any updates shown.
 
 Setting your computer to update automatically overnight is the easiest long-term solution.
 

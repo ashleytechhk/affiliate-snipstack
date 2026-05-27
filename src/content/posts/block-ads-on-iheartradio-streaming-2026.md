@@ -20,7 +20,7 @@ This guide explains what [blocking ads on](https://snipstack.io/blocking-ads-on-
 
 ## Quick Verdict
 
-iHeartRadio uses two distinct ad delivery systems on mobile: Dynamic Ad Insertion (DAI) for audio ads stitched directly into streams, and standard network calls for display banners and pre-roll ads. A DNS-level [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) like **Surfshark CleanWeb** reliably blocks the second category — banner ads, tracker calls, and many pre-roll ad requests — and meaningfully reduces the ad load on your phone. Audio-stitched DAI ads are harder to block because they share delivery infrastructure with the music itself. The practical result: CleanWeb cuts a significant portion of iHeartRadio's ad interruptions on mobile and eliminates most of the visual ad clutter, without requiring any root access or technical setup. For a mobile power-user who wants easy, system-wide ad reduction, it is the strongest tool available.
+iHeartRadio uses two distinct ad delivery systems on mobile: Dynamic Ad Insertion (DAI) for audio ads stitched directly into streams, and standard network calls for display banners and pre-roll ads. A DNS-level [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) like **[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/)** reliably blocks the second category — banner ads, tracker calls, and many pre-roll ad requests — and meaningfully reduces the ad load on your phone. Audio-stitched DAI ads are harder to block because they share delivery infrastructure with the music itself. The practical result: CleanWeb cuts a significant portion of iHeartRadio's ad interruptions on mobile and eliminates most of the visual ad clutter, without requiring any root access or technical setup. For a mobile power-user who wants easy, system-wide ad reduction, it is the strongest tool available.
 
 ---
 
@@ -98,9 +98,9 @@ If ads are your primary complaint and you listen daily, the subscription cost ma
 
 ## Method 3 — DNS-Only Filtering (Free Tier Options)
 
-If you want ad filtering without a VPN subscription, free DNS services like NextDNS or AdGuard DNS can be configured as your device's Private DNS provider. This gives you system-wide filtering without routing traffic through a VPN server.
+If you want ad filtering without a VPN subscription, free DNS services like NextDNS or [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) can be configured as your device's Private DNS provider. This gives you system-wide filtering without routing traffic through a VPN server.
 
-**On Android:** Go to Settings > Network & Internet > Private DNS > enter a custom hostname (NextDNS or AdGuard DNS provide these).
+**On Android:** Go to Settings > Network & Internet > Private DNS > enter a custom hostname (NextDNS or [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) provide these).
 
 **On iOS:** Requires installing a DNS configuration profile or using a third-party app, which is slightly more involved than Android's built-in option.
 

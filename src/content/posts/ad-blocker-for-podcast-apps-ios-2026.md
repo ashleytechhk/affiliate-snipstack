@@ -159,7 +159,7 @@ Yes. Filtering content on your own device is not illegal in any major jurisdicti
 
 No. CleanWeb operates at the iOS network level through a VPN profile. It applies to every app on your device simultaneously, including whatever podcast player you currently use — Apple Podcasts, Overcast, Pocket Casts, Castro, Spotify, or others. No migration, no library export, no settings to change inside the app.
 
-**What happens to the audio when an ad is blocked?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to the audio when an ad is blocked?**
 
 When a dynamic ad request fails at the DNS layer, the podcast hosting server typically moves on to the next audio segment — the episode content. Most major hosting platforms handle this gracefully with a brief skip. The experience is similar to manually skipping a chapter. Occasionally there is a half-second of silence. Long awkward pauses are rare and usually resolve on the next episode load.
 

@@ -92,7 +92,7 @@ For a free first step if you are US-based and the VoIP limitation does not apply
 
 ### 3. Hushed — Best for Situation-Specific Personal Lines
 
-**Affordable temporary numbers across 40+ countries — best for defined, time-limited uses.**
+**Affordable [temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/)s across 40+ countries — best for defined, time-limited uses.**
 
 Hushed specialises in disposable and semi-permanent numbers you control completely. Unlike Burner (which leans into auto-destruction), Hushed lets you keep a number for as long as you pay for it — which can be weeks, months, or indefinitely. Numbers are available across 40+ countries, making it one of the more internationally flexible options on this list.
 

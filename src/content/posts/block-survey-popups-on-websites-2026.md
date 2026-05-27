@@ -33,7 +33,7 @@ The companies behind them — Hotjar, SurveyMonkey, Qualtrics, Medallia, Interco
 
 ### Why Survey Popups Are Different from Regular Ads
 
-Regular display ads load from known advertising domains. Ad blockers maintain filter lists — giant databases of blocked domains — that catch most of them. Survey popups are different for two reasons.
+Regular display ads load from known advertising domains. [Ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/)s maintain filter lists — giant databases of blocked domains — that catch most of them. Survey popups are different for two reasons.
 
 First, they often load from the website's own domain or a trusted subdomain. A filter list that blocks `hotjar.com` will catch some Hotjar surveys, but many sites proxy the script through their own servers to avoid exactly this kind of filtering.
 
@@ -67,7 +67,7 @@ There are three technical approaches, each with different coverage on mobile.
 
 ### Approach 1 — Browser-Based Filter Lists
 
-Tools like uBlock Origin (desktop only) and AdGuard's iOS content blocker apply filter lists inside the browser. They are effective against known third-party survey scripts. The limitation: they only operate within the browser. Open an app with an embedded web view — a news reader, a social app, a shopping app — and the browser blocker never runs.
+Tools like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) (desktop only) and AdGuard's iOS content blocker apply filter lists inside the browser. They are effective against known third-party survey scripts. The limitation: they only operate within the browser. Open an app with an embedded web view — a news reader, a social app, a shopping app — and the browser blocker never runs.
 
 On iOS, Content Blockers also cannot block first-party scripts (scripts that load from the same domain as the page), which is how the more sophisticated survey tools evade detection.
 
@@ -149,7 +149,7 @@ For a mobile user who was only looking for a solution to survey popups, the full
 
 ## Frequently Asked Questions
 
-**Why do survey popups appear even with an ad blocker installed?**
+**Why do survey popups appear even with an [ad blocker](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) installed?**
 
 Most ad blockers target known advertising domains. Survey tools like Hotjar, Qualtrics, and Intercom are classified as analytics or customer experience platforms, not ad networks. Their domains are often not on the standard filter lists, and they increasingly load scripts through the website's own domain to avoid blockers entirely. **[A network-level filter catches more of these →](/blog/adblock?sub=block-survey-popups-on-websites-2026__faq)**
 

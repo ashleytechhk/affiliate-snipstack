@@ -68,7 +68,7 @@ The free tier also shows ads, which is fine for occasional use but annoying if y
 
 ## Hushed — Clean Paid Option
 
-Hushed is the most polished standalone temporary number app. You can get a number in minutes with just an email address, numbers are genuinely disposable (you can delete and get a new one), and the app lets you manage multiple numbers if you want to keep different "contexts" separate.
+Hushed is the most polished standalone [temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/) app. You can get a number in minutes with just an email address, numbers are genuinely disposable (you can delete and get a new one), and the app lets you manage multiple numbers if you want to keep different "contexts" separate.
 
 For dating apps, Hushed works reliably. You can use it to verify, then keep that number active to share with new matches — and when you're ready to move them to your real number, or if things go sideways, you just drop the Hushed number.
 

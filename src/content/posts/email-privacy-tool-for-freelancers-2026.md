@@ -52,7 +52,7 @@ An email privacy tool addresses this at the layer that matters: what address the
 
 ### Alt-ID — Built for Ongoing Inbox Control
 
-[Alt-ID](https://snipstack.io/blog/altid?sub=email-privacy-tool-for-freelancers-2026__mid) is Surfshark's [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) system. It generates forwarding addresses that look like normal email addresses to anyone who receives them. Emails sent to an alias forward instantly to your real inbox — attachments, replies, and all. You interact with everything inside your existing email client.
+[Alt-ID](https://snipstack.io/blog/altid?sub=email-privacy-tool-for-freelancers-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) system. It generates forwarding addresses that look like normal email addresses to anyone who receives them. Emails sent to an alias forward instantly to your real inbox — attachments, replies, and all. You interact with everything inside your existing email client.
 
 ![Alt-ID dashboard showing multiple active aliases labeled by client, platform, and purpose — versus a single exposed real address doing all the work](/og/email-privacy-tool-for-freelancers-2026-inline-1.png)
 
