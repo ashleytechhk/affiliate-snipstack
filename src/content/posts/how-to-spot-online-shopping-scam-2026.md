@@ -28,7 +28,7 @@ Use this table as a quick reference before diving into each flag in detail.
 
 | Red Flag | Manual Check | Surfshark Alert |
 |---|---|---|
-| Stolen product photos | Reverse image search (takes 2–3 min per image) | Not applicable — image scanning is manual |
+| Stolen product photos | [Reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/) (takes 2–3 min per image) | Not applicable — image scanning is manual |
 | Copy-paste descriptions | Read carefully; search a phrase in quotes | Not applicable |
 | Pressure tactics ("Only 2 left!") | Visual inspection of the page | Not applicable |
 | Payment via gift card / wire / crypto only | Read the checkout page | Not applicable |

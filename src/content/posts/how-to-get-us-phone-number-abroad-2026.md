@@ -158,7 +158,7 @@ A [second phone number](https://snipstack.io/second-phone-number-for-verificatio
 
 - **Your IP address** can reveal your city if you're chatting via web-based apps
 - **Photos metadata** can embed location data if you haven't disabled it
-- **Reverse image search** can link dating profile photos to other accounts
+- **[Reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/)** can link dating profile photos to other accounts
 
 Alt-Number comes as part of the Surfshark ecosystem, which also includes VPN (masks your IP and location), Alt-ID (masked [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/)), and other privacy tools. For daters who want a complete layer of separation between their dating life and their real identity, the bundle approach is more practical than stitching together four separate services.
 

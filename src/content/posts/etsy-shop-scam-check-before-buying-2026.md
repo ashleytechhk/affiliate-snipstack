@@ -29,7 +29,7 @@ For most shoppers — especially anyone who has received a suspicious email link
 | Method | What It Catches | Setup Required | Cost | Real-Time Protection |
 |---|---|---|---|---|
 | Etsy's built-in review system | Fake or copied reviews | None | Free | No — historical only |
-| Google / reverse image search | Stolen photos, copied listings | None | Free | No — manual per check |
+| Google / [reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/) | Stolen photos, copied listings | None | Free | No — manual per check |
 | WHOIS domain lookup | Fake external shop sites | None | Free | No — manual per check |
 | VirusTotal URL scan | Malicious redirect links | None | Free | No — on-demand only |
 | Surfshark Alert / Scamcheck | Malicious links, phishing, breach alerts | Subscription | Paid (bundle) | Yes — always-on |

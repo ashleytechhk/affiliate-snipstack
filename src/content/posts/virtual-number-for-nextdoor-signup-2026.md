@@ -48,7 +48,7 @@ Here is how the exposure actually happens:
 
 **Dating apps leak more than you think.** Research from the Norwegian Consumer Council found that dating apps routinely share user data with third-party advertisers, including device identifiers and location data. If your real number is the anchor across platforms, any data leak from one service can be cross-referenced against others.
 
-**Screenshots persist.** If you share a profile image or even a username across Nextdoor and a dating app, reverse image search closes the gap even faster. Add a phone number, and the link between your local identity and your dating identity is no longer theoretical.
+**Screenshots persist.** If you share a profile image or even a username across Nextdoor and a dating app, [reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/) closes the gap even faster. Add a phone number, and the link between your local identity and your dating identity is no longer theoretical.
 
 None of this requires technical skill. It requires only that someone is motivated to look — and some people are.
 

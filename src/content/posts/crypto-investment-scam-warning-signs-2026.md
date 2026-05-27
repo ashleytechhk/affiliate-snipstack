@@ -74,7 +74,7 @@ Crypto scammers routinely fabricate endorsements. They create fake news articles
 
 Before trusting any celebrity endorsement in a crypto investment pitch, check the person's actual verified social media accounts and any major news outlet covering them. If the endorsement only appears in the investment pitch itself — or on a website you have never seen before — it is almost certainly fabricated.
 
-Reverse image search any photo of the endorser. Run a Google search for the person's name plus the platform name. If no credible third-party coverage exists, the endorsement is fake.
+[Reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/) any photo of the endorser. Run a Google search for the person's name plus the platform name. If no credible third-party coverage exists, the endorsement is fake.
 
 ---
 

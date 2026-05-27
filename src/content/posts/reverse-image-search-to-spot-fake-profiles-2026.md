@@ -12,7 +12,7 @@ You get a friend request from someone you don't recognise. Their profile photo s
 
 That hesitation is worth trusting. In 2026, fake profiles are one of the most common tools scammers use to gain your trust before asking for money, personal information, or access to your accounts. The good news: a technique called **reverse image search** can often expose a fake profile in under two minutes — and you don't need any technical knowledge to do it.
 
-This guide explains what reverse image search is, why it matters, and how to use it step by step. It also covers what to do when the suspicious contact reaches you by email — and which tool makes that check just as simple.
+This guide explains what reverse image search is, why it matters, and [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it step by step. It also covers [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) when the suspicious contact reaches you by email — and which tool makes that check just as simple.
 
 **[Suspicious email from someone you don't know? Check it free →](/blog/scamcheck?sub=reverse-image-search-to-spot-fake-profiles-2026__above-fold)**
 
@@ -46,7 +46,7 @@ Fake profiles aren't just a nuisance. They are the starting point for some of th
 
 **Impersonation scams** use fake profiles that mimic real people — a family member, a colleague, or a public figure — to request urgent transfers or personal information.
 
-What all of these have in common: a stolen photo, a convincing story, and enough patience to let trust develop before the ask arrives. Knowing how to verify a profile photo early in the process stops these scams before they reach that stage.
+What all of these have in common: a stolen photo, a convincing story, and enough patience to let trust develop before the ask arrives. Knowing [how to verify](https://snipstack.io/how-to-verify-a-website-before-buying-2026/) a profile photo early in the process stops these scams before they reach that stage.
 
 ![A fake social media profile using a stolen photo — and the reverse image search result revealing its true origin](/og/reverse-image-search-to-spot-fake-profiles-2026-inline-1.png)
 

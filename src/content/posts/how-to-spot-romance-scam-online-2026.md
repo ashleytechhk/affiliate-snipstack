@@ -30,7 +30,7 @@ If someone you have met online asks for money before you have ever met in person
 
 Before diving into the warning signs, here is a side-by-side view of what each approach covers.
 
-| What You Are Checking | Manual Observation | Surfshark Scam Detector | Google Reverse Image Search | WHOIS Lookup |
+| What You Are Checking | Manual Observation | Surfshark Scam Detector | Google [Reverse Image Search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/) | WHOIS Lookup |
 |---|---|---|---|---|
 | Behavioural red flags (love-bombing, excuses) | Yes — your best tool | No | No | No |
 | Stolen profile photos | Possible with effort | No | Yes — fast and free | No |
