@@ -63,7 +63,7 @@ Your carrier runs call-reputation databases that can flag and block known roboca
 3. Enable **Automatic Fraud Blocking** and **Suspected Spam Calls to Voicemail**.
 4. Optionally, turn on **Nuisance Call Alerts** for flagged numbers that still ring through.
 
-AT&T's free tier covers fraud call blocking. The paid tier (ActiveArmor Advanced, ~$3.99/month) adds reverse number lookup and a call history with threat labels.
+AT&T's free tier covers fraud [call blocking](https://snipstack.io/call-blocking-app-for-small-business-2026/). The paid tier (ActiveArmor Advanced, ~$3.99/month) adds reverse number lookup and a call history with threat labels.
 
 ### Verizon — Call Filter
 

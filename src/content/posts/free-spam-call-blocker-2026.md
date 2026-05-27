@@ -62,7 +62,7 @@ It handles robocalls exceptionally well. On non-Pixel Android devices, the Googl
 
 **Best for: Cross-platform call labelling with a database-backed approach.**
 
-Hiya maintains a database of reported spam numbers and labels incoming calls before you pick up. The free tier covers basic spam identification and call blocking on both iOS and Android.
+Hiya maintains a database of reported spam numbers and labels incoming calls before you pick up. The free tier covers basic spam identification and [call blocking](https://snipstack.io/call-blocking-app-for-small-business-2026/) on both iOS and Android.
 
 ![Free spam call blocker comparison — Hiya, Nomorobo, and built-in filters](/og/free-spam-call-blocker-2026-inline-1.png)
 

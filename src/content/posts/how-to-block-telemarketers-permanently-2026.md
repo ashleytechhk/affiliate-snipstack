@@ -66,7 +66,7 @@ Go to [donotcall.gov](https://donotcall.gov) and register your real number. This
 
 ---
 
-### Step 2. Enable Your Carrier's Built-In Call Blocking
+### Step 2. Enable Your Carrier's Built-In [Call Blocking](https://snipstack.io/call-blocking-app-for-small-business-2026/)
 
 Every major US carrier offers a free spam-blocking service:
 

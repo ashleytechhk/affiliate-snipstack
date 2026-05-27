@@ -93,7 +93,7 @@ In any modern browser, pressing F12 (or right-clicking and choosing "Inspect") o
 
 This is the most thorough manual method. It will catch mismatched certificates, weak encryption, and improperly configured certificate chains that simpler tools miss.
 
-**The catch:** This level of inspection requires knowing what a correctly configured certificate chain looks like, what encryption standards are considered current, and what to do with the information once you have it. Most people who receive a suspicious email are not in a position to make that assessment quickly.
+**The catch:** This level of inspection requires knowing what a correctly configured certificate chain looks like, what encryption standards are considered current, and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) with the information once you have it. Most people who receive a suspicious email are not in a position to make that assessment quickly.
 
 ---
 
@@ -159,7 +159,7 @@ An SSL certificate contains the domain name it was issued for, the name of the c
 
 Do not enter any information on the page that opened. Close the tab immediately. If you entered a password on that page, change that password right away from a trusted device. If you entered banking or payment details, contact your bank directly using the number on the back of your card — not any number shown on the suspicious site. Report the incident to your country's relevant consumer or cybersecurity agency.
 
-### How is Surfshark's checker different from a standard SSL checker?
+### How [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s checker different from a standard SSL checker?
 
 Standard SSL checkers report only on the certificate itself — validity, issuer, expiry, configuration. Surfshark's Email Scam Checker also checks whether the sender domain passes email authentication tests, whether the domain is newly registered, and whether it appears in fraud or phishing databases. The result is a broader safety picture presented in plain language, rather than raw certificate data that requires technical knowledge to interpret.
 

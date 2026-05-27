@@ -69,7 +69,7 @@ If you try to log into your email or a website and your correct password no long
 
 ![Step-by-step guide: checking Task Manager and Windows Defender](/og/how-to-check-if-your-pc-is-hacked-2026-inline-1.png)
 
-## How to Check Your PC — Step by Step
+## [How to Check](https://snipstack.io/how-to-check-company-registration-online-2026/) Your PC — Step by Step
 
 You do not need to be a computer expert to run these checks. Follow each step at your own pace.
 

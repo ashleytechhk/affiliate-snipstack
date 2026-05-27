@@ -50,7 +50,7 @@ If you use iHeartRadio in a mobile browser rather than the app, that changes the
 
 ## Method 1 — Surfshark CleanWeb (DNS-Level, Best for Mobile)
 
-CleanWeb is Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). When you activate it on your phone, it operates as a local VPN profile that intercepts all DNS requests from every app on your device. Ad-serving domains get a null response before any content loads. The iHeartRadio app never receives the ad payload.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). When you activate it on your phone, it operates as a local VPN profile that intercepts all DNS requests from every app on your device. Ad-serving domains get a null response before any content loads. The iHeartRadio app never receives the ad payload.
 
 **What CleanWeb blocks on iHeartRadio:**
 - Banner and display ads inside the app interface
@@ -65,7 +65,7 @@ The net effect for most users is a noticeably cleaner app — less visual clutte
 
 **[Get Surfshark CleanWeb — works across all your mobile apps at once](/blog/adblock?sub=block-ads-on-iheartradio-streaming-2026__mid)**
 
-### How to Set Up CleanWeb on iPhone
+### [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up CleanWeb on iPhone
 
 1. Download the Surfshark app from the App Store.
 2. Open the app and tap **Settings**.

@@ -44,7 +44,7 @@ For a genuinely free reverse phone lookup, **Truecaller** (free tier) and **Goog
 
 Truecaller is a caller ID and spam-detection app with a large community database. When someone calls you from an unknown number, Truecaller checks it against hundreds of millions of user-reported entries and shows you the caller's likely identity and whether others have flagged it as spam.
 
-**What is free:** Caller ID, spam call blocking, basic reverse lookup of any number you type in.
+**What is free:** Caller ID, spam [call blocking](https://snipstack.io/call-blocking-app-for-small-business-2026/), basic reverse lookup of any number you type in.
 
 **What is not free:** Premium features include an ad-free experience, live call recording, and priority support. The core lookup is free.
 
