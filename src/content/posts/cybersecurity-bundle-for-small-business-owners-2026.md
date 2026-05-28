@@ -155,7 +155,7 @@ If you are paying for Norton or McAfee and feeling the friction — the pop-ups,
 
 One app. VPN, antivirus, breach monitoring, private search. Unlimited devices. No upsells once you are inside. No separate logins for each feature. For a small business owner who does not have time to manage a suite of security tools, that simplicity is the real product.
 
-**Switch to a security bundle that gets out of your way.**
+**Switch to a [security bundle](https://snipstack.io/security-bundle-for-freelancers-tax-season-2026/) that gets out of your way.**
 
 **[Get Surfshark One — check the current deal](/blog/one?sub=cybersecurity-bundle-for-small-business-owners-2026__cta)**
 

@@ -114,7 +114,7 @@ The dating use case is the most urgent, but the same exposure pattern shows up i
 
 **Rental inquiries.** Replying to [rental listing](https://snipstack.io/rental-listing-scam-how-to-check-2026/)s or posting your own puts your number in front of unknown parties.
 
-**Gig and freelance work.** Early client relationships often involve more personal contact than the work actually warrants. A virtual number handles those interactions without giving a new client a permanent line to your personal phone.
+**Gig and freelance work.** Early client relationships often involve more personal contact than the work actually warrants. A [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/) handles those interactions without giving a new client a permanent line to your personal phone.
 
 **Event ticket sales.** Reselling tickets involves a brief window of contact with a stranger to coordinate transfer. A virtual number handles that window without leaving a permanent connection.
 

@@ -148,7 +148,7 @@ A [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-
 Yes. Alt-Number receives both incoming calls and SMS messages. Outgoing texts work as replies to messages you have received. This makes it functional for real two-way contact — not just for receiving one-time verification codes.
 
 **What countries are Alt-Numbers available in?**
-Currently, Alt-Number generates US numbers. The service works globally as long as you have an internet connection — you do not need to be in the US to use your virtual number. **[Check current availability here](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__faq)**.
+Currently, Alt-Number generates US numbers. The service works globally as long as you have an internet connection — you do not need to be in the US to use your [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/). **[Check current availability here](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__faq)**.
 
 **What happens if I disable my Alt-Number?**
 Anyone who calls or texts that number after you disable it will not reach you. From their perspective, the number is unavailable. Your real number is unaffected — the two are completely separate.

@@ -35,7 +35,7 @@ Android 14 introduced better permission controls, improved privacy indicators, a
 
 They do not protect you from:
 
-- **Phishing links** sent via text message or email — fake bank pages, fake parcel delivery notices, fake government alerts
+- **[Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s** sent via text message or email — fake bank pages, fake parcel delivery notices, fake government alerts
 - **Social engineering scams** where a caller pretends to be your bank or phone company
 - **Dangerous websites** that load automatically when you tap a link
 - **Malware hidden inside apps** that passed Google Play's review process — this happens more often than Google publicly acknowledges

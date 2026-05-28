@@ -96,7 +96,7 @@ Getting a [virtual number for](https://snipstack.io/virtual-number-for-signal-re
 
 **Step 3.** Navigate to **Alternative ID** in the sidebar and select **Alt-Number**.
 
-**Step 4.** Click **Generate number**. A US virtual number is assigned immediately.
+**Step 4.** Click **Generate number**. A US [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/) is assigned immediately.
 
 **Step 5.** Save the number somewhere you can access without data — a note in your password manager or offline notes app. This is the number you share when a dating app match asks to move the conversation off-platform.
 

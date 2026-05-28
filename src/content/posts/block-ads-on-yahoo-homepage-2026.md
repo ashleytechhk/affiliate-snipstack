@@ -78,7 +78,7 @@ Banners and most tracker requests will be blocked immediately. Native sponsored 
 Chrome for Android does not support browser extensions. Your options are:
 
 - **Brave Browser** — install Brave from the Play Store. It ships with Shields, a built-in blocker that covers banners, trackers, and fingerprinting scripts on the Yahoo homepage out of the box.
-- **Firefox for Android** — supports the full uBlock Origin extension, giving you the same power as desktop.
+- **Firefox for Android** — supports the full [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) extension, giving you the same power as desktop.
 - **Samsung Internet** — supports a small number of content blocker apps from the Galaxy Store.
 
 The limitation of all browser-based methods: they have zero effect when you open the **Yahoo Mail or Yahoo News app**. App ads run through different network stacks that browsers never touch.
@@ -93,7 +93,7 @@ This approach covers the Yahoo homepage in Safari, Chrome, Brave, and the Yahoo 
 
 **[Block Yahoo ads across all apps with Surfshark CleanWeb →](/blog/adblock?sub=block-ads-on-yahoo-homepage-2026__mid)**
 
-Surfshark CleanWeb is a DNS-based ad and tracker blocker built into the Surfshark app. It installs as a standard VPN profile — a configuration option Apple and Google both support natively — and requires no technical setup beyond toggling it on.
+Surfshark CleanWeb is a DNS-based ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) built into the Surfshark app. It installs as a standard VPN profile — a configuration option Apple and Google both support natively — and requires no technical setup beyond toggling it on.
 
 ### What CleanWeb Blocks on Yahoo
 
@@ -166,7 +166,7 @@ Yes. CleanWeb operates at the DNS layer for all network traffic on your device. 
 
 ### Is blocking ads on Yahoo legal?
 
-Yes. Using software to filter content on your own device is legal in every major jurisdiction. Some site terms of service ask users not to use ad blockers, but these clauses are not legally enforceable against individual users.
+Yes. Using software to filter content on your own device is legal in every major jurisdiction. Some site terms of service ask users not to use [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/)s, but these clauses are not legally enforceable against individual users.
 
 ### Will DNS-level blocking slow down my phone?
 

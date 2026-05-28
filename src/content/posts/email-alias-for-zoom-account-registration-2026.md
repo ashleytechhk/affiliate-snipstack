@@ -38,7 +38,7 @@ The result is predictable: one Zoom account and a year of webinar registrations 
 
 ---
 
-## Comparison: Email Alias Options for Zoom Account Registration
+## Comparison: [Email Alias](https://snipstack.io/email-alias-for-linkedin-profile-privacy-2026/) Options for Zoom Account Registration
 
 Zoom's account setup requires a working email for verification, password reset, and meeting notifications. That rules out pure throwaway addresses. Here's how the main options stack up:
 
@@ -85,7 +85,7 @@ SimpleLogin and AnonAddy both have meaningful free tiers. For pure Zoom-account-
 
 ---
 
-## How to Set Up an Email Alias System for Zoom
+## How to Set Up an [Email Alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/) System for Zoom
 
 The strategy runs on two levels: one permanent alias for your Zoom account, and fresh aliases for individual webinar registrations.
 
@@ -135,7 +135,7 @@ No. Zoom sends 2FA verification codes to whichever email address is on the accou
 
 **If I delete a webinar alias, what happens to emails still being sent to it?**
 
-They bounce. The sending server receives a permanent failure notice, and a competent CRM system will eventually suppress that address from its list. You stop receiving those emails entirely. Your real address was never in the system, so there's nothing to chase down or unsubscribe from.
+They bounce. The sending server receives a permanent failure notice, and a competent CRM system will eventually suppress that address from its list. You [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) those emails entirely. Your real address was never in the system, so there's nothing to chase down or unsubscribe from.
 
 **How is this different from just unsubscribing from post-webinar emails?**
 

@@ -126,7 +126,7 @@ Open Signal. Tap **Register** and enter your Alt-Number when Signal asks for you
 
 Switch to the Alt-Number app. The verification code from Signal will arrive in your inbox within seconds. Copy the code, return to Signal, and paste it in.
 
-Signal registers. Your account is now tied to the virtual number.
+Signal registers. Your account is now tied to the [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/).
 
 ### Step 4 — Share your Alt-Number with matches
 

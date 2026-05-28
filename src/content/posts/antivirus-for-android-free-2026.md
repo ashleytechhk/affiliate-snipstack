@@ -224,7 +224,7 @@ Bitdefender Free. It is the lightest option with no background performance drain
 Once a week is enough if real-time protection is turned on. If you have been clicking links you were unsure about, run a scan straight away.
 
 **Q: [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Antivirus free?**
-[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is included in their security bundle, which has a paid subscription. However, it is often available at a steep introductory discount. [Check the current offer here](/blog/antivirus?sub=antivirus-for-android-free-2026__faq) — it is frequently cheaper than buying separate apps.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is included in their [security bundle](https://snipstack.io/security-bundle-for-freelancers-tax-season-2026/), which has a paid subscription. However, it is often available at a steep introductory discount. [Check the current offer here](/blog/antivirus?sub=antivirus-for-android-free-2026__faq) — it is frequently cheaper than buying separate apps.
 
 **Q: Can viruses steal my bank details from my phone?**
 Yes, malicious apps and phishing pages are specifically designed to do this. That is why it is important to install antivirus protection and only use banking apps downloaded directly from the Play Store.

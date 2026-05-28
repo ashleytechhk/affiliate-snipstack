@@ -123,7 +123,7 @@ Using a [virtual number for](https://snipstack.io/virtual-number-for-home-servic
 
 **Separate email addresses.** The same principle applies to email. Using a masked alias for Nextdoor signup means the platform's email address is not the same one tied to your dating profiles or your bank. If one service leaks data, it does not cascade.
 
-**Virtual numbers for other verifications.** The same Alt-Number that works for Nextdoor works for [Google account verification](https://snipstack.io/virtual-number-for-google-account-verification-2026/), messaging apps, and other platforms where SMS confirmation is required. One subscription covers multiple contexts.
+**[Virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/)s for other verifications.** The same Alt-Number that works for Nextdoor works for [Google account verification](https://snipstack.io/virtual-number-for-google-account-verification-2026/), messaging apps, and other platforms where SMS confirmation is required. One subscription covers multiple contexts.
 
 The goal is not to be untraceable — it is to ensure that a stranger you met last Tuesday on Tinder does not have, by accident, a direct line to your home postcode because two of your app accounts share a phone number.
 

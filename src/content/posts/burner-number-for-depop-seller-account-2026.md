@@ -68,13 +68,13 @@ Not every solution here works equally well. Here is an honest breakdown.
 
 **Prepaid SIM** is the most anonymous option but also the most inconvenient. You need to carry two phones or a dual-SIM device, and when you need a new number, you buy a new SIM.
 
-**Alt-Number** sits in the middle: it works as a real number, supports SMS and calls, lets you swap when needed, and is bundled with Surfshark One alongside VPN and identity monitoring. If you're already considering a privacy stack, the per-feature value is strong.
+**Alt-Number** sits in the middle: it works as a real number, supports SMS and calls, lets you swap when needed, and is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) alongside VPN and identity monitoring. If you're already considering a privacy stack, the per-feature value is strong.
 
 ![Inline comparison: alt-number vs. other second-number apps for dating and marketplace privacy](/og/burner-number-for-depop-seller-account-2026-inline-1.png)
 
 ---
 
-## How to Use a [Burner Number](https://snipstack.io/burner-number-for-contractor-work-2026/) on Depop
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) a [Burner Number](https://snipstack.io/burner-number-for-contractor-work-2026/) on Depop
 
 The setup is straightforward. You don't need to change how you use Depop at all — you just change what number you give out.
 
@@ -108,7 +108,7 @@ You aren't being suspicious or cold. You're managing a real risk that affects re
 
 Alt-Number is worth using if:
 
-- You actively sell on Depop, Facebook Marketplace, Vinted, or any platform where buyers contact you directly
+- You actively sell on Depop, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), Vinted, or any platform where buyers contact you directly
 - You use dating apps and move conversations to SMS before meeting
 - You've already had an uncomfortable experience with a buyer or match who had your real number
 - You want one tool that handles the number issue alongside VPN and identity monitoring rather than managing three separate subscriptions
