@@ -86,7 +86,7 @@ Setting up a [virtual number](https://snipstack.io/virtual-number-for-doordash-d
 
 **Step 4: Share the [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/) when moving off-platform.** When a match asks to text or call outside the app, give them the Alt-Number. They call it, it forwards to your real phone, and the conversation continues normally.
 
-**Step 5: Manage contacts independently.** Each person who has your virtual number can be managed through the app. If a contact becomes a problem, you can disable forwarding for that number — or replace the number entirely — without affecting anyone else and without touching your real phone settings.
+**Step 5: Manage contacts independently.** Each person who has your [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) can be managed through the app. If a contact becomes a problem, you can disable forwarding for that number — or replace the number entirely — without affecting anyone else and without touching your real phone settings.
 
 ![Surfshark Alt-Number app — managing virtual number for online dating contact](/og/virtual-number-with-call-forwarding-app-2026-inline-2.png)
 

@@ -51,7 +51,7 @@ No feature locks, no bandwidth caps, no device limits during the trial period. T
 
 ---
 
-## Comparison: Trial and Refund Options Across Security Suites
+## Comparison: Trial and Refund Options Across [Security Suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s
 
 | Product | Free Trial | Money-Back Window | Full Feature Access During Trial | Cancel Process |
 |---|---|---|---|---|

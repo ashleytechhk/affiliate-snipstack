@@ -180,7 +180,7 @@ In most cases, no. Running two full antivirus programs at the same time can caus
 
 ### Does Defender protect me on public Wi-Fi?
 
-No. Defender watches your files and programs, but it does not secure your internet connection. On public Wi-Fi — in a coffee shop, library, or airport — your browsing can potentially be seen by others on the same network. For that kind of protection you need a VPN or a full security suite. **[Surfshark's security tools](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__faq)** cover both device threats and connection privacy.
+No. Defender watches your files and programs, but it does not secure your internet connection. On public Wi-Fi — in a coffee shop, library, or airport — your browsing can potentially be seen by others on the same network. For that kind of protection you need a VPN or a full [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/). **[Surfshark's security tools](/blog/surfshark?sub=microsoft-defender-antivirus-for-windows-11-2026__faq)** cover both device threats and connection privacy.
 
 ### How often should I run a manual scan?
 

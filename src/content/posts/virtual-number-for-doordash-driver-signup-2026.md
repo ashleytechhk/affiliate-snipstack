@@ -146,7 +146,7 @@ Alt-Number is included with Surfshark subscription plans as part of the Alternat
 
 Virtual numbers that receive SMS can typically receive verification texts from apps. Surfshark Alt-Number receives SMS, which covers most standard app verification flows. A small number of platforms attempt to filter known VoIP number ranges — for those cases, check the app's specific requirements.
 
-**Is using a virtual number for dating legal?**
+**Is using a [virtual number for](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) dating legal?**
 
 Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-personal-use-2026/) for personal privacy is legal. Whether it complies with any specific platform's terms of service depends on that platform's policies — review the terms of any app you use. A virtual number is a real, working phone number, not fabricated contact information.
 

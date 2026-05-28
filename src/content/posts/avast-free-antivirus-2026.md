@@ -161,7 +161,7 @@ Start with free. Add Avast SecureLine VPN (~$4/month). If you want ransomware pr
 
 ### Can Avast Free and a VPN run at the same time?
 
-Yes — antivirus and VPN are separate processes and do not conflict. The practical issue is cost: running both means two subscriptions, two apps, two dashboards, and potentially two renewal dates to track. Bundled security suites exist precisely to eliminate this friction. If you want both, a bundle is almost always the more economical choice.
+Yes — antivirus and VPN are separate processes and do not conflict. The practical issue is cost: running both means two subscriptions, two apps, two dashboards, and potentially two renewal dates to track. Bundled [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s exist precisely to eliminate this friction. If you want both, a bundle is almost always the more economical choice.
 
 ### Is there a money-back guarantee with Surfshark One?
 

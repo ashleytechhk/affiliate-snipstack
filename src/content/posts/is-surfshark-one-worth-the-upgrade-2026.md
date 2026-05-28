@@ -171,7 +171,7 @@ Both scan known breach databases for your email address and notify you when cred
 
 ### Can I cancel Norton or McAfee and switch mid-subscription?
 
-Most security suites offer a refund window — typically 30–60 days — on annual plans. Outside that window, you will not receive a prorated refund. The practical move for most users is to cancel auto-renewal on the current subscription, run it out, and switch when it expires. Surfshark's 30-day money-back window lets you start testing the new setup before your current subscription ends. **[Check Surfshark One here](/blog/one?sub=is-surfshark-one-worth-the-upgrade-2026__faq)**
+Most [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s offer a refund window — typically 30–60 days — on annual plans. Outside that window, you will not receive a prorated refund. The practical move for most users is to cancel auto-renewal on the current subscription, run it out, and switch when it expires. Surfshark's 30-day money-back window lets you start testing the new setup before your current subscription ends. **[Check Surfshark One here](/blog/one?sub=is-surfshark-one-worth-the-upgrade-2026__faq)**
 
 ### Does Surfshark One work on all platforms?
 

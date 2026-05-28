@@ -100,7 +100,7 @@ Getting a [virtual number for](https://snipstack.io/virtual-number-for-signal-re
 
 **Step 5.** Save the number somewhere you can access without data — a note in your password manager or offline notes app. This is the number you share when a dating app match asks to move the conversation off-platform.
 
-**Step 6.** When a call or text arrives on your virtual number, you receive a notification in the Surfshark app. The interaction stays contained there. Your real SMS inbox and call history are untouched.
+**Step 6.** When a call or text arrives on your [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/), you receive a notification in the Surfshark app. The interaction stays contained there. Your real SMS inbox and call history are untouched.
 
 **Step 7.** Return home. If you want to close any connections made during the trip, disable or replace the virtual number in the Alt-Number dashboard. Every person who had that number loses access simultaneously. Your real number is completely unaffected.
 

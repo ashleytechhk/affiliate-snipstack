@@ -112,7 +112,7 @@ Neither is expensive compared to what Norton charges at renewal. Both offer mone
 - You're doing remote work or travel and need the full VPN regularly
 
 **Choose Avast One if:**
-- You want a security suite from a company with a longer AV testing history
+- You want a [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/) from a company with a longer AV testing history
 - You have fewer devices and the VPN is a secondary feature
 - Webcam/mic protection is on your must-have list
 - You've researched the 2020 Jumpshot history and are comfortable with it

@@ -92,7 +92,7 @@ If you check your email daily, shop online, use online banking, or connect to pu
 
 ## When Should You Upgrade Beyond Windows Security?
 
-You should consider adding a full security suite if you:
+You should consider adding a full [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/) if you:
 
 - Use public Wi-Fi (libraries, coffee shops, travel)
 - Do online banking or shopping

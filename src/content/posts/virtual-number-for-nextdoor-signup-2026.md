@@ -146,7 +146,7 @@ The trade-off with Alt-Number is that it is not free. The trade-off with every f
 
 **Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) verify Nextdoor?**
 
-Yes, as long as the virtual number is carrier-backed and not flagged as a known VoIP range. [Surfshark Alt-Number](/blog/altnumber?sub=virtual-number-for-nextdoor-signup-2026__faq) uses carrier-provisioned numbers that pass Nextdoor's SMS verification. Free disposable number services are typically rejected because they sit in flagged number ranges Nextdoor's system already screens out.
+Yes, as long as the [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) is carrier-backed and not flagged as a known VoIP range. [Surfshark Alt-Number](/blog/altnumber?sub=virtual-number-for-nextdoor-signup-2026__faq) uses carrier-provisioned numbers that pass Nextdoor's SMS verification. Free disposable number services are typically rejected because they sit in flagged number ranges Nextdoor's system already screens out.
 
 **Will Nextdoor detect that I'm using a virtual number?**
 

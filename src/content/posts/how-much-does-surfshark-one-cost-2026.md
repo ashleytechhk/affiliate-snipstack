@@ -78,7 +78,7 @@ Breach monitoring that checks whether your email addresses, passwords, or credit
 
 ### Surfshark Search
 
-A private search engine with no tracking, no ads, and no personalized profiling. This feature is unique to Surfshark — neither Norton nor McAfee include a private search tool in their security suites.
+A private search engine with no tracking, no ads, and no personalized profiling. This feature is unique to Surfshark — neither Norton nor McAfee include a private search tool in their [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s.
 
 ---
 

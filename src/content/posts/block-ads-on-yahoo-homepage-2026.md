@@ -111,7 +111,7 @@ For most users, the combination of CleanWeb at the DNS layer and a browser conte
 
 ---
 
-## How to Set Up Surfshark CleanWeb on Your Phone
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Surfshark CleanWeb on Your Phone
 
 Getting CleanWeb running takes under two minutes on either platform.
 

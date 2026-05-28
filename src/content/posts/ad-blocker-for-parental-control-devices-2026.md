@@ -159,7 +159,7 @@ Yes. CleanWeb runs on Android tablets and iPads through the same Surfshark app. 
 
 **Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-podcast-apps-ios-2026/) on a child's device?**
 
-Yes. Using software to filter network requests on a device you own or manage is legal in all major jurisdictions. Privacy regulations in some regions actually encourage or require parental tools that limit data collection from minors — a network-level ad blocker supports compliance with those goals by preventing tracker calls from leaving the device.
+Yes. Using software to filter network requests on a device you own or manage is legal in all major jurisdictions. Privacy regulations in some regions actually encourage or require parental tools that limit data collection from minors — a network-level [ad blocker](https://snipstack.io/ad-blocker-for-samsung-internet-browser-2026/) supports compliance with those goals by preventing tracker calls from leaving the device.
 
 ---
 

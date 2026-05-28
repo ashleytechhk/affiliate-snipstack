@@ -144,7 +144,7 @@ It depends heavily on the product. Heavy suites like older Norton and McAfee ver
 
 ### What is the difference between antivirus and internet [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)s?
 
-Antivirus (in the traditional sense) covers file scanning and malware detection. Internet security suites layer on top: firewall, anti-phishing, browser protection, parental controls, VPN, and identity monitoring. In practice, the line has blurred — most consumer "antivirus" products are actually internet security suites. When comparing products, look at what is included at the price tier you are evaluating, not just the product name, since feature sets vary significantly between base and premium tiers within the same brand.
+Antivirus (in the traditional sense) covers file scanning and malware detection. Internet [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s layer on top: firewall, anti-phishing, browser protection, parental controls, VPN, and identity monitoring. In practice, the line has blurred — most consumer "antivirus" products are actually internet security suites. When comparing products, look at what is included at the price tier you are evaluating, not just the product name, since feature sets vary significantly between base and premium tiers within the same brand.
 
 ### Is it safe to have two antivirus programs installed at the same time?
 

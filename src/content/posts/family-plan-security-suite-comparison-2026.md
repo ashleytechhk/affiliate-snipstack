@@ -69,7 +69,7 @@ McAfee has genuinely improved over the past few years. Its antivirus detection r
 
 That said, the bloatware reputation did not come from nowhere. McAfee still installs browser extensions aggressively, still pushes notifications about threats and performance issues that often feel exaggerated, and still has a renewal pricing model that mirrors Norton's: attractive for year one, painful from year two onward.
 
-The VPN included in McAfee Total Protection is among the most limited of any bundled security suite. It lacks a kill switch on some configurations, and its server network is significantly smaller than standalone VPN services. For families who actually want to use the VPN — for public Wi-Fi, for travel, for kids' device security — McAfee's offering is more checkbox than tool.
+The VPN included in McAfee Total Protection is among the most limited of any bundled [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/). It lacks a kill switch on some configurations, and its server network is significantly smaller than standalone VPN services. For families who actually want to use the VPN — for public Wi-Fi, for travel, for kids' device security — McAfee's offering is more checkbox than tool.
 
 Where McAfee does better than Norton: its identity protection features are available to more users across more plan tiers, and the multi-device coverage on its Premium plan (up to 10 devices) is more family-friendly than Norton's 5-device ceiling.
 

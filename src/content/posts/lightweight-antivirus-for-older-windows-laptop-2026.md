@@ -58,7 +58,7 @@ Ransomware is a type of virus that locks every file on your computer — photos,
 
 ### Tech-Support Scam Pop-Ups
 
-You are browsing a recipe website or reading the news, and suddenly a large pop-up fills the screen: "WARNING: Your computer has been infected. Call Microsoft Support now: 1-800-XXX-XXXX." The phone number connects to a scammer, not Microsoft. They will ask for remote access to your computer and your credit card number. A good antivirus blocks the websites that trigger these pop-ups before they ever load.
+You are browsing a recipe website or reading the news, and suddenly a large pop-up fills the screen: "WARNING: Your computer has been infected. Call Microsoft Support now: 1-800-XXX-XXXX." The [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) connects to a scammer, not Microsoft. They will ask for remote access to your computer and your credit card number. A good antivirus blocks the websites that trigger these pop-ups before they ever load.
 
 ### Phishing Emails
 
@@ -66,7 +66,7 @@ These are emails that look exactly like they came from your bank, from Medicare,
 
 ### Spyware
 
-Spyware runs silently in the background, recording everything you type: passwords, bank account numbers, Social Security numbers. You would never know it was there without a scanner actively looking for it. Real-time antivirus catches spyware during installation, before it has a chance to record anything.
+Spyware runs silently in the background, recording everything you type: passwords, bank account numbers, [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) numbers. You would never know it was there without a scanner actively looking for it. Real-time antivirus catches spyware during installation, before it has a chance to record anything.
 
 ---
 
@@ -166,7 +166,7 @@ The main reason older antivirus programs slow machines down is high memory and C
 
 Microsoft stopped releasing security updates for Windows 7 in January 2020. That means Windows 7 computers have years of known, unpatched security holes. A dedicated antivirus like Surfshark provides a critical layer of protection that fills those gaps, scanning files and blocking dangerous websites in real time. It is not a perfect substitute for upgrading to a newer operating system eventually, but it provides meaningful protection in the meantime. If you are on Windows 7, installing antivirus today is more urgent, not less.
 
-**Q: What if I get a pop-up saying my computer has a virus and I should call a phone number?**
+**Q: What if I get a pop-up saying my computer has a virus and I should call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)?**
 
 Do not call. That is a tech-support scam. No legitimate antivirus company will ever show you a pop-up with a phone number to call. Real threat alerts from Surfshark appear inside the app itself — they do not ask you to phone anyone. If you see a scary pop-up in your browser, press Alt + F4 on your keyboard to close the browser, or simply restart the computer. Your Surfshark antivirus will handle real threats automatically without any phone call required.
 
