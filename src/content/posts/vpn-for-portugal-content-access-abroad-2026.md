@@ -102,7 +102,7 @@ Surfshark keeps no logs of your internet activity, browsing history, or real IP 
 
 ### CleanWeb
 
-Surfshark's built-in CleanWeb feature blocks ads and trackers at the network level. Portuguese free streaming tiers — particularly the catch-up services — tend to carry heavy ad loads. CleanWeb reduces this without a separate ad blocker.
+Surfshark's built-in CleanWeb feature blocks ads and trackers at the network level. Portuguese free streaming tiers — particularly the catch-up services — tend to carry heavy ad loads. CleanWeb reduces this without a separate [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/).
 
 ### Pricing
 

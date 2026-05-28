@@ -150,7 +150,7 @@ No. Dating apps verify you received an SMS code — they don't check whether the
 
 Free options are mostly US only (Google Voice, TextNow, TextFree, 2ndLine). Hushed adds UK and Canada. Burner is US and Canada. [Surfshark Alt-Number](/blog/surfshark?sub=second-phone-number-app-free-2026__faq) offers multiple countries, which is a meaningful advantage if you're dating internationally or want a number from a specific region.
 
-**How do I stop someone from contacting me if I gave them a second number?**
+**How do I stop someone from contacting me if I gave them a [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/)?**
 
 Cancel or replace the number. Unlike blocking — which stops future contact but leaves your number in their phone — cancelling a second number means they can't reach that line at all. If you used a service like Burner or Alt-Number, generating a fresh number takes seconds.
 

@@ -106,7 +106,7 @@ For seniors who shop online, do their banking on the laptop, or use public Wi-Fi
 
 Scammers specifically target older computer users. The tactics that appear most in FBI and FTC reports are exactly the type that better antivirus catches and Defender sometimes misses:
 
-**Tech-support scams.** A pop-up appears saying "Your device has been compromised. Call Microsoft Support immediately." The phone number connects to a criminal who asks for remote access or payment. A good antivirus blocks the webpage that generates these pop-ups before they ever appear on your screen.
+**Tech-support scams.** A pop-up appears saying "Your device has been compromised. Call Microsoft Support immediately." The [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) connects to a criminal who asks for remote access or payment. A good antivirus blocks the webpage that generates these pop-ups before they ever appear on your screen.
 
 **Fake shopping websites.** You search for a product, find what looks like a trusted store, enter your card number, and receive nothing. Advanced phishing filters in premium antivirus warn you before you land on these pages.
 

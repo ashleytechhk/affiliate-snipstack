@@ -150,7 +150,7 @@ Yes. In your Lyft driver account settings, you can update your phone number at a
 
 **Does Lyft share my phone number with passengers?**
 
-Lyft routes passenger-driver communications through a masked number system — passengers do not directly see your phone number during the standard ride flow. However, masking systems can fail, and your account number is still embedded in your account record and accessible through account compromise. A second number limits the damage if the masking fails or your account is accessed without authorization.
+Lyft routes passenger-driver communications through a masked number system — passengers do not directly see your phone number during the standard ride flow. However, masking systems can fail, and your account number is still embedded in your account record and accessible through account compromise. A [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/) limits the damage if the masking fails or your account is accessed without authorization.
 
 **Is there a free way to [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) number that works for Lyft verification?**
 

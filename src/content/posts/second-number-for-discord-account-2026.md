@@ -165,7 +165,7 @@ There are free VoIP services, but most are blocked by Discord. The practical sta
 
 Discord is where online dating is increasingly happening in 2026 — voice channels, shared hobby servers, DMs that feel more human than a dating app inbox. That is also why it is a privacy surface worth thinking about carefully.
 
-Your real phone number, attached to your Discord account, is a thread that connects your online dating presence to your real-world identity. Most of the time, nothing pulls that thread. Sometimes, something does — and by then it is too late to wish you had set up a second number first.
+Your real phone number, attached to your Discord account, is a thread that connects your online dating presence to your real-world identity. Most of the time, nothing pulls that thread. Sometimes, something does — and by then it is too late to wish you had set up a [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/) first.
 
 A carrier-backed second number from Alt-Number takes five minutes to set up and keeps your Discord presence completely isolated from your real contact details. When a situation runs its course, you replace the number and the connection disappears.
 

@@ -148,7 +148,7 @@ Yes. In your Instacart Shopper account settings, you can update your phone numbe
 
 **Does Instacart share my phone number with customers?**
 
-Instacart routes shopper-customer communication through a masked messaging layer inside the app during active orders. Customers do not see your phone number in the standard flow. However, masking layers are not infallible, and your account phone number remains embedded in your account record, accessible if the account is ever targeted or if masking fails during a routing edge case. A second number limits the damage if that happens.
+Instacart routes shopper-customer communication through a masked messaging layer inside the app during active orders. Customers do not see your phone number in the standard flow. However, masking layers are not infallible, and your account phone number remains embedded in your account record, accessible if the account is ever targeted or if masking fails during a routing edge case. A [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/) limits the damage if that happens.
 
 **Is there a free way to [get a second number](https://snipstack.io/get-a-second-number-for-texting-2026/) that works for Instacart verification?**
 

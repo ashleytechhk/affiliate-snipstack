@@ -246,7 +246,7 @@ Surfshark Alt-Number is the cleanest implementation of this for dating users: fa
     },
     {
       "@type": "Question",
-      "name": "Can I use a second number to verify my Tinder or Hinge account?",
+      "name": "Can I use a [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/) to verify my Tinder or Hinge account?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Surfshark Alt-Number is a real mobile number and receives SMS verification codes normally. Most dating apps accept it without issue."

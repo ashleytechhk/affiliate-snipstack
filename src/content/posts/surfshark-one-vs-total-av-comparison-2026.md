@@ -91,7 +91,7 @@ This is the part of [Surfshark One](https://snipstack.io/surfshark-one-trial-ava
 
 **Surfshark Search** is a private search engine that returns results without tracking queries or building an advertising profile on you. You don't have to use it — but it's there, and it costs nothing extra.
 
-**Alternative ID** generates substitute personal details (a proxy name, a temporary email address) that you can use when signing up for services you don't fully trust. It shields your real identity from sites that are likely to sell or leak your data.
+**Alternative ID** generates substitute personal details (a proxy name, a [temporary email](https://snipstack.io/temporary-email-and-password-free-2026/) address) that you can use when signing up for services you don't fully trust. It shields your real identity from sites that are likely to sell or leak your data.
 
 TotalAV's equivalent is its WebShield and Identity Protection tools, which cover breach monitoring at a basic level. It does not include a private search engine or an identity masking tool equivalent to Alternative ID.
 
@@ -128,7 +128,7 @@ Surfshark One's interface is substantially cleaner. The tools are organized in a
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) worth it compared to [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) options?
 
-Free antivirus (including Windows Defender, which is genuinely solid) covers malware detection. What it does not cover is a VPN, breach monitoring, private search, or identity masking. Surfshark One makes sense if you want that broader coverage in one subscription rather than stitching together three or four separate tools. **[See what Surfshark One includes](/blog/one?sub=surfshark-one-vs-total-av-comparison-2026__faq)**
+[Free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) (including [Windows Defender](https://snipstack.io/windows-defender-download-2026/), which is genuinely solid) covers malware detection. What it does not cover is a VPN, breach monitoring, private search, or identity masking. Surfshark One makes sense if you want that broader coverage in one subscription rather than stitching together three or four separate tools. **[See what Surfshark One includes](/blog/one?sub=surfshark-one-vs-total-av-comparison-2026__faq)**
 
 ### Does TotalAV include a VPN?
 

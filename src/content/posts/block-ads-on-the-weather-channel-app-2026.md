@@ -85,7 +85,7 @@ The limitation: if you prefer The Weather Channel's specific data presentation, 
 
 [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) is a free, privacy-focused DNS service that blocks ad and tracking domains across all apps on your device. You configure it once in your phone's network settings and it provides system-wide filtering without any app installation.
 
-**On Android:** Settings > Network & Internet > Private DNS > enter the AdGuard DNS hostname.
+**On Android:** Settings > Network & Internet > Private DNS > enter the [AdGuard DNS hostname](https://snipstack.io/adguard-dns-hostname-2026/).
 
 **On iOS:** Requires a configuration profile, which AdGuard provides via their website.
 
@@ -95,7 +95,7 @@ The trade-off is maintenance. Free DNS services use static or slowly-updated blo
 
 ---
 
-## How To Set Up Surfshark CleanWeb on Your Phone
+## [How To Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Surfshark CleanWeb on Your Phone
 
 Getting CleanWeb running takes about two minutes on either platform. You do not need to keep the full VPN tunnel active — CleanWeb's DNS filtering works independently.
 

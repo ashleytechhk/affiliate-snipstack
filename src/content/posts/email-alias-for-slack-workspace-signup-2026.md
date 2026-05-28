@@ -83,7 +83,7 @@ When signing up for community Slack workspaces — especially those run by vendo
 
 ### Free Tier Reality Check
 
-SimpleLogin gives you 15 free aliases. Firefox Relay gives you 5. Both are useful if you're protecting a handful of accounts. But if you're managing 10+ Slack workspaces — plus email aliases for other services — those caps create friction. Alt-ID is unlimited from the start, bundled with a Surfshark subscription. If you're already considering Surfshark One (which combines VPN, antivirus, and Alt-ID), the alias feature adds no marginal cost.
+SimpleLogin gives you 15 free aliases. Firefox Relay gives you 5. Both are useful if you're protecting a handful of accounts. But if you're managing 10+ Slack workspaces — plus [email alias](https://snipstack.io/email-alias-for-zoom-account-registration-2026/)es for other services — those caps create friction. Alt-ID is unlimited from the start, bundled with a Surfshark subscription. If you're already considering Surfshark One (which combines VPN, antivirus, and Alt-ID), the alias feature adds no marginal cost.
 
 DuckDuckGo Email is free and unlimited but loses on the deletion mechanism. Apple Hide My Email requires iCloud+ (paid) but is otherwise unlimited and deeply integrated into Apple devices.
 
@@ -134,9 +134,9 @@ Slack does not currently block major alias providers like Alt-ID or SimpleLogin.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my alias but I'm still active in a Slack workspace?**
 
-Deleting an alias stops all forwarding from that address. You will stop receiving Slack notifications, sign-in emails, and workspace digests. Before deleting, update your Slack account email to a new alias (or your real address if you've resolved the spam source). Deletion without updating first means you lose access to Slack notifications from that account until you recover it.
+Deleting an alias stops all forwarding from that address. You will [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) Slack notifications, sign-in emails, and workspace digests. Before deleting, update your Slack account email to a new alias (or your real address if you've resolved the spam source). Deletion without updating first means you lose access to Slack notifications from that account until you recover it.
 
-**Does using an email alias affect Slack Connect or cross-workspace features?**
+**Does using an [email alias](https://snipstack.io/email-alias-for-linkedin-profile-privacy-2026/) affect Slack Connect or cross-workspace features?**
 
 No. Slack Connect and guest access in external workspaces are tied to your Slack account identity, not the underlying email address. Once your account is set up with an alias, Slack's internal features work identically. The alias is only relevant for the email channel — notifications, sign-in links, and admin messages.
 
