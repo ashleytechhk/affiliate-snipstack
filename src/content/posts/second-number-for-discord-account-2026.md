@@ -167,7 +167,7 @@ Discord is where online dating is increasingly happening in 2026 — voice chann
 
 Your real phone number, attached to your Discord account, is a thread that connects your online dating presence to your real-world identity. Most of the time, nothing pulls that thread. Sometimes, something does — and by then it is too late to wish you had set up a [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/) first.
 
-A carrier-backed second number from Alt-Number takes five minutes to set up and keeps your Discord presence completely isolated from your real contact details. When a situation runs its course, you replace the number and the connection disappears.
+A carrier-backed [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) from Alt-Number takes five minutes to set up and keeps your Discord presence completely isolated from your real contact details. When a situation runs its course, you replace the number and the connection disappears.
 
 Your real number is permanent. Make sure the one on your Discord account is not.
 

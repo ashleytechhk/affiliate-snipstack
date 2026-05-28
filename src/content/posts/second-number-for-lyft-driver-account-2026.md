@@ -158,7 +158,7 @@ Free VoIP services are typically blocked by Lyft's verification system. The prac
 
 **Does using a [second number for](https://snipstack.io/second-number-for-discord-account-2026/) Lyft violate Lyft's terms of service?**
 
-Lyft requires that drivers provide a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and communications — it does not require that number to be your personal primary line. A carrier-backed second number from Alt-Number satisfies Lyft's account requirements. What Lyft prohibits is fraudulent accounts; using a legitimate secondary number for privacy reasons is distinct from that.
+Lyft requires that drivers provide a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and communications — it does not require that number to be your personal primary line. A carrier-backed [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) from Alt-Number satisfies Lyft's account requirements. What Lyft prohibits is fraudulent accounts; using a legitimate secondary number for privacy reasons is distinct from that.
 
 ---
 

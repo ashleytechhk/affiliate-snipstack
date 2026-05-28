@@ -270,7 +270,7 @@ Surfshark Alt-Number is the cleanest implementation of this for dating users: fa
     },
     {
       "@type": "Question",
-      "name": "Is it dishonest to give someone a second number instead of my real one?",
+      "name": "Is it dishonest to give someone a [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) instead of my real one?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "No. You're still fully reachable on that number. You're protecting your primary contact information from someone you've just met, the same way you'd use a work email rather than your personal one for new professional contacts."

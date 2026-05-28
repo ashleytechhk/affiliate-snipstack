@@ -197,7 +197,7 @@ At home on your own password-protected Wi-Fi, a VPN is less critical than on pub
 
 [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) is built to run with a minimal footprint. Most users notice no difference in everyday tasks like email, video calls, or browsing. The first full scan may briefly use more of your computer's resources, but this settles down once the initial check is done.
 
-### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) antivirus with VPN included cost?
+### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) [antivirus with](https://snipstack.io/antivirus-with-game-mode-no-interruptions-2026/) VPN included cost?
 
 [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) typically costs less than most standalone antivirus plans that do not include a VPN. Pricing changes regularly, but you can expect to pay around $2–5 per month on a multi-year plan. [Check the current offer here](/blog/antivirus?sub=antivirus-with-vpn-included-2026__faq) — discounts are often available for new subscribers.
 

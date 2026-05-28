@@ -165,7 +165,7 @@ Free VoIP services are typically blocked by Airbnb's verification system. The pr
 
 **Does using a [second number for](https://snipstack.io/second-number-for-social-media-privacy-2026/) Airbnb violate Airbnb's terms of service?**
 
-Airbnb requires that hosts provide a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and communications — it does not require that number to be your personal primary line. A carrier-backed second number from [Alt-Number](/blog/altnumber?sub=second-number-for-airbnb-host-account-2026__faq) satisfies Airbnb's account requirements. What Airbnb prohibits is fraudulent account activity; using a legitimate secondary number for privacy reasons is entirely distinct from that.
+Airbnb requires that hosts provide a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and communications — it does not require that number to be your personal primary line. A carrier-backed [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) from [Alt-Number](/blog/altnumber?sub=second-number-for-airbnb-host-account-2026__faq) satisfies Airbnb's account requirements. What Airbnb prohibits is fraudulent account activity; using a legitimate secondary number for privacy reasons is entirely distinct from that.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my reviews and listing history if I change my account number?**
 

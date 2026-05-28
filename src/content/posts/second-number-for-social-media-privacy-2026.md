@@ -135,7 +135,7 @@ A [second number for](https://snipstack.io/second-number-with-wifi-calling-suppo
 
 It depends on the type of number. Free VoIP numbers from Google Voice, TextNow, and similar services are blocked by Instagram, TikTok, Facebook, and Snapchat. Carrier-backed numbers — the type provided by [Alt-Number](/blog/altnumber?sub=second-number-for-social-media-privacy-2026__faq) — pass verification on all major social media platforms because they route through real mobile carrier infrastructure. This is the practical difference between an alias that works and one that fails at the first screen.
 
-**Can I use one second number across all my social media and dating apps?**
+**Can I use one [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) across all my social media and dating apps?**
 
 Yes, and for most people that is the right starting point. One alias number covering Instagram, TikTok, Tinder, Hinge, and Bumble is far better than using your real number on any of them. The consideration against a single alias: if one platform is breached and the alias number is leaked, that number is now associated with all your accounts. Some privacy-conscious users run separate Alt-Numbers for dating apps versus social media — Alt-Number lets you manage multiple numbers under one account.
 

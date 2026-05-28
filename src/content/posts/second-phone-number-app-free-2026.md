@@ -152,7 +152,7 @@ Free options are mostly US only (Google Voice, TextNow, TextFree, 2ndLine). Hush
 
 **How do I stop someone from contacting me if I gave them a [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/)?**
 
-Cancel or replace the number. Unlike blocking — which stops future contact but leaves your number in their phone — cancelling a second number means they can't reach that line at all. If you used a service like Burner or Alt-Number, generating a fresh number takes seconds.
+Cancel or replace the number. Unlike blocking — which stops future contact but leaves your number in their phone — cancelling a [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) means they can't reach that line at all. If you used a service like Burner or Alt-Number, generating a fresh number takes seconds.
 
 ---
 

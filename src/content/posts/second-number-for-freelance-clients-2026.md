@@ -130,7 +130,7 @@ Or the quieter version: you never have a dramatic incident, but over time the am
 
 The thing about not having a [second number for](https://snipstack.io/second-number-for-social-media-privacy-2026/) freelance clients is that the cost is invisible until it is not. You do not know that a match has found your Upwork profile until they say something that references work you never told them about. You do not know that a former client is monitoring when you are online on WhatsApp until you notice the pattern.
 
-A second number costs less per month than a single freelance platform subscription. The alternative is a permanent open connection between your professional identity and your personal one.
+A [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) costs less per month than a single freelance platform subscription. The alternative is a permanent open connection between your professional identity and your personal one.
 
 ---
 

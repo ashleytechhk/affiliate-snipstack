@@ -26,7 +26,7 @@ Scammers are not random. They focus on the easiest victims, and older laptops ru
 
 **First, outdated software.** A laptop running Windows 7 or an unpatched version of [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) has security holes that Microsoft stopped repairing years ago. Viruses written specifically for those gaps circulate freely online.
 
-**Second, limited processing power.** Many heavy antivirus programs demand so much memory and processor speed that they make an older laptop grind to a halt. Seniors who find the computer running unbearably slowly often turn the antivirus off — or uninstall it entirely — which leaves the machine completely unprotected.
+**Second, limited processing power.** Many heavy [antivirus](https://snipstack.io/vs-antivirus-2026/) programs demand so much memory and processor speed that they make an older laptop grind to a halt. Seniors who find the computer running unbearably slowly often turn the antivirus off — or uninstall it entirely — which leaves the machine completely unprotected.
 
 **Third, older users are the primary targets.** This is not speculation. FBI data consistently shows that people over 60 report more financial losses from internet crime than any other age group. Tech-support scams, Medicare fraud emails, fake banking alerts — all of these rely on catching someone off guard, and they arrive as viruses or phishing links.
 
@@ -120,7 +120,7 @@ Click the link below. It takes you directly to the Surfshark Antivirus page wher
 
 ### Step 3 — Choose a Plan and Create an Account
 
-Select the plan that suits you (Surfshark One is recommended for seniors — it includes everything). You will be asked for your email address and a password. Write both down on paper before proceeding and keep them somewhere safe.
+Select the plan that suits you ([Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) is recommended for seniors — it includes everything). You will be asked for your email address and a password. Write both down on paper before proceeding and keep them somewhere safe.
 
 ### Step 4 — Download the Installer
 
@@ -158,7 +158,7 @@ For a senior who shops online, does internet banking, or receives emails from st
 
 ## Frequently Asked Questions
 
-**Q: Will antivirus software slow down my old laptop even more?**
+**Q: Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) slow down my old laptop even more?**
 
 The main reason older antivirus programs slow machines down is high memory and CPU usage during background operations. Surfshark Antivirus is specifically designed to use minimal resources — roughly 150MB of RAM at idle — which is well within the range even older laptops handle comfortably. Most users report no noticeable difference in everyday speed. If you schedule deep scans to run overnight when you are not using the computer, you will not feel any slowdown at all. [See how Surfshark compares on older hardware.](/blog/antivirus?sub=lightweight-antivirus-for-older-windows-laptop-2026__faq)
 
