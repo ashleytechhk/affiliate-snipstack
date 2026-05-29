@@ -78,7 +78,7 @@ Alt-ID is Surfshark's masked email and alternative identity feature. It generate
 - **Alternative identity generator.** Notion's signup form asks for your name. Alt-ID generates a fake name and profile to pair with your alias, so your real name does not go into Notion's database. Your real identity and your real email stay private simultaneously.
 - **Browser extension for Chrome and Firefox.** When you land on Notion's sign-up page, the extension detects the email field and auto-fills your alias. Signing up takes seconds without manually copying from a separate dashboard.
 
-**The tradeoff:** Alt-ID is bundled with Surfshark subscriptions, not sold as a standalone product. If the only thing you need is [email alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/)ing, you are paying for a broader security suite. That said, for anyone already using or considering Surfshark for VPN, Alt-ID costs nothing extra and is a meaningful upgrade over any standalone alias tool.
+**The tradeoff:** Alt-ID is bundled with Surfshark subscriptions, not sold as a standalone product. If the only thing you need is [email alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/)ing, you are paying for a broader [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/). That said, for anyone already using or considering Surfshark for VPN, Alt-ID costs nothing extra and is a meaningful upgrade over any standalone alias tool.
 
 ---
 
@@ -100,7 +100,7 @@ An open-source alias service with a free tier of 15 aliases and an unlimited pai
 
 **For Notion users:** The 15-alias free tier is generous enough for a single Notion account plus a handful of other services. Two-way alias support means you can reply to emails *from* your alias address, keeping your real address hidden in outgoing mail as well. Useful if you ever respond to a Notion workspace invitation email and do not want your real address in the Reply-To field.
 
-**Limitations:** More technically involved to set up than Alt-ID or Apple's offering. No fake-identity generator. The free cap is finite, and heavy users of email aliases across multiple services will exhaust it.
+**Limitations:** More technically involved to set up than Alt-ID or Apple's offering. No fake-identity generator. The free cap is finite, and heavy users of [email alias](https://snipstack.io/email-alias-for-airtable-account-privacy-2026/)es across multiple services will exhaust it.
 
 **Best for:** Privacy-conscious users who want open-source tooling and value two-way alias support.
 
@@ -148,11 +148,11 @@ If spam starts arriving on your Notion alias, open the Alt-ID dashboard, delete 
 
 ## FAQ
 
-**Can I change my existing Notion account to use an email alias instead of my real address?**
+**Can I change my existing Notion account to use an [email alias](https://snipstack.io/email-alias-for-microsoft-account-setup-2026/) instead of my real address?**
 
 Yes. In Notion, go to **Settings → My account** and update your email address to your alias. Notion sends a verification email to the alias, which forwards to your real inbox. Confirm it and the alias becomes your active Notion email. [Alt-ID](/blog/altid?sub=email-alias-for-notion-account-signup-2026__faq) supports this fully — the alias is a persistent forwarding address, not a one-time inbox.
 
-**Will an email alias affect Notion's account recovery and 2FA?**
+**Will an [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) affect Notion's account recovery and 2FA?**
 
 Not as long as the alias is active and forwarding. Password reset emails, 2FA backup codes, and workspace re-invitation emails all arrive through the alias to your real inbox. The only risk is if you delete the alias without first updating your Notion account email — handle the alias like you would handle any email address change: update the account first, then retire the old address.
 
@@ -164,7 +164,7 @@ Notion does not currently block major alias providers like Alt-ID or SimpleLogin
 
 Yes, and for high-volume Notion users this is the recommended approach. Each integration gets its own alias. If spam starts arriving on the Zapier-linked alias, you know Zapier (or one of its connected apps) is the source — not Notion itself. Alt-ID's unlimited aliases make per-integration aliasing practical without tracking a free-tier cap.
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Notion data if I delete my email alias?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Notion data if I delete my [email alias](https://snipstack.io/email-alias-for-github-account-privacy-2026/)?**
 
 Nothing happens to your Notion workspace, pages, or data. Deleting the alias only closes the email channel — future emails sent to that address bounce. Your Notion account remains fully intact. Before deleting an alias you actively use for Notion, update your account email to a new alias or your real address so you retain access to password resets and workspace invitations.
 

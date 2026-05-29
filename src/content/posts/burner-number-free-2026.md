@@ -140,7 +140,7 @@ Mostly, yes — but "private" is relative. A [burner number](https://snipstack.i
 
 [Surfshark bundles a VPN with Alt-Number in its One plan](/blog/surfshark?sub=burner-number-free-2026__faq) — worth considering if you want both.
 
-### Can I use a burner number to sign up for dating apps?
+### Can I use a [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) to sign up for dating apps?
 
 Some dating apps accept VoIP numbers for SMS verification; others block them. Apps that use Twilio's fraud-detection layer (like Tinder and Bumble) may reject known VoIP ranges. Surfshark Alt-Number uses real carrier-grade numbers rather than traditional VoIP, which improves acceptance rates. Google Voice numbers are often blocked on major dating platforms.
 

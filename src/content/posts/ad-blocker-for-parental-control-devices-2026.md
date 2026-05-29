@@ -167,7 +167,7 @@ Yes. Using software to filter network requests on a device you own or manage is 
 
 Parental controls are essential, but they were built to manage access, not filter ads. The advertising layer on free apps and games sits outside their scope, and that gap is where age-inappropriate content, aggressive tracking, and occasional malicious redirects get through.
 
-A network-level ad blocker closes that gap by filtering requests before they reach any app on the device. CleanWeb does this as a built-in feature of Surfshark — no separate app, no complex DNS configuration, active across every app running on the phone or tablet.
+A network-level [ad blocker](https://snipstack.io/ad-blocker-for-edge-browser-windows-11-2026/) closes that gap by filtering requests before they reach any app on the device. CleanWeb does this as a built-in feature of Surfshark — no separate app, no complex DNS configuration, active across every app running on the phone or tablet.
 
 Set up parental controls for access management. Add CleanWeb for everything that happens inside the apps you permit.
 

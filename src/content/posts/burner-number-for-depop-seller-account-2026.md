@@ -145,7 +145,7 @@ Not exactly. Disposable numbers (often used for one-time OTP verification) expir
 
 Every time you give your real number to a buyer or a match, you're giving someone you don't know a direct lookup path to your name, your location, and your history. Most interactions are fine. Some aren't. The ones that aren't can be severe.
 
-A burner number costs almost nothing relative to that risk. You keep one number for people who've earned the real one. Everyone else gets the burner — it works the same way, until you decide it shouldn't.
+A [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) costs almost nothing relative to that risk. You keep one number for people who've earned the real one. Everyone else gets the burner — it works the same way, until you decide it shouldn't.
 
 [Get Alt-Number and keep your real number private](https://snipstack.io/blog/altnumber?sub=burner-number-for-depop-seller-account-2026__cta) — the setup takes five minutes and the separation is immediate.
 
