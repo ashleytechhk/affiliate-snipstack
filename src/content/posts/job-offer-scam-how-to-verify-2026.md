@@ -161,7 +161,7 @@ Never provide your [Social Security](https://snipstack.io/social-security-scam-c
 
 Yes. A technique called email spoofing allows scammers to display a real company's name in the "From" field while the actual sending address is different. Always click or hover to reveal the full sending address. You can also check email headers (via "Show original" in Gmail) for SPF and DKIM authentication results — failed authentication on an email claiming to be from a major company is a strong indicator of spoofing.
 
-### Does Surfshark Scam Checker work for job offer scams specifically?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Scam Checker work for job offer scams specifically?
 
 Surfshark Scam Checker is a general-purpose tool that flags suspicious email addresses, phishing links, and domains associated with known scam activity. Job offer scams frequently reuse infrastructure — email addresses, domains, and links that have appeared in previous fraud campaigns. Running a suspicious sender through the checker adds a layer of verification that goes beyond what you can see in the email itself. [Try it here.](/blog/scamcheck?sub=job-offer-scam-how-to-verify-2026__faq)
 

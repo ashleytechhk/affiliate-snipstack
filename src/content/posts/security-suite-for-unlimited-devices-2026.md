@@ -167,7 +167,7 @@ The four components (VPN, Antivirus, Alert, Search) are managed under one accoun
 
 Norton commonly runs promotional introductory pricing in the range of $19.99–$39.99 for the first year and then renews at the full rate, which is typically $80–$109 or higher depending on the plan tier and region. The renewal price is disclosed in the original purchase terms but is frequently overlooked. Before renewing, compare the renewal cost against what you would pay for a [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) long-term plan. [See Surfshark One's current pricing here.](/blog/one?sub=security-suite-for-unlimited-devices-2026__faq)
 
-### Does Surfshark Antivirus work on Mac and Android, not just Windows?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus work on Mac and Android, not just Windows?
 
 Yes. Surfshark Antivirus supports Windows, Mac, and Android. The VPN component of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) supports Windows, Mac, iOS, Android, Linux, and browser extensions. The coverage across operating systems is broader than most people expect from a single-subscription security suite.
 

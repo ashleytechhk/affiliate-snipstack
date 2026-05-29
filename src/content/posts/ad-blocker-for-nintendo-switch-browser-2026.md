@@ -209,7 +209,7 @@ Surfshark provides custom DNS addresses in your account settings under the DNS L
 
 No — not in the traditional sense. The Nintendo Switch does not support third-party apps outside of official Nintendo titles, so there is no way to install a browser extension or [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) app. The only viable approach is DNS-level blocking: configuring the Switch to use a DNS server that filters out ad domains before the connection is made.
 
-### Does Surfshark CleanWeb work on Nintendo Switch?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb work on Nintendo Switch?
 
 Yes, indirectly. You cannot install the Surfshark app on a Switch, but you can set the Switch's DNS manually to Surfshark's CleanWeb DNS addresses. This covers the Switch with the same ad-blocking blocklist used by the Surfshark app on phones and computers. If you set up Surfshark at your router level, the Switch is covered automatically without any manual DNS configuration.
 

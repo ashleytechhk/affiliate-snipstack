@@ -218,7 +218,7 @@ Yes. Choosing which email address to provide to a service is not illegal. Some s
 **How long does it take for spam to stop after unsubscribing from a legitimate sender?**
 Under CAN-SPAM, legitimate US-based senders must honor opt-outs within 10 business days. Under GDPR, the standard for EU-based senders is prompt action — typically interpreted as a few days. If a sender has not complied within two weeks, they are either not compliant or operating outside those jurisdictions.
 
-**Does Surfshark Alt ID work without the VPN being active?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt ID work without the VPN being active?**
 Yes. The alias forwarding runs through Surfshark's infrastructure independently of whether your VPN connection is on. You do not need to be connected to a VPN server to generate aliases or receive forwarded mail.
 
 **Can I use Alt ID on mobile?**

@@ -135,13 +135,13 @@ Surfshark's VPN is the core product — it predates the antivirus bundle by year
 
 Surfshark offers a 30-day money-back guarantee. Cancellations are processed through a straightforward account portal — no phone calls required, no retention scripts. This is a direct contrast to some legacy suite providers whose cancellation processes are notoriously convoluted.
 
-### Does Surfshark One work on Mac and iPhone, or just Windows?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on Mac and iPhone, or just Windows?
 
 Surfshark One supports Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. The VPN, antivirus (where platform-supported), and CleanWeb all work across platforms. The antivirus component is currently Windows and Android focused; macOS users get the VPN, CleanWeb, Alert, and Search tools.
 
 ### Is this actually the [cheapest security suite](https://snipstack.io/cheapest-security-suite-with-identity-protection-2026/) with a VPN, or are there free alternatives?
 
-[Free antivirus](https://snipstack.io/vs-free-antivirus-2026/) tools ([Avast Free](https://snipstack.io/avast-free-antivirus-2026/), AVG Free) do not include a functional VPN. Free VPNs (Proton Free, Windscribe Free) do not include antivirus. The cheapest genuine combination of both — real antivirus plus unlimited VPN — in a single subscription from a reputable provider [is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/). Windows Defender handles basic [antivirus for](https://snipstack.io/antivirus-for-content-creators-youtube-channels-2026/) free, but it does not include VPN, breach monitoring, or ad blocking.
+[Free antivirus](https://snipstack.io/vs-free-antivirus-2026/) tools ([Avast Free](https://snipstack.io/avast-free-antivirus-2026/), AVG Free) do not include a functional VPN. [Free VPNs](https://snipstack.io/vs-free-vpns-2026/) (Proton Free, Windscribe Free) do not include antivirus. The cheapest genuine combination of both — real antivirus plus unlimited VPN — in a single subscription from a reputable provider [is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/). Windows Defender handles basic [antivirus for](https://snipstack.io/antivirus-for-content-creators-youtube-channels-2026/) free, but it does not include VPN, breach monitoring, or ad blocking.
 
 ---
 

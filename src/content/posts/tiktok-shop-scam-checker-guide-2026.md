@@ -157,7 +157,7 @@ Free tools like VirusTotal and URLVoid are genuinely effective for manual, on-de
 
 Phishing emails themselves are harder for scanning tools to assess — the tools check URLs and domains, not the email's visual design or wording. A fraudulent email can look perfect while pointing to a malicious domain. This is why checking the destination URL of any link is more reliable than judging the email by appearance.
 
-### Does Surfshark Alert work on mobile?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alert work on mobile?
 
 Yes. Surfshark Alert is available as a mobile app on both iOS and Android. Scamcheck runs in the background on mobile the same way it does on desktop, flagging dangerous sites before you land on them even when you tap a link in a mobile email app.
 

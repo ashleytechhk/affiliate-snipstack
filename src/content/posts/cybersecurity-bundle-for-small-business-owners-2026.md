@@ -135,7 +135,7 @@ Yes. The unlimited simultaneous device coverage means you can install it on ever
 
 Yes. Uninstalling either product is straightforward — both have dedicated uninstall tools available from their support pages. You can cancel at your renewal date to avoid overlap charges. Most users report that after uninstalling Norton or McAfee, their machines run noticeably faster, which is itself an indicator of how much background overhead those suites consume.
 
-### Does Surfshark One work on Windows and Mac?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on Windows and Mac?
 
 Yes. The [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) components support Windows and macOS. The VPN also supports iOS and Android. A mixed-device small business — some staff on Windows, the owner on a Mac — is a standard use case. All devices fall under the same unlimited-device subscription.
 

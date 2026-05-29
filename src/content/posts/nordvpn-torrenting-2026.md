@@ -152,7 +152,7 @@ The BitTorrent protocol is legal. What you torrent determines legality — Linux
 
 No. NordVPN designates specific P2P servers for torrenting, which are a subset of its overall network. The app makes these easy to find, and performance on NordVPN's P2P servers is strong. But you're working from a smaller server pool compared to providers that allow P2P across all servers.
 
-### Does Surfshark work for torrenting in 2026?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work for torrenting in 2026?
 
 Yes. P2P is supported across Surfshark's entire server network with no dedicated-server restrictions. WireGuard protocol delivers fast speeds, the kill switch works at the OS level, and the no-logs policy has been independently audited by Cure53. **[Get Surfshark here](/blog/vpn?sub=nordvpn-torrenting-2026__faq)** if you want to test it within the 30-day refund window.
 

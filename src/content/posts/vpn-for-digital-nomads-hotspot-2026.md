@@ -175,7 +175,7 @@ This sits in a legal grey area in most jurisdictions — VPN use itself is legal
 
 Regional pricing gaps vary by platform and change over time. As a general reference: streaming plans in lower-cost markets can run 50–75% less than US or Western European pricing for equivalent tiers. A digital nomad with three or four streaming subscriptions who switches all of them to regional pricing can plausibly save $15–25/month. At $2.19/month for Surfshark, the VPN subscription is recovered many times over. Actual savings depend on which services you use, current regional pricing, and whether the platform accepts your payment method for the target region.
 
-### Does Surfshark keep logs of my activity?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) keep logs of my activity?
 
 No. Surfshark's no-logs policy has been independently audited by Deloitte, confirming the company does not store records of users' browsing activity, connection timestamps, or IP addresses. This means there is no activity data to hand over in response to third-party requests.
 

@@ -147,7 +147,7 @@ Any emails sent to that alias will stop being forwarded. If you need to recover 
 **Q: Are [free burner](https://snipstack.io/free-burner-number-for-verification-2026/) email services private?**
 They reduce spam exposure but aren't built for strong privacy. Free services may log IP addresses, show ads, or share usage data. For genuine privacy, alias services with explicit no-logging policies — or a product like Alt-ID backed by Surfshark's privacy infrastructure — are a more reliable choice.
 
-**Q: Does Surfshark Alt-ID work without using the Surfshark VPN?**
+**Q: [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-ID work without using the Surfshark VPN?**
 Yes. Alt-ID is included with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)+ plans. These plans include VPN access, but you don't have to connect the VPN to use Alt-ID — they're independent features bundled in the same subscription.
 
 ---

@@ -173,7 +173,7 @@ Partially. YouTube ads served through the standard ad request pipeline can be bl
 
 Acceptable Ads is a program run by eyeo (AdBlock Plus's parent company) where advertisers pay to have their ads whitelisted — meaning AdBlock Plus deliberately allows certain ads through even when it's enabled. The program is enabled by default in every AdBlock Plus product. You can disable it in the extension's settings, but many users don't know it exists. AdGuard for Safari and 1Blocker do not have equivalent programs — they block all ads on their lists without exceptions.
 
-### Does Surfshark CleanWeb work on iPhone?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb work on iPhone?
 
 Yes. Surfshark has native apps for iOS and macOS. When CleanWeb is enabled, it blocks ad and tracker domains at the network level across the entire device — including Safari, apps, and background network requests. The experience on iPhone is the same as on Mac: enable CleanWeb in the app settings, connect, and ads are blocked everywhere without any per-app configuration. [See what CleanWeb covers.](/blog/adblock?sub=adblock-plus-safari-2026__faq)
 

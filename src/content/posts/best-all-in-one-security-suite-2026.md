@@ -198,7 +198,7 @@ Yes, but you need to export it first. Norton allows password export as a CSV fil
 
 No. Running two real-time antivirus engines simultaneously causes driver conflicts, high CPU usage, and unreliable detection on both sides. Always fully uninstall the old suite (using the vendor's official removal tool) before installing the replacement.
 
-### Does Surfshark One work on routers?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on routers?
 
 The VPN component can be configured on compatible routers (OpenVPN and WireGuard protocols), which extends coverage to devices that don't support app installs — smart TVs, gaming consoles, IoT devices. The antivirus and breach monitoring features require the app installed on individual devices.
 

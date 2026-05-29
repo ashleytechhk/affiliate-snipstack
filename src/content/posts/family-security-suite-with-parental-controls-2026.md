@@ -151,7 +151,7 @@ Norton and McAfee's full suites are more demanding. Their multiple background se
 
 ## FAQ
 
-### Does Surfshark One have parental controls?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) have parental controls?
 
 Surfshark One does not include a dedicated parental control dashboard with screen time limits, app blocking, or location tracking. For those features, you would use the free tools built into your family's devices — iOS Screen Time, Google Family Link, or Microsoft Family Safety. Surfshark One contributes to family safety through CleanWeb, which filters malware, phishing, and adult content at the DNS level across every device on the account. **[See Surfshark One's full feature set here.](/blog/one?sub=family-security-suite-with-parental-controls-2026__faq)**
 

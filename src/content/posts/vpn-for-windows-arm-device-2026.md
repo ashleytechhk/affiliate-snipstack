@@ -135,7 +135,7 @@ Even with a native ARM64 client, a few considerations are worth knowing before y
 
 A Windows ARM device runs on an ARM processor — typically Qualcomm Snapdragon — instead of the x86 chips made by Intel and AMD. ARM chips are common in phones and tablets and have expanded into laptops because of their power efficiency. Windows 11 runs natively on ARM hardware and includes an emulation layer for x86 software, but apps with native ARM64 builds run faster and use less battery. The Copilot+ PC lineup from Microsoft, Samsung, Asus, and others are all ARM devices.
 
-**Does Surfshark have a native ARM64 Windows client?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) have a native ARM64 Windows client?**
 
 Yes. Surfshark's Windows installer detects ARM64 automatically and installs the native build. WireGuard, the default protocol, runs natively on ARM hardware without requiring emulation. This matters for battery life and throughput on Snapdragon-powered laptops. [Get the native ARM64 client here.](/blog/vpn?sub=vpn-for-windows-arm-device-2026__faq)
 

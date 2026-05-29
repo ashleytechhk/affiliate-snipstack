@@ -148,7 +148,7 @@ You generate a masked email through [Surfshark One](https://snipstack.io/surfsha
 
 Norton typically does not offer prorated refunds unless you cancel within their stated refund window (30 days for digital purchases in most regions). If you're near a renewal date, switching before it processes saves the most money. If you've recently renewed, check the refund policy in your account or contact Norton support — some users report success requesting early cancellations outside the standard window.
 
-### Does Surfshark One work on iOS and Android?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on iOS and Android?
 
 Yes. The VPN, antivirus, and alerts apps are available on iOS and Android in addition to Windows and macOS. The unlimited device policy means you can run it across all platforms simultaneously.
 

@@ -126,7 +126,7 @@ Combined with an auto reply that runs through the alias, the exit is clean: auto
 
 ## FAQ
 
-**Does Surfshark Alt-Number support SMS verification on dating apps like Tinder, Bumble, and Hinge?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-Number support SMS verification on dating apps like Tinder, Bumble, and Hinge?**
 
 Yes. Alt-Number provides real mobile numbers that pass SMS verification on major dating platforms. VOIP numbers from Google Voice or TextNow are frequently blocked at this step — Alt-Number is not a VOIP line and does not trigger those blocks. [Get Alt-Number here](/blog/altnumber?sub=second-number-with-auto-reply-feature-2026__faq) if you want to verify before your next signup.
 

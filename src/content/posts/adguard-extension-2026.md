@@ -142,7 +142,7 @@ AdLock is worth considering if you want AdGuard-level power but find AdGuard's U
 
 No. Chrome on Android does not support browser extensions the way desktop Chrome does. The closest equivalents are AdGuard for Android (which uses a local VPN to filter all traffic) or a DNS-based solution. Alternatively, switching to Brave gives you built-in blocking inside the browser.
 
-### Does Surfshark CleanWeb work on both iOS and Android?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb work on both iOS and Android?
 
 Yes. CleanWeb is included with every Surfshark subscription and is available on both platforms. You enable it in the Surfshark app settings before connecting. One subscription covers unlimited devices simultaneously. [See Surfshark CleanWeb plans here.](/blog/surfshark?sub=adguard-extension-2026__faq)
 

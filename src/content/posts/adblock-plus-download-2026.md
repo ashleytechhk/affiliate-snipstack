@@ -191,7 +191,7 @@ Partially. YouTube ads are served from google.com infrastructure, which filter l
 
 Acceptable Ads is ABP's program that lets paying advertisers show their ads to ABP users. Turning it off (Settings > General > uncheck "Allow Acceptable Ads") makes ABP block more aggressively. Whether you turn it off is up to you — Eyeo argues that Acceptable Ads supports publishers, critics argue it undermines the point of an [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/).
 
-### Does Surfshark CleanWeb work without the VPN being on?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb work without the VPN being on?
 
 No. CleanWeb is part of the Surfshark VPN connection — it is not a standalone app. When you connect to Surfshark, CleanWeb is active. When you disconnect, ad blocking stops. For users who want ad blocking without a VPN connection, ABP or AdGuard's free Android app are better fits. [See CleanWeb details here.](/blog/adblock?sub=adblock-plus-download-2026__faq)
 

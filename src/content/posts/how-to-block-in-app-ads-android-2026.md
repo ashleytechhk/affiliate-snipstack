@@ -161,7 +161,7 @@ No. All four methods described in this guide work on non-rooted Android devices.
 
 No. Ad blocking is a legal and widely practiced activity. Google's Terms of Service for the Play Store do not penalize users for using [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)s. Google's own Android OS includes a Private DNS feature specifically designed to support DNS-level filtering. Your account is not at risk.
 
-### Does Surfshark CleanWeb block all in-app ads?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb block all in-app ads?
 
 CleanWeb blocks in-app ad requests that route through known ad network domains. It catches the majority of ads from major ad SDKs including AdMob, MoPub, and most third-party networks. Ads served from a domain that is indistinguishable from the app's own content (rare in practice for most categories of apps) are harder to intercept at the DNS level. Overall coverage is high for typical ad-heavy apps. [See current Surfshark plans.](/blog/adblock?sub=how-to-block-in-app-ads-android-2026__faq)
 

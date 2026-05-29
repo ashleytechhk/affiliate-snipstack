@@ -179,7 +179,7 @@ If you are paying for [Norton 360](https://snipstack.io/norton-360-antivirus-202
 
 In most cases, yes — particularly if you currently have separate antivirus and VPN subscriptions. Norton 360 with LifeLock ranges from $99 to $249 per year. A standalone VPN adds another $40-80. Surfshark One typically costs significantly less annually, covers unlimited devices, and includes Alt-ID and Alt-Number that Norton does not offer at any tier. Check current pricing via the link: [Surfshark One pricing](/blog/one?sub=best-privacy-bundle-for-family-2026__faq).
 
-### Does Surfshark Antivirus actually replace Norton?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus actually replace Norton?
 
 For the core job — real-time malware detection, phishing protection, and background scanning — yes. It does not include Norton's LifeLock [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance component (which requires a US [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number anyway). If you rely on LifeLock specifically, evaluate that separately. For families who primarily want virus and phishing protection without the bloatware, Surfshark Antivirus covers the same ground.
 

@@ -156,7 +156,7 @@ The free tier shows some ads within the app itself (whitelisted "acceptable ads"
 ### Can I use uBlock Origin on iPhone?
 No. Apple's iOS platform restricts all browsers to the WebKit engine and does not allow extension-based content blockers like uBlock Origin. There is no workaround. The closest iOS equivalents are DNS-level blockers (like Surfshark CleanWeb) or Safari Content Blockers (like AdGuard's free iOS tier).
 
-### Does Surfshark CleanWeb block YouTube ads on mobile?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb block YouTube ads on mobile?
 No, and neither does any DNS-based blocker. YouTube serves ads from the same domains as video content, so blocking the ad domain would also break the video. The only way to block YouTube ads on mobile is through unofficial patched apps (YouTube Vanced, ReVanced) or by subscribing to YouTube Premium.
 
 ### Is uBlock Origin safe to use?

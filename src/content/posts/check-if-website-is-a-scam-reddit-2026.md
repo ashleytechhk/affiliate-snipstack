@@ -195,7 +195,7 @@ Do not enter any information on the page. Close the tab immediately. Run a malwa
 
 Scammers purchase or obtain data from breached databases. If a previous service you used suffered a data breach, your name, address, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), or even partial payment details may be in criminal hands. This data is used to make phishing emails feel personal and legitimate. Checking whether your email address has appeared in known breaches — using a tool like Surfshark Alert or Have I Been Pwned — tells you whether this is likely.
 
-### Does Surfshark Scamcheck work on mobile?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Scamcheck work on mobile?
 
 Yes. Surfshark's apps are available on both iOS and Android. The Scamcheck and Alert features are included in the [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) subscription and work across devices. On desktop, the always-on background scanning checks URLs as you browse without requiring any manual action.
 

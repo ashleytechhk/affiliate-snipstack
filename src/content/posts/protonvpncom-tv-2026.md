@@ -145,7 +145,7 @@ Yes. Streaming services charge different prices in different countries. By conne
 
 ProtonVPN's Plus plan allows up to 10 simultaneous connections. Surfshark allows unlimited simultaneous connections on a single subscription — every device in your household is covered with no additional cost.
 
-### Does Surfshark work with smart TVs?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work with smart TVs?
 
 Yes. Surfshark has native apps for Android TV and Amazon Fire TV, and its Smart DNS feature works on devices that do not support VPN apps directly — including most smart TVs, Apple TV, and gaming consoles.
 

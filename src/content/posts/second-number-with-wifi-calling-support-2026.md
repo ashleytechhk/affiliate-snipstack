@@ -144,7 +144,7 @@ WiFi calling on your regular carrier plan still routes through your real phone n
 
 Not through the number itself. Alt-Number provides real mobile numbers that are not linked to your name in public-facing databases the way your carrier-issued number is. A reverse lookup on the alias returns nothing useful about you personally. If you revoke the alias, it returns nothing at all — the number is deactivated and becomes a dead end.
 
-**How do I handle it if a match calls my second number and I want to answer?**
+**How do I handle it if a match calls my [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) and I want to answer?**
 
 The call arrives in your Surfshark Alt-Number app, exactly like a standard incoming call. You answer through the app. The conversation is two-way and fully functional — it is a real phone call, just routed through your alias rather than your real line. You can also set the app to ring your real phone when your alias receives a call, letting you answer from your native phone dialer while the alias remains as the visible caller ID.
 

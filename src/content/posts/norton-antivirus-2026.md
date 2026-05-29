@@ -161,7 +161,7 @@ Surfshark operates a verified no-logs VPN policy, audited by Deloitte. Unlike so
 
 Norton's renewal price typically increases significantly — sometimes 2–3x the introductory rate. This is a known practice. If you want to avoid renewal bill shock, [locking in a multi-year Surfshark One plan](/blog/surfshark?sub=norton-antivirus-2026__faq) upfront provides more pricing predictability.
 
-### Does Surfshark One include a money-back guarantee?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include a money-back guarantee?
 
 Yes. Surfshark offers a 30-day money-back guarantee on all plans. If you are not satisfied after switching, you can request a full refund within the trial window — no [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) is risk-free to evaluate without that option.
 

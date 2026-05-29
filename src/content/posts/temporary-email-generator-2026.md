@@ -169,7 +169,7 @@ Technically yes, but most streaming services (Netflix, Disney+, etc.) block know
 
 Using a temporary or alias email is not against the law, but individual platforms may suspend accounts if they detect disposable addresses. This risk is higher with free throwaway services. Permanent aliases from Alt ID are significantly less likely to trigger bans.
 
-### Does Surfshark Alt ID work on mobile?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt ID work on mobile?
 
 Yes. Alt ID is fully available in the Surfshark iOS and Android apps. You can generate, manage, and delete aliases directly from your phone in seconds.
 

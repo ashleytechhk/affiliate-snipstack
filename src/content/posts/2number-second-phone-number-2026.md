@@ -278,7 +278,7 @@ Surfshark Alt-Number is the cleanest implementation of this for dating users: fa
     },
     {
       "@type": "Question",
-      "name": "How much does Surfshark Alt-Number cost?",
+      "name": "How much [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-Number cost?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Alt-Number is included in specific Surfshark subscription plans. Pricing varies by plan length — annual plans work out significantly cheaper per month than monthly billing."

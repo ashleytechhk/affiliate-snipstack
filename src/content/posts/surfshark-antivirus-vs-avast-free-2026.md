@@ -142,7 +142,7 @@ Avast Free still detects and blocks malware effectively — its core scanning en
 
 Surfshark Antivirus is typically available as part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) bundle. Introductory pricing is usually in the range of $3–4 per month when billed annually. Renewal pricing may differ — always check the current rate before purchasing. Even at renewal rates, it compares favorably against standalone antivirus subscriptions from large brands.
 
-### Does Surfshark Antivirus work on Windows and Mac?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus work on Windows and Mac?
 
 Yes. Surfshark Antivirus works on Windows and macOS. The VPN and breach alert features (Surfshark Alert) also work on Android and iOS devices. One subscription covers multiple devices, which is useful for seniors who use both a laptop and a tablet.
 

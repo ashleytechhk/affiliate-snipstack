@@ -137,7 +137,7 @@ Yes. It covers the primary threat vectors for home-office workers: malware, rans
 
 Both Norton and McAfee offer prorated refunds in some markets within a cancellation window (often 60 days for Norton, 30 days for McAfee). Check your specific plan terms. If you're near a renewal date, timing your switch can save you money.
 
-### Does Surfshark One work on Windows, Mac, iOS, and Android?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on Windows, Mac, iOS, and Android?
 
 Yes. Surfshark One covers all major platforms. The unlimited device policy means you can install it on every device in your home office without counting licenses. [Check compatibility and plans →](/blog/one?sub=best-security-bundle-for-home-office-2026__faq)
 

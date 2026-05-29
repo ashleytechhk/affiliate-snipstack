@@ -160,7 +160,7 @@ Yes. You are submitting the text of the email address or link to a web form — 
 
 No. Scammers also use LinkedIn's own direct message system, WhatsApp, and Telegram. The red flags are the same regardless of the channel: payment requests, urgency pressure, off-platform moves, requests for personal documents before any formal offer. If a link arrives through any of these channels, you can still copy it and run it through Surfshark's Email Scam Checker before clicking.
 
-### Does Surfshark's Email Scam Checker work on mobile?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/)'s Email Scam Checker work on mobile?
 
 Yes. Open a browser on your phone, go to the checker via [this link](/blog/scamcheck?sub=linkedin-job-scam-how-to-spot-2026__faq), and paste the suspicious email address or link into the input field. On most phones you can copy a link by pressing and holding it until a menu appears.
 

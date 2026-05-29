@@ -127,7 +127,7 @@ The transition is straightforward. Surfshark One installs in minutes, works acro
 
 For most users, yes. The antivirus engine is on par with AVG for malware detection, and the bundle adds tools — unlimited VPN, breach monitoring, ad blocking — that AVG either does not include or charges extra for. [See the full One Bundle feature list here.](/blog/surfshark?sub=vs-avg-antivirus-2026__faq)
 
-### Does Surfshark One Bundle include a free trial?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Bundle include a free trial?
 
 Surfshark does not typically offer a free tier, but it includes a 30-day money-back guarantee on all plans. That gives you a full month to test the product risk-free on all your devices.
 

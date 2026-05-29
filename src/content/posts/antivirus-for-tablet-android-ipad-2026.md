@@ -171,7 +171,7 @@ Yes, and it is more common than most people realize. The two most frequent metho
 
 Not necessarily. If you clicked a suspicious link but did not enter any personal details, the risk may be low. As a precaution: close the browser tab immediately, run a full antivirus scan, change the password for any account you may have visited, and check your bank statements over the next few days. If you did enter card or banking details, contact your bank immediately.
 
-**Does Surfshark Antivirus work on both my Android tablet and my iPad?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus work on both my Android tablet and my iPad?**
 
 Yes. One Surfshark subscription covers multiple devices. You can install it on your Android tablet, your iPad, and your phone, all using the same account. This makes it particularly convenient for seniors who use more than one device, or who want to protect a family member's device at the same time.
 

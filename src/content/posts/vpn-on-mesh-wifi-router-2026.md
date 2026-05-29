@@ -196,7 +196,7 @@ Yes — this is one of the primary reasons to configure VPN at the router level.
 
 On routers that support split tunneling or policy-based routing, yes. You can configure which devices' traffic goes through the VPN and which bypasses it. This is useful if you want smart TV and streaming devices on the VPN while keeping other devices on your direct connection. Not all mesh systems support this — Asus ZenWiFi firmware handles it well; simpler systems may not.
 
-### Does Surfshark support router-level installation?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) support router-level installation?
 
 Yes. Surfshark provides setup documentation for manual router installation using OpenVPN and WireGuard, covering Asus routers, TP-Link Deco, Netgear, DD-WRT firmware, Tomato firmware, GL.iNet devices, and others. Surfshark's unlimited simultaneous connections policy means there is no additional cost or device limit for adding the router connection to your subscription.
 

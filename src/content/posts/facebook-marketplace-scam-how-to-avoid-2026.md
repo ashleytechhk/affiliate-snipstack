@@ -135,7 +135,7 @@ It carries risk. Scammers use Marketplace interactions to collect email addresse
 
 Act quickly. Change the password for any account you may have entered credentials into, starting with Facebook and any email or payment accounts. If you entered banking details, contact your bank immediately. Run a malware scan on the device you used. Report the email to Facebook (forward to phish@fb.com) and to your national cybercrime authority.
 
-### Does Surfshark Email Scam Checker work on mobile?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Email Scam Checker work on mobile?
 
 Yes. You can use it through a browser on any device. Copy the suspicious email text or the link inside it, paste it into the checker, and receive a verdict. On mobile, where email clients often hide the full sender address and links are harder to hover-inspect, having a dedicated scanning tool is particularly useful.
 

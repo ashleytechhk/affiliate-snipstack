@@ -152,7 +152,7 @@ On pure monthly price, they're within a dollar of each other. What Surfshark One
 
 Yes. Surfshark uses a straightforward subscription cancellation — you can cancel from your account dashboard without calling customer support or navigating a retention flow designed to confuse you. Contrast this with the documented cancellation patterns of Norton and McAfee, which have both faced regulatory scrutiny for making cancellation unnecessarily difficult.
 
-### Does Surfshark One monthly include the VPN, antivirus, alert, and search — all four?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) monthly include the VPN, antivirus, alert, and search — all four?
 
 Yes. Every Surfshark One plan, including the monthly tier, includes all four components. There are no features gated behind an upgrade within the One bundle. **[See exactly what's included on the Surfshark One page](/blog/one?sub=surfshark-one-monthly-plan-breakdown-2026__faq)**
 

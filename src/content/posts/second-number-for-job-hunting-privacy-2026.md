@@ -120,7 +120,7 @@ Using a [second number for](https://snipstack.io/second-number-for-airbnb-host-a
 
 ## FAQ
 
-**Does Surfshark Alt-Number work for SMS verification on dating apps?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-Number work for SMS verification on dating apps?**
 
 Yes. Alt-Number provides real mobile numbers accepted by SMS verification systems on major dating platforms. This is one of its primary use cases. VoIP numbers from services like Google Voice are commonly blocked — Alt-Number is not a VoIP line and does not trigger those blocks. [Get Alt-Number here](/blog/altnumber?sub=second-number-for-job-hunting-privacy-2026__faq) if you want to verify this before your next signup.
 

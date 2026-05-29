@@ -18,7 +18,7 @@ This guide explains exactly what Arc Search's built-in [ad blocker](https://snip
 
 ## Quick Verdict
 
-Arc Search (the mobile browser from The Browser Company) ships with a built-in ad blocker, cookie-banner blocker, and tracker blocker — so you do not need to install a separate extension inside Arc. However, that protection ends at Arc's front door. Any ad loaded by your news app, social media app, podcast player, or mobile game is invisible to Arc's blocker. A network-level solution like **Surfshark CleanWeb** fills that gap without requiring a separate app — it runs across your entire device the moment the VPN connects.
+Arc Search (the mobile browser from The Browser Company) ships with a built-in [ad blocker](https://snipstack.io/ad-blocker-for-edge-browser-windows-11-2026/), cookie-banner blocker, and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) — so you do not need to install a separate extension inside Arc. However, that protection ends at Arc's front door. Any ad loaded by your news app, social media app, podcast player, or mobile game is invisible to Arc's blocker. A network-level solution like **Surfshark CleanWeb** fills that gap without requiring a separate app — it runs across your entire device the moment the VPN connects.
 
 ---
 
@@ -43,7 +43,7 @@ This covers the common annoyances well. For pure in-browser web browsing, Arc Se
 
 ## Why the Built-In Blocker Is Not the Whole Story
 
-Here is the part most guides skip: **Arc Search's ad blocker only works inside Arc Search.**
+Here is the part most guides skip: **Arc Search's [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) only works inside Arc Search.**
 
 When you tap into the Instagram app, open a YouTube video, check your news aggregator, or play a mobile game, none of that traffic passes through Arc. Each of those apps runs on its own network stack, separate from whatever browser you use. Arc's blocker has no visibility into them.
 
@@ -101,7 +101,7 @@ On **mobile**, the picture is simpler: Arc Search has no extension support, the 
 | Feature | Arc (Desktop, Mac) | Arc Search (iOS Mobile) |
 |---|---|---|
 | Browser extensions | Yes (Chrome extensions) | No |
-| Built-in ad blocker | No (use extension) | Yes |
+| Built-in [ad blocker](https://snipstack.io/ad-blocker-for-older-browser-versions-2026/) | No (use extension) | Yes |
 | Tracker blocking | Via extension | Yes (built-in) |
 | Cookie-banner blocking | Via extension | Yes (built-in) |
 | In-app coverage (other apps) | N/A | No |
@@ -162,7 +162,7 @@ Heavy mobile users who switch frequently between apps, watch video in native app
 
 ## Frequently Asked Questions
 
-**Does Arc Search have a built-in ad blocker?**
+**Does Arc Search have a built-in [ad blocker](https://snipstack.io/ad-blocker-that-hides-your-location-2026/)?**
 
 Yes. Arc Search includes a built-in ad blocker, tracker blocker, and cookie-banner blocker as part of the default browser experience. You do not need to install a separate extension. The blocker works automatically when you browse inside Arc Search.
 

@@ -131,7 +131,7 @@ Yes. VPN usage for privacy and security is legal in Israel. There are no laws pr
 **Will a VPN slow down my connection?**
 A small amount of overhead is added by encryption, but on modern hardware and a standard broadband or 5G connection, the difference is minimal. Surfshark's WireGuard protocol is specifically designed for low latency. Most users report no noticeable difference for video calls, streaming, or general browsing. Connecting to a geographically close server minimises any speed impact further.
 
-**Does Surfshark work on mobile networks, not just Wi-Fi?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on mobile networks, not just Wi-Fi?**
 Yes. Surfshark works on all connection types — Wi-Fi, 4G, 5G, or wired ethernet. Auto-connect settings can be configured to activate on all network types or only on untrusted Wi-Fi networks, depending on your preference.
 
 **Do I need a different payment method to subscribe at a lower regional price?**

@@ -168,7 +168,7 @@ Driving for Lyft and dating online creates a specific overlap that most people d
 
 Your real phone number — attached to your Lyft driver account — is the thread that connects your rideshare work to your personal life. Most of the time, nothing pulls that thread. Occasionally, someone does — and by then it is too late to wish you had set up a [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) before your last shift.
 
-A carrier-backed second number from Alt-Number takes five minutes to set up. It keeps your Lyft account completely isolated from your real contact details. When you need a clean break, you replace the number and the connection is gone.
+A carrier-backed [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) from Alt-Number takes five minutes to set up. It keeps your Lyft account completely isolated from your real contact details. When you need a clean break, you replace the number and the connection is gone.
 
 Your real number is permanent. Make sure the one on your driver account is not.
 

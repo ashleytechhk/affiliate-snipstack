@@ -197,7 +197,7 @@ No on both counts. uBlock Origin has no iOS version. On Android, it runs only in
 
 Pi-hole works on your home Wi-Fi network by intercepting DNS lookups. Once you leave your home network and use mobile data, your phone is no longer covered. Even on home Wi-Fi, Pi-hole's effectiveness against YouTube pre-rolls specifically is limited because YouTube's ad-serving domains overlap with its video-serving infrastructure. Pi-hole is most effective for website banner ads, Smart TV telemetry, and general tracker blocking across a household.
 
-### Does Surfshark CleanWeb require the VPN to be turned on?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb require the VPN to be turned on?
 
 Yes — CleanWeb is a feature of the Surfshark VPN app and activates when the VPN connection is on. The VPN and CleanWeb work together: the VPN encrypts your traffic and routes it through Surfshark's servers, while CleanWeb filters ad and tracker domains along the way. You cannot use CleanWeb without the VPN connection active. **[See how CleanWeb and Surfshark work together](/blog/adblock?sub=best-ad-blocker-for-youtube-2026__faq)**
 

@@ -202,7 +202,7 @@ Yes, because you're getting a capable VPN and breach monitoring at no extra cost
 
 The VPN encrypts your internet traffic and hides your IP address — protecting your connection, especially on public Wi-Fi. The antivirus scans your files and blocks malware from running on your device. They solve different problems and run simultaneously without conflicts in [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) Bundle.
 
-### Does Surfshark keep logs of what I do with the VPN?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) keep logs of what I do with the VPN?
 
 Surfshark operates a verified no-logs policy, meaning they do not store records of your browsing activity, connection timestamps, or IP addresses. This policy has been independently audited. The antivirus component processes file-level threats locally on your device.
 

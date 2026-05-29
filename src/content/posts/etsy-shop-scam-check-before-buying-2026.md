@@ -142,7 +142,7 @@ Yes. Review manipulation on Etsy is well-documented. Tactics include seeding a n
 
 Not without checking first. Legitimate emails from Etsy will come from an @etsy.com address — check the full sender address, not just the display name. Hover over any link before clicking to see the actual destination URL. If the URL domain is not etsy.com (for example, "etsy-delivery-update.com" or "etsy.support-verification.net"), do not click it. When in doubt, go directly to etsy.com by typing it into your browser and check your account from there.
 
-### Does Surfshark work on mobile for Etsy shopping?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on mobile for Etsy shopping?
 
 Yes. Surfshark Alert, including Scamcheck, is available as a mobile app on both iOS and Android. The background scam detection works on mobile browsers the same way it does on desktop, which matters because a significant share of Etsy browsing and email checking happens on phones — often in situations where you are distracted and less likely to run a manual check.
 

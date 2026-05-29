@@ -70,7 +70,7 @@ From a user perspective:
 
 ![How a VPN routes your Discovery+ connection through a home-country server](/og/vpn-for-discovery-plus-abroad-2026-inline-1.png)
 
-The complication is detection. Discovery+, like all major streaming platforms, maintains blocklists of known VPN IP addresses. When a VPN server's IP gets flagged, connections from that address are blocked. Quality VPNs solve this by rotating their IP pools — when one address gets blocked, the service moves traffic to another. This is an active, ongoing infrastructure investment, which is why free VPNs consistently fail while paid services with large server networks hold up.
+The complication is detection. Discovery+, like all major streaming platforms, maintains blocklists of known VPN IP addresses. When a VPN server's IP gets flagged, connections from that address are blocked. Quality VPNs solve this by rotating their IP pools — when one address gets blocked, the service moves traffic to another. This is an active, ongoing infrastructure investment, which is why [free VPNs](https://snipstack.io/vs-free-vpns-2026/) consistently fail while paid services with large server networks hold up.
 
 ### Why Free VPNs Fail for Discovery+
 
@@ -106,7 +106,7 @@ Specific features relevant to Discovery+ users:
 
 **WireGuard protocol.** Surfshark defaults to WireGuard, which is the current speed-performance benchmark in commercial VPN protocols. On a standard broadband connection, Surfshark typically retains 70–85% of base speed — comfortably above the 25 Mbps threshold for Discovery+ 4K.
 
-**CleanWeb.** Surfshark's built-in ad and tracker blocker operates alongside the VPN connection. Not essential for Discovery+ playback, but useful when browsing on hotel or airport Wi-Fi during the same session.
+**CleanWeb.** Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) operates alongside the VPN connection. Not essential for Discovery+ playback, but useful when browsing on hotel or airport Wi-Fi during the same session.
 
 **NoBorders mode.** For networks in countries that actively restrict or throttle VPN traffic, NoBorders obfuscates Surfshark's traffic to look like regular HTTPS. Relevant for travelers visiting countries with heavy internet filtering.
 

@@ -166,7 +166,7 @@ Shopping for Instacart and using dating apps creates a specific overlap that mos
 
 Your real phone number — tied to your Instacart shopper account — is the thread that connects your gig work to your personal life. Most of the time, nobody pulls that thread. Occasionally, someone does. And by then it is too late to wish you had set up a [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) before your last shift.
 
-A carrier-backed second number from Alt-Number takes five minutes to set up. It keeps your Instacart account isolated from your real contact details. When you want a clean break, you replace the number and the connection disappears.
+A carrier-backed [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) from Alt-Number takes five minutes to set up. It keeps your Instacart account isolated from your real contact details. When you want a clean break, you replace the number and the connection disappears.
 
 Your real number is permanent. Make sure the one on your shopper account is not.
 

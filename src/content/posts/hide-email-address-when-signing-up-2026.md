@@ -211,7 +211,7 @@ If you cancel, your Alt ID aliases stop working and mail sent to them will no lo
 **Which tool works on Android?**
 Apple Hide My Email does not work on Android. Firefox Relay works in Firefox for Android. DuckDuckGo Email Protection works in the DuckDuckGo Android browser. [Surfshark Alt ID](/blog/altid?sub=hide-email-address-when-signing-up-2026__faq) works in Chrome and Firefox on Android — the same extension, no platform restriction.
 
-**Does Surfshark Alt ID work without the VPN being on?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt ID work without the VPN being on?**
 Yes. The Alt ID alias and forwarding function works independently of the VPN. You do not need to have the VPN connection active to generate aliases or receive forwarded mail.
 
 ---

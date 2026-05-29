@@ -179,7 +179,7 @@ In most cases, crypto transactions are irreversible and recovery is extremely di
 
 Do not click links in unsolicited emails until you have verified them. Hover over the link to preview the destination URL. Check whether the domain matches the company it claims to represent. Better still, [run the link through a scam checker](/blog/scamcheck?sub=crypto-investment-scam-warning-signs-2026__faq) before clicking anything.
 
-### What does Surfshark's Scam Detector actually check?
+### What [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/)'s Scam Detector actually check?
 
 Surfshark's Scam Detector scans URLs and links against real-time databases of known phishing sites, fraud domains, and malicious pages. It checks whether the destination domain has been flagged by security researchers, whether it is newly registered, and whether it matches patterns associated with known scam operations. It covers the technical checks that are tedious to run manually on every suspicious link you receive.
 

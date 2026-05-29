@@ -158,7 +158,7 @@ Yes. This is exactly what Alt-Number, Hushed, and Burner App do. You download th
 
 ### What happens if I give a match my [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) and then want to cut contact?
 
-Delete the number. Anyone who tries to call or text it gets nothing — the number no longer exists. You can pick up a new number the same day. Your real number was never shared, so there is no residual contact path. This is the primary privacy advantage of a disposable second number over your personal line.
+Delete the number. Anyone who tries to call or text it gets nothing — the number no longer exists. You can pick up a new number the same day. Your real number was never shared, so there is no residual contact path. This is the primary privacy advantage of a disposable [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) over your personal line.
 
 ### Is it legal to use a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) online dating?
 

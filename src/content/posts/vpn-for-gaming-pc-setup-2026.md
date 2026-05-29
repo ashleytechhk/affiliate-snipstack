@@ -152,7 +152,7 @@ Steam's terms of service prohibit purchasing games in a region you do not reside
 
 [Check Surfshark's current plan options →](/blog/vpn?sub=vpn-for-gaming-pc-setup-2026__faq)
 
-### Does Surfshark work on multiple gaming devices with one subscription?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on multiple gaming devices with one subscription?
 
 Yes. Surfshark allows unlimited simultaneous connections. One subscription covers your gaming PC, laptop, phone, and any other devices concurrently. If you want to run it on a console as well, you can install it on your router to cover all network devices automatically.
 

@@ -180,7 +180,7 @@ Using a VPN for data protection and privacy is legal in most countries and is st
 
 The encryption overhead from a VPN typically results in a 5–15% reduction in connection speed under ideal conditions. In practice, most business tasks — cloud document access, email, video calls, SaaS platforms — are not speed-constrained to a degree where this is noticeable. Surfshark's WireGuard protocol, available in the app, provides the lowest latency of the available protocol options. For bandwidth-intensive work on fast connections, you may want to run a speed test with and without the VPN to assess the impact in your specific setup.
 
-### Does Surfshark work on all the devices my team uses?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on all the devices my team uses?
 
 Surfshark has native apps for Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. It also supports manual setup on routers, which would cover every device on a given network without individual app installation. For a team using a mix of platforms, this breadth of coverage handles most small business device environments without gaps.
 

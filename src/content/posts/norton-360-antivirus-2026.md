@@ -157,7 +157,7 @@ Yes — [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-com
 
 Unlimited. One subscription covers as many devices as you own across Windows, Mac, iOS, Android, and Linux. No tier upgrades required for household size.
 
-### Does Surfshark keep logs of my VPN activity?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) keep logs of my VPN activity?
 
 Surfshark operates a verified no-logs policy, meaning they do not store records of your browsing sessions, connection timestamps, or IP addresses. This policy has been independently audited. The antivirus component processes file threats locally on your device.
 

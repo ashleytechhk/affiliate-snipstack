@@ -141,7 +141,7 @@ Brave Firewall + VPN exists as a paid subscription feature on Brave's iOS and An
 
 A small amount of added latency is expected because your traffic routes through an additional server. On a modern broadband connection, this is usually not noticeable during streaming. Distance matters: a server geographically close to your target region will perform better than one on the other side of the world. Surfshark's 100+ country server network gives you enough options to find a server with acceptable latency for most target regions.
 
-### Does Surfshark's extension work without the desktop app?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/)'s extension work without the desktop app?
 
 Yes. Surfshark's Brave/Chrome extension is a standalone HTTPS proxy. It maintains its own connection to Surfshark's servers independently of whether the desktop VPN application is installed or running. This is different from ExpressVPN's extension, which requires the desktop app as a dependency.
 

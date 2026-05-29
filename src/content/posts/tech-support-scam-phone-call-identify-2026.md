@@ -189,7 +189,7 @@ Act immediately. Disconnect your device from the internet (turn off Wi-Fi, unplu
 
 Scammers target people they assess as less likely to recognise the warning signs and more likely to comply with urgent requests. Seniors who did not grow up with computers are often unfamiliar with how Microsoft and Apple actually communicate, which makes the "we detected a problem" script more credible. Sharing the four warning signs with family members — particularly the rule that no legitimate company calls you unsolicited about your device — is one of the most practical things you can do to help protect them.
 
-### Does Surfshark's Email Scam Checker work on mobile?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/)'s Email Scam Checker work on mobile?
 
 Yes. Open your phone's browser, go to the Surfshark Email Scam Checker, and paste in the suspicious email address or link. On most phones you can copy a link by pressing and holding it until a menu appears, then tapping "Copy link." The checker works in any mobile [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) no app download required.
 

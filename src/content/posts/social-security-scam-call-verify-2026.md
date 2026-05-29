@@ -177,7 +177,7 @@ Place a fraud alert or credit freeze with all three major credit bureaus (Experi
 
 Yes. Report to the FTC at reportfraud.ftc.gov and to the SSA's Office of the Inspector General at oig.ssa.gov/report. You can also report by phone to the OIG hotline at 1-800-269-0271. Reporting does not cost anything and helps law enforcement track scam operations. If you lost money, also file a local police report — some banks require this for fraud recovery.
 
-### How does Surfshark's Email Scam Checker help with SSA scams specifically?
+### How [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/)'s Email Scam Checker help with SSA scams specifically?
 
 When scammers follow up a fraudulent SSA call with an email, the email typically contains a link to a phishing page or a malware download. Surfshark's Email Scam Checker examines that link — checking where it actually leads, how old the destination domain is, and whether it appears in known fraud databases — before your browser ever visits it. You get a plain-language verdict in seconds without any technical knowledge required. This is specifically useful for the email phase of SSA scams, where the danger is not the call itself but the link you are pressured to click afterward.
 

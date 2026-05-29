@@ -152,7 +152,7 @@ uBlock Origin blocks Reddit ads when you browse reddit.com inside Firefox for An
 
 Yes, with a third-party Reddit client. Infinity for Reddit on Android is free and open source — no ads, no promoted posts. The trade-off is that these apps depend on Reddit's third-party API, which could change. Alternatively, DNS blocking reduces (but does not eliminate) in-app ads at no cost.
 
-### Does Surfshark CleanWeb block Reddit ads specifically?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb block Reddit ads specifically?
 
 CleanWeb blocks ad requests at the VPN layer, which includes Reddit's promoted post infrastructure. It works in the Reddit app and in any browser simultaneously. You do not need to configure it for Reddit specifically — it operates across all apps the moment it's enabled.
 

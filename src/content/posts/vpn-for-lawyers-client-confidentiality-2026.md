@@ -171,7 +171,7 @@ If your device is managed by your firm and has monitoring software installed at 
 
 A no-logs policy means the VPN provider does not store records of your connection activity, browsing history, IP addresses, or session data. If a VPN provider has no logs, they have nothing to produce in response to a subpoena or legal demand. Surfshark's no-logs policy has been independently verified by Deloitte, which is materially stronger than a self-reported claim. For lawyers handling sensitive matters, this audit distinction is relevant.
 
-### Does Surfshark work on courthouse or government building wifi?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on courthouse or government building wifi?
 
 These networks sometimes block standard VPN protocols. Surfshark's NoBorders obfuscation mode disguises VPN traffic as regular HTTPS traffic, which typically bypasses these blocks. Enable it in the Surfshark app settings under "Advanced" before connecting to a restrictive network. Performance may vary depending on the specific network configuration.
 

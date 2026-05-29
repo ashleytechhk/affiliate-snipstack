@@ -184,7 +184,7 @@ It is a good idea to remove other antivirus programs before installing a new one
 
 Pricing changes from time to time, but Surfshark is generally one of the more affordable options on the market. Multi-year plans offer the best value. You can check the latest pricing here: [View current Surfshark Antivirus plans](/blog/surfshark?sub=norton-antivirus-for-mac-2026__faq)
 
-### Does Surfshark slow down my Mac?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) slow down my Mac?
 
 Surfshark is designed to run quietly in the background with minimal impact on your Mac's speed. Most users notice no slowdown at all. If you find your Mac feels sluggish during a scan, try scheduling scans for nighttime when you are not using your computer.
 

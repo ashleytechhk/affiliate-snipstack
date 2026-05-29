@@ -131,7 +131,7 @@ Surfshark maintains servers specifically optimized for Netflix and other major s
 
 Surfshark prices its plans in USD globally. The long-term plan (two years) works out to a low monthly cost that, relative to the cost of a single streaming subscription, is easy to justify if you use it to access broader content libraries across multiple services. Payment can be made by credit card, PayPal, or cryptocurrency. Specific current pricing is always shown on the plan selection page.
 
-### Does Surfshark keep logs of my activity?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) keep logs of my activity?
 
 Surfshark has a no-logs policy, meaning it does not record what websites you visit or what you download. This has been independently audited. For everyday streaming use this is largely a privacy baseline rather than a critical concern, but it is good to know your browsing data is not being stored and sold.
 

@@ -38,7 +38,7 @@ This matters because Bumble BFF connections can turn uncomfortable just as quick
 
 ---
 
-## What Happens When a Number Gets into the Wrong Hands
+## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) a Number Gets into the Wrong Hands
 
 The risk isn't just harassment from the person you gave it to. Your phone number is increasingly a skeleton key to your digital life.
 

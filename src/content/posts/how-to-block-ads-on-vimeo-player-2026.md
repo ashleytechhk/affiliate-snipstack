@@ -135,7 +135,7 @@ No. The Vimeo player continues to function normally when ad domains are blocked.
 
 Yes, if you are loading those embedded players in a browser or app on your phone. Because CleanWeb operates at the device's DNS layer, it applies to all traffic from your phone regardless of which app is making the request. An embedded Vimeo player on a news site loaded in Safari is covered the same way the Vimeo app is.
 
-### Does Surfshark CleanWeb slow down Vimeo video quality or buffering?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb slow down Vimeo video quality or buffering?
 
 Not in practice. DNS filtering adds under a millisecond per lookup — the overhead is imperceptible in real-world streaming. Surfshark uses the WireGuard protocol on mobile, which is optimised for low latency. If anything, removing ad-payload network requests reduces the total data load during playback, which can improve buffering on slower connections.
 

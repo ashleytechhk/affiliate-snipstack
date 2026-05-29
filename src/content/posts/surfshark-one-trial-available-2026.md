@@ -145,7 +145,7 @@ If you decide to start the trial, here is the practical sequence that gives you 
 
 ## Frequently Asked Questions
 
-### Does Surfshark One have a free trial with no payment required?
+### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) have a free trial with no payment required?
 
 Not currently. Surfshark One requires payment upfront for all plans. The available risk-free option is the 30-day money-back window, which gives full access to the entire bundle and a full refund if you cancel within 30 days. Some users find this preferable to a limited free trial because there are no feature restrictions during the test period.
 

@@ -166,7 +166,7 @@ With WireGuard and a nearby server, speed reduction is typically under 10-15% of
 **Can I use one Surfshark subscription for my personal and work devices?**
 Yes. Surfshark allows unlimited simultaneous connections, so your personal phone, work laptop, tablet, and any other devices are all covered under one subscription with no additional cost.
 
-**Does Surfshark work on mobile for the situations where I'm using a client's wifi?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on mobile for the situations where I'm using a client's wifi?**
 Yes — the iOS and Android apps support the same WireGuard protocol, kill switch, and auto-connect features as the desktop versions. Enabling auto-connect on unknown networks means the VPN activates automatically whenever you connect to a network that isn't your home or saved trusted network.
 
 ---
