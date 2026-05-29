@@ -145,9 +145,9 @@ Windows: Settings > Apps > find Norton or McAfee > Uninstall. Both companies off
 
 Mac: Drag to Trash, then check Applications for any companion processes (Norton has a separate helper you need to remove manually; McAfee has a dedicated Mac removal guide on its support site).
 
-### Step 3 — Install Surfshark One
+### Step 3 — Install [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)
 
-Download from the link below. Account creation takes under two minutes. Install, log in, and the antivirus activates on first launch. VPN connects with a single click. Total elapsed time from uninstalling Norton to having Surfshark One running is roughly ten minutes on a typical machine.
+Download from the link below. Account creation takes under two minutes. Install, log in, and the antivirus activates on first launch. VPN connects with a single click. Total elapsed time from uninstalling Norton to having [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) running is roughly ten minutes on a typical machine.
 
 **[Switch to Surfshark One — get covered on every device](/blog/one?sub=vpn-antivirus-bundle-for-student-dormitory-2026__cta)**
 
@@ -155,15 +155,15 @@ Download from the link below. Account creation takes under two minutes. Install,
 
 ## FAQ
 
-### Is Surfshark One a good replacement for Norton in a student dormitory?
+### Is [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) a good replacement for Norton in a student dormitory?
 
-For the typical dorm use case — antivirus protection, VPN on shared WiFi, ad blocking, and breach alerts — yes. [Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) covers all four without the performance overhead Norton is known for. The only area where Norton maintains a genuine edge is raw antivirus detection history and LifeLock-level identity theft insurance (US-only). If neither of those is your primary concern, Surfshark One handles the full scope of dorm-relevant security. **[See the current offer here.](/blog/one?sub=vpn-antivirus-bundle-for-student-dormitory-2026__faq)**
+For the typical dorm use case — antivirus protection, VPN on shared WiFi, ad blocking, and breach alerts — yes. [Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) covers all four without the performance overhead Norton is known for. The only area where Norton maintains a genuine edge is raw antivirus detection history and LifeLock-level identity theft insurance (US-only). If neither of those is your primary concern, [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) handles the full scope of dorm-relevant security. **[See the current offer here.](/blog/one?sub=vpn-antivirus-bundle-for-student-dormitory-2026__faq)**
 
 ### Does a VPN work on university dormitory WiFi networks?
 
 Yes. VPN use is legal and common on university networks. Most universities do not prohibit VPN use for personal traffic — check your school's acceptable use policy if you are unsure. Practically speaking, students use VPNs on campus daily. The VPN encrypts your personal traffic without interfering with access to university resources like library databases or course portals.
 
-### Will Surfshark One slow down my laptop compared to Norton?
+### Will [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) slow down my laptop compared to Norton?
 
 Almost certainly not, and likely the reverse. Norton's background processes are well-documented for high CPU and RAM usage, particularly during scans. Surfshark One is engineered to run lightweight — real-time protection in the background without the spikes that disrupt active workloads. If your laptop has been sluggish since installing Norton, removing it and switching to Surfshark One will typically improve everyday performance noticeably.
 

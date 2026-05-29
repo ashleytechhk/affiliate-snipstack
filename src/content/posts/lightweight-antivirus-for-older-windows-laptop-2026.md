@@ -28,7 +28,7 @@ Scammers are not random. They focus on the easiest victims, and older laptops ru
 
 **Second, limited processing power.** Many heavy [antivirus](https://snipstack.io/vs-antivirus-2026/) programs demand so much memory and processor speed that they make an older laptop grind to a halt. Seniors who find the computer running unbearably slowly often turn the antivirus off — or uninstall it entirely — which leaves the machine completely unprotected.
 
-**Third, older users are the primary targets.** This is not speculation. FBI data consistently shows that people over 60 report more financial losses from internet crime than any other age group. Tech-support scams, Medicare fraud emails, fake banking alerts — all of these rely on catching someone off guard, and they arrive as viruses or phishing links.
+**Third, older users are the primary targets.** This is not speculation. FBI data consistently shows that people over 60 report more financial losses from internet crime than any other age group. Tech-support scams, Medicare fraud emails, fake banking alerts — all of these rely on catching someone off guard, and they arrive as viruses or [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s.
 
 A lightweight antivirus solves all three problems: it patches protection gaps that old Windows leaves open, it runs without slowing the machine down, and it stops the specific types of scams most likely to affect older users.
 
