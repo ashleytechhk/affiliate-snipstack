@@ -166,7 +166,7 @@ Lyft requires that drivers provide a valid, working [phone number for](https://s
 
 Driving for Lyft and dating online creates a specific overlap that most people do not think about until something goes wrong. Your driver account is anchored to your real identity. Your dating profile puts your face, first name, and city in front of strangers. The gap between those two surfaces is smaller than it looks.
 
-Your real phone number — attached to your Lyft driver account — is the thread that connects your rideshare work to your personal life. Most of the time, nothing pulls that thread. Occasionally, someone does — and by then it is too late to wish you had set up a second number before your last shift.
+Your real phone number — attached to your Lyft driver account — is the thread that connects your rideshare work to your personal life. Most of the time, nothing pulls that thread. Occasionally, someone does — and by then it is too late to wish you had set up a [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) before your last shift.
 
 A carrier-backed second number from Alt-Number takes five minutes to set up. It keeps your Lyft account completely isolated from your real contact details. When you need a clean break, you replace the number and the connection is gone.
 

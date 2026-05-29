@@ -121,7 +121,7 @@ It depends on the type of number. Tinder runs carrier-database checks and blocks
 
 Yes, using free reverse-lookup services that index public records and data-broker databases. A search on a real phone number typically returns a full name, current and past addresses, age, and linked profiles within seconds. This requires no hacking, no technical skill, and no access to anything that is not publicly available. The fix is ensuring that the number you give Tinder matches does not resolve to your real identity in those databases — which is what a carrier-backed alias number is designed to do.
 
-**What happens if I want to cut contact with someone who has my [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/)?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I want to cut contact with someone who has my [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/)?**
 
 Block the number in the Surfshark app, which stops all calls and texts from that contact. If the situation warrants a cleaner break — harassment, persistent contact after blocking — retire the Alt-Number entirely and activate a new one. Because your real number was never shared, the person has no further means of reaching you through your phone that connects back to your actual identity. The old number stops existing. Any reverse lookup on it returns nothing actionable.
 

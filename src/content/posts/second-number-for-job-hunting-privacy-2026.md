@@ -138,7 +138,7 @@ Likely yes, if you have been using real numbers on dating apps or job boards for
 
 **Is a [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) the same as a [burner phone](https://snipstack.io/burner-phone-number-app-ios-2026/)?**
 
-Conceptually related, practically different. A physical burner phone is cumbersome, expensive to maintain, and lacks the forwarding convenience of an alias service. A second number from Alt-Number lives in your existing phone, forwards seamlessly, and can be replaced digitally without buying new hardware. The use case is the same — protecting your real number — but the execution is far more practical for everyday use.
+Conceptually related, practically different. A physical burner phone is cumbersome, expensive to maintain, and lacks the forwarding convenience of an alias service. A [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) from Alt-Number lives in your existing phone, forwards seamlessly, and can be replaced digitally without buying new hardware. The use case is the same — protecting your real number — but the execution is far more practical for everyday use.
 
 **Does using an alias number protect me if I meet someone in person and they already know my real name?**
 

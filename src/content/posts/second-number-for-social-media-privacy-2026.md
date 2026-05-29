@@ -151,7 +151,7 @@ They solve different problems. A VPN masks your IP address and encrypts your int
 
 A reverse lookup on your alias number returns information associated with the alias account — not your real name, address, or personal details. The alias is designed to be a dead end. If someone tries to search the Alt-Number you gave them, they do not get a path to your real identity. This is the core distinction from a real number, where a reverse lookup can return your full personal profile within minutes.
 
-**Does replacing my second number affect my existing social accounts?**
+**Does replacing my [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) affect my existing social accounts?**
 
 Your social media accounts remain active when you replace your alias number. You will need to update the phone number in each account's security settings to reflect the new alias — the same process as the initial setup. The accounts themselves, your followers, your content, and your history are not affected. The only thing that changes is which number is used for verification and security on each platform going forward.
 

@@ -69,7 +69,7 @@ One row worth pausing on: "Persistent (won't expire)." Because Notion is an acco
 
 ### 1. Alt-ID (Recommended)
 
-Alt-ID is Surfshark's masked email and alternative identity feature. It generates a forwarding alias — something like `p4r9kx2m@surfshark.id` — that delivers all incoming mail to your real inbox. From Notion's side, the alias looks like a standard email address. From your side, nothing changes about how you read email.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email and alternative identity feature. It generates a forwarding alias — something like `p4r9kx2m@surfshark.id` — that delivers all incoming mail to your real inbox. From Notion's side, the alias looks like a standard email address. From your side, nothing changes about how you read email.
 
 **Why it works well for Notion specifically:**
 
@@ -128,7 +128,7 @@ Adding `+anything` to your Gmail address (e.g., `yourname+notion@gmail.com`) tec
 
 ---
 
-## How to Set Up an [Email Alias for](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) Your Notion Account
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias for](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) Your Notion Account
 
 ![Inline step-by-step: Alt-ID alias generation and Notion account signup form with alias auto-filled](/og/email-alias-for-notion-account-signup-2026-inline-2.png)
 

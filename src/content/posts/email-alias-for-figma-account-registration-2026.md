@@ -83,7 +83,7 @@ SimpleLogin and AnonAddy have free tiers (10–20 aliases) that are adequate if 
 
 ---
 
-## How to Set Up an Email Alias for Figma
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias for](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) Figma
 
 The setup takes under five minutes.
 

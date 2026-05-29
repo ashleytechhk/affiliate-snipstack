@@ -177,7 +177,7 @@ Nothing. Your Airbnb host profile, reviews, listing details, and superhost statu
 
 Hosting on Airbnb means publishing your location, letting strangers into your physical space, and maintaining an active communication channel with people you have never met before they arrive. The platform is designed around that openness. The privacy cost of that openness is real — and most hosts only recognize it after a guest situation goes sideways.
 
-Your real phone number on your Airbnb host account is the data point that connects your platform identity to your personal life. Most of the time, no guest pulls that thread. Occasionally, one does — and by then it is too late to wish you had set up a second number before your last checkout.
+Your real phone number on your Airbnb host account is the data point that connects your platform identity to your personal life. Most of the time, no guest pulls that thread. Occasionally, one does — and by then it is too late to wish you had set up a [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) before your last checkout.
 
 A carrier-backed second number from Alt-Number takes five minutes to set up. It keeps your Airbnb host account entirely isolated from your real contact details. When a guest situation requires a clean break, you replace the number and every contact path built on it is gone.
 

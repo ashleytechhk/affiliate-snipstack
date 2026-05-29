@@ -162,7 +162,7 @@ Privacy failures are invisible until they are not. You will not know someone rev
 
 Freelancing means your phone number is out there — on platforms, in contracts, on professional profiles that anyone can find. Dating means your phone number is an account credential attached to your face and first name. Running the same number across both creates a crossover exposure that most people only recognize in hindsight.
 
-A carrier-backed second number from Alt-Number lets you put a dedicated professional line on everything client-facing, so the number anyone finds through your work traces back to nothing personal. When a professional relationship runs its course, you replace the number and the connection is closed — without touching your real line, your dating apps, or any of your personal contacts.
+A carrier-backed [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) from Alt-Number lets you put a dedicated professional line on everything client-facing, so the number anyone finds through your work traces back to nothing personal. When a professional relationship runs its course, you replace the number and the connection is closed — without touching your real line, your dating apps, or any of your personal contacts.
 
 Your real number is permanent. What you share with clients does not have to be.
 

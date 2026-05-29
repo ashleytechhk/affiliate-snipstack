@@ -140,7 +140,7 @@ It depends on the type of number. Free VoIP numbers from Google Voice and TextNo
 
 WiFi calling on your regular carrier plan still routes through your real phone number and appears in your carrier's call records linked to your billing identity. WiFi calling on an alias number routes voice calls through the alias — the person you are calling sees your [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/), not your real one, and your real carrier account has no record of that call. For dating privacy, this distinction is the entire point.
 
-**Can someone trace my identity from an Alt-Number second number?**
+**Can someone trace my identity from an Alt-Number [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/)?**
 
 Not through the number itself. Alt-Number provides real mobile numbers that are not linked to your name in public-facing databases the way your carrier-issued number is. A reverse lookup on the alias returns nothing useful about you personally. If you revoke the alias, it returns nothing at all — the number is deactivated and becomes a dead end.
 

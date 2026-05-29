@@ -81,7 +81,7 @@ Streaming platforms price plans by region. The Philippines is considered a mid-t
 |---------|----------------|-------------------|
 | Netflix Standard | ~₱549/mo (~$9.50) | ~$3–5/mo (select markets) |
 | Disney+ | ~₱369/mo (~$6.40) | ~$2–4/mo (select markets) |
-| Spotify Premium | ~₱179/mo (~$3.10) | ~$1–3/mo (select markets) |
+| [Spotify Premium](https://snipstack.io/spotify-premium-vs-ad-blocker-comparison-2026/) | ~₱179/mo (~$3.10) | ~$1–3/mo (select markets) |
 
 The savings on individual services may look modest in absolute peso terms. But across two or three subscriptions over a full year, the total quickly exceeds the annual cost of a Surfshark subscription — often by a factor of two or three.
 

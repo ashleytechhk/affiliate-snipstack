@@ -156,7 +156,7 @@ It depends on the number type. Tinder, Hinge, and Bumble use verification layers
 
 Yes. This is exactly what Alt-Number, Hushed, and Burner App do. You download the app, subscribe, and get a working phone number — calls and texts arrive through the app on your existing device. No SIM tray involved, no [second phone](https://snipstack.io/second-phone-number-iphone-2026/) required. The number is as functional as your real line for calls, SMS, and app verification.
 
-### What happens if I give a match my second number and then want to cut contact?
+### What happens if I give a match my [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) and then want to cut contact?
 
 Delete the number. Anyone who tries to call or text it gets nothing — the number no longer exists. You can pick up a new number the same day. Your real number was never shared, so there is no residual contact path. This is the primary privacy advantage of a disposable second number over your personal line.
 

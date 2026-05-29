@@ -103,7 +103,7 @@ When comparing products for Android and Windows coverage specifically, these are
 
 **Is antivirus real-time on Android, or just on-demand?** Real-time scanning catches threats before they execute. On-demand scanning (manual scan only) is better than nothing but misses active malware. Confirm which mode is default on Android.
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to the device count when you add more?** A plan that covers five devices sounds fine today. It gets awkward when you factor in a second phone, a partner's laptop, and a tablet. Unlimited-device plans eliminate this calculation entirely.
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to the device count when you add more?** A plan that covers five devices sounds fine today. It gets awkward when you factor in a [second phone](https://snipstack.io/second-phone-number-for-verification-2026/), a partner's laptop, and a tablet. Unlimited-device plans eliminate this calculation entirely.
 
 **What does year-two pricing look like?** This is the most important question for any subscription security product. Get the renewal rate before you sign up, not after you see the auto-charge.
 
