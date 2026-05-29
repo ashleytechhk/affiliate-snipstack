@@ -156,7 +156,7 @@ Yes. The VPN, antivirus, and alerts apps are available on iOS and Android in add
 
 ## Final Call
 
-Norton and McAfee built their businesses in a different era — when security software meant one thing and VPNs were niche add-ons. In 2026, carrying four separate security tools at $25–30/month combined is not a reasonable price for what you get. Surfshark One Bundle is built for the current threat model: always-on VPN, antivirus running quietly in the background, breach monitoring that actually alerts you in real time, and an alternative identity layer for accounts you don't want tied to your real email.
+Norton and McAfee built their businesses in a different era — when security software meant one thing and VPNs were niche add-ons. In 2026, carrying four separate security tools at $25–30/month combined is not a reasonable price for what you get. [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) Bundle is built for the current threat model: always-on VPN, antivirus running quietly in the background, breach monitoring that actually alerts you in real time, and an alternative identity layer for accounts you don't want tied to your real email.
 
 For healthcare professionals managing their personal digital footprint alongside high-target credentials, this is the suite that covers the gaps Norton leaves open — at a price that doesn't punish you for renewing.
 

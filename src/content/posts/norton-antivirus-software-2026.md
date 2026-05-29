@@ -149,6 +149,6 @@ Running two antivirus engines simultaneously on the same device causes conflicts
 
 [Norton antivirus](https://snipstack.io/norton-antivirus-for-mac-2026/) software built a dominant reputation over decades, and it earns it in one dimension: raw malware detection scores. But in 2026, malware detection is table stakes. The question is what else you get for your money — and whether the renewal pricing is honest.
 
-Surfshark One Bundle covers antivirus, VPN, breach monitoring, ad blocking, and private search under one subscription, on unlimited devices, at a price that does not ambush you at renewal. For anyone currently paying for Norton plus a separate VPN, or anyone who opened their renewal email and felt a knot in their stomach, switching is worth 15 minutes of your afternoon.
+[Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) Bundle covers antivirus, VPN, breach monitoring, ad blocking, and private search under one subscription, on unlimited devices, at a price that does not ambush you at renewal. For anyone currently paying for Norton plus a separate VPN, or anyone who opened their renewal email and felt a knot in their stomach, switching is worth 15 minutes of your afternoon.
 
 **[Get Surfshark One Bundle — see the current deal](/blog/surfshark?sub=norton-antivirus-software-2026__cta)**

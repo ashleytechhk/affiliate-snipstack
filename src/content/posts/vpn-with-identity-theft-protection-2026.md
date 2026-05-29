@@ -192,4 +192,4 @@ If your current setup is a $120/year Norton subscription you installed three yea
 
 ---
 
-*Pricing reflects publicly available information as of May 2026. Feature availability varies by region. Credit monitoring is not included in Surfshark One — supplement with a dedicated credit monitoring service if required. Insurance coverage terms mentioned for Norton/LifeLock are subject to their own policy conditions.*
+*Pricing reflects publicly available information as of May 2026. Feature availability varies by region. Credit monitoring is not included in [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) — supplement with a dedicated credit monitoring service if required. Insurance coverage terms mentioned for Norton/LifeLock are subject to their own policy conditions.*

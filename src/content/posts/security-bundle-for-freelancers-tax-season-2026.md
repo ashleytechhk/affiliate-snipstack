@@ -131,7 +131,7 @@ If you are already mid-Norton subscription, note the money-back window and wheth
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) on multiple devices?
 
-Yes. Surfshark One covers unlimited devices under a single subscription. You can run it on your work laptop, personal phone, and tablet simultaneously. This is a meaningful advantage over Norton and McAfee plans that cap you at one to five devices depending on which tier you pay for.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) covers unlimited devices under a single subscription. You can run it on your work laptop, personal phone, and tablet simultaneously. This is a meaningful advantage over Norton and McAfee plans that cap you at one to five devices depending on which tier you pay for.
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) protect me on public Wi-Fi during tax season?
 

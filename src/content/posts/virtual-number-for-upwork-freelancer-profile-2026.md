@@ -137,7 +137,7 @@ This takes about ten minutes the first time.
 
 **Step 5.** If you use dating apps that require phone verification (most do), you can use the same [virtual number for](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/) those, or create a second Alt-Number specifically for dating — keeping the professional and dating contexts on separate virtual lines.
 
-**Step 6.** When handing your number to a new match, give them the virtual number. Move to your real number only when you have established enough trust. If the situation turns uncomfortable at any point, you can update or replace the [virtual number with](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/)out touching your real SIM.
+**Step 6.** When handing your number to a new match, give them the [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/). Move to your real number only when you have established enough trust. If the situation turns uncomfortable at any point, you can update or replace the [virtual number with](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/)out touching your real SIM.
 
 ---
 

@@ -70,7 +70,7 @@ Because extensions are out, the options for Vivaldi mobile users are:
 1. **Vivaldi's built-in tracker blocking** — useful baseline, but incomplete (covered above)
 2. **A browser switch** — Firefox for Android supports full extensions including uBlock Origin, but that means leaving Vivaldi
 3. **A DNS-based or network-level [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/)** — covers Vivaldi and everything else on the phone simultaneously
-4. **A dedicated VPN with built-in ad blocking** — the most complete option for a mobile power user
+4. **A dedicated [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in ad blocking** — the most complete option for a mobile power user
 
 For someone who specifically uses Vivaldi because of its power-user features and does not want to switch browsers, option 3 or 4 is the right answer.
 

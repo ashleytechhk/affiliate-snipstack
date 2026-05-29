@@ -131,7 +131,7 @@ Surfshark's VPN is the core product — it predates the antivirus bundle by year
 
 [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) covers unlimited devices simultaneously on a single subscription. You can run the VPN on your laptop, your phone, your partner's tablet, and your smart TV at the same time. Norton 360 Deluxe covers 5 devices. McAfee Total Protection covers unlimited devices but its VPN performance lags Surfshark's.
 
-### Can I cancel Surfshark One easily, or is it designed to trap me?
+### Can I cancel [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) easily, or is it designed to trap me?
 
 Surfshark offers a 30-day money-back guarantee. Cancellations are processed through a straightforward account portal — no phone calls required, no retention scripts. This is a direct contrast to some legacy suite providers whose cancellation processes are notoriously convoluted.
 

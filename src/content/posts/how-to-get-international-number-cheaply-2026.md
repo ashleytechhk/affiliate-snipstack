@@ -168,7 +168,7 @@ Any attempts to reach that number after cancellation either fail or reach no one
 
 **Is it legal to use a [virtual number for](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) dating apps?**
 
-Yes. Using a virtual number is no different from using a work number or a [second phone number](https://snipstack.io/second-phone-number-for-verification-2026/). You're reachable on that number — calls and texts go through normally. Dating platforms don't prohibit it, and there's nothing deceptive about protecting your primary contact information from people you've just met online.
+Yes. Using a [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/) is no different from using a work number or a [second phone number](https://snipstack.io/second-phone-number-for-verification-2026/). You're reachable on that number — calls and texts go through normally. Dating platforms don't prohibit it, and there's nothing deceptive about protecting your primary contact information from people you've just met online.
 
 **Can I get an international number from a specific country?**
 

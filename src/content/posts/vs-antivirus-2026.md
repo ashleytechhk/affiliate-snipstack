@@ -149,7 +149,7 @@ Both offer online account dashboards where you can disable auto-renew. However, 
 
 ### How many devices does [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) cover?
 
-Surfshark One covers unlimited devices under a single subscription. This includes Windows, macOS, Android, and iOS. Norton 360 Deluxe covers five devices; McAfee Total Protection varies by plan (typically five on standard tiers).
+[Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) covers unlimited devices under a single subscription. This includes Windows, macOS, Android, and iOS. Norton 360 Deluxe covers five devices; McAfee Total Protection varies by plan (typically five on standard tiers).
 
 ### Is there a [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) worth using instead?
 

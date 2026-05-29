@@ -142,7 +142,7 @@ Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-wha
 Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside the [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) tool. No separate purchase is required. **[See current plans and pricing](/blog/altnumber?sub=virtual-number-for-vrbo-property-listing-2026__faq)**.
 
 **Does this work for Airbnb hosts too, not just VRBO?**
-Yes. The same exposure exists on any platform where you provide a personal phone number to guests or potential guests. The virtual number approach — and Surfshark Alt-Number specifically — applies to Airbnb, VRBO, Hipcamp, and any other short-term rental platform where you communicate with guests via phone.
+Yes. The same exposure exists on any platform where you provide a personal phone number to guests or potential guests. The [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/) approach — and Surfshark Alt-Number specifically — applies to Airbnb, VRBO, Hipcamp, and any other short-term rental platform where you communicate with guests via phone.
 
 ---
 

@@ -18,7 +18,7 @@ This guide explains exactly what Arc Search's built-in [ad blocker](https://snip
 
 ## Quick Verdict
 
-Arc Search (the mobile browser from The Browser Company) ships with a built-in [ad blocker](https://snipstack.io/ad-blocker-for-edge-browser-windows-11-2026/), cookie-banner blocker, and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) — so you do not need to install a separate extension inside Arc. However, that protection ends at Arc's front door. Any ad loaded by your news app, social media app, podcast player, or mobile game is invisible to Arc's blocker. A network-level solution like **Surfshark CleanWeb** fills that gap without requiring a separate app — it runs across your entire device the moment the VPN connects.
+Arc Search (the mobile browser from The Browser Company) ships with a built-in [ad blocker](https://snipstack.io/ad-blocker-for-edge-browser-windows-11-2026/), cookie-banner blocker, and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) — so you do not need to install a separate extension inside Arc. However, that protection ends at Arc's front door. Any ad loaded by your news app, social media app, podcast player, or mobile game is invisible to Arc's blocker. A network-level solution like **[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/)** fills that gap without requiring a separate app — it runs across your entire device the moment the VPN connects.
 
 ---
 
@@ -26,7 +26,7 @@ Arc Search (the mobile browser from The Browser Company) ships with a built-in [
 
 An **[ad blocker for](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) Arc browser** is software that prevents advertising content — banners, video pre-rolls, tracking pixels, cookie-consent walls — from loading when you browse the web. On desktop, this usually means a browser extension like [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) or AdGuard. On mobile, it is more complicated.
 
-Arc Search is The Browser Company's mobile browser for iPhone. Unlike desktop Arc (which is Chromium-based and supports Chrome extensions), **Arc Search does not support third-party browser extensions**. There is no plugin store, no manifest file to install, and no way to run uBlock Origin inside it. Instead, The Browser Company built the blocking capability directly into the app itself.
+Arc Search is The Browser Company's mobile browser for iPhone. Unlike desktop Arc (which is Chromium-based and supports Chrome extensions), **Arc Search does not support third-party browser extensions**. There is no plugin store, no manifest file to install, and no way to run [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) inside it. Instead, The Browser Company built the blocking capability directly into the app itself.
 
 ### What Arc Search's Built-In Blocker Covers
 
@@ -164,7 +164,7 @@ Heavy mobile users who switch frequently between apps, watch video in native app
 
 **Does Arc Search have a built-in [ad blocker](https://snipstack.io/ad-blocker-that-hides-your-location-2026/)?**
 
-Yes. Arc Search includes a built-in ad blocker, tracker blocker, and cookie-banner blocker as part of the default browser experience. You do not need to install a separate extension. The blocker works automatically when you browse inside Arc Search.
+Yes. Arc Search includes a built-in [ad blocker](https://snipstack.io/ad-blocker-for-podcast-apps-ios-2026/), tracker blocker, and cookie-banner blocker as part of the default browser experience. You do not need to install a separate extension. The blocker works automatically when you browse inside Arc Search.
 
 **Can I install uBlock Origin in Arc Search on iPhone?**
 
@@ -182,7 +182,7 @@ The Browser Company has shifted primary development focus to their newer product
 
 No. CleanWeb is a feature that runs through Surfshark's VPN profile. It requires an active VPN connection to filter traffic. When the VPN is connected, CleanWeb is active across all apps on the device automatically.
 
-**Will adding CleanWeb conflict with Arc Search's built-in ad blocker?**
+**Will adding CleanWeb conflict with Arc Search's built-in [ad blocker](https://snipstack.io/ad-blocker-that-works-with-vpn-2026/)?**
 
 No. They operate at different layers and do not interfere with each other. Inside Arc Search, you benefit from both the browser's built-in filter and CleanWeb's DNS-level filtering running simultaneously. Outside Arc Search, CleanWeb continues filtering while the browser's blocker has no involvement.
 
@@ -194,7 +194,7 @@ Modern VPN infrastructure using WireGuard protocol — which Surfshark uses on m
 
 ## Bottom Line
 
-Arc Search is a genuinely good mobile browser with solid built-in ad blocking for web pages. If your frustration is specifically with ads inside Arc, you may not need to do anything — it handles that problem by default.
+Arc Search is a genuinely good mobile [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) solid built-in ad blocking for web pages. If your frustration is specifically with ads inside Arc, you may not need to do anything — it handles that problem by default.
 
 If ads across your whole phone bother you — inside apps, streaming services, and every browser you use — then Arc Search's built-in blocker alone is not the solution. The missing piece is a network-level filter that travels with the device, not just with one app. CleanWeb adds exactly that layer without requiring a separate standalone app.
 

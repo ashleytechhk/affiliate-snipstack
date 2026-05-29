@@ -127,7 +127,7 @@ For users who want a pure VPN comparison rather than a suite comparison:
 
 Surfshark's no-logs policy has been independently audited by Deloitte. The audit confirmed that Surfshark does not store connection timestamps, IP addresses, browsing history, or session data. This is verifiable third-party verification, not a self-reported claim. [See the full Surfshark One bundle details here.](/blog/surfshark?sub=best-vpns-for-privacy-2026__faq)
 
-**Can I cancel Norton and keep my current security level with Surfshark One?**
+**Can I cancel Norton and keep my current security level with [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/)?**
 
 For most users, yes. Surfshark One covers VPN, antivirus, breach monitoring, and private search — the four features most people actually use in a security suite. The exception is if you rely heavily on Norton's LifeLock identity restoration service or credit score monitoring, which are insurance-grade features Surfshark doesn't replicate.
 

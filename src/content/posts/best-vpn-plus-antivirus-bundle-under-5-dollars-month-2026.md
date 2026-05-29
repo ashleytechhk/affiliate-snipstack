@@ -172,7 +172,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) o
 
 ### Does the VPN in these bundles actually work, or is it a crippled add-on?
 
-It depends on the product. Norton's VPN is limited to 200MB of data per day on the base plan — effectively unusable for streaming or regular browsing. McAfee's VPN has similar data caps on some tiers. Surfshark One's VPN is the same full product as the standalone Surfshark VPN, with no data cap, no device limit, and WireGuard protocol support. There is no meaningful difference between the bundled and standalone version.
+It depends on the product. Norton's VPN is limited to 200MB of data per day on the base plan — effectively unusable for streaming or regular browsing. McAfee's VPN has similar data caps on some tiers. [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/)'s VPN is the same full product as the standalone Surfshark VPN, with no data cap, no device limit, and WireGuard protocol support. There is no meaningful difference between the bundled and standalone version.
 
 ### Can one subscription cover my whole household?
 

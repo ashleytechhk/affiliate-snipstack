@@ -138,7 +138,7 @@ It can. Streaming platforms use multiple signals to detect VPN usage, and a WebR
 
 ### Does disabling WebRTC in my browser break anything?
 
-For most users, no. WebRTC is only active when you're using browser-based video or voice features (like Google Meet in a tab, or browser-based collaboration tools). Disabling it won't affect your regular browsing, streaming, or any native desktop app. If you use in-browser video calling frequently, a VPN with built-in WebRTC protection is a better approach than disabling it entirely.
+For most users, no. WebRTC is only active when you're using browser-based video or voice features (like Google Meet in a tab, or browser-based collaboration tools). Disabling it won't affect your regular browsing, streaming, or any native desktop app. If you use in-browser video calling frequently, a [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in WebRTC protection is a better approach than disabling it entirely.
 
 ### How often should I run a WebRTC leak test?
 

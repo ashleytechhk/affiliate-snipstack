@@ -162,7 +162,7 @@ Yes. The [virtual number](https://snipstack.io/virtual-number-for-doordash-drive
 
 **What happens to my dating app account if I disable the [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/)?**
 
-Your dating app account is tied to the number used during initial verification. Disabling the [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) does not delete your account. You can create a new virtual number and update your account contact details if needed. The account itself remains intact.
+Your dating app account is tied to the number used during initial verification. Disabling the [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) does not delete your account. You can create a new [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/) and update your account contact details if needed. The account itself remains intact.
 
 **How is Alt-Number different from just blocking someone?**
 

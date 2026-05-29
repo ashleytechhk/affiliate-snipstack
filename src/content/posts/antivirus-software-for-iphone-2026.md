@@ -146,7 +146,7 @@ Not in the traditional sense — iOS prevents apps from scanning other apps, so 
 
 For iPhone-only users, Norton 360 is overbuilt and overpriced. You're paying for [Windows antivirus](https://snipstack.io/windows-antivirus-2026/) infrastructure that iOS won't let the app use. The VPN has a monthly data cap on standard plans, and the renewal price is significantly higher than the introductory rate. It's a better fit for multi-platform households.
 
-### What is the Surfshark One bundle?
+### What is the [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) bundle?
 
 Surfshark One combines four products: the Surfshark VPN (unlimited devices, no-logs), Surfshark Alert (dark web and breach monitoring), Surfshark Search (private, ad-free search engine), and [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) (alert-based protection for supported platforms). On iPhone, VPN and breach alerts are the most impactful features. [See what's included in Surfshark One →](/blog/surfshark?sub=antivirus-software-for-iphone-2026__faq)
 

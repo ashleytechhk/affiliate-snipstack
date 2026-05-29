@@ -179,7 +179,7 @@ Yes, and this is one of the main use cases. Once your Google account is verified
 
 The separate Google account strategy is the right instinct. A clean email, a clean calendar, a clean Google Photos — that is a meaningful step toward keeping your dating life from bleeding into your real identity.
 
-But that strategy has one weak point, and it is the first step: Google's phone verification. Use your real number there, and the silo has a hole. Use a carrier-backed virtual number, and the silo actually holds.
+But that strategy has one weak point, and it is the first step: Google's phone verification. Use your real number there, and the silo has a hole. Use a carrier-backed [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/), and the silo actually holds.
 
 Your real number is permanent — once someone has it, that is difficult to undo. Your Alt-Number is entirely under your control, replaceable at any time, with no trace back to your personal line.
 

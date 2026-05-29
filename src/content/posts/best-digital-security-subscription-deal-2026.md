@@ -106,7 +106,7 @@ The one gap worth noting: [Surfshark One](https://snipstack.io/surfshark-one-vs-
 
 [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe covers five devices. McAfee Total Protection also caps at five on the standard plan. Each additional device requires an upgrade.
 
-Surfshark One covers unlimited devices. One subscription extends to every phone, laptop, tablet, and desktop you own — and covers family members without a device-count negotiation.
+[Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) covers unlimited devices. One subscription extends to every phone, laptop, tablet, and desktop you own — and covers family members without a device-count negotiation.
 
 For a household with four or more active devices, this changes the per-device cost calculation entirely. A family of three with two laptops, two phones, and a tablet is already at five devices. Add one more and you're pushing into a higher Norton or McAfee tier. With Surfshark One, you add the device and move on.
 

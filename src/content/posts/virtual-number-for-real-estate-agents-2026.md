@@ -157,7 +157,7 @@ Anyone who calls or texts that number after you disable it will not reach you. F
 Alt-Number is included with Surfshark subscription plans at no additional cost. It is part of the Alternative ID feature set alongside the Alt-ID [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/). **[See current pricing and plans](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__faq)**.
 
 **Can dating apps detect that I am using a [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/)?**
-Dating apps do not check whether a phone number is virtual or carrier-issued for general use. Some apps use phone number verification during signup, which Alt-Number can handle — you receive the verification SMS on your virtual number just as you would on a real one.
+Dating apps do not check whether a phone number is virtual or carrier-issued for general use. Some apps use phone number verification during signup, which Alt-Number can handle — you receive the verification SMS on your [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/) just as you would on a real one.
 
 **Is it legal to use a virtual number on dating apps?**
 Using a [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/) is legal. Whether it complies with a specific app's terms of service depends on that platform's policies. Review the terms of any app you use. Surfshark's own Terms of Service prohibit using Alt-Number in ways that violate other platforms' rules or applicable law.

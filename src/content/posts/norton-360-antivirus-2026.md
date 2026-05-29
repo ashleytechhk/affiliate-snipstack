@@ -165,7 +165,7 @@ Surfshark operates a verified no-logs policy, meaning they do not store records 
 
 You can cancel Norton auto-renewal at any time through your account at norton.com. If you cancel before your renewal date, you keep access until the current paid period ends. Check your subscription terms for the exact refund window.
 
-### Is there a risk-free way to try Surfshark One Bundle?
+### Is there a risk-free way to try [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) Bundle?
 
 All Surfshark plans include a 30-day money-back guarantee. If the product doesn't suit you in that window, you can request a full refund — no complicated cancellation process.
 

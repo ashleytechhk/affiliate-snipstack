@@ -119,7 +119,7 @@ The **Alert** feature monitors your email addresses and personal data against br
 
 ### What is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/)?
 
-Surfshark One bundles four products: the Surfshark VPN (unlimited devices, full server network), [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) (real-time malware protection for Windows and macOS), Surfshark Alert (data breach monitoring for email addresses and personal data), and Surfshark Search (a private, ad-free search engine). All four are managed from a single dashboard app. [See the full Surfshark One feature list and current pricing.](/blog/one?sub=annual-security-bundle-best-deals-2026__faq)
+[Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) bundles four products: the Surfshark VPN (unlimited devices, full server network), [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) (real-time malware protection for Windows and macOS), Surfshark Alert (data breach monitoring for email addresses and personal data), and Surfshark Search (a private, ad-free search engine). All four are managed from a single dashboard app. [See the full Surfshark One feature list and current pricing.](/blog/one?sub=annual-security-bundle-best-deals-2026__faq)
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include a password manager?
 

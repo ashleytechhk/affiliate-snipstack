@@ -136,7 +136,7 @@ A useful strategy: set the VPN to auto-connect on their devices (Settings → VP
 
 ## Step 6 — Set Up Alt-ID and Alt-Number
 
-This is the step most families skip and should not. [Alt-ID](https://snipstack.io/email-alias-generator-2026/) and Alt-Number are what separates Surfshark One from a basic antivirus-plus-VPN package.
+This is the step most families skip and should not. [Alt-ID](https://snipstack.io/email-alias-generator-2026/) and Alt-Number are what separates [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) from a basic antivirus-plus-VPN package.
 
 ![Alt-ID interface showing a generated email alias and identity shield active](/og/best-privacy-bundle-for-family-2026-inline-2.png)
 

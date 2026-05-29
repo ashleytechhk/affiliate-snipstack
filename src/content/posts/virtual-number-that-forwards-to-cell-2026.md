@@ -121,7 +121,7 @@ It means a phone number that is not tied to a physical SIM card or carrier accou
 
 Alt-Number forwards both calls and SMS to your device through the Surfshark app. Calls ring your phone. Texts arrive as notifications. You do not need to actively open the app to receive contacts — the forwarding is passive and works in the background. [Set up Alt-Number here.](/blog/altnumber?sub=virtual-number-that-forwards-to-cell-2026__faq)
 
-**Can I use a virtual number that forwards to cell to register on Tinder, Hinge, or Bumble?**
+**Can I use a [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/) that forwards to cell to register on Tinder, Hinge, or Bumble?**
 
 Yes, with the caveat that these apps check for VoIP numbers at verification. Alt-Number uses real mobile numbers rather than VoIP, which means verification codes typically go through on supported countries. Test with your specific app and region — individual platform behavior varies.
 

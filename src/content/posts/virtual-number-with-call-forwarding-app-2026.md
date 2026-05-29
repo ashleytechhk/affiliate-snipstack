@@ -112,7 +112,7 @@ For the specific friction points online daters run into — app verification, Wh
 
 ## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If Things Go Wrong
 
-Even with a virtual number, a bad situation can develop. Here is the response sequence that limits the damage.
+Even with a [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/), a bad situation can develop. Here is the response sequence that limits the damage.
 
 **Disable the number immediately.** In Alt-Number, this is a single toggle. The person who had your virtual number can no longer reach you. No calls, no texts. This is faster and cleaner than blocking individual contacts, and unlike blocking, it works even if they switch to a different number.
 

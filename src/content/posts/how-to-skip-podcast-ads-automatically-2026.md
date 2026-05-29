@@ -92,7 +92,7 @@ All DNS queries on your device now route through AdGuard's filtering servers. Kn
 iOS does not expose a native Private DNS setting in the same way Android does. Options:
 
 - Download a DNS configuration profile from a provider like AdGuard or NextDNS and install it via **Settings → General → VPN & Device Management**
-- Use a VPN with built-in DNS filtering (covered in the next method — and the more capable approach)
+- Use a [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in DNS filtering (covered in the next method — and the more capable approach)
 
 The DNS method is a solid free baseline. Its limitation is that it only catches ad servers on known blocklists. If a podcast network uses an ad server that is not listed — or uses the same domain as content delivery — DNS blocking cannot distinguish between the two.
 

@@ -139,7 +139,7 @@ Both Norton and McAfee offer prorated refunds in some markets within a cancellat
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on Windows, Mac, iOS, and Android?
 
-Yes. Surfshark One covers all major platforms. The unlimited device policy means you can install it on every device in your home office without counting licenses. [Check compatibility and plans →](/blog/one?sub=best-security-bundle-for-home-office-2026__faq)
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) covers all major platforms. The unlimited device policy means you can install it on every device in your home office without counting licenses. [Check compatibility and plans →](/blog/one?sub=best-security-bundle-for-home-office-2026__faq)
 
 ### Does the VPN in Surfshark One slow down my internet connection?
 

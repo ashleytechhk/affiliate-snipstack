@@ -102,7 +102,7 @@ Getting a [virtual number for](https://snipstack.io/virtual-number-for-signal-re
 
 **Step 6.** When a call or text arrives on your [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/), you receive a notification in the Surfshark app. The interaction stays contained there. Your real SMS inbox and call history are untouched.
 
-**Step 7.** Return home. If you want to close any connections made during the trip, disable or replace the virtual number in the Alt-Number dashboard. Every person who had that number loses access simultaneously. Your real number is completely unaffected.
+**Step 7.** Return home. If you want to close any connections made during the trip, disable or replace the [virtual number](https://snipstack.io/virtual-number-for-telegram-account-setup-2026/) in the Alt-Number dashboard. Every person who had that number loses access simultaneously. Your real number is completely unaffected.
 
 The total time investment is under five minutes for setup. The number works anywhere you have an internet connection, which is available in essentially every travel context where you would be using a dating app.
 

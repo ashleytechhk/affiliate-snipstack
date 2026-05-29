@@ -123,7 +123,7 @@ Norton and McAfee do not include anything equivalent. This is a genuine differen
 
 Both Norton 360 Standard and McAfee Total Protection limit simultaneous device connections. Norton Standard covers 1 device for its VPN component (you need the Deluxe or Plus tier for more). McAfee Total Protection covers up to 5.
 
-Surfshark One has no device limit. One subscription covers your laptop, your partner's laptop, your phone, your tablet, and any device in between. If you're a household with multiple people who'd all benefit from VPN protection and antivirus coverage, Surfshark One's per-device cost math becomes very favorable.
+[Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) has no device limit. One subscription covers your laptop, your partner's laptop, your phone, your tablet, and any device in between. If you're a household with multiple people who'd all benefit from VPN protection and antivirus coverage, Surfshark One's per-device cost math becomes very favorable.
 
 ---
 

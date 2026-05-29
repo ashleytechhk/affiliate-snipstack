@@ -130,7 +130,7 @@ AdGuard DNS is operated by AdGuard Software Ltd. and uses encrypted DNS (DoH/DoT
 
 ### Can I use AdGuard and a VPN at the same time on iPhone?
 
-Not simultaneously on iOS. The operating system allows only one active VPN profile at a time. AdGuard's system-wide mode uses a local VPN slot, so it conflicts with any real VPN. Your options: use AdGuard in Safari-only mode with a real VPN running, or switch to a VPN with built-in blocking like Surfshark CleanWeb, which removes the conflict entirely.
+Not simultaneously on iOS. The operating system allows only one active VPN profile at a time. AdGuard's system-wide mode uses a local VPN slot, so it conflicts with any real VPN. Your options: use AdGuard in Safari-only mode with a real VPN running, or switch to a [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in blocking like Surfshark CleanWeb, which removes the conflict entirely.
 
 ### Does CleanWeb [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side apps like YouTube?
 

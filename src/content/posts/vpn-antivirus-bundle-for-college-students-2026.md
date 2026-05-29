@@ -153,7 +153,7 @@ Yes. The full suite — antivirus, VPN, CleanWeb, and Alert — is available on 
 
 ### Will a VPN antivirus bundle slow down my laptop?
 
-Surfshark One is designed to be lightweight. The antivirus runs in the background without the heavy CPU footprint Norton and McAfee are known for. The VPN adds a small latency overhead depending on server distance, but on any connection over 25 Mbps you will not notice it for everyday tasks. If your laptop is already sluggish from Norton, switching will likely make it feel faster, not slower.
+[Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) is designed to be lightweight. The antivirus runs in the background without the heavy CPU footprint Norton and McAfee are known for. The VPN adds a small latency overhead depending on server distance, but on any connection over 25 Mbps you will not notice it for everyday tasks. If your laptop is already sluggish from Norton, switching will likely make it feel faster, not slower.
 
 ### Is it safe to use a VPN on university WiFi?
 

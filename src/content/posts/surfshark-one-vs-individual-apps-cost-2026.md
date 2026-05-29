@@ -116,7 +116,7 @@ The privacy case for Search also reinforces why you set up Alert: if your querie
 
 ## The Real Cost of Staying on Norton or McAfee
 
-Before comparing Surfshark One to individual subscriptions, it is worth naming what staying on your current suite actually costs in 2026.
+Before comparing [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) to individual subscriptions, it is worth naming what staying on your current suite actually costs in 2026.
 
 Norton 360 Deluxe's introductory price is frequently around $39–49 for the first year. The renewal rate commonly lands at $100–120 per year. McAfee Total Protection follows a similar pattern: low entry price, significant renewal increase, with annual reminders that feel more like pressure than a service update.
 

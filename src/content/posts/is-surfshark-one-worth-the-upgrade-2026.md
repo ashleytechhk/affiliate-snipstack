@@ -163,7 +163,7 @@ It depends on the math. If your current VPN costs $3–6/month and your antiviru
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include a password manager?
 
-No. Surfshark One includes VPN, Antivirus, Alert (breach monitoring), and Search. There is no password manager. If a built-in password manager is important to you, Norton 360 includes one. Alternatively, a free tool like Bitwarden fills that gap without adding cost.
+No. [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) includes VPN, Antivirus, Alert (breach monitoring), and Search. There is no password manager. If a built-in password manager is important to you, Norton 360 includes one. Alternatively, a free tool like Bitwarden fills that gap without adding cost.
 
 ### How does Surfshark Alert compare to Norton's dark web monitoring?
 

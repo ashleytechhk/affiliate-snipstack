@@ -156,7 +156,7 @@ It is both, plus more. [Surfshark ONE](https://snipstack.io/surfshark-one-vs-tre
 
 ### How [does Surfshark ONE](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) compare to Norton for older computers?
 
-Surfshark ONE has a significantly lighter system footprint than Norton 360. Norton installs multiple background services simultaneously; Surfshark's approach is more modular. For a five-to-seven-year-old Windows laptop with a spinning hard drive or modest RAM, the difference in day-to-day performance is noticeable. Norton is more likely to trigger "slowdown" complaints from seniors after installation.
+[Surfshark ONE](https://snipstack.io/surfshark-one-features-full-list-2026/) has a significantly lighter system footprint than Norton 360. Norton installs multiple background services simultaneously; Surfshark's approach is more modular. For a five-to-seven-year-old Windows laptop with a spinning hard drive or modest RAM, the difference in day-to-day performance is noticeable. Norton is more likely to trigger "slowdown" complaints from seniors after installation.
 
 ### Does Surfshark ONE protect against [scam phone](https://snipstack.io/scam-phone-number-lookup-free-2026/) calls or text messages?
 

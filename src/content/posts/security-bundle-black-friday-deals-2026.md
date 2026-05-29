@@ -181,7 +181,7 @@ Yes. Surfshark offers a 30-day refund window on new subscriptions regardless of 
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) replace a standalone antivirus completely?
 
-For most home users, yes. Surfshark One covers the core protection categories: real-time antivirus, VPN, data breach monitoring, and private search. The only significant gaps versus Norton's top tier are LifeLock-level identity restoration services (a US-centric feature) and a built-in password manager. If those are part of your current Norton setup and you actively use them, factor that into your switch decision.
+For most home users, yes. [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) covers the core protection categories: real-time antivirus, VPN, data breach monitoring, and private search. The only significant gaps versus Norton's top tier are LifeLock-level identity restoration services (a US-centric feature) and a built-in password manager. If those are part of your current Norton setup and you actively use them, factor that into your switch decision.
 
 ---
 

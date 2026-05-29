@@ -48,7 +48,7 @@ Browser extensions work by reading and modifying web page content inside the bro
 
 The two iOS-approved mechanisms that get close to system-wide filtering are:
 
-1. **VPN profiles** — iOS allows a VPN app to handle all outbound DNS resolution for the device. A VPN with built-in ad filtering (like CleanWeb) can silently drop requests to known ad-delivery domains.
+1. **VPN profiles** — iOS allows a VPN app to handle all outbound DNS resolution for the device. A [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in ad filtering (like CleanWeb) can silently drop requests to known ad-delivery domains.
 2. **Custom DNS** — You can configure a DNS-over-HTTPS server in iOS Wi-Fi settings that filters ad domains. This works on Wi-Fi only and requires manual setup; it does not follow you to cellular.
 
 A VPN-based approach covers both Wi-Fi and cellular, which matters for commuters listening on the go.
