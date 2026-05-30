@@ -150,7 +150,7 @@ Norton's antivirus engine has a longer track record and more historical lab data
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) on a shared [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) for everyone's banking?
 
-Yes. One Surfshark One subscription covers unlimited devices simultaneously. Every member of a household can run the VPN, antivirus, and breach monitoring under the same plan with no tier upgrade required. Add each family member's email addresses to Surfshark Alert for breach monitoring coverage across all accounts.
+Yes. One [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) subscription covers unlimited devices simultaneously. Every member of a household can run the VPN, antivirus, and breach monitoring under the same plan with no tier upgrade required. Add each family member's email addresses to Surfshark Alert for breach monitoring coverage across all accounts.
 
 ### Does Norton LifeLock provide better identity protection than Surfshark Alert?
 

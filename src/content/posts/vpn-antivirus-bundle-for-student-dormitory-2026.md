@@ -177,7 +177,7 @@ Norton Secure VPN on the Standard plan is capped at 50 GB of data per month — 
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription when I switch?
 
-Your subscription remains active until the end of the current billing period. Disable auto-renewal first so you are not charged for another year. You can uninstall Norton immediately and install Surfshark One — you do not need to wait for your Norton subscription to expire. Any overlap period where Norton is still technically active is a sunk cost; there is no refund for unused time on standard Norton plans unless you are within their return policy window.
+Your subscription remains active until the end of the current billing period. Disable auto-renewal first so you are not charged for another year. You can uninstall Norton immediately and install [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) — you do not need to wait for your Norton subscription to expire. Any overlap period where Norton is still technically active is a sunk cost; there is no refund for unused time on standard Norton plans unless you are within their return policy window.
 
 ### Does Surfshark One work on both Mac and Windows?
 

@@ -218,7 +218,7 @@ Yes. One subscription covers unlimited simultaneous devices across Windows, Mac,
 
 Most users report an improvement. Norton and McAfee run multiple background processes that start at boot — Norton's suite can run 8–12 background processes on Windows. Surfshark's app runs fewer processes with a smaller memory footprint. The first-time antivirus scan in Step 5 will use more CPU temporarily, but normal day-to-day performance should be equal or better after the switch.
 
-### Is there a free trial for Surfshark One?
+### Is there a free trial for [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)?
 
 Surfshark offers a money-back period on paid plans — check the current terms on the pricing page linked below, as these terms are subject to change. There is no free tier for Surfshark One.
 

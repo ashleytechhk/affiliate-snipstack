@@ -149,7 +149,7 @@ No — password manager is not part of the One bundle. If you rely on Norton's p
 
 Surfshark Alert monitors your email addresses, credit card numbers, and personal IDs across breach databases and notifies you immediately. Norton LifeLock goes further — higher LifeLock tiers include dollar-amount identity theft insurance (up to $1 million in some plans) and dedicated case agents. If you want insurance-backed identity protection, LifeLock is the stronger product for that specific need. If you want solid breach monitoring without the premium LifeLock price, Surfshark Alert handles it well.
 
-### Is there a free trial for Surfshark One?
+### Is there a free trial for [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)?
 
 Surfshark does not offer a free trial in the traditional sense, but it includes a 30-day money-back window on new subscriptions. You can try the full product with no restrictions and request a refund within that period if it does not fit your needs.
 

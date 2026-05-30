@@ -176,7 +176,7 @@ It depends on the product. Norton's VPN is limited to 200MB of data per day on t
 
 ### Can one subscription cover my whole household?
 
-[Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) covers unlimited simultaneous devices on one subscription — every laptop, phone, and tablet in your household under one login. Norton 360 caps device coverage at one to ten devices depending on the tier. McAfee covers five devices on most plans. For a household with more than five devices, Surfshark One's unlimited policy is practically significant.
+[Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) covers unlimited simultaneous devices on one subscription — every laptop, phone, and tablet in your household under one login. Norton 360 caps device coverage at one to ten devices depending on the tier. McAfee covers five devices on most plans. For a household with more than five devices, [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)'s unlimited policy is practically significant.
 
 ### Is Surfshark's antivirus as good as Norton's?
 

@@ -136,7 +136,7 @@ Pay monthly if:
 
 Switch to annual if:
 - You've tested it for a month and like it — the savings are significant (~$120/year versus paying monthly)
-- You were already paying $80–130/year to Norton or McAfee — the annual Surfshark One plan costs less
+- You were already paying $80–130/year to Norton or McAfee — the annual [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) plan costs less
 
 The monthly plan is not a trap, but it's also not optimized for long-term value. Think of it as the test drive tier.
 

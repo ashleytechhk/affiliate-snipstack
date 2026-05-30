@@ -184,6 +184,6 @@ The answer isn't to stop dating or to stay locked inside in-app messaging foreve
 
 Surfshark Alt-Number gives you a real phone number — from a country of your choice, with no second SIM required — that you control entirely. Use it freely. Share it without hesitation. And when you're ready to move on, disable it without a second thought.
 
-Your real number is tied to too much of your life to hand it out to every match you chat with. A cheap virtual number means you never have to.
+Your real number is tied to too much of your life to hand it out to every match you chat with. A cheap [virtual number](https://snipstack.io/virtual-number-for-snapchat-account-verify-2026/) means you never have to.
 
 **[Get your international number with Surfshark Alt-Number](/blog/altnumber?sub=how-to-get-international-number-cheaply-2026__cta)**

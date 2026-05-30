@@ -184,7 +184,7 @@ That is the full setup. The transition from Norton or McAfee to a fully configur
 
 ### Is the VPN in [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) the same as the standalone VPN?
 
-Yes. The VPN in Surfshark One is the same full product as the standalone Surfshark VPN subscription — same server network, same protocol options (WireGuard, OpenVPN, IKEv2), same Kill Switch, same CleanWeb ad blocking. It is not a limited or capped version.
+Yes. The VPN in [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) is the same full product as the standalone Surfshark VPN subscription — same server network, same protocol options (WireGuard, OpenVPN, IKEv2), same Kill Switch, same CleanWeb ad blocking. It is not a limited or capped version.
 
 ### How does Surfshark One compare to Norton 360?
 

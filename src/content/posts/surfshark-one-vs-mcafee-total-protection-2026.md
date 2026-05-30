@@ -152,7 +152,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my McAfee subscription if I switch early?
 
-McAfee subscriptions are typically non-refundable after the initial return window (usually 30 days). If you are mid-cycle, you can install Surfshark One immediately and let the McAfee plan run out without renewing. Turn off auto-renewal on your McAfee account before the renewal date to avoid being charged for another year.
+McAfee subscriptions are typically non-refundable after the initial return window (usually 30 days). If you are mid-cycle, you can install [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) immediately and let the McAfee plan run out without renewing. Turn off auto-renewal on your McAfee account before the renewal date to avoid being charged for another year.
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) slow down my computer?
 

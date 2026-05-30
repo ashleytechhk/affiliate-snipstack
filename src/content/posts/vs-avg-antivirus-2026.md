@@ -141,7 +141,7 @@ AVG is owned by Avast, which was fined by the FTC in 2024 for selling user brows
 
 ### Is there a [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) option?
 
-Surfshark One's unlimited device policy effectively functions as a family plan — every device in your household can run under the same subscription. AVG charges per device or per tier and does not offer an equivalent.
+[Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)'s unlimited device policy effectively functions as a family plan — every device in your household can run under the same subscription. AVG charges per device or per tier and does not offer an equivalent.
 
 ---
 

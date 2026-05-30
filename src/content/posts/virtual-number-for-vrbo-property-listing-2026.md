@@ -154,7 +154,7 @@ You do not have to wait for an incident to apply the fix.
 
 A [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) on a Surfshark plan costs nothing extra. Setup is under five minutes. It gives guests a fully functional contact number while keeping your real mobile completely out of the hosting context — not traceable, not permanent, not something a difficult guest can use to reach you after a dispute. If a stay goes badly, you disable the number and move on. Your personal life is untouched.
 
-Every phone number in a guest's contacts is a connection you did not choose to make permanent. A virtual number means you get to decide when it ends.
+Every phone number in a guest's contacts is a connection you did not choose to make permanent. A [virtual number](https://snipstack.io/virtual-number-for-snapchat-account-verify-2026/) means you get to decide when it ends.
 
 **[Get your virtual number for your VRBO listing with Surfshark Alt-Number — and take back control of who can reach you](/blog/altnumber?sub=virtual-number-for-vrbo-property-listing-2026__cta)**
 

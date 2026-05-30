@@ -161,7 +161,7 @@ Surfshark's antivirus engine is designed to be lightweight. It runs scheduled sc
 
 Yes. The Surfshark app runs natively on macOS, not as a port of the Windows version. All core features — VPN, antivirus, Alert, Clean Web — are available on Mac with the same account.
 
-### What happens if I want to cancel Surfshark?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I want to cancel Surfshark?
 
 You can cancel at any time through your account dashboard. Surfshark offers a refund window on new subscriptions — test the product and claim a refund early on if it doesn't suit you. No phone call required, no retention attempt to sit through. **[See current Surfshark One plans](/blog/one?sub=best-security-suite-for-mixed-device-household-2026__faq)**
 

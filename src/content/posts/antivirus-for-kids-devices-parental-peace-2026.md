@@ -77,7 +77,7 @@ Android — the platform most children's devices run — has the widest exposure
 
 ## What Antivirus Actually Does on a Child's Device
 
-There is a common misconception that antivirus software is reactive — that it only matters after something goes wrong. Modern antivirus works the opposite way.
+There is a common misconception that [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) is reactive — that it only matters after something goes wrong. Modern antivirus works the opposite way.
 
 **Real-time scanning** checks every file the moment it is downloaded, before it is opened. If a game mod contains a trojan, it is flagged and blocked before your child has a chance to run it.
 

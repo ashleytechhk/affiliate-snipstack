@@ -122,7 +122,7 @@ The most consistent complaint from Norton and McAfee users is performance impact
 
 Surfshark's antivirus is built without a decade of legacy code underneath it. Independent comparisons place it in the lighter-impact category — scans complete faster and background resource usage is noticeably lower. The VPN runs on WireGuard by default, which was designed for speed and adds minimal overhead to normal internet use.
 
-If part of your frustration with your current subscription is that the security software itself slows your computer down, Surfshark One addresses that directly.
+If part of your frustration with your current subscription is that the security software itself slows your computer down, [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) addresses that directly.
 
 ---
 
