@@ -71,7 +71,7 @@ A good antivirus catches most of these threats before they can do any damage. Bu
 
 Here is a plain-English comparison of what matters most for seniors in 2026:
 
-| Feature | Surfshark Antivirus | Kaspersky (US) |
+| Feature | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) | Kaspersky (US) |
 |---|---|---|
 | Actively updated in 2026 | Yes | No — banned since Sept 2024 |
 | Approved for US residents | Yes | No |

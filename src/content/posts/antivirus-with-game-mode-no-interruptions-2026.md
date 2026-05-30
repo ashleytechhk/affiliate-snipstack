@@ -136,7 +136,7 @@ Game mode is a feature that automatically detects when you are using a full-scre
 
 ### Can fake popups appear even if I have antivirus installed?
 
-It depends on the antivirus. Software without web protection can still allow fake scam pages to load in your browser, which then display alarming popup windows. Surfshark Antivirus includes a web shield that blocks known scam and phishing sites before they load, which means the fake popup page never reaches your screen. Game mode adds a second layer by suppressing any notifications that do manage to appear, reducing the chance of a panic reaction.
+It depends on the antivirus. Software without web protection can still allow fake scam pages to load in your browser, which then display alarming popup windows. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) includes a web shield that blocks known scam and phishing sites before they load, which means the fake popup page never reaches your screen. Game mode adds a second layer by suppressing any notifications that do manage to appear, reducing the chance of a panic reaction.
 
 ### I only play simple games like solitaire or word puzzles. Do I really need this?
 

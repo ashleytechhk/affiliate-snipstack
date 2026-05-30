@@ -90,7 +90,7 @@ The moment you open [Surfshark Antivirus](https://snipstack.io/surfshark-antivir
 
 ### Setup in Under Five Minutes
 
-You do not need a computer technician to install it. You download one file, click through three simple screens, and the protection is running. There are no complex settings to configure, no firewall rules to set, no subscription tiers to decode. If you have ever installed an app on your phone, you can install Surfshark Antivirus on your computer.
+You do not need a computer technician to install it. You download one file, click through three simple screens, and the protection is running. There are no complex settings to configure, no firewall rules to set, no subscription tiers to decode. If you have ever installed an app on your phone, you can install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) on your computer.
 
 ### Covers All Your Devices
 

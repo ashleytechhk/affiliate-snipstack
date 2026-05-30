@@ -163,7 +163,7 @@ Scam emails share several common features: they create urgency ("your account wi
 
 **Is it safe to shop online from my home computer?**
 
-Yes, with precautions. Always check that the website address starts with "https" (the padlock icon in your browser). Only shop on websites you recognise and trust, or that you found via a search engine rather than a link in an email. Avoid saving your card details on shopping sites unless you are certain the site is legitimate. A web protection tool like the one included in Surfshark Antivirus warns you before you enter personal information on a fake or compromised site.
+Yes, with precautions. Always check that the website address starts with "https" (the padlock icon in your browser). Only shop on websites you recognise and trust, or that you found via a search engine rather than a link in an email. Avoid saving your card details on shopping sites unless you are certain the site is legitimate. A web protection tool like the one included in [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) warns you before you enter personal information on a fake or compromised site.
 
 **Does [antivirus software](https://snipstack.io/antivirus-software-2026/) slow down my computer?**
 

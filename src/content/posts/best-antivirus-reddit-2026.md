@@ -188,7 +188,7 @@ Antivirus protects you from malicious files and programs. A VPN protects your pr
 
 ### How often does it update itself?
 
-Surfshark Antivirus updates automatically in the background. You do not need to do anything — it stays current with the latest threat definitions on its own.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) updates automatically in the background. You do not need to do anything — it stays current with the latest threat definitions on its own.
 
 ### [What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) my subscription runs out?
 

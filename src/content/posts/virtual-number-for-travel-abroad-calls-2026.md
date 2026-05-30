@@ -135,7 +135,7 @@ A [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentica
 Surfshark Alt-Number receives both incoming calls and incoming SMS messages. Outgoing texts are available as replies to messages you have already received. This makes it a fully functional contact number for two-way conversations — not just a one-time verification tool.
 
 **If a match runs a reverse lookup on my Alt-Number, what do they find?**
-A reverse lookup on a virtual number does not resolve to your personal name, address, or carrier account. The number is not registered to you in any public database. The search returns no actionable information about your real identity.
+A reverse lookup on a [virtual number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/) does not resolve to your personal name, address, or carrier account. The number is not registered to you in any public database. The search returns no actionable information about your real identity.
 
 **Does Alt-Number work when I am on a local SIM or hotel Wi-Fi abroad?**
 Yes. Alt-Number routes over an internet connection, not your carrier's cellular network. As long as you have data — from a local SIM, roaming plan, or any Wi-Fi source — the number works and receives calls and texts normally. This is one of the main practical advantages over traditional second-number solutions for travellers.

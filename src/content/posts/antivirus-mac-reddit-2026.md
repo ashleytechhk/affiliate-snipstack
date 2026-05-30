@@ -175,7 +175,7 @@ Apple builds two tools into every Mac: **XProtect** (which scans for known malwa
 
 ### Will antivirus software slow down my Mac?
 
-A well-designed antivirus should have no noticeable impact on everyday tasks like browsing, email, or video calling. Surfshark Antivirus is consistently rated as lightweight in independent tests — it runs in the background without slowing things down. If your Mac already feels slow, the antivirus is unlikely to make it worse, and removing any adware it finds may actually speed things up.
+A well-designed antivirus should have no noticeable impact on everyday tasks like browsing, email, or video calling. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) is consistently rated as lightweight in independent tests — it runs in the background without slowing things down. If your Mac already feels slow, the antivirus is unlikely to make it worse, and removing any adware it finds may actually speed things up.
 
 ### I already have a pop-up saying my Mac is infected — is that real?
 

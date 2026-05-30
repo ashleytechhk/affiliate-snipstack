@@ -196,7 +196,7 @@ Yes. Surfshark is a well-established security company. Its antivirus app does no
 
 ### Will the antivirus slow down my phone?
 
-Surfshark Antivirus is designed to be lightweight. Most users notice no difference in phone speed. The scan runs in the background and only uses significant processing power for a few seconds when you install a new app.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) is designed to be lightweight. Most users notice no difference in phone speed. The scan runs in the background and only uses significant processing power for a few seconds when you install a new app.
 
 ### Do I need antivirus if I only use apps from the Play Store?
 

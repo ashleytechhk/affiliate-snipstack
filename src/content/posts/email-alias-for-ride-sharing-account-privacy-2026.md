@@ -58,7 +58,7 @@ Not all alias approaches work for ride-sharing accounts. You need an address tha
 
 ---
 
-## How to Set Up [Email Alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)es for Your Ride-Sharing Accounts
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up [Email Alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)es for Your Ride-Sharing Accounts
 
 The strategy is simple: one permanent alias per app, never reused across platforms.
 

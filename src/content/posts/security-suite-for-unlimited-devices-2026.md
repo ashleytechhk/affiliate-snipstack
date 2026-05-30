@@ -153,7 +153,7 @@ Yes — uninstall first, then install Surfshark. Running two real-time antivirus
 
 ### Will I lose any protection if I cancel Norton or McAfee?
 
-Not meaningfully, provided you install Surfshark Antivirus before your existing subscription lapses. For the few hours during uninstall and reinstall, Windows Defender covers you automatically. Once Surfshark Antivirus is active, Windows Defender steps back without you doing anything — it detects the new real-time scanner and adjusts.
+Not meaningfully, provided you install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) before your existing subscription lapses. For the few hours during uninstall and reinstall, Windows Defender covers you automatically. Once Surfshark Antivirus is active, Windows Defender steps back without you doing anything — it detects the new real-time scanner and adjusts.
 
 ### How does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)'s unlimited-device policy actually work?
 

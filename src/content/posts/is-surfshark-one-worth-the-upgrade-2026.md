@@ -122,7 +122,7 @@ Independent testing labs including AV-TEST and AV-Comparatives publish regular e
 
 Norton and McAfee both score well in the same tests, with Norton consistently near the top for detection rates. If you are running a high-risk environment — a business machine, a device handling sensitive financial data, a computer used by someone who regularly downloads files from unfamiliar sources — Norton's detection edge is worth weighing.
 
-For the majority of home users whose primary threats are phishing links, social engineering attempts, and credential theft rather than targeted malware campaigns, Surfshark Antivirus provides adequate protection.
+For the majority of home users whose primary threats are phishing links, social engineering attempts, and credential theft rather than targeted malware campaigns, [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) provides adequate protection.
 
 ### The Webcam Protection Feature
 

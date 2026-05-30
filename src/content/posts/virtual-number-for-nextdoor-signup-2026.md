@@ -152,7 +152,7 @@ Yes, as long as the [virtual number](https://snipstack.io/virtual-number-for-hin
 
 Nextdoor's verification checks the number's carrier type, not whether it's physically tied to a SIM. Carrier-backed numbers from Alt-Number sit in the same ranges as standard mobile lines, so they pass the check. The distinction is between carrier-backed [virtual number](https://snipstack.io/virtual-number-for-snapchat-account-verify-2026/)s (which work) and software-based VoIP numbers (which are commonly rejected).
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Nextdoor account if I replace the virtual number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Nextdoor account if I replace the [virtual number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/)?**
 
 Your account remains active. Replacing the number means Nextdoor's future SMS messages — security alerts, login codes — will go to the new number instead. Your existing posts, neighbourhood access, and account history are not affected. You would need to update the number in your Nextdoor account settings if you want the new number associated going forward.
 

@@ -87,7 +87,7 @@ Most popular antivirus programs were not designed with older hardware in mind. T
 
 **[See full features and pricing](/blog/antivirus?sub=lightweight-antivirus-for-older-windows-laptop-2026__mid)**
 
-Here is a plain-English summary of what Surfshark Antivirus includes for Windows users in 2026.
+Here is a plain-English summary of what [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) includes for Windows users in 2026.
 
 | Feature | What it does for you |
 |---|---|

@@ -161,7 +161,7 @@ Yes. Phishing attacks arrive through news sites (malicious advertising), email, 
 
 **Will antivirus slow down my tablet?**
 
-A well-designed modern antivirus has very little performance impact. Surfshark Antivirus is built to be lightweight — most users report no noticeable change in tablet speed or battery life. The app runs quietly in the background and only uses significant processing power for a few seconds when you install a new app.
+A well-designed modern antivirus has very little performance impact. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) is built to be lightweight — most users report no noticeable change in tablet speed or battery life. The app runs quietly in the background and only uses significant processing power for a few seconds when you install a new app.
 
 **Can scammers really steal my bank details through a tablet?**
 

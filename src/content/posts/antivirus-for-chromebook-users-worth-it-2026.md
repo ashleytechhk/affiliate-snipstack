@@ -173,7 +173,7 @@ Traditional computer viruses are rare on Chromebooks due to the way ChromeOS is 
 
 ### Will antivirus slow down my Chromebook?
 
-Surfshark Antivirus is built to be lightweight. Most users notice no difference in speed. The background scanning process is designed to use minimal resources so your Chromebook runs just as fast as before.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) is built to be lightweight. Most users notice no difference in speed. The background scanning process is designed to use minimal resources so your Chromebook runs just as fast as before.
 
 ### Do I need to do anything after installing it?
 

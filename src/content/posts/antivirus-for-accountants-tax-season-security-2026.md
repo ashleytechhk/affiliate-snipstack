@@ -96,7 +96,7 @@ New phishing tactics and new malware appear every single day during tax season. 
 
 ### Covers All the Devices in Your Life
 
-Many seniors use more than one device during tax season — a laptop for filing, a tablet for email, perhaps a desktop at home. A single Surfshark Antivirus subscription covers up to five devices. One purchase, and every device you use to handle tax documents is protected.
+Many seniors use more than one device during tax season — a laptop for filing, a tablet for email, perhaps a desktop at home. A single [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) subscription covers up to five devices. One purchase, and every device you use to handle tax documents is protected.
 
 ### No Data Selling, No Hidden Costs
 

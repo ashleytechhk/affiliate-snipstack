@@ -129,7 +129,7 @@ Yes, with the caveat that these apps check for VoIP numbers at verification. Alt
 
 A reverse lookup on a [virtual number](https://snipstack.io/virtual-number-for-snapchat-account-verify-2026/) provisioned through Alt-Number does not resolve to your personal name, address, or carrier account. Your real identity is not associated with the number at the carrier level. This removes the main risk that comes from sharing a real mobile number with a stranger.
 
-**What happens to the other person when I disable my virtual number?**
+**What happens to the other person when I disable my [virtual number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/)?**
 
 Calls and texts to the disabled number do not go through. From the caller's side, the number returns a generic unreachable signal. Your real phone is completely unaffected. If they try a different number, your real number is still private — they cannot reach you through the old virtual number or derive your real number from it.
 

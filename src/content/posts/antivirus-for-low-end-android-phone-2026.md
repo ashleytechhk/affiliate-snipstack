@@ -93,7 +93,7 @@ The biggest worry seniors have about installing antivirus on an older phone is t
 
 ---
 
-## How to Install Surfshark Antivirus on Your Android Phone — Step by Step
+## How to Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) on Your Android Phone — Step by Step
 
 You do not need to be tech-savvy to do this. Follow these steps exactly:
 

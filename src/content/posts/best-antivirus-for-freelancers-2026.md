@@ -158,7 +158,7 @@ Not at all. The interface is designed for everyday users. The main screen shows 
 
 ### Will antivirus slow down my computer?
 
-Surfshark Antivirus is built to run quietly in the background. Most users notice no slowdown during normal work — writing documents, sending emails, browsing the web. The only time you might notice it is during a full scan, which you can schedule for times when you are not working.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) is built to run quietly in the background. Most users notice no slowdown during normal work — writing documents, sending emails, browsing the web. The only time you might notice it is during a full scan, which you can schedule for times when you are not working.
 
 ### What if I work on both a Windows computer and a Mac?
 

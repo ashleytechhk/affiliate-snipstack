@@ -156,7 +156,7 @@ Yes. Surfshark uses a straightforward subscription cancellation — you can canc
 
 Yes. Every Surfshark One plan, including the monthly tier, includes all four components. There are no features gated behind an upgrade within the One bundle. **[See exactly what's included on the Surfshark One page](/blog/one?sub=surfshark-one-monthly-plan-breakdown-2026__faq)**
 
-### Is the Surfshark Antivirus as good as Norton's?
+### Is the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) as good as Norton's?
 
 Norton has more third-party lab certifications and a longer track record in independent antivirus testing. Surfshark Antivirus is newer but provides solid real-time protection and is significantly lighter on system resources. If documented lab-test results are your primary decision factor, Norton has the edge there. If you've been frustrated by Norton's system performance impact, Surfshark's lighter footprint is a real benefit.
 

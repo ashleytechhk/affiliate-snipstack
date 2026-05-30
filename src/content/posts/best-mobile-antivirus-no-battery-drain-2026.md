@@ -201,7 +201,7 @@ The single biggest reason seniors end up unprotected is not a lack of concern â€
 
 An app that runs quietly, uses minimal battery, blocks phishing websites before you can accidentally visit them, and alerts you to data breaches covering your accounts is the right answer for anyone who uses their phone for banking, email, or staying in touch with family.
 
-Surfshark Antivirus provides all of that in one subscription, at a price that is affordable for a fixed income, and with an interface simple enough that you do not need to be technical to use it.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) provides all of that in one subscription, at a price that is affordable for a fixed income, and with an interface simple enough that you do not need to be technical to use it.
 
 Your phone is in your hand most of the day. Make sure it is working for you, not against you.
 

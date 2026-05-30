@@ -126,7 +126,7 @@ Security threats change daily. The antivirus must update its threat database aut
 
 ## How to Install It Without Any Technical Knowledge
 
-Getting Surfshark Antivirus running on a gaming laptop takes about five minutes and does not require any technical knowledge.
+Getting [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) running on a gaming laptop takes about five minutes and does not require any technical knowledge.
 
 1. Go to the link below and create a free account with your email address.
 2. Download the installer — it is one file, about the size of a music album.

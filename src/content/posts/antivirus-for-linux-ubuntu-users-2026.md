@@ -146,6 +146,6 @@ The belief that Linux users do not need to worry about security is outdated — 
 
 You do not have to be a tech expert to protect yourself. You just need the right tool running quietly in the background, doing the job while you get on with your day.
 
-Surfshark Antivirus works on Ubuntu. It is simple. It is effective. And it is priced so that protecting yourself does not feel like a luxury.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) works on Ubuntu. It is simple. It is effective. And it is priced so that protecting yourself does not feel like a luxury.
 
 **Do not wait until something goes wrong.** [Start protecting your Ubuntu computer with Surfshark Antivirus today]((/blog/antivirus?sub=antivirus-for-linux-ubuntu-users-2026__cta)) and use your computer with the confidence you deserve.

@@ -168,7 +168,7 @@ Using a [virtual phone number](https://snipstack.io/virtual-phone-number-google-
 
 Real estate agents do not hand out their personal mobile to every stranger who calls about a listing. That lesson took years and a lot of uncomfortable experiences to learn professionally. You do not have to wait to apply the same principle to your dating life.
 
-A virtual number costs you nothing extra on a Surfshark plan. It takes minutes to set up. It gives you a fully functional number to hand out to matches — and a clean, instant way to close that connection if you need to. Your real number stays where it belongs: known only to the people you have actively chosen to give it to.
+A [virtual number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/) costs you nothing extra on a Surfshark plan. It takes minutes to set up. It gives you a fully functional number to hand out to matches — and a clean, instant way to close that connection if you need to. Your real number stays where it belongs: known only to the people you have actively chosen to give it to.
 
 **[Get your virtual number with Surfshark Alt-Number — and stop giving strangers access to your real life](/blog/altnumber?sub=virtual-number-for-real-estate-agents-2026__cta)**
 

@@ -160,7 +160,7 @@ Yes. Stalkerware is specifically designed to be invisible. It does not appear on
 
 ### Do I need to be technical to use a stalkerware detector for Android?
 
-No. Tools like Surfshark Antivirus are designed for everyday users. You tap one button to start a scan and read a plain-English summary of what was found. If something needs to be removed, the app walks you through it step by step. [Get started here.](/blog/antivirus?sub=stalkerware-detector-for-android-2026__faq)
+No. Tools like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) are designed for everyday users. You tap one button to start a scan and read a plain-English summary of what was found. If something needs to be removed, the app walks you through it step by step. [Get started here.](/blog/antivirus?sub=stalkerware-detector-for-android-2026__faq)
 
 ### Is it legal for someone to put stalkerware on my phone?
 

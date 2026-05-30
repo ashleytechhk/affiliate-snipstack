@@ -89,7 +89,7 @@ Telegram is widely used for source communication and investigative research. If 
 
 ### Public-Facing Accounts and Channels
 
-If you run a Telegram channel — or plan to — your account is your brand. A channel admin whose real number is exposed is a channel admin who can be doxxed, SIM-swapped, or targeted specifically because of the content they publish. A virtual number keeps the admin account's identity separation intact.
+If you run a Telegram channel — or plan to — your account is your brand. A channel admin whose real number is exposed is a channel admin who can be doxxed, SIM-swapped, or targeted specifically because of the content they publish. A [virtual number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/) keeps the admin account's identity separation intact.
 
 ### Anyone Using Telegram for Group Discussions
 
