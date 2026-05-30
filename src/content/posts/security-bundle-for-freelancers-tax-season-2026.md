@@ -141,7 +141,7 @@ The included VPN encrypts your traffic on any network, including coffee shop Wi-
 
 Both Norton and McAfee offer refund windows (60 days and 30 days respectively for new subscriptions). For existing subscribers, you would typically cancel auto-renewal and let the subscription run to the end of its paid period, then switch. Contact their billing support — both have live chat. You are not locked in beyond the current term.
 
-### Does Surfshark One include a password manager?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) include a password manager?
 
 No — password manager is not part of the One bundle. If you rely on Norton's password manager, you would need a standalone alternative like Bitwarden (free) or 1Password before switching. For most freelancers this is not a blocker, but it is worth noting.
 

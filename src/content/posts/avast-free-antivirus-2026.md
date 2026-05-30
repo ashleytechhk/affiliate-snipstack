@@ -153,7 +153,7 @@ The biggest gaps: no VPN, no data breach monitoring, no ransomware protection (f
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) better than Avast Free for someone who travels?
 
-Significantly, yes. Travel makes VPN a necessity, not a nice-to-have — public Wi-Fi at airports and hotels is a well-documented attack vector. Since Avast Free includes no VPN, a traveling user would need a separate subscription. Surfshark One's included VPN (WireGuard protocol, 3,200+ servers) handles this, and the unlimited-device policy means your phone and laptop are both covered under one plan. [See Surfshark One plans here.](/blog/surfshark?sub=avast-free-antivirus-2026__faq)
+Significantly, yes. Travel makes VPN a necessity, not a nice-to-have — public Wi-Fi at airports and hotels is a well-documented attack vector. Since Avast Free includes no VPN, a traveling user would need a separate subscription. [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/)'s included VPN (WireGuard protocol, 3,200+ servers) handles this, and the unlimited-device policy means your phone and laptop are both covered under one plan. [See Surfshark One plans here.](/blog/surfshark?sub=avast-free-antivirus-2026__faq)
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Avast Free actually cost when you add the features you need?
 

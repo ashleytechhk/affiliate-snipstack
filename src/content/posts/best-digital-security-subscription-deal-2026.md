@@ -108,7 +108,7 @@ The one gap worth noting: [Surfshark One](https://snipstack.io/surfshark-one-vs-
 
 [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) covers unlimited devices. One subscription extends to every phone, laptop, tablet, and desktop you own — and covers family members without a device-count negotiation.
 
-For a household with four or more active devices, this changes the per-device cost calculation entirely. A family of three with two laptops, two phones, and a tablet is already at five devices. Add one more and you're pushing into a higher Norton or McAfee tier. With Surfshark One, you add the device and move on.
+For a household with four or more active devices, this changes the per-device cost calculation entirely. A family of three with two laptops, two phones, and a tablet is already at five devices. Add one more and you're pushing into a higher Norton or McAfee tier. With [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/), you add the device and move on.
 
 ![Surfshark One unlimited device coverage vs Norton and McAfee device caps](/og/best-digital-security-subscription-deal-2026-inline-2.png)
 

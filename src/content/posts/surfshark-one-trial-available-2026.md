@@ -107,7 +107,7 @@ If you are on Norton or McAfee right now, the trial window is only useful if [Su
 
 ### Where [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) Wins
 
-**Price over two years.** The renewal trap with Norton and McAfee is real and well-documented. A first-year promotional rate of $49–$69 commonly auto-renews at $110–$140. Surfshark One's renewal pricing is more stable. Over a two-year horizon, the difference is typically $80–$120 in Surfshark's favor — before accounting for device count differences.
+**Price over two years.** The renewal trap with Norton and McAfee is real and well-documented. A first-year promotional rate of $49–$69 commonly auto-renews at $110–$140. [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/)'s renewal pricing is more stable. Over a two-year horizon, the difference is typically $80–$120 in Surfshark's favor — before accounting for device count differences.
 
 **VPN quality.** Norton's bundled VPN uses third-party technology and does not publish an independent audit of its no-logs claims. Surfshark's VPN is its core product, independently audited by Cure53, with WireGuard delivering consistently fast connections and a broader server network for streaming and travel use.
 

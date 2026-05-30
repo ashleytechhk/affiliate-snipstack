@@ -137,7 +137,7 @@ Surfshark offers a 30-day money-back guarantee. Cancellations are processed thro
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on Mac and iPhone, or just Windows?
 
-Surfshark One supports Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. The VPN, antivirus (where platform-supported), and CleanWeb all work across platforms. The antivirus component is currently Windows and Android focused; macOS users get the VPN, CleanWeb, Alert, and Search tools.
+[Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) supports Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. The VPN, antivirus (where platform-supported), and CleanWeb all work across platforms. The antivirus component is currently Windows and Android focused; macOS users get the VPN, CleanWeb, Alert, and Search tools.
 
 ### Is this actually the [cheapest security suite](https://snipstack.io/cheapest-security-suite-with-identity-protection-2026/) with a VPN, or are there free alternatives?
 

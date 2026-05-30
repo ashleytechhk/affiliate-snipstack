@@ -38,7 +38,7 @@ You do not have to list your number in your shop description for this exposure t
 
 ## The Off-Platform Handoff: Where the Real Risk Lives
 
-Etsy buyers contact sellers through Etsy Messages — the platform keeps numbers private inside the app. The problem is what happens outside it.
+Etsy buyers contact sellers through Etsy Messages — the platform keeps numbers private inside the app. The problem is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) outside it.
 
 Custom order requests routinely move off-platform. A buyer wants to negotiate a personalization detail, coordinate a pickup, or discuss a commission. The seller shares their WhatsApp or SMS number to close the conversation faster. It feels practical. The transaction completes. The buyer still has the number.
 

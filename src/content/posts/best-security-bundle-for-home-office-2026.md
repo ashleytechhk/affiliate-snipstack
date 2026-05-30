@@ -141,7 +141,7 @@ Both Norton and McAfee offer prorated refunds in some markets within a cancellat
 
 Yes. [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) covers all major platforms. The unlimited device policy means you can install it on every device in your home office without counting licenses. [Check compatibility and plans →](/blog/one?sub=best-security-bundle-for-home-office-2026__faq)
 
-### Does the VPN in Surfshark One slow down my internet connection?
+### Does the VPN in [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) slow down my internet connection?
 
 Using any VPN introduces some overhead, but modern protocols like WireGuard (which Surfshark uses by default) are fast enough that most users notice no practical slowdown for video calls, file transfers, or cloud work. On high-bandwidth connections, the difference is minimal.
 

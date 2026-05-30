@@ -148,7 +148,7 @@ Not through the number itself. Alt-Number provides real mobile numbers that are 
 
 The call arrives in your Surfshark Alt-Number app, exactly like a standard incoming call. You answer through the app. The conversation is two-way and fully functional — it is a real phone call, just routed through your alias rather than your real line. You can also set the app to ring your real phone when your alias receives a call, letting you answer from your native phone dialer while the alias remains as the visible caller ID.
 
-**What happens to my second number if I cancel Surfshark?**
+**What happens to my [second number](https://snipstack.io/second-number-for-whatsapp-business-account-2026/) if I cancel Surfshark?**
 
 The alias is released after a grace period when a subscription lapses. For active online daters, this means if you plan to pause your subscription, save any contacts you want to keep and let them know your number is changing before the alias goes inactive. For most people in active dating periods, the subscription cost is worth maintaining the alias for continuity.
 

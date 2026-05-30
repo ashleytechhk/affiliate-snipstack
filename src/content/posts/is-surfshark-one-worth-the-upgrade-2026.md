@@ -173,7 +173,7 @@ Both scan known breach databases for your email address and notify you when cred
 
 Most [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s offer a refund window — typically 30–60 days — on annual plans. Outside that window, you will not receive a prorated refund. The practical move for most users is to cancel auto-renewal on the current subscription, run it out, and switch when it expires. Surfshark's 30-day money-back window lets you start testing the new setup before your current subscription ends. **[Check Surfshark One here](/blog/one?sub=is-surfshark-one-worth-the-upgrade-2026__faq)**
 
-### Does Surfshark One work on all platforms?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) work on all platforms?
 
 Yes. Surfshark supports Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. The antivirus component is currently Windows and macOS only — mobile devices use VPN and Alert features without a dedicated antivirus scan engine, which is consistent with how iOS and Android handle third-party security apps system-wide.
 

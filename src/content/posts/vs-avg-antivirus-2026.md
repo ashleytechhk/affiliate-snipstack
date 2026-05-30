@@ -131,7 +131,7 @@ For most users, yes. The antivirus engine is on par with AVG for malware detecti
 
 Surfshark does not typically offer a free tier, but it includes a 30-day money-back guarantee on all plans. That gives you a full month to test the product risk-free on all your devices.
 
-### Can I use Surfshark One on my phone and tablet as well as my laptop?
+### Can I use [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) on my phone and tablet as well as my laptop?
 
 Yes. One Bundle covers unlimited simultaneous devices. Install it on every device you own under a single subscription — there is no per-device fee.
 

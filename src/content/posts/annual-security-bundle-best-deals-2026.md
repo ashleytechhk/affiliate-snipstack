@@ -123,7 +123,7 @@ The **Alert** feature monitors your email addresses and personal data against br
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include a password manager?
 
-No. Surfshark One does not include a built-in password manager as of 2026. Norton 360 and McAfee Total Protection both include password managers in their bundles. If a password manager is essential to your setup, factor that into your comparison — you would need a separate tool like Bitwarden (free tier is strong) alongside Surfshark One.
+No. [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) does not include a built-in password manager as of 2026. Norton 360 and McAfee Total Protection both include password managers in their bundles. If a password manager is essential to your setup, factor that into your comparison — you would need a separate tool like Bitwarden (free tier is strong) alongside Surfshark One.
 
 ### Is Norton 360 worth the renewal price?
 

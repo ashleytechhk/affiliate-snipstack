@@ -169,7 +169,7 @@ Use the Bypasser feature (Settings → VPN → Bypasser). Add Netflix, Disney+, 
 Norton and McAfee both have published refund policies for recent charges. Contact their support within 60 days of the charge. Persistence matters here — the first response is often a rejection, but escalating to a supervisor or filing a chargeback with your card usually works for first-time renewals.
 
 **"I am not sure if the switch is worth it vs just keeping Norton."**
-If you are paying for [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) plus a separate VPN, you are almost certainly paying more than a Surfshark One annual plan and getting fewer features (no Alt-ID, no Alt-Number). Run the numbers on your current invoices before renewing.
+If you are paying for [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) plus a separate VPN, you are almost certainly paying more than a [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) annual plan and getting fewer features (no Alt-ID, no Alt-Number). Run the numbers on your current invoices before renewing.
 
 ---
 

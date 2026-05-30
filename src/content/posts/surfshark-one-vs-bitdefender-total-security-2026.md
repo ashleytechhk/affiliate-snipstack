@@ -113,7 +113,7 @@ As always: verify current pricing at checkout. Promotional rates on both product
 
 ## Who Each Product Is For
 
-**Choose Surfshark One if:**
+**Choose [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) if:**
 - You want antivirus plus a fully working VPN in one subscription
 - You need unlimited devices — no counting, no upsell
 - Data breach alerts matter to you (Surfshark Alert is included)

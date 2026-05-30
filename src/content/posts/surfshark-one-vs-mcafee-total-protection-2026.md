@@ -148,7 +148,7 @@ McAfee includes a VPN on some plans, but standard tiers cap it at 5 GB per day. 
 
 ### Can I run [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) on all my devices?
 
-Yes. Surfshark One allows unlimited simultaneous device connections. Apps are available for Windows, macOS, iOS, Android, and Linux. McAfee Total Protection's device limit depends on the plan tier — typically 5 or 10 devices.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) allows unlimited simultaneous device connections. Apps are available for Windows, macOS, iOS, Android, and Linux. McAfee Total Protection's device limit depends on the plan tier — typically 5 or 10 devices.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my McAfee subscription if I switch early?
 

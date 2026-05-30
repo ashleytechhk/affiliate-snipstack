@@ -67,7 +67,7 @@ Google Voice has been the de facto [free second](https://snipstack.io/free-secon
 
 The VoIP limitation is equally real and increasingly painful. In 2026, Google Voice numbers are systematically blocked by Tinder, Bumble, Hinge, WhatsApp, Telegram, and a growing list of bank SMS verification systems. For the specific use cases that define this article — banking 2FA, dating app verification, marketplace accounts with months of history — Google Voice fails at exactly the moments that matter.
 
-What Google Voice is good for: a permanent US number for services that do not run strict carrier checks. Low-friction signups, newsletter lists, loyalty programs, services that send codes but do not care about number type. If your permanent second number is primarily for these uses, Voice is genuinely free and genuinely persistent.
+What Google Voice is good for: a permanent US number for services that do not run strict carrier checks. Low-friction signups, newsletter lists, loyalty programs, services that send codes but do not care about number type. If your permanent [second number](https://snipstack.io/second-number-for-whatsapp-business-account-2026/) is primarily for these uses, Voice is genuinely free and genuinely persistent.
 
 US-only, requires a US Google account and a US [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to set up. No path for international numbers.
 

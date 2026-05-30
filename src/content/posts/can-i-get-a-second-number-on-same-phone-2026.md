@@ -162,7 +162,7 @@ Delete the number. Anyone who tries to call or text it gets nothing — the numb
 
 ### Is it legal to use a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) online dating?
 
-Yes. Secondary phone numbers are a mainstream privacy tool used for business lines, 2FA backups, and personal separation. Dating apps do not prohibit them in their terms of service — they only care that the number can receive an SMS verification code. Using a second number is not a legal issue.
+Yes. Secondary phone numbers are a mainstream privacy tool used for business lines, 2FA backups, and personal separation. Dating apps do not prohibit them in their terms of service — they only care that the number can receive an SMS verification code. Using a [second number](https://snipstack.io/second-number-for-whatsapp-business-account-2026/) is not a legal issue.
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) a second number cost?
 

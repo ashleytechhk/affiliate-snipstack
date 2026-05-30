@@ -64,7 +64,7 @@ The Gmail `+` tag is included here only to be dismissed: `yourname+chatgpt@gmail
 
 ![Alt-ID alias creation — generating a masked email address for ChatGPT sign-up](/og/email-alias-for-chatgpt-account-signup-2026-inline-1.png)
 
-Alt-ID is Surfshark's masked email and alternative identity feature. It generates forwarding aliases — addresses like `cedar.point92@surfshark.id` — that deliver directly to your existing inbox. You do not need to change email providers, create a new inbox, or migrate any existing accounts.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email and alternative identity feature. It generates forwarding aliases — addresses like `cedar.point92@surfshark.id` — that deliver directly to your existing inbox. You do not need to change email providers, create a new inbox, or migrate any existing accounts.
 
 **Why it works specifically well for ChatGPT and AI tool sign-ups:**
 
@@ -74,7 +74,7 @@ Alt-ID is Surfshark's masked email and alternative identity feature. It generate
 
 **Instant deletion.** When an AI tool's drip sequence tips from useful to relentless, open the Alt-ID dashboard, find the alias, and delete it. That forwarding address stops existing. Every email sent to it bounces. No unsubscribe form, no re-engagement loop, no residue. The service still has the address in its CRM — it just can no longer reach you.
 
-**Alternative identity generator.** Alt-ID goes beyond the [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/). It generates a fake name, phone number, and address for use on sign-up forms that ask for more than just an email. When a tool's registration page asks for a first name, last name, or company, you do not have to hand over real details.
+**Alternative identity generator.** Alt-ID goes beyond the [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/). It generates a fake name, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), and address for use on sign-up forms that ask for more than just an email. When a tool's registration page asks for a first name, last name, or company, you do not have to hand over real details.
 
 **Bundled value.** If you already pay for Surfshark — or were weighing a VPN subscription — Alt-ID adds zero cost. It is included in all Surfshark plans. Two tools for the price of one.
 
@@ -132,7 +132,7 @@ DuckDuckGo's free forwarding service provides a `@duck.com` address and lets you
 
 ---
 
-## How to Set Up Alt-ID for Your ChatGPT Account
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt-ID for Your ChatGPT Account
 
 ![Alt-ID dashboard showing aliases with delete controls — one alias per AI tool](/og/email-alias-for-chatgpt-account-signup-2026-inline-2.png)
 
