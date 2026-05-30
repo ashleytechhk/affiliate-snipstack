@@ -83,7 +83,7 @@ Most popular antivirus programs were not designed with older hardware in mind. T
 
 ---
 
-## Surfshark Antivirus: What You Get
+## [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/): What You Get
 
 **[See full features and pricing](/blog/antivirus?sub=lightweight-antivirus-for-older-windows-laptop-2026__mid)**
 

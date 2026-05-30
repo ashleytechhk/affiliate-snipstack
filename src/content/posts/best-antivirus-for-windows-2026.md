@@ -156,7 +156,7 @@ Windows Defender is a decent basic layer of protection, but it misses many moder
 
 **Will the antivirus slow down my computer?**
 
-Modern [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) is designed to run quietly in the background. Surfshark Antivirus, in particular, is known for using minimal system resources. Most users notice no slowdown at all during normal use.
+Modern [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) is designed to run quietly in the background. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/), in particular, is known for using minimal system resources. Most users notice no slowdown at all during normal use.
 
 **How often should I run a manual scan?**
 

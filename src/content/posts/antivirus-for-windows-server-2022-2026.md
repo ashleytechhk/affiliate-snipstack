@@ -88,7 +88,7 @@ Installation takes about five minutes. You download the installer, click through
 
 ### Real-Time Protection That Just Works
 
-Once installed, Surfshark Antivirus runs silently in the background. It updates its threat database automatically — you never need to manually download updates or worry about being out of date. When it finds something dangerous, it removes it and tells you about it in plain language.
+Once installed, [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) runs silently in the background. It updates its threat database automatically — you never need to manually download updates or worry about being out of date. When it finds something dangerous, it removes it and tells you about it in plain language.
 
 ### Covers Up to Five Devices
 

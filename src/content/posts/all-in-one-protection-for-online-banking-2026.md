@@ -158,7 +158,7 @@ For US residents specifically, LifeLock (included with Norton 360 Deluxe and abo
 
 ### Why does McAfee's VPN cap matter for banking specifically?
 
-Banking portals, particularly those that load statements, transaction histories, or two-factor authentication flows, consume more data than basic browsing. On a 500 MB daily cap, a few banking sessions can exhaust the day's allowance before lunch. Once the cap is hit, you are on an unencrypted connection — exactly the exposure the VPN was supposed to prevent. Surfshark One's VPN has no data cap.
+Banking portals, particularly those that load statements, transaction histories, or two-factor authentication flows, consume more data than basic browsing. On a 500 MB daily cap, a few banking sessions can exhaust the day's allowance before lunch. Once the cap is hit, you are on an unencrypted connection — exactly the exposure the VPN was supposed to prevent. [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/)'s VPN has no data cap.
 
 ---
 

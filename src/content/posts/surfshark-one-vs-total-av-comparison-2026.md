@@ -134,7 +134,7 @@ If you've used TotalAV, Norton, or McAfee recently, you know the experience: pop
 
 TotalAV's base and mid-tier plans typically do not include a VPN, or include a limited version. A full VPN is generally available only on higher-priced plans or as an add-on. Check the exact plan features at checkout — these bundles change frequently.
 
-### Can I cancel Surfshark One easily?
+### Can I cancel [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) easily?
 
 Yes. Surfshark offers a 30-day money-back guarantee on new subscriptions. You can also cancel auto-renewal through your account settings without penalty before the renewal date. The process is straightforward compared to the cancellation friction many legacy suite users report with other providers.
 

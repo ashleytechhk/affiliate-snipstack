@@ -145,7 +145,7 @@ You might stick with Norton if you're a US resident who wants LifeLock's credit 
 
 **Is Surfshark One actually a good deal compared to Norton 360 on price alone?**
 
-Over a single year at introductory pricing, Norton can look cheaper. Over two years, Surfshark One is typically less expensive because Norton's renewal rates are significantly higher. Factor in that Surfshark One includes a full VPN and breach monitoring — features Norton charges extra for or limits by tier — and the deal tilts clearly toward Surfshark One for most users. [See current Surfshark One pricing and plans.](/blog/one?sub=best-digital-security-subscription-deal-2026__faq)
+Over a single year at introductory pricing, Norton can look cheaper. Over two years, Surfshark One is typically less expensive because Norton's renewal rates are significantly higher. Factor in that Surfshark One includes a full VPN and breach monitoring — features Norton charges extra for or limits by tier — and the deal tilts clearly toward [Surfshark One for](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) most users. [See current Surfshark One pricing and plans.](/blog/one?sub=best-digital-security-subscription-deal-2026__faq)
 
 **[Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include antivirus, or just a VPN?**
 

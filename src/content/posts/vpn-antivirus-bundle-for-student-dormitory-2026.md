@@ -179,7 +179,7 @@ Norton Secure VPN on the Standard plan is capped at 50 GB of data per month — 
 
 Your subscription remains active until the end of the current billing period. Disable auto-renewal first so you are not charged for another year. You can uninstall Norton immediately and install [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) — you do not need to wait for your Norton subscription to expire. Any overlap period where Norton is still technically active is a sunk cost; there is no refund for unused time on standard Norton plans unless you are within their return policy window.
 
-### Does Surfshark One work on both Mac and Windows?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) work on both Mac and Windows?
 
 Yes. Full suite — antivirus, VPN, CleanWeb, Alert — is available on Windows and macOS. The VPN also runs on iOS, Android, and Linux. One subscription covers all platforms simultaneously with no device cap.
 

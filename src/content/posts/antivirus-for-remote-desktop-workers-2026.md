@@ -86,7 +86,7 @@ Not all security software is designed with simplicity in mind. Many products bom
 
 ### Clean Dashboard, Plain Language
 
-The Surfshark Antivirus interface is straightforward. There are no confusing options or decision trees. The main screen shows you your protection status — green means you are safe. When something needs attention, it is explained in plain terms, not technical codes.
+The [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) interface is straightforward. There are no confusing options or decision trees. The main screen shows you your protection status — green means you are safe. When something needs attention, it is explained in plain terms, not technical codes.
 
 ### Runs Quietly in the Background
 

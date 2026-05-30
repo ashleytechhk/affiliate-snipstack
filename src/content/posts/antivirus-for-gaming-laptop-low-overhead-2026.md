@@ -108,7 +108,7 @@ Security threats change daily. The antivirus must update its threat database aut
 
 ![Surfshark Antivirus dashboard — simple interface and gaming mode for seniors](/og/antivirus-for-gaming-laptop-low-overhead-2026-inline-2.png)
 
-Surfshark Antivirus checks every box on the list above. Here is why it stands out specifically for seniors using gaming laptops:
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) checks every box on the list above. Here is why it stands out specifically for seniors using gaming laptops:
 
 **Lightweight design.** Surfshark built its antivirus from the ground up with performance in mind. Independent tests show it uses a fraction of the CPU resources that older, bloated [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s consume. Games run without stuttering.
 

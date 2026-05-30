@@ -180,7 +180,7 @@ It depends on the product. Norton's VPN is limited to 200MB of data per day on t
 
 ### Is Surfshark's antivirus as good as Norton's?
 
-Norton has a longer antivirus track record and consistently high detection rates in independent lab tests (AV-TEST, AV-Comparatives). Surfshark's antivirus detection rates are strong but not at Norton's ceiling. The relevant comparison for most users is not the 0.5–1% detection rate difference — it is the difference in system performance impact, interface complexity, and renewal pricing. If raw antivirus detection is your only consideration, Norton has a slight technical edge. If you want a balanced suite that runs light and costs less over time, Surfshark One wins on total value.
+Norton has a longer antivirus track record and consistently high detection rates in independent lab tests (AV-TEST, AV-Comparatives). Surfshark's antivirus detection rates are strong but not at Norton's ceiling. The relevant comparison for most users is not the 0.5–1% detection rate difference — it is the difference in system performance impact, interface complexity, and renewal pricing. If raw antivirus detection is your only consideration, Norton has a slight technical edge. If you want a balanced suite that runs light and costs less over time, [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) wins on total value.
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Norton's renewal actually cost after year one?
 

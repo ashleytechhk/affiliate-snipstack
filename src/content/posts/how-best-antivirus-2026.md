@@ -183,7 +183,7 @@ Staying safe online does not have to be complicated. With the right antivirus so
 
 ![Laptop and phone showing a clean, protected dashboard with green checkmarks](/og/how-best-antivirus-2026-inline-2.png)
 
-Surfshark Antivirus is our recommendation for anyone who wants strong protection without a technical background. It installs in minutes, runs silently, and costs less than a cup of coffee per month.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is our recommendation for anyone who wants strong protection without a technical background. It installs in minutes, runs silently, and costs less than a cup of coffee per month.
 
 **Take the first step right now — it takes less than 10 minutes:**
 

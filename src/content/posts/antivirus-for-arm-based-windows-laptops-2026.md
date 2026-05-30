@@ -127,7 +127,7 @@ Surfshark offers a dedicated ARM64 installer for Windows. That means on a Copilo
 - Real-time protection operates at the correct system level
 - The interface loads quickly and feels snappy on the new hardware
 
-Beyond the ARM support, Surfshark Antivirus includes features that address the specific threats seniors face:
+Beyond the ARM support, [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) includes features that address the specific threats seniors face:
 
 | Feature | What it does |
 |---|---|

@@ -109,7 +109,7 @@ You do not want a security dashboard that demands constant attention, fires conf
 
 **Phishing and malware URL blocking.** The antivirus checks sites against threat intelligence before they fully load. If a page is known to host malware or is a phishing attempt, you see a warning and the page is blocked. This matters enormously for nomads who are navigating unfamiliar local websites in unfamiliar countries.
 
-**Webcam protection.** A lesser-discussed risk for people who spend the day on video calls: malware that silently activates your webcam. Surfshark Antivirus includes a webcam protection feature that alerts you if any application attempts to access your camera without your knowledge.
+**Webcam protection.** A lesser-discussed risk for people who spend the day on video calls: malware that silently activates your webcam. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) includes a webcam protection feature that alerts you if any application attempts to access your camera without your knowledge.
 
 **One plan, unlimited devices.** All your devices — laptop, phone, tablet — under one subscription. When you switch to a new laptop mid-trip, you just install and log in.
 

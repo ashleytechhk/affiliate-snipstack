@@ -122,7 +122,7 @@ For more detail on gaming-specific threats for seniors, see our guides on [antiv
 
 One of the most important things to know about [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/)'s game mode is that you do not have to set it up. There are no settings to adjust, no schedule to configure, no modes to toggle.
 
-When you install Surfshark Antivirus, it monitors your device activity automatically. When it sees a full-screen application running — a game, a video player, anything occupying the whole screen — game mode engages on its own. When you exit the full-screen application, it returns to normal. No action required from you at any point.
+When you install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/), it monitors your device activity automatically. When it sees a full-screen application running — a game, a video player, anything occupying the whole screen — game mode engages on its own. When you exit the full-screen application, it returns to normal. No action required from you at any point.
 
 For seniors who are not comfortable adjusting software settings, this matters enormously. The protection works the way a good smoke alarm works: you do not think about it, you do not maintain it, and it is ready when needed.
 

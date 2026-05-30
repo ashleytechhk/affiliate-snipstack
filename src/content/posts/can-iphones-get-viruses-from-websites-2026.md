@@ -80,7 +80,7 @@ Surfshark positions its iOS security as a layered tool, not a traditional virus 
 
 ### What It Does Not Do
 
-To be fair: Surfshark Antivirus on iOS cannot install malicious-profile blockers at the system level, it cannot scan downloaded files (iOS blocks this), and no security software can protect you if you deliberately hand your password to a convincing fake website. Awareness remains your strongest defence.
+To be fair: [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) on iOS cannot install malicious-profile blockers at the system level, it cannot scan downloaded files (iOS blocks this), and no security software can protect you if you deliberately hand your password to a convincing fake website. Awareness remains your strongest defence.
 
 ![Surfshark Antivirus and VPN working together on iPhone](/og/can-iphones-get-viruses-from-websites-2026-inline-2.png)
 

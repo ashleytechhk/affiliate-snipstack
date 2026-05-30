@@ -132,7 +132,7 @@ No. A VPN encrypts your internet connection — it hides your traffic from third
 
 **I already have [Windows Defender](https://snipstack.io/windows-defender-download-2026/). Is that enough for a senior?**
 
-Windows Defender (now called [Microsoft Defender Antivirus](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)) is a solid baseline. It handles common threats reasonably well and is free. However, it does not include phishing website protection, scam-link blocking, or coverage for devices other than your Windows PC. Adding a product like Surfshark Antivirus gives you those features plus VPN protection under one roof.
+Windows Defender (now called [Microsoft Defender Antivirus](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/)) is a solid baseline. It handles common threats reasonably well and is free. However, it does not include phishing website protection, scam-link blocking, or coverage for devices other than your Windows PC. Adding a product like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) gives you those features plus VPN protection under one roof.
 
 **Are seniors really at greater risk online?**
 

@@ -135,7 +135,7 @@ One subscription protects an unlimited number of devices. If you have a desktop 
 
 Getting protected takes about five minutes.
 
-1. **Go to the Surfshark Antivirus page** using this link: [Get Surfshark Antivirus](/blog/antivirus?sub=best-antivirus-for-elderly-users-simple-2026__cta)
+1. **Go to the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) page** using this link: [Get Surfshark Antivirus](/blog/antivirus?sub=best-antivirus-for-elderly-users-simple-2026__cta)
 2. **Choose a plan.** If you are not sure which one, the standard Antivirus plan is sufficient for most seniors. The One plan adds extra privacy features if you also want a VPN.
 3. **Create an account** using your email address and a strong password.
 4. **Download the app** for your device — Windows, Mac, iOS, or Android.

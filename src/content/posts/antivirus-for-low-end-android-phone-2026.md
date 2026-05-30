@@ -81,7 +81,7 @@ The biggest worry seniors have about installing antivirus on an older phone is t
 
 **Minimal background drain.** Surfshark uses on-demand and on-install scanning rather than constant active scanning. It checks new apps when they arrive and gives your phone a scheduled check-up, but it does not sit there burning CPU and battery all day.
 
-**Small storage footprint.** Budget phones often have limited storage. Surfshark Antivirus takes up a fraction of the space of competitors, leaving room for your photos, messages, and apps.
+**Small storage footprint.** Budget phones often have limited storage. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) takes up a fraction of the space of competitors, leaving room for your photos, messages, and apps.
 
 **Works on older Android versions.** Unlike some security apps that require the latest Android release, Surfshark supports older versions commonly found on budget devices.
 

@@ -208,7 +208,7 @@ This sometimes happens when a third-party antivirus is installed — Windows aut
 
 Many guides tell you to buy a paid [antivirus with](https://snipstack.io/antivirus-with-vpn-included-2026/)out explaining why. Here is the straight comparison:
 
-| What matters to seniors | Windows Defender (Free) | Surfshark Antivirus (Paid) |
+| What matters to seniors | Windows Defender (Free) | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) (Paid) |
 |---|---|---|
 | Virus and malware blocking | Good | Excellent |
 | Dangerous website warnings | Edge browser only | All browsers |

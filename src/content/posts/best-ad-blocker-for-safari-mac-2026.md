@@ -77,7 +77,7 @@ The subscription model (or an optional one-time "Forever" purchase) means you ar
 
 Wipr takes a different philosophy: no configuration, no settings, just block. Install it, enable it in Safari Extensions preferences, and walk away. The developer maintains a single curated blocklist that he updates regularly, and the extension passes those rules to Safari's content-blocking engine.
 
-The result is fast and lightweight. Because there are no settings to tune and no large multi-list infrastructure to load, Wipr adds negligible overhead to Safari. It covers ads and the most common trackers on mainstream sites. Where it falls short is in depth — it does not block fingerprinting scripts or the more obscure tracking pixels that a tool like AdGuard or 1Blocker catches with its extended lists.
+The result is fast and lightweight. Because there are no settings to tune and no large multi-list infrastructure to load, Wipr adds negligible overhead to Safari. It covers ads and the most common trackers on mainstream sites. Where it falls short is in depth — it does not [block fingerprinting](https://snipstack.io/block-fingerprinting-trackers-browser-2026/) scripts or the more obscure tracking pixels that a tool like AdGuard or 1Blocker catches with its extended lists.
 
 Mobile Safari support is included: a separate Wipr app on the App Store extends the same blocklist to iPhone and iPad Safari. The one-time purchase covers both Mac and iOS versions through a universal purchase if you buy through the App Store.
 

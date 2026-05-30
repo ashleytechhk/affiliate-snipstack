@@ -118,7 +118,7 @@ Surfshark covers 100+ countries with 3,200+ servers optimized for both speed and
 
 ### Detection Rate Reality
 
-Independent testing labs including AV-TEST and AV-Comparatives publish regular evaluations of antivirus detection rates. Surfshark Antivirus performs competitively in detection benchmarks — it is not the top-rated engine for every test category, but it covers the threat categories that matter most for typical consumer use: malware, ransomware, phishing-linked executables, and adware.
+Independent testing labs including AV-TEST and AV-Comparatives publish regular evaluations of antivirus detection rates. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) performs competitively in detection benchmarks — it is not the top-rated engine for every test category, but it covers the threat categories that matter most for typical consumer use: malware, ransomware, phishing-linked executables, and adware.
 
 Norton and McAfee both score well in the same tests, with Norton consistently near the top for detection rates. If you are running a high-risk environment — a business machine, a device handling sensitive financial data, a computer used by someone who regularly downloads files from unfamiliar sources — Norton's detection edge is worth weighing.
 

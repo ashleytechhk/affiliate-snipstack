@@ -146,7 +146,7 @@ Removing the stalkerware is the right first step, but it is not the only one. He
 
 **Consider a factory reset.** In serious cases, a factory reset — which wipes everything from your phone and starts fresh — is the most thorough solution. A staff member at your phone network's high-street shop can help you do this safely while keeping your contacts and photos backed up first.
 
-**Keep your security software running.** Once you have Surfshark Antivirus installed, leave it running in the background. It will continue scanning new apps each time you install one and alert you immediately if anything suspicious appears.
+**Keep your security software running.** Once you have [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) installed, leave it running in the background. It will continue scanning new apps each time you install one and alert you immediately if anything suspicious appears.
 
 **Be careful who handles your phone.** The most common way stalkerware is installed is through brief physical access to an unlocked phone. Set a PIN or fingerprint lock if you have not already, and be cautious about handing your phone to others to "help" with a setting.
 

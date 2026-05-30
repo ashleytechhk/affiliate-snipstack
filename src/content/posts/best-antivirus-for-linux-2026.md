@@ -109,7 +109,7 @@ Surfshark has a clear no-logs policy. That means the software does not collect a
 
 ### Affordable Pricing
 
-Protection should not cost a fortune. Surfshark Antivirus is priced accessibly, and it often comes bundled with their VPN service for additional value. For seniors on a fixed income, this matters.
+Protection should not cost a fortune. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is priced accessibly, and it often comes bundled with their VPN service for additional value. For seniors on a fixed income, this matters.
 
 ---
 

@@ -131,7 +131,7 @@ Not all antivirus software is the same. Here are the things that matter most for
 
 ---
 
-## Step-by-Step: How to Install Surfshark Antivirus on Your Mac
+## Step-by-Step: How to Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) on Your Mac
 
 You do not need any technical skill to do this. Follow these steps one at a time:
 

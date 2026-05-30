@@ -143,7 +143,7 @@ Not all antivirus apps are built the same. Some are cluttered and confusing. Oth
 
 | App | Real-Time | Web Blocking | Senior-Friendly | Multi-Device |
 |---|---|---|---|---|
-| Surfshark Antivirus | Yes | Yes | Excellent | Yes (5 devices) |
+| [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) | Yes | Yes | Excellent | Yes (5 devices) |
 | Bitdefender Mobile | Yes | Yes | Good | Extra cost |
 | Norton Mobile | Yes | Yes | Moderate | Extra cost |
 | Malwarebytes (paid) | Yes | Yes | Good | Extra cost |

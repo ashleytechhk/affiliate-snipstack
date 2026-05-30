@@ -124,7 +124,7 @@ Yes. While Ubuntu is more secure than some other operating systems, it is not im
 
 ### Is antivirus software complicated to use on Ubuntu?
 
-It does not have to be. Surfshark Antivirus is designed for everyday users, not technical experts. Once installed, it runs automatically in the background and alerts you only when something needs your attention. The installation process is also simpler than it used to be, and 24/7 support is available if you need help.
+It does not have to be. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is designed for everyday users, not technical experts. Once installed, it runs automatically in the background and alerts you only when something needs your attention. The installation process is also simpler than it used to be, and 24/7 support is available if you need help.
 
 ### Can I get viruses just by browsing the internet on Ubuntu?
 

@@ -119,7 +119,7 @@ If you have not had [antivirus software](https://snipstack.io/antivirus-software
 4. **Your email contacts say they received strange messages from you** that you did not send. This means your email account may have been compromised.
 5. **Online banking or shopping passwords have stopped working** unexpectedly.
 
-If any of these apply, do not panic. Install Surfshark Antivirus using the steps above and run a full scan immediately. The scan will find and remove most infections automatically. If the problem seems very serious — such as money having already moved from your bank account — call your bank directly using the number on the back of your card, and then call Surfshark's 24/7 support for help with the device.
+If any of these apply, do not panic. Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) using the steps above and run a full scan immediately. The scan will find and remove most infections automatically. If the problem seems very serious — such as money having already moved from your bank account — call your bank directly using the number on the back of your card, and then call Surfshark's 24/7 support for help with the device.
 
 ---
 

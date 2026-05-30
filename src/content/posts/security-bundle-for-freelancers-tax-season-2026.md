@@ -155,4 +155,4 @@ Surfshark does not offer a free trial in the traditional sense, but it includes 
 
 ---
 
-*Disclosure: This article contains affiliate links. If you purchase Surfshark One through our links, we may earn a commission at no extra cost to you. Our assessments are based on hands-on use and publicly available product specifications.*
+*Disclosure: This article contains affiliate links. If you purchase [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) through our links, we may earn a commission at no extra cost to you. Our assessments are based on hands-on use and publicly available product specifications.*

@@ -162,7 +162,7 @@ The Bundle tier adds Surfshark Search (private search engine) to the core [Surfs
 
 ### Can I cover my travel companion's devices on the same plan?
 
-Yes. Surfshark One Bundle has no device limit. You can install it on a travel companion's phone or laptop using the same account at no additional cost. Norton's five-device cap makes this a planning exercise.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) Bundle has no device limit. You can install it on a travel companion's phone or laptop using the same account at no additional cost. Norton's five-device cap makes this a planning exercise.
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus good enough if I'm switching from Norton?
 

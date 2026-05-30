@@ -155,7 +155,7 @@ If any of the following have happened to you recently, it is especially importan
 - A pop-up appeared telling you to call a "Microsoft" or "Google" number
 - Someone asked you to buy gift cards to pay a bill or debt
 
-If you recognise any of these situations, do not panic — but do act. Change passwords for your email and bank accounts, and set up Surfshark Antivirus today.
+If you recognise any of these situations, do not panic — but do act. Change passwords for your email and bank accounts, and set up [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) today.
 
 [Get started with Surfshark Antivirus — simple setup, full protection](/blog/antivirus?sub=antivirus-for-chromebook-users-worth-it-2026__cta)
 

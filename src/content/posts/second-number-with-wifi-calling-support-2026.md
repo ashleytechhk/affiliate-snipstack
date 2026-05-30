@@ -154,7 +154,7 @@ The alias is released after a grace period when a subscription lapses. For activ
 
 **Is it legal to use a [second number for](https://snipstack.io/second-number-for-discord-account-2026/) privacy on dating apps?**
 
-Yes. Using a secondary phone number to protect your privacy is legal everywhere Surfshark operates. Dating apps require a working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) verification — they do not require it to be your primary personal line. A carrier-backed second number from Alt-Number satisfies the platform's verification requirement while keeping your real contact details private.
+Yes. Using a secondary phone number to protect your privacy is legal everywhere Surfshark operates. Dating apps require a working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) verification — they do not require it to be your primary personal line. A carrier-backed [second number](https://snipstack.io/second-number-for-reddit-account-verification-2026/) from Alt-Number satisfies the platform's verification requirement while keeping your real contact details private.
 
 **Does the WiFi calling feature work internationally?**
 

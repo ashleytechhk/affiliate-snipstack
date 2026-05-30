@@ -19,7 +19,7 @@ If you are still using Kaspersky [antivirus](https://snipstack.io/vs-antivirus-2
 
 ## Quick Verdict
 
-For seniors in 2026, **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is the safer, simpler choice**. Kaspersky was banned from sale in the United States by the federal government in 2024, meaning it no longer receives security updates for American users — leaving you exposed. Surfshark Antivirus, by contrast, is fully supported, actively updated, and designed to be easy enough that anyone can use it. It runs quietly in the background, catches threats before they cause damage, and does not require any technical knowledge to set up.
+For seniors in 2026, **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is the safer, simpler choice**. Kaspersky was banned from sale in the United States by the federal government in 2024, meaning it no longer receives security updates for American users — leaving you exposed. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/), by contrast, is fully supported, actively updated, and designed to be easy enough that anyone can use it. It runs quietly in the background, catches threats before they cause damage, and does not require any technical knowledge to set up.
 
 ---
 

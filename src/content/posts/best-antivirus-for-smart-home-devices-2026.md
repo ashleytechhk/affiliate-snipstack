@@ -180,7 +180,7 @@ A few things worth asking them to check: confirm that every smart device has its
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) cost, and is there a free version?
 
-Surfshark Antivirus is a paid product, with plans typically starting under $3 per month when billed annually. There is no ongoing free tier, but this pricing covers multiple devices — phone, tablet, and computer — under one account, which compares favourably to buying separate protection for each device. For seniors who want a single, simple solution that covers everything, the cost is modest given what it protects.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is a paid product, with plans typically starting under $3 per month when billed annually. There is no ongoing free tier, but this pricing covers multiple devices — phone, tablet, and computer — under one account, which compares favourably to buying separate protection for each device. For seniors who want a single, simple solution that covers everything, the cost is modest given what it protects.
 
 ---
 

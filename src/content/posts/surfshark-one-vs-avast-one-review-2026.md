@@ -127,7 +127,7 @@ If you were going to add a VPN subscription anyway, yes. [Surfshark One](https:/
 
 ### Does Avast One include a full VPN?
 
-Not on all tiers. Avast One's base and individual plans include VPN with limitations (data caps or server restrictions depending on current plan structure). To get unrestricted VPN comparable to what Surfshark One includes, you need to upgrade or pay separately. Check Avast's current plan page for the exact limits before buying.
+Not on all tiers. Avast One's base and individual plans include VPN with limitations (data caps or server restrictions depending on current plan structure). To get unrestricted VPN comparable to what [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) includes, you need to upgrade or pay separately. Check Avast's current plan page for the exact limits before buying.
 
 ### Is Surfshark One antivirus as good as dedicated antivirus programs?
 

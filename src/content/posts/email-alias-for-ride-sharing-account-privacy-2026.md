@@ -16,7 +16,7 @@ The fix isn't unsubscribing. It's making sure your real email address was never 
 
 ## Quick Verdict
 
-The best email alias setup for ride-sharing privacy is a **dedicated permanent alias** for each app — one for Uber, one for Lyft, one for any delivery sub-brand you use. [Surfshark Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-ride-sharing-account-privacy-2026__above-fold) covers this cleanly: unlimited aliases, instant forwarding to your real inbox, and one-click deletion when an alias starts receiving junk. Gmail's `+tag` trick looks like a solution but isn't — spam operations strip the tag automatically. Throwaway services fail at ride-sharing because you need your email accessible for password resets and trip history. Alt-ID is the only tool that gives you both persistence and an instant kill switch, without being tied to Apple hardware or a specific browser.
+The best [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) setup for ride-sharing privacy is a **dedicated permanent alias** for each app — one for Uber, one for Lyft, one for any delivery sub-brand you use. [Surfshark Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-ride-sharing-account-privacy-2026__above-fold) covers this cleanly: unlimited aliases, instant forwarding to your real inbox, and one-click deletion when an alias starts receiving junk. Gmail's `+tag` trick looks like a solution but isn't — spam operations strip the tag automatically. Throwaway services fail at ride-sharing because you need your email accessible for password resets and trip history. Alt-ID is the only tool that gives you both persistence and an instant kill switch, without being tied to Apple hardware or a specific browser.
 
 ---
 
@@ -36,7 +36,7 @@ Ride-sharing platforms sit at an unusual intersection: they hold your email, you
 
 ---
 
-## The Comparison: Email Alias Options for Ride-Sharing Privacy
+## The Comparison: [Email Alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) Options for Ride-Sharing Privacy
 
 Not all alias approaches work for ride-sharing accounts. You need an address that persists long-term (for trip receipts and account recovery), can receive transactional emails reliably (fare confirmations, safety alerts), and can be deleted with one click when it turns noisy.
 
@@ -58,7 +58,7 @@ Not all alias approaches work for ride-sharing accounts. You need an address tha
 
 ---
 
-## How to Set Up Email Aliases for Your Ride-Sharing Accounts
+## How to Set Up [Email Alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)es for Your Ride-Sharing Accounts
 
 The strategy is simple: one permanent alias per app, never reused across platforms.
 
@@ -106,7 +106,7 @@ If you use a single alias across multiple apps, you lose this forensic capabilit
 
 ## FAQ
 
-**Can I use a disposable email for my Uber or Lyft account?**
+**Can I use a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) for my Uber or Lyft account?**
 
 Not sustainably. Disposable addresses that expire will lock you out of your account the moment you need a password reset or can't access trip history. Ride-sharing accounts need to be accessible for months or years — you need a permanent alias that forwards reliably, not one that disappears after 10 minutes. [Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-ride-sharing-account-privacy-2026__faq) creates permanent aliases that stay active until you explicitly delete them, which solves this exactly.
 
@@ -126,7 +126,7 @@ Since your alias permanently forwards to your real inbox, account recovery works
 
 Use separate aliases if they're separate accounts. If you log into Uber Eats with a different email than Uber Rides, each gets its own alias — you get per-service leak detection and the ability to kill one without affecting the other. If you use a single login for both, one alias is fine.
 
-**Do ride-sharing email aliases help with phishing?**
+**Do ride-sharing [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/)es help with phishing?**
 
 Yes, meaningfully. Phishing campaigns targeting ride-sharing users typically use email lists acquired through breaches or data broker purchases. If your real email address isn't in Uber's or Lyft's database, it can't surface in those leaked lists. Phishing emails that land on an alias — rather than your real address — are also easier to identify as inauthentic, since you know exactly which services have that alias.
 

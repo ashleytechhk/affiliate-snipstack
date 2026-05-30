@@ -220,7 +220,7 @@ Most users report an improvement. Norton and McAfee run multiple background proc
 
 ### Is there a free trial for [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)?
 
-Surfshark offers a money-back period on paid plans — check the current terms on the pricing page linked below, as these terms are subject to change. There is no free tier for Surfshark One.
+Surfshark offers a money-back period on paid plans — check the current terms on the pricing page linked below, as these terms are subject to change. There is no free tier for [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/).
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) protect against ransomware?
 

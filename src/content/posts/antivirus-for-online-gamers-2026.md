@@ -111,7 +111,7 @@ By the time you notice these signs, the threat may have been active for days or 
 
 ## Setting It Up: Easier Than You Think
 
-Many people worry that installing security software will be complicated. With Surfshark Antivirus, the process is straightforward:
+Many people worry that installing security software will be complicated. With [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/), the process is straightforward:
 
 1. Go to the Surfshark Antivirus page using the link at the bottom of this article.
 2. Choose a plan. Monthly or annual options are available.

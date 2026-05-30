@@ -155,7 +155,7 @@ Yes, particularly for seniors. The MacBook Air M3 has strong built-in security, 
 
 **Will antivirus software slow down my MacBook Air M3?**
 
-A well-built antivirus designed for Apple Silicon will not slow your machine noticeably. The M3 chip is powerful, and modern security software is lightweight. Surfshark Antivirus, for example, is optimized for Apple Silicon and runs quietly in the background without affecting your battery life or browser speed.
+A well-built antivirus designed for Apple Silicon will not slow your machine noticeably. The M3 chip is powerful, and modern security software is lightweight. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/), for example, is optimized for Apple Silicon and runs quietly in the background without affecting your battery life or browser speed.
 
 **Is Apple XProtect enough protection on its own?**
 

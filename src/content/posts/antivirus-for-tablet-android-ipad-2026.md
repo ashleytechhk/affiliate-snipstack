@@ -139,7 +139,7 @@ That is it. Your tablet is now protected.
 
 ## What Does It Cost — and Is It Worth It?
 
-Surfshark Antivirus is available as a paid subscription. Plans typically start under $3 per month when billed annually, and one subscription covers multiple devices.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is available as a paid subscription. Plans typically start under $3 per month when billed annually, and one subscription covers multiple devices.
 
 To put that in perspective: the average elder fraud victim in the US lost over $33,000 in 2023 according to FBI data. The cost of antivirus protection for an entire year is less than the cost of a single restaurant dinner. For seniors who use their tablet for banking, shopping, or communicating with family, the value is not difficult to calculate.
 

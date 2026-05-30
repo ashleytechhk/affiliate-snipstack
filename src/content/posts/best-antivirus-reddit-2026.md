@@ -142,7 +142,7 @@ Here is a summary of what comes up most often in Reddit threads about [antivirus
 - Some advanced features require a higher plan
 - Like any subscription software, you need to renew it annually
 
-The general Reddit consensus for seniors and non-technical users is that simplicity and reliability matter more than having dozens of features you will never use. Surfshark Antivirus hits that mark.
+The general Reddit consensus for seniors and non-technical users is that simplicity and reliability matter more than having dozens of features you will never use. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) hits that mark.
 
 ![Surfshark Antivirus — device protection overview](/og/best-antivirus-reddit-2026-inline-2.png)
 

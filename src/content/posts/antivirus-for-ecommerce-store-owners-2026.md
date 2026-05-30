@@ -86,7 +86,7 @@ Not all security software is built with simplicity in mind. Many products overwh
 
 ### One Clear Dashboard, No Jargon
 
-The moment you open Surfshark Antivirus, you see one simple status: **Protected** or **At Risk**. There are no pages of technical logs to interpret, no confusing graphs, no decisions to make. If something needs your attention, the software tells you in plain English what to do next.
+The moment you open [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/), you see one simple status: **Protected** or **At Risk**. There are no pages of technical logs to interpret, no confusing graphs, no decisions to make. If something needs your attention, the software tells you in plain English what to do next.
 
 ### Setup in Under Five Minutes
 

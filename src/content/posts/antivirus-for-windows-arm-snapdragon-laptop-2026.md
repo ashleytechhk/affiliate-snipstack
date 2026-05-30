@@ -60,7 +60,7 @@ Your new Snapdragon laptop is connected to the internet from the moment you turn
 
 Defender does not block dangerous websites in real time across all browsers. It does not include webcam protection. It does not monitor for data breaches involving your email or passwords. And it does not include the kind of behavioral monitoring that catches brand-new threats that have never been seen before.
 
-Think of Defender as a basic lock on your front door. Surfshark Antivirus is a full security system — lock, alarm, camera, and someone monitoring the feed.
+Think of Defender as a basic lock on your front door. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is a full security system — lock, alarm, camera, and someone monitoring the feed.
 
 **[Get full protection for your Snapdragon laptop →](/blog/antivirus?sub=antivirus-for-windows-arm-snapdragon-laptop-2026__mid)**
 

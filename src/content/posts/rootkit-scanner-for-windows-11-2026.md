@@ -123,7 +123,7 @@ A rootkit scanner for Windows 11 costs a few dollars a month. The alternative ca
 
 You do not need any technical knowledge. Here is exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
-**Step 1.** Click the link below to visit the Surfshark Antivirus page. Look for the antivirus plan (not VPN — antivirus).
+**Step 1.** Click the link below to visit the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) page. Look for the antivirus plan (not VPN — antivirus).
 
 **Step 2.** Choose a plan. The one-year or two-year plans offer the best value. Enter your email address and payment details on the secure checkout page.
 

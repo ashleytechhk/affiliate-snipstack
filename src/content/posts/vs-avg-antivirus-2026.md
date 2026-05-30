@@ -149,7 +149,7 @@ AVG is owned by Avast, which was fined by the FTC in 2024 for selling user brows
 
 AVG Antivirus had a good run. For 2026, though, it is asking you to pay more, cover fewer devices, and tolerate a bloated upsell experience — all while leaving gaps in VPN quality, breach monitoring, and privacy tooling.
 
-Surfshark One Bundle fills every one of those gaps at a competitive price point and without the nagware. If you are due for a renewal decision on any legacy antivirus plan, this is the moment to consolidate.
+[Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) Bundle fills every one of those gaps at a competitive price point and without the nagware. If you are due for a renewal decision on any legacy antivirus plan, this is the moment to consolidate.
 
 **[Get Surfshark One Bundle — check today's price](/blog/surfshark?sub=vs-avg-antivirus-2026__cta)**
 

@@ -170,7 +170,7 @@ Real security warnings come from apps already installed on your Mac — such as 
 
 ### Does [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) slow down a Mac?
 
-No — Surfshark Antivirus is designed to run lightly in the background. You will not notice it during normal use. Scheduled scans do use a little processing power while they run, but you can set these to happen overnight or at another time when you are not using your Mac.
+No — [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is designed to run lightly in the background. You will not notice it during normal use. Scheduled scans do use a little processing power while they run, but you can set these to happen overnight or at another time when you are not using your Mac.
 
 ---
 

@@ -112,7 +112,7 @@ Setting up [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-ava
 
 ### Step 1 — Get Your Subscription
 
-Go to the Surfshark Antivirus page using this link: [Get Surfshark Antivirus for Freelancers](/blog/antivirus?sub=best-antivirus-for-freelancers-2026__mid). Choose a plan and create your account using your email address. Write your password down somewhere safe.
+Go to the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) page using this link: [Get Surfshark Antivirus for Freelancers](/blog/antivirus?sub=best-antivirus-for-freelancers-2026__mid). Choose a plan and create your account using your email address. Write your password down somewhere safe.
 
 ### Step 2 — Download the App
 

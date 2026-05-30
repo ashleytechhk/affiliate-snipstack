@@ -119,7 +119,7 @@ Running two real-time antivirus scanners simultaneously creates conflicts, false
 
 **For McAfee:** Use the McAfee Consumer Product Removal tool (MCPR) for the same reason. Standard uninstall leaves service processes running.
 
-Once the old software is removed and your computer has restarted, install [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/). Windows Defender will automatically step back when Surfshark Antivirus takes over real-time protection — you do not need to disable it manually.
+Once the old software is removed and your computer has restarted, install [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/). Windows Defender will automatically step back when [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) takes over real-time protection — you do not need to disable it manually.
 
 ### What You Keep, What Changes
 
