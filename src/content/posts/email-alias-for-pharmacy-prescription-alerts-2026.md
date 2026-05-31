@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 You sign up for prescription refill reminders at your pharmacy. Within two weeks you're also getting promotional emails about vitamins you never asked about, loyalty program nudges, flu shot campaigns, and occasional third-party health brand offers. The one useful alert you wanted is buried in a pile of emails you never consented to receive.
 
-This is standard practice at chain pharmacies — CVS, Walgreens, Rite Aid, and their online equivalents. Your email address enters a marketing database the moment you create a pharmacy account, and your preferences have little bearing on how aggressively that data gets used. The prescription alert you signed up for and the promotional blasts that follow are delivered through the same channel. Blocking one means missing the other — unless you use an email alias.
+This is standard practice at chain pharmacies — CVS, Walgreens, Rite Aid, and their online equivalents. Your email address enters a marketing database the moment you create a pharmacy account, and your preferences have little bearing on how aggressively that data gets used. The prescription alert you signed up for and the promotional blasts that follow are delivered through the same channel. Blocking one means missing the other — unless you use an [email alias](https://snipstack.io/email-alias-for-ride-sharing-account-privacy-2026/).
 
 ![Best email alias tools for pharmacy prescription alerts in 2026](/og/email-alias-for-pharmacy-prescription-alerts-2026.png)
 
@@ -155,7 +155,7 @@ If you reply from your real inbox, your real address will be visible to the phar
 
 You can, but it defeats some of the purpose. If you use one alias across three pharmacies and later want to stop hearing from just one of them, you cannot delete the alias without cutting off the other two. Best practice is one alias per pharmacy account — Alt-ID has no alias limit, so this costs nothing extra.
 
-**What happens if I delete the alias when I still need prescription alerts?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the alias when I still need prescription alerts?**
 
 Once an alias is deleted, all emails sent to it bounce. Before deleting, either update your pharmacy account to a new alias or your real email address, or confirm you no longer need alerts from that pharmacy. Deletion is permanent in most alias tools, so treat it as a deliberate step rather than a quick fix for a noisy day.
 
@@ -169,7 +169,7 @@ Yes. Alt-ID is available at no extra cost across all Surfshark subscription tier
 
 Pharmacies need your email for a legitimate reason. The problem is that the same address you hand over for prescription alerts immediately becomes an asset in a broader marketing operation you have no meaningful control over.
 
-An email alias separates those two things. The alias receives your alerts and forwards them to your real inbox. When the pharmacy's marketing operation becomes too loud, you delete the alias — not your pharmacy account, not your prescription records, just the forwarding address. The marketing channel closes. The real inbox stays clean.
+An [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) separates those two things. The alias receives your alerts and forwards them to your real inbox. When the pharmacy's marketing operation becomes too loud, you delete the alias — not your pharmacy account, not your prescription records, just the forwarding address. The marketing channel closes. The real inbox stays clean.
 
 **Surfshark Alt-ID** is the most practical tool for this in 2026: persistent forwarding that pharmacy forms accept, unlimited aliases, included with an existing Surfshark subscription, and a single-click delete when you're done. If you're not a Surfshark subscriber, Apple Hide My Email or SimpleLogin are both solid alternatives depending on your platform and budget.
 

@@ -94,7 +94,7 @@ The practical limits: iCloud Hide My Email is tied to the Apple ecosystem; Andro
 
 ### Surfshark Alt-ID (Recommended)
 
-[Alt-ID](/blog/altid?sub=email-alias-for-hotel-chain-points-account-2026__mid) is Surfshark's masked email service, included with every Surfshark subscription at no extra charge.
+[Alt-ID](/blog/altid?sub=email-alias-for-hotel-chain-points-account-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email service, included with every Surfshark subscription at no extra charge.
 
 **How it works for hotel points accounts:**
 
@@ -143,7 +143,7 @@ Yes. Log into your existing account, navigate to profile or account settings, an
 
 Most do not. Hotel programs accept any validly formatted email address. The `@surfshark.id` domain used by Alt-ID is not on the blocklists targeting obvious disposable services like 10MinuteMail. In the rare case a program rejects it, contact the program's member services and ask them to whitelist the domain — most do so readily since the issue is domain reputation, not any rule against forwarding addresses.
 
-**What happens to my points if I delete the alias before updating my account?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my points if I delete the alias before updating my account?**
 
 Your points would be locked in an account you cannot access. Do not delete an alias before updating the account to a new address. The safe sequence: generate a new alias, update the account to the new alias, confirm the new alias forwards correctly, then delete the old alias. Points sit on the account profile, not on the email address.
 

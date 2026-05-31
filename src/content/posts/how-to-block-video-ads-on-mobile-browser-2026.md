@@ -71,7 +71,7 @@ On Android, Brave is particularly strong. It uses aggressive filter lists and a 
 
 ### Firefox with [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) (Android only)
 
-Firefox on Android is one of the few mobile browsers that supports actual browser extensions. This means you can install uBlock Origin — the gold standard desktop [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) — directly in your mobile browser.
+Firefox on Android is one of the few mobile browsers that supports actual browser extensions. This means you can install [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) — the gold standard desktop [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) — directly in your mobile browser.
 
 uBlock Origin's network-level filtering is comprehensive. It blocks video ad scripts at the request stage, before the video file is ever fetched. On Android, Firefox with uBlock Origin provides desktop-class ad blocking on a phone screen.
 
@@ -119,7 +119,7 @@ Surfshark CleanWeb is a DNS and domain-level filter built into the Surfshark VPN
 
 ![Surfshark CleanWeb blocking video ads and trackers at DNS level on mobile](/og/how-to-block-video-ads-on-mobile-browser-2026-inline-2.png)
 
-### How to Set Up CleanWeb in 4 Steps
+### [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up CleanWeb in 4 Steps
 
 1. Download the Surfshark app from the App Store (iOS) or Google Play (Android).
 2. Log in to your account.
