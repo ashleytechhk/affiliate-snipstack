@@ -82,7 +82,7 @@ Once installed, [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-v
 
 ### Webcam and Microphone Protection
 
-Snapdragon laptops have forward-facing cameras and microphones built in. Surfshark Antivirus includes tools that alert you if any program attempts to access your camera or microphone without your permission. For seniors concerned about privacy, this is a meaningful safeguard.
+Snapdragon laptops have forward-facing cameras and microphones built in. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) includes tools that alert you if any program attempts to access your camera or microphone without your permission. For seniors concerned about privacy, this is a meaningful safeguard.
 
 ### Data Breach Alerts
 

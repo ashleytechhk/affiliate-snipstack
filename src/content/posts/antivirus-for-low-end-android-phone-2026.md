@@ -118,7 +118,7 @@ That is it. Your low end Android phone now has the same level of protection as a
 
 ---
 
-## What Surfshark Antivirus Protects You From
+## What [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) Protects You From
 
 Here is a plain-English list of what the app watches out for:
 

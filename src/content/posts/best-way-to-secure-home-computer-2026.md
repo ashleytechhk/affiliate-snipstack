@@ -167,7 +167,7 @@ Yes, with precautions. Always check that the website address starts with "https"
 
 **Does [antivirus software](https://snipstack.io/antivirus-software-2026/) slow down my computer?**
 
-Modern antivirus tools, including Surfshark Antivirus, are designed to have minimal impact on performance. You will not notice it running during normal use. Full scans, if you choose to run them, may slow the computer slightly for the duration, but they typically complete within 20 to 30 minutes. Real-time protection in the background uses very little processing power.
+Modern antivirus tools, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/), are designed to have minimal impact on performance. You will not notice it running during normal use. Full scans, if you choose to run them, may slow the computer slightly for the duration, but they typically complete within 20 to 30 minutes. Real-time protection in the background uses very little processing power.
 
 ---
 

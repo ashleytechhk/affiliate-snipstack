@@ -158,7 +158,7 @@ Yes. Every Surfshark One plan, including the monthly tier, includes all four com
 
 ### Is the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) as good as Norton's?
 
-Norton has more third-party lab certifications and a longer track record in independent antivirus testing. Surfshark Antivirus is newer but provides solid real-time protection and is significantly lighter on system resources. If documented lab-test results are your primary decision factor, Norton has the edge there. If you've been frustrated by Norton's system performance impact, Surfshark's lighter footprint is a real benefit.
+Norton has more third-party lab certifications and a longer track record in independent antivirus testing. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is newer but provides solid real-time protection and is significantly lighter on system resources. If documented lab-test results are your primary decision factor, Norton has the edge there. If you've been frustrated by Norton's system performance impact, Surfshark's lighter footprint is a real benefit.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if a data breach exposes my info — does Surfshark Alert tell me [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/)?
 

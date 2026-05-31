@@ -153,7 +153,7 @@ A NAS security feature can only see what is happening on the NAS itself. It cann
 
 Yes. Built-in NAS security features protect the NAS box itself, but they cannot see what is happening on your laptop, phone, or tablet. Ransomware almost always enters through a connected device first. Antivirus on your devices stops the threat before it ever reaches your NAS. [Explore Surfshark Antivirus for full device coverage.](/blog/antivirus?sub=best-antivirus-for-nas-storage-device-2026__faq)
 
-### Can Surfshark Antivirus install directly on a NAS device?
+### Can [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) install directly on a NAS device?
 
 No, and any service claiming to do so for a home NAS should be researched carefully. Surfshark Antivirus runs on Windows, Mac, Android, and iOS — the operating systems used by your personal devices. Protecting those devices is the most effective way to safeguard what is stored on your NAS.
 

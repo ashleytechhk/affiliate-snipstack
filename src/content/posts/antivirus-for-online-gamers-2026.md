@@ -125,7 +125,7 @@ From that point on, the app works on its own. You do not need to do anything tec
 
 ## One Device or Many?
 
-A Surfshark Antivirus subscription covers **five devices** simultaneously. This is important for seniors who might have a desktop computer in the living room, a laptop for travel, and a tablet for games. All three can be protected under the same account for the same price.
+A [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) subscription covers **five devices** simultaneously. This is important for seniors who might have a desktop computer in the living room, a laptop for travel, and a tablet for games. All three can be protected under the same account for the same price.
 
 If you have children or grandchildren who help manage your devices, they can also set up the app for you — each on their own device if needed — and help you check that everything is running correctly.
 

@@ -145,7 +145,7 @@ Yes, as long as you use a trusted, verified link. Always confirm the website add
 
 ### Do I need to do anything after installing antivirus, or does it run automatically?
 
-Once you install Surfshark Antivirus and turn on real-time protection (which is enabled by default), you do not need to do anything else. The software updates itself automatically and scans new files as they arrive on your computer. You can run an occasional full scan for extra peace of mind, but it is not required for day-to-day protection.
+Once you install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) and turn on real-time protection (which is enabled by default), you do not need to do anything else. The software updates itself automatically and scans new files as they arrive on your computer. You can run an occasional full scan for extra peace of mind, but it is not required for day-to-day protection.
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) ransomware protection cost compared to paying a ransom?
 

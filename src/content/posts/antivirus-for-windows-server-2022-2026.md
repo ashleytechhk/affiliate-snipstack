@@ -102,7 +102,7 @@ Surfshark does not sell your data or use your information for advertising. For s
 
 ### Affordable Year-Round Protection
 
-Compared to the cost of recovering from a single attack, the annual cost of Surfshark Antivirus is trivial. And unlike some premium [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)s that bundle features you will never use, Surfshark's pricing is straightforward with no hidden fees or surprise renewals at inflated rates.
+Compared to the cost of recovering from a single attack, the annual cost of [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is trivial. And unlike some premium [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)s that bundle features you will never use, Surfshark's pricing is straightforward with no hidden fees or surprise renewals at inflated rates.
 
 ---
 

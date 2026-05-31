@@ -86,7 +86,7 @@ One clean subscription. No upsells during setup. No pop-ups asking you to upgrad
 
 ## Side-by-Side Comparison
 
-| Feature | Avast Free | Surfshark Antivirus |
+| Feature | Avast Free | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) |
 |---|---|---|
 | Virus & malware scanning | Yes | Yes |
 | Dangerous website warnings | Basic | Full (CleanWeb) |

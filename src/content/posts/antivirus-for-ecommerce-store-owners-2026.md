@@ -94,7 +94,7 @@ You do not need a computer technician to install it. You download one file, clic
 
 ### Covers All Your Devices
 
-One Surfshark Antivirus subscription protects up to five devices. If you manage your store from a desktop computer at home and a laptop when you travel to craft fairs or markets, both are covered under the same plan. You can also protect a family member's device — useful if a spouse or adult child helps with packing orders or customer emails.
+One [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) subscription protects up to five devices. If you manage your store from a desktop computer at home and a laptop when you travel to craft fairs or markets, both are covered under the same plan. You can also protect a family member's device — useful if a spouse or adult child helps with packing orders or customer emails.
 
 ### Your Data Stays Yours
 

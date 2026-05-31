@@ -134,7 +134,7 @@ Not all [virtual number](https://snipstack.io/virtual-number-for-international-c
 
 Google Voice numbers are widely flagged by dating apps and verification services — some will outright refuse them for SMS verification. Burner App works well but is geographically restricted and costs extra beyond whatever you already pay. A prepaid SIM is the most private option but requires a physical device and manual cancellation.
 
-Alt-Number threads the needle: real mobile numbers that clear app verification, global coverage, instant disable, and included in a broader privacy suite you likely want anyway.
+Alt-Number threads the needle: real mobile numbers that clear app verification, global coverage, instant disable, and included in a broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) you likely want anyway.
 
 ---
 

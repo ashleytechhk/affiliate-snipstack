@@ -142,7 +142,7 @@ You receive an email that looks like it is from your grandchild: "Grandma, I'm i
 
 ---
 
-## How to Switch From AVG to Surfshark Antivirus (Simple Steps)
+## How to Switch From AVG to [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) (Simple Steps)
 
 Switching is easier than most people expect. Here is all you need to do:
 

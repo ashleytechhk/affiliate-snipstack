@@ -208,7 +208,7 @@ You can cancel at any time from the Surfshark website or through Google Play. Th
 
 ### Can I use one subscription for my tablet too?
 
-Yes. Surfshark Antivirus covers multiple devices under one plan. You can protect your Android phone, your Android tablet, and a family member's device all at the same time. Just log in with the same account on each device.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) covers multiple devices under one plan. You can protect your Android phone, your Android tablet, and a family member's device all at the same time. Just log in with the same account on each device.
 
 ---
 

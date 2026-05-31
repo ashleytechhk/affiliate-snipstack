@@ -43,7 +43,7 @@ For a spam-exhausted business owner who wants a clean inbox without changing the
 
 ### Surfshark Alt-ID
 
-Alt-ID is an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) manager built into the Surfshark privacy suite. When you create an alias, forwarded emails arrive in your real inbox as normal. When you reply, the reply goes out from the alias address — your real email stays hidden in both directions.
+Alt-ID is an [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) manager built into the Surfshark [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/). When you create an alias, forwarded emails arrive in your real inbox as normal. When you reply, the reply goes out from the alias address — your real email stays hidden in both directions.
 
 For a business user, the key advantages are:
 

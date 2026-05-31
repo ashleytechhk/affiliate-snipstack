@@ -255,7 +255,7 @@ For Microsoft Defender: click the Start button, type "[Windows Security](https:/
 
 **Q: Do I need a VPN as well as antivirus?**
 
-Antivirus and VPN do different jobs. Antivirus protects your files and programs from threats. A VPN protects your internet connection — it stops hackers from spying on what you do online, especially on public Wi-Fi like in a coffee shop or library. Many seniors only need a VPN if they use a laptop away from home. Surfshark Antivirus includes a full VPN in the bundle, which means you get both protections for the price of one.
+Antivirus and VPN do different jobs. Antivirus protects your files and programs from threats. A VPN protects your internet connection — it stops hackers from spying on what you do online, especially on public Wi-Fi like in a coffee shop or library. Many seniors only need a VPN if they use a laptop away from home. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) includes a full VPN in the bundle, which means you get both protections for the price of one.
 
 [See Surfshark Antivirus — antivirus and VPN in one plan](/blog/antivirus?sub=microsoft-antivirus-for-windows-10-2026__faq)
 

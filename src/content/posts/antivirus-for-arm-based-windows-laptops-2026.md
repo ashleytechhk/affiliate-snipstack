@@ -67,7 +67,7 @@ Several well-known antivirus brands still distribute x86-only installers for the
 - **[Norton 360](https://snipstack.io/norton-360-antivirus-2026/)** — partial ARM64 support; core antivirus engine still runs emulated on some builds
 - **[Avast Free](https://snipstack.io/avast-free-antivirus-2026/) and Premium** — x86 only for the Windows desktop client
 - **AVG** — same codebase as Avast, same limitation
-- **Trend Micro** — no ARM64 consumer build available as of 2026
+- **[Trend Micro](https://snipstack.io/trend-micro-vs-surfshark-antivirus-comparison-2026/)** — no ARM64 consumer build available as of 2026
 
 If you installed any of these on a new Copilot+ PC, your antivirus is running in emulation mode. It is not broken, but it is not running the way it should.
 

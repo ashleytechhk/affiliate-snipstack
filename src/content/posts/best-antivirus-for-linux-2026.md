@@ -149,7 +149,7 @@ Yes. While Linux has a strong security foundation, it is not immune to threats. 
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Antivirus compatible with my version of Linux?
 
-Surfshark Antivirus supports the most widely used Linux distributions. Check the Surfshark website for the full list of supported versions. If you are unsure what version of Linux your computer runs, their support team can help you find out in minutes.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) supports the most widely used Linux distributions. Check the Surfshark website for the full list of supported versions. If you are unsure what version of Linux your computer runs, their support team can help you find out in minutes.
 
 ### Will antivirus software slow down my computer?
 

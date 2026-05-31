@@ -179,7 +179,7 @@ A well-designed antivirus should have no noticeable impact on everyday tasks lik
 
 ### I already have a pop-up saying my Mac is infected — is that real?
 
-Almost certainly not. These pop-ups are a scam tactic called "scareware." They are designed to frighten you into calling a fake tech support number or clicking a link that installs real malware. Do not call the number and do not click anything in the pop-up. Press the red X to close your browser, or hold the Command key and press Q to quit the browser entirely. If you are worried your Mac might actually be infected, install Surfshark Antivirus and run a scan — that will give you an honest answer.
+Almost certainly not. These pop-ups are a scam tactic called "scareware." They are designed to frighten you into calling a fake tech support number or clicking a link that installs real malware. Do not call the number and do not click anything in the pop-up. Press the red X to close your browser, or hold the Command key and press Q to quit the browser entirely. If you are worried your Mac might actually be infected, install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) and run a scan — that will give you an honest answer.
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) a trustworthy company?
 

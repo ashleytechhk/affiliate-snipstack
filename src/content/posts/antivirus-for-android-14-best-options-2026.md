@@ -183,7 +183,7 @@ Do not panic. Here is what to do:
 
 First, do not tap any pop-up warnings that appear on your screen. Many of these are fake — they are designed to scare you into calling a number or downloading something worse.
 
-Second, install Surfshark Antivirus (or any [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) from the list above), run a full scan, and follow the instructions if anything is found.
+Second, install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) (or any [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) from the list above), run a full scan, and follow the instructions if anything is found.
 
 Third, check your installed apps. Go to Settings, then Apps. Scroll through the list. If you see an app you do not recognise and did not install yourself, tap it and tap Uninstall.
 

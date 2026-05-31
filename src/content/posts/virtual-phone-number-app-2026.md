@@ -70,7 +70,7 @@ Still, for casual use where you just want to keep your main number off a dating 
 
 **The most flexible pay-per-use option.**
 
-Hushed occupies the sweet spot between "free with compromises" and "full privacy suite subscription." You can buy a number for as little as $1.99 for a 3-day trial, which is perfect if you're in an early-stage situationship and not sure you need a permanent solution. Longer subscriptions are competitively priced, and you can hold multiple numbers simultaneously — useful if you're active on more than one dating platform.
+Hushed occupies the sweet spot between "free with compromises" and "full [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) subscription." You can buy a number for as little as $1.99 for a 3-day trial, which is perfect if you're in an early-stage situationship and not sure you need a permanent solution. Longer subscriptions are competitively priced, and you can hold multiple numbers simultaneously — useful if you're active on more than one dating platform.
 
 Call quality is solid, and Hushed uses end-to-end encryption for in-app messaging. The app does not require your real number at sign-up. Numbers are available across the US, Canada, and UK, with decent coverage for international daters.
 

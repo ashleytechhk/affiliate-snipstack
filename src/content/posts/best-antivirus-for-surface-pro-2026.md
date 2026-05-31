@@ -143,7 +143,7 @@ Works quietly in background      | Yes              | Yes
 Cost                             | Free             | Low annual fee
 ```
 
-The honest verdict: Windows Defender is enough if you only use your Surface Pro to watch videos and you never click links in emails. For anyone who shops, banks, communicates by email, or uses their Surface Pro for anything personal — the gaps in Defender are real risks. Surfshark Antivirus closes those gaps without making your device complicated to use.
+The honest verdict: Windows Defender is enough if you only use your Surface Pro to watch videos and you never click links in emails. For anyone who shops, banks, communicates by email, or uses their Surface Pro for anything personal — the gaps in Defender are real risks. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) closes those gaps without making your device complicated to use.
 
 ---
 

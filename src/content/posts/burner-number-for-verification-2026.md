@@ -74,7 +74,7 @@ Pricing is straightforward: monthly subscriptions per number, with a lifetime li
 
 The trade-off versus Alt-Number: you are paying for the number feature only, without the broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/). If all you need is a reliable [second number for](https://snipstack.io/second-number-for-discord-account-2026/) verification and you have no interest in a VPN or breach monitoring, Hushed is a reasonable standalone choice.
 
-**Best for:** Users who need US or UK numbers and want a clean standalone app without bundling into a privacy suite.
+**Best for:** Users who need US or UK numbers and want a clean standalone app without bundling into a [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/).
 
 ---
 

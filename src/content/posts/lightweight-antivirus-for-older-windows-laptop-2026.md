@@ -104,7 +104,7 @@ The [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-se
 
 ---
 
-## How to Install Surfshark Antivirus on an Older Windows Laptop (Step by Step)
+## How to Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) on an Older Windows Laptop (Step by Step)
 
 You do not need any technical knowledge to complete this. The whole process takes about ten minutes.
 

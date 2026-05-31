@@ -142,7 +142,7 @@ That is it. From that point forward, the software runs in the background, update
 
 **Does antivirus really slow down a gaming laptop?**
 
-Older antivirus software could, yes. Modern low-overhead tools like Surfshark Antivirus are designed specifically to avoid this. They include a game mode that automatically reduces background activity when a game is running, so performance stays smooth. Most users notice no difference at all during gameplay. [Learn more about Surfshark's gaming-friendly design](/blog/antivirus?sub=antivirus-for-gaming-laptop-low-overhead-2026__faq)
+Older antivirus software could, yes. Modern low-overhead tools like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) are designed specifically to avoid this. They include a game mode that automatically reduces background activity when a game is running, so performance stays smooth. Most users notice no difference at all during gameplay. [Learn more about Surfshark's gaming-friendly design](/blog/antivirus?sub=antivirus-for-gaming-laptop-low-overhead-2026__faq)
 
 **Why do seniors need antivirus more than younger users?**
 

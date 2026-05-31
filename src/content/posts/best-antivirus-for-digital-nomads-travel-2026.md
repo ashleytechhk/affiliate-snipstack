@@ -125,7 +125,7 @@ Worth noting: [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-
 
 Setup takes about five minutes.
 
-1. Go to the Surfshark Antivirus page via the link below and choose your plan.
+1. Go to the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) page via the link below and choose your plan.
 2. Create your account and download the app for your primary device.
 3. Install and log in. The app will prompt you to enable real-time protection — do this.
 4. Repeat on your phone and any other devices you travel with.

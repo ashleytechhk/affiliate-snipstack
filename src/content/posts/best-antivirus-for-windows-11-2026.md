@@ -210,7 +210,7 @@ Prices vary. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-b
 
 ### Will antivirus slow down my computer?
 
-Modern antivirus software is designed to use very little memory and processing power. Surfshark Antivirus is particularly lightweight. You may notice a slight slowdown during a full scan (which only needs to happen occasionally), but during normal daily use, you should not notice any difference in speed.
+Modern antivirus software is designed to use very little memory and processing power. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is particularly lightweight. You may notice a slight slowdown during a full scan (which only needs to happen occasionally), but during normal daily use, you should not notice any difference in speed.
 
 ### Can I install antivirus on more than one computer?
 

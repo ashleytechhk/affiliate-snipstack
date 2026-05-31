@@ -162,7 +162,7 @@ For less than the cost of a cup of coffee each month, you get meaningfully stron
 
 **Q: Do I have to turn off Windows Defender before installing Surfshark?**
 
-No. Surfshark Antivirus and Windows Defender work together on the same computer. You do not need to turn anything off. When you install Surfshark, Windows will automatically adjust so both programs run without conflict.
+No. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) and Windows Defender work together on the same computer. You do not need to turn anything off. When you install Surfshark, Windows will automatically adjust so both programs run without conflict.
 
 **Q: Will Surfshark slow down my computer?**
 

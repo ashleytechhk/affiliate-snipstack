@@ -126,7 +126,7 @@ For the majority of home users whose primary threats are phishing links, social 
 
 ### The Webcam Protection Feature
 
-On Windows, Surfshark Antivirus includes webcam protection that alerts you when an application accesses your camera. This is a feature Norton 360 also includes but McAfee does not. For anyone concerned about unauthorized camera access, it is worth noting.
+On Windows, [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) includes webcam protection that alerts you when an application accesses your camera. This is a feature Norton 360 also includes but McAfee does not. For anyone concerned about unauthorized camera access, it is worth noting.
 
 ![Surfshark One app interface showing antivirus scan, VPN connection, and Alert monitoring panels side by side](/og/is-surfshark-one-worth-the-upgrade-2026-inline-2.png)
 

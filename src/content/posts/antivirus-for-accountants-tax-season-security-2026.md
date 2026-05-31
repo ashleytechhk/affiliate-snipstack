@@ -114,7 +114,7 @@ You do not need to call your grandchild for help. Installation takes about five 
 
 If you do not currently have antivirus software running on your computer, here is what to do before you open another tax document or email.
 
-**Step 1.** Click the link below to visit the Surfshark Antivirus page and choose a plan.
+**Step 1.** Click the link below to visit the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) page and choose a plan.
 
 **Step 2.** Create an account with your email address and a password. Write the password in a notebook — not in an email or a text message.
 

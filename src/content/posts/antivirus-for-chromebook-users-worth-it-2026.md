@@ -189,7 +189,7 @@ Surfshark is a well-established cybersecurity company used by millions of people
 
 ### Can I protect my phone with the same account?
 
-Yes. Surfshark Antivirus covers multiple devices under one subscription. You can use the same account on your Chromebook, your smartphone, and a tablet, all at the same time, with no additional cost.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) covers multiple devices under one subscription. You can use the same account on your Chromebook, your smartphone, and a tablet, all at the same time, with no additional cost.
 
 ---
 

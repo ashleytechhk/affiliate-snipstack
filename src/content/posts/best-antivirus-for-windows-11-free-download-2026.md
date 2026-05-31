@@ -237,7 +237,7 @@ No. Windows 11 handles this automatically. When you install a third-party antivi
 
 ### Can antivirus software slow down my Windows 11 computer?
 
-Modern antivirus programs are designed to use very little of your computer's resources. Surfshark Antivirus and Bitdefender Free are both known for being lightweight. You may notice a slight slowdown during the first full scan, but daily browsing and email should feel completely normal. [Try Surfshark Antivirus and see for yourself.](/blog/antivirus?sub=best-antivirus-for-windows-11-free-download-2026__faq)
+Modern antivirus programs are designed to use very little of your computer's resources. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) and Bitdefender Free are both known for being lightweight. You may notice a slight slowdown during the first full scan, but daily browsing and email should feel completely normal. [Try Surfshark Antivirus and see for yourself.](/blog/antivirus?sub=best-antivirus-for-windows-11-free-download-2026__faq)
 
 ### I already have McAfee or Norton installed — do I need to change anything?
 

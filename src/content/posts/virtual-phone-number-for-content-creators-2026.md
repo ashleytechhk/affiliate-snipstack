@@ -157,7 +157,7 @@ Yes. Using a [virtual number](https://snipstack.io/virtual-number-for-twitter-x-
 No. Alt-Number runs through the Surfshark app on your existing phone. No second SIM, no second device, no carrier switch required. You get a genuine local phone number that operates entirely through the app. Setup takes under ten minutes.
 
 **What if I already use Surfshark VPN?**
-Alt-Number is part of Surfshark's privacy suite and integrates with the same app and account. If you are already a Surfshark subscriber, adding Alt-Number extends your privacy coverage to your phone number without needing a separate account or app. For creators already using a VPN for browsing and stream privacy, this is a natural next layer.
+Alt-Number is part of Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) and integrates with the same app and account. If you are already a Surfshark subscriber, adding Alt-Number extends your privacy coverage to your phone number without needing a separate account or app. For creators already using a VPN for browsing and stream privacy, this is a natural next layer.
 
 ---
 

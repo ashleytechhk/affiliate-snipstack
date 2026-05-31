@@ -112,7 +112,7 @@ Where Hushed earns its place: if you want a dedicated [second number](https://sn
 
 Telos is a less-marketed option that earns attention because it also provisions carrier-backed numbers — the same number classification as Alt-Number, and the same meaningful advantage for Facebook's tighter verification checks. US numbers with area code selection, full calls and SMS, and an active subscription that keeps the number persistent.
 
-The trade-offs: Telos has a smaller international footprint than Alt-Number (primarily US-focused), a thinner support infrastructure, and a less polished app experience. If you need a US number specifically and want carrier-backed verification quality without paying for a full privacy suite, Telos is a legitimate alternative.
+The trade-offs: Telos has a smaller international footprint than Alt-Number (primarily US-focused), a thinner support infrastructure, and a less polished app experience. If you need a US number specifically and want carrier-backed verification quality without paying for a full [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/), Telos is a legitimate alternative.
 
 For dating profile use specifically, Telos works — carrier-backed numbers pass Facebook reliably, and the number persists with your subscription. The main reason it sits at four rather than one: the support and international coverage gaps make it a less safe long-term bet for your primary Facebook account number.
 

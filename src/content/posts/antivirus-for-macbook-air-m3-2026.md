@@ -175,7 +175,7 @@ Plans start under $3 per month when billed annually. This covers multiple device
 
 **What if I already have a Mac and have never installed any antivirus — am I already infected?**
 
-Possibly. It is worth running an initial scan to check. Surfshark Antivirus includes a full system scan that checks your Mac for any existing threats. If you have never scanned your Mac before, this is a good first step — and the scan takes under ten minutes.
+Possibly. It is worth running an initial scan to check. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) includes a full system scan that checks your Mac for any existing threats. If you have never scanned your Mac before, this is a good first step — and the scan takes under ten minutes.
 
 ---
 

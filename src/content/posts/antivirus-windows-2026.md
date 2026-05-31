@@ -138,7 +138,7 @@ Covers phone/tablet        | No               | Yes
 
 You do not need a technician. Here is what the process looks like:
 
-1. Click the link below to go to the Surfshark Antivirus page
+1. Click the link below to go to the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) page
 2. Choose a plan (the one-year or two-year plan offers better value per month)
 3. Enter your email address and create a password — write it in a notebook
 4. Enter your payment details to complete the purchase

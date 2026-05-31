@@ -145,7 +145,7 @@ You do not need to be a computer expert. Here is [what to do](https://snipstack.
 
 ### Step 1 — Install a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) tool
 
-If you do not already have dedicated protection, this is the moment to get it. Download Surfshark Antivirus from the link below. The process takes about five minutes.
+If you do not already have dedicated protection, this is the moment to get it. Download [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) from the link below. The process takes about five minutes.
 
 1. Click the link and choose a plan.
 2. Enter your email address and create a password.

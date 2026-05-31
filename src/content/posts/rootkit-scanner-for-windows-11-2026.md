@@ -162,7 +162,7 @@ Yes, as long as you use a trusted link. Always check that the website address st
 
 ### Will rootkit scanning slow down my Windows 11 computer?
 
-During a full scan, you may notice your computer is slightly slower — this is normal and temporary. Surfshark Antivirus is designed to be lightweight, so during everyday use (browsing, email, watching videos), you should notice no difference at all. The ongoing rootkit monitoring runs in the background using very little processing power. Once the initial full scan is complete, protection continues automatically without any impact on your daily activities.
+During a full scan, you may notice your computer is slightly slower — this is normal and temporary. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is designed to be lightweight, so during everyday use (browsing, email, watching videos), you should notice no difference at all. The ongoing rootkit monitoring runs in the background using very little processing power. Once the initial full scan is complete, protection continues automatically without any impact on your daily activities.
 
 ### I already have antivirus software. Do I still need a rootkit scanner?
 

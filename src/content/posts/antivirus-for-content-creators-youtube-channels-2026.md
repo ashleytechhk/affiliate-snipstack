@@ -148,7 +148,7 @@ Antivirus is the most important layer of protection, but pairing it with a few s
 
 **Never download editing software from unofficial sources.** Stick to known platforms — the Microsoft Store, Adobe, or the official website of a software company you recognize. Unofficial download sites are a common source of malware that targets creators.
 
-None of these steps are difficult. Combined with Surfshark Antivirus running in the background, they create a strong wall between your channel and the people trying to steal it.
+None of these steps are difficult. Combined with [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) running in the background, they create a strong wall between your channel and the people trying to steal it.
 
 ---
 
