@@ -97,7 +97,7 @@ This is a practical benefit beyond privacy: continuity. Your match in Amsterdam 
 
 ---
 
-## What Happens If Someone Has Your Real Number Already
+## [What Happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) If Someone Has Your Real Number Already
 
 If you have been giving out your real number before reading this — you are not alone, and it is worth thinking through the exposure.
 

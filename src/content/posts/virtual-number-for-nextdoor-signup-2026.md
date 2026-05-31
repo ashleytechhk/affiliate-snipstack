@@ -160,7 +160,7 @@ Your account remains active. Replacing the number means Nextdoor's future SMS me
 
 Nextdoor uses phone verification as part of its local membership model. The platform is neighbourhood-specific, so it verifies that each member has a real presence in a particular area. Phone numbers, combined with address information, are part of how it places users in the right local community. This is why the number-to-location link exists — and why using a [virtual number that](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) you control is the cleaner approach.
 
-**Is using a virtual number on Nextdoor against their terms of service?**
+**Is using a [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) on Nextdoor against their terms of service?**
 
 Nextdoor's terms prohibit creating accounts with false or misleading information. A virtual number is a real, working phone number — it is not false information. You are providing a number that genuinely receives SMS, not fabricating a number that does not exist. The distinction matters: what Nextdoor's terms target is fake accounts, not privacy-conscious sign-ups with alternate numbers.
 

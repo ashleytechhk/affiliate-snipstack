@@ -137,7 +137,7 @@ A reverse lookup on a [virtual number](https://snipstack.io/virtual-number-for-t
 Anyone who calls or texts that number after you disable it will not reach you. From their perspective, the number is simply unavailable. Your real mobile number is completely unaffected — the two have no connection.
 
 **Does Alt-Number work for app verification codes during dating app sign-up?**
-Virtual numbers that receive SMS can typically receive verification texts from apps. Surfshark Alt-Number receives SMS, which covers most app verification flows. Check the specific app's requirements — a small number of platforms attempt to block known virtual number ranges.
+[Virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/)s that receive SMS can typically receive verification texts from apps. Surfshark Alt-Number receives SMS, which covers most app verification flows. Check the specific app's requirements — a small number of platforms attempt to block known virtual number ranges.
 
 **[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number an add-on I have to pay for separately?**
 Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside the Alt-ID [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) tool. No separate purchase is needed. **[See current plans and pricing here](/blog/altnumber?sub=virtual-number-for-home-service-workers-2026__faq)**.

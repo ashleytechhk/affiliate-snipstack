@@ -106,7 +106,7 @@ Unsubscribing from one sender does not unsubscribe you from others. And staying 
 
 ## Method 5 — Surfshark Alt-ID (Recommended)
 
-[Alt-ID](/blog/altid?sub=email-alias-for-airline-loyalty-program-2026__mid) is Surfshark's masked email feature, bundled with all Surfshark plans at no additional cost.
+[Alt-ID](/blog/altid?sub=email-alias-for-airline-loyalty-program-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email feature, bundled with all Surfshark plans at no additional cost.
 
 **How it works for airline programs:**
 

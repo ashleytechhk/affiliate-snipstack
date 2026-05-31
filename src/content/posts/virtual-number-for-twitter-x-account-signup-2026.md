@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 In 2023, a data set containing the personal details of more than 200 million X (formerly Twitter) accounts was published on a hacking forum. The data had been scraped by exploiting an API vulnerability. Email addresses, usernames, follower counts — all out in the open. And that was the breach that got confirmed. Researchers believe the actual exposure was wider.
 
-Now ask yourself: when you signed up for X, did you hand over your real phone number?
+Now ask yourself: when you signed up for X, did you hand over your real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)?
 
 If the answer is yes, your number has been sitting in that database ever since — tied to your username, your posting history, and every opinion you have ever shared in public. A **[virtual number for](https://snipstack.io/virtual-number-for-google-account-verification-2026/) Twitter X account signup** is not a paranoid move. In 2026, it is basic hygiene.
 
@@ -20,7 +20,7 @@ If the answer is yes, your number has been sitting in that database ever since �
 
 ## Quick Verdict
 
-X requires a phone number at signup. That number gets linked to your account, your identity, and your posting history in X's systems. If the platform suffers a breach, is compelled to share data with third parties, or if your account gets scraped, that association becomes a liability.
+X requires a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) at signup. That number gets linked to your account, your identity, and your posting history in X's systems. If the platform suffers a breach, is compelled to share data with third parties, or if your account gets scraped, that association becomes a liability.
 
 **Surfshark Alt-Number** is the cleanest solution: a carrier-backed secondary number that passes X's SMS verification, receives the confirmation code, and then keeps your real number completely out of the picture. The number is persistent, works for ongoing re-verification prompts, and costs nothing extra if you already use Surfshark's privacy suite.
 
@@ -42,7 +42,7 @@ None of this is hidden. It is in the terms of service, written in the way that t
 
 ---
 
-## The Real Exposure: What Happens When Your Number Leaves X's Servers
+## The Real Exposure: [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) Your Number Leaves X's Servers
 
 The 2023 breach is the most documented example, but it is not the only risk vector. Your phone number leaves X's direct control in several ways that the platform does not fully control:
 
@@ -125,7 +125,7 @@ Carrier-backed numbers from Alt-Number are not flagged as virtual or VoIP by X's
 
 ### What if X sends a re-verification SMS after I have already signed up?
 
-This is the scenario most people do not plan for. X sends re-verification prompts when accounts change devices, shift locations, or attract policy review. If you used a temporary number that has since expired or been recycled, you will not receive the code — and account recovery without phone access is a slow, uncertain process. Alt-Number's subscription-based persistence means the number stays active indefinitely. As long as your subscription continues, re-verification prompts arrive normally.
+This is the scenario most people do not plan for. X sends re-verification prompts when accounts change devices, shift locations, or attract policy review. If you used a [temporary number](https://snipstack.io/temporary-number-for-giveaway-entries-2026/) that has since expired or been recycled, you will not receive the code — and account recovery without phone access is a slow, uncertain process. Alt-Number's subscription-based persistence means the number stays active indefinitely. As long as your subscription continues, re-verification prompts arrive normally.
 
 ### Can I use the same [virtual number for](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/) other platforms too?
 
@@ -133,7 +133,7 @@ Yes. A carrier-backed number from Alt-Number works across platforms that require
 
 ### Does using a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) make my X account truly private?
 
-A virtual number addresses phone number exposure specifically. It does not mask your IP address (use a VPN for that), your device fingerprint, your posting patterns, or the metadata X collects from your app sessions. For a fuller privacy posture on X, the combination to reach for is: a [virtual number for signup](/blog/altnumber?sub=virtual-number-for-twitter-x-account-signup-2026__faq) plus a VPN active during sessions. Surfshark's One plan includes both in a single subscription.
+A [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) addresses phone number exposure specifically. It does not mask your IP address (use a VPN for that), your device fingerprint, your posting patterns, or the metadata X collects from your app sessions. For a fuller privacy posture on X, the combination to reach for is: a [virtual number for signup](/blog/altnumber?sub=virtual-number-for-twitter-x-account-signup-2026__faq) plus a VPN active during sessions. Surfshark's One plan includes both in a single subscription.
 
 ### What happens to my X account if I cancel Alt-Number?
 

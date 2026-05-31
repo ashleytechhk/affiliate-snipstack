@@ -131,7 +131,7 @@ A reverse lookup on a [virtual number](https://snipstack.io/virtual-number-for-s
 
 **What happens to the other person when I disable my [virtual number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/)?**
 
-Calls and texts to the disabled number do not go through. From the caller's side, the number returns a generic unreachable signal. Your real phone is completely unaffected. If they try a different number, your real number is still private — they cannot reach you through the old virtual number or derive your real number from it.
+Calls and texts to the disabled number do not go through. From the caller's side, the number returns a generic unreachable signal. Your real phone is completely unaffected. If they try a different number, your real number is still private — they cannot reach you through the old [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) or derive your real number from it.
 
 **Is the call quality on a forwarded call as good as a regular call?**
 

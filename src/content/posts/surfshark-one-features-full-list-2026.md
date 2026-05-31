@@ -32,7 +32,7 @@ The six tools are:
 2. **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/)** — real-time malware protection
 3. **Surfshark Alert** — data breach monitoring
 4. **Surfshark Search** — private, ad-free search engine
-5. **Alternative ID** — masked identity and email alias
+5. **Alternative ID** — masked identity and [email alias](https://snipstack.io/email-alias-for-ride-sharing-account-privacy-2026/)
 6. **Clean Web** — ad, tracker, and malware-link blocker
 
 Each one is covered in detail below.
@@ -112,9 +112,9 @@ Alternative ID lets you generate a fictitious online persona to use on sites you
 - **Fake name and profile data** — generates a complete identity: name, birth date, gender, country — all configurable
 - **Alias email address** — forwards to your real inbox so you still receive messages, but the sender never sees your actual address
 - **Auto-fill support** — one-click population of sign-up forms with your alternative persona
-- **Separate add-on: Alternative Number** — a US virtual phone number for SMS verification codes; sold separately, not included in base [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)
+- **Separate add-on: Alternative Number** — a US [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) for SMS verification codes; sold separately, not included in base [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)
 
-Alternative ID is the feature Norton and McAfee do not have at all. If you regularly sign up for free trials, loyalty programs, or anything that demands a phone number or email, this is the standout differentiator.
+Alternative ID is the feature Norton and McAfee do not have at all. If you regularly sign up for free trials, loyalty programs, or anything that demands a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) or email, this is the standout differentiator.
 
 ---
 
