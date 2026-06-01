@@ -111,7 +111,7 @@ Limitation: US numbers only, no international coverage. If you travel or need a 
 
 ### 5. MySudo
 
-**Best for full identity separation with a permanent second number.**
+**Best for full identity separation with a permanent [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/).**
 
 MySudo is the privacy-maximalist option: instead of one second number, you create compartmentalized "Sudos" — each with a phone number, email address, and in-app browser. Up to nine separate identities, each persistent, each siloed from the others. For someone who maintains separate presences for dating, work, and marketplace activity, MySudo's architecture prevents cross-contamination in ways a simple second number cannot.
 

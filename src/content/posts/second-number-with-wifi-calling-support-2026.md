@@ -168,7 +168,7 @@ Setting up a [second number](https://snipstack.io/second-number-to-avoid-spam-af
 
 The reverse-lookup services that make your real number dangerous do not forget. Once your number is linked to your name and address in a data broker's database, that link persists even after opt-out requests. The only reliable countermeasure is to use a number that was never linked to your real identity in the first place.
 
-A second number with WiFi calling support from Surfshark Alt-Number does exactly that. Your real number stays sealed. Every call, every verification code, every conversation with a match routes through an alias that you control and can revoke at any time. When something goes wrong — and in online dating, something eventually does — your real number is not in the equation.
+A [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/) with WiFi calling support from Surfshark Alt-Number does exactly that. Your real number stays sealed. Every call, every verification code, every conversation with a match routes through an alias that you control and can revoke at any time. When something goes wrong — and in online dating, something eventually does — your real number is not in the equation.
 
 Your real phone number is permanent. Keep it that way.
 

@@ -128,7 +128,7 @@ With one device clean and confirmed, roll out to the others. The process is the 
 Download the Surfshark app from the App Store or Google Play. Log in with the same account. Enable [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) in the app settings. There is no separate removal needed — mobile antivirus apps from Norton and McAfee can be deleted like any other app.
 
 **For younger kids' devices:**
-Install the app yourself. The same account covers their device. You do not need to share the password with them — just log in during setup. [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) does not have parental controls built in, but the VPN and Antivirus work silently in the background without requiring any interaction from them.
+Install the app yourself. The same account covers their device. You do not need to share the password with them — just log in during setup. [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) does not have parental controls built in, but the [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/) work silently in the background without requiring any interaction from them.
 
 A useful strategy: set the VPN to auto-connect on their devices (Settings → VPN → Auto-Connect) so it is always on without them having to toggle it.
 

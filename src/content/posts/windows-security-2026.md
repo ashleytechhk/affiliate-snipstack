@@ -131,7 +131,7 @@ After signing up, log in to your Surfshark account on the website. Click "Apps" 
 
 **Step 3 — Turn on [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/)**
 
-Open the Surfshark app on your desktop. You will see two main sections: VPN and Antivirus.
+Open the Surfshark app on your desktop. You will see two main sections: [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/).
 
 - For VPN: Click "Connect" — it will automatically choose the fastest nearby server. You will see "Connected" appear. You are now protected on any Wi-Fi.
 - For Antivirus: Click "Antivirus" in the left menu, then click "Run scan." Let it complete. From now on, it will run in the background automatically.

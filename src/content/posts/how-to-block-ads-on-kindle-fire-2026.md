@@ -215,7 +215,7 @@ Sometimes. Fire OS updates can occasionally reset the "install from unknown sour
 
 **Does CleanWeb [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side the Silk browser on Kindle Fire?**
 
-Yes. When Surfshark with CleanWeb is active, it filters DNS requests from every app on the device — including Silk. This covers the ads you see on websites in Silk as well as in-app ads across other apps. It does not block Amazon's own Special Offers lock screen ads, which are served at the OS level below any third-party app.
+Yes. When Surfshark with CleanWeb is active, it filters DNS requests from every app on the device — including Silk. This covers the ads you see on websites in Silk as well as in-app ads across other apps. It does not [block Amazon](https://snipstack.io/block-amazon-sponsored-products-in-search-2026/)'s own Special Offers lock screen ads, which are served at the OS level below any third-party app.
 
 **Can I use a free VPN to [block ads on](https://snipstack.io/block-ads-on-rumble-video-platform-2026/) Kindle Fire?**
 
