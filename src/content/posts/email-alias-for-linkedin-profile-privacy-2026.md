@@ -81,7 +81,7 @@ Alt ID addresses use a realistic-looking custom domain pattern. They do not appe
 
 If you only need one alias for LinkedIn, the free tiers on SimpleLogin (15) and Firefox Relay (5) are sufficient. But if you want a separate alias for each professional context — LinkedIn, your portfolio or personal site, conference speaker pages, industry directory listings, GitHub profile — the free caps fill up fast.
 
-[Alt ID](/blog/altid?sub=email-alias-for-linkedin-profile-privacy-2026__mid) and Apple Hide My Email (with iCloud+) and DuckDuckGo are all effectively unlimited. Alt ID is bundled with Surfshark rather than standing alone, which makes the value calculation depend on whether you're already using a VPN. If you are, Alt ID adds zero marginal cost.
+[Alt ID](/blog/altid?sub=email-alias-for-linkedin-profile-privacy-2026__mid) and Apple Hide My Email (with iCloud+) and DuckDuckGo are all effectively unlimited. Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark rather than standing alone, which makes the value calculation depend on whether you're already using a VPN. If you are, Alt ID adds zero marginal cost.
 
 ### Privacy Policy and Data Handling
 

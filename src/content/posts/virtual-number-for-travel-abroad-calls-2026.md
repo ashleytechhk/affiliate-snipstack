@@ -143,7 +143,7 @@ Yes. Alt-Number routes over an internet connection, not your carrier's cellular 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I disable my Alt-Number after a trip?**
 Anyone who calls or texts the number after you disable it gets no response — the number becomes unavailable. Your real mobile number is completely unaffected. From the other person's perspective, the number simply stopped working. You can also generate a new [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) at any time if you want a fresh one for a future trip.
 
-**Does using a virtual number on dating apps violate their terms of service?**
+**Does using a [virtual number](https://snipstack.io/virtual-number-for-insurance-comparison-quote-2026/) on dating apps violate their terms of service?**
 Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-personal-use-2026/) is legal. Whether a specific platform permits it in their terms depends on that platform's policies. Review the terms of any app you use. Surfshark's own Terms of Service require that Alt-Number not be used to violate other platforms' rules or applicable law. **[See Surfshark Alt-Number plans here](/blog/altnumber?sub=virtual-number-for-travel-abroad-calls-2026__faq)**.
 
 **Is Alt-Number included in my Surfshark subscription, or is it a separate purchase?**

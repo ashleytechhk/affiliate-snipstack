@@ -78,7 +78,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-20
 - **Alternative identity generator.** Notion's signup form asks for your name. Alt-ID generates a fake name and profile to pair with your alias, so your real name does not go into Notion's database. Your real identity and your real email stay private simultaneously.
 - **Browser extension for Chrome and Firefox.** When you land on Notion's sign-up page, the extension detects the email field and auto-fills your alias. Signing up takes seconds without manually copying from a separate dashboard.
 
-**The tradeoff:** Alt-ID is bundled with Surfshark subscriptions, not sold as a standalone product. If the only thing you need is [email alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/)ing, you are paying for a broader [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/). That said, for anyone already using or considering Surfshark for VPN, Alt-ID costs nothing extra and is a meaningful upgrade over any standalone alias tool.
+**The tradeoff:** Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark subscriptions, not sold as a standalone product. If the only thing you need is [email alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/)ing, you are paying for a broader [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/). That said, for anyone already using or considering Surfshark for VPN, Alt-ID costs nothing extra and is a meaningful upgrade over any standalone alias tool.
 
 ---
 

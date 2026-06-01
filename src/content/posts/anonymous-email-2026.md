@@ -109,7 +109,7 @@ You can also reply from an alias. Alt-ID supports reply-forwarding, so the recip
 
 An [email alias](https://snipstack.io/email-alias-sign-2026/) hides your address. A VPN hides your IP. Together they stop services from correlating your signups by network location — a tactic data brokers use to link anonymous-looking accounts back to real identities.
 
-Surfshark's VPN is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), so you are already covered if you signed up on that plan. Enable it on the same device before signing up to new services for a stronger privacy posture.
+Surfshark's VPN [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), so you are already covered if you signed up on that plan. Enable it on the same device before signing up to new services for a stronger privacy posture.
 
 ---
 

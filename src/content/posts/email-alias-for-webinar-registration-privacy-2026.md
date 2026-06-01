@@ -72,7 +72,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-20
 - **Alternative identity details.** Beyond the [email alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/), Alt-ID generates a fake name and profile. Webinar registration forms often ask for your name, job title, and company. Alt-ID lets you fill those fields with generated details, keeping your professional identity off the host's CRM.
 - **Browser extension for Chrome and Firefox.** When you land on a webinar registration page, the extension detects the email field and suggests your alias. The whole sign-up takes four seconds.
 
-**The tradeoff:** Alt-ID is bundled with Surfshark plans, not sold as a standalone alias service. You are paying for a package that includes VPN. If you only want email masking and never use VPN, the pricing is less efficient. For anyone who uses or was considering Surfshark anyway, it is zero additional cost.
+**The tradeoff:** Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark plans, not sold as a standalone alias service. You are paying for a package that includes VPN. If you only want email masking and never use VPN, the pricing is less efficient. For anyone who uses or was considering Surfshark anyway, it is zero additional cost.
 
 [Get Alt-ID with your Surfshark plan](/blog/altid?sub=email-alias-for-webinar-registration-privacy-2026__mid)
 

@@ -36,7 +36,7 @@ That is the full list. You do not need a separate email provider, a browser exte
 
 ## Step 1 — Sign Up for [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)
 
-Navigate to the Alt-ID signup page using the link below. Alt-ID is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), which includes the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and the Alert data-breach monitor alongside the alias feature.
+Navigate to the Alt-ID signup page using the link below. Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), which includes the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and the Alert data-breach monitor alongside the alias feature.
 
 [Start your Surfshark One plan](/blog/surfshark?sub=free-anonymous-email-2026__above-fold)
 

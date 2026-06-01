@@ -80,7 +80,7 @@ If you use Dropbox for work, you likely interact with it through multiple surfac
 
 ### Cost Comparison
 
-SimpleLogin and AnonAddy both have free tiers (15–20 persistent aliases). If your Dropbox use is light and you only need a handful of addresses, those tiers are sufficient. Alt-ID is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) — a broader privacy package that also includes VPN and identity monitoring. If you're already considering Surfshark for VPN protection, the alias feature comes at no extra cost. For users dealing with 50+ spam emails daily across multiple services (not just Dropbox), the unlimited alias cap and the bundled privacy stack make Alt-ID the better value at scale.
+SimpleLogin and AnonAddy both have free tiers (15–20 persistent aliases). If your Dropbox use is light and you only need a handful of addresses, those tiers are sufficient. Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) — a broader privacy package that also includes VPN and identity monitoring. If you're already considering Surfshark for VPN protection, the alias feature comes at no extra cost. For users dealing with 50+ spam emails daily across multiple services (not just Dropbox), the unlimited alias cap and the bundled privacy stack make Alt-ID the better value at scale.
 
 ---
 

@@ -34,7 +34,7 @@ Apple Hide My Email  | Alias (Apple)  | TLS transit        | No           | Part
 Firefox Relay        | Alias only     | TLS transit        | No           | Yes (5)   | $1.99/mo
 ProtonMail aliases   | Alias + inbox  | E2EE (Proton)      | No           | Yes (1GB) | $4/mo
 ```
-*Alt-ID is bundled with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/). Price reflects entry-tier subscription.
+*Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/). Price reflects entry-tier subscription.
 
 ---
 

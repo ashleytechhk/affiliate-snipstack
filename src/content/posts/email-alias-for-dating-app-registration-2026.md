@@ -85,7 +85,7 @@ The best use of a per-app alias isn't just protecting your inbox from that app �
 
 SimpleLogin and DuckDuckGo offer free tiers that can cover a handful of dating apps. If you have two or three accounts and no other alias needs, that's sufficient. The limitation shows when you're aliasing multiple dating platforms alongside other services — shopping accounts, newsletters, app signups — and you want all of them under one dashboard with no cap.
 
-Alt ID is bundled with Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which includes a VPN and identity monitoring alongside the alias feature. If you're already using Surfshark for any reason, Alt ID costs nothing extra. If you're evaluating it for the first time, the value depends on whether the broader bundle makes sense for your situation — alias-only users on a strict budget may prefer SimpleLogin's free tier or DuckDuckGo.
+Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which includes a VPN and identity monitoring alongside the alias feature. If you're already using Surfshark for any reason, Alt ID costs nothing extra. If you're evaluating it for the first time, the value depends on whether the broader bundle makes sense for your situation — alias-only users on a strict budget may prefer SimpleLogin's free tier or DuckDuckGo.
 
 ---
 

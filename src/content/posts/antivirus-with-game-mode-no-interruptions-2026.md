@@ -140,7 +140,7 @@ It depends on the antivirus. Software without web protection can still allow fak
 
 ### I only play simple games like solitaire or word puzzles. Do I really need this?
 
-Yes. Criminals specifically target casual games because the players — often older adults — are relaxed and less alert to threats. The type of game does not affect your risk. The risk comes from being connected to the internet, interacting with external content, and the natural tendency to react to a sudden alarm without stopping to evaluate it. Antivirus with game mode is useful regardless of whether you play casual games or more demanding ones.
+Yes. Criminals specifically target casual games because the players — often older adults — are relaxed and less alert to threats. The type of game does not affect your risk. The risk comes from being connected to the internet, interacting with external content, and the natural tendency to react to a sudden alarm without stopping to evaluate it. [Antivirus with](https://snipstack.io/antivirus-with-breach-alert-notifications-2026/) game mode is useful regardless of whether you play casual games or more demanding ones.
 
 ### Will game mode affect how my game runs?
 

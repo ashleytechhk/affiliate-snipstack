@@ -88,7 +88,7 @@ This matters more for open source contributors than casual users. If you're main
 
 SimpleLogin and AnonAddy have free tiers (15–20 aliases respectively) that work for focused use. If you're aliasing only your GitHub account and a handful of dev tools, free tier is sufficient. The limitation appears when you want per-tool aliasing across your stack: GitHub, npm account, CircleCI, Vercel, Codecov, your issue tracker, your dev newsletter subscriptions — that's 10+ aliases before you've covered your core toolchain.
 
-Alt-ID is bundled with Surfshark's subscription plans. If you're already running a [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) WiFi on conference trips or remote work, Alt-ID comes with it — unlimited aliases at no incremental cost. For developers who travel or work from cafes, that combination is practical.
+Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's subscription plans. If you're already running a [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) WiFi on conference trips or remote work, Alt-ID comes with it — unlimited aliases at no incremental cost. For developers who travel or work from cafes, that combination is practical.
 
 ---
 

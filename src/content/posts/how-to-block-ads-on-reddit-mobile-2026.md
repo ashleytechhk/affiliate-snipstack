@@ -111,7 +111,7 @@ Promoted posts in the Reddit app stop appearing. The same goes for ads in every 
 - Tracker pixels and fingerprinting scripts
 - Known malicious ad domains (malvertising protection)
 
-The subscription cost is the honest trade-off. CleanWeb is bundled with Surfshark's VPN — you're getting both. If you already use or want a VPN, this is a natural bundle. If you only want ad blocking and nothing else, the cost is higher than free alternatives.
+The subscription cost is the honest trade-off. CleanWeb [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's VPN — you're getting both. If you already use or want a VPN, this is a natural bundle. If you only want ad blocking and nothing else, the cost is higher than free alternatives.
 
 ![Surfshark CleanWeb on mobile — system-wide ad blocking for the Reddit app and every other app](/og/how-to-block-ads-on-reddit-mobile-2026-inline-2.png)
 

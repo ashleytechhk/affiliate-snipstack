@@ -131,7 +131,7 @@ You might wonder whether a standalone [ad blocker](https://snipstack.io/ad-block
 | Setup complexity | Moderate to high | Low |
 | Child-lock / settings restriction | No | Via iOS Screen Time lock |
 
-For pure ad blocking on a child's device, standalone options like AdGuard can work well. The advantage of CleanWeb is that it is bundled with the VPN, so you also get encrypted traffic, which matters on public Wi-Fi networks the child might connect to at school or at a friend's house.
+For pure ad blocking on a child's device, standalone options like AdGuard can work well. The advantage of CleanWeb is that it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with the VPN, so you also get encrypted traffic, which matters on public Wi-Fi networks the child might connect to at school or at a friend's house.
 
 ---
 

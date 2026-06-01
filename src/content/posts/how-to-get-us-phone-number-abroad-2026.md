@@ -34,7 +34,7 @@ Moving or traveling abroad does not suspend your ties to US systems. It often ma
 
 **Banking and financial accounts.** US banks — Chase, Bank of America, Wells Fargo, and most credit unions — use SMS-based two-factor authentication by default. Without a number that can receive US SMS, you can find yourself locked out of accounts or unable to complete wire transfers at the worst possible moment.
 
-**Tax and government services.** The IRS online portal, Social Security Administration, and state DMV systems all use phone verification for account access. These systems do not support international numbers for authentication.
+**Tax and government services.** The IRS online portal, [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) Administration, and state DMV systems all use phone verification for account access. These systems do not support international numbers for authentication.
 
 **Peer-to-peer payment apps.** Venmo, Zelle, and Cash App are built for US users with US numbers. Venmo explicitly requires a US [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) registration and account recovery.
 

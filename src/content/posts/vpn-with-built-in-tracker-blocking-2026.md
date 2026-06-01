@@ -36,7 +36,7 @@ The result: the tracker never gets to record your device information, IP address
 
 This is the key distinction from a browser-based [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/). An extension in Chrome or Safari only sees traffic flowing through that browser. A DNS filter sits at the network level — it intercepts requests from every app on the device simultaneously. The social media app, the game with banner ads, the email client loading tracking pixels — all of them pass through the same DNS layer.
 
-On iOS, this requires a VPN profile, which is why the feature is bundled with a VPN. The VPN profile is how Apple allows apps to intercept system-wide network traffic. On Android, the same applies: a VPN-based approach gives the most complete coverage.
+On iOS, this requires a VPN profile, which is why the feature [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with a VPN. The VPN profile is how Apple allows apps to intercept system-wide network traffic. On Android, the same applies: a VPN-based approach gives the most complete coverage.
 
 ---
 

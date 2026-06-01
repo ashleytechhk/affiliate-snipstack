@@ -203,7 +203,7 @@ An [email alias](https://snipstack.io/email-alias-for-discord-account-2026/) gen
 
 Free generators like SimpleLogin and AnonAddy are solid starting points. They work well when you have modest needs and do not mind hitting a 10 or 20-alias ceiling.
 
-For anyone dealing with serious inbox damage — 50+ spam emails a day, an address that has clearly been sold across multiple lists — the ceiling matters. [Surfshark Alt-ID](/blog/altid?sub=email-alias-generator-2026__cta) removes it. Unlimited aliases, instant forwarding to any inbox, one-click disable when a source goes bad. And because it is bundled with Surfshark's standard plans, there is no separate subscription to manage.
+For anyone dealing with serious inbox damage — 50+ spam emails a day, an address that has clearly been sold across multiple lists — the ceiling matters. [Surfshark Alt-ID](/blog/altid?sub=email-alias-generator-2026__cta) removes it. Unlimited aliases, instant forwarding to any inbox, one-click disable when a source goes bad. And because it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's standard plans, there is no separate subscription to manage.
 
 Your inbox can be clean. It takes one afternoon to set this up, and the alias you create today is the last time you hand a real email address to a website you are not certain you trust.
 

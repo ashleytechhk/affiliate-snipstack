@@ -82,7 +82,7 @@ Alt ID and SimpleLogin both support replying from the alias address, keeping you
 
 ### Cost and Value
 
-DuckDuckGo Email Protection is free with no alias limit. Apple Hide My Email requires iCloud+ (starts at a few dollars a month). SimpleLogin is free up to 15 aliases. Alt ID is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) — if you're already paying for a VPN, it's included at no extra cost. If you're buying specifically for the alias feature, weigh the plan cost against the value of having VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/) alongside it.
+DuckDuckGo Email Protection is free with no alias limit. Apple Hide My Email requires iCloud+ (starts at a few dollars a month). SimpleLogin is free up to 15 aliases. Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) — if you're already paying for a VPN, it's included at no extra cost. If you're buying specifically for the alias feature, weigh the plan cost against the value of having VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/) alongside it.
 
 ### Privacy Policy and Data Handling
 

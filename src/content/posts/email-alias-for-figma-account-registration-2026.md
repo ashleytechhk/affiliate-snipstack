@@ -77,7 +77,7 @@ Figma occasionally sends emails that invite a reply — billing questions, team 
 
 ### Cost and Fit
 
-SimpleLogin and AnonAddy have free tiers (10–20 aliases) that are adequate if you only need a Figma alias and a handful of others. Alt-ID is bundled with Surfshark — if you are already a subscriber, there is no additional cost, and you get unlimited aliases plus the VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/) layers in the same plan. For users already dealing with 50+ spam emails a day across multiple services, the unlimited alias model is the right fit.
+SimpleLogin and AnonAddy have free tiers (10–20 aliases) that are adequate if you only need a Figma alias and a handful of others. Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark — if you are already a subscriber, there is no additional cost, and you get unlimited aliases plus the VPN and [antivirus](https://snipstack.io/vs-antivirus-2026/) layers in the same plan. For users already dealing with 50+ spam emails a day across multiple services, the unlimited alias model is the right fit.
 
 ![Inline feature comparison: Alt-ID vs alternatives for Figma account alias management](/og/email-alias-for-figma-account-registration-2026-inline-1.png)
 

@@ -70,7 +70,7 @@ Some Discord notifications invite replies — customer support tickets, communit
 
 ### Cost and Value
 
-SimpleLogin and AnonAddy have generous free tiers (15–20 aliases). If you only need one Discord alias and a handful of others, that's sufficient. Alt ID is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which combines VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring alongside the alias feature — better value if you're already considering that stack. For pure alias-only needs on a budget, SimpleLogin's free tier is hard to beat.
+SimpleLogin and AnonAddy have generous free tiers (15–20 aliases). If you only need one Discord alias and a handful of others, that's sufficient. Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which combines VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring alongside the alias feature — better value if you're already considering that stack. For pure alias-only needs on a budget, SimpleLogin's free tier is hard to beat.
 
 ### Privacy Policy Depth
 

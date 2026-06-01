@@ -104,7 +104,7 @@ If your computer is ever infected, hit by ransomware, broken, stolen, or simply 
 
 ## Setting Up Protection: What the Process Looks Like
 
-For seniors who are nervous about installing new software, here is a realistic description of what setting up a good antivirus with automatic backup feature involves.
+For seniors who are nervous about installing new software, here is a realistic description of what setting up a good [antivirus with](https://snipstack.io/antivirus-with-breach-alert-notifications-2026/) automatic backup feature involves.
 
 **Step 1.** Click the link and create an account with your email address. You will receive a confirmation email — click the link inside it.
 

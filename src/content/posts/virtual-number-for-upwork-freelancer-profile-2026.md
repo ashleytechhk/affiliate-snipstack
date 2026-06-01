@@ -157,7 +157,7 @@ No. A [virtual number](https://snipstack.io/virtual-number-for-international-bus
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I need to update my number on Upwork later?**
 
-Changing your number on Upwork is straightforward through account settings. If your current virtual number becomes compromised or you want to rotate it, update both the Alt-Number (generate a new one in the Surfshark dashboard) and your Upwork settings. The process is the same as any other number change.
+Changing your number on Upwork is straightforward through account settings. If your current [virtual number](https://snipstack.io/virtual-number-for-insurance-comparison-quote-2026/) becomes compromised or you want to rotate it, update both the Alt-Number (generate a new one in the Surfshark dashboard) and your Upwork settings. The process is the same as any other number change.
 
 **Can I use one Alt-Number for both Upwork and dating apps, or do I need separate numbers?**
 
@@ -165,7 +165,7 @@ You can use a single number for both — it keeps things simpler. However, keepi
 
 **Is this only useful if I am already a Surfshark user?**
 
-Alt-Number is bundled with Surfshark subscriptions, so if you are not already a user, you would be subscribing to the broader Surfshark [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) — which includes a VPN, [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/) (Alt-ID), and the virtual number. If privacy across your online accounts is a general concern, that bundle represents solid value. If you only want a virtual number and nothing else, one of the standalone services like Hushed may be a lighter starting point.
+Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark subscriptions, so if you are not already a user, you would be subscribing to the broader Surfshark [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) — which includes a VPN, [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/) (Alt-ID), and the virtual number. If privacy across your online accounts is a general concern, that bundle represents solid value. If you only want a virtual number and nothing else, one of the standalone services like Hushed may be a lighter starting point.
 
 ---
 

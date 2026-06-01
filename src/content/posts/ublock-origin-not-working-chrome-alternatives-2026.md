@@ -204,7 +204,7 @@ Yes — AdGuard's MV3 extension is the strongest browser-extension-based option 
 
 ### Can I use Surfshark CleanWeb without getting the VPN?
 
-Surfshark CleanWeb is bundled with Surfshark's privacy products rather than sold as a standalone extension. The most cost-effective way to get it is through a Surfshark subscription, which also includes VPN access. For many users, the bundled value makes this an easy decision.
+Surfshark CleanWeb [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's privacy products rather than sold as a standalone extension. The most cost-effective way to get it is through a Surfshark subscription, which also includes VPN access. For many users, the bundled value makes this an easy decision.
 
 ### What is the best free uBlock Origin alternative for Chrome?
 

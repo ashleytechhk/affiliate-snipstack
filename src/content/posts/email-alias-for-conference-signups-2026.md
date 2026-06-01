@@ -53,7 +53,7 @@ The result: a single conference registration can generate ongoing email from fiv
 
 Alt ID generates aliases under a domain that does not flag itself as obviously disposable. This matters at conference registration because some event platforms — particularly enterprise ones like Cvent — run basic validation checks and reject `@duck.com` or `@privaterelay.appleid.com` addresses. Alt ID's domain passes most of these checks.
 
-Aliases are unlimited, creation is instant, and the delete flow is a single toggle. If you attend five events a year, you can create five separate aliases — one per event — and kill each one after the follow-up cycle burns out. Since Alt ID is bundled with Surfshark VPN, it costs nothing extra if you already subscribe.
+Aliases are unlimited, creation is instant, and the delete flow is a single toggle. If you attend five events a year, you can create five separate aliases — one per event — and kill each one after the follow-up cycle burns out. Since Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark VPN, it costs nothing extra if you already subscribe.
 
 **Best for:** Regular conference-goers who want realistic-looking aliases that survive enterprise event-platform validation, without paying more than their existing VPN subscription.
 

@@ -128,7 +128,7 @@ Surfshark Starter includes the VPN only (plus CleanWeb and a few core VPN tools)
 
 The VPN works on Android TV and Amazon Fire TV, enabling geo-based streaming access. The antivirus does not run on smart TV operating systems. For standard household use, the VPN coverage on smart TVs is the only feature you need from a [security bundle](https://snipstack.io/security-bundle-for-freelancers-tax-season-2026/) — TVs face different threat vectors than computers and phones.
 
-### What happens to my data if I cancel Surfshark One?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my data if I cancel Surfshark One?
 
 Surfshark operates under a no-logs policy for VPN usage — it does not record your browsing activity. Alert monitoring data (the email addresses you added) is deleted from Surfshark's systems on account closure. Review Surfshark's current privacy policy at the time of sign-up for the full details, as policies can be updated.
 

@@ -161,7 +161,7 @@ This is where the permanent masked alias pays off compared to free throwaway ser
 
 An [email alias](https://snipstack.io/email-alias-gmail-2026/) hides your address from the services you sign up to. A VPN hides your IP address from those same services, which prevents them from correlating your anonymous-looking signups based on network location — a technique data brokers routinely use to link pseudonymous accounts to real identities.
 
-Surfshark's VPN is bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plans, so if you signed up for Alt-ID on that plan, you already have it. Enable the VPN on the same device before signing up to new services for a more complete privacy setup.
+Surfshark's VPN [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plans, so if you signed up for Alt-ID on that plan, you already have it. Enable the VPN on the same device before signing up to new services for a more complete privacy setup.
 
 **[See Alt-ID and VPN bundle options](/blog/altid?sub=temporary-anonymous-email-2026__mid)**
 

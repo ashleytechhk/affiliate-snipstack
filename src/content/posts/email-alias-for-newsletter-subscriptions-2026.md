@@ -34,7 +34,7 @@ For newsletter subscriptions specifically, a permanent masked [email alias](/ema
 | Secondary "junk" Gmail | One | yourname@gmail.com | Yes | No | Free |
 | Free throwaway (10 Minute Mail) | Unlimited | Various | No | N/A | Free |
 
-The top three — Alt ID, Hide My Email, and DuckDuckGo — all solve the core problem. The differences come down to ecosystem, alias appearance, and what else is bundled with the subscription.
+The top three — Alt ID, Hide My Email, and DuckDuckGo — all solve the core problem. The differences come down to ecosystem, alias appearance, and what else [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with the subscription.
 
 ---
 

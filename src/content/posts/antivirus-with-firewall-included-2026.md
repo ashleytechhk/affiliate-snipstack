@@ -126,7 +126,7 @@ That is everything. You do not need to do anything technical again. The software
 
 ## Frequently Asked Questions
 
-### Does Windows already have a firewall? Do I still need antivirus with firewall included?
+### Does Windows already have a firewall? Do I still need [antivirus with](https://snipstack.io/antivirus-with-breach-alert-notifications-2026/) firewall included?
 
 Yes, Windows has a built-in firewall. It is decent for basic protection on your home network. However, the built-in Windows Firewall does not include web protection, anti-phishing, or real-time malware scanning. An all-in-one security suite like **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-with-firewall-included-2026__faq)** layers on top of Windows, adding the protections that the built-in tools leave out — especially important for seniors who shop or bank online.
 
