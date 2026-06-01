@@ -59,7 +59,7 @@ The result: you can have AdGuard enabled in Safari and still see full-screen int
 
 ---
 
-## Three Ways to Remove Ads From News Sites on Mobile
+## Three Ways to [Remove Ads From](https://snipstack.io/remove-ads-from-google-shopping-results-2026/) News Sites on Mobile
 
 There is a spectrum of solutions, and the right one depends on how thorough you want coverage to be.
 

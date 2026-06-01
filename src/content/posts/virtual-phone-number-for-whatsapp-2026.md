@@ -56,7 +56,7 @@ Good fallback option if you are already in the Google ecosystem and want to test
 
 ### **3. TextNow — Best for Casual US-Based Users**
 
-TextNow provides free US and Canada numbers supported by ad revenue, with paid plans that remove ads and add more features. It is widely used, the app is polished, and WhatsApp verification generally works without issue.
+TextNow provides free US and Canada numbers supported by ad revenue, with paid plans that [remove ads](https://snipstack.io/remove-ads-from-google-shopping-results-2026/) and add more features. It is widely used, the app is polished, and WhatsApp verification generally works without issue.
 
 The tradeoff is that free numbers get recycled if you go inactive for a period — a real problem if you registered WhatsApp with that number and then lose access to it months later. For a dating number you use actively, this is manageable. For long-term use, you will want a paid plan. TextNow is a solid mid-tier option when you want something more reliable than Google Voice but you are not ready to commit to a full subscription.
 

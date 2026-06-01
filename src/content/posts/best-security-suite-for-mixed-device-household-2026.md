@@ -121,7 +121,7 @@ Fair comparison means acknowledging where the incumbents hold ground.
 
 **Norton** has a long-established record and dedicated customer support infrastructure. If you've been a customer for years and the renewal price works for your budget, the switching friction may not be worth it. Norton's parental controls are also more mature than Surfshark's current offering — relevant if that's a priority.
 
-**McAfee** bundles [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and restoration services in its higher-tier plans, which goes beyond what most pure software security suites offer. If you want financial coverage tied to identity theft, that tier of McAfee has features that [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) doesn't replicate.
+**McAfee** bundles [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and restoration services in its higher-tier plans, which goes beyond what most pure software [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/)s offer. If you want financial coverage tied to identity theft, that tier of McAfee has features that [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) doesn't replicate.
 
 For everyone else — specifically the household that wants clean, lightweight, multi-platform coverage without annual price surprises — the calculus runs the other way.
 

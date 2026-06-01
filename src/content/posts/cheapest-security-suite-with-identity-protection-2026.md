@@ -102,7 +102,7 @@ Where McAfee stumbles is in the same places it has for years: installer bloat, a
 
 The pricing structure mirrors Norton's — attractive first-year rate, meaningful renewal increase. The year-two cost for a family plan with identity monitoring is typically in the $130–$160 range depending on promotion.
 
-McAfee does not include a VPN capable of use in countries with internet restrictions, private search, or alternative identity features. If you need a VPN alongside your security suite, you are adding a separate subscription on top.
+McAfee does not include a VPN capable of use in countries with internet restrictions, private search, or alternative identity features. If you need a VPN alongside your [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/), you are adding a separate subscription on top.
 
 ---
 

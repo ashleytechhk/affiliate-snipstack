@@ -137,7 +137,7 @@ Surfshark does not use the steep first-year discount / second-year renewal jump 
 
 ### Does Surfshark One protect against data breaches?
 
-Yes. Surfshark Alert, included in Surfshark One, monitors your email addresses, passwords, and credit card numbers against known breach databases and notifies you if your information appears in a new leak. This is comparable to the breach monitoring features included in Norton and McAfee's security suites.
+Yes. Surfshark Alert, included in Surfshark One, monitors your email addresses, passwords, and credit card numbers against known breach databases and notifies you if your information appears in a new leak. This is comparable to the breach monitoring features included in Norton and McAfee's [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/)s.
 
 ---
 

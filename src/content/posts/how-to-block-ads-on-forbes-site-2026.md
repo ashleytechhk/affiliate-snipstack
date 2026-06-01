@@ -142,7 +142,7 @@ Forbes has anti-adblock detection that triggers in some configurations. You may 
 
 This detection works by checking whether known ad scripts loaded successfully — if they didn't, the page detects a likely blocker. It catches browser-extension-based blocking fairly reliably. It's less consistent against network-level filtering because CleanWeb blocks at the DNS layer before Forbes's detection script can check its results.
 
-Forbes Premium (their paid subscription) does remove ads and the interstitial wall, which is the platform-sanctioned path. At roughly $10–12/month for Forbes alone, most users will find a general-purpose [ad blocker for iPhone](https://snipstack.io/ad-blocker-for-iphone-browser-2026/) or Android more practical value across hundreds of sites rather than paying one publisher to stop showing ads.
+Forbes Premium (their paid subscription) does [remove ads](https://snipstack.io/remove-ads-from-google-shopping-results-2026/) and the interstitial wall, which is the platform-sanctioned path. At roughly $10–12/month for Forbes alone, most users will find a general-purpose [ad blocker for iPhone](https://snipstack.io/ad-blocker-for-iphone-browser-2026/) or Android more practical value across hundreds of sites rather than paying one publisher to stop showing ads.
 
 If Forbes's anti-adblock prompt appears while you're using a browser-level blocker, whitelisting Forbes is one option. The alternative is switching to Reader Mode or the CleanWeb approach, which the detection handles less consistently.
 

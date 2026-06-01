@@ -161,4 +161,4 @@ Avast One is a credible product with a mature antivirus engine. If you've done y
 
 ---
 
-*Feature and pricing data reflect publicly available information as of May 2026. Security suite capabilities and pricing tiers change frequently — verify current plan details before purchasing. No security product reduces risk to zero.*
+*Feature and pricing data reflect publicly available information as of May 2026. [Security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/) capabilities and pricing tiers change frequently — verify current plan details before purchasing. No security product reduces risk to zero.*

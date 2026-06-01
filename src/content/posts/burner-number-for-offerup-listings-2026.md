@@ -152,7 +152,7 @@ Yes. Using a [virtual phone number](https://snipstack.io/virtual-phone-number-fo
 **Will buyers be suspicious if I use a different number?**
 No. Buyers see a standard US phone number. There is nothing about a [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) that looks different from a regular mobile number. The only people who become suspicious when you use a separate contact number are people whose interest in your personal details goes beyond the item you're selling.
 
-**Can someone trace a burner number back to my real identity?**
+**Can someone trace a [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/) back to my real identity?**
 Surfshark Alt-Number does not expose your real phone number to the people who call or text it. The number is registered to Surfshark, not to you personally. [Get Alt-Number here](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__faq) for details on how the service handles data.
 
 **What if a buyer needs to call me — will it work for voice calls?**

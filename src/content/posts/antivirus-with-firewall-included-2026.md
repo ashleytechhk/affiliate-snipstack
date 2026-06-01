@@ -128,7 +128,7 @@ That is everything. You do not need to do anything technical again. The software
 
 ### Does Windows already have a firewall? Do I still need [antivirus with](https://snipstack.io/antivirus-with-breach-alert-notifications-2026/) firewall included?
 
-Yes, Windows has a built-in firewall. It is decent for basic protection on your home network. However, the built-in Windows Firewall does not include web protection, anti-phishing, or real-time malware scanning. An all-in-one security suite like **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-with-firewall-included-2026__faq)** layers on top of Windows, adding the protections that the built-in tools leave out — especially important for seniors who shop or bank online.
+Yes, Windows has a built-in firewall. It is decent for basic protection on your home network. However, the built-in Windows Firewall does not include web protection, anti-phishing, or real-time malware scanning. An all-in-one [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/) like **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-with-firewall-included-2026__faq)** layers on top of Windows, adding the protections that the built-in tools leave out — especially important for seniors who shop or bank online.
 
 ### Is it complicated to set up for someone who is not good with computers?
 
@@ -144,7 +144,7 @@ Yes. Modern security suites are designed to handle both in a single, lightweight
 
 ### How do I know if I have already been infected?
 
-Warning signs include: your computer running unusually slowly, pop-ups appearing even when your browser is closed, programs opening that you did not start, your friends receiving strange emails from your account, or your bank reporting unfamiliar transactions. If you notice any of these, run a full security scan immediately. A good antivirus with firewall included will identify and remove most common infections.
+Warning signs include: your computer running unusually slowly, pop-ups appearing even when your browser is closed, programs opening that you did not start, your friends receiving strange emails from your account, or your bank reporting unfamiliar transactions. If you notice any of these, run a full security scan immediately. A good [antivirus with](https://snipstack.io/antivirus-with-webcam-protection-feature-2026/) firewall included will identify and remove most common infections.
 
 ### Is [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) good for seniors specifically?
 

@@ -106,7 +106,7 @@ The whole process takes under three minutes.
 With your [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) active, here is [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it across the main platforms:
 
 **Sharing with matches (Tinder, Hinge, Bumble, etc.):**
-Share your burner number instead of your real one when a match asks to move off the app. They get a working number. You stay in control of the line.
+Share your [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/) instead of your real one when a match asks to move off the app. They get a working number. You stay in control of the line.
 
 **For new account verification:**
 If you are creating a new dating app account, enter your burner number when the app asks for a phone number. The app sends an SMS verification code. On Alt-Number, that code arrives in your **Alt-Number inbox** inside the app — not in your regular Messages app. Copy the code, paste it into the dating app, and verification is complete.

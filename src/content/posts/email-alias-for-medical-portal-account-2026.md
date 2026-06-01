@@ -43,14 +43,14 @@ An [email alias](https://snipstack.io/email-alias-for-figma-account-registration
 | Mobile app | Via Surfshark app | Third-party | Third-party | No |
 | Part of privacy bundle | Yes (VPN + Alt-ID) | No | No | No |
 | Free tier | No (bundled) | Yes (10 aliases) | Yes (limited) | Yes |
-| Price (paid) | Included in Surfshark One | ~$4/mo | ~$1/mo | Free / $10/mo |
+| Price (paid) | Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | ~$4/mo | ~$1/mo | Free / $10/mo |
 | Ease of setup | Very easy | Moderate | Moderate | Instant |
 
 ---
 
 ## Surfshark Alt-ID: The Recommended Pick
 
-Alt-ID is Surfshark's [email alias](https://snipstack.io/email-alias-for-hotel-chain-points-account-2026/) product, bundled into the Surfshark One privacy package. When you sign up for a medical portal, you generate a fresh alias in the Alt-ID dashboard — something like `r4nd0m-hash@altid.one` — and use that on the registration form. All emails sent to that alias are forwarded to your real inbox.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [email alias](https://snipstack.io/email-alias-for-hotel-chain-points-account-2026/) product, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) privacy package. When you sign up for a medical portal, you generate a fresh alias in the Alt-ID dashboard — something like `r4nd0m-hash@altid.one` — and use that on the registration form. All emails sent to that alias are forwarded to your real inbox.
 
 ![How Surfshark Alt-ID works for medical portal registration](/og/email-alias-for-medical-portal-account-2026-inline-1.png)
 
@@ -158,7 +158,7 @@ You do not have to, but it is good practice. If you use one alias across multipl
 
 ### Is Surfshark Alt-ID included in the base Surfshark plan?
 
-Alt-ID is included in **Surfshark One**, which bundles VPN, antivirus, alert monitoring, and Alt-ID into a single subscription. It is not available as a standalone product. If you already use a VPN and are looking for [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) functionality, the bundle pricing typically works out cheaper than paying for a VPN and a separate alias service independently.
+Alt-ID is included in **[Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/)**, which bundles VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), alert monitoring, and Alt-ID into a single subscription. It is not available as a standalone product. If you already use a VPN and are looking for [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) functionality, the bundle pricing typically works out cheaper than paying for a VPN and a separate alias service independently.
 
 ---
 

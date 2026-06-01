@@ -134,7 +134,7 @@ Google Voice is a reasonable choice for light, US-based use. Where it falls shor
 ## Real Scenarios: What a [Burner Number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) Prevents
 
 **Scenario 1: The match who found your listing.**
-You unmatched someone on Hinge after a conversation that felt off. Three days later, you get a text from an unknown number asking about your OfferUp listing for a camera. It's the same person. He found you by searching your phone number. With a burner number on the listing, that path doesn't exist.
+You unmatched someone on Hinge after a conversation that felt off. Three days later, you get a text from an unknown number asking about your OfferUp listing for a camera. It's the same person. He found you by searching your phone number. With a [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/) on the listing, that path doesn't exist.
 
 **Scenario 2: The buyer who won't stop texting.**
 You sell a piece of furniture to someone who then decides you're friends. Persistent texts. Questions that have nothing to do with the original transaction. With your real number, blocking them means they still have it stored. With Alt-Number, you delete the number and the channel is permanently gone.

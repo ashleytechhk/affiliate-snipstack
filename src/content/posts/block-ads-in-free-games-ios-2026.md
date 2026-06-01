@@ -122,7 +122,7 @@ For most casual free-to-play iOS games — puzzle games, card games, arcade game
 
 ## What About Just Buying the Ad-Free Version?
 
-Many free games offer a one-time purchase or subscription to remove ads permanently. If you play a specific game regularly, this is almost always worth the money — a $2.99 one-time IAP is less friction than managing DNS settings, and it supports the developer.
+Many free games offer a one-time purchase or subscription to [remove ads](https://snipstack.io/remove-ads-from-google-shopping-results-2026/) permanently. If you play a specific game regularly, this is almost always worth the money — a $2.99 one-time IAP is less friction than managing DNS settings, and it supports the developer.
 
 The reality is most people have five to fifteen free games on their phone, play each one occasionally, and are not going to pay individually for ad removal in all of them. That's the use case where a system-level filtering approach makes most sense — one tool, every game, zero per-app purchases required.
 

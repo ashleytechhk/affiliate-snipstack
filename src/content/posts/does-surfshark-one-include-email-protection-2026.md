@@ -229,7 +229,7 @@ If you are on a Norton or McAfee renewal you no longer feel good about, the swit
       "name": "Will switching from Norton mean losing email attachment scanning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you use a desktop email client and regularly open attachments from external senders, Norton's attachment scanning is a feature you will no longer have. If you primarily use Gmail or Outlook.com in a browser, server-side scanning happens before messages reach you regardless of which security suite is on your device."
+        "text": "If you use a desktop email client and regularly open attachments from external senders, Norton's attachment scanning is a feature you will no longer have. If you primarily use Gmail or Outlook.com in a browser, server-side scanning happens before messages reach you regardless of which [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/) is on your device."
       }
     },
     {

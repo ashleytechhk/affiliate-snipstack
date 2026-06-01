@@ -175,7 +175,7 @@ The honest read: no single method eliminates every ad on a Kindle Fire. The lock
 Amazon runs Freevee (formerly IMDb TV) and includes ads in the free tier of Prime Video for some content. These ads come from Amazon's own infrastructure — the same company that makes the Kindle Fire. That means they are particularly resistant to third-party blocking, because Amazon controls both the device and the content delivery.
 
 The practical options:
-- **Subscribe to Prime Video** to remove ads on eligible content
+- **Subscribe to Prime Video** to [remove ads](https://snipstack.io/remove-ads-from-google-shopping-results-2026/) on eligible content
 - **Use non-Amazon streaming services** (Netflix, Disney+, Apple TV+) for ad-free content on your Kindle Fire
 - Accept that Freevee / ad-supported Prime is an advertising product and plan accordingly
 

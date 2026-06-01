@@ -200,7 +200,7 @@ WhatsApp requires SMS verification to activate an account. Alt-Number can receiv
 
 ## Bottom Line
 
-Getting a burner number online used to mean buying a prepaid phone from a gas station. In 2026, it takes five minutes and happens entirely on the device already in your pocket.
+Getting a [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/) online used to mean buying a prepaid phone from a gas station. In 2026, it takes five minutes and happens entirely on the device already in your pocket.
 
 The case for doing it is straightforward: your real phone number is a thread that connects to your name, address, social profiles, and financial accounts. Handing it to a stranger you met online is unnecessary when a working alternative number costs less than a monthly streaming service and can be switched off instantly.
 

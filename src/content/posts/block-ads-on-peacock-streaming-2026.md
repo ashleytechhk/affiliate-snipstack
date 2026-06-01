@@ -56,7 +56,7 @@ This is the core problem for mobile power-users. The tools people rely on for de
 
 ---
 
-## Method 1: Peacock Premium Plus — Pay to Remove Ads
+## Method 1: Peacock Premium Plus — Pay to [Remove Ads](https://snipstack.io/remove-ads-from-google-shopping-results-2026/)
 
 **What it is:** Peacock's own ad-free subscription tier, priced at approximately $13.99/month in the US as of 2026 (vs. $7.99/month for the ad-supported Premium tier). The ads are removed on Peacock's side — there's nothing to block because the ad-supported content is never served to your account.
 

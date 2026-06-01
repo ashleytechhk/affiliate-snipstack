@@ -212,7 +212,7 @@ No. Apps verify that you received an SMS code — they don't check whether it's 
 
 Your profile stays active. The phone number was only used for verification — it's not the ongoing login method on most dating apps (those use email or a linked social account). Cancelling the [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) after signup is fine; just don't need SMS verification again without a new number.
 
-**Can I use one burner number across multiple dating apps?**
+**Can I use one [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/) across multiple dating apps?**
 
 Yes, as long as each app only verifies once per number. You'll use the number to receive the signup SMS on each app. If an app ever asks you to re-verify the same number, just receive the SMS again through the burner app.
 

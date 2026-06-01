@@ -144,7 +144,7 @@ Mostly, yes — but "private" is relative. A [burner number](https://snipstack.i
 
 Some dating apps accept VoIP numbers for SMS verification; others block them. Apps that use Twilio's fraud-detection layer (like Tinder and Bumble) may reject known VoIP ranges. Surfshark Alt-Number uses real carrier-grade numbers rather than traditional VoIP, which improves acceptance rates. Google Voice numbers are often blocked on major dating platforms.
 
-### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my burner number?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/)?
 
 The number is released back into the pool and eventually reassigned to another user. Any existing threads where you shared that number go silent — the other person texts it, gets no response, and has no way to trace it to you. This is the core safety feature: burning the number severs the connection cleanly.
 

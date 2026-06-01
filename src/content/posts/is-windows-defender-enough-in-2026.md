@@ -44,7 +44,7 @@ For many older adults who primarily use their computer to check email, browse th
 
 ## Where Windows Defender Falls Short
 
-Here is where the gap between Defender and a paid security suite becomes clear.
+Here is where the gap between Defender and a paid [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/) becomes clear.
 
 ### No VPN
 
