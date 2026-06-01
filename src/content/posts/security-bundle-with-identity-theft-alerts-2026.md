@@ -14,7 +14,7 @@ You are paying $100-plus a year for Norton or McAfee. Your computer still slows 
 
 If that sounds familiar, you have not failed at security software. The software has failed you.
 
-This guide cuts straight to the point: which **[security bundle](https://snipstack.io/security-bundle-for-freelancers-tax-season-2026/) with identity theft alerts** is actually worth paying for in 2026 — and whether it is time to finally ditch the bloatware.
+This guide cuts straight to the point: which **[security bundle](https://snipstack.io/security-bundle-for-freelancers-tax-season-2026/) with [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) alerts** is actually worth paying for in 2026 — and whether it is time to finally ditch the bloatware.
 
 **[See Surfshark One Bundle pricing and current deals](/blog/one?sub=security-bundle-with-identity-theft-alerts-2026__above-fold)**
 

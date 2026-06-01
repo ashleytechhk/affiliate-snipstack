@@ -168,7 +168,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-revie
 
 For everyday traveler threats — [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, malicious downloads, compromised hotel network scripts — yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is independently tested and covers the primary vectors. It does not match Norton's decades of detection history, but for real-world traveler risk profiles it is more than adequate. The trade-off you are making is depth of detection history for lower resource overhead and a far better VPN. Most travelers make that trade happily.
 
-### What happens if I need to cancel Surfshark One Bundle?
+### What happens if I need to cancel [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) Bundle?
 
 Surfshark offers a 30-day refund window. Cancel within 30 days and you receive a full refund. After that, turn off auto-renewal and use the remaining subscription period normally. See the [Surfshark One review](https://snipstack.io/surfshark-one-review-2026/) for more detail on plan terms.
 

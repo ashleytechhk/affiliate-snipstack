@@ -98,7 +98,7 @@ Real-time malware scanning, scheduled scans, and webcam protection on Windows. L
 
 ### Surfshark Alert
 
-Breach monitoring that checks your email addresses, passwords, and credit card numbers against known data breach databases. Alerts you when your credentials appear in a new leak. Comparable to the dark web monitoring included in [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) and McAfee's [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s, included in the Surfshark One price rather than sold as an add-on tier.
+Breach monitoring that checks your email addresses, passwords, and credit card numbers against known data breach databases. Alerts you when your credentials appear in a new leak. Comparable to the dark web monitoring included in [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) and McAfee's [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s, included in the [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) price rather than sold as an add-on tier.
 
 ### Surfshark Search
 

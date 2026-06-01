@@ -165,7 +165,7 @@ Yes. Trend Micro is a well-established cybersecurity company with over 35 years 
 
 ### Does [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) actually work, or is it just a VPN company?
 
-Surfshark One's antivirus engine is a real, fully functional antivirus product — not a secondary feature bolted onto a VPN. It runs continuous background scans and receives automatic updates. That said, it is newer to the antivirus space than Trend Micro. Independent lab scores are competitive, and the all-in-one nature of the product makes it particularly well suited for non-technical users who want everything in one place.
+[Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/)'s antivirus engine is a real, fully functional antivirus product — not a secondary feature bolted onto a VPN. It runs continuous background scans and receives automatic updates. That said, it is newer to the antivirus space than Trend Micro. Independent lab scores are competitive, and the all-in-one nature of the product makes it particularly well suited for non-technical users who want everything in one place.
 
 ### Do seniors really need a VPN, or is that just for tech people?
 

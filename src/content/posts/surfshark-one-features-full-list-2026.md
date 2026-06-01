@@ -193,7 +193,7 @@ If identity theft insurance is a hard requirement, Norton's higher-tier plans ar
 
 It is a full [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/). The VPN is one of six tools. The bundle also includes antivirus, breach monitoring, private search, ad blocking, and identity masking.
 
-### Can I add Incogni to Surfshark One?
+### Can I add Incogni to [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/)?
 
 Incogni — the automated data broker removal service — is not included in Surfshark One. It comes with Surfshark One+, the next tier up. You can also add it separately.
 

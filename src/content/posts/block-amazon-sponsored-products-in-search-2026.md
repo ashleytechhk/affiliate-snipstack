@@ -140,7 +140,7 @@ If Amazon sponsored products are your primary frustration, CleanWeb solves that.
 
 **[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/)** — Similar to NextDNS. Works well on iOS via the built-in DNS-over-HTTPS setting.
 
-**Firefox + uBlock Origin (Android only)** — The most thorough browser-level blocking available on mobile, but only covers Firefox browsing — not the Amazon app.
+**Firefox + [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) (Android only)** — The most thorough browser-level blocking available on mobile, but only covers Firefox browsing — not the Amazon app.
 
 **Apple's built-in content blockers (iOS)** — Third-party Content Blocker apps (like 1Blocker) work in Safari. Limited compared to a full network-layer solution.
 
@@ -158,7 +158,7 @@ No. Filtering ad content on your own device is a personal choice and not a viola
 
 It removes paid listings but does not change the underlying organic ranking algorithm. Organic results still appear in the same order Amazon's algorithm determines. You simply see them without the sponsored layers on top.
 
-### Is Surfshark CleanWeb free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) CleanWeb free?
 
 CleanWeb is included with any Surfshark subscription. Surfshark offers a money-back guarantee period, so you can test it risk-free. [See current plans here.](/blog/adblock?sub=block-amazon-sponsored-products-in-search-2026__faq)
 

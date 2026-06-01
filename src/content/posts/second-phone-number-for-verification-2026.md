@@ -113,7 +113,7 @@ Limitation: US numbers only, no international coverage. If you travel or need a 
 
 **Best for full identity separation with a permanent [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/).**
 
-MySudo is the privacy-maximalist option: instead of one second number, you create compartmentalized "Sudos" — each with a phone number, email address, and in-app browser. Up to nine separate identities, each persistent, each siloed from the others. For someone who maintains separate presences for dating, work, and marketplace activity, MySudo's architecture prevents cross-contamination in ways a simple second number cannot.
+MySudo is the privacy-maximalist option: instead of one [second number](https://snipstack.io/second-number-for-local-community-groups-2026/), you create compartmentalized "Sudos" — each with a phone number, email address, and in-app browser. Up to nine separate identities, each persistent, each siloed from the others. For someone who maintains separate presences for dating, work, and marketplace activity, MySudo's architecture prevents cross-contamination in ways a simple second number cannot.
 
 Numbers are US and Canada only. They are VoIP-based, which means they carry verification risk on strict platforms — the same limitation as Google Voice applies. For banking 2FA or Tinder signup specifically, VoIP blocking is a real risk.
 

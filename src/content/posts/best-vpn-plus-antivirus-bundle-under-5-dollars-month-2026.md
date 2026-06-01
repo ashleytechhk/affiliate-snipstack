@@ -190,7 +190,7 @@ Norton 360 Standard's first-year promotional price is typically $39–49. The st
 
 For a brief window — the time between uninstalling Norton and completing [Surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) activation — real-time antivirus is not active. Keep your browser closed and avoid downloading files during that window. Following the four-step process above keeps the gap to under five minutes. [Windows Defender](https://snipstack.io/windows-defender-download-2026/) Firewall remains active throughout the transition.
 
-### Is there a money-back option if Surfshark One does not work for me?
+### Is there a money-back option if [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) does not work for me?
 
 Surfshark offers a refund period on paid plans — verify the current terms on the pricing page before purchasing, as these are subject to change. The refund window gives you enough time to test the VPN performance, run the antivirus scan, and confirm the product does what you need before committing long-term.
 
