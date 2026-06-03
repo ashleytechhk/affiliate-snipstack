@@ -63,7 +63,7 @@ The unfiltered resolver gives you AdGuard's DNS infrastructure — DoT/DoH encry
 - **DoH URL:** `https://unfiltered.adguard-dns.com/dns-query`
 - **Plain IP (unencrypted fallback):** `94.140.14.140` / `94.140.14.141`
 
-Who needs this? Power users running their own local ad blocking (Pi-hole, AdGuard Home, [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/)) who want a fast, privacy-respecting upstream resolver without double-filtering. You get the privacy benefits of encrypted DNS without delegating content decisions to AdGuard's remote block lists.
+Who needs this? Power users running their own local ad blocking (Pi-hole, [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/), [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/)) who want a fast, privacy-respecting upstream resolver without double-filtering. You get the privacy benefits of encrypted DNS without delegating content decisions to AdGuard's remote block lists.
 
 ---
 

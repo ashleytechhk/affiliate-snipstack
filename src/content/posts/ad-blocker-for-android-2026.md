@@ -90,7 +90,7 @@ But again: the browser is the ceiling. Switch to any other app and you're unprot
 
 For users who want maximum control without a subscription, combining Android's Private DNS feature with a self-hosted filtering resolver (Pi-hole via Tailscale, for example) is a legitimate option. You get custom blocklists, query logs, and no recurring cost after the initial server setup.
 
-The setup complexity is real: you need a server, Tailscale or similar to route mobile traffic, Pi-hole or AdGuard Home installed, and ongoing maintenance when filter lists go stale. For most users, the time cost outweighs the savings.
+The setup complexity is real: you need a server, Tailscale or similar to route mobile traffic, Pi-hole or [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) installed, and ongoing maintenance when filter lists go stale. For most users, the time cost outweighs the savings.
 
 This approach also has the DNS ceiling problem — it won't catch ads served from first-party domains or paths that share a domain with legitimate content.
 

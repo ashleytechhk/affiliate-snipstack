@@ -153,7 +153,7 @@ When an alias becomes a spam source, you turn it off. The recruiter who bought t
 - One-click alias disabling when an address gets abused
 - No DNS or domain management required
 - Works with any existing email provider
-- Part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle — combines with VPN, antivirus, and Alt-Number
+- Part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle — combines with VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and Alt-Number
 
 **Weaknesses:**
 - Aliases are not the same as your professional identity, so you will need to update profiles when you rotate
@@ -170,11 +170,11 @@ Other [email alias](https://snipstack.io/email-alias-for-ecommerce-returns-track
 
 Where Alt-ID differentiates:
 
-- **Bundled value:** Alt-ID is included in Surfshark One, which also covers [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/). If you are already paying for privacy tools separately, the bundle often works out cheaper than stacking subscriptions.
+- **Bundled value:** Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which also covers [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/). If you are already paying for privacy tools separately, the bundle often works out cheaper than stacking subscriptions.
 - **Simplicity:** The interface is built for non-technical users. You do not need to manage DNS records or configure SMTP.
 - **Surfshark ecosystem:** If you already use Surfshark VPN, adding Alt-ID requires no new account, no new payment method, and no separate app.
 
-If you only want [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)ing and nothing else, standalone tools like SimpleLogin are worth evaluating. If you want a full privacy toolkit under one subscription, Alt-ID inside Surfshark One makes more financial sense.
+If you only want [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)ing and nothing else, standalone tools like SimpleLogin are worth evaluating. If you want a full privacy toolkit under one subscription, Alt-ID inside [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) makes more financial sense.
 
 ---
 

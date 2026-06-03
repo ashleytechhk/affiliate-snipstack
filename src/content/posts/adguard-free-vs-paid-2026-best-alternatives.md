@@ -161,7 +161,7 @@ Brave compiles ad blocking directly into the browser engine. Manifest V3 restric
 
 ---
 
-### 4. Pi-hole / AdGuard Home (Self-Hosted) — Best for Technical Users
+### 4. Pi-hole / [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) (Self-Hosted) — Best for Technical Users
 
 For users comfortable managing a home server, AdGuard Home is a free, self-hosted DNS-level blocker that gives you the same network-wide coverage as AdGuard DNS Premium — for free, with full control over your blocklists, statistics, and rules.
 

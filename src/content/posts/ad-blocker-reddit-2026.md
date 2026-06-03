@@ -90,7 +90,7 @@ For iOS users who spend most of their browsing time in Safari, 1Blocker is the R
 
 ## 7. Private DNS + VPN Combo (Manual Setup) — For Technical Redditors
 
-The highest-upvoted "ultimate solution" threads in r/selfhosted and r/homelab land on some version of this: run Pi-hole or AdGuard Home on a home server, expose it via Tailscale, and point your phone's DNS to it. You get custom blocklists, full query logs, and zero recurring cost after setup.
+The highest-upvoted "ultimate solution" threads in r/selfhosted and r/homelab land on some version of this: run Pi-hole or [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) on a home server, expose it via Tailscale, and point your phone's DNS to it. You get custom blocklists, full query logs, and zero recurring cost after setup.
 
 It works, and r/privacy regulars who run this setup genuinely prefer it. The complexity cost is real: you need a server (even a Raspberry Pi), Tailscale or similar to reach it from mobile, and ongoing maintenance as ad networks evolve. The DNS ceiling still applies — first-party ad serving on shared domains bypasses it.
 

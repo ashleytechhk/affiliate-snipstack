@@ -75,7 +75,7 @@ The limitation is structural: DNS works per domain. If an ad is served from the 
 | iOS config profile | Yes | Yes |
 | No-log policy | Yes | Yes |
 | Family / safe-search mode | Yes (configurable) | Yes (separate hostname) |
-| Self-hosted option | No | Yes (AdGuard Home) |
+| Self-hosted option | No | Yes ([AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/)) |
 | Pricing (paid) | Low monthly fee | DNS Personal plan |
 
 **Setup vs. control:** AdGuard DNS wins on simplicity — one universal hostname, no account. NextDNS wins on customization — mix-and-match block lists, CNAME cloaking detection, per-device rules, and a full query log. Pick the one that matches how much you want to manage.

@@ -116,7 +116,7 @@ Disable Acceptable Ads immediately if you install this.
 
 ---
 
-### 6. Pi-hole / AdGuard Home (Router-Level) — Best for Technical Users
+### 6. Pi-hole / [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) (Router-Level) — Best for Technical Users
 
 For users comfortable with networking, running Pi-hole or AdGuard Home on a local server or router creates DNS-level blocking for your entire household — similar to what Surfshark CleanWeb does, but self-hosted. Every device on your network gets ad blocking without any app or extension.
 

@@ -130,7 +130,7 @@ For a mobile power-user who cares about account security and device safety, this
 
 **You want free filtering and accept some degradation over time:** NextDNS or AdGuard DNS as Private DNS. Good initial coverage, manual maintenance required to stay effective.
 
-**You are primarily on home Wi-Fi:** Router-level DNS filtering (Pi-hole, AdGuard Home) handles most ad domains network-wide. Does not cover cellular connections — if you listen on mobile data in transit, you need a solution that travels with the phone.
+**You are primarily on home Wi-Fi:** Router-level DNS filtering (Pi-hole, [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/)) handles most ad domains network-wide. Does not cover cellular connections — if you listen on mobile data in transit, you need a solution that travels with the phone.
 
 ---
 

@@ -242,7 +242,7 @@ For households wanting ad blocking across many devices without per-device licens
 
 ### Can I use AdGuard on my smart TV?
 
-AdGuard's apps do not have a dedicated smart TV version. Some users configure AdGuard Home (AdGuard's self-hosted DNS solution, which is free and open-source) at the router level to cover smart TVs and other devices. This requires more technical setup. DNS-level VPN-based solutions like Surfshark CleanWeb cover smart TVs through the VPN app installed on the TV or through router-level configuration.
+AdGuard's apps do not have a dedicated smart TV version. Some users configure [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) (AdGuard's self-hosted DNS solution, which is free and open-source) at the router level to cover smart TVs and other devices. This requires more technical setup. DNS-level VPN-based solutions like Surfshark CleanWeb cover smart TVs through the VPN app installed on the TV or through router-level configuration.
 
 ---
 

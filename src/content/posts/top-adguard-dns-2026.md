@@ -84,7 +84,7 @@ The practical difference: on a major news site, DNS alone typically removes ~60%
 
 ---
 
-### 6. Custom AdGuard DNS via AdGuard Home (Self-Hosted)
+### 6. Custom AdGuard DNS via [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) (Self-Hosted)
 
 **Best for: tech-savvy users who want full control over block lists and logs**
 

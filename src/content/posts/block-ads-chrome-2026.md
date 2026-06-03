@@ -156,7 +156,7 @@ Not sure which approach fits you? Use this:
 → Brave Browser. Same rendering engine, native Shields blocker, no extension required.
 
 **Do you want free, no-subscription ad blocking across your whole network at home?**
-→ Pi-hole or AdGuard Home (router-level DNS blocking). Requires some technical setup but covers every device on your home network with no ongoing cost.
+→ Pi-hole or [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) (router-level DNS blocking). Requires some technical setup but covers every device on your home network with no ongoing cost.
 
 ---
 

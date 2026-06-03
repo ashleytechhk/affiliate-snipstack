@@ -94,7 +94,7 @@ The limitation is obvious: it only works when you're home. On cellular or away f
 
 ---
 
-### 7. AdGuard Home Self-Hosted — Full Control for Power Users
+### 7. [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/) Self-Hosted — Full Control for Power Users
 
 **Best for: technically minded users who want complete visibility into DNS traffic**
 
