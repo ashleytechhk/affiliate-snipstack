@@ -52,7 +52,7 @@ But the product has changed significantly. AVG was acquired by Avast in 2016, an
 - Protection from fake and dangerous websites (phishing protection requires paid plan)
 - Email link scanning
 - Identity alerts if your data is leaked
-- Ransomware protection (files being locked and held for ransom)
+- [Ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/) (files being locked and held for ransom)
 
 The result is a product that looks like full antivirus protection but leaves serious gaps — gaps that scammers know how to exploit.
 

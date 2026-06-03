@@ -99,7 +99,7 @@ Here is what quality antivirus protection should do for your home media server s
 
 The software watches every file that arrives on your device. If anything looks dangerous, it stops it immediately — before it can cause damage. You do not need to remember to run a scan. It runs constantly in the background.
 
-### Ransomware protection
+### [Ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/)
 
 Ransomware is the type of attack most likely to hit a media server. Good antivirus recognizes the patterns ransomware uses — like suddenly trying to encrypt hundreds of files at once — and blocks it before your files are locked.
 

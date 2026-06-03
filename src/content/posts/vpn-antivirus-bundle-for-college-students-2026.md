@@ -87,7 +87,7 @@ Buying [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) 
 
 ### Antivirus
 
-Real-time malware scanning, ransomware protection, and scheduled scans. Lightweight enough to run in the background without tanking performance on a student laptop. No ads. No nag screens pushing you to upgrade to a tier you do not need.
+Real-time malware scanning, [ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/), and scheduled scans. Lightweight enough to run in the background without tanking performance on a student laptop. No ads. No nag screens pushing you to upgrade to a tier you do not need.
 
 ### VPN (Surfshark)
 

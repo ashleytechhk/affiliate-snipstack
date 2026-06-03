@@ -49,7 +49,7 @@ Trend Micro is a Japanese cybersecurity company founded in 1988. Its consumer pr
 **What Trend Micro does well:**
 - Strong scores in independent lab tests for catching known viruses and malware
 - Web threat protection that warns you before you land on a dangerous site
-- Ransomware protection (ransomware locks your files and demands payment to unlock them)
+- [Ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/) (ransomware locks your files and demands payment to unlock them)
 - Email scanning that flags suspicious messages
 
 **What Trend Micro does not include (in most plans):**

@@ -77,7 +77,7 @@ The table below compares what you get with Windows Defender by itself versus pai
 | Feature | Windows Defender (Free) | Defender + [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
 |---|---|---|
 | Antivirus / Malware Scanning | Yes | Yes (dual-layer) |
-| Ransomware Protection | Basic | Yes |
+| [Ransomware Protection](https://snipstack.io/ransomware-protection-for-small-business-2026/) | Basic | Yes |
 | Firewall | Yes | Yes |
 | [VPN for Public](https://snipstack.io/vpn-for-public-wifi-security-2026/) Wi-Fi | No | Yes (unlimited) |
 | Dark Web / Data Breach Alerts | No | Yes |

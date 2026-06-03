@@ -56,7 +56,7 @@ Surfshark's antivirus engine, powered by independent lab-tested tech, performs c
 Three things buried in Avast's privacy documentation that matter:
 
 1. **Data collection for advertising.** Avast's free product historically shared anonymized (but often re-identifiable) browsing data with third-party advertisers. After a 2020 FTC settlement, Avast updated its practices — but the opt-out remains non-obvious.
-2. **Feature gating.** Ransomware protection, advanced firewall, and webcam shield all sit behind Avast Premium or Avast One paid plans. You will see prompts for them constantly.
+2. **Feature gating.** [Ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/), advanced firewall, and webcam shield all sit behind Avast Premium or Avast One paid plans. You will see prompts for them constantly.
 3. **One device only.** The free license covers a single device. Family coverage costs extra.
 
 If you are running a household with a few machines, "free" stops being free very quickly.

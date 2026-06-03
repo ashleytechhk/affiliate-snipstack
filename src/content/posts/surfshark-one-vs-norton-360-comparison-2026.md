@@ -73,7 +73,7 @@ What it does not have: a long track record. If you have been using Norton for fi
 
 ### [Norton 360 Antivirus](https://snipstack.io/norton-360-antivirus-2026/)
 
-This is where Norton genuinely shines. Consistently top-tier detection rates from AV-TEST and AV-Comparatives, ransomware protection, browser protection, and a history of catching zero-day threats early. If raw antivirus performance is your single deciding factor, Norton earns its reputation.
+This is where Norton genuinely shines. Consistently top-tier detection rates from AV-TEST and AV-Comparatives, [ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/), browser protection, and a history of catching zero-day threats early. If raw antivirus performance is your single deciding factor, Norton earns its reputation.
 
 The trade-off is performance overhead. Norton's scans are thorough — and they let you know it. Slower boot times and high CPU usage during scans are common complaints, especially on older hardware.
 

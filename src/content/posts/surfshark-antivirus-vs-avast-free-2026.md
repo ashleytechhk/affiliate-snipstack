@@ -57,7 +57,7 @@ Here is what you get with the free version:
 
 Here is what you do not get — and what matters:
 
-- **No ransomware protection shield** (in the free tier)
+- **No [ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/) shield** (in the free tier)
 - **No webcam or microphone monitoring** (paid only)
 - **No data breach alerts** for your email address or passwords
 - **No VPN** for public Wi-Fi safety

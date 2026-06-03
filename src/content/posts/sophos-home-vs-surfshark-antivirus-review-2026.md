@@ -51,7 +51,7 @@ Sophos is a well-respected cybersecurity company that has protected businesses f
 - Real-time protection that scans files as you open them
 - Blocks malicious websites before they load in your browser
 - Remotely manage protection on family members' computers from one dashboard (useful for adult children helping parents)
-- Ransomware protection — defends your files against the type of attack that locks everything and demands payment
+- [Ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/) — defends your files against the type of attack that locks everything and demands payment
 - Clean, simple dashboard that shows protection status clearly
 - Sophos Home Free tier covers one computer at no charge
 
