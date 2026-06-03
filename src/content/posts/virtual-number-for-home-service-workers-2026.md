@@ -142,7 +142,7 @@ Anyone who calls or texts that number after you disable it will not reach you. F
 **[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number an add-on I have to pay for separately?**
 Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside the Alt-ID [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) tool. No separate purchase is needed. **[See current plans and pricing here](/blog/altnumber?sub=virtual-number-for-home-service-workers-2026__faq)**.
 
-**Is using a virtual number on dating apps allowed?**
+**Is using a [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/) on dating apps allowed?**
 Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-personal-use-2026/) is legal. Whether it complies with a specific platform's terms of service depends on that platform's policies. Review the terms of any app you use. Surfshark's own Terms of Service require that Alt-Number not be used to violate other platforms' rules or applicable law.
 
 ---

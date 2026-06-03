@@ -124,7 +124,7 @@ Yes, but with reduced antivirus functionality. Apple's iOS platform restricts wh
 
 Surfshark Starter includes the VPN only (plus CleanWeb and a few core VPN tools). [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) adds antivirus, Alert breach monitoring, Alternative ID masked email, and private search. The price difference on a long-term plan is small — typically around $1/month. For a household of four people with multiple email addresses in circulation, the Alert monitoring alone often justifies the upgrade. [See the current price comparison here.](/blog/one?sub=surfshark-one-for-family-of-four-review-2026__faq)
 
-### Does Surfshark One cover smart TVs?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) cover smart TVs?
 
 The VPN works on Android TV and Amazon Fire TV, enabling geo-based streaming access. The antivirus does not run on smart TV operating systems. For standard household use, the VPN coverage on smart TVs is the only feature you need from a [security bundle](https://snipstack.io/security-bundle-for-freelancers-tax-season-2026/) — TVs face different threat vectors than computers and phones.
 

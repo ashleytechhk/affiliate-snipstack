@@ -159,7 +159,7 @@ Yes — [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-20
 If you cancel through the App Store, your Norton subscription remains active until the end of the current paid period — you do not lose coverage immediately. Cancel as soon as [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) is active and running on your device so you are not double-paying for overlapping protection.
 
 **Is [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) Bundle available globally?**
-Surfshark One Bundle is available in most major markets. Availability and pricing vary by region — verify at checkout. The iOS app is available in the App Store across most territories.
+[Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) Bundle is available in most major markets. Availability and pricing vary by region — verify at checkout. The iOS app is available in the App Store across most territories.
 
 ---
 

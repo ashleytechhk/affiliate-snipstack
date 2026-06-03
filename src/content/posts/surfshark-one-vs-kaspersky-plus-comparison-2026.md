@@ -144,7 +144,7 @@ On promotional pricing, both products land in a similar range. The differences s
 
 **Renewal predictability.** Surfshark's renewal pricing is relatively consistent compared to the Norton-style surprise that many users fled. Kaspersky is not currently selling new plans in the US, so renewal is not a live question for most Western readers.
 
-**Total cost of bundle.** Surfshark One includes VPN, antivirus, breach monitoring, and private search. To replicate that with Kaspersky Plus you would still need to add a private search tool separately. The gap narrows when you account for what each bundle actually delivers.
+**Total cost of bundle.** [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) includes VPN, antivirus, breach monitoring, and private search. To replicate that with Kaspersky Plus you would still need to add a private search tool separately. The gap narrows when you account for what each bundle actually delivers.
 
 [**See Surfshark One's current pricing and available plans**](/blog/one?sub=surfshark-one-vs-kaspersky-plus-comparison-2026__cta)
 

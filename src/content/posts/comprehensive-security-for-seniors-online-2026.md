@@ -172,7 +172,7 @@ Surfshark Alert monitors email addresses and credentials against known breach da
 
 ### Can [Surfshark ONE](https://snipstack.io/surfshark-one-review-reddit-2026/) replace a McAfee subscription for someone who mainly cares about safe browsing?
 
-Yes. For a user whose primary concern is not clicking phishing links, not landing on fake websites, and keeping a device free of malware — Surfshark ONE covers all three. CleanWeb handles dangerous URLs at the DNS level. The antivirus handles file-based malware. McAfee's base plan handles similar scope but without a VPN, with more notification noise, and at a higher long-term cost.
+Yes. For a user whose primary concern is not clicking phishing links, not landing on fake websites, and keeping a device free of malware — [Surfshark ONE](https://snipstack.io/surfshark-one-pricing-changes-2026/) covers all three. CleanWeb handles dangerous URLs at the DNS level. The antivirus handles file-based malware. McAfee's base plan handles similar scope but without a VPN, with more notification noise, and at a higher long-term cost.
 
 ---
 

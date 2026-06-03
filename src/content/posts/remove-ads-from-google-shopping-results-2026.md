@@ -50,7 +50,7 @@ If you exclusively use Firefox on Android, this is a free option worth trying. B
 
 ### 2. DNS-Based Blocking (Better, But Setup Required)
 
-DNS blockers intercept ad-serving domain requests at the network level. Apps like AdGuard DNS or NextDNS run as a local VPN profile on your device, routing DNS queries through a filter list that blocks known ad domains.
+DNS blockers intercept ad-serving domain requests at the network level. Apps like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) or NextDNS run as a local VPN profile on your device, routing DNS queries through a filter list that blocks known ad domains.
 
 This approach is more effective than browser extensions because it covers all apps and browsers. The downside: it requires setting up a custom DNS configuration or installing a dedicated app, and the filter lists need regular updates to stay effective against new Google ad domains.
 
@@ -68,7 +68,7 @@ Because CleanWeb runs as part of the VPN tunnel, it works across every browser, 
 
 ## Setting Up CleanWeb on Your Phone: Step by Step
 
-Getting Surfshark CleanWeb running on iOS or Android takes under two minutes.
+Getting [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) running on iOS or Android takes under two minutes.
 
 **On Android:**
 
@@ -143,7 +143,7 @@ The free alternatives are worth trying if budget is the primary concern. But for
 
 **Q: Can I remove ads from Google Shopping results without installing anything?**
 
-Not reliably on mobile. You can use Firefox with uBlock Origin on Android, but this only covers the Firefox browser. System-wide ad blocking on mobile requires either a DNS-based solution or a [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in blocking like CleanWeb. [See how CleanWeb works →](/blog/adblock?sub=remove-ads-from-google-shopping-results-2026__faq)
+Not reliably on mobile. You can use Firefox with [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) on Android, but this only covers the Firefox browser. System-wide ad blocking on mobile requires either a DNS-based solution or a [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in blocking like CleanWeb. [See how CleanWeb works →](/blog/adblock?sub=remove-ads-from-google-shopping-results-2026__faq)
 
 **Q: Does this work on iPhone (iOS)?**
 

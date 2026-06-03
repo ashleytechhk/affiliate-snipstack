@@ -178,7 +178,7 @@ Yes — and this is one of the most popular use cases. Most Android devices supp
 
 ## Final Word
 
-The gap between "I want to stay safe" and "I actually do something about it" is usually friction. Virtual numbers for WhatsApp have essentially eliminated that friction — setup takes minutes, costs are low, and the protection is real.
+The gap between "I want to stay safe" and "I actually do something about it" is usually friction. [Virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/)s for WhatsApp have essentially eliminated that friction — setup takes minutes, costs are low, and the protection is real.
 
 For online daters, the calculus is simple: the cost of a bad actor getting your real number is high and largely irreversible. The cost of a virtual number is a few dollars a month and five minutes of setup.
 

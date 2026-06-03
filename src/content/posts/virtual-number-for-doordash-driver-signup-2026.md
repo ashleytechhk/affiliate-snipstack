@@ -142,7 +142,7 @@ Anyone who calls or texts that number after you disable it will not reach you. F
 
 Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside the Alt-ID [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) tool. No separate purchase or add-on fee is needed. **[See current plans here](/blog/altnumber?sub=virtual-number-for-doordash-driver-signup-2026__faq)**.
 
-**Does a virtual number work for app verification when signing up for dating apps?**
+**Does a [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/) work for app verification when signing up for dating apps?**
 
 Virtual numbers that receive SMS can typically receive verification texts from apps. Surfshark Alt-Number receives SMS, which covers most standard app verification flows. A small number of platforms attempt to filter known VoIP number ranges — for those cases, check the app's specific requirements.
 

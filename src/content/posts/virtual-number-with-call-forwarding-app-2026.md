@@ -134,7 +134,7 @@ Not quite. A [burner phone](https://snipstack.io/free-burner-number-app-2026/) i
 
 It depends on the number type. VoIP numbers are commonly rejected by major dating apps at the verification step. Alt-Number uses real mobile numbers rather than VoIP, which means verification codes typically go through on supported countries. Test with one app before making it your standard setup, since individual app behavior can vary. [Alt-Number works for dating app verification](/blog/altnumber?sub=virtual-number-with-call-forwarding-app-2026__faq) on the platforms most users care about.
 
-**Can someone find my real number if I use a virtual number?**
+**Can someone find my real number if I use a [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/)?**
 
 If you only ever share the virtual number, your real number stays out of the chain. The virtual number does not appear in carrier databases as a link to your real account. People-search sites that index phone numbers will find the virtual number — not your real one. The protection depends on consistently using the virtual number and not accidentally sharing your real one.
 

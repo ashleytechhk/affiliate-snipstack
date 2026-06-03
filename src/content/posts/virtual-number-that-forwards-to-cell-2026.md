@@ -153,7 +153,7 @@ If you give a match your real number and things go well, you got lucky. The real
 
 If you give a match your real number and things go badly, you are in the reactive mode: blocking one account at a time, hoping they do not look up your address, checking people-search sites to see what is findable about you, and living with a connection you cannot fully close.
 
-A virtual number that forwards to cell costs nothing extra on a Surfshark plan and takes ten minutes to set up. The asymmetry between these two scenarios is large enough that delaying the setup is the only real risk.
+A [virtual number that](https://snipstack.io/virtual-number-that-expires-after-use-2026/) forwards to cell costs nothing extra on a Surfshark plan and takes ten minutes to set up. The asymmetry between these two scenarios is large enough that delaying the setup is the only real risk.
 
 [Get Surfshark Alt-Number — real call forwarding, real mobile number, none of your real identity.](/blog/altnumber?sub=virtual-number-that-forwards-to-cell-2026__cta)
 

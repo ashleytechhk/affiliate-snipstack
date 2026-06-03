@@ -173,7 +173,7 @@ Use [Surfshark One for](https://snipstack.io/surfshark-one-for-family-of-four-re
 
 ### Does switching from Norton or McAfee to [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) require any technical setup?
 
-Not significantly. Uninstall your existing suite using its official uninstaller (or via Add/Remove Programs on Windows), restart, then install Surfshark One. The process takes under 15 minutes. If you've been using Norton Family or McAfee Safe Family's parental controls, you'll want to set up your device's native parental controls before uninstalling.
+Not significantly. Uninstall your existing suite using its official uninstaller (or via Add/Remove Programs on Windows), restart, then install [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/). The process takes under 15 minutes. If you've been using Norton Family or McAfee Safe Family's parental controls, you'll want to set up your device's native parental controls before uninstalling.
 
 ---
 

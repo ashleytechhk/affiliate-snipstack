@@ -144,7 +144,7 @@ Both products participate in independent security testing, though Surfshark's an
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) work on Mac and iOS?
 
-Yes. Surfshark One supports Windows, Mac, iOS, Android, and Linux. The antivirus component covers Windows and Mac; the VPN and privacy tools run across all supported platforms.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) supports Windows, Mac, iOS, Android, and Linux. The antivirus component covers Windows and Mac; the VPN and privacy tools run across all supported platforms.
 
 ### What is the difference between Surfshark One and Surfshark One+?
 

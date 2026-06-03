@@ -45,7 +45,7 @@ Using a dedicated alias for each legal signup isolates the blast radius. If a se
 | Custom domains | No | Yes (paid) | No | No |
 | Disable alias instantly | Yes | Yes | Yes | No |
 | Works outside Apple ecosystem | Yes | Yes | No | Yes |
-| Bundled with other privacy tools | Yes (VPN + Antivirus) | No | Yes (iCloud+) | Limited |
+| Bundled with other privacy tools | Yes (VPN + [Antivirus](https://snipstack.io/vs-antivirus-2026/)) | No | Yes (iCloud+) | Limited |
 | Price (standalone) | Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Free / $4/mo paid | Included in iCloud+ | Free |
 | No-log alias activity | Yes | Yes | Yes | Yes |
 | Mobile app | Yes | Yes | Yes | Extension only |

@@ -149,7 +149,7 @@ Surfshark's tools are built with a deliberately light footprint. In practical te
 
 Unlimited. One subscription covers every device you own — Windows, Mac, iOS, Android, Linux, Android TV, and Fire TV — all running simultaneously under one account. There is no device cap. Norton 360 Standard covers one device for its VPN; McAfee Total Protection covers up to five. If you have a household, [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/)'s unlimited policy is a meaningful practical advantage.
 
-### Is there a trial or refund period for Surfshark One?
+### Is there a trial or refund period for [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/)?
 
 Surfshark offers a refund window on paid plans — check the current terms on the pricing page before purchasing, as these are subject to change. There is no permanent free tier. The refund period is sufficient to run the tools through their paces and verify the VPN unblocks any services you rely on. [See current terms here.](/blog/one?sub=surfshark-one-plan-comparison-2026__faq)
 

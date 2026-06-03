@@ -169,7 +169,7 @@ Yes. Trend Micro is a well-established cybersecurity company with over 35 years 
 
 ### Do seniors really need a VPN, or is that just for tech people?
 
-A VPN is useful for anyone who ever connects to WiFi outside their home — at a coffee shop, library, airport, hotel, or medical office. Without a VPN, other people on the same WiFi network can potentially intercept what you type, including passwords and banking details. Surfshark One makes turning on VPN protection as simple as flipping a single switch. You do not need to understand how it works to benefit from it.
+A VPN is useful for anyone who ever connects to WiFi outside their home — at a coffee shop, library, airport, hotel, or medical office. Without a VPN, other people on the same WiFi network can potentially intercept what you type, including passwords and banking details. [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) makes turning on VPN protection as simple as flipping a single switch. You do not need to understand how it works to benefit from it.
 
 ### Can I use Surfshark One on my iPad or iPhone?
 

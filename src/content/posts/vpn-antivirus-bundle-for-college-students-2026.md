@@ -165,7 +165,7 @@ This is where the comparison becomes clear. Norton and McAfee's introductory pri
 
 ### Can I share a [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) subscription with a roommate?
 
-Surfshark One covers unlimited devices simultaneously on a single subscription. There is no technical restriction on using the subscription across multiple people's devices. Whether you share login credentials is a terms of service question — review the terms before doing so. That said, the unlimited device policy is one of the reasons it is popular in shared living situations.
+[Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) covers unlimited devices simultaneously on a single subscription. There is no technical restriction on using the subscription across multiple people's devices. Whether you share login credentials is a terms of service question — review the terms before doing so. That said, the unlimited device policy is one of the reasons it is popular in shared living situations.
 
 ---
 

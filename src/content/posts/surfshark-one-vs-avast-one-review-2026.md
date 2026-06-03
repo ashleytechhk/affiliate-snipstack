@@ -131,7 +131,7 @@ Not on all tiers. Avast One's base and individual plans include VPN with limitat
 
 ### Is [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) antivirus as good as dedicated antivirus programs?
 
-Surfshark One's antivirus is designed for standard consumer threat protection: real-time malware scanning, ransomware detection, phishing URL blocking, and on-demand scans. For typical home and small business use cases, it handles the same threats you'd face with Norton or McAfee. Specialist users running financial systems or healthcare workstations may want dedicated enterprise AV solutions instead.
+[Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/)'s antivirus is designed for standard consumer threat protection: real-time malware scanning, ransomware detection, phishing URL blocking, and on-demand scans. For typical home and small business use cases, it handles the same threats you'd face with Norton or McAfee. Specialist users running financial systems or healthcare workstations may want dedicated enterprise AV solutions instead.
 
 ### What happened with Avast and user data in 2020?
 

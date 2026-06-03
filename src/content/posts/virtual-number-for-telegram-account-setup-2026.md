@@ -121,7 +121,7 @@ There are multiple [virtual number](https://snipstack.io/virtual-number-for-inte
 
 ## Frequently Asked Questions
 
-**Does Telegram accept virtual numbers for account setup?**
+**Does Telegram accept [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/)s for account setup?**
 Yes, with an important qualifier: Telegram rejects many VoIP numbers from free services, but accepts carrier-backed virtual numbers like those from [Surfshark Alt-Number](/blog/altnumber?sub=virtual-number-for-telegram-account-setup-2026__faq). If you have tried a free VoIP number and received an error or never got the verification SMS, the fix is switching to a carrier-backed number.
 
 **Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) create a second Telegram account?**

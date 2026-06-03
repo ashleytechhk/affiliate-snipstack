@@ -160,7 +160,7 @@ McAfee subscriptions are typically non-refundable after the initial return windo
 
 ### Is the VPN in [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) the same as the standalone Surfshark VPN?
 
-Yes — the VPN included in Surfshark One uses the same infrastructure, server network, and protocols (including WireGuard) as the standalone Surfshark VPN product. The servers cover 100+ countries, and CleanWeb ad blocking is included. There is no capability difference between the bundled VPN in Surfshark One and the standalone product.
+Yes — the VPN included in [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) uses the same infrastructure, server network, and protocols (including WireGuard) as the standalone Surfshark VPN product. The servers cover 100+ countries, and CleanWeb ad blocking is included. There is no capability difference between the bundled VPN in Surfshark One and the standalone product.
 
 ---
 

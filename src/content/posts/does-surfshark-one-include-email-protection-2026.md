@@ -151,7 +151,7 @@ Yes. Once you register your email addresses in the Alert tab and verify each one
 HaveIBeenPwned is a one-time check against its current database. Alert monitors ongoing — when a new breach surfaces that includes your address, you are notified. You do not have to remember to recheck. For most users, the difference is catching a breach days after it is indexed rather than months or years later when you happen to remember to check.
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) protect me from phishing emails?**
-Directly inside an email client, no — Surfshark One does not install a mail plugin or scan attachments. The VPN's CleanWeb feature blocks known malicious domains at the DNS level, so if a phishing link tries to load in your browser, CleanWeb often intercepts it. For phishing links in email, the protection applies once you click — not at the inbox level.
+Directly inside an email client, no — [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) does not install a mail plugin or scan attachments. The VPN's CleanWeb feature blocks known malicious domains at the DNS level, so if a phishing link tries to load in your browser, CleanWeb often intercepts it. For phishing links in email, the protection applies once you click — not at the inbox level.
 
 **How many email addresses can I monitor with Alert?**
 Surfshark One supports multiple email addresses in Alert. The exact number depends on the plan tier — check current plan details on the pricing page before purchasing.

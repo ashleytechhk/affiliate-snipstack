@@ -195,7 +195,7 @@ It is a full [security suite](https://snipstack.io/security-suite-for-unlimited-
 
 ### Can I add Incogni to [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/)?
 
-Incogni — the automated data broker removal service — is not included in Surfshark One. It comes with Surfshark One+, the next tier up. You can also add it separately.
+Incogni — the automated data broker removal service — is not included in [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/). It comes with Surfshark One+, the next tier up. You can also add it separately.
 
 ### Does Surfshark One work on unlimited devices?
 

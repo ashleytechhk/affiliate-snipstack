@@ -131,7 +131,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) cov
 
 [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) provides real-time malware protection and achieves strong detection rates in independent lab testing. Norton and McAfee have longer track records in antivirus detection benchmarks, and for users whose primary concern is raw malware detection rate rather than the bundle value, they remain solid options. For most everyday users, Surfshark's detection performance is more than adequate, and the lighter system footprint is a tangible trade-off benefit.
 
-### Will my price increase when I renew Surfshark One?
+### Will my price increase when I renew [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/)?
 
 Surfshark does not use the steep first-year discount / second-year renewal jump that Norton and McAfee are known for. Multi-year plan pricing is set at signup. When your plan expires, you renew at the then-current rate — which may change, but there's no deliberate bait-and-switch pricing structure built into the product. Check the current terms at checkout before committing.
 

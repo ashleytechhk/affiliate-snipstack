@@ -152,7 +152,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-revie
 
 ### Can I share [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) with family members?
 
-Yes. Surfshark One includes unlimited simultaneous connections, so every person in the household can run the full suite — VPN, antivirus, and alerts — on their own devices without needing separate accounts or licenses.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) includes unlimited simultaneous connections, so every person in the household can run the full suite — VPN, antivirus, and alerts — on their own devices without needing separate accounts or licenses.
 
 ### What is Surfshark Alert and is it worth using?
 
