@@ -60,7 +60,7 @@ These are the apps with a subscription model, a global server network, full-feat
 
 ### Category 4: Open-Source and Protocol-Level Apps
 
-Apps like OpenVPN for Android and WireGuard are open-source implementations of VPN protocols, not turnkey services. You need to provide your own server or connect to a third-party server configuration. These are technically transparent — the code is publicly auditable — but require meaningful setup effort.
+Apps like Open[VPN for Android](https://snipstack.io/vpn-for-android-tv-box-setup-2026/) and WireGuard are open-source implementations of VPN protocols, not turnkey services. You need to provide your own server or connect to a third-party server configuration. These are technically transparent — the code is publicly auditable — but require meaningful setup effort.
 
 **Who these are for:** Technical users who want to self-host or audit every layer.
 
