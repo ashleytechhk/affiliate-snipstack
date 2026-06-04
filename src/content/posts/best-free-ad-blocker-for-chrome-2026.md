@@ -157,7 +157,7 @@ CleanWeb is part of the Surfshark VPN — it is not a separate service. When you
 
 ### Does [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) affect website revenue / is it ethical?
 
-This is a genuine debate. Many sites rely on ad revenue. Some users whitelist sites they want to support. Most [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/)s, including CleanWeb, allow you to pause or whitelist individual sites. The decision is yours — the tools give you the control.
+This is a genuine debate. Many sites rely on ad revenue. Some users [whitelist sites](https://snipstack.io/whitelist-sites-in-ad-blocker-guide-2026/) they want to support. Most [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/)s, including CleanWeb, allow you to pause or whitelist individual sites. The decision is yours — the tools give you the control.
 
 ### Will these blockers work on [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s?
 

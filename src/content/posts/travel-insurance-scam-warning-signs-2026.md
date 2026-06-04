@@ -78,7 +78,7 @@ Look up the company name plus "license" or "complaints" in your government's fin
 
 ### Option 2: Call the Insurer Directly
 
-Find the company's phone number independently — not from the email or website you are checking — and call to verify the policy.
+Find the company's [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) independently — not from the email or website you are checking — and call to verify the policy.
 
 **Pros:** Definitive answer.
 **Cons:** Takes 15 to 30 minutes. Scammers sometimes set up call-forwarding numbers to intercept these checks.
@@ -111,7 +111,7 @@ Key features relevant to travel insurance scam checking:
 
 ---
 
-## Step-by-Step: What to Do When You Receive a Suspicious Travel Insurance Email
+## Step-by-Step: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) When You Receive a Suspicious Travel Insurance Email
 
 1. **Do not click any links or open any attachments.** Even previewing a PDF from an unknown sender can sometimes execute malicious code.
 2. **Copy the email or the suspicious link** and paste it into Surfshark Scam Checker for an instant verdict.

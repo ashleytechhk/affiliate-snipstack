@@ -104,7 +104,7 @@ This feature lets you route only specific apps through the VPN while others use 
 
 ## Free Alternatives and Their Limits
 
-Free VPNs exist, but they come with serious trade-offs for research use:
+[Free VPNs](https://snipstack.io/vs-free-vpns-2026/) exist, but they come with serious trade-offs for research use:
 
 **Data caps**: Most free VPNs cap monthly data at 500MB to 10GB. A single evening of downloading journal PDFs can consume several gigabytes.
 
@@ -112,7 +112,7 @@ Free VPNs exist, but they come with serious trade-offs for research use:
 
 **Slower speeds**: Free servers are shared across a large user base, resulting in noticeable slowdowns when downloading large files or accessing media-rich databases.
 
-**Privacy questions**: Free VPN providers often monetize through data collection and ad targeting — the opposite of what a researcher using a VPN for privacy would want.
+**Privacy questions**: Free [VPN providers](https://snipstack.io/vpn-providers-best-2026/) often monetize through data collection and ad targeting — the opposite of what a researcher using a VPN for privacy would want.
 
 For serious research workflows, a paid VPN with a proven privacy record is the practical choice. The annual cost of Surfshark is typically less than two or three paywalled article purchases, making it cost-effective even if you only use it occasionally.
 

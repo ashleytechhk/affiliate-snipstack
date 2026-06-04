@@ -18,7 +18,7 @@ This guide explains exactly what a Trojan is, how to spot one, and — most impo
 
 ## Quick Verdict
 
-A Trojan horse virus is one of the most dangerous types of malware targeting seniors today. The good news: if you catch it early and use a reliable antivirus tool, you can remove it without losing your files. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) offers real-time protection that scans your Windows 11 PC continuously, catches Trojans before they cause damage, and is simple enough for anyone to use — even with no technical background. Acting fast is the key; every hour a Trojan stays on your computer is another hour it can steal your passwords and personal information.
+A Trojan horse virus is one of the most dangerous types of malware targeting seniors today. The good news: if you catch it early and use a reliable [antivirus](https://snipstack.io/vs-antivirus-2026/) tool, you can remove it without losing your files. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) offers real-time protection that scans your Windows 11 PC continuously, catches Trojans before they cause damage, and is simple enough for anyone to use — even with no technical background. Acting fast is the key; every hour a Trojan stays on your computer is another hour it can steal your passwords and personal information.
 
 ---
 
@@ -32,7 +32,7 @@ Unlike a regular virus, a Trojan does not spread on its own. It needs you to inv
 
 **Common ways Trojans get onto your computer:**
 - An email attachment that claims to be a photo or document from a friend
-- A fake "Your computer has a virus!" warning that asks you to call a phone number
+- A fake "Your computer has a virus!" warning that asks you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)
 - A free software download from an unofficial website
 - A link in a text message or social media post
 
@@ -68,7 +68,7 @@ Before you do anything else, unplug your internet cable or turn off your Wi-Fi. 
 
 ### Step 2: Run Windows Security (the Built-In Scanner)
 
-Windows 11 comes with a free built-in scanner called Windows Security. Here's how to use it:
+Windows 11 comes with a free built-in scanner called Windows Security. Here's [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it:
 
 1. Click the **Start** button (the Windows logo in the bottom-left corner)
 2. Type **Windows Security** and press Enter
@@ -129,7 +129,7 @@ The single most effective protection is a good antivirus programme running at al
 
 ## What Makes a Good [Antivirus for](https://snipstack.io/antivirus-for-content-creators-youtube-channels-2026/) Seniors on Windows 11?
 
-Not all antivirus software is created equal. When choosing one, look for:
+Not all [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) is created equal. When choosing one, look for:
 
 **Simple interface.** You should be able to run a scan with one or two clicks, without navigating complex menus.
 
@@ -177,7 +177,7 @@ No. This is almost certainly a scam. Legitimate companies do not call you unsoli
 
 **Q: Can [Windows Defender](https://snipstack.io/windows-defender-download-2026/) alone protect me from Trojans?**
 
-Windows Defender (now called Windows Security) provides basic protection and is better than nothing. However, it is not as comprehensive as dedicated antivirus software. It can miss newer or more sophisticated Trojans. Using a dedicated programme alongside Windows Security gives you a much stronger layer of defence.
+Windows Defender (now called Windows Security) provides basic protection and is better than nothing. However, it is not as comprehensive as dedicated [antivirus software](https://snipstack.io/antivirus-software-2026/). It can miss newer or more sophisticated Trojans. Using a dedicated programme alongside Windows Security gives you a much stronger layer of defence.
 
 **Q: How do I know if the antivirus scan is finished?**
 

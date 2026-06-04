@@ -86,7 +86,7 @@ The free tier covers basic DNS-level blocking. The premium tier ($2–3/month) u
 
 **The most polished [ad blocker for](https://snipstack.io/ad-blocker-for-android-2026/) Safari on iPhone and iPad.**
 
-iOS has a unique advantage: Safari's Content Blocker API is well-supported and allows extensions to block requests efficiently without the MV3 limitations Chrome imposes. 1Blocker is the most refined Safari content blocker on the App Store. It ships with curated filter lists covering ads, trackers, social widgets, and cookie consent banners, and its interface makes it easy to whitelist sites or troubleshoot broken pages.
+iOS has a unique advantage: Safari's Content Blocker API is well-supported and allows extensions to block requests efficiently without the MV3 limitations Chrome imposes. 1Blocker is the most refined Safari content blocker on the App Store. It ships with curated filter lists covering ads, trackers, social widgets, and cookie consent banners, and its interface makes it easy to [whitelist sites](https://snipstack.io/whitelist-sites-in-ad-blocker-guide-2026/) or troubleshoot broken pages.
 
 Crucially, 1Blocker also blocks ads across all apps via a system-wide DNS layer — similar to the VPN-level approach — in its Pro tier. For iPhone-first users who browse primarily in Safari, 1Blocker delivers a noticeably cleaner experience with minimal setup. Its one limitation: it does not help if you use Chrome on iOS, since Chrome on iPhone uses WebKit and Safari extensions do not apply.
 
