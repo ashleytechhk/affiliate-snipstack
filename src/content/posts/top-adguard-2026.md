@@ -70,7 +70,7 @@ For mobile specifically, NextDNS ships configuration profiles for iOS and an And
 
 **Open-source and no-nonsense:** Blokada has been a staple of the Android ad-blocking scene for years. The free version uses the same local VPN trick as AdGuard to intercept traffic system-wide, drawing on community blocklists to filter ads and trackers. It requires no root, no sideloading, and is available directly from the Blokada website (the Play Store version is stripped-down due to Google's policies — get it from blokada.org for the full feature set).
 
-Battery usage is reasonable, the blocklist update cadence is solid, and the interface is clean enough that non-technical users can manage it. Blokada Cloud (paid) adds DNS-over-HTTPS filtering and syncing across devices. As a free, fully-featured system-wide blocker for Android, it is hard to beat. iOS users get a more limited experience here — the Blokada iOS app is DNS-only, which puts it closer to AdGuard DNS than the Android experience.
+Battery usage is reasonable, the [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/) cadence is solid, and the interface is clean enough that non-technical users can manage it. Blokada Cloud (paid) adds DNS-over-HTTPS filtering and syncing across devices. As a free, fully-featured system-wide blocker for Android, it is hard to beat. iOS users get a more limited experience here — the Blokada iOS app is DNS-only, which puts it closer to AdGuard DNS than the Android experience.
 
 ---
 

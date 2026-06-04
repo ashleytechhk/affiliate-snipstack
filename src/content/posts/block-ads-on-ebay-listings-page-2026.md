@@ -162,7 +162,7 @@ Yes. Because CleanWeb operates at the device's DNS layer rather than inside a sp
 
 ### Are there free alternatives to CleanWeb for blocking eBay ads on mobile?
 
-Free DNS services such as [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) (configured manually via your phone's network settings) offer partial coverage. The trade-offs: manual setup that resets when you change networks, slower blocklist update cycles, and no support if something breaks. For consistent, low-maintenance coverage that stays current, a maintained service like CleanWeb is the more reliable long-term option.
+Free DNS services such as [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) (configured manually via your phone's network settings) offer partial coverage. The trade-offs: manual setup that resets when you change networks, slower [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/) cycles, and no support if something breaks. For consistent, low-maintenance coverage that stays current, a maintained service like CleanWeb is the more reliable long-term option.
 
 ---
 

@@ -57,7 +57,7 @@ The practical differences:
 - DNS blocking cannot do cosmetic filtering (hiding empty ad containers in the page HTML)
 - DNS blocking is harder for websites to detect than browser extension fingerprints
 
-CleanWeb 2.0 (the current version as of 2026) expanded the blocklist from the original CleanWeb to include more tracker categories and malware domains, improved blocklist update frequency, and added explicit coverage for cookie consent pop-ups on some domains.
+CleanWeb 2.0 (the current version as of 2026) expanded the blocklist from the original CleanWeb to include more tracker categories and malware domains, improved [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/) frequency, and added explicit coverage for cookie consent pop-ups on some domains.
 
 ---
 

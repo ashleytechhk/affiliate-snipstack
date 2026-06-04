@@ -122,7 +122,7 @@ For most people reading this — smartphone-first, don't want to mess with APK i
 - Works on iOS where sideloading is restricted
 - VPN privacy layer included — useful beyond just [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/)
 - Unlimited device coverage on one subscription
-- Regular blocklist updates to keep pace with YouTube's ad changes
+- Regular [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s to keep pace with YouTube's ad changes
 
 ReVanced is the better free option if you're on Android and comfortable with sideloading. But for a plug-and-play solution that covers your whole phone, CleanWeb is the most practical choice in 2026.
 

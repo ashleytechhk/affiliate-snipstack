@@ -80,7 +80,7 @@ Surfshark's infrastructure includes both standard US servers and servers specifi
 
 ### Surfshark — Best Value for Peacock
 
-Surfshark is the top recommendation for cost-conscious Peacock users. It maintains US servers across 25+ cities and has invested in IP rotation infrastructure that keeps pace with Peacock's blocklist updates.
+Surfshark is the top recommendation for cost-conscious Peacock users. It maintains US servers across 25+ cities and has invested in IP rotation infrastructure that keeps pace with Peacock's [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s.
 
 The unlimited simultaneous connections policy is a genuine standout. One account covers every device you own — laptop, phone, tablet, and smart TV — at the same time. No device juggling, no extra fees.
 

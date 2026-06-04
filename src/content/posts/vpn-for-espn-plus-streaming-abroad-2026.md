@@ -82,7 +82,7 @@ Surfshark maintains both standard US servers and servers specifically tuned for 
 
 ### Surfshark — Best Value for ESPN+ Abroad
 
-Surfshark is the top pick for cost-focused ESPN+ subscribers. It covers 25+ US cities and has built out IP rotation infrastructure that keeps pace with ESPN+'s blocklist updates, including live event detection which tends to be more aggressive than on-demand content.
+Surfshark is the top pick for cost-focused ESPN+ subscribers. It covers 25+ US cities and has built out IP rotation infrastructure that keeps pace with ESPN+'s [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s, including live event detection which tends to be more aggressive than on-demand content.
 
 The unlimited simultaneous connections policy is a practical standout. One subscription covers every device you travel with — laptop, phone, tablet, smart TV — without any juggling or additional cost. For families sharing a subscription or travelers carrying multiple devices, this matters.
 

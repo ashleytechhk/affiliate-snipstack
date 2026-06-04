@@ -78,7 +78,7 @@ Surfshark's Australian server infrastructure includes servers specifically tuned
 
 ### Surfshark — Best Value for Stan
 
-Surfshark is the top recommendation for Stan users who need reliable, affordable overseas access. It maintains Australian servers and has invested seriously in IP rotation infrastructure that keeps pace with Stan's blocklist updates.
+Surfshark is the top recommendation for Stan users who need reliable, affordable overseas access. It maintains Australian servers and has invested seriously in IP rotation infrastructure that keeps pace with Stan's [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s.
 
 The unlimited simultaneous connections policy is a genuine advantage — one account covers your laptop, phone, tablet, and smart TV at the same time. No juggling devices, no extra fees per device.
 

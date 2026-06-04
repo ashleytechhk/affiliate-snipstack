@@ -82,7 +82,7 @@ Surfshark's US infrastructure includes both standard servers and servers specifi
 
 ### Surfshark — Best Value for Fubo TV
 
-Surfshark is the top recommendation for Fubo TV subscribers who travel. Its US server network spans 25+ cities, and its IP rotation infrastructure has kept pace with streaming platform blocklist updates throughout 2025 and into 2026.
+Surfshark is the top recommendation for Fubo TV subscribers who travel. Its US server network spans 25+ cities, and its IP rotation infrastructure has kept pace with streaming platform [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s throughout 2025 and into 2026.
 
 The standout feature for Fubo subscribers: unlimited simultaneous connections. One account covers every device you own — laptop, phone, tablet, and your hotel TV stick — all at the same time. No juggling, no extra fees.
 

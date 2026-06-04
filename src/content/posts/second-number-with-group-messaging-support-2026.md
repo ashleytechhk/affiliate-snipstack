@@ -94,7 +94,7 @@ Setup is genuinely simple, which matters when you are trying to solve a problem 
 
 **The app verification trap.** You sign up for a new dating app and it requires SMS verification. Using your real number links that account permanently to your SIM. Using an alt number means the app has a verified contact method, but your actual identity stays separate.
 
-**The reverse-lookup concern.** You match with someone who seems fine but something feels off. Before you give out your number, the question is: what happens if this goes wrong? An alt number is a complete dead end for reverse lookups. It does not resolve to your name, address, or any other personal information.
+**The reverse-lookup concern.** You match with someone who seems fine but something feels off. Before you give out your number, the question is: [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if this goes wrong? An alt number is a complete dead end for reverse lookups. It does not resolve to your name, address, or any other personal information.
 
 ---
 

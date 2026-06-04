@@ -203,7 +203,7 @@ Android allows only one VPN active at a time. If you use another VPN app, it wil
 
 ### [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s still appear occasionally
 
-YouTube periodically adjusts its ad delivery infrastructure. CleanWeb's blocklist updates regularly to keep pace, but brief windows may exist where new ad domains slip through before the list updates. This is a DNS-blocking limitation that affects all solutions — not specific to CleanWeb. Reconnecting to refresh the blocklist sometimes helps.
+YouTube periodically adjusts its ad delivery infrastructure. CleanWeb's [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s regularly to keep pace, but brief windows may exist where new ad domains slip through before the list updates. This is a DNS-blocking limitation that affects all solutions — not specific to CleanWeb. Reconnecting to refresh the blocklist sometimes helps.
 
 ### Private DNS hostname not accepted on iPhone
 
