@@ -144,7 +144,7 @@ Alt-Number is included with Surfshark subscription plans as part of the Alternat
 
 **Does a [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/) work for app verification when signing up for dating apps?**
 
-Virtual numbers that receive SMS can typically receive verification texts from apps. Surfshark Alt-Number receives SMS, which covers most standard app verification flows. A small number of platforms attempt to filter known VoIP number ranges — for those cases, check the app's specific requirements.
+[Virtual number](https://snipstack.io/virtual-number-monthly-vs-yearly-plan-cost-2026/)s that receive SMS can typically receive verification texts from apps. Surfshark Alt-Number receives SMS, which covers most standard app verification flows. A small number of platforms attempt to filter known VoIP number ranges — for those cases, check the app's specific requirements.
 
 **Is using a [virtual number for](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) dating legal?**
 

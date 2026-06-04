@@ -36,7 +36,7 @@ The table below scores each approach on the four capabilities that matter specif
 | Firefox Relay (free tier) | Yes | Yes | Partial | Yes | Free (5 alias cap) |
 | **Surfshark Alt-ID** | **Yes** | **Yes** | **Yes — alias absorbs all partners** | **Yes, single click** | **Included with Surfshark** |
 
-The decisive column is "Survives partner sharing." Hotel loyalty programs — Marriott Bonvoy, Hilton Honors, World of Hyatt, IHG One Rewards, Wyndham Rewards, Accor Live Limitless — legally share your email with affiliated brands under their terms of service. That includes co-branded credit card issuers, partner airlines, resort vacation clubs, and travel insurance providers. A Gmail tag or a real address has no defense against this. A killable alias absorbs the entire partner network and lets you cut every one of them off in a single action.
+The decisive column is "Survives partner sharing." Hotel loyalty programs — Marriott Bonvoy, Hilton Honors, World of Hyatt, IHG One Rewards, Wyndham Rewards, Accor Live Limitless — legally share your email with affiliated brands under their terms of service. That includes co-branded credit card issuers, partner airlines, resort vacation clubs, and [travel insurance](https://snipstack.io/travel-insurance-scam-warning-signs-2026/) providers. A Gmail tag or a real address has no defense against this. A killable alias absorbs the entire partner network and lets you cut every one of them off in a single action.
 
 ---
 

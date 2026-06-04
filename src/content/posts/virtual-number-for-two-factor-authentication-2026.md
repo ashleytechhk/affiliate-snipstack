@@ -110,7 +110,7 @@ The average stalking incident costs the victim significant time, money, and ment
 
 Against those numbers, the cost of a [virtual number for](https://snipstack.io/virtual-number-for-travel-abroad-calls-2026/) two factor authentication is a rounding error.
 
-The question is not whether you can afford to use a virtual number on your dating apps. It is whether you can afford not to.
+The question is not whether you can afford to use a [virtual number](https://snipstack.io/virtual-number-monthly-vs-yearly-plan-cost-2026/) on your dating apps. It is whether you can afford not to.
 
 [Protect your real number — get Alt-Number bundled with Surfshark One.](/blog/altnumber?sub=virtual-number-for-two-factor-authentication-2026__cta)
 

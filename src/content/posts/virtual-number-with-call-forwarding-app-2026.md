@@ -136,7 +136,7 @@ It depends on the number type. VoIP numbers are commonly rejected by major datin
 
 **Can someone find my real number if I use a [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/)?**
 
-If you only ever share the virtual number, your real number stays out of the chain. The virtual number does not appear in carrier databases as a link to your real account. People-search sites that index phone numbers will find the virtual number — not your real one. The protection depends on consistently using the virtual number and not accidentally sharing your real one.
+If you only ever share the [virtual number](https://snipstack.io/virtual-number-monthly-vs-yearly-plan-cost-2026/), your real number stays out of the chain. The virtual number does not appear in carrier databases as a link to your real account. People-search sites that index phone numbers will find the virtual number — not your real one. The protection depends on consistently using the virtual number and not accidentally sharing your real one.
 
 **How long does it take to set up?**
 

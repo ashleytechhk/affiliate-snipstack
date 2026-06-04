@@ -42,7 +42,7 @@ The critical columns for travel booking sites are **Permanent forwarding** and *
 
 Travel booking platforms are not just selling you flights and hotels. They are running multi-sided marketplaces where your email address is inventory.
 
-**The partner network problem.** When you book on Expedia, your contact details may be shared with Hotels.com, Vrbo, Travelocity, Hotwire, and a rotating cast of car hire, travel insurance, and experiences partners — many of which are Expedia subsidiaries or affiliates. One sign-up, one real address, and you are on a dozen lists before your flight departs.
+**The partner network problem.** When you book on Expedia, your contact details may be shared with Hotels.com, Vrbo, Travelocity, Hotwire, and a rotating cast of car hire, [travel insurance](https://snipstack.io/travel-insurance-scam-warning-signs-2026/), and experiences partners — many of which are Expedia subsidiaries or affiliates. One sign-up, one real address, and you are on a dozen lists before your flight departs.
 
 **Price-alert addiction bait.** Sites like Kayak and Google Flights encourage you to set fare alerts "so you never miss a deal." Alerts are a legitimate feature — and also the mechanism that locks you into receiving daily promotional emails. Turning off alerts often requires navigating three separate preference screens, none of which are labeled clearly.
 

@@ -47,7 +47,7 @@ When you join American AAdvantage, Delta SkyMiles, United MileagePlus, British A
 - Car hire partner offers (Hertz, Avis, Enterprise)
 - Hotel chain cross-promotions (programs have reciprocal agreements with major chains)
 - Retail and dining affiliate partners who pay the program for access to member emails
-- Travel insurance and vacation package affiliates
+- [Travel insurance](https://snipstack.io/travel-insurance-scam-warning-signs-2026/) and vacation package affiliates
 
 Stack three programs — say AAdvantage, SkyMiles, and Executive Club — and you are potentially on three separate partner networks, each with a dozen or more affiliated brands. That is the math behind 50+ promotional emails per day from the travel sector alone.
 

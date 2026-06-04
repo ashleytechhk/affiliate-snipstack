@@ -32,7 +32,7 @@ If you are already drowning in loyalty-program spam, the fastest solution is a p
 | iCloud Hide My Email / SimpleLogin / Firefox Relay | Yes | Yes | Partial | Yes | Free–$3/mo |
 | **Surfshark Alt-ID** | **Yes** | **Yes** | **Yes — alias absorbs it** | **Yes, instantly** | **Included with Surfshark** |
 
-The key column is "Survives partner sharing." Hotel programs do not just mail you themselves — they share your address with Marriott Vacations, SPG partners, co-branded credit card issuers, and travel insurance affiliates. A real address or a Gmail tag has no defense. A masked alias absorbs all of it and lets you kill the entire channel at once.
+The key column is "Survives partner sharing." Hotel programs do not just mail you themselves — they share your address with Marriott Vacations, SPG partners, co-branded credit card issuers, and [travel insurance](https://snipstack.io/travel-insurance-scam-warning-signs-2026/) affiliates. A real address or a Gmail tag has no defense. A masked alias absorbs all of it and lets you kill the entire channel at once.
 
 ---
 

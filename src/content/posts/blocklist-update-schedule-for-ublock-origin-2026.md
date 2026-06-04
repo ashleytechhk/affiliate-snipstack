@@ -54,7 +54,7 @@ For most users, the 5-day default is fine. Threat intelligence researchers or us
 
 ![uBlock Origin filter list update flow — from source to browser](/og/blocklist-update-schedule-for-ublock-origin-2026-inline-1.png)
 
-### What Happens If Your Lists Go Stale?
+### [What Happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) If Your Lists Go Stale?
 
 If you have not updated your blocklists in a long time (weeks or months), you may notice:
 

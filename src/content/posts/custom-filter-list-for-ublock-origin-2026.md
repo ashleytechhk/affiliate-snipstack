@@ -16,7 +16,7 @@ If you spend any time on your phone trying to read articles or watch videos, you
 
 ## Quick Verdict
 
-Custom filter lists let [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) users go beyond its default blocking rules and target specific ads, trackers, and annoyances on a site-by-site basis. They are powerful, free, and community-maintained — but configuring them on mobile is genuinely awkward since uBlock Origin only runs in Firefox for Android as of 2026. If you want device-wide ad blocking across every app and browser on your phone with zero configuration, Surfshark's CleanWeb is the more practical choice for most mobile users.
+Custom filter lists let [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) users go beyond its default blocking rules and target specific ads, trackers, and annoyances on a site-by-site basis. They are powerful, free, and community-maintained — but configuring them on mobile is genuinely awkward since [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) only runs in Firefox for Android as of 2026. If you want device-wide ad blocking across every app and browser on your phone with zero configuration, Surfshark's CleanWeb is the more practical choice for most mobile users.
 
 ---
 
@@ -70,7 +70,7 @@ That is the technical process. The challenge is identifying which lists to add, 
 
 ### Writing Your Own Rules
 
-uBlock Origin supports a filter syntax derived from Adblock Plus. A basic element-hiding rule looks like this:
+uBlock Origin supports a filter syntax derived from [Adblock Plus](https://snipstack.io/adblock-plus-for-android-2026/). A basic element-hiding rule looks like this:
 
 ```
 example.com##.ad-banner
@@ -104,7 +104,7 @@ Custom filter lists solve a real problem, but they introduce friction that stack
 
 ## A Simpler Alternative: [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/)
 
-CleanWeb is Surfshark's built-in ad and tracker blocking feature. Unlike browser extensions, it operates at the network level — meaning it works across every app and every browser on your device simultaneously, without any per-browser configuration.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and tracker blocking feature. Unlike browser extensions, it operates at the network level — meaning it works across every app and every browser on your device simultaneously, without any per-browser configuration.
 
 ![CleanWeb device mockup showing ad blocking across apps and browsers](/og/custom-filter-list-for-ublock-origin-2026-inline-2.png)
 

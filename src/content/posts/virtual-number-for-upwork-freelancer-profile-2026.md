@@ -165,7 +165,7 @@ You can use a single number for both — it keeps things simpler. However, keepi
 
 **Is this only useful if I am already a Surfshark user?**
 
-Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark subscriptions, so if you are not already a user, you would be subscribing to the broader Surfshark [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) — which includes a VPN, [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/) (Alt-ID), and the [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/). If privacy across your online accounts is a general concern, that bundle represents solid value. If you only want a virtual number and nothing else, one of the standalone services like Hushed may be a lighter starting point.
+Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark subscriptions, so if you are not already a user, you would be subscribing to the broader Surfshark [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) — which includes a VPN, [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/) (Alt-ID), and the [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/). If privacy across your online accounts is a general concern, that bundle represents solid value. If you only want a [virtual number](https://snipstack.io/virtual-number-monthly-vs-yearly-plan-cost-2026/) and nothing else, one of the standalone services like Hushed may be a lighter starting point.
 
 ---
 

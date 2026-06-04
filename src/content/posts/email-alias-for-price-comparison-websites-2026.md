@@ -87,7 +87,7 @@ The browser extension auto-fills the alias when it detects an email field, so yo
 
 ### What It Costs
 
-Alt-ID is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) plan, which bundles VPN, antivirus, Alt-ID, and Alert (data breach monitoring) together. For anyone already using Surfshark VPN, upgrading to One adds Alt-ID at minimal extra cost. It is not sold as a standalone product — the bundle approach is either a strength (great value) or a weakness (you pay for tools you may not use) depending on your situation.
+Alt-ID is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) plan, which bundles VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), Alt-ID, and Alert (data breach monitoring) together. For anyone already using Surfshark VPN, upgrading to One adds Alt-ID at minimal extra cost. It is not sold as a standalone product — the bundle approach is either a strength (great value) or a weakness (you pay for tools you may not use) depending on your situation.
 
 ---
 
@@ -164,9 +164,9 @@ Beyond using an alias, a few habits will further reduce your spam exposure:
 
 An [email alias](https://snipstack.io/email-alias-for-recruitment-agency-privacy-2026/) is a forwarding address that sits in front of your real inbox. You give the alias to a price comparison site, emails still reach you normally, but the site never learns your real address. If they sell or misuse it, you delete the alias and the spam stops instantly. [Learn more about Surfshark Alt-ID](/blog/altid?sub=email-alias-for-price-comparison-websites-2026__faq).
 
-**Is Surfshark Alt-ID available as a standalone product?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-ID available as a standalone product?**
 
-No. Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) into the Surfshark One plan, which also includes VPN, antivirus, and the Alert breach monitoring service. If you only want an [email alias](https://snipstack.io/email-alias-for-zoom-account-registration-2026/) tool and nothing else, SimpleLogin or DuckDuckGo Email Protection are better standalone options.
+No. Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) into the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plan, which also includes VPN, antivirus, and the Alert breach monitoring service. If you only want an [email alias](https://snipstack.io/email-alias-for-zoom-account-registration-2026/) tool and nothing else, SimpleLogin or DuckDuckGo Email Protection are better standalone options.
 
 **Can I reply to emails from my alias address?**
 
@@ -174,7 +174,7 @@ Yes, Surfshark Alt-ID and SimpleLogin both support two-way replies from the alia
 
 **How many aliases can I create with Alt-ID?**
 
-Surfshark Alt-ID allows unlimited alias creation on the Surfshark One plan. There is no cap, which makes it practical for users who sign up on many comparison sites.
+Surfshark Alt-ID allows unlimited alias creation on the [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) plan. There is no cap, which makes it practical for users who sign up on many comparison sites.
 
 **Will using an [email alias](https://snipstack.io/email-alias-for-airtable-account-privacy-2026/) affect my ability to receive confirmation emails or track price alerts?**
 
