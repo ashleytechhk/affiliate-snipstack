@@ -162,7 +162,7 @@ CleanWeb 2.0 added some cookie consent banner blocking, but coverage is inconsis
 | Mobile app ad blocking | Yes (partial) | No | No |
 | Cosmetic filtering | No | Yes | Yes |
 | Per-site control | No | Yes | Yes |
-| Custom filter lists | No | Yes | Yes |
+| [Custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s | No | Yes | Yes |
 | Cookie banner removal | Partial | Good | Excellent |
 | Browser independence | Yes | No | No |
 | Requires browser install | No | Yes | Yes |

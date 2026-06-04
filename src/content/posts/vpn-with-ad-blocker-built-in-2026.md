@@ -165,7 +165,7 @@ DNS blocking itself adds negligible overhead — typically under 1ms per DNS loo
 
 ### Is a VPN with built-in ad blocking better than AdGuard on mobile?
 
-It depends on your needs. AdGuard has a dedicated iOS and Android app with more granular control — per-site rules, custom filter lists, cosmetic filtering. A VPN with built-in ad blocking like CleanWeb is simpler (one app, one toggle) and covers more scenarios if you already want a VPN for privacy or streaming. If ad blocking is your only goal and you want fine-grained control, AdGuard's dedicated app offers more. If you want ad blocking plus VPN features in one subscription, Surfshark CleanWeb wins on convenience and cost.
+It depends on your needs. AdGuard has a dedicated iOS and Android app with more granular control — per-site rules, [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, cosmetic filtering. A VPN with built-in ad blocking like CleanWeb is simpler (one app, one toggle) and covers more scenarios if you already want a VPN for privacy or streaming. If ad blocking is your only goal and you want fine-grained control, AdGuard's dedicated app offers more. If you want ad blocking plus VPN features in one subscription, Surfshark CleanWeb wins on convenience and cost.
 
 ### Do I need to keep the VPN connected for the [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/) to work?
 

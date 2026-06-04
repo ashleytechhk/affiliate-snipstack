@@ -74,7 +74,7 @@ The catch: DNS-level blocking requires either a self-hosted server (technical to
 
 A VPN with an integrated [ad blocker](https://snipstack.io/ad-blocker-for-samsung-internet-browser-2026/) combines the system-wide coverage of DNS blocking with the ease of a simple on/off toggle. When the VPN is active, your traffic routes through the provider's servers before reaching ad networks. The provider's blocklist filters out known ad domains — including those that serve interstitial ads — before a single packet reaches your device.
 
-Surfshark CleanWeb uses this approach. It ships as part of the Surfshark VPN app on iOS and Android. One toggle enables both VPN protection and ad/tracker blocking simultaneously. No separate app, no technical configuration, no per-browser setup.
+Surfshark CleanWeb uses this approach. It ships as part of the Surfshark [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) iOS and Android. One toggle enables both VPN protection and ad/tracker blocking simultaneously. No separate app, no technical configuration, no per-browser setup.
 
 **[Try Surfshark CleanWeb on Mobile](/blog/adblock?sub=block-interstitial-ads-on-mobile-websites-2026__mid)**
 

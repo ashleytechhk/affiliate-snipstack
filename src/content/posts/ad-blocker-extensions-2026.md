@@ -84,7 +84,7 @@ Brave ships with Shields — its ad and [tracker blocker](https://snipstack.io/t
 
 **[Pair Brave with Surfshark CleanWeb for app-level coverage too](/blog/surfshark?sub=ad-blocker-extensions-2026__mid)**
 
-Brave's block rate for display ads is competitive with uBlock Origin on default settings. Where it falls behind is customization — you cannot add custom filter lists the way you can with uBlock Origin or AdGuard. Brave also replaces some blocked ads with its own Brave Rewards ads (opt-in), which some users find at odds with the spirit of ad blocking. You can turn Rewards off entirely.
+Brave's block rate for display ads is competitive with uBlock Origin on default settings. Where it falls behind is customization — you cannot add [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s the way you can with uBlock Origin or AdGuard. Brave also replaces some blocked ads with its own Brave Rewards ads (opt-in), which some users find at odds with the spirit of ad blocking. You can turn Rewards off entirely.
 
 The strength is convenience. Brave is a capable, fast [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) no learning curve. If you want the fastest possible setup with solid ad blocking, Brave is the answer.
 

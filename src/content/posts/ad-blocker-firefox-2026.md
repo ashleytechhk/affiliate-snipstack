@@ -88,7 +88,7 @@ For users who find extension management too fiddly but want meaningful protectio
 
 The app's privacy audit feature scans a given URL and lists every third-party resource it loads, categorized by type (analytics, advertising, social widgets, CDN). This is a useful diagnostic tool when you suspect a site is heavier on trackers than it looks.
 
-The free tier blocks ads with limited list customization. The paid tier unlocks custom filter rules, regional lists, and the element picker. At roughly $3/month, it sits above the free options but below managed solutions like CleanWeb. Best suited for users who want hands-on control without diving into raw filter-list syntax.
+The free tier blocks ads with limited list customization. The paid tier unlocks [custom filter](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/) rules, regional lists, and the element picker. At roughly $3/month, it sits above the free options but below managed solutions like CleanWeb. Best suited for users who want hands-on control without diving into raw filter-list syntax.
 
 ---
 

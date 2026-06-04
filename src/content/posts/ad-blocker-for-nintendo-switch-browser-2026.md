@@ -146,7 +146,7 @@ Both Surfshark CleanWeb and [AdGuard DNS](/top-adguard-dns-2026/) offer DNS-leve
 | Tracker blocking | Yes | Yes |
 | Malware domain blocking | Yes | Yes |
 | Router-level setup | Yes | Yes |
-| Custom filter control | Limited | More granular |
+| [Custom filter](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/) control | Limited | More granular |
 | VPN included | Yes | No |
 | Price | From ~$2.50/mo | Free tier available |
 

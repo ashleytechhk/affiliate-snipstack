@@ -62,7 +62,7 @@ The DNS-level blocking approach means you're not dependent on browser extensions
 
 **What it is:** AdGuard offers a dedicated Android app that creates a local VPN tunnel to filter traffic from all apps, including YouTube. The iOS version uses a DNS profile approach with content blocking in Safari.
 
-**The good:** Highly configurable. You can manage custom filter lists, whitelist specific channels, and get granular stats on what's being blocked. AdGuard's YouTube-specific filters are actively maintained and catch pre-roll, mid-roll, and overlay ads.
+**The good:** Highly configurable. You can manage [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, whitelist specific channels, and get granular stats on what's being blocked. AdGuard's YouTube-specific filters are actively maintained and catch pre-roll, mid-roll, and overlay ads.
 
 **The catch:** Android full version costs around $2.99/month or a one-time ~$30 purchase. The iOS DNS-only approach is weaker — it doesn't block in-app YouTube ads on iPhone as effectively as Android. If you're iOS-first, the VPN-layer approach (see option 1) is more reliable.
 

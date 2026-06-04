@@ -74,7 +74,7 @@ Running both together is the most thorough ad-blocking setup available on Androi
 
 **Best for: users who want granular control without routing traffic externally**
 
-The AdGuard app for Android (paid tier) creates a local VPN on your device — all filtering happens on the phone itself, nothing routes through an external server. You can configure it to use `dns.adguard-dns.com` as the upstream resolver while applying custom filter lists, per-app rules, and HTTPS inspection locally.
+The AdGuard app for Android (paid tier) creates a local VPN on your device — all filtering happens on the phone itself, nothing routes through an external server. You can configure it to use `dns.adguard-dns.com` as the upstream resolver while applying [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, per-app rules, and HTTPS inspection locally.
 
 This approach gives you query logs, per-app statistics, custom allow/block lists, and the ability to whitelist apps that break with aggressive blocking. It is the most configurable option on this list. Setup involves installing the app, granting the local VPN permission, and configuring DNS in the app's DNS settings.
 

@@ -90,7 +90,7 @@ Performance is solid for a free tool, though the filter lists are less frequentl
 
 ### 6. NextDNS — Best for Customizable DNS-Level Blocking Across All Devices
 
-**NextDNS** is a cloud DNS resolver that lets you build a custom filtering profile, then apply it to any device — including your phone — by pointing your DNS settings at NextDNS servers. On iOS 14+ and Android 9+, you can set a private DNS provider without any extra app, so setup takes about two minutes.
+**NextDNS** is a cloud DNS resolver that lets you build a [custom filter](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)ing profile, then apply it to any device — including your phone — by pointing your DNS settings at NextDNS servers. On iOS 14+ and Android 9+, you can set a private DNS provider without any extra app, so setup takes about two minutes.
 
 The blocking engine supports over 50 curated filter lists, parental controls, per-device analytics showing exactly which domains were blocked, and security threat feeds. The free tier allows 300,000 queries per month, which is enough for moderate single-device use. After that, a low-cost subscription removes the cap.
 

@@ -208,7 +208,7 @@ Surfshark CleanWeb is included with Surfshark VPN — you do not pay extra for i
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) CleanWeb better than AdGuard for Android?
 
-For mobile users who want both a VPN and broad ad blocking: Surfshark CleanWeb is more practical. It covers iOS and Android equally, requires no per-app configuration, and bundles the VPN. AdGuard for Android has more granular control — custom filter lists, per-app rules, cosmetic filtering — and is the better choice for power users who do not need a VPN and want detailed ad blocking settings at the system level.
+For mobile users who want both a VPN and broad ad blocking: Surfshark CleanWeb is more practical. It covers iOS and Android equally, requires no per-app configuration, and bundles the VPN. AdGuard for Android has more granular control — [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, per-app rules, cosmetic filtering — and is the better choice for power users who do not need a VPN and want detailed ad blocking settings at the system level.
 
 ---
 

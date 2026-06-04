@@ -154,7 +154,7 @@ Surfshark's subscription includes [CleanWeb](https://snipstack.io/surfshark-clea
 | Smart TV / console coverage | No | No | Yes (via router or app) |
 | Cosmetic filtering | Yes | Yes | No |
 | Per-site control | Yes | Yes | No |
-| Custom filter lists | Limited | Yes | No |
+| [Custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s | Limited | Yes | No |
 | [YouTube ads](https://snipstack.io/youtube-ad-blocker-2026/) (Chrome) | Inconsistent | Inconsistent | More reliable (DNS) |
 | YouTube app (Android) | No | Partial | Yes |
 | Device limit | Unlimited (browser only) | 3 or 9 devices | Unlimited |

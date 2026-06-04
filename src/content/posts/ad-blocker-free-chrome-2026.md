@@ -50,7 +50,7 @@ The only real cost here is switching browsers. Brave isn't Chrome — your Chrom
 
 **Firefox for Android** is the only major mobile browser that supports the full WebExtensions API, which means you can install actual desktop-grade browser extensions — including [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/). Both are free.
 
-Install Firefox from the Play Store, open the Add-ons menu, and add uBlock Origin. From that point you have the most granular free [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) available anywhere on any platform — custom filter lists, per-site rules, element picker to block specific page elements manually, and a live log of every blocked request. For users who want to see exactly what's being intercepted and tune it, nothing free comes close.
+Install Firefox from the Play Store, open the Add-ons menu, and add uBlock Origin. From that point you have the most granular free [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) available anywhere on any platform — [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, per-site rules, element picker to block specific page elements manually, and a live log of every blocked request. For users who want to see exactly what's being intercepted and tune it, nothing free comes close.
 
 The trade-off is the same as Brave: it's not Chrome. Firefox renders pages slightly differently on a small number of sites, and Chrome-specific features like Chromecast integration behave differently. For standard web browsing, most users won't notice a difference. The Firefox + uBlock combination is the free power-user gold standard.
 

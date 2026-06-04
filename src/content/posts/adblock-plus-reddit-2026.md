@@ -58,7 +58,7 @@ The community alternative that comes up in virtually every "should I use [AdBloc
 
 - **No Acceptable Ads program.** uBlock Origin has no commercial arrangement with advertisers. There is no whitelist funded by ad revenue. What is blocked stays blocked.
 - **Lower memory footprint.** Independent testing has consistently shown uBlock Origin uses significantly less RAM than ABP, which matters on older hardware or machines with many tabs open.
-- **More powerful filter control.** uBlock Origin supports element-level cosmetic filtering, custom filter lists, per-site rules, and an advanced mode that lets power users block first-party scripts — capabilities ABP's standard mode doesn't offer.
+- **More powerful filter control.** uBlock Origin supports element-level cosmetic filtering, [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, per-site rules, and an advanced mode that lets power users block first-party scripts — capabilities ABP's standard mode doesn't offer.
 - **Open source, no investor incentive.** uBlock Origin is maintained as a community project. There is no VC funding, no paid whitelist program, and no acquisition interest to align with advertiser preferences.
 
 The community verdict on this comparison is not close. In r/privacy, recommending ABP over uBlock Origin will typically generate responses explaining the Acceptable Ads issue. The upvote ratio on threads comparing the two has been consistently one-sided for several years.

@@ -120,7 +120,7 @@ CleanWeb does not eliminate every ad. Ads served from the same domain as the app
 
 Most content blocker apps for Samsung Internet follow a freemium model. The free tier installs, connects to a filter list, and handles the most common ad formats without any configuration. Paid tiers typically add:
 
-- Custom filter rules and element-hiding selectors
+- [Custom filter](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/) rules and element-hiding selectors
 - Regional filter lists for non-English pages
 - More frequent list updates
 - DNS-level blocking (in apps that bundle this as a separate feature)

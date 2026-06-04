@@ -259,7 +259,7 @@ The browser extension blocks ads only in the browser. AdGuard for Windows and Ad
 
 ### When does it make sense to pay for AdGuard instead of using Surfshark?
 
-Pay for AdGuard when you primarily want granular browser-level control: custom filter lists, per-site rules, cosmetic filtering, and extension-style customization. CleanWeb is the better choice when you want cross-device coverage, do not care about per-site granularity, and want the VPN included.
+Pay for AdGuard when you primarily want granular browser-level control: [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, per-site rules, cosmetic filtering, and extension-style customization. CleanWeb is the better choice when you want cross-device coverage, do not care about per-site granularity, and want the VPN included.
 
 ---
 

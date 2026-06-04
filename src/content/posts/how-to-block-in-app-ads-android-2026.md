@@ -97,7 +97,7 @@ Battery and performance impact is low. The app runs quietly in the background an
 
 AdGuard's native Android app offers both a local VPN mode (for non-rooted devices) and a more powerful proxy mode for rooted devices. The non-rooted version works on the same principle as Blokada — a local VPN tunnel that filters traffic on-device.
 
-What sets AdGuard apart is the depth of control: per-app filtering rules, detailed request logs showing exactly which ad calls were blocked from which app, and support for custom filter lists. If you want to know precisely why a specific ad in a specific app is or isn't being blocked, AdGuard gives you that visibility.
+What sets AdGuard apart is the depth of control: per-app filtering rules, detailed request logs showing exactly which ad calls were blocked from which app, and support for [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s. If you want to know precisely why a specific ad in a specific app is or isn't being blocked, AdGuard gives you that visibility.
 
 The premium tier is required for system-wide blocking and the full filter library. As a standalone [ad blocker](https://snipstack.io/ad-blocker-for-opera-browser-2026/) with no VPN functionality, it fills the same niche as Blokada — but with more granular controls.
 

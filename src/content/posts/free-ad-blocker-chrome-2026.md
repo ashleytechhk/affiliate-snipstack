@@ -62,7 +62,7 @@ The free tier covers 300,000 queries per month — typically three to four month
 
 ---
 
-### 4. AdGuard DNS — Best Free DNS Option with Custom Filtering
+### 4. AdGuard DNS — Best Free DNS Option with [Custom Filter](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)ing
 
 **Cost: Free (public DNS) or free tier with account**
 

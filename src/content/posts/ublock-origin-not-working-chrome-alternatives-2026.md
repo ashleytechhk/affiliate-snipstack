@@ -72,7 +72,7 @@ Surfshark CleanWeb takes a fundamentally different approach: it blocks ads at th
 
 ### 2. AdGuard Browser Extension — Best MV3-Native Browser Extension
 
-AdGuard rebuilt their extension from scratch for Manifest V3 and it is the most capable MV3-native [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) available as of 2026. Their team invested in pushing the limits of `declarativeNetRequest` — including dynamic rule updates, cosmetic filtering via content scripts, and a large custom filter list maintained independently.
+AdGuard rebuilt their extension from scratch for Manifest V3 and it is the most capable MV3-native [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) available as of 2026. Their team invested in pushing the limits of `declarativeNetRequest` — including dynamic rule updates, cosmetic filtering via content scripts, and a large [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/) maintained independently.
 
 **Strengths:**
 - Blocks 85-90% of what the old uBlock Origin blocked (highest among MV3 extensions)

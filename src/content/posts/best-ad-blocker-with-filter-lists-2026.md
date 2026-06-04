@@ -170,7 +170,7 @@ EasyList is the baseline for English-language ad blocking and is included in alm
 
 Yes. CleanWeb applies Surfshark's curated blocklist — a maintained set of rules covering ad networks, trackers, and malware domains — to your device's traffic at the network level. Surfshark updates these lists automatically, so you always have current coverage without needing to manage list subscriptions yourself.
 
-### Can I add custom filter lists to a VPN-based [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/)?
+### Can I add [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s to a VPN-based [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/)?
 
 VPN-based blockers like CleanWeb and [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) do not expose a filter list UI the same way browser extensions do. The tradeoff is that list management is handled for you. If you need highly granular filter list control — custom rules, community lists, element blocking — a desktop browser extension like uBlock Origin gives you the most flexibility. For mobile users who want broad coverage with zero configuration, managed lists through a VPN-based blocker are the practical choice.
 

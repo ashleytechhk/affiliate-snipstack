@@ -103,7 +103,7 @@ Not all [virtual number](https://snipstack.io/virtual-number-for-twitter-x-accou
 | Local number pool | A number in your area code looks less suspicious |
 | Bundled with other privacy tools | Pairing with a VPN multiplies protection |
 
-Surfshark Alt-Number ticks all of these. It [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) — meaning you get the VPN, antivirus, data breach alerts, and Alt-Number under one subscription. That matters because a VPN protects your IP address when you browse profiles, while Alt-Number protects your phone identity when you move off-app.
+Surfshark Alt-Number ticks all of these. It [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) — meaning you get the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), data breach alerts, and Alt-Number under one subscription. That matters because a VPN protects your IP address when you browse profiles, while Alt-Number protects your phone identity when you move off-app.
 
 ![Surfshark Alt-Number feature highlights and comparison](/og/virtual-number-that-expires-after-use-2026-inline-2.png)
 

@@ -24,7 +24,7 @@ Firefox on Android is one of the only mobile browsers that lets you install real
 
 ## Why AdGuard + Firefox on Mobile Is Its Own Category
 
-On desktop, the AdGuard Firefox extension is one of the most capable browser-level [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s available. It handles cosmetic filtering, custom filter lists, HTTPS filtering, and detailed per-site rules. The desktop experience is mature and well-documented.
+On desktop, the AdGuard Firefox extension is one of the most capable browser-level [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s available. It handles cosmetic filtering, [custom filter list](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s, HTTPS filtering, and detailed per-site rules. The desktop experience is mature and well-documented.
 
 Mobile complicates everything. iOS restricts all third-party browsers to the WebKit rendering engine, which strips out extension support entirely — including AdGuard. Firefox on iPhone is WebKit under the hood, so it can't run add-ons. Android is different: Firefox for Android (including Firefox Focus and Firefox Nightly) uses Gecko, and since 2020 Mozilla has opened the full add-on ecosystem to Android Firefox users. That means the AdGuard content blocker add-on actually works on Firefox for Android — exactly as it does on desktop.
 

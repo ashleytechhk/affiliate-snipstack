@@ -80,7 +80,7 @@ The free tier's DNS-only approach hits the same ceiling as AdGuard DNS above. Bl
 
 **[uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/)** remains the most efficient [ad blocker](https://snipstack.io/ad-blocker-free-2026/) ever built for browsers — and it runs on Firefox for Android, which unlike Chrome still supports full browser extensions. If the majority of your phone's ad exposure is in the web browser, this combination is unbeatable at zero cost.
 
-The memory footprint is minimal. Filter list management is granular. Advanced users can write custom filters. The developer community is active and blocklists update frequently against new ad tech evasion tactics.
+The memory footprint is minimal. Filter list management is granular. Advanced users can write [custom filter](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)s. The developer community is active and blocklists update frequently against new ad tech evasion tactics.
 
 But again: the browser is the ceiling. Switch to any other app and you're unprotected. For a mobile power user spending time across multiple apps, browser-only blocking leaves most of the problem untouched.
 

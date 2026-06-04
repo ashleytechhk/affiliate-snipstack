@@ -49,7 +49,7 @@ Surfshark CleanWeb     | Yes             | Yes         | Yes           | Bundled
 
 AdGuard's Safari extension is free, open source, and maintained by a team that has been building [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s since 2009. It uses Safari's native content-blocking API, which means it runs efficiently without accessing your browsing history — Apple's API is sandboxed by design.
 
-The default setup blocks ads and basic trackers. Dig into settings and you can activate additional filter lists: EasyPrivacy for tracking scripts, regional lists for ad networks that EasyList misses, and anti-social-widget filters that remove Facebook and Twitter embed trackers from third-party sites. Advanced users can write custom filtering rules directly in the app.
+The default setup blocks ads and basic trackers. Dig into settings and you can activate additional filter lists: EasyPrivacy for tracking scripts, regional lists for ad networks that EasyList misses, and anti-social-widget filters that remove Facebook and Twitter embed trackers from third-party sites. Advanced users can write [custom filter](https://snipstack.io/custom-filter-list-for-ublock-origin-2026/)ing rules directly in the app.
 
 ![AdGuard for Safari filter list configuration](/og/best-ad-blocker-for-safari-mac-2026-inline-1.png)
 

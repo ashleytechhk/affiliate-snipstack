@@ -82,7 +82,7 @@ This is the product Surfshark built its reputation on. The VPN network covers 3,
 
 ### Surfshark Alert
 
-This is the identity monitoring component. Alert watches for your email addresses, passwords, credit card numbers, and ID numbers appearing in data breach databases. When a breach is detected, you get a notification with details about what was exposed and what to do. Norton's equivalent is dark web monitoring; McAfee calls it identity monitoring. All three perform a similar function, but Surfshark Alert is included in the base One plan without needing to upgrade to a higher tier.
+This is the identity monitoring component. Alert watches for your email addresses, passwords, credit card numbers, and ID numbers appearing in data breach databases. When a breach is detected, you get a notification with details about what was exposed and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/). Norton's equivalent is dark web monitoring; McAfee calls it identity monitoring. All three perform a similar function, but Surfshark Alert is included in the base One plan without needing to upgrade to a higher tier.
 
 ### Surfshark Search
 
@@ -125,7 +125,7 @@ The process is straightforward.
 1. **Cancel your Norton or McAfee auto-renewal** before your next billing date — log into your account settings and turn off auto-renew. You keep protection through the end of your paid period.
 2. **Sign up for [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/)** via the link below and download the desktop client.
 3. **Install on all your devices** — Windows, macOS, iOS, Android, and Linux are all supported.
-4. **Run a full scan** with Surfshark Antivirus once installed, just to start with a clean baseline.
+4. **Run a full scan** with [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) once installed, just to start with a clean baseline.
 5. **Set up Surfshark Alert** with your email addresses to start monitoring for breach exposure.
 
 The entire process takes under 30 minutes for most users. The Surfshark apps are notably less complex than Norton and McAfee's interfaces — less time navigating menus, fewer prompts asking you to do things you did not intend to do.

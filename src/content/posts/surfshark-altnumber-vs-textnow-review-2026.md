@@ -38,7 +38,7 @@ The solution is a [second number](https://snipstack.io/second-number-to-avoid-sp
 
 Surfshark Alt Number is a virtual [second phone number](https://snipstack.io/second-phone-number-for-side-hustle-2026/) service. You pick a real phone number from a supported country, and it works as a fully functional line: you can send and receive SMS messages, and receive calls forwarded to your real phone. The person on the other end sees the Alt Number, not your personal number.
 
-It is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle alongside VPN and antivirus, but it can also be added as a standalone feature depending on your subscription tier.
+It is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle alongside [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/), but it can also be added as a standalone feature depending on your subscription tier.
 
 Key points:
 - Works with any standard phone — no special app required for the person texting you
@@ -76,7 +76,7 @@ Key points:
 | Number stability | Held while subscribed | Recycled if inactive |
 | Ads | None | Yes (free tier) |
 | Requires app on sender's side | No | No |
-| Integrated with privacy suite | Yes (VPN + antivirus) | No |
+| Integrated with [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) | Yes (VPN + antivirus) | No |
 | Data privacy | Surfshark privacy policy | TextNow collects usage data |
 
 The VoIP flagging issue is more significant than it sounds. Many people — especially those who have been scammed before — run a quick reverse lookup on a new number before meeting. If your number shows up as "VoIP / TextNow," it raises questions. Some people will not meet someone whose number cannot be traced to a real carrier. It creates friction at exactly the wrong moment.
@@ -117,7 +117,7 @@ For dating, the gaps matter more:
 
 The process is straightforward.
 
-1. Subscribe to Surfshark One or the Alt Number add-on through the Surfshark app.
+1. Subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) or the Alt Number add-on through the Surfshark app.
 2. Open the Alt Number section and choose your number's country and area code.
 3. Share that number with matches instead of your real number.
 4. Calls to the Alt Number get forwarded to your real phone — you answer normally.
@@ -135,9 +135,9 @@ If a situation turns uncomfortable, you can deactivate the number or switch to a
 
 TextNow's free tier costs nothing but comes with ads and the risks outlined above. The paid tier (TextNow Premium) costs around $5-$8 per month depending on the plan and removes ads.
 
-Surfshark Alt Number is included in the Surfshark One bundle, which bundles VPN, antivirus, data breach alerts, and Alt Number together. The monthly equivalent when billed annually works out to competitive pricing for what you get — especially compared to buying each privacy tool separately.
+Surfshark Alt Number is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) bundle, which bundles VPN, antivirus, data breach alerts, and Alt Number together. The monthly equivalent when billed annually works out to competitive pricing for what you get — especially compared to buying each privacy tool separately.
 
-If you already use a VPN for general privacy (which you probably should on dating apps, especially on public Wi-Fi), the bundle math often makes Surfshark One cheaper than buying a standalone VPN plus a standalone [second number](https://snipstack.io/second-number-for-reddit-account-verification-2026/) service.
+If you already use a VPN for general privacy (which you probably should on dating apps, especially on public Wi-Fi), the bundle math often makes [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) cheaper than buying a standalone VPN plus a standalone [second number](https://snipstack.io/second-number-for-reddit-account-verification-2026/) service.
 
 The cost framing that matters: what is the value of your home address staying private from someone you matched with twice on a dating app? For most people, a few dollars a month is not a difficult calculation.
 
