@@ -127,13 +127,13 @@ A [second number](https://snipstack.io/second-number-for-whatsapp-business-accou
 
 **Can I use a second phone number to block spam texts completely?**
 
-Yes. When you use a second number like Alt Number for online dating, spam texts are directed at that number rather than your real one. You can block or replace the second number at any time without affecting your real number at all. [Try Alt Number here.](/blog/altnumber?sub=block-spam-texts-on-second-phone-number-2026__faq)
+Yes. When you use a [second number](https://snipstack.io/second-number-for-receiving-verification-sms-2026/) like Alt Number for online dating, spam texts are directed at that number rather than your real one. You can block or replace the [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/) at any time without affecting your real number at all. [Try Alt Number here.](/blog/altnumber?sub=block-spam-texts-on-second-phone-number-2026__faq)
 
-**Will the person I'm texting know it's a second number?**
+**Will the person I'm texting know it's a [second number](https://snipstack.io/second-number-with-group-messaging-support-2026/)?**
 
 No. From their perspective, they're texting a regular phone number. There's nothing in the message that indicates it's a secondary or [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/). The experience on their end is identical to texting any other contact.
 
-**What happens if I want to stop using the second number?**
+**What happens if I want to stop using the [second number](https://snipstack.io/second-number-for-local-community-groups-2026/)?**
 
 You simply stop using it, or request a replacement number through the app. Any messages or calls to the old number stop being delivered to you. Your real number is never affected.
 
@@ -155,7 +155,7 @@ Google Voice numbers are tied to your Google account, which is connected to your
 
 Every date is a small gamble. That's fine — that's how it works. But your phone number should not be part of what's at stake. Giving a match your real number before you know them is giving up control that is very hard to get back.
 
-A second phone number changes that dynamic. You stay reachable. You stay in the conversation. But you stay in control of what happens if things go wrong. Spam texts get blocked at the second number. Unwanted contacts can't reach your real phone. Your real identity stays yours.
+A second phone number changes that dynamic. You stay reachable. You stay in the conversation. But you stay in control of what happens if things go wrong. Spam texts get blocked at the [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/). Unwanted contacts can't reach your real phone. Your real identity stays yours.
 
 Surfshark Alt Number is the simplest way to put that protection in place. It's built for exactly this situation, it takes minutes to set up, and it costs less than a single date.
 

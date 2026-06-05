@@ -67,9 +67,9 @@ Key strengths for crypto use:
 - You can create a distinct alias for every exchange, making it trivial to trace which platform leaked your data
 - Aliases forward to your real inbox so you never miss a security alert or OTP email
 - Disabling a compromised alias takes one click
-- Included in Surfshark One, which also bundles VPN, Antivirus, and Search — making it a compelling value if you care about multiple privacy layers
+- Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/), which also bundles VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and Search — making it a compelling value if you care about multiple privacy layers
 
-The only limitation: Alt-ID is not a standalone product. It requires a Surfshark One subscription. If you only want [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/)es and nothing else, the dedicated tools below cost less.
+The only limitation: Alt-ID is not a standalone product. It requires a [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) subscription. If you only want [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/)es and nothing else, the dedicated tools below cost less.
 
 [**Get Surfshark Alt-ID with Surfshark One**](/blog/altid?sub=email-alias-for-crypto-exchange-registration-2026__mid)
 

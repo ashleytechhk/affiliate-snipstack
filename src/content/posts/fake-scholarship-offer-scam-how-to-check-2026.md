@@ -35,7 +35,7 @@ Common tactics include:
 - **Urgency pressure** — "respond within 48 hours or forfeit your award"
 - **Requests for sensitive data** — Social Security Numbers, bank account details, or copies of ID documents before any award is confirmed
 
-The damage goes beyond money. Once scammers have your personal information, it can be used for identity theft that takes years to untangle.
+The damage goes beyond money. Once scammers have your personal information, it can be used for [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) that takes years to untangle.
 
 ---
 
@@ -57,7 +57,7 @@ A real scholarship from Harvard would come from a `harvard.edu` address — not 
 
 ### 4. Vague or Unverifiable Organization Details
 
-Real foundations have websites, registered addresses, phone numbers, and 990 tax filings searchable in the IRS database. If you cannot find the organization anywhere, it likely does not exist.
+Real foundations have websites, registered addresses, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s, and 990 tax filings searchable in the IRS database. If you cannot find the organization anywhere, it likely does not exist.
 
 ### 5. Grammar Errors and Unusual Formatting
 
@@ -153,7 +153,7 @@ If you have received a scholarship email and want to verify it right now, follow
 
 ---
 
-## What Happens If You Have Already Responded?
+## [What Happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) If You Have Already Responded?
 
 If you have already clicked a link, provided personal information, or — in the worst case — sent money in response to what you now believe may be a scam, take action immediately:
 
@@ -181,7 +181,7 @@ Do not click any links, do not reply, and do not provide personal information (S
 
 Yes. Modern scammers use official logos, real university names, and polished formatting. Visual quality alone is not a reliable indicator. Always verify the sender domain, the organization's registration status, and any links in the email before taking action.
 
-### Is Surfshark Scam Check easy enough for someone who is not tech-savvy?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Scam Check easy enough for someone who is not tech-savvy?
 
 Yes. The process is: copy the suspicious link, paste it into Scam Check, read the result. There is no technical knowledge required and nothing to install. It is designed for everyday users, not security professionals.
 

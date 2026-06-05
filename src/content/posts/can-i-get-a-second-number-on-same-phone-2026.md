@@ -178,7 +178,7 @@ The filter that matters most is number type. Free VoIP services (Google Voice, T
 
 Surfshark Alt-Number is the strongest option: carrier-backed numbers, full calls and SMS, delete-on-demand, and bundled into a [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) that covers VPN and tracker blocking alongside the [second number](https://snipstack.io/second-number-with-group-messaging-support-2026/). If you want a standalone app without the bundle, Hushed is the honest runner-up.
 
-Your real number is worth protecting. A second number is how you do it.
+Your real number is worth protecting. A [second number](https://snipstack.io/second-number-for-receiving-verification-sms-2026/) is how you do it.
 
 **[Get Surfshark Alt-Number — real carrier number, delete anytime](/blog/altnumber?sub=can-i-get-a-second-number-on-same-phone-2026__cta)**
 

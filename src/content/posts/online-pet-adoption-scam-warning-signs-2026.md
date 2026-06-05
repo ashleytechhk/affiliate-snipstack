@@ -140,7 +140,7 @@ It also works on links sent through social media, text messages, and classified 
 
 ---
 
-## What to Do If You Have Already Been Scammed
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If You Have Already Been Scammed
 
 If you believe you have already sent money to a pet adoption scammer:
 

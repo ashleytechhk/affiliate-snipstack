@@ -119,7 +119,7 @@ Numbers are US and Canada only. They are VoIP-based, which means they carry veri
 
 Where MySudo distinguishes itself: the permanence and the breadth of privacy coverage per identity. If you give a Sudo number to a dating match and things go badly, you delete that Sudo and everything associated with it vanishes — the number, the email, the browser history. For users who think about privacy systematically rather than just wanting an extra SMS lane, MySudo is worth the premium.
 
-**Best for:** Privacy-conscious users who want a permanent second identity, not just a second number.
+**Best for:** Privacy-conscious users who want a permanent second identity, not just a [second number](https://snipstack.io/second-number-for-receiving-verification-sms-2026/).
 
 ---
 
