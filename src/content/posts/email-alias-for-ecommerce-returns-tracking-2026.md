@@ -180,7 +180,7 @@ An [email alias](https://snipstack.io/email-alias-for-rewards-program-signup-202
 **Will retailers accept an [email alias for](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) my account?**
 Most do. Mainstream retailers — Amazon, eBay, Walmart, ASOS, Zara, and the majority of Shopify-powered stores — accept alias addresses the same as any regular email. The exception is some platforms that actively block known alias domains. Alt ID has the lowest block rate of the tools compared here because its addresses use realistic-looking domains not found on standard blocklists. [See how Alt ID compares →](/blog/altid?sub=email-alias-for-ecommerce-returns-tracking-2026__faq)
 
-**Can I receive return labels and RMA codes through an alias?**
+**[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) return labels and RMA codes through an alias?**
 Yes. [Email alias](https://snipstack.io/email-alias-for-gym-membership-signup-2026/)es forward every email that arrives — including attachments like PDF return labels. The alias is transparent to the retailer; they send emails normally, and you receive them in your real inbox. Nothing in the forwarding process strips attachments or links.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my return if I delete the alias too early?**

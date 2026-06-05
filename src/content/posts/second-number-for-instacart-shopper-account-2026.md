@@ -138,7 +138,7 @@ If a situation develops — a customer who seemed to know too much about you, a 
 
 It depends on the type of number. Free VoIP services like Google Voice and TextNow are typically blocked by Instacart's verification system because they are associated with throwaway accounts. Carrier-backed numbers — the type provided by [Alt-Number](/blog/altnumber?sub=second-number-for-instacart-shopper-account-2026__faq) — pass Instacart's verification because they route through real mobile carrier infrastructure, which the platform treats identically to a standard mobile line.
 
-**Can I receive Instacart order alerts and shopper notifications on my [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/)?**
+**[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) Instacart order alerts and shopper notifications on my [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/)?**
 
 Yes. Alt-Number provides a full SMS inbox for the numbers you provision. Instacart's order notifications, customer messages routed through the app, and support SMS all arrive in your Alt-Number inbox exactly as they would on a standard line. You stay fully operational as a shopper — the only thing that changes is which number your account is anchored to.
 

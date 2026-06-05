@@ -62,7 +62,7 @@ Here is how the leading options stack up for Twitch Prime use specifically.
 
 ### Surfshark Alt-ID
 
-Alt-ID generates a complete alternate identity — a unique email address paired with a cover name — so gaming platforms see a persona rather than your real details. The alias forwards reliably and you can deactivate it at any time from the Surfshark dashboard. Because it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's subscription plans, most users who already have Surfshark for VPN or antivirus access it at no additional cost.
+Alt-ID generates a complete alternate identity — a unique email address paired with a cover name — so gaming platforms see a persona rather than your real details. The alias forwards reliably and you can deactivate it at any time from the Surfshark dashboard. Because it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's subscription plans, most users who already have Surfshark for VPN or [antivirus](https://snipstack.io/vs-antivirus-2026/) access it at no additional cost.
 
 For Twitch Prime, the workflow is straightforward: create an alias, use it to register or verify a Prime Gaming redemption, collect your benefit, and keep the alias active or disable it depending on whether you want future notifications from that game's publisher.
 
@@ -118,7 +118,7 @@ Prime Gaming benefits are tied to your Amazon Prime account, not your email addr
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the alias — do I lose access to my Twitch account?**
 No, as long as you do not need the email for login verification. If you later need to verify your Twitch login or reset a password, you would need the alias active to receive that message. A better approach is to disable the alias (which stops forwarding) rather than delete it, so you can reactivate it if needed.
 
-**Is Surfshark Alt-ID free to use?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-ID free to use?**
 Alt-ID is included in Surfshark's subscription plans. If you are already a Surfshark subscriber for VPN or antivirus, you get Alt-ID at no extra charge. New users can sign up for a Surfshark plan to access all features including Alt-ID.
 
 **Can I use multiple aliases — one per game publisher?**

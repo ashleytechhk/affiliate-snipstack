@@ -172,7 +172,7 @@ Yes. Scans run in the background and may slow your computer slightly during that
 
 ## The Bottom Line
 
-Knowing how to check if your PC is hacked is a skill that protects your photos, your finances, and your privacy. The warning signs are not subtle once you know what to look for: unexplained slowness, strange programs, a cursor that moves alone, password reset emails you never requested. The built-in tools on your Windows PC — Task Manager, Windows Defender, and the command prompt — let you investigate without spending anything.
+Knowing [how to check](https://snipstack.io/how-to-check-for-malware-on-mac-2026/) if your PC is hacked is a skill that protects your photos, your finances, and your privacy. The warning signs are not subtle once you know what to look for: unexplained slowness, strange programs, a cursor that moves alone, password reset emails you never requested. The built-in tools on your Windows PC — Task Manager, Windows Defender, and the command prompt — let you investigate without spending anything.
 
 The honest truth is that manual checks take effort and need to happen regularly to stay effective. A reliable antivirus program handles that for you, quietly, every day.
 

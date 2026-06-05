@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 **Every 39 seconds, a computer somewhere in the world is attacked by a hacker.** For seniors who rely on Windows 11 to manage bank accounts, medical records, and family photos, a Trojan infection is not just an inconvenience — it can be life-altering. If you've noticed your computer running slowly, strange pop-ups appearing, or programs opening on their own, a Trojan horse virus may already be at work on your machine.
 
-This guide explains exactly what a Trojan is, how to spot one, and — most importantly — [how to remove](https://snipstack.io/how-to-remove-spyware-from-android-phone-2026/) it from your Windows 11 computer in plain, simple language. No tech degree required.
+This guide explains exactly what a Trojan is, [how to spot](https://snipstack.io/how-to-spot-online-shopping-scam-2026/) one, and — most importantly — [how to remove](https://snipstack.io/how-to-remove-spyware-from-android-phone-2026/) it from your Windows 11 computer in plain, simple language. No tech degree required.
 
 [**Get protected right now with Surfshark Antivirus**](/blog/antivirus?sub=how-to-remove-trojan-from-windows-11-2026__above-fold)
 
@@ -46,7 +46,7 @@ You do not need to be a computer expert to spot a Trojan. Look for these red fla
 
 **Strange programmes appear.** If you see software installed that you don't remember downloading, that is a serious warning sign.
 
-**Pop-up windows keep appearing.** Legitimate programmes rarely create non-stop pop-ups. If your screen is filling with alerts, ads, or warnings — especially ones that ask for your phone number or credit card — stop and do not click anything.
+**Pop-up windows keep appearing.** Legitimate programmes rarely create non-stop pop-ups. If your screen is filling with alerts, ads, or warnings — especially ones that ask for your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) or credit card — stop and do not click anything.
 
 **Your antivirus has been turned off.** Trojans often try to disable your security software first so they can operate freely. If [Windows Security](https://snipstack.io/windows-security-2026/) shows as "off" and you didn't turn it off, take action immediately.
 
@@ -117,7 +117,7 @@ Updates often contain security fixes that prevent future infections.
 
 This is not meant to frighten you — it's important information. Criminals specifically design Trojans to fool people who may be less familiar with modern technology. Common tactics aimed at seniors include:
 
-- **Tech support scams:** A pop-up or phone call claiming your computer has a virus and asking you to pay for remote help. Legitimate companies like Microsoft never contact you this way.
+- **[Tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s:** A pop-up or phone call claiming your computer has a virus and asking you to pay for remote help. Legitimate companies like Microsoft never contact you this way.
 - **Fake grandchild emails:** A message pretending to be from a grandchild who needs money urgently — and asks you to click a link.
 - **Fake prize notifications:** "You've won!" messages that ask you to download a file to claim your prize.
 

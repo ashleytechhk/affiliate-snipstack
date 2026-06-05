@@ -157,7 +157,7 @@ Often, yes. Many reverse-lookup services identify TextNow numbers as VoIP number
 
 The number is released when the subscription ends. Any contacts who have that number can no longer reach you through it. If you plan to continue using the number long-term, keeping the subscription active maintains continuity.
 
-**Can I receive calls on my Alt Number, or just texts?**
+**[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) calls on my Alt Number, or just texts?**
 
 Surfshark Alt Number supports both — calls are forwarded to your real phone and SMS messages come through the app. You can have a full phone conversation without the other person ever knowing your real number.
 

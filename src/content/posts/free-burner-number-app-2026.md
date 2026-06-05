@@ -178,7 +178,7 @@ Someone else may have had this number assigned to them previously. Request a fre
 
 This is common. Google Voice operates on a VoIP range that Tinder's verification system flags. Switch to a carrier-backed number — the [Alt-Number free trial](/blog/altnumber?sub=free-burner-number-app-2026__mid) gives you access to a real mobile number that passes Tinder verification.
 
-### Can I receive calls, not just texts?
+### [Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) calls, not just texts?
 
 Yes — on Alt-Number, incoming calls ring through the app. On Google Voice, calls forward to your linked real number (or you can take them in the Voice app). TextNow also handles calls, though call quality depends on your WiFi connection.
 

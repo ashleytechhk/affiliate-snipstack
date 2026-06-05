@@ -157,7 +157,7 @@ Some sites run blocker-detection scripts and display a banner asking you to whit
 
 Yes. Samsung Internet allows you to enable more than one content blocker add-on simultaneously and stacks their filter rules. Some users run AdBlock for Samsung Internet for general ad filtering and AdGuard Content Blocker for tracker blocking — both active at once.
 
-**Does ad blocking slow down Samsung Internet?**
+**[Does ad blocking](https://snipstack.io/does-ad-blocking-work-on-vpn-traffic-2026/) slow down Samsung Internet?**
 
 No. Because Samsung Internet applies content blocker rules natively before making network requests, blocking actually makes pages load faster. Fewer requests are made, less JavaScript executes after load, and the browser's main thread stays less congested.
 

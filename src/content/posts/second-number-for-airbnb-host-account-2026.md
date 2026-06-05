@@ -147,7 +147,7 @@ A carrier-backed [second number](https://snipstack.io/second-number-for-discord-
 
 It depends on the type of number. Free VoIP numbers from services like Google Voice or TextNow are frequently blocked by Airbnb's verification system. Carrier-backed numbers — the type provided by [Alt-Number](/blog/altnumber?sub=second-number-for-airbnb-host-account-2026__faq) — pass Airbnb's check because they route through real mobile carrier infrastructure, which Airbnb's system treats identically to a standard mobile line.
 
-**Can I receive Airbnb booking notifications and guest messages on my [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/)?**
+**[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) Airbnb booking notifications and guest messages on my [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/)?**
 
 Yes. Alt-Number provides a full SMS inbox and call support for the numbers you provision. Airbnb booking alerts, guest coordination messages, and support SMS all arrive in your Alt-Number inbox exactly as they would on a standard mobile line. You manage which notifications you want active.
 

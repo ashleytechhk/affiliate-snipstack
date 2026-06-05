@@ -145,7 +145,7 @@ Mozilla's Firefox Relay generates `@mozmail.com` aliases through a browser exten
 **What works well:**
 
 - Free for five aliases
-- Works in any browser with the extension installed
+- Works in any [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) the extension installed
 - Backed by Mozilla's privacy reputation
 
 **Limitations:**

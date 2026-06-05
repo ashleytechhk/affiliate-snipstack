@@ -151,7 +151,7 @@ Standard browser-based [ad blocker](https://snipstack.io/ad-blocker-for-older-br
 
 Rarely. The core course content — video lectures, quizzes, exercises, transcripts — is served from the platform's own domains. Blockers target third-party ad and tracker domains. You may occasionally encounter a "please disable your [ad blocker](https://snipstack.io/ad-blocker-for-xbox-game-pass-2026/)" message on a browser-based platform; adding a site-specific exception takes seconds and does not affect other sites.
 
-**Does ad blocking on mobile help with battery life?**
+**[Does ad blocking](https://snipstack.io/does-ad-blocking-work-on-vpn-traffic-2026/) on mobile help with battery life?**
 
 Yes, measurably. Ad scripts — particularly video ads — run JavaScript that keeps the CPU active. Reducing the number of ad network calls means fewer background processes and lower battery consumption during long study sessions.
 

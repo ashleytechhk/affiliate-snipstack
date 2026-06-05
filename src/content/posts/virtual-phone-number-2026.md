@@ -203,7 +203,7 @@ A [virtual phone number](https://snipstack.io/virtual-phone-number-for-uber-regi
 **Will a [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) work for dating app verification?**
 Most VoIP-based [virtual number](https://snipstack.io/virtual-number-for-real-estate-agents-2026/)s get blocked by dating apps like Tinder and Bumble, which perform carrier-level checks to filter out non-mobile numbers. Surfshark Alternative Number is specifically designed to pass these checks because it provides a real local number, not a VoIP line. This makes it one of the very few [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) options that reliably works for dating app verification.
 
-**Can I receive SMS verification codes on a [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/)?**
+**[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) SMS verification codes on a [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/)?**
 It depends on the service. VoIP numbers from Google Voice, Hushed, Burner, and TextNow are frequently blocked by platforms that use SMS for two-factor authentication or account verification. Surfshark Alternative Number, because it's a real local number, works with most SMS verification systems — including banking apps, social platforms, and two-factor auth.
 
 **Do I need a SIM card or [second phone](https://snipstack.io/second-phone-number-2026/) to use a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/)?**

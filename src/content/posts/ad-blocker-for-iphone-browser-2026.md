@@ -158,7 +158,7 @@ No. iOS does not include a native [ad blocker](https://snipstack.io/ad-blocker-f
 
 Some sites detect content blockers and show a warning asking you to disable blocking. Most news sites are the most common offenders. You can add individual sites to an allowlist inside your content blocker app. Disabling the blocker for a single site takes about two taps. **[Find a blocker that makes allowlisting easy →](/blog/adblock?sub=ad-blocker-for-iphone-browser-2026__faq)**
 
-**Does ad blocking slow down my iPhone?**
+**[Does ad blocking](https://snipstack.io/does-ad-blocking-work-on-vpn-traffic-2026/) slow down my iPhone?**
 
 The opposite. Safari Content Blockers are compiled natively by iOS, not run as JavaScript. Pages load faster because fewer network requests are made and less script executes after load.
 
