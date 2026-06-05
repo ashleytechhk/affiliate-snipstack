@@ -128,7 +128,7 @@ Yes. Using a valid phone number — virtual or otherwise — to request insuranc
 
 ### Will insurance comparison sites reject [virtual number](https://snipstack.io/virtual-number-monthly-vs-yearly-plan-cost-2026/)s?
 
-Most will not. Virtual numbers from services like Alt-Number are valid, verified phone numbers that pass standard format checks and can receive SMS verification codes. A small number of sites may flag VoIP numbers, but this is uncommon for mainstream comparison platforms. [Get Alt-Number here](/blog/altnumber?sub=virtual-number-for-insurance-comparison-quote-2026__faq) and test it on your first form — if there is an issue, you can always fall back for that specific site.
+Most will not. [Virtual number](https://snipstack.io/virtual-number-that-works-with-mfa-apps-2026/)s from services like Alt-Number are valid, verified phone numbers that pass standard format checks and can receive SMS verification codes. A small number of sites may flag VoIP numbers, but this is uncommon for mainstream comparison platforms. [Get Alt-Number here](/blog/altnumber?sub=virtual-number-for-insurance-comparison-quote-2026__faq) and test it on your first form — if there is an issue, you can always fall back for that specific site.
 
 ### How is this different from just using a Google Voice number?
 

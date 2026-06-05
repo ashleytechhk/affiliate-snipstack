@@ -153,7 +153,7 @@ Home service workers did not choose to learn this lesson the easy way. Years of 
 
 Online daters are making the same mistake now, at the same scale, for the same reason: sharing a real number with people they don't fully know yet creates a connection they can't control.
 
-A virtual number on a Surfshark plan costs nothing extra. Setup is under five minutes. It gives you a fully functional number to hand out on dating apps — and a clean, instant way to close that connection the moment you need to. Your real number stays where it belongs: known only to the people you have chosen to trust.
+A [virtual number](https://snipstack.io/virtual-number-that-works-with-mfa-apps-2026/) on a Surfshark plan costs nothing extra. Setup is under five minutes. It gives you a fully functional number to hand out on dating apps — and a clean, instant way to close that connection the moment you need to. Your real number stays where it belongs: known only to the people you have chosen to trust.
 
 **[Get your virtual number with Surfshark Alt-Number — and stop giving strangers a permanent line to your real life](/blog/altnumber?sub=virtual-number-for-home-service-workers-2026__cta)**
 
