@@ -73,7 +73,7 @@ This is the fastest path. Every major Smart TV OS — Tizen, webOS, Android TV, 
 1. On your Smart TV, go to **Settings > Network > Wi-Fi** (or Wired Connection)
 2. Select your current network and choose **Manual / Advanced settings**
 3. Switch from DHCP to **Manual IP** or look for a standalone DNS field
-4. Enter a free ad-blocking DNS address — for example, `94.140.14.14` and `94.140.15.15` (AdGuard DNS)
+4. Enter a free ad-blocking DNS address — for example, `94.140.14.14` and `94.140.15.15` ([AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/))
 5. Save and test by opening an ad-heavy app
 
 This takes under two minutes. The downside: free DNS-based blockers have limited filter lists and no privacy features beyond basic ad blocking.
@@ -108,7 +108,7 @@ All traffic from the TV — including ads — routes through your phone's filter
 
 ## Why CleanWeb Over Free DNS Alternatives?
 
-Free public DNS blockers like AdGuard DNS or NextDNS (free tier) cover the basics. They block known ad domains using publicly maintained lists. CleanWeb does the same but adds:
+Free public DNS blockers like [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) or NextDNS (free tier) cover the basics. They block known ad domains using publicly maintained lists. CleanWeb does the same but adds:
 
 - **Malware domain blocking** — not just ad servers, but phishing and malware endpoints
 - **No-log DNS resolution** — free public DNS servers may log query data; Surfshark does not

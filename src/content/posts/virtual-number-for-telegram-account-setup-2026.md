@@ -127,7 +127,7 @@ Yes, with an important qualifier: Telegram rejects many VoIP numbers from free s
 **Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) create a second Telegram account?**
 Yes. Telegram allows multiple accounts on the same device (via the Add Account feature in Settings). Each account requires a distinct phone number. A [virtual number](https://snipstack.io/virtual-number-that-works-with-mfa-apps-2026/) from Alt-Number gives you a [second number for](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) a second account — separate identity, separate contacts, same device.
 
-**Will other Telegram users know I am using a virtual number?**
+**Will other Telegram users know I am using a [virtual number](https://snipstack.io/virtual-number-for-bank-account-verification-2026/)?**
 No. From any other user's perspective, your account is a standard Telegram account. The number type — carrier-backed virtual vs. real SIM — is not visible in the Telegram UI. Your username, display name, and profile photo are what other users see.
 
 **What happens to my Telegram account if I cancel Alt-Number?**

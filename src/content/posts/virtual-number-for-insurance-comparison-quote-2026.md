@@ -144,7 +144,7 @@ Yes. Alt-Number provides numbers in a growing list of countries and the app work
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I cancel my Alt-Number subscription?
 
-The virtual number is retired. Any calls or texts sent to it will no longer reach you. This is actually useful: if you used a [virtual number for](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/) a comparison form and later decide you no longer want any contact from that lead pool, canceling or retiring the number is a clean break that no amount of "unsubscribe" requests can reliably achieve.
+The [virtual number](https://snipstack.io/virtual-number-for-bank-account-verification-2026/) is retired. Any calls or texts sent to it will no longer reach you. This is actually useful: if you used a [virtual number for](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/) a comparison form and later decide you no longer want any contact from that lead pool, canceling or retiring the number is a clean break that no amount of "unsubscribe" requests can reliably achieve.
 
 ---
 

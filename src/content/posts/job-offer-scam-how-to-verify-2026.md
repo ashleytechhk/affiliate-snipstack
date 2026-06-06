@@ -8,7 +8,7 @@ tags: ["scamcheck", "privacy", "review"]
 
 ![How to verify a job offer scam in 2026](/og/job-offer-scam-how-to-verify-2026.png)
 
-You get an email. A recruiter found your profile and has a role that sounds perfect — good salary, flexible hours, work from home. They want to move fast. All you need to do is fill out a form, click a link, or pay a small fee for a background check.
+You get an email. A recruiter found your profile and has a role that sounds perfect — good salary, flexible hours, [work from home](https://snipstack.io/work-from-home-job-scam-how-to-spot-2026/). They want to move fast. All you need to do is fill out a form, click a link, or pay a small fee for a background check.
 
 Something feels off. But is it?
 

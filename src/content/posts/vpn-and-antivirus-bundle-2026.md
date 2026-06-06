@@ -199,7 +199,7 @@ Yes. Unlike Norton (5 devices) or McAfee (capped tiers), [Surfshark One](https:/
 
 [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) runs alongside Windows Defender by default. You do not need to disable Defender. The two coexist without conflict and the combination adds real-time cloud-backed scanning on top of Defender's local engine.
 
-**Can I use it for streaming if I work from home?**
+**Can I use it for streaming if I [work from home](https://snipstack.io/work-from-home-job-scam-how-to-spot-2026/)?**
 
 Yes. The VPN component supports split tunneling, which lets you route streaming traffic through the VPN while keeping your work apps on the regular connection. Enable it under Settings → VPN → Split Tunneling and add your work apps to the bypass list.
 

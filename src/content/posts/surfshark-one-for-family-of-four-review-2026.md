@@ -38,7 +38,7 @@ The VPN covers 100+ countries, supports WireGuard for fast connections, and incl
 
 ### Antivirus: Real-Time Scanning Across All Platforms
 
-[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) runs on Windows, macOS, and Android. It provides real-time scanning, scheduled scans, and a webcam protection feature (Windows only) that alerts you if an app tries to access your camera. For a household where adults work from home and teenagers do homework on shared machines, real-time scanning is the minimum protection level worth having.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) runs on Windows, macOS, and Android. It provides real-time scanning, scheduled scans, and a webcam protection feature (Windows only) that alerts you if an app tries to access your camera. For a household where adults [work from home](https://snipstack.io/work-from-home-job-scam-how-to-spot-2026/) and teenagers do homework on shared machines, real-time scanning is the minimum protection level worth having.
 
 iOS is the gap: Apple's sandbox architecture limits what third-party antivirus apps can do on iPhones, so the antivirus component is less meaningful on iOS devices. The VPN and Alert still run fully on iOS.
 

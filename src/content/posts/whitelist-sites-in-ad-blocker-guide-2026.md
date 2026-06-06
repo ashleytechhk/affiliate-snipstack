@@ -70,7 +70,7 @@ CleanWeb is Surfshark's built-in ad and [tracker blocker](https://snipstack.io/t
 
 The advantage here is that your whitelist is synced across all your devices if you are logged into the same Surfshark account. Change it once on your phone and it applies everywhere.
 
-### Option 2: DNS-Level Blocker (AdGuard DNS, NextDNS)
+### Option 2: DNS-Level Blocker ([AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/), NextDNS)
 
 DNS blockers intercept ad requests before they reach your device by swapping out your phone's DNS server.
 
@@ -160,19 +160,19 @@ The method depends on your [ad blocker](https://snipstack.io/ad-blocker-for-andr
 Some [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s support URL-level exceptions (blocking only specific paths). Most, including network-level blockers, work at the domain level, so whitelisting `news.com` applies to all pages on `news.com`. Browser extensions like uBlock Origin offer more granular page-level control.
 
 **Why do some sites ask me to whitelist them before letting me read?**
-This is an **ad blocker detection wall**. The site runs a script that checks whether ad requests succeed. If they do not, it assumes you have an ad blocker and shows the prompt. Some sites are strict (hard paywall), others are polite (soft request). Whitelisting will get you past it, but you can also try private browsing mode, which resets those detection scripts on each visit.
+This is an **[ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) detection wall**. The site runs a script that checks whether ad requests succeed. If they do not, it assumes you have an [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) and shows the prompt. Some sites are strict (hard paywall), others are polite (soft request). Whitelisting will get you past it, but you can also try private browsing mode, which resets those detection scripts on each visit.
 
 **Does Surfshark CleanWeb slow down my connection?**
 No noticeable impact for most users. Because CleanWeb blocks ad requests before they load, pages often load *faster* than without a blocker, since you are not downloading several megabytes of ad assets per page.
 
 **Is it safe to whitelist my banking app or financial sites?**
-Your banking app typically handles its own security at the TLS layer, so ad blocker whitelisting does not change its security posture. However, if you are on a mobile banking *website* in a browser, whitelisting it would allow any trackers that site uses. Most banking sites have minimal third-party trackers, but it is still worth checking.
+Your banking app typically handles its own security at the TLS layer, so [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) whitelisting does not change its security posture. However, if you are on a mobile banking *website* in a browser, whitelisting it would allow any trackers that site uses. Most banking sites have minimal third-party trackers, but it is still worth checking.
 
 ---
 
 ## Bottom Line
 
-Whitelisting is a normal, useful part of running an ad blocker — as long as you do it deliberately. The risk is not whitelisting itself, it is doing it carelessly or under pressure from a sketchy pop-up.
+Whitelisting is a normal, useful part of running an [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) — as long as you do it deliberately. The risk is not whitelisting itself, it is doing it carelessly or under pressure from a sketchy pop-up.
 
 The practical advice is simple: use an ad blocker with easy, in-app whitelist controls so you are not stuck disabling blocking entirely just to visit one site. Surfshark CleanWeb handles this at the VPN level, covers every app on your phone, and lets you add exceptions in seconds without touching DNS settings or browser configs.
 

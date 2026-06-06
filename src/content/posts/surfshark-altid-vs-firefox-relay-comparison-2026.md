@@ -42,7 +42,7 @@ The question is which tool does this better.
 | Browser extension | Yes | Yes (Firefox only) |
 | Works on all browsers | Yes | Firefox-centric |
 | Standalone product | Yes | Mozilla account required |
-| Pricing | Surfshark One subscription | Free / $1.99/mo paid |
+| Pricing | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) subscription | Free / $1.99/mo paid |
 | Open source | No | Partially |
 
 ![Alt ID vs Firefox Relay feature breakdown](/og/surfshark-altid-vs-firefox-relay-comparison-2026-inline-1.png)
@@ -63,7 +63,7 @@ Alt ID takes a wider view of the spam problem. The issue isn't just your email a
 
 **Cross-device, cross-browser.** Alt ID works through the Surfshark app and browser extension regardless of which browser you prefer. You're not locked into a single ecosystem.
 
-**Bundled value.** Alt ID is included in the Surfshark One plan, which also covers VPN, antivirus, and real-time alert tools. If you already use or want a VPN, the combined cost is significantly better than buying tools separately.
+**Bundled value.** Alt ID is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan, which also covers VPN, antivirus, and real-time alert tools. If you already use or want a VPN, the combined cost is significantly better than buying tools separately.
 
 ### Alt ID Limitations
 
@@ -134,7 +134,7 @@ Neither tool claims to make you untraceable or completely anonymous — and any 
 
 ## Pricing Breakdown (2026)
 
-**Surfshark Alt ID** is available as part of Surfshark One. Pricing varies by subscription length, with multi-year plans offering the best per-month rate. Alt ID is not sold as a standalone product.
+**Surfshark Alt ID** is available as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/). Pricing varies by subscription length, with multi-year plans offering the best per-month rate. Alt ID is not sold as a standalone product.
 
 **Firefox Relay Free** — Five aliases, email forwarding only, no reply-from-alias.
 
@@ -148,7 +148,7 @@ If you're comparing Alt ID against Relay Premium purely on [email alias](https:/
 
 Firefox Relay earns its place as a starter tool. If you've never used an [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/) before, the free plan is a painless introduction. But the moment you hit five aliases — or the moment you realize spam isn't just about your email but about your entire identity footprint — Relay stops solving the problem.
 
-Surfshark Alt ID solves the whole problem. Unlimited aliases, a generated identity profile, cross-browser support, and reply capability from aliases put it clearly ahead for anyone dealing with a genuinely overwhelmed inbox. Bundled with a VPN and antivirus, the Surfshark One plan makes the math work for privacy-conscious users who want one subscription to cover multiple threat vectors.
+Surfshark Alt ID solves the whole problem. Unlimited aliases, a generated identity profile, cross-browser support, and reply capability from aliases put it clearly ahead for anyone dealing with a genuinely overwhelmed inbox. Bundled with a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/), the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) plan makes the math work for privacy-conscious users who want one subscription to cover multiple threat vectors.
 
 **[Take control of your inbox — get started with Surfshark Alt ID](/blog/altid?sub=surfshark-altid-vs-firefox-relay-comparison-2026__cta)**
 
