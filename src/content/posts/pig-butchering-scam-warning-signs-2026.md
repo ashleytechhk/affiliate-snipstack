@@ -12,7 +12,7 @@ You receive a friendly message from someone you do not know. They seem warm, att
 
 This is the opening move of a pig butchering scam — one of the most financially devastating fraud types of the decade. The name comes from the idea that victims are "fattened up" with trust before being "slaughtered" financially. Losses commonly run to tens of thousands of dollars. By the time most people realise what happened, the money is gone and the scammer has vanished.
 
-This guide lays out the 8 warning signs side by side, explains what each one looks like in practice, and shows you how to check suspicious emails and contacts before the scam can take hold.
+This guide lays out the 8 warning signs side by side, explains what each one looks like in practice, and shows you [how to check](https://snipstack.io/how-to-check-company-registration-online-2026/) suspicious emails and contacts before the scam can take hold.
 
 > **Got a suspicious email or message right now?** [Check it free with Surfshark's Email Scam Checker](/blog/scamcheck?sub=pig-butchering-scam-warning-signs-2026__above-fold) — takes under a minute, no account needed.
 
@@ -59,7 +59,7 @@ The people who fall victim are not naive or careless. They are people who respon
 
 **Why it works:** The opening feels harmless, even flattering. Someone is interested in talking to you. You did not seek them out — they came to you — so it does not feel like a sales pitch.
 
-**What to do:** Politely end the conversation. A genuine wrong number apologises and stops. A scammer uses the mistake as a door opener and keeps talking.
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):** Politely end the conversation. A genuine wrong number apologises and stops. A scammer uses the mistake as a door opener and keeps talking.
 
 ---
 
@@ -79,7 +79,7 @@ The people who fall victim are not naive or careless. They are people who respon
 
 **Why it works:** The profile is designed to be aspirational without being implausible. Scammers use stolen photos and crafted backstories tested to be believable to the target demographic.
 
-**What to do:** Reverse image search any profile photo. On a computer, right-click the photo and look for an option like "Search image with Google" or save it and upload it to images.google.com. If the same face appears under different names elsewhere, that is decisive.
+**What to do:** [Reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/) any profile photo. On a computer, right-click the photo and look for an option like "Search image with Google" or save it and upload it to images.google.com. If the same face appears under different names elsewhere, that is decisive.
 
 ---
 
@@ -174,7 +174,7 @@ If a contact you met online — whether through email, a messaging app, or socia
 
 ### What exactly is a pig butchering scam?
 
-A pig butchering scam is a long-con fraud that combines romance and investment deception. The scammer builds a warm personal relationship over days or weeks before introducing a fake investment opportunity. Once the victim has deposited money, the platform is revealed to be fraudulent and the contact disappears. The name describes the process of building trust ("fattening") before taking the money ("slaughter").
+A pig butchering scam is a long-con fraud that combines romance and investment deception. The scammer builds a warm personal relationship over days or weeks before introducing a [fake investment](https://snipstack.io/fake-investment-app-scam-how-to-check-2026/) opportunity. Once the victim has deposited money, the platform is revealed to be fraudulent and the contact disappears. The name describes the process of building trust ("fattening") before taking the money ("slaughter").
 
 ### Who do pig butchering scammers target?
 

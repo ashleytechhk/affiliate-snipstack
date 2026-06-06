@@ -144,7 +144,7 @@ Under ten minutes for most users. Download the Surfshark app, navigate to Alt-Nu
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my conversations if I disable the [virtual number](https://snipstack.io/virtual-number-for-paypal-setup-2026/)?**
 
-Any messages or calls sent to the disabled number stop reaching you immediately. Contacts who had the virtual number get no response — the number does not forward, and in most cases returns a generic "unable to complete call" result on their end. Your real inbox and real number are unaffected.
+Any messages or calls sent to the disabled number stop reaching you immediately. Contacts who had the [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) get no response — the number does not forward, and in most cases returns a generic "unable to complete call" result on their end. Your real inbox and real number are unaffected.
 
 **Do I need a data plan or Wi-Fi for the forwarding to work?**
 

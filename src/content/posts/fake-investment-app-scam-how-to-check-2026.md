@@ -87,7 +87,7 @@ The core checking feature is free. Extended features including ongoing breach al
 
 ## Method 2: VirusTotal — Deep Scan for the Curious
 
-VirusTotal is a free service (owned by Google) that lets you paste any URL and runs it simultaneously through more than 70 antivirus and security engines. The results show you which engines flagged the site and what category they assigned — phishing, financial fraud, malware distribution, or clean.
+VirusTotal is a free service (owned by Google) that lets you paste any URL and runs it simultaneously through more than 70 [antivirus](https://snipstack.io/vs-antivirus-2026/) and security engines. The results show you which engines flagged the site and what category they assigned — phishing, financial fraud, malware distribution, or clean.
 
 **What it does well:** If a site shows up flagged on multiple independent engines, that is a strong signal. VirusTotal also shows WHOIS data (who registered the domain, when, and through which registrar), historical scan results, and community comments from security researchers.
 
@@ -143,7 +143,7 @@ If you have already clicked a link from a suspected investment scam email, act q
 
 **Do not enter any information.** If you landed on a page asking for your name, email, password, or banking details, close the tab immediately without filling anything in.
 
-**Run a security scan on your device.** Some phishing sites attempt to silently download malware when you visit them. Running a scan with updated security software (Windows Defender, Malwarebytes, or similar) will catch most of these.
+**Run a security scan on your device.** Some phishing sites attempt to silently download malware when you visit them. Running a scan with updated security software ([Windows Defender](https://snipstack.io/windows-defender-download-2026/), Malwarebytes, or similar) will catch most of these.
 
 **Change your passwords.** If you entered any credentials before realising the site was fraudulent, change those passwords immediately — starting with your email account and any financial accounts, since these are the highest-value targets.
 

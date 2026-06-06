@@ -121,7 +121,7 @@ Sophos Home Free covers one device. The Premium plan covers up to 10, which is g
 
 ### Price and Value
 
-Sophos Home Premium at around $44.99 per year is antivirus only. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) at approximately $3.99 per month (billed multi-year) delivers antivirus plus VPN plus breach alerts plus search privacy across unlimited devices. Dollar for dollar, Surfshark packs more protection per payment. **Winner: Surfshark** on overall value.
+Sophos Home Premium at around $44.99 per year [is antivirus](https://snipstack.io/is-antivirus-needed-with-vpn-already-installed-2026/) only. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) at approximately $3.99 per month (billed multi-year) delivers antivirus plus VPN plus breach alerts plus search privacy across unlimited devices. Dollar for dollar, Surfshark packs more protection per payment. **Winner: Surfshark** on overall value.
 
 ---
 

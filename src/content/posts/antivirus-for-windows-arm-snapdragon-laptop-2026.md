@@ -137,7 +137,7 @@ If you are ever unsure, call a family member before doing anything else.
 
 ## Frequently Asked Questions
 
-**Is antivirus software compatible with Snapdragon Windows laptops?**
+**[Is antivirus](https://snipstack.io/is-antivirus-needed-with-vpn-already-installed-2026/) software compatible with Snapdragon Windows laptops?**
 Not all antivirus tools are. Many older products were written for Intel-based chips and run slowly or fail to install properly on ARM-based Snapdragon machines. Surfshark Antivirus is built to run natively on Windows ARM, so it installs cleanly and performs at full speed without draining your battery. [Get it here.](/blog/antivirus?sub=antivirus-for-windows-arm-snapdragon-laptop-2026__faq)
 
 **Does my Snapdragon laptop already have virus protection?**

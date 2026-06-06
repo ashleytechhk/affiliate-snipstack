@@ -151,7 +151,7 @@ Yes — this is one of the strongest use cases for a VPN. It encrypts your traff
 
 ### Does a VPN protect against malware?
 
-Not on its own. A standard VPN encrypts your connection but doesn't scan files or block malicious downloads. However, some VPNs include malware-domain blocking (like Surfshark's CleanWeb), which adds a layer of protection by blocking connections to known bad domains before they load.
+Not on its own. A standard VPN encrypts your connection but doesn't scan files or [block malicious](https://snipstack.io/block-malicious-ads-before-they-load-2026/) downloads. However, some VPNs include malware-domain blocking (like Surfshark's CleanWeb), which adds a layer of protection by blocking connections to known bad domains before they load.
 
 ### How many devices can I use with one VPN subscription?
 

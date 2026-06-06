@@ -175,6 +175,6 @@ The cost of a [virtual number](https://snipstack.io/virtual-number-for-paypal-se
 
 Monthly plans give you flexibility. Yearly plans give you value. Both give you control over who can reach you and when.
 
-If you are serious about dating safely in 2026, a virtual number is not a luxury feature. It is basic contact hygiene.
+If you are serious about dating safely in 2026, a [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) is not a luxury feature. It is basic contact hygiene.
 
 [Start protecting your real number with Surfshark Alt Number](/blog/altnumber?sub=virtual-number-monthly-vs-yearly-plan-cost-2026__cta)

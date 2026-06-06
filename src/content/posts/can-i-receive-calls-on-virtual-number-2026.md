@@ -91,7 +91,7 @@ What makes it particularly well suited to online dating:
 
 **Clean disposal.** If a match becomes uncomfortable, you delete the number. No carrier call required, no waiting period — it's gone, and so is any ability for that person to reach you.
 
-**Bundled privacy.** Alt Number is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) suite, which also includes a VPN, antivirus, and identity monitoring. For someone serious about dating-app privacy, the bundle provides layered protection at a price point that makes each individual tool essentially free.
+**Bundled privacy.** Alt Number is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) suite, which also includes a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring. For someone serious about dating-app privacy, the bundle provides layered protection at a price point that makes each individual tool essentially free.
 
 ![Surfshark Alt Number shown on a mobile device, with incoming call and text features highlighted](/og/can-i-receive-calls-on-virtual-number-2026-inline-2.png)
 
@@ -134,7 +134,7 @@ Yes. Services like Surfshark Alt Number work entirely through an app on your exi
 No. To any caller or texter, your [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) looks and behaves exactly like a standard phone number. There is no indication it is virtual. Your name and real number never appear on their caller ID.
 
 **Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) call back matches?**
-Yes. A full-featured [virtual number](https://snipstack.io/virtual-number-for-paypal-setup-2026/) service lets you make outgoing calls and send outgoing texts from the virtual number. The recipient sees the virtual number on their caller ID, not your real number.
+Yes. A full-featured [virtual number](https://snipstack.io/virtual-number-for-paypal-setup-2026/) service lets you make outgoing calls and send outgoing texts from the [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/). The recipient sees the virtual number on their caller ID, not your real number.
 
 **What happens to my virtual number if I cancel my subscription?**
 If your subscription ends, the virtual number is deactivated. Any contacts who had that number can no longer reach you through it. Your real number is unaffected. This is also useful as a deliberate exit: downgrade or cancel, and the number disappears cleanly.

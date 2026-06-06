@@ -36,7 +36,7 @@ Criminals today send emails that look exactly like messages from:
 
 - Your bank or credit union
 - The post office or a delivery company like UPS or FedEx
-- Medicare or Social Security
+- Medicare or [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/)
 - A grandchild in trouble
 - Your doctor's office or pharmacy
 
@@ -188,7 +188,7 @@ Surfshark's installation process is step by step, with clear pictures and plain 
 
 ## The Bottom Line
 
-Email scams targeting seniors are not going away — they are getting more sophisticated and more convincing every year. The one thing standing between your inbox and thousands of dollars in potential losses is antivirus software that actually checks what arrives before you open it.
+Email scams targeting seniors are not going away — they are getting more sophisticated and more convincing every year. The one thing standing between your inbox and thousands of dollars in potential losses [is antivirus](https://snipstack.io/is-antivirus-needed-with-vpn-already-installed-2026/) software that actually checks what arrives before you open it.
 
 Free tools and basic built-in protection are better than nothing, but they leave the most dangerous entry point — your email — inadequately covered.
 

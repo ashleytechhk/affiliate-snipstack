@@ -56,7 +56,7 @@ Real [email alias](https://snipstack.io/email-alias-for-legal-document-service-s
 | **Two-way reply via alias** | Yes | Yes | No | No |
 | **Custom domain** | No | Yes (paid) | No | No |
 | **Cross-platform** | iOS, Android, desktop | iOS, Android, desktop, browser | Apple devices only | Browser extension |
-| **Bundled privacy tools** | VPN + data removal + antivirus | No | iCloud+ bundle | Limited |
+| **Bundled privacy tools** | VPN + data removal + [antivirus](https://snipstack.io/vs-antivirus-2026/) | No | iCloud+ bundle | Limited |
 | **Free tier** | No (Surfshark plan required) | Yes (10 aliases) | Yes (iCloud+ subscribers) | Yes |
 | **Open source** | No | Yes | No | Partial |
 | **Setup time** | ~3 minutes | ~5 minutes | ~1 minute | ~2 minutes |
@@ -70,7 +70,7 @@ Real [email alias](https://snipstack.io/email-alias-for-legal-document-service-s
 
 ## Alt-ID (Surfshark): Best for Spam-Exhausted Users Who Want a Complete Fix
 
-[Alt-ID](/blog/altid?sub=email-alias-that-supports-plus-addressing-2026__mid) is Surfshark's [email alias](https://snipstack.io/email-alias-for-pharmacy-prescription-alerts-2026/) tool, bundled into every Surfshark subscription alongside the VPN, antivirus, and a personal data removal feature. It does not support plus addressing in the traditional `alias+tag@domain` sense — but for the spam problem you're actually trying to solve, that omission is irrelevant.
+[Alt-ID](/blog/altid?sub=email-alias-that-supports-plus-addressing-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [email alias](https://snipstack.io/email-alias-for-pharmacy-prescription-alerts-2026/) tool, bundled into every Surfshark subscription alongside the VPN, antivirus, and a personal data removal feature. It does not support plus addressing in the traditional `alias+tag@domain` sense — but for the spam problem you're actually trying to solve, that omission is irrelevant.
 
 ### What Alt-ID Gets Right
 
@@ -166,7 +166,7 @@ Yes. A common setup: use a full alias service (Alt-ID or SimpleLogin) for all ne
 
 Most websites accept any syntactically valid email address, which aliases are. A small number of services — particularly banks, government portals, and some enterprise software — block known alias or disposable-email domains. If an alias is rejected, use your real address for that specific service; those accounts warrant a direct relationship with your actual inbox. Reserve aliases for everything else.
 
-**What happens to my aliases if I cancel my Alt-ID or SimpleLogin subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my aliases if I cancel my Alt-ID or SimpleLogin subscription?**
 
 For Alt-ID: if you cancel your Surfshark subscription, your aliases stop forwarding. Before cancelling, update any accounts using those aliases to a different address. For SimpleLogin: cancelling a paid plan reverts you to the free tier (10 active aliases), so paid-plan aliases above that limit would be deactivated. In both cases, proactively migrate critical aliases before any subscription change.
 

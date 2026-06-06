@@ -142,7 +142,7 @@ A [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-20
 No. A [virtual number](https://snipstack.io/virtual-number-for-paypal-account-setup-2026/) from a service like Surfshark Alt-Number is not linked to your name, address, or carrier account. Reverse phone lookup on the [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) will not return your personal details.
 
 **Does a [virtual number](https://snipstack.io/virtual-number-for-paypal-setup-2026/) work without a mobile data plan?**
-Yes. Virtual numbers route through your internet connection — Wi-Fi at home, at a coffee shop, at the office. You do not need a mobile data plan to send or receive messages through the virtual number.
+Yes. [Virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/)s route through your internet connection — Wi-Fi at home, at a coffee shop, at the office. You do not need a mobile data plan to send or receive messages through the virtual number.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my virtual number?**
 When you delete a virtual number, it stops working immediately. Anyone who had that number can no longer reach you through it. Your real number is never affected. You can generate a new virtual number at any time.

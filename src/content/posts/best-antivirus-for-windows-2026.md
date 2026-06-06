@@ -111,7 +111,7 @@ You are now protected. You do not need to do anything else — the app updates i
 
 ![Feature comparison and device mockup for Surfshark Antivirus 2026](/og/best-antivirus-for-windows-2026-inline-2.png)
 
-Here is a quick look at why this antivirus works well for less tech-savvy users:
+Here is a quick look at why th[is antivirus](https://snipstack.io/is-antivirus-needed-with-vpn-already-installed-2026/) works well for less tech-savvy users:
 
 | Feature | Why It Matters |
 |---|---|
