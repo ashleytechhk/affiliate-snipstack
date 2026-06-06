@@ -53,7 +53,7 @@ Custom domain support narrows the field quickly. Apple Hide My Email and Fastmai
 
 ## Surfshark Alt-ID: The Full Picture
 
-Surfshark Alt-ID is the email masking component of the Surfshark One privacy bundle. It generates aliases on demand, supports custom domains, and routes mail through Surfshark's privacy infrastructure rather than advertising-supported servers.
+Surfshark Alt-ID is the email masking component of the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) privacy bundle. It generates aliases on demand, supports custom domains, and routes mail through Surfshark's privacy infrastructure rather than advertising-supported servers.
 
 ![Alt-ID setup and dashboard overview](/og/best-email-alias-service-with-custom-domain-2026-inline-1.png)
 
@@ -61,7 +61,7 @@ Surfshark Alt-ID is the email masking component of the Surfshark One privacy bun
 
 **Custom domain setup is straightforward.** You point a few DNS records at Surfshark's servers, and within minutes you can create aliases at any address on your domain. The dashboard is clean enough that non-technical users get it on the first try — no command-line setup, no configuration files.
 
-**Bundled pricing makes it competitive.** Standalone alias services charge $1–$4 per month. Alt-ID comes packaged with Surfshark [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/) under the Surfshark One plan, so if you use any Surfshark product already, you are essentially getting the alias service at no extra cost.
+**Bundled pricing makes it competitive.** Standalone alias services charge $1–$4 per month. Alt-ID comes packaged with Surfshark [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/) under the [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) plan, so if you use any Surfshark product already, you are essentially getting the alias service at no extra cost.
 
 **Identity protection extras.** Unlike pure alias services, Alt-ID also generates a secondary identity profile — an alternative name, address, and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) you can use when filling out optional fields on websites. This is particularly useful when a site insists on "real" personal details you would rather not share.
 
@@ -155,11 +155,11 @@ Some websites attempt to block known alias domains. Using a custom domain alias 
 **Is it legal to use a fake name or alternate identity when signing up for services?**
 For optional profile fields, yes. For services that legally require your real identity (banking, government services, age verification), you must provide accurate information. Alias services and identity protection tools are designed for protecting your privacy on sites that do not require verified identity — not for bypassing legal obligations.
 
-**Does Surfshark Alt-ID work with any email provider?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-ID work with any email provider?**
 Yes. Your real inbox can be Gmail, Outlook, Apple Mail, ProtonMail, or any other provider. Alt-ID simply forwards incoming mail to whichever address you register. Your existing email workflow stays exactly the same.
 
 **How many aliases can I create with Alt-ID?**
-Alt-ID supports unlimited alias creation under the Surfshark One plan. There is no cap on the number of aliases per custom domain.
+Alt-ID supports unlimited alias creation under the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) plan. There is no cap on the number of aliases per custom domain.
 
 ---
 

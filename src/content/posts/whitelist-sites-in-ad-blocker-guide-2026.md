@@ -59,7 +59,7 @@ The exact steps depend on which [ad blocker](https://snipstack.io/ad-blocker-for
 
 ### Option 1: VPN-Based [Ad Blocker](https://snipstack.io/ad-blocker-that-works-with-vpn-2026/) (Surfshark CleanWeb)
 
-CleanWeb is Surfshark's built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). It works at the VPN level, which means it covers your entire phone — browser and apps alike.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). It works at the VPN level, which means it covers your entire phone — browser and apps alike.
 
 1. Open the Surfshark app on your phone
 2. Go to **Settings** > **VPN Settings** > **CleanWeb**
@@ -110,7 +110,7 @@ A legitimate site will tell you politely that it has detected an [ad blocker](ht
 
 ---
 
-## What Happens to Your Privacy When You Whitelist?
+## [What Happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to Your Privacy When You Whitelist?
 
 This is the part most guides skip. When you whitelist a site, you are not just allowing its own ads — you are allowing every third-party request that site makes. A typical news site loads assets from 30 to 60 different domains: ad networks, social share buttons, analytics platforms, comment systems, video embeds, and more. All of those get through when you whitelist.
 
@@ -157,12 +157,12 @@ It can. Third-party trackers on whitelisted sites will be able to run, which mea
 The method depends on your [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/). If you are using a VPN-based blocker like Surfshark CleanWeb, open the app, go to settings, and add the domain to the allowlist. If you are using a content blocker in Safari, open the app associated with it and look for a whitelist or allowlist option.
 
 **Can I whitelist just one page, not the whole domain?**
-Some [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s support URL-level exceptions (blocking only specific paths). Most, including network-level blockers, work at the domain level, so whitelisting `news.com` applies to all pages on `news.com`. Browser extensions like uBlock Origin offer more granular page-level control.
+Some [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)s support URL-level exceptions (blocking only specific paths). Most, including network-level blockers, work at the domain level, so whitelisting `news.com` applies to all pages on `news.com`. Browser extensions like [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) offer more granular page-level control.
 
 **Why do some sites ask me to whitelist them before letting me read?**
 This is an **[ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) detection wall**. The site runs a script that checks whether ad requests succeed. If they do not, it assumes you have an [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) and shows the prompt. Some sites are strict (hard paywall), others are polite (soft request). Whitelisting will get you past it, but you can also try private browsing mode, which resets those detection scripts on each visit.
 
-**Does Surfshark CleanWeb slow down my connection?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb slow down my connection?**
 No noticeable impact for most users. Because CleanWeb blocks ad requests before they load, pages often load *faster* than without a blocker, since you are not downloading several megabytes of ad assets per page.
 
 **Is it safe to whitelist my banking app or financial sites?**
@@ -174,7 +174,7 @@ Your banking app typically handles its own security at the TLS layer, so [ad blo
 
 Whitelisting is a normal, useful part of running an [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) — as long as you do it deliberately. The risk is not whitelisting itself, it is doing it carelessly or under pressure from a sketchy pop-up.
 
-The practical advice is simple: use an ad blocker with easy, in-app whitelist controls so you are not stuck disabling blocking entirely just to visit one site. Surfshark CleanWeb handles this at the VPN level, covers every app on your phone, and lets you add exceptions in seconds without touching DNS settings or browser configs.
+The practical advice is simple: use an [ad blocker](https://snipstack.io/ad-blocker-free-2026/) with easy, in-app whitelist controls so you are not stuck disabling blocking entirely just to visit one site. Surfshark CleanWeb handles this at the VPN level, covers every app on your phone, and lets you add exceptions in seconds without touching DNS settings or browser configs.
 
 **[Get Surfshark CleanWeb and take control of your mobile ads](./blog/adblock?sub=whitelist-sites-in-ad-blocker-guide-2026__cta)**
 

@@ -63,7 +63,7 @@ Alt ID takes a wider view of the spam problem. The issue isn't just your email a
 
 **Cross-device, cross-browser.** Alt ID works through the Surfshark app and browser extension regardless of which browser you prefer. You're not locked into a single ecosystem.
 
-**Bundled value.** Alt ID is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan, which also covers VPN, antivirus, and real-time alert tools. If you already use or want a VPN, the combined cost is significantly better than buying tools separately.
+**Bundled value.** Alt ID is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan, which also covers VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and real-time alert tools. If you already use or want a VPN, the combined cost is significantly better than buying tools separately.
 
 ### Alt ID Limitations
 
@@ -157,7 +157,7 @@ Surfshark Alt ID solves the whole problem. Unlimited aliases, a generated identi
 ## Frequently Asked Questions
 
 **Can I use Surfshark Alt ID without a Surfshark VPN subscription?**
-Alt ID is part of the Surfshark One plan, which bundles VPN, antivirus, and identity tools together. You cannot purchase Alt ID as a standalone product separately from the broader plan. For users who want or already use a VPN, this bundling typically represents good value. [Learn more about Surfshark Alt ID](/blog/altid?sub=surfshark-altid-vs-firefox-relay-comparison-2026__faq)
+Alt ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plan, which bundles VPN, antivirus, and identity tools together. You cannot purchase Alt ID as a standalone product separately from the broader plan. For users who want or already use a VPN, this bundling typically represents good value. [Learn more about Surfshark Alt ID](/blog/altid?sub=surfshark-altid-vs-firefox-relay-comparison-2026__faq)
 
 **Does Firefox Relay work in Chrome or Safari?**
 Firefox Relay has extensions for multiple browsers, but its most polished integration is in Firefox. In Chrome and Safari, the extension still functions but lacks the seamless form-detection features available in Firefox. Surfshark Alt ID works equally across all major browsers.
