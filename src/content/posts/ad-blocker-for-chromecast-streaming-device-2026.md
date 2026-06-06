@@ -160,7 +160,7 @@ Using a VPN is legal in most countries. Check your local regulations if you are 
 
 ### Will CleanWeb protect me on mobile data as well as Wi-Fi?
 
-Yes. Because CleanWeb runs inside the VPN app on your phone, it protects your traffic on any connection — Wi-Fi, 4G, or 5G. This is a key advantage over router-level solutions.
+Yes. Because CleanWeb runs inside the [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) your phone, it protects your traffic on any connection — Wi-Fi, 4G, or 5G. This is a key advantage over router-level solutions.
 
 ---
 
