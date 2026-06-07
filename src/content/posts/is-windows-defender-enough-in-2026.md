@@ -167,7 +167,7 @@ For very light, careful use — sticking to Microsoft Edge and avoiding unfamili
 
 ### Does Windows Defender include a VPN?
 
-No. Microsoft sells a separate "Microsoft Defender VPN" product, but it is not included in the free antivirus and comes with significant data limits. If you want a full, unlimited VPN for protecting your connection on public Wi-Fi, you need a separate service or a security suite that bundles one.
+No. Microsoft sells a separate "Microsoft Defender VPN" product, but it is not included in the [free antivirus](https://snipstack.io/free-antivirus-vs-paid-antivirus-2026/) and comes with significant data limits. If you want a full, unlimited VPN for protecting your connection on public Wi-Fi, you need a separate service or a security suite that bundles one.
 
 ### Will adding a security suite slow down my computer?
 

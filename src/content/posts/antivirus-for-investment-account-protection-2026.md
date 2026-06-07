@@ -122,7 +122,7 @@ None of these is a certainty that your accounts have been accessed, but each is 
 
 [Free antivirus](https://snipstack.io/vs-free-antivirus-2026/) programs provide some protection, but for seniors protecting retirement savings the difference matters. Free tools typically offer basic virus scanning only — they do not include real-time web protection that blocks phishing pages, and they often do not include data breach monitoring.
 
-For investment account protection specifically, the web protection layer is critical. A keylogger on your computer is dangerous — but a phishing page that captures your credentials before they even reach your computer is equally dangerous, and free antivirus tools frequently do not address it.
+For investment account protection specifically, the web protection layer is critical. A keylogger on your computer is dangerous — but a phishing page that captures your credentials before they even reach your computer is equally dangerous, and [free antivirus](https://snipstack.io/free-antivirus-vs-paid-antivirus-2026/) tools frequently do not address it.
 
 **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-investment-account-protection-2026__cta)** offers real-time scanning, web protection, and breach alerts in a single, easy-to-manage package at an affordable price. For seniors protecting accounts that represent decades of savings, it is a sensible investment.
 

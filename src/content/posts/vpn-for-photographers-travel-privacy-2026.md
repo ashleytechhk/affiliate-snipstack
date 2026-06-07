@@ -85,7 +85,7 @@ Surfshark places no limit on simultaneous connections. One subscription covers e
 
 ### Reliability and Kill Switch
 
-A VPN kill switch disconnects your internet if the VPN tunnel drops unexpectedly, preventing your real IP from being exposed mid-transfer. For photographers uploading sensitive client work, this is a non-negotiable safety feature.
+A [VPN kill switch](https://snipstack.io/vpn-kill-switch-how-it-works-2026/) disconnects your internet if the VPN tunnel drops unexpectedly, preventing your real IP from being exposed mid-transfer. For photographers uploading sensitive client work, this is a non-negotiable safety feature.
 
 ### Server Coverage Where You Shoot
 

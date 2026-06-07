@@ -130,7 +130,7 @@ A Quick Scan is fast but only checks common spots. A **Full Scan** checks every 
 
 ---
 
-## What Free Antivirus Does Not Cover
+## What [Free Antivirus](https://snipstack.io/free-antivirus-vs-paid-antivirus-2026/) Does Not Cover
 
 Microsoft Defender is excellent for stopping viruses and malware on your Windows 11 computer. But it has limits that seniors should know about:
 

@@ -40,7 +40,7 @@ The catch: Defender has no email-link scanner, no webcam protection, and no warn
 
 ### 2. [Avast Free Antivirus](https://snipstack.io/avast-free-antivirus-2026/)
 
-**What it is:** Avast has been one of the most downloaded free antivirus programs for over a decade. The free version includes real-time malware scanning, a basic firewall, and a web shield that warns you before entering a dangerous site.
+**What it is:** Avast has been one of the most downloaded [free antivirus](https://snipstack.io/free-antivirus-vs-paid-antivirus-2026/) programs for over a decade. The free version includes real-time malware scanning, a basic firewall, and a web shield that warns you before entering a dangerous site.
 
 For seniors, the appeal is the large, simple interface. Buttons are easy to read and the scan results use plain language — "No threats found" rather than technical jargon. Installation takes under five minutes and the program guides you through a first scan automatically.
 

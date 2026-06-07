@@ -86,7 +86,7 @@ Here are the four best free options in 2026:
 - Adds a photo vault to hide sensitive pictures
 - Free version is ad-supported
 
-### Bitdefender Free Antivirus
+### Bitdefender [Free Antivirus](https://snipstack.io/free-antivirus-vs-paid-antivirus-2026/)
 
 - Very lightweight — does not slow down older phones
 - Focuses on scanning only (no extra features in free version)

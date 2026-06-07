@@ -92,7 +92,7 @@ Network-level coverage is only part of what a VPN needs to protect your full int
 
 ### Kill Switch
 
-A VPN kill switch blocks all internet traffic if the VPN connection drops unexpectedly. Without it, a momentary disconnection during a torrent download, a long gaming session, or a video stream exposes your real IP to whatever service you are connected to. For activities where IP-address privacy matters — P2P file sharing being the clearest example — a kill switch is not optional.
+A [VPN kill switch](https://snipstack.io/vpn-kill-switch-how-it-works-2026/) blocks all internet traffic if the VPN connection drops unexpectedly. Without it, a momentary disconnection during a torrent download, a long gaming session, or a video stream exposes your real IP to whatever service you are connected to. For activities where IP-address privacy matters — P2P file sharing being the clearest example — a kill switch is not optional.
 
 ProtonVPN Free does include a kill switch on desktop. Most other free VPN apps do not.
 

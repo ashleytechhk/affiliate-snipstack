@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 You booked one telehealth appointment. Within a week your inbox had "Are you due for a wellness check?" blasts from three wellness brands you never heard of, a survey from a patient engagement platform, and a newsletter from a pharmacy benefits company. You gave your email to your clinic — not to their marketing stack.
 
-This is the standard healthcare contact model in 2026. Patient portals, appointment scheduling apps, and telehealth platforms collect your email for legitimate reasons — confirmations, reminders, follow-ups. The problem is what happens after that. Contact data flows to patient engagement platforms, pharmacy partners, health insurance affiliates, and third-party survey companies. One clinic registration can ripple into a dozen unsolicited contacts within months.
+This is the standard healthcare contact model in 2026. Patient portals, appointment scheduling apps, and telehealth platforms collect your email for legitimate reasons — confirmations, reminders, follow-ups. The problem is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after that. Contact data flows to patient engagement platforms, pharmacy partners, health insurance affiliates, and third-party survey companies. One clinic registration can ripple into a dozen unsolicited contacts within months.
 
 The fix is not avoiding the forms. You still need reminders. The fix is giving them an email address you control and can cut off the moment it turns noisy.
 
@@ -66,7 +66,7 @@ Gmail lets you append anything to your address: `yourname+clinic@gmail.com`. Mai
 
 In practice, healthcare platforms and patient engagement tools frequently strip the `+tag` suffix before storing your email. The tag disappears, your base address lands in the CRM, and every partner mailer that follows reaches your permanent inbox — the one you can never revoke. You're left with no kill switch and no way to identify which registration caused the flood.
 
-There's also no protection against secondary data use. Even if the tag survives, your real Gmail address is now inside the provider's marketing stack. Deleting the tag filter later removes inbox organization, not the underlying exposure.
+There's also no [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) secondary data use. Even if the tag survives, your real Gmail address is now inside the provider's marketing stack. Deleting the tag filter later removes inbox organization, not the underlying exposure.
 
 ---
 
@@ -84,7 +84,7 @@ For people already in the Apple ecosystem who pay for iCloud+, Hide My Email is 
 
 Both are privacy-focused alias services with solid reputations. SimpleLogin (part of the Proton ecosystem) offers unlimited aliases on paid plans and is particularly well-regarded in privacy circles. Firefox Relay gives five free aliases, then charges $1.99/month for more.
 
-Neither generates alternative identity data alongside the alias. Neither is specifically optimised for the healthcare use case where you need a persistent address that survives multi-month care relationships. For general inbox hygiene, either is a legitimate choice. For the healthcare scenario specifically — where you want alternative profile data, reliable portal validation, and a full privacy suite behind the alias — Alt-ID has the edge.
+Neither generates alternative identity data alongside the alias. Neither is specifically optimised for the healthcare use case where you need a persistent address that survives multi-month care relationships. For general inbox hygiene, either is a legitimate choice. For the healthcare scenario specifically — where you want alternative profile data, reliable portal validation, and a full [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) behind the alias — Alt-ID has the edge.
 
 ![Side-by-side feature comparison: Alt-ID versus SimpleLogin versus Firefox Relay for healthcare use](/og/email-alias-for-healthcare-appointment-reminders-2026-inline-2.png)
 
@@ -139,9 +139,9 @@ Yes. When you reply to a forwarded email, your reply comes from the alias addres
 
 Keep it active for as long as you're an active patient. Delete it when you stop using that provider, when the automated marketing gets overwhelming, or when you switch to a different clinic. If you need to restart care with the same provider later, create a new alias for the new relationship.
 
-**Does an email alias stop appointment reminder calls and texts too?**
+**Does an [email alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) stop appointment reminder calls and texts too?**
 
-No. An [email alias](/blog/altid?sub=email-alias-for-healthcare-appointment-reminders-2026__faq) only controls the email channel. If you provided your real phone number during registration, calls and texts from the clinic's systems continue independently. For phone-based contact, a separate approach would be needed alongside the alias.
+No. An [email alias](/blog/altid?sub=email-alias-for-healthcare-appointment-reminders-2026__faq) only controls the email channel. If you provided your real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) during registration, calls and texts from the clinic's systems continue independently. For phone-based contact, a separate approach would be needed alongside the alias.
 
 **Is Alt-ID included with my existing Surfshark subscription?**
 

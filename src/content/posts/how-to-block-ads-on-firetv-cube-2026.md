@@ -111,7 +111,7 @@ Fire TV Cube does not expose a manual DNS field in its network settings — unli
 
 When the Fire TV Cube (or any device) connects to an app or website, it first sends a DNS query — essentially asking "what server hosts this domain?" A filtering DNS resolver intercepts queries to known ad-serving domains and returns nothing instead of an IP address. The device gets no response, the ad never loads, and the app moves on without it.
 
-**How to set filtering DNS on your router:**
+**[How to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) filtering DNS on your router:**
 
 1. Log into your router admin panel — typically at `192.168.1.1` or `192.168.0.1` in your browser
 2. Find the DNS settings, usually under WAN, Internet, or Network configuration

@@ -70,7 +70,7 @@ Surfshark's Scam Detector can flag suspicious links embedded in these emails bef
 
 ## Warning Sign 3: Fake Celebrity or Influencer Endorsement
 
-Crypto scammers routinely fabricate endorsements. They create fake news articles, doctored screenshots, and deepfake videos featuring Elon Musk, Warren Buffett, or popular finance influencers — all promoting a platform that does not exist or exists only to steal money.
+Crypto scammers routinely fabricate endorsements. They create fake news articles, doctored screenshots, and [deepfake video](https://snipstack.io/deepfake-video-scam-how-to-detect-2026/)s featuring Elon Musk, Warren Buffett, or popular finance influencers — all promoting a platform that does not exist or exists only to steal money.
 
 Before trusting any celebrity endorsement in a crypto investment pitch, check the person's actual verified social media accounts and any major news outlet covering them. If the endorsement only appears in the investment pitch itself — or on a website you have never seen before — it is almost certainly fabricated.
 
