@@ -12,7 +12,7 @@ You open your email and there it is: a message telling you that a famous doctor,
 
 Something feels off, but you are not sure what. Is this real?
 
-It is almost certainly a scam. Fake celebrity endorsement emails are one of the most common phishing tactics in 2026, and they are designed specifically to lower your guard by borrowing a face you trust. This guide explains how these scams work, what warning signs to look for, and how to use a scam checker tool to confirm your suspicions before you click anything — or send anyone any money.
+It is almost certainly a scam. Fake celebrity endorsement emails are one of the most common phishing tactics in 2026, and they are designed specifically to lower your guard by borrowing a face you trust. This guide explains how these scams work, what warning signs to look for, and [how to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) a scam checker tool to confirm your suspicions before you click anything — or send anyone any money.
 
 **[Check a suspicious email right now with Surfshark's Email Scam Checker →](/blog/scamcheck?sub=fake-celebrity-endorsement-scam-checker-2026__above-fold)**
 
@@ -70,11 +70,11 @@ Scammers also personalise these emails increasingly well in 2026. If your email 
 
 ### The financial consequences
 
-Unlike a password-theft scam that steals one account, celebrity endorsement investment scams frequently result in direct financial loss. Victims are often directed to transfer money to a fake investment platform. The money disappears. By the time the pattern is clear, recovery is difficult.
+Unlike a password-theft scam that steals one account, celebrity endorsement investment scams frequently result in direct financial loss. Victims are often directed to transfer money to a [fake investment](https://snipstack.io/fake-investment-app-scam-how-to-check-2026/) platform. The money disappears. By the time the pattern is clear, recovery is difficult.
 
 ---
 
-## How to Check a Suspicious Celebrity Endorsement Email
+## [How to Check](https://snipstack.io/how-to-check-company-registration-online-2026/) a Suspicious Celebrity Endorsement Email
 
 You do not need any technical knowledge to do this. Here is a three-step process that works from any device:
 

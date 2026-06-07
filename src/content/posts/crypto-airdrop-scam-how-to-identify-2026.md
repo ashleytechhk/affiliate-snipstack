@@ -117,7 +117,7 @@ Several free tools exist for checking suspicious links, but most are built for I
 
 **It is free to use.** The core email and link checking does not require a paid account, which means anyone can use it regardless of whether they subscribe to other Surfshark services.
 
-**Optional continuous monitoring.** Surfshark Alert — included with a Surfshark One subscription — monitors whether your personal email address has appeared in data breaches. This matters for crypto scams in particular: scammers buy leaked email lists and target people whose addresses are already in circulation. Knowing your details have been exposed lets you raise your guard before targeted emails start arriving.
+**Optional continuous monitoring.** Surfshark Alert — included with a [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) subscription — monitors whether your personal email address has appeared in data breaches. This matters for crypto scams in particular: scammers buy leaked email lists and target people whose addresses are already in circulation. Knowing your details have been exposed lets you raise your guard before targeted emails start arriving.
 
 ![Surfshark Email Scam Checker — checking a suspicious crypto link](/og/crypto-airdrop-scam-how-to-identify-2026-inline-2.png)
 
@@ -133,7 +133,7 @@ A crypto airdrop scam is an email or message claiming to offer free cryptocurren
 
 Check three things before clicking anything: the sender domain (does it exactly match the company's real website?), the link destination (copy the link and run it through a scam checker — does it lead to the company's real domain?), and whether the email asks for a seed phrase or upfront payment (if yes, it is a scam). [You can check a suspicious link here for free.](/blog/scamcheck?sub=crypto-airdrop-scam-how-to-identify-2026__faq)
 
-### What happens if I clicked a crypto airdrop scam link?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I clicked a crypto airdrop scam link?
 
 Close the tab immediately and do not enter any information. If the page asked for a password and you entered it, change that password right away from a different device. If it asked for a wallet seed phrase and you entered it, move your funds to a new wallet immediately — a seed phrase gives complete access to everything in the wallet. If you made a payment, contact your bank or payment provider as quickly as possible.
 

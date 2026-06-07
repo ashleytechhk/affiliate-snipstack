@@ -63,7 +63,7 @@ This approach works well against scripts that rely on known third-party mining p
 
 ### [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) — The Strongest Free Option
 
-uBlock Origin remains the most comprehensive free browser extension for blocking cryptomining scripts in 2026. It ships with multiple active filter lists that cover mining domains:
+[uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) remains the most comprehensive free browser extension for blocking cryptomining scripts in 2026. It ships with multiple active filter lists that cover mining domains:
 
 - **Online Malicious URL Blocklist** — included by default, covers known cryptojacking domains and malware distribution infrastructure
 - **uBlock filters** — the project's own maintained list, updated regularly to catch newly identified cryptomining domains
@@ -157,7 +157,7 @@ uBO + CleanWeb combined    | Android        | Strongest      | Full device     |
 
 ---
 
-## How to Tell If a Site Is Running a Mining Script
+## [How to Tell](https://snipstack.io/how-to-tell-if-a-website-is-legitimate-2026/) If a Site Is Running a Mining Script
 
 Before installing anything, you can do a quick check if you suspect a site:
 

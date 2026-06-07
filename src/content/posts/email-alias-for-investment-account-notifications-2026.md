@@ -162,7 +162,7 @@ In practice, yes. Alt-ID uses a domain that is not on standard disposable-email 
 
 Yes. Alt-ID forwards every email sent to the alias directly to your real inbox, with no additional delay. Security alerts, two-factor authentication codes, and trade confirmations arrive as they would with your real address.
 
-**What happens if I delete the alias for a platform I still use?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the alias for a platform I still use?**
 
 Deleting an alias stops all forwarding from that address immediately. If you still need notifications from that platform, create a new alias before deleting the old one, update your email on the platform, and then delete the old alias. Takes about two minutes.
 

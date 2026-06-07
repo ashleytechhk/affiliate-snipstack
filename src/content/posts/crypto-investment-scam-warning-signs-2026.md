@@ -165,7 +165,7 @@ Manual awareness and automated scanning work better together than either does al
 
 ### What is the most common type of crypto investment scam in 2026?
 
-Pig butchering scams — where a stranger builds a relationship before introducing a [fake investment](https://snipstack.io/fake-investment-app-scam-how-to-check-2026/) platform — and impersonation scams using fake celebrity endorsements are currently the most common. Both rely on extended trust-building rather than a quick one-off trick, which makes them harder to spot.
+Pig butchering scams — where a stranger builds a relationship before introducing a [fake investment](https://snipstack.io/fake-investment-app-scam-how-to-check-2026/) platform — and impersonation scams using [fake celebrity endorsement](https://snipstack.io/fake-celebrity-endorsement-scam-checker-2026/)s are currently the most common. Both rely on extended trust-building rather than a quick one-off trick, which makes them harder to spot.
 
 ### How do I check whether a crypto platform is legitimate?
 

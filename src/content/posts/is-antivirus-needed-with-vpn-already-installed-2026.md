@@ -61,7 +61,7 @@ Older adults are targeted because:
 - **More savings, more to steal.** Retirement accounts, pension deposits, and home equity make seniors high-value targets.
 - **Less experience with digital scams.** Many of today's scam techniques — fake invoice emails, IRS impersonation texts, "your account has been suspended" messages — were not around a decade ago.
 - **Isolation.** Scammers count on people acting alone without checking with someone younger who might catch the warning signs.
-- **Trust in authority.** Fake messages pretending to be from Medicare, the Social Security Administration, or a well-known bank are specifically crafted to feel believable.
+- **Trust in authority.** Fake messages pretending to be from Medicare, the [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) Administration, or a well-known bank are specifically crafted to feel believable.
 
 A VPN does not block any of these. If a scam email lands in your inbox and you click the attachment, a VPN will not stop what happens next.
 
@@ -89,7 +89,7 @@ Antivirus software detects and blocks ransomware at the point of entry. A VPN wi
 
 ### 4. Scam pop-ups pretending to be Microsoft or Apple
 
-A window fills your screen. It says your computer is infected and you must call a number immediately. The number connects to a criminal pretending to be tech support. They ask you to give them remote access to your computer. Once they have it, they steal everything.
+A window fills your screen. It says your computer is infected and you must call a number immediately. The number connects to a criminal pretending to be [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/). They ask you to give them remote access to your computer. Once they have it, they steal everything.
 
 Antivirus software flags the malicious scripts behind these pop-ups. A VPN does not.
 

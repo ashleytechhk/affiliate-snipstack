@@ -116,7 +116,7 @@ When the Fire TV Cube (or any device) connects to an app or website, it first se
 1. Log into your router admin panel — typically at `192.168.1.1` or `192.168.0.1` in your browser
 2. Find the DNS settings, usually under WAN, Internet, or Network configuration
 3. Replace the default DNS with a filtering service:
-   - **AdGuard DNS:** `94.140.14.14` / `94.140.15.15`
+   - **[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/):** `94.140.14.14` / `94.140.15.15`
    - **NextDNS:** use your personal NextDNS hostname after creating a free account (free up to 300,000 queries/month)
    - **Quad9:** `9.9.9.9` (malware blocking, lighter ad filtering)
 4. Save settings and restart your router
@@ -134,7 +134,7 @@ When the Fire TV Cube (or any device) connects to an app or website, it first se
 
 ---
 
-## Method 4: Surfshark CleanWeb — Native Fire TV App, Covers Your Phone Too
+## Method 4: [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) — Native Fire TV App, Covers Your Phone Too
 
 This is where Fire TV Cube has a meaningful advantage over LG or Samsung smart TVs: because Fire OS is Android-based, Surfshark has a native app in the Amazon Appstore that you can install directly on the Cube. CleanWeb — Surfshark's built-in ad and tracker blocking feature — runs on the device itself, not just at the router level.
 
@@ -205,11 +205,11 @@ There is no reliable method to eliminate all SSAI-delivered streaming ads withou
 
 Potentially, yes — and this is why aggressive DNS blocklists targeting Amazon ad domains can be risky. Amazon's advertising infrastructure shares domains with its core services including the Appstore, Prime Video delivery, and Alexa. Blocklists that specifically target Amazon ad servers can cause Appstore downloads to fail, Prime Video playback errors, or voice control issues. [Router DNS filtering works best on Fire TV Cube for third-party ad networks, not Amazon's own first-party ad infrastructure.](/blog/adblock?sub=how-to-block-ads-on-firetv-cube-2026__faq)
 
-**Does Surfshark CleanWeb work on Fire TV Cube without a router setup?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb work on Fire TV Cube without a router setup?**
 
 Yes. Because Surfshark has a native Fire TV app available in the Amazon Appstore, CleanWeb runs directly on the Cube itself — you don't need a VPN-capable router. Install the Surfshark app, enable CleanWeb in settings, connect to a server, and the DNS filtering is active for every app on that device.
 
-**Can I use uBlock Origin or a browser extension to block Fire TV Cube ads?**
+**Can I use [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) or a browser extension to block Fire TV Cube ads?**
 
 No. Browser extensions work inside desktop browser tabs and have no visibility into Fire TV's native app environment. The Fire TV Cube runs apps as native Android applications — none of them load inside a browser environment where extensions could intercept their requests.
 
@@ -254,7 +254,7 @@ Amazon's own home-screen ads and SSAI-delivered in-stream ads are the remaining 
     },
     {
       "@type": "Question",
-      "name": "Can I use uBlock Origin or a browser extension to block Fire TV Cube ads?",
+      "name": "Can I use [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) or a browser extension to block Fire TV Cube ads?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "No. Browser extensions work inside desktop browser tabs and have no visibility into Fire TV's native app environment. Fire TV Cube runs apps as native Android applications that do not load inside a browser environment where extensions could intercept requests."
