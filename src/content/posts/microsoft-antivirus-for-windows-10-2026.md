@@ -241,7 +241,7 @@ Yes. Unlike some older antivirus programs that conflict with Defender, Surfshark
 
 Heavy programs like some older versions of Norton or McAfee can slow older computers. Surfshark, Malwarebytes, and ESET are all designed to run lightly in the background. Day-to-day, most people do not notice any difference. The one exception is during a full scan — if your computer is quite old, it may feel slower for the 30–60 minutes a deep scan takes. Scheduling scans overnight avoids this completely.
 
-**Q: What is phishing, and can antivirus stop it?**
+**Q: What is phishing, and [can antivirus stop](https://snipstack.io/can-antivirus-stop-phishing-attacks-2026/) it?**
 
 Phishing is when scammers send you a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) or link that looks like it is from your bank, Medicare, or a trusted company. The goal is to trick you into typing in your password or personal details on a fake website. Microsoft Defender gives limited protection against phishing. Surfshark's real-time safe browsing feature is specifically designed to detect these fake sites and warn you before you enter anything.
 

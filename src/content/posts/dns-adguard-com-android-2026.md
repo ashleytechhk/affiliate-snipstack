@@ -40,7 +40,7 @@ AdGuard offers a separate DNS hostname for family-safe browsing: `family.adguard
 
 This server adds adult content filtering on top of the standard ad and tracker block lists. Every device configured with this DNS — phones, tablets, Android TV boxes — enforces content filtering at the DNS layer. No parental control app to install per device, no per-browser settings to configure.
 
-The family servers also block crypto-mining scripts and known scam domains, which makes them useful even without kids in the picture. Response latency is comparable to the standard servers. If you want something stricter than the default but still want the simplicity of a one-hostname setup, this is the cleanest path.
+The family servers also [block crypto](https://snipstack.io/block-crypto-mining-scripts-browser-extension-2026/)-mining scripts and known scam domains, which makes them useful even without kids in the picture. Response latency is comparable to the standard servers. If you want something stricter than the default but still want the simplicity of a one-hostname setup, this is the cleanest path.
 
 ---
 

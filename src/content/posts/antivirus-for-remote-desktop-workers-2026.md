@@ -137,7 +137,7 @@ Surfshark Antivirus was designed specifically for people who are not technical. 
 **What is the biggest mistake remote workers make regarding security?**
 Assuming that careful behavior alone is enough. Remote desktop attacks increasingly target software vulnerabilities and stolen credentials rather than user mistakes. You can be entirely cautious — not clicking suspicious links, not opening strange emails — and still be targeted through an exposed remote desktop port. Antivirus software protects against threats your behavior cannot prevent.
 
-**Can antivirus software slow down my computer during work calls or video meetings?**
+**[Can antivirus](https://snipstack.io/can-antivirus-stop-phishing-attacks-2026/) software slow down my computer during work calls or video meetings?**
 Modern antivirus is designed to be lightweight. Surfshark Antivirus runs in the background with minimal impact on performance. Deep scans can be scheduled for overnight hours so they never interfere with your working day.
 
 **What should I do if I get a call or pop-up offering remote computer help?**

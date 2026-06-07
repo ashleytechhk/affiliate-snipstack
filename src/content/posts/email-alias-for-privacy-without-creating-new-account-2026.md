@@ -92,7 +92,7 @@ No custom domain support: your aliases use an Alt-ID-assigned domain rather than
 
 ## SimpleLogin: Best Free Option
 
-SimpleLogin is an open-source alias service, now owned by Proton (the company behind ProtonMail and ProtonVPN). It's the strongest standalone option if you want a free tier or if you need custom domain aliases.
+SimpleLogin is an open-source alias service, now owned by Proton (the company behind ProtonMail and [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/)). It's the strongest standalone option if you want a free tier or if you need custom domain aliases.
 
 ### What it does
 

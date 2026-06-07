@@ -164,7 +164,7 @@ Windows 11 includes Windows Security (formerly Defender), which provides basic v
 **Q: Will antivirus software slow down my Windows 11 computer?**
 Modern antivirus tools like Surfshark are designed to use very little processing power. In everyday use — browsing the web, watching videos, writing emails — you will not notice any slowdown. Full scans do use more resources, but you can schedule them to run overnight so they do not interrupt your day.
 
-**Q: What is ransomware and can antivirus stop it?**
+**Q: What is ransomware and [can antivirus stop](https://snipstack.io/can-antivirus-stop-phishing-attacks-2026/) it?**
 Ransomware is a type of virus that locks all the files on your computer and demands a payment before unlocking them. It is one of the most damaging threats facing home users today. Surfshark's real-time protection detects ransomware behaviour and blocks it before your files are affected.
 
 **Q: If I get a phone call saying my computer has a virus, what should I do?**

@@ -159,7 +159,7 @@ A quality antivirus like Surfshark is designed to run with minimal impact on you
 
 Yes. A single Surfshark subscription covers multiple devices. If you have more than one computer — or want to protect a family member's device — one plan can cover everyone.
 
-### What if I already have a virus on my computer? Can antivirus software still help?
+### What if I already have a virus on my computer? [Can antivirus](https://snipstack.io/can-antivirus-stop-phishing-attacks-2026/) software still help?
 
 Yes. Running a full system scan with Surfshark Antivirus can detect and remove existing threats. If you suspect your computer is already compromised — it is running slowly, showing strange pop-ups, or behaving unusually — run a scan right away. The sooner you act, the better.
 

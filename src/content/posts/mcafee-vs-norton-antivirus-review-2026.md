@@ -199,7 +199,7 @@ Norton is generally the better choice between the two for seniors. Its interface
 
 Not disabling auto-renewal. Both McAfee and Norton advertise low first-year prices and then renew at full price — sometimes double or triple what you paid initially. The charge appears on your bank statement without warning. Always disable auto-renewal the same day you purchase, and set a personal reminder to shop around before your year is up.
 
-### Can antivirus software stop phone scams and fake tech-support calls?
+### [Can antivirus](https://snipstack.io/can-antivirus-stop-phishing-attacks-2026/) software stop phone scams and fake tech-support calls?
 
 No. Antivirus software protects your device from malicious software. It cannot stop a person from calling you on the phone and claiming to be from Microsoft, your bank, or the government. That protection comes from awareness: no legitimate company will ever call you unsolicited and ask you to give remote access to your computer or pay a fee in gift cards.
 

@@ -153,9 +153,9 @@ On iPhone, since Firefox for iOS does not support extensions (Apple restricts al
 
 No. Drive-by malvertising can execute when the ad creative loads in your browser or app WebView, without any interaction. This is why "don't click on suspicious ads" is insufficient protection — the threat can trigger simply by rendering. Blocking the ad at the DNS level before it loads is the only reliable defense against this type of attack.
 
-**Does CleanWeb replace antivirus on my phone?**
+**Does CleanWeb replace [antivirus](https://snipstack.io/vs-antivirus-2026/) on my phone?**
 
-No. CleanWeb is a DNS-level ad and domain blocker, not antivirus software. It helps block connections to known malicious and ad-serving domains, which reduces your attack surface from malvertising. It does not scan files, detect installed malware, or monitor app behavior. For [comprehensive security](https://snipstack.io/comprehensive-security-for-seniors-online-2026/), DNS blocking and a reputable mobile security app serve complementary roles.
+No. CleanWeb is a DNS-level ad and domain blocker, not [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/). It helps block connections to known malicious and ad-serving domains, which reduces your attack surface from malvertising. It does not scan files, detect installed malware, or monitor app behavior. For [comprehensive security](https://snipstack.io/comprehensive-security-for-seniors-online-2026/), DNS blocking and a reputable mobile security app serve complementary roles.
 
 **Can malicious ads appear on legitimate websites?**
 

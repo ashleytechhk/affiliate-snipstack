@@ -40,7 +40,7 @@ The Family Protection servers (`94.140.14.15` / `94.140.15.16`) add adult conten
 
 Setup on iOS takes about 90 seconds: download the free AdGuard DNS configuration profile from adguard-dns.io, tap Install, enter your passcode, and you're done. The profile survives app reinstalls and cannot be bypassed by simply switching browsers (unlike browser-level content filters).
 
-The Family servers also block crypto-mining scripts and scam sites — useful even if you don't have kids. Response times are comparable to Google DNS in most regions.
+The Family servers also [block crypto](https://snipstack.io/block-crypto-mining-scripts-browser-extension-2026/)-mining scripts and scam sites — useful even if you don't have kids. Response times are comparable to Google DNS in most regions.
 
 ---
 

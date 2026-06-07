@@ -164,7 +164,7 @@ Not at all. The interface is designed for everyday users. The main screen shows 
 
 One Surfshark subscription covers multiple devices across both Windows and Mac. Install it on each computer using the same account, and both machines are protected under one plan.
 
-### Can antivirus protect me from invoice fraud and payment scams?
+### [Can antivirus](https://snipstack.io/can-antivirus-stop-phishing-attacks-2026/) protect me from invoice fraud and payment scams?
 
 Antivirus protects against malware and phishing websites, which are the delivery mechanisms behind most payment scams. If a criminal sends you a fake invoice link or a scam payment page, antivirus web protection can flag it before you enter any details. It is not a complete substitute for caution, but it is a critical first line of defence.
 
