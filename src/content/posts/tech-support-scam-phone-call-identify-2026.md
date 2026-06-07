@@ -113,7 +113,7 @@ This is where Surfshark's Email Scam Checker gives you a clear advantage over pu
 - Examines technical email authentication records (SPF, DKIM, DMARC) without requiring you to understand what those mean — it just tells you whether the email passes or fails
 - Returns a plain-language verdict: this looks legitimate, or this looks suspicious
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) it:**
 
 1. Do not click any links in the follow-up email yet
 2. Copy the sender's email address and/or any link in the email

@@ -75,7 +75,7 @@ None of the free tools watch your back continuously. They are reactive — you h
 
 **What it tells you:** Whether Google has flagged the URL for hosting malware, phishing pages, or unwanted software.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) it:**
 1. Go to `transparencyreport.google.com/safe-browsing/search`
 2. Enter the full URL
 3. Read the current status

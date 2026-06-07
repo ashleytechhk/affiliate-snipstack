@@ -40,7 +40,7 @@ Understanding the difference saves you from frustration when the tools don't cle
 
 Unroll.me scans your inbox, identifies every mailing list subscription, and shows you a list. You can unsubscribe from each one individually or in bulk. It also offers a "Rollup" feature that bundles newsletters into a single daily digest instead of deleting them.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) it:**
 1. Go to unroll.me and sign in with your email account (Gmail or Outlook)
 2. Let it scan — it usually takes a few minutes to process a full inbox
 3. Browse your subscription list and mark everything you want to leave

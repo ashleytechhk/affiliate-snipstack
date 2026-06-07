@@ -48,7 +48,7 @@ Truecaller is a caller ID and spam-detection app with a large community database
 
 **What is not free:** Premium features include an ad-free experience, live call recording, and priority support. The core lookup is free.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) it:**
 1. Download Truecaller from your device's app store
 2. Create a free account using your email address or Google sign-in
 3. Either let it run in the background to identify incoming calls automatically, or manually type a number into the search bar to look it up

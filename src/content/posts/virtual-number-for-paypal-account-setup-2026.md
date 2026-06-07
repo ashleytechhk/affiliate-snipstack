@@ -96,7 +96,7 @@ It differs from Google Voice and similar free services in three ways that matter
 Getting a working alternate number takes about as long as making coffee.
 
 1. Download the Surfshark app from the App Store or Google Play
-2. Create an account and choose a plan — Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which adds VPN, antivirus, and identity monitoring
+2. Create an account and choose a plan — Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which adds VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring
 3. In the app, navigate to **Alt-Number** under Products
 4. Choose your country and select a number from the available list
 5. Tap **Activate** — your number is live immediately

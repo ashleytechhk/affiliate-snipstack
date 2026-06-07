@@ -82,7 +82,7 @@ Some scams involve a fake Etsy shop that redirects you to an external website �
 
 If you received an email claiming to be from Etsy — a shipping update, a seller message, a "your order is ready" notice — the link in that email may lead somewhere other than Etsy's actual website. VirusTotal lets you scan that URL before you click it.
 
-**How to use it:** Copy the link (right-click → "Copy link address" without clicking). Go to virustotal.com, paste the URL, and run the scan. VirusTotal runs the address through 70+ security engines simultaneously and shows you which ones flagged it and why.
+**[How to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) it:** Copy the link (right-click → "Copy link address" without clicking). Go to virustotal.com, paste the URL, and run the scan. VirusTotal runs the address through 70+ security engines simultaneously and shows you which ones flagged it and why.
 
 **What it catches:** Known phishing domains, malware distribution sites, URLs associated with fraud infrastructure. If someone sends you a link that looks like "etsy-order-confirmation.com/track/12345," VirusTotal will flag the pattern against existing threat databases.
 

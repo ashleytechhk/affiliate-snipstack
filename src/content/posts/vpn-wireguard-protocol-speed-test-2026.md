@@ -141,7 +141,7 @@ The advice: test each region's servers with the speed test steps above before lo
 
 ## Surfshark: WireGuard by Default
 
-Most VPN providers now offer WireGuard, but not all enable it by default or implement it equally well. Surfshark enables WireGuard as the default protocol across iOS, Android, Windows, and macOS — you do not need to hunt through settings to activate it. On platforms where WireGuard is not available (some older operating system versions), it falls back to IKEv2.
+Most [VPN providers](https://snipstack.io/vpn-providers-best-2026/) now offer WireGuard, but not all enable it by default or implement it equally well. Surfshark enables WireGuard as the default protocol across iOS, Android, Windows, and macOS — you do not need to hunt through settings to activate it. On platforms where WireGuard is not available (some older operating system versions), it falls back to IKEv2.
 
 The features relevant to arbitrage users:
 

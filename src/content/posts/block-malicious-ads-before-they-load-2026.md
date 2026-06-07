@@ -76,7 +76,7 @@ DNS-level blocking applies to every app on your device that uses standard DNS. A
 
 ## CleanWeb: DNS-Level Blocking That Travels With You
 
-The practical challenge with DNS-level blocking on mobile is portability. Android's built-in Private DNS setting (Settings → Network & internet → Private DNS) lets you point your device at a blocking DNS resolver like AdGuard DNS, and it works well on a single network. But DNS-over-TLS can be blocked by some networks, the setting does not always survive network switches cleanly, and it offers no fallback if the resolver is temporarily unreachable.
+The practical challenge with DNS-level blocking on mobile is portability. Android's built-in Private DNS setting (Settings → Network & internet → Private DNS) lets you point your device at a blocking DNS resolver like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/), and it works well on a single network. But DNS-over-TLS can be blocked by some networks, the setting does not always survive network switches cleanly, and it offers no fallback if the resolver is temporarily unreachable.
 
 Surfshark's CleanWeb feature solves the portability problem by integrating DNS-level ad and malicious domain blocking directly into the VPN tunnel. When CleanWeb is active, every DNS query from every app on your phone is resolved through Surfshark's infrastructure, which filters against lists of known ad-serving domains, tracker domains, phishing domains, and malware-distribution domains. Because it rides inside the VPN connection, it works consistently across every network your phone touches — home Wi-Fi, mobile data, public hotspots.
 
@@ -120,10 +120,10 @@ There is no DNS hostname to remember, no router configuration, and no separate a
 
 | Method | Malvertising protection | In-app coverage | Works on mobile data | Setup |
 |---|---|---|---|---|
-| Private DNS (AdGuard DNS) | Partial | Yes | Sometimes blocked | Easy |
-| Browser extension (uBlock Origin) | Browser only | No | Yes | Easy |
+| Private DNS ([AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/)) | Partial | Yes | Sometimes blocked | Easy |
+| Browser extension ([uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/)) | Browser only | No | Yes | Easy |
 | AdGuard Android App | Yes | Yes (local VPN) | Yes | Moderate |
-| Surfshark CleanWeb | Yes | Yes | Yes | Very easy |
+| [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) | Yes | Yes | Yes | Very easy |
 
 "Partial" for Private DNS reflects that DNS-over-TLS can be disabled or blocked by some networks and does not carry the same consistency guarantee as a VPN-integrated solution.
 
@@ -155,7 +155,7 @@ No. Drive-by malvertising can execute when the ad creative loads in your browser
 
 **Does CleanWeb replace antivirus on my phone?**
 
-No. CleanWeb is a DNS-level ad and domain blocker, not antivirus software. It helps block connections to known malicious and ad-serving domains, which reduces your attack surface from malvertising. It does not scan files, detect installed malware, or monitor app behavior. For comprehensive security, DNS blocking and a reputable mobile security app serve complementary roles.
+No. CleanWeb is a DNS-level ad and domain blocker, not antivirus software. It helps block connections to known malicious and ad-serving domains, which reduces your attack surface from malvertising. It does not scan files, detect installed malware, or monitor app behavior. For [comprehensive security](https://snipstack.io/comprehensive-security-for-seniors-online-2026/), DNS blocking and a reputable mobile security app serve complementary roles.
 
 **Can malicious ads appear on legitimate websites?**
 

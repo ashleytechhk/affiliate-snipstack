@@ -85,7 +85,7 @@ Paste any URL into VirusTotal and it checks it against 70+ security vendors at o
 **URLVoid (urlvoid.com)**
 URLVoid checks a domain against blacklists and shows you the domain's age, location of the hosting server, and blacklist status. A domain registered two weeks ago claiming to be your electricity provider is an immediate warning sign.
 
-**How to use either tool:**
+**[How to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) either tool:**
 1. Copy the URL from your browser address bar or the email you received
 2. Paste it into the search field on the tool's homepage
 3. Review the results — focus on whether the URL is flagged by any trusted engine, and note how long ago the domain was first registered

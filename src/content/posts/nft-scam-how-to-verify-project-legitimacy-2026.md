@@ -14,7 +14,7 @@ Something feels a little off. The sender name looks right, but the address under
 
 This is one of the most common ways NFT scams reach people in 2026 — not through fake websites you stumble across, but through emails designed to look like communications from real projects. You do not have to be an NFT investor to receive them. Scammers buy email lists and send these messages at scale.
 
-This guide explains how to verify whether an NFT project email is legitimate, compares the tools available for checking suspicious links and senders, and tells you what to do when something does not add up.
+This guide explains [how to verify](https://snipstack.io/how-to-verify-airbnb-listing-before-booking-2026/) whether an NFT project email is legitimate, compares the tools available for checking suspicious links and senders, and tells you [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) when something does not add up.
 
 **[Check a suspicious NFT email link before you click it →](/blog/scamcheck?sub=nft-scam-how-to-verify-project-legitimacy-2026__above-fold)**
 
@@ -143,7 +143,7 @@ Across the verification methods above, certain signals appear consistently in fr
 
 **Generic greeting.** "Dear NFT Enthusiast" rather than your actual name or the wallet address associated with your account suggests a mass-sent scam rather than a genuine communication.
 
-**Mismatched visual branding.** Logos that look slightly wrong, colours that are close but not quite right, or a footer that references a company name different from the project name are all signs of a quickly assembled fake.
+**Mismatched visual branding.** Logos that look slightly wrong, colours that are close but not quite right, or a footer that references a company name different from the project name are all [signs of a](https://snipstack.io/signs-of-a-fake-website-2026/) quickly assembled fake.
 
 ---
 
@@ -167,7 +167,7 @@ If you clicked the link but did not connect your wallet or enter any personal in
 
 Spam filters look at volume signals and known blacklists. A well-constructed scam email from a freshly registered domain, sent in low quantities to specific targets, can pass through automated filters that catch obvious mass-spam. Dedicated checking tools use additional signals — domain age, authentication records, threat intelligence feeds — that go beyond what email provider spam filters examine by default.
 
-### Is Surfshark's Email Scam Checker really free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Email Scam Checker really free?
 
 The core link and email address checking feature is available without an account or payment. You paste in a suspicious link or email address and receive a verdict. Ongoing features — such as monitoring whether your own email address has been exposed in a data breach, which scammers use to personalise attacks — are part of a Surfshark subscription. For a one-off check of a suspicious NFT email, the free tier does the job.
 

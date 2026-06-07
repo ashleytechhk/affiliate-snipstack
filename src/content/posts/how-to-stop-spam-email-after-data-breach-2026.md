@@ -161,7 +161,7 @@ Start with your spam filter settings in Gmail or Outlook (Step 3 above) — thes
 **Does unsubscribing from spam emails actually work?**
 For legitimate marketing email from real companies, yes. For breach-sourced spam, no — and it can backfire. Clicking unsubscribe on genuine spam confirms your address is active, which can increase volume. Only unsubscribe from brands you actually recognise and trust.
 
-**What is the best [email alias to](https://snipstack.io/email-alias-to-avoid-spam-2026/)ol to stop spam after a data breach?**
+**What is the best [email alias to](https://snipstack.io/email-alias-to-avoid-spam-2026/)ol to [stop spam after](https://snipstack.io/stop-spam-after-unsubscribing-from-mailing-list-2026/) a data breach?**
 It depends on your threat model. Free tools like SimpleLogin or addy.io work well for most people. If you want masked identities alongside masked addresses — so the leaked data cannot be tied back to you even if breached again — [Surfshark Alt ID](/blog/altid?sub=how-to-stop-spam-email-after-data-breach-2026__faq) goes further than a plain alias service.
 
 **How long does it take to stop spam email after a data breach?**

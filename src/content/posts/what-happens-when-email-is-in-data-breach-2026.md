@@ -191,7 +191,7 @@ All the reactive options (spam filters, unsubscribing, new accounts) are free. A
 **What happens when your email is in a data breach?**
 Your address gets added to spam and phishing lists and sold to third parties. Expect a spike in unsolicited email within days to weeks. Changing your password secures your account but does not remove your address from the lists it has already reached. The practical solution is to route future sign-ups through a masked alias so breached data becomes disposable.
 
-**Can I stop spam after my email is in a data breach?**
+**Can I [stop spam after](https://snipstack.io/stop-spam-after-unsubscribing-from-mailing-list-2026/) my email is in a data breach?**
 You can reduce it with spam filters, but the most effective method is to delete the alias that was exposed (if you were using one) or migrate to alias-based sign-ups going forward. [Surfshark Alt-ID](/blog/altid?sub=what-happens-when-email-is-in-data-breach-2026__faq) lets you delete a compromised alias instantly, cutting off that spam channel permanently.
 
 **Does changing my password after a breach stop spam?**
