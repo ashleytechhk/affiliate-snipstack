@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 You unsubscribed from that retail newsletter three months ago. The ads followed you anyway. You're still seeing the same brand on Instagram, in your news app, between YouTube videos. Somehow they still know you opened their emails, clicked their links, and spent 40 seconds on a product page in early March.
 
-They know because of what happens the moment you open an email.
+They know because of [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) the moment you open an email.
 
 Every commercial email you receive — promotional, newsletter, "just checking in" — almost certainly contains a tracking pixel. A 1x1 transparent image that fires the instant your email client downloads it. When it fires, it sends your IP address, your email client, your device type, your approximate location, and the exact timestamp back to the sender's marketing platform. That data gets merged into your ad profile. The next day, you're in a new retargeting audience and the ads follow you across the internet.
 
@@ -250,7 +250,7 @@ For someone getting 50+ spam emails a day, this isn't a minor tweak. It's a diff
       "name": "How do tracking pixels in emails become targeted ads on other platforms?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Marketers export email engagement data — who opened, who clicked, when — and upload it as a custom audience to Meta, Google Ads, and TikTok. These platforms match the email addresses to user accounts and serve retargeting ads. Opening a brand email can trigger ads on Instagram or YouTube hours later. Using an email alias prevents your real address from entering the sender's list, breaking this link entirely."
+        "text": "Marketers export email engagement data — who opened, who clicked, when — and upload it as a custom audience to Meta, Google Ads, and TikTok. These platforms match the email addresses to user accounts and serve retargeting ads. Opening a brand email can trigger ads on Instagram or YouTube hours later. Using an [email alias](https://snipstack.io/email-alias-for-crypto-exchange-registration-2026/) prevents your real address from entering the sender's list, breaking this link entirely."
       }
     },
     {
@@ -258,7 +258,7 @@ For someone getting 50+ spam emails a day, this isn't a minor tweak. It's a diff
       "name": "Does unsubscribing stop email tracking and targeted ads?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Unsubscribing stops future emails from compliant senders but does not remove your address from their database. Historical engagement data remains in their CRM and can still be uploaded to ad platforms. Many senders also use unsubscribed segments for lookalike audience modeling. Deleting an email alias is more complete — it removes a valid, active address from circulation rather than just tagging it as opted out."
+        "text": "Unsubscribing stops future emails from compliant senders but does not remove your address from their database. Historical engagement data remains in their CRM and can still be uploaded to ad platforms. Many senders also use unsubscribed segments for lookalike audience modeling. Deleting an [email alias](https://snipstack.io/email-alias-for-pharmacy-prescription-alerts-2026/) is more complete — it removes a valid, active address from circulation rather than just tagging it as opted out."
       }
     },
     {
@@ -287,7 +287,7 @@ For someone getting 50+ spam emails a day, this isn't a minor tweak. It's a diff
     },
     {
       "@type": "Question",
-      "name": "What happens to targeted ads if I delete an email alias?",
+      "name": "What happens to targeted ads if I delete an [email alias](https://snipstack.io/email-alias-for-ride-sharing-account-privacy-2026/)?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "When you delete an alias, emails to that address start bouncing. Marketing platforms flag it as invalid and remove it from active send lists. Custom audience uploads to ad platforms fail the match for that address. Any retargeting audiences built from it stop refreshing within days as the address ages out of active segments. The ad targeting tied to that alias gradually degrades and stops."
