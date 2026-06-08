@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 You find a service you want to try. You click the privacy policy out of habit — or maybe something about the site already feels slightly off. What you read raises questions: vague language about "partners," a policy that was last updated in 2019, a line that says they "may share" your data with unnamed third parties. You are not being paranoid. That friction you feel is a legitimate signal.
 
-The problem is that you still want to use the service. And once you hand over your real email address, you have no control over what happens to it. Even if you later delete your account, your address may already be in a list that has been sold, licensed, or leaked.
+The problem is that you still want to use the service. And once you hand over your real email address, you have no control over [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to it. Even if you later delete your account, your address may already be in a list that has been sold, licensed, or leaked.
 
 An [email alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) is the answer. Give them an address you can delete. Keep your real inbox off the table.
 
@@ -32,7 +32,7 @@ This is why aliases are specifically useful when a privacy policy gives you paus
 
 ---
 
-## How to Spot a Suspicious Privacy Policy
+## [How to Spot](https://snipstack.io/how-to-spot-online-shopping-scam-2026/) a Suspicious Privacy Policy
 
 Not all privacy policies are equal. Most people skim or skip them — but a three-minute read can tell you a lot about how a service treats your data. These are the phrases and patterns that should make you reach for an alias before filling in the email field.
 
@@ -82,7 +82,7 @@ Reading policies and avoiding sketchy services is correct advice, but incomplete
 
 ---
 
-## How to Use an [Email Alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/) When a Policy Looks Suspicious
+## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) an [Email Alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/) When a Policy Looks Suspicious
 
 The workflow is simple enough to become a habit:
 
@@ -134,7 +134,7 @@ Deleting the alias means the service can no longer reach you by email. If you ha
 
 Not always. Poorly written policies can reflect legal inexperience or copy-paste from a template rather than active bad intent. The point is not to judge the service — it is to manage your risk. A vague policy means you cannot predict how your data will be handled. An alias costs you nothing and eliminates the downside of being wrong.
 
-**What is the difference between an alias and a disposable email address?**
+**What is the difference between an alias and a [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) address?**
 
 A disposable address expires — typically within minutes or hours. It is good for one-time confirmations but useless for any service where you need ongoing access. An alias is persistent: it stays active as long as you want it, forwards all mail, and can be deleted on your schedule, not a timer's. For suspicious-policy signups where you may need to receive follow-up mail, an alias is the correct tool.
 

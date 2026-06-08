@@ -149,7 +149,7 @@ Here is a direct comparison of what you get with a typical free antivirus tool v
 
 **Cost** — Free: $0. Paid: typically a few dollars per month when billed annually.
 
-The honest conclusion: if the only threats were viruses downloaded as files, free antivirus would be adequate for most people. But the threats seniors face most often — phishing sites, stolen credentials from breaches, unsafe public WiFi, and tech support scams — are precisely what free antivirus is not built to address.
+The honest conclusion: if the only threats were viruses downloaded as files, free antivirus would be adequate for most people. But the threats seniors face most often — phishing sites, stolen credentials from breaches, unsafe public WiFi, and [tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s — are precisely what free antivirus is not built to address.
 
 ---
 
