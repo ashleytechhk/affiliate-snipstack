@@ -167,7 +167,7 @@ eSIM is the right choice for travel data costs, carrier flexibility, and running
 
 **How much [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-Number cost?**
 
-Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), which bundles the VPN, antivirus, and identity monitoring tools. Surfshark runs promotions regularly. Check the current pricing through the link below.
+Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), which bundles the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring tools. Surfshark runs promotions regularly. Check the current pricing through the link below.
 
 ---
 

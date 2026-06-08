@@ -88,7 +88,7 @@ A slow VPN makes 4K streaming unwatchable. Look for a provider that uses modern 
 
 ### No-Logs Policy
 
-A VPN that keeps records of your activity largely defeats the privacy side of the product. Surfshark's no-logs policy has been independently audited, which is a meaningful differentiator from unverified competitors.
+A [VPN that keeps](https://snipstack.io/vpn-that-keeps-no-activity-logs-verified-2026/) records of your activity largely defeats the privacy side of the product. Surfshark's no-logs policy has been independently audited, which is a meaningful differentiator from unverified competitors.
 
 **[See Surfshark's current plans and pick the one that fits →](/blog/vpn?sub=vpn-for-new-zealand-users-2026__mid)**
 

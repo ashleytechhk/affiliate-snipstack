@@ -140,7 +140,7 @@ It is worth being accurate about what DNS-level blocking covers, because no solu
 
 ### Does Windows 11 have a built-in [ad blocker](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/)?
 
-No. Windows 11 does not include system-wide ad blocking. Microsoft Defender handles malware and some phishing domains, but it does not block advertising. The Start menu and widgets panel show Microsoft's own promoted content regardless of any antivirus settings.
+No. Windows 11 does not include system-wide ad blocking. [Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) handles malware and some phishing domains, but it does not block advertising. The Start menu and widgets panel show Microsoft's own promoted content regardless of any [antivirus](https://snipstack.io/vs-antivirus-2026/) settings.
 
 ### Will a system-wide [ad blocker](https://snipstack.io/ad-blocker-that-works-on-streaming-sites-2026/) block Windows 11's own ads?
 
