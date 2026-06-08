@@ -87,7 +87,7 @@ For someone managing an active situation — a harasser, a bad match, a neighbor
 The process is short enough that you can have a working [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/) before you finish reading this article.
 
 1. Download the Surfshark app from the App Store or Google Play
-2. Create an account or sign in — Alt-Number is available as a standalone subscription or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), which bundles the VPN, antivirus, and identity monitoring tools
+2. Create an account or sign in — Alt-Number is available as a standalone subscription or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), which bundles the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring tools
 3. Navigate to **Alt-Number** in the app menu
 4. Select a country and choose a number from the available list — for most users, a local area code makes sense
 5. Tap **Activate** — the number is live immediately
@@ -142,7 +142,7 @@ Yes, for most major platforms. Dating apps confirm you can receive a code — th
 
 Messages sent to a cancelled number stop going through — there's no forwarding to your real number and no notification to the sender. Your real phone number was never in the chain.
 
-**Is Surfshark Alt-Number available outside the US?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number available outside the US?**
 
 Yes. Unlike Google Voice (US-only), Alt-Number offers numbers from multiple countries. This matters for anyone outside the US and for people who travel and need a number that stays active across borders.
 
@@ -150,9 +150,9 @@ Yes. Unlike Google Voice (US-only), Alt-Number offers numbers from multiple coun
 
 Yes. You are providing a real, working contact number — you're reachable on it for any follow-up needed. You're not misrepresenting anything; you're choosing which of your phone numbers to share. Using alternate numbers for personal privacy is entirely standard and legal in most countries.
 
-**How much does Surfshark Alt-Number cost?**
+**How much [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-Number cost?**
 
-Alt-Number is available standalone or as part of Surfshark One, which bundles the VPN, antivirus, and identity monitoring. The bundle typically offers better value. Surfshark runs promotions regularly — check current pricing through the link below.
+Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which bundles the VPN, antivirus, and identity monitoring. The bundle typically offers better value. Surfshark runs promotions regularly — check current pricing through the link below.
 
 [**See current Alt-Number pricing and start your trial**](/blog/altnumber?sub=second-number-for-anonymous-neighborhood-reports-2026__faq)
 

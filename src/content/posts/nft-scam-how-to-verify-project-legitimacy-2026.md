@@ -69,7 +69,7 @@ Surfshark built the Email Scam Checker specifically for situations like this. Yo
 
 That last point matters a great deal for NFT scam emails. A message that says it is from `team@coolnftproject.io` but whose authentication records belong to a completely different server is almost certainly fraudulent. Surfshark's checker reads those records and flags the mismatch without you needing to know what SPF stands for.
 
-**What it does not do:** It cannot verify whether an NFT project itself is a worthwhile investment, whether a team is doxxed, or whether the art is original. It is a scam detection tool, not a due-diligence platform. For the question "is this email safe to engage with?", it is the right starting point.
+**What it does not do:** It cannot verify whether an NFT project itself is a worthwhile investment, whether a team is doxxed, or whether the art is original. It is a scam detection tool, not a due-diligence platform. For the question "[is this email](https://snipstack.io/is-this-email-address-a-scam-2026/) safe to engage with?", it is the right starting point.
 
 The core checking feature is free. Ongoing monitoring — including alerts if your email address has appeared in a data breach — is available through a Surfshark subscription.
 

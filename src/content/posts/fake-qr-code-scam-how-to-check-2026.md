@@ -139,7 +139,7 @@ Yes. Embedding a QR code in an email is increasingly common among scammers becau
 
 If you only opened the page and did not enter any information, the risk is lower — close the browser tab immediately. If you entered a password, change that password right away from a separate, trusted device. If you entered payment card details, contact your card provider immediately using the number on the back of your card. If you entered identity information such as your national ID number or date of birth, consider placing a fraud alert with your relevant national credit agency.
 
-### Is Surfshark's Email Scam Checker free to use?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Email Scam Checker free to use?
 
 The core link and address checking feature is free. You can check a suspicious link or destination URL without creating an account. A Surfshark subscription adds ongoing personal data monitoring through Surfshark Alert, which notifies you if your email address has appeared in known data breaches — useful context for understanding why you might be receiving targeted scam messages.
 
