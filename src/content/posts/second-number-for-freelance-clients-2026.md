@@ -112,7 +112,7 @@ Going forward, every new client gets the Alt-Number. Contracts, invoices, email 
 
 ### Step 5 — Keep your dating app verification separate
 
-Your dating apps are already verified with your real number or a separate number. The point of this setup is that the professional number and the dating number are never the same. Alt-Number allows you to manage multiple numbers under one account if you want a dedicated number for each surface.
+Your dating apps are already verified with your real number or a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/). The point of this setup is that the professional number and the dating number are never the same. Alt-Number allows you to manage multiple numbers under one account if you want a dedicated number for each surface.
 
 ![Phone screen showing two active numbers in the Alt-Number app — one labeled for client work, one for personal use — demonstrating clean separation between freelance and dating contacts](/og/second-number-for-freelance-clients-2026-inline-2.png)
 

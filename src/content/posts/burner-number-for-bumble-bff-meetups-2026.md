@@ -153,7 +153,7 @@ The app's messaging and profile mechanics are similar. The key difference is soc
 
 **Can I use the same Alt-Number for multiple Bumble BFF connections at once?**
 
-You can, but it's worth thinking through. If you give the same number to five people and then disable it, all five lose the connection simultaneously. That might be exactly what you want, or it might be disruptive if some of those connections are going well. Many users create separate numbers per meaningful connection and manage them individually through the app.
+You can, but it's worth thinking through. If you give the same number to five people and then disable it, all five lose the connection simultaneously. That might be exactly what you want, or it might be disruptive if some of those connections are going well. Many users create [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/)s per meaningful connection and manage them individually through the app.
 
 ---
 

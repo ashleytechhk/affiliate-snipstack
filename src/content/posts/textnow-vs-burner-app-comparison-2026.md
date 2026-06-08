@@ -171,7 +171,7 @@ No. Both TextNow and Burner are limited to US and Canadian numbers. If you are t
 
 **Is giving out a [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) dishonest?**
 
-No. The number is real — it rings, it receives texts, the other person can reach you on it. Using a separate number is no different from using a work phone instead of your personal one. You are protecting your primary identity from someone you just met, which is a reasonable precaution. If things develop, you can share your real number later. If they don't, you have not handed a stranger a permanent thread back to your actual life.
+No. The number is real — it rings, it receives texts, the other person can reach you on it. Using a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/) is no different from using a work phone instead of your personal one. You are protecting your primary identity from someone you just met, which is a reasonable precaution. If things develop, you can share your real number later. If they don't, you have not handed a stranger a permanent thread back to your actual life.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my real number when I use a [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/)?**
 

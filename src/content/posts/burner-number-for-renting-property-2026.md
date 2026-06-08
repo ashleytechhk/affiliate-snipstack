@@ -122,7 +122,7 @@ Yes, provided the number is a real mobile line. [Surfshark Alt-Number](/blog/alt
 
 No. Once you disable or replace the number, calls and texts to it either bounce or go unanswered. The person has no path to your real number. Whatever they stored in their contacts no longer reaches you.
 
-**Should I also use a separate number on rental applications, or just on dating apps?**
+**Should I also use a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/) on rental applications, or just on dating apps?**
 
 For most people, using the [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) on dating apps is the right priority. Your rental applications need to be contactable and credible — landlords will call to verify and schedule viewings. Use your real number there, and keep a clean separation by using Alt-Number on the dating side only.
 

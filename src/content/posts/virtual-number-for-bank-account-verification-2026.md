@@ -92,7 +92,7 @@ The problem is that "matches you trust" is determined after you've already hande
 
 ### Using Google Voice
 
-Google Voice is a workable free option for US residents. It gives you a separate number you can hand out instead of your primary line. The limitations: it's US-only, requires an active Google account (creating another connection between your identity and the alias), and has historically been unreliable for SMS verification on dating apps that run VoIP detection. If you're outside the United States, it's not available at all.
+Google Voice is a workable free option for US residents. It gives you a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/) you can hand out instead of your primary line. The limitations: it's US-only, requires an active Google account (creating another connection between your identity and the alias), and has historically been unreliable for SMS verification on dating apps that run VoIP detection. If you're outside the United States, it's not available at all.
 
 ### Just Blocking Spam Calls
 

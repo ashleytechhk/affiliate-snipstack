@@ -208,7 +208,7 @@ Surfshark Alt-Number provides real phone numbers through carrier partnerships �
 Any call or text sent to that number after deletion gets a "number not in service" response. The sender has no forwarding path to your real phone. If you delete the number while on a dating app, matches who had that number can no longer reach you through it — you would need to share your real number or a new Alt-Number if you want to continue the conversation.
 
 **Can I have more than one Alt-Number?**
-Yes. Surfshark Alt-Number lets you manage multiple numbers, which is useful if you're active on multiple dating platforms and want to keep them segmented — or if you also want a separate number for marketplace listings, work contacts, or other situations where you'd otherwise expose your real number.
+Yes. Surfshark Alt-Number lets you manage multiple numbers, which is useful if you're active on multiple dating platforms and want to keep them segmented — or if you also want a [separate number for](https://snipstack.io/separate-number-for-dating-apps-2026/) marketplace listings, work contacts, or other situations where you'd otherwise expose your real number.
 
 **Is there a free way to block telemarketers permanently?**
 The Do Not Call registry and carrier spam filtering are free. Silencing unknown callers is free. Together they meaningfully reduce telemarketer calls. The gap is that none of these prevent your real number from circulating — they only filter after the fact. Alt-Number prevents exposure at the source, which is why it's the most effective long-term fix for people who are active on dating apps.

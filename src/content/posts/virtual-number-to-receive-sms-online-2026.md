@@ -88,7 +88,7 @@ Hushed offers temporary and permanent numbers across 40+ countries at reasonable
 
 The catch, as with most [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) services, is VoIP routing. Hushed numbers are classified as VoIP at the carrier level. Dating apps that check number type will frequently reject them at verification. Hushed is better suited to marketplace transactions (selling something on a classifieds site, coordinating a one-off handoff) than to creating a functioning dating profile that needs to pass SMS verification.
 
-If you already have a dating app account and just want a separate number to give matches, Hushed is a serviceable option. If you need the number to pass verification first, you'll likely hit a wall.
+If you already have a dating app account and just want a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/) to give matches, Hushed is a serviceable option. If you need the number to pass verification first, you'll likely hit a wall.
 
 **Works for dating app SMS verification:** Often blocked  
 **International numbers:** 40+ countries

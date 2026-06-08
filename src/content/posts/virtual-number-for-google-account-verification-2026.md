@@ -22,7 +22,7 @@ A **[virtual number for](https://snipstack.io/virtual-number-for-signal-registra
 
 ## Quick Verdict
 
-Creating a separate Google account for online dating is smart privacy practice — but it only works if the phone number you use to verify it is also separate. **[Surfshark Alt-Number](/blog/altnumber?sub=virtual-number-for-google-account-verification-2026__above-fold)** gives you a carrier-backed local number that passes Google's verification check, keeps your real number off the account entirely, and can be replaced if a situation turns uncomfortable. Setup takes under five minutes on iPhone or Android with no SIM card required. If you are already using a separate email for dating, adding a separate number to match is the step that actually completes the privacy layer.
+Creating a separate Google account for online dating is smart privacy practice — but it only works if the phone number you use to verify it is also separate. **[Surfshark Alt-Number](/blog/altnumber?sub=virtual-number-for-google-account-verification-2026__above-fold)** gives you a carrier-backed local number that passes Google's verification check, keeps your real number off the account entirely, and can be replaced if a situation turns uncomfortable. Setup takes under five minutes on iPhone or Android with no SIM card required. If you are already using a separate email for dating, adding a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/) to match is the step that actually completes the privacy layer.
 
 ---
 

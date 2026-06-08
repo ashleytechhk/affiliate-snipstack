@@ -78,7 +78,7 @@ On mobile, that model breaks down:
 
 **Android Chrome:** Chrome for Android has no extension support at all. There is no extension slot, no API, no workaround. If you use Chrome on Android, a standalone browser extension offers you zero protection.
 
-**Android Firefox:** Firefox for Android is the exception — it supports uBlock Origin and other extensions natively. But coverage is still limited to Firefox. Every other app on your Android phone is outside the extension's reach.
+**Android Firefox:** Firefox for Android is the exception — it supports [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) and other extensions natively. But coverage is still limited to Firefox. Every other app on your Android phone is outside the extension's reach.
 
 Here is what that means for coverage:
 
@@ -177,7 +177,7 @@ Yes, and it is the setup most power-users land on. They operate at different lay
 
 The DNS filtering itself adds negligible latency — typically under 1 millisecond per query. The VPN tunnel introduces some overhead depending on the server distance and protocol. On WireGuard (the default in Surfshark), most users see speed reductions under 10% on nearby servers, and many see faster effective browsing because fewer ad scripts load per page. [See how CleanWeb affects your experience](/blog/adblock?sub=vpn-cleanweb-vs-standalone-ad-blocker-extension-2026__faq)
 
-### Why can't I just use the free AdGuard DNS instead of paying for CleanWeb?
+### Why can't I just use the free [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) instead of paying for CleanWeb?
 
 AdGuard's free DNS resolver (`dns.adguard-dns.com`) is a legitimate free option for Android users — set it under Settings → Network & Internet → Private DNS. It provides device-wide DNS blocking at no cost. The trade-offs: it does not mask your IP address, the [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s less frequently than a dedicated paid service, and on iOS you cannot configure system-wide Private DNS the same way — it requires installing a configuration profile. CleanWeb adds VPN-layer IP masking and more frequently maintained block lists alongside the DNS blocking.
 

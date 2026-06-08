@@ -32,7 +32,7 @@ For daters who only need a US number and are comfortable with occasional verific
 
 When you give your real number to a date who turns out to be persistent, dishonest, or worse — you cannot un-give it. Blocking a number is not a clean solution: they can call from different numbers, and your personal line is still exposed. Number changes are a hassle that penalizes you for someone else's behavior.
 
-A separate number flips this. You are reachable when you want to be. When a connection does not work out, you replace the number and it is genuinely over — no call history, no trace, no awkward silence when they text six weeks later.
+A [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/) flips this. You are reachable when you want to be. When a connection does not work out, you replace the number and it is genuinely over — no call history, no trace, no awkward silence when they text six weeks later.
 
 The other reason: **data.** Dating apps have had multiple significant data breaches. Your real number tied to a dating profile is a breach vector. A secondary number used only for dating contains no meaningful personal information even if it is exposed.
 

@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 You gave someone your real number on a dating app. Things got weird. Now you're stuck — blocking them only goes so far, and they still have your digits saved in their contacts.
 
-A burner [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) app fixes this at the source. Use a separate number for dating, marketplace listings, side hustles, or anything else where you'd rather not hand over your personal line. If something goes wrong, you kill the number. Clean break.
+A burner [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) app fixes this at the source. Use a [separate number for](https://snipstack.io/separate-number-for-dating-apps-2026/) dating, marketplace listings, side hustles, or anything else where you'd rather not hand over your personal line. If something goes wrong, you kill the number. Clean break.
 
 This guide covers [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) up a [burner number](https://snipstack.io/burner-number-for-verification-2026/) on iPhone in 2026 — which apps to use, what each one is actually good for, and how to pick the right one without overthinking it.
 

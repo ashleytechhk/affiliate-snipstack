@@ -159,7 +159,7 @@ No. A [virtual number](https://snipstack.io/virtual-number-for-international-bus
 
 Changing your number on Upwork is straightforward through account settings. If your current [virtual number](https://snipstack.io/virtual-number-for-insurance-comparison-quote-2026/) becomes compromised or you want to rotate it, update both the Alt-Number (generate a new one in the Surfshark dashboard) and your Upwork settings. The process is the same as any other number change.
 
-**Can I use one Alt-Number for both Upwork and dating apps, or do I need separate numbers?**
+**Can I use one Alt-Number for both Upwork and dating apps, or do I need [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/)s?**
 
 You can use a single number for both — it keeps things simpler. However, keeping them separate provides an extra layer of isolation. If the dating-app number gets shared around, it does not surface your Upwork profile, and vice versa. Given that Alt-Number supports multiple numbers under one subscription, the two-number approach is worth considering if your concern is precisely the cross-context exposure this article describes.
 

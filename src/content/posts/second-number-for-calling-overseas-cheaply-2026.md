@@ -128,7 +128,7 @@ Being direct about limitations matters. Alt-Number addresses phone number exposu
 
 It will not protect your email address, your dating profile photos, or personal details you share in conversation. It will not prevent a match from screenshotting your messages. It will not detect whether someone is being dishonest about their identity or intentions.
 
-What it does is close one specific and significant gap: your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is a thread that, if pulled, connects your dating life to your real identity. Breaking that thread — using a separate number for international dating conversations — removes one of the most direct paths from an online relationship to your offline life.
+What it does is close one specific and significant gap: your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is a thread that, if pulled, connects your dating life to your real identity. Breaking that thread — using a [separate number for](https://snipstack.io/separate-number-for-dating-apps-2026/) international dating conversations — removes one of the most direct paths from an online relationship to your offline life.
 
 ---
 

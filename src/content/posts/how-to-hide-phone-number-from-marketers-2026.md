@@ -86,7 +86,7 @@ Google Voice is a workable free option for US-based users. You get a real-lookin
 
 ## How To Actually Hide Your Phone Number From Marketers
 
-The only approach that works proactively is ensuring your real number never enters the marketing pipeline in the first place. That means using a separate number — an alias — for every context where your real number is at risk.
+The only approach that works proactively is ensuring your real number never enters the marketing pipeline in the first place. That means using a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/) — an alias — for every context where your real number is at risk.
 
 The logic is simple: if the number sitting in a dating app's database, a data broker's list, or a marketing platform's contact file is not your real number, then none of the downstream targeting, calling, or reverse-searching reaches you.
 
