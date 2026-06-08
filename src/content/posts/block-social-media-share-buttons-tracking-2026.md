@@ -15,7 +15,7 @@ That row of share buttons is not just a convenience feature. It is a tracking ne
 ![Social media share buttons embedded in a webpage, represented as data collection nodes feeding into a central ad platform server](/og/block-social-media-share-buttons-tracking-2026.png)
 
 > **Skip the explainer and go straight to the fix?**
-> Surfshark CleanWeb blocks the third-party domains these buttons use — before the script loads, before the tracking fires.
+> [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) blocks the third-party domains these buttons use — before the script loads, before the tracking fires.
 > [Block share button tracking now](/blog/adblock?sub=block-social-media-share-buttons-tracking-2026__above-fold)
 
 ---

@@ -126,7 +126,7 @@ For Samsung users: One UI adds a Private DNS setting directly in the Connections
 
 ## Which Should You Actually Use?
 
-For 90% of mobile users, the answer is **Option 5**: set `dns.adguard-dns.com` as your Private DNS and pair it with Surfshark CleanWeb. You get encrypted DNS, domain-level ad blocking, VPN-layer filtering, and a no-log privacy policy — all managed from two simple settings.
+For 90% of mobile users, the answer is **Option 5**: set `dns.adguard-dns.com` as your Private DNS and pair it with [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/). You get encrypted DNS, domain-level ad blocking, VPN-layer filtering, and a no-log privacy policy — all managed from two simple settings.
 
 [Get Surfshark with CleanWeb](/blog/surfshark?sub=top-adguard-dns-2026__cta) and spend three minutes on setup. Your battery will thank you (fewer ad scripts = less background processing), your data plan will stretch further, and you'll stop rage-closing apps every time a fullscreen ad fires.
 

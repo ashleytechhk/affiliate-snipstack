@@ -80,7 +80,7 @@ Every ad that loads — whether a sponsored card in the Google News app, a Disco
 
 A DNS-level blocker intercepts that resolution step. When an ad domain appears in the request, the blocker returns nothing — the domain does not resolve, the request goes nowhere, and the ad never loads. Crucially, this happens at the network layer, upstream of every app on your phone. The Google News app, the Discover feed widget, and any browser you open all route through the same DNS filter.
 
-### What Surfshark CleanWeb Blocks in Google News
+### What [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) Blocks in Google News
 
 Surfshark's CleanWeb feature is a DNS and network filter built into the Surfshark VPN app. When it is active, it covers:
 

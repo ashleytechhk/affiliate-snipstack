@@ -63,7 +63,7 @@ Both of these work at the operating system layer, below any individual app. That
 
 This is the most effective and practical approach for mobile users who watch Rumble on the go.
 
-Surfshark CleanWeb activates as part of the Surfshark [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) your phone. When the VPN is connected and CleanWeb is enabled, every DNS query your device makes — from every app, including Rumble — passes through Surfshark's filtering layer. Requests to known ad-serving domains are dropped before the ad payload reaches your device.
+[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) activates as part of the Surfshark [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) your phone. When the VPN is connected and CleanWeb is enabled, every DNS query your device makes — from every app, including Rumble — passes through Surfshark's filtering layer. Requests to known ad-serving domains are dropped before the ad payload reaches your device.
 
 ### Why CleanWeb Works on Rumble Specifically
 

@@ -93,7 +93,7 @@ This approach covers the Yahoo homepage in Safari, Chrome, Brave, and the Yahoo 
 
 **[Block Yahoo ads across all apps with Surfshark CleanWeb →](/blog/adblock?sub=block-ads-on-yahoo-homepage-2026__mid)**
 
-Surfshark CleanWeb is a DNS-based ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) built into the Surfshark app. It installs as a standard VPN profile — a configuration option Apple and Google both support natively — and requires no technical setup beyond toggling it on.
+[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) is a DNS-based ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) built into the Surfshark app. It installs as a standard VPN profile — a configuration option Apple and Google both support natively — and requires no technical setup beyond toggling it on.
 
 ### What CleanWeb Blocks on Yahoo
 

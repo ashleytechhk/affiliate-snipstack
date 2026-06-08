@@ -120,7 +120,7 @@ On Android: Settings → Apps → Default Apps → Browser → select Firefox or
 
 **Why this step matters most:** A tracking pixel works by loading a 1x1 invisible image from a tracker's server. When your device requests that image, the tracker logs your IP address, device type, the page you were on, and a timestamp. DNS-level blocking means your device never makes that request — it is intercepted at the DNS resolution stage, before any data leaves your phone.
 
-Surfshark CleanWeb operates at the DNS level — it works across all apps and browsers simultaneously, not just inside one browser.
+[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) operates at the DNS level — it works across all apps and browsers simultaneously, not just inside one browser.
 
 **[How to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it up on iPhone:**
 

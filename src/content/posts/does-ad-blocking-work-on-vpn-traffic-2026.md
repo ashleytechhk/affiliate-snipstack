@@ -127,7 +127,7 @@ The practical benefits of mobile ad blocking in 2026:
 
 ---
 
-## Setting Up Surfshark CleanWeb on Mobile
+## Setting Up [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) on Mobile
 
 Getting CleanWeb running on your phone takes about two minutes.
 

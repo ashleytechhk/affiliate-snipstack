@@ -41,7 +41,7 @@ On mobile in 2026, DNS blocking is the only realistic way to get system-wide cov
 
 ---
 
-## Option A: Surfshark CleanWeb (Recommended — iOS and Android)
+## Option A: [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) (Recommended — iOS and Android)
 
 CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in DNS-level ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). It is included in all Surfshark subscriptions and covers iOS, Android, Windows, Mac, and smart TV in a single account.
 

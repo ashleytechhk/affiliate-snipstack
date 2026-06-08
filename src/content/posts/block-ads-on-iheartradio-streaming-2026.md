@@ -48,7 +48,7 @@ If you use iHeartRadio in a mobile browser rather than the app, that changes the
 
 ---
 
-## Method 1 — Surfshark CleanWeb (DNS-Level, Best for Mobile)
+## Method 1 — [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) (DNS-Level, Best for Mobile)
 
 CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/). When you activate it on your phone, it operates as a local VPN profile that intercepts all DNS requests from every app on your device. Ad-serving domains get a null response before any content loads. The iHeartRadio app never receives the ad payload.
 

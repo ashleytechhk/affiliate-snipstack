@@ -83,7 +83,7 @@ When your phone has an active VPN connection and you cast from it, the content y
 
 ---
 
-## How Surfshark CleanWeb Works on Mobile
+## How [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) Works on Mobile
 
 Surfshark CleanWeb is not a separate product — it is a toggle inside the Surfshark VPN app available on Android and iOS.
 

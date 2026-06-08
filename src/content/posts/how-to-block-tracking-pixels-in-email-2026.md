@@ -22,7 +22,7 @@ This guide explains what tracking pixels actually are, why they matter on mobile
 
 ## Quick Verdict
 
-The most effective approach combines two layers. First, disable automatic remote image loading in your mail app — this stops pixels from firing in the first place, and it costs nothing. Second, add a DNS-level blocker like Surfshark CleanWeb to catch known tracker domains across every inbox and app automatically, so you're protected even on accounts or apps where you can't change the image settings. Together, these two steps cover the vast majority of email tracking without disrupting your inbox.
+The most effective approach combines two layers. First, disable automatic remote image loading in your mail app — this stops pixels from firing in the first place, and it costs nothing. Second, add a DNS-level blocker like [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) to catch known tracker domains across every inbox and app automatically, so you're protected even on accounts or apps where you can't change the image settings. Together, these two steps cover the vast majority of email tracking without disrupting your inbox.
 
 ---
 

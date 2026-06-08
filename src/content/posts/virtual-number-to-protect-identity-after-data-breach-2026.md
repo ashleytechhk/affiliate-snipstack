@@ -88,7 +88,7 @@ Three things make it specifically relevant to the post-breach dating scenario:
 ## Setting It Up: Five Minutes, No New Hardware
 
 1. Download the Surfshark app from the App Store or Google Play
-2. Sign in or create an account — Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), which bundles the VPN, antivirus, and identity monitoring tools
+2. Sign in or create an account — Alt-Number is available standalone or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), which bundles the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring tools
 3. Inside the app, open **Alt-Number** (found under Products on iOS, or the main menu on Android)
 4. Select your country and choose a number from the available list
 5. Tap **Activate** — the number is live immediately
@@ -113,7 +113,7 @@ Your real number never enters those databases.
 
 ---
 
-## What to Do If Your Number Is Already Exposed
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) If Your Number Is Already Exposed
 
 If your number has appeared in a breach — and statistically, it likely has — there are a few concrete steps worth taking alongside getting a [virtual number](https://snipstack.io/virtual-number-for-two-factor-authentication-2026/).
 

@@ -110,7 +110,7 @@ CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-
 
 Here is how it compares to the custom filter list approach:
 
-| Feature | uBlock Origin + Custom Lists | Surfshark CleanWeb |
+| Feature | uBlock Origin + Custom Lists | [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) |
 |---|---|---|
 | Browser coverage | Firefox only (Android) | All browsers |
 | In-app ad blocking | No | Yes (network level) |

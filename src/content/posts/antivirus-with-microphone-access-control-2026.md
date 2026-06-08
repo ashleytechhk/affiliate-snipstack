@@ -65,7 +65,7 @@ Without [antivirus](https://snipstack.io/vs-antivirus-2026/) software watching f
 
 Stalkerware — software that secretly monitors a person's device — was once discussed mainly in the context of controlling relationships. But security researchers now document it being deployed by scam networks against elderly targets. A caregiver, a distant acquaintance, or even a click on a malicious ad can install it.
 
-### AI Voice Cloning Scams
+### [AI Voice Cloning](https://snipstack.io/ai-voice-cloning-scam-how-to-spot-2026/) Scams
 
 The FBI issued warnings in 2024 about criminals using short audio clips — sometimes just three seconds of your voice captured through a compromised microphone — to generate convincing fake calls. A grandchild's voice saying "Grandma, I'm in trouble, I need money." Except it is not your grandchild. It is an AI clone built from audio stolen from your device.
 

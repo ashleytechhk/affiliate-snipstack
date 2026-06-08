@@ -153,7 +153,7 @@ Partially. YouTube serves ads from its own infrastructure domains, so blocking t
 
 ### Do I need to root my Android phone to block ads in 2026?
 
-No. Root access was necessary years ago when the only system-wide method involved editing protected system files. Android 9 and later include a native Private DNS feature that lets you apply DNS-level filtering without any elevated permissions. For a deeper blocking layer, VPN-based solutions like Surfshark CleanWeb work without root as well — they install from the Play Store like any other app.
+No. Root access was necessary years ago when the only system-wide method involved editing protected system files. Android 9 and later include a native Private DNS feature that lets you apply DNS-level filtering without any elevated permissions. For a deeper blocking layer, VPN-based solutions like [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) work without root as well — they install from the Play Store like any other app.
 
 ---
 

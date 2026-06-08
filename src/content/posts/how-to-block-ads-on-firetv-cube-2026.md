@@ -246,7 +246,7 @@ Amazon's own home-screen ads and SSAI-delivered in-stream ads are the remaining 
     },
     {
       "@type": "Question",
-      "name": "Does Surfshark CleanWeb work on Fire TV Cube without a router setup?",
+      "name": "Does [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) work on Fire TV Cube without a router setup?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Surfshark has a native Fire TV app available in the Amazon Appstore. Install the Surfshark app, enable CleanWeb in settings, connect to a server, and DNS filtering is active for every app on that device — no router configuration needed."

@@ -184,7 +184,7 @@ A few things worth knowing:
 
 ---
 
-## The Simpler Alternative: Surfshark CleanWeb
+## The Simpler Alternative: [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/)
 
 If you have read this far and your main takeaway is "this is more complicated than I expected," there is a simpler path.
 

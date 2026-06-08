@@ -99,7 +99,7 @@ On mobile, this is implemented as a VPN profile. The VPN handles DNS resolution 
 
 ---
 
-## How Surfshark CleanWeb Removes News Site Ads on Mobile
+## How [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) Removes News Site Ads on Mobile
 
 Surfshark CleanWeb is the DNS-level ad blocking feature built into the Surfshark VPN app. It is the most practical solution for mobile users who want ad-free news reading across all apps, not just one browser.
 

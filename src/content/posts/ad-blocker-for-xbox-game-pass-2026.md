@@ -86,7 +86,7 @@ The honest framing: DNS blocking significantly reduces the tracking payload arou
 
 ## [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/): The Practical Mobile Solution
 
-Surfshark CleanWeb is a DNS-level ad and tracker blocking feature built into the Surfshark VPN app. When you enable it on your phone, it filters DNS queries for every app and browser on the device against Surfshark's blocklist of ad servers, tracker domains, and malware hosts.
+[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) is a DNS-level ad and tracker blocking feature built into the Surfshark VPN app. When you enable it on your phone, it filters DNS queries for every app and browser on the device against Surfshark's blocklist of ad servers, tracker domains, and malware hosts.
 
 **[Add CleanWeb to your mobile setup — covers every app, not just Game Pass](/blog/adblock?sub=ad-blocker-for-xbox-game-pass-2026__mid)**
 

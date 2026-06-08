@@ -109,7 +109,7 @@ iOS does not support browser extensions at all (except Safari's limited Content 
 
 ---
 
-## Setting Up the Lightweight Option: Surfshark CleanWeb on Mobile
+## Setting Up the Lightweight Option: [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) on Mobile
 
 CleanWeb combines DNS-level filtering and network-level blocking inside the Surfshark VPN app. It is the only option in the table above that covers all apps on both iOS and Android without requiring separate hardware, root access, or a browser switch.
 

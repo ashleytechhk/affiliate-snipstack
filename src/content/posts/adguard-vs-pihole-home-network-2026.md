@@ -102,7 +102,7 @@ For the mobile power-user who wants maximum protection without a configuration p
 
 **Choose Pi-hole** if you already run or plan to run a home server and want household-wide coverage for every device at home — phones, TVs, game consoles — without touching each device. Pair it with WireGuard if you want the coverage to follow you. This is the right choice for home-lab enthusiasts; it is overkill (and underperforming) as a mobile-first solution.
 
-**Choose Surfshark CleanWeb** if you want a single app that handles both ad blocking and VPN privacy on your phone, works on every network, and requires zero ongoing maintenance. It is the right fit for the majority of mobile power-users who want the protection without the project.
+**Choose [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/)** if you want a single app that handles both ad blocking and VPN privacy on your phone, works on every network, and requires zero ongoing maintenance. It is the right fit for the majority of mobile power-users who want the protection without the project.
 
 ![Surfshark CleanWeb on mobile — ad blocking and VPN in one toggle](/og/adguard-vs-pihole-home-network-2026-inline-2.png)
 

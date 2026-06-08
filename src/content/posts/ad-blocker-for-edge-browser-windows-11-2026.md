@@ -149,7 +149,7 @@ The process is identical. The VPN profile installs automatically on first connec
 | uBlock Origin extension | Yes | Limited/experimental (Android only) | No |
 | [AdGuard extension](https://snipstack.io/adguard-extension-2026/) | Yes | Not available | No |
 | Custom DNS ([AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/)) | Yes | Manual setup required | Yes (device-wide) |
-| Surfshark CleanWeb | Yes (via desktop app) | Yes | Yes |
+| [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) | Yes (via desktop app) | Yes | Yes |
 
 For Windows 11 desktop: install **uBlock Origin** in Edge for free browser-level blocking. For maximum coverage, add CleanWeb on top via the Surfshark desktop app.
 

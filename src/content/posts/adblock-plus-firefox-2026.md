@@ -110,7 +110,7 @@ The limitation is that DNS blocking can't handle cosmetic filtering — removing
 |---|---|---|---|---|
 | uBlock Origin | Android (Firefox) | No | Low | Free |
 | [Adblock Plus](https://snipstack.io/adblock-plus-reddit-2026/) | Android (Firefox) | No | Low | Free |
-| Surfshark CleanWeb | Android + iOS | Yes | Minimal | Paid (VPN) |
+| [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) | Android + iOS | Yes | Minimal | Paid (VPN) |
 | Firefox Focus | Android + iOS | No | None | Free |
 | AdGuard for Android | Android | Yes | Medium | Free / Paid |
 | Brave Browser | Android + iOS | No | None | Free |

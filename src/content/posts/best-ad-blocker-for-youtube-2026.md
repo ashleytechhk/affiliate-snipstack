@@ -38,7 +38,7 @@ This means every tool in the "browser extension" category — [uBlock Origin](ht
 
 The only architectures that can reach inside native apps are:
 
-1. **Local VPN profile** (what AdGuard mobile and Surfshark CleanWeb use) — creates a local VPN tunnel that all device traffic routes through, including app traffic
+1. **Local VPN profile** (what AdGuard mobile and [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) use) — creates a local VPN tunnel that all device traffic routes through, including app traffic
 2. **Custom DNS** (what Pi-hole can do, remotely) — intercepts DNS lookups before apps even contact ad servers
 
 Everything else is limited to browser-only coverage.

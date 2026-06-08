@@ -102,7 +102,7 @@ Video ads on supported sites disappear immediately. Pages load faster and quiete
 
 ---
 
-## Method 3: DNS-Level Blocking with Surfshark CleanWeb
+## Method 3: DNS-Level Blocking with [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/)
 
 **[See how CleanWeb handles system-wide blocking →](/blog/adblock?sub=how-to-block-video-ads-on-mobile-browser-2026__mid)**
 

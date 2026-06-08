@@ -167,7 +167,7 @@ Not sure which approach fits you? Use this:
 | [AdGuard Extension](https://snipstack.io/adguard-extension-2026/) | No | Yes (~85-90%) | No | Free |
 | uBlock Origin Lite | No | Partial (~60-70%) | No | Free |
 | Ghostery | No | Yes (tracker focus) | No | Free |
-| Surfshark CleanWeb | Yes | Yes (DNS-level) | Yes | Paid (VPN bundle) |
+| [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) | Yes | Yes (DNS-level) | Yes | Paid (VPN bundle) |
 | Brave Browser | No (own browser) | Yes (native) | No | Free |
 | Firefox + uBlock Origin | No (own browser) | Yes (full V2) | No | Free |
 

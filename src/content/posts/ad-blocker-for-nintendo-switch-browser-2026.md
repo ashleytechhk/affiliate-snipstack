@@ -75,7 +75,7 @@ Here is [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) it 
 
 Once set, every DNS lookup from your Switch — including from the browser and from the Switch's own services — goes through the filtering DNS server. Ads on known ad-serving domains stop loading.
 
-> **Use Surfshark CleanWeb as your DNS [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)** — it covers the Switch via DNS settings and your phone natively through the app.
+> **Use [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) as your DNS [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/)** — it covers the Switch via DNS settings and your phone natively through the app.
 > [Get Surfshark CleanWeb](/blog/adblock?sub=ad-blocker-for-nintendo-switch-browser-2026__mid)
 
 ---

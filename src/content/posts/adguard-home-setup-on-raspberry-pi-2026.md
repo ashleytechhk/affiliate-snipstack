@@ -88,7 +88,7 @@ For most mobile power-users — people who live on their phones and move between
 
 Surfshark includes a feature called **CleanWeb** that performs ad and tracker blocking at the VPN server level. Here is how it compares to the Pi setup:
 
-| Feature | AdGuard Home + Pi | Surfshark CleanWeb |
+| Feature | AdGuard Home + Pi | [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) |
 |---|---|---|
 | Setup time | 1–3 hours | Under 5 minutes |
 | Hardware required | Yes (Pi + microSD + power) | None |

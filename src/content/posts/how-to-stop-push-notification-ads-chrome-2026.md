@@ -186,7 +186,7 @@ Chrome for iOS does not support third-party web push notifications — Apple doe
       "name": "Does turning off Chrome notifications block all ads?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Chrome's notification permission controls affect only push notification-style alerts. Standard in-page display ads, video pre-rolls, and in-app ads are unaffected. For broader ad blocking, a DNS-level tool like Surfshark CleanWeb or a browser with a built-in blocker covers the remaining categories."
+        "text": "No. Chrome's notification permission controls affect only push notification-style alerts. Standard in-page display ads, video pre-rolls, and in-app ads are unaffected. For broader ad blocking, a DNS-level tool like [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) or a browser with a built-in blocker covers the remaining categories."
       }
     },
     {

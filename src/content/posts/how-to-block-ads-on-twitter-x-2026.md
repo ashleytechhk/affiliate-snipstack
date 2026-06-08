@@ -59,7 +59,7 @@ A VPN with a DNS-level [ad blocker](https://snipstack.io/ad-blocker-firefox-2026
 
 This approach works inside the native Twitter X app on both iPhone and Android, which is why it's the top recommendation for mobile users.
 
-**Surfshark CleanWeb** is the most practical option here. It's built directly into the Surfshark VPN app, so you don't need to install or configure anything separately. One tap turns on both the VPN connection and the ad-blocking layer.
+**[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/)** is the most practical option here. It's built directly into the Surfshark VPN app, so you don't need to install or configure anything separately. One tap turns on both the VPN connection and the ad-blocking layer.
 
 What CleanWeb blocks on Twitter X:
 - Promoted tweet ad calls

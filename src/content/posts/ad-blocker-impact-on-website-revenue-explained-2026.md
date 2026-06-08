@@ -91,7 +91,7 @@ JavaScript running in the background for analytics and ad retargeting drains bat
 
 ### Privacy
 
-Mobile ads often carry fingerprinting scripts that identify your device even without cookies. Ad networks build profiles on browsing behavior across sites. Blocking ads at the network level — as Surfshark CleanWeb does — prevents that data from being transmitted in the first place.
+Mobile ads often carry fingerprinting scripts that identify your device even without cookies. Ad networks build profiles on browsing behavior across sites. Blocking ads at the network level — as [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) does — prevents that data from being transmitted in the first place.
 
 ---
 

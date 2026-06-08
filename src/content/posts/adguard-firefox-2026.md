@@ -104,7 +104,7 @@ The limitation is that DNS-level blocking misses ads served from the same domain
 
 AdGuard's dedicated Android app goes further than any browser add-on. It uses a local VPN profile to intercept all traffic on the device, filtering ads and trackers in every app — not just Firefox. You get per-app blocking rules, HTTPS filtering, custom filter lists, and detailed request logs showing exactly which domains each app is contacting.
 
-The setup catch: AdGuard for Android isn't available on the Google Play Store due to Play's policies on ad-blocking apps. You download and install the APK directly from AdGuard's website. If sideloading apps makes you uncomfortable, Surfshark CleanWeb achieves similar system-wide coverage without any sideloading and adds a full VPN on top.
+The setup catch: AdGuard for Android isn't available on the Google Play Store due to Play's policies on ad-blocking apps. You download and install the APK directly from AdGuard's website. If sideloading apps makes you uncomfortable, [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) achieves similar system-wide coverage without any sideloading and adds a full VPN on top.
 
 If you're an Android power-user who wants the deepest control — per-app rules, custom lists, HTTPS inspection — and you're comfortable with the sideload process, AdGuard's standalone app is the most technically capable option on this list. Just be aware that the local VPN it creates will conflict with any separate VPN you want to run simultaneously.
 

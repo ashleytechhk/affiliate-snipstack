@@ -101,7 +101,7 @@ The most effective approach pairs what Safari already does with a DNS-level bloc
 
 With "Prevent Cross-Site Tracking" confirmed on, Safari handles third-party cookies, redirect tracking, and URL parameter stripping across all web browsing.
 
-### Layer 2: Surfshark CleanWeb (Closes the Gaps)
+### Layer 2: [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) (Closes the Gaps)
 
 [CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s DNS-level blocker built into the Surfshark app. When active, it intercepts outbound requests to known tracker and ad-serving domains before any app on your phone can make them. That includes Safari, Chrome, Firefox, and every third-party app running in the background.
 

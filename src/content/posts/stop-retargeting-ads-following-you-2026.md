@@ -173,7 +173,7 @@ Each layer closes a different part of the retargeting pipeline:
 
 | Layer | What It Stops | Tool |
 |---|---|---|
-| DNS-level pixel blocking | Client-side pixels before they fire | Surfshark CleanWeb |
+| DNS-level pixel blocking | Client-side pixels before they fire | [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) |
 | Advertising ID deletion | Cross-app audience matching | iPhone/Android settings |
 | Browser isolation (private session) | Cookie-based retargeting from that session | Firefox Focus |
 | Platform opt-outs | Account-based retargeting on Meta, Google, TikTok | In-app settings |

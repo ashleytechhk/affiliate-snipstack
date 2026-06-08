@@ -193,7 +193,7 @@ They point to the same service, but they're not functionally equivalent. The IP 
 
 AdGuard's free public DNS operates under a no-log policy — query data is not stored or linked to users. For AdGuard Personal DNS (the paid tier with your own dashboard), you can opt into temporary query logging for your own debugging, but it's off by default and under your control.
 
-### Can I use AdGuard DNS and Surfshark CleanWeb at the same time?
+### Can I use AdGuard DNS and [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) at the same time?
 
 Yes, and this is the recommended setup for maximum coverage. Set `dns.adguard-dns.com` as your Android Private DNS or install the iOS profile for always-on DNS blocking. Enable CleanWeb in Surfshark for URL-level and tracker-parameter blocking when you want the VPN layer active. The two systems complement each other rather than conflicting.
 

@@ -162,7 +162,7 @@ A VPN with CleanWeb is the only column in that table with "Yes" for both environ
 No. uBlock Origin is a browser extension. It only intercepts traffic flowing through the browser it is installed in. Streaming apps on mobile use their own network stack — uBlock Origin has no access to those requests. On desktop, if you watch streaming services in Firefox or Chrome, uBlock Origin works there. [See your options here.](/blog/adblock?sub=ad-blocker-that-works-on-streaming-sites-2026__faq)
 
 **Will a VPN alone block streaming ads?**
-A standard VPN routes your traffic through a different server but does not block ads. You need a VPN with a built-in ad-blocking feature to get ad filtering. Surfshark CleanWeb adds DNS-level ad blocking on top of the VPN connection — the VPN by itself does not do this.
+A standard VPN routes your traffic through a different server but does not block ads. You need a VPN with a built-in ad-blocking feature to get ad filtering. [Surfshark CleanWeb ad](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/)ds DNS-level ad blocking on top of the VPN connection — the VPN by itself does not do this.
 
 **[Does ad blocking](https://snipstack.io/does-ad-blocking-work-on-vpn-traffic-2026/) on streaming sites break video playback?**
 Aggressive DNS blocking can disrupt video delivery if the blocker accidentally catches content delivery domains. This is more of a risk with generic DNS blockers than with dedicated tools like CleanWeb, which maintain platform-specific allowlists to avoid breaking video streams.

@@ -73,7 +73,7 @@ To block ads across your entire device — including inside Arc Search and every
 
 A VPN profile sits between your phone and the internet at the operating system level. All traffic from every app routes through it. A VPN that includes DNS-based ad filtering can inspect outbound requests and drop the ones pointing to known ad servers before any app receives a response.
 
-This is how **Surfshark CleanWeb** works. CleanWeb is a feature built into the Surfshark VPN app. When you connect to Surfshark, CleanWeb activates and filters ad and tracker domains across:
+This is how **[Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/)** works. CleanWeb is a feature built into the Surfshark VPN app. When you connect to Surfshark, CleanWeb activates and filters ad and tracker domains across:
 
 - Arc Search (stacks on top of the built-in blocker)
 - Safari
