@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Disposable phone number app free — protect your real number on dating apps 2026](/og/disposable-phone-number-app-free-2026.png)
 
-The FTC reported that Americans lost $1.3 billion to romance scams in 2022 alone — a figure that climbed again in 2023. Behind nearly every one of those cases is the same early mistake: sharing a real phone number with someone the victim barely knew.
+The FTC reported that Americans lost $1.3 billion to romance scams in 2022 alone — a figure that climbed again in 2023. Behind nearly every one of those cases is the same early mistake: sharing a real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) with someone the victim barely knew.
 
 Your phone number is not just a way to reach you. It is an identity key. A determined person with your number can run a reverse lookup and find your full name in seconds. From there, your neighborhood, your workplace, your social profiles, and your dating history follow. In the time between one date and the next, a bad match can build a file on you that you never agreed to share.
 

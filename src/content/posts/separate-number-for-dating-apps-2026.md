@@ -152,7 +152,7 @@ No. Dating apps require a working [phone number for](https://snipstack.io/phone-
 
 **[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Alt-Number cost?**
 
-Alt-Number is available as a standalone add-on to a Surfshark subscription, or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which bundles VPN, antivirus, and identity monitoring tools alongside it. The bundle typically represents better value if you'd use more than one feature. Surfshark runs promotions regularly — check the current pricing through the official link.
+Alt-Number is available as a standalone add-on to a Surfshark subscription, or as part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which bundles VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring tools alongside it. The bundle typically represents better value if you'd use more than one feature. Surfshark runs promotions regularly — check the current pricing through the official link.
 
 ---
 

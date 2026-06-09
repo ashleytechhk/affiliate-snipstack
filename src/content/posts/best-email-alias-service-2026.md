@@ -24,7 +24,7 @@ This comparison covers the five services that actually come up in 2026 when peop
 
 **SimpleLogin is the best standalone alias service** for users who want open-source auditability or custom domain support. It does the core job excellently and has a free tier to get started.
 
-The others — Apple Hide My Email, DuckDuckGo Email Protection, Proton Pass aliases — are useful within their ecosystems but have limitations that make them secondary options for anyone dealing with serious spam volume.
+The others — Apple Hide My Email, DuckDuckGo Email Protection, [Proton Pass](https://snipstack.io/proton-pass-email-alias-review-2026/) aliases — are useful within their ecosystems but have limitations that make them secondary options for anyone dealing with serious spam volume.
 
 ---
 
@@ -36,7 +36,7 @@ The others — Apple Hide My Email, DuckDuckGo Email Protection, Proton Pass ali
 | **SimpleLogin** | Yes (10 aliases) | Unlimited (paid) | Yes | Yes | No | No | ~5 min |
 | **Apple Hide My Email** | Yes (iCloud+) | Unlimited | No | Yes | No | No | ~1 min |
 | **DuckDuckGo Email Protection** | Yes | Unlimited | No | Partial | No | No | ~2 min |
-| **Proton Pass Aliases** | Yes (10/month) | Unlimited (paid) | No | No | Via ProtonVPN | No | ~3 min |
+| **Proton Pass Aliases** | Yes (10/month) | Unlimited (paid) | No | No | Via [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) | No | ~3 min |
 
 *Feature data reflects publicly available information as of June 2026. Verify current details with each provider before purchasing.*
 
@@ -66,7 +66,7 @@ Custom domains matter for professionals who want branded aliases. Open-source au
 
 ## Alt-ID (Surfshark) — Best Overall for Spam-Exhausted Users
 
-Alt-ID is the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) component of Surfshark's privacy suite. It sits inside the Surfshark app alongside VPN protection, a data breach scanner, and a personal data removal tool.
+Alt-ID is the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) component of Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/). It sits inside the Surfshark app alongside VPN protection, a data breach scanner, and a personal data removal tool.
 
 ### What it does well
 
@@ -221,7 +221,7 @@ Mail that was sent before the alias was deleted may arrive briefly after deletio
 
 **Is Alt-ID harder to set up than a standalone alias service like SimpleLogin?**
 
-No. Alt-ID's setup is faster for most users because it's integrated into the Surfshark app — no separate account, no configuration choices. The tradeoff is that you're starting a Surfshark subscription rather than a standalone alias account. If you already have a VPN or are planning to get one, this is a net positive. If you only want alias service with no VPN, SimpleLogin is simpler from a billing standpoint. **[Try Alt-ID with Surfshark](/blog/altid?sub=best-email-alias-service-2026__faq)** if you want alias protection bundled with a full privacy suite.
+No. Alt-ID's setup is faster for most users because it's integrated into the Surfshark app — no separate account, no configuration choices. The tradeoff is that you're starting a Surfshark subscription rather than a standalone alias account. If you already have a VPN or are planning to get one, this is a net positive. If you only want alias service with no VPN, SimpleLogin is simpler from a billing standpoint. **[Try Alt-ID with Surfshark](/blog/altid?sub=best-email-alias-service-2026__faq)** if you want alias protection bundled with a full [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).
 
 **Do [email alias](https://snipstack.io/email-alias-for-pharmacy-prescription-alerts-2026/) domains get blocked by services I'm trying to sign up for?**
 
