@@ -34,7 +34,7 @@ This is not marketing language. Independent security researchers confirm it year
 
 So your iPhone is safe? Mostly yes — but not completely. Here are the threats that **do** work on iPhones in 2026:
 
-**Phishing pages.** A website pretending to be your bank, Apple, or a government office. It looks real. It asks for your password or card number. You type it in, and the criminals have it. iOS cannot stop you from typing your password into a fake website.
+**Phishing pages.** A website pretending to be your bank, Apple, or a government office. It looks real. It asks for your password or card number. You type it in, and the criminals have it. iOS cannot stop you from typing your password into a [fake website](https://snipstack.io/fake-website-detector-tool-2026/).
 
 **Fake alert pop-ups.** You visit a site and a big red box says "YOUR iPHONE IS INFECTED — CALL THIS NUMBER NOW." This is a scam designed to frighten you into calling a fake tech-support line. Apple will never contact you this way.
 

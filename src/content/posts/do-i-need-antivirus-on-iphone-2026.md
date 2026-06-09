@@ -14,7 +14,7 @@ Your grandchild set up your iPhone. They said, "Don't worry, iPhones don't get v
 
 That is mostly true. But it is not the whole story.
 
-In 2026, the biggest threats to iPhone users are not viruses — they are **[scam text message](https://snipstack.io/scam-text-message-checker-2026/)s**, **fake websites that steal your passwords**, and **unsafe Wi-Fi at the library or doctor's office**. Your iPhone's built-in security cannot stop all of these on its own.
+In 2026, the biggest threats to iPhone users are not viruses — they are **[scam text message](https://snipstack.io/scam-text-message-checker-2026/)s**, **[fake website](https://snipstack.io/fake-website-detector-tool-2026/)s that steal your passwords**, and **unsafe Wi-Fi at the library or doctor's office**. Your iPhone's built-in security cannot stop all of these on its own.
 
 This guide explains everything in plain language. No jargon. No tech knowledge needed.
 

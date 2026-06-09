@@ -256,7 +256,7 @@ Surfshark's WireGuard protocol (enabled by default) is the fastest protocol avai
 
 ## VPN + CleanWeb: The Streaming Combination Worth Having
 
-If you pay for a VPN for streaming, CleanWeb adds meaningful value at no extra cost:
+If you pay for a [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/), CleanWeb adds meaningful value at no extra cost:
 
 **Free tier streaming services** (Pluto TV, Tubi, Peacock free, Crackle) run on ad revenue — typically 4-8 minutes of ads per hour. CleanWeb's DNS-level blocking eliminates these, effectively giving you ad-free access to free streaming libraries.
 

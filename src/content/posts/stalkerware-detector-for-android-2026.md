@@ -184,6 +184,6 @@ The good news is that checking for it does not require any technical skill. A re
 
 If you are over 60, use an Android phone, and care about keeping your private life private, running a security scan today is one of the most straightforward things you can do for your own peace of mind.
 
-If you are also concerned about phishing scams that arrive by email or fake websites, our guide on [how to avoid phishing attacks in 2026](/how-to-avoid-phishing-attacks-2026/) is a useful next read.
+If you are also concerned about phishing scams that arrive by email or [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s, our guide on [how to avoid phishing attacks in 2026](/how-to-avoid-phishing-attacks-2026/) is a useful next read.
 
 **[Check your Android phone for stalkerware now — free scan with Surfshark Antivirus](/blog/antivirus?sub=stalkerware-detector-for-android-2026__cta)**

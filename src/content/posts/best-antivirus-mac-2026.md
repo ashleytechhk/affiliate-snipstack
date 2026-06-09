@@ -99,7 +99,7 @@ A pop-up appears on your screen. It says your Mac has a virus. It shows an "Appl
 
 ### Phishing Emails
 
-You receive an email that looks like it is from Apple, your bank, Amazon, or another company you trust. The email asks you to click a link and log in. The link goes to a fake website that steals your details.
+You receive an email that looks like it is from Apple, your bank, Amazon, or another company you trust. The email asks you to click a link and log in. The link goes to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) that steals your details.
 
 ### Password-Stealing Software
 

@@ -29,7 +29,7 @@ Good antivirus software acts as a filter. It checks everything coming into your 
 **What antivirus software protects you from:**
 - Viruses that can delete your files or slow your computer to a crawl
 - Ransomware that locks your files until you pay money
-- Fake websites that steal your passwords or banking details
+- [Fake website](https://snipstack.io/fake-website-detector-tool-2026/)s that steal your passwords or banking details
 - Scam emails with dangerous attachments
 - Spyware that watches what you type
 

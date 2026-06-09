@@ -39,7 +39,7 @@ It usually arrives as:
 - An **email** that looks almost identical to a real message from a real company
 - A **text message** warning about an undelivered package or a problem with your account
 - A **phone call** from someone claiming to be from your bank's fraud department
-- A **fake website** that looks like your bank's login page but is controlled by criminals
+- A **[fake website](https://snipstack.io/fake-website-detector-tool-2026/)** that looks like your bank's login page but is controlled by criminals
 
 The goal is always the same: get you to click a link, fill in a form, or call a number — and in doing so, hand over something valuable.
 

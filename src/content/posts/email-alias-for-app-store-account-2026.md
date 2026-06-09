@@ -190,7 +190,7 @@ For Alt-ID, the alias address looks like any standard email address — develope
 Family sharing purchases and notifications are tied to the Apple ID itself, not the email address you used to create it. Changing your Apple ID's email address to an alias does not affect existing family sharing arrangements. New family sharing invitations will be sent to whatever email address your Apple ID uses at the time.
 
 **What about [anonymous email](https://snipstack.io/anonymous-email-2026/) — does that work for App Store accounts?**
-Fully anonymous email (no-account, no-forwarding services) doesn't work for App Store accounts because Apple needs to be able to reach you for account recovery and receipts. For a more detailed look at truly anonymous email options and when they're appropriate, see our [guide to free anonymous email services](/best-free-anonymous-email-2026/). The short answer: anonymous for Apple ID means locked-out risk. An alias with reliable forwarding is the right approach.
+Fully [anonymous email](https://snipstack.io/anonymous-email-sign-up-no-personal-info-2026/) (no-account, no-forwarding services) doesn't work for App Store accounts because Apple needs to be able to reach you for account recovery and receipts. For a more detailed look at truly anonymous email options and when they're appropriate, see our [guide to free anonymous email services](/best-free-anonymous-email-2026/). The short answer: anonymous for Apple ID means locked-out risk. An alias with reliable forwarding is the right approach.
 
 ---
 

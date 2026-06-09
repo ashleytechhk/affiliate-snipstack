@@ -39,7 +39,7 @@ A phishing email is a fake message designed to look like it comes from someone y
 
 The goal is always one of these three things:
 
-1. **Get you to click a link** that takes you to a fake website where you type in your password
+1. **Get you to click a link** that takes you to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) where you type in your password
 2. **Get you to open an attachment** that installs harmful software on your device
 3. **Get you to reply** with personal information like your [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number, date of birth, or card details
 

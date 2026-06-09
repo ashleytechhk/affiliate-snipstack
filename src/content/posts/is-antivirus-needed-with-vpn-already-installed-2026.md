@@ -41,7 +41,7 @@ A VPN — short for Virtual Private Network — does one main thing: it hides yo
 
 **A VPN cannot protect you from:**
 - A virus that arrives in an email attachment
-- Clicking a link on a fake website that looks like your bank
+- Clicking a link on a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) that looks like your bank
 - A scam pop-up that tricks you into downloading malicious software
 - Malware already installed on your device
 - Ransomware that locks your files and demands payment

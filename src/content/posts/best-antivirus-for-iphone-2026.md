@@ -35,7 +35,7 @@ So what do "iPhone antivirus" apps actually do?
 - **Data breach alerts.** They watch lists of stolen passwords and email addresses. If your details appear in a breach, they notify you so you can change your password quickly.
 - **VPN (Virtual Private Network).** Some apps include a VPN, which hides your internet traffic from snoops on public Wi-Fi — similar to pulling your curtains when you do not want neighbours looking in.
 
-None of these features scan for viruses inside your phone. But they do protect against the threats that actually target iPhone users in 2026: scam links, fake websites, and stolen passwords.
+None of these features scan for viruses inside your phone. But they do protect against the threats that actually target iPhone users in 2026: scam links, [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s, and stolen passwords.
 
 ![A flowchart showing how phishing links, Wi-Fi risks, and breach alerts each affect an iPhone user](/og/best-antivirus-for-iphone-2026-inline-1.png)
 

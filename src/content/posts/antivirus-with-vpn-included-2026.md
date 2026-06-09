@@ -32,7 +32,7 @@ Antivirus software is like a security guard for your device. It checks every fil
 - Viruses and malware that slow or damage your device
 - Ransomware that locks your files until you pay
 - Spyware that records what you type — including passwords and bank details
-- Fake websites designed to steal your information
+- [Fake website](https://snipstack.io/fake-website-detector-tool-2026/)s designed to steal your information
 
 ### What a VPN does
 

@@ -62,7 +62,7 @@ You are browsing a recipe website or reading the news, and suddenly a large pop-
 
 ### Phishing Emails
 
-These are emails that look exactly like they came from your bank, from Medicare, from Amazon, or even from a family member. They contain a link that takes you to a fake website designed to steal your password or card number. Surfshark's real-time web protection checks every link before you land on the page and warns you if it is dangerous.
+These are emails that look exactly like they came from your bank, from Medicare, from Amazon, or even from a family member. They contain a link that takes you to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) designed to steal your password or card number. Surfshark's real-time web protection checks every link before you land on the page and warns you if it is dangerous.
 
 ### Spyware
 

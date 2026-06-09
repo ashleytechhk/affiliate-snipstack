@@ -110,7 +110,7 @@ Here is what makes it the right fit for this use case:
 
 **Privacy-first infrastructure.** The number is not linked to your real name, your existing SIM, or your US carrier identity. Call and message logs are not retained.
 
-Alt-Number is available as part of [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), which also includes a VPN and data breach monitoring. If you are already using a VPN for streaming or accessing US content from abroad — which many expats are — the effective cost of adding a US phone number to that subscription is minimal.
+Alt-Number is available as part of [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), which also includes a VPN and data breach monitoring. If you are already using a [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) or accessing US content from abroad — which many expats are — the effective cost of adding a US phone number to that subscription is minimal.
 
 > **[Get your US number with Surfshark Alt-Number](/blog/altnumber?sub=how-to-get-us-phone-number-abroad-2026__mid)** — carrier-backed +1 number, active in minutes, no SIM required.
 

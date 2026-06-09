@@ -126,7 +126,7 @@ Here is what it does that is directly relevant to smart home protection:
 
 **Real-time malware scanning:** Monitors your phone and computer continuously for threats. You do not have to remember to run it.
 
-**Phishing link protection:** When a suspicious text or email link leads to a fake website — one designed to look like your bank, your Amazon account, or your smart home app login — Surfshark blocks it before the page loads and tells you why.
+**Phishing link protection:** When a suspicious text or email link leads to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) — one designed to look like your bank, your Amazon account, or your smart home app login — Surfshark blocks it before the page loads and tells you why.
 
 **Data breach alerts:** If your email address or password appears in a known data leak, Surfshark notifies you so you can change the affected login before someone uses it.
 

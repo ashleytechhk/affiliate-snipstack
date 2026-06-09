@@ -209,7 +209,7 @@ Browser-built-in blocking (like Brave's Shields or Safari's Intelligent Tracking
 
 The Apple TV app delivers ads through the same network infrastructure as any other streaming app. That means the same DNS-level blocking that works for YouTube app ads and in-app banners also works here — with the same limitation that server-side inserted ads remain out of reach for any client-side tool.
 
-For mobile power users who spend real time in the Apple TV app, the fastest path to an ad-lighter experience is a network-level solution. Surfshark CleanWeb is the most practical choice if you also want a VPN for streaming access. DNS-only services like AdGuard DNS are the right call if you only want ad blocking and want to skip the subscription.
+For mobile power users who spend real time in the Apple TV app, the fastest path to an ad-lighter experience is a network-level solution. Surfshark CleanWeb is the most practical choice if you also want a [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) access. DNS-only services like AdGuard DNS are the right call if you only want ad blocking and want to skip the subscription.
 
 Either way, browser extensions are not the answer here. Pick a tool that works at the right layer.
 

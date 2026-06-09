@@ -67,7 +67,7 @@ Here is how the leading options compare:
 | Tool | How It Works | Ease of Use | Cost | Best For |
 |---|---|---|---|---|
 | Surfshark Scam Checker | Email/URL analysis, real-time verdict | Very easy | Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Seniors, everyday users |
-| Google Safe Browsing | Blocks known malicious URLs in Chrome | Automatic | Free | URL protection only |
+| Google Safe Browsing | Blocks known [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s in Chrome | Automatic | Free | URL protection only |
 | Norton Genie | AI-based scam message analysis | Easy | Free (limited) | Text/SMS scams |
 | Manual review | User-led domain and link checks | Requires skill | Free | Tech-savvy users |
 

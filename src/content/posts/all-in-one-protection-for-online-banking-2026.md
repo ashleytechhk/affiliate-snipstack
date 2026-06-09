@@ -70,7 +70,7 @@ The kill switch is on by default. If the VPN drops for any reason, the connectio
 
 ### CleanWeb Stops Phishing Before You Click
 
-Most antivirus-only suites catch malware after download. CleanWeb operates at the DNS level, blocking known phishing domains and malicious URLs before your browser even loads them. For banking phishing — where the entire attack happens on a page that looks legitimate — that upstream blocking is the layer that matters.
+Most antivirus-only suites catch malware after download. CleanWeb operates at the DNS level, blocking known phishing domains and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s before your browser even loads them. For banking phishing — where the entire attack happens on a page that looks legitimate — that upstream blocking is the layer that matters.
 
 ### Surfshark Alert Monitors the Credentials You Use to Log In
 

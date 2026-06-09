@@ -22,7 +22,7 @@ Travel insurance scams target older travelers because they book more trips, carr
 
 ## Why Travel Insurance Scams Are On the Rise
 
-The global travel insurance market is large and growing, which makes it an attractive target for fraudsters. Scam operators set up fake websites, send phishing emails that look like they come from well-known insurers, and even impersonate agents you may have dealt with before.
+The global travel insurance market is large and growing, which makes it an attractive target for fraudsters. Scam operators set up [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s, send phishing emails that look like they come from well-known insurers, and even impersonate agents you may have dealt with before.
 
 What makes this fraud particularly painful is the timing. You may not realize you have been scammed until you are abroad with a medical emergency or a canceled flight — and suddenly discover your "policy" number does not exist.
 

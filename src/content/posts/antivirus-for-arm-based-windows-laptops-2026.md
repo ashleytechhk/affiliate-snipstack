@@ -132,7 +132,7 @@ Beyond the ARM support, [Surfshark Antivirus](https://snipstack.io/surfshark-ant
 | Feature | What it does |
 |---|---|
 | Real-time malware scanning | Catches threats before files open, running natively on ARM |
-| Phishing and scam-site blocking | Warns you before entering a fake website |
+| Phishing and scam-site blocking | Warns you before entering a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) |
 | Webcam protection | Alerts you if any app tries to access your camera without permission |
 | Data breach monitoring | Tells you if your email or password was found in a leaked database |
 | Bundled VPN | Encrypts your connection on public Wi-Fi |

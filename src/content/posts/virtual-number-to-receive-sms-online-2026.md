@@ -97,7 +97,7 @@ If you already have a dating app account and just want a [separate number](https
 
 ### Burner
 
-Burner popularized the disposable phone number concept and the auto-destruction feature is well executed: the number disappears along with all call and text history on a date of your choosing. For online daters who want a clean exit without blocking conversations one by one, that's a genuinely useful mechanic.
+Burner popularized the [disposable phone number](https://snipstack.io/disposable-phone-number-app-free-2026/) concept and the auto-destruction feature is well executed: the number disappears along with all call and text history on a date of your choosing. For online daters who want a clean exit without blocking conversations one by one, that's a genuinely useful mechanic.
 
 The limitations are US/Canada-only and VoIP-based — the same verification problem applies as with Hushed. Burner works best as a "give this to matches after you've already set up your dating profile on your real number," not as the number you use during app sign-up. It's also pricier than Hushed for comparable short-term use.
 

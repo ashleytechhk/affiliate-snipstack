@@ -47,7 +47,7 @@ What makes this especially dangerous for seniors is that many families share a s
 
 The path of attack almost always looks like this:
 
-1. A connected device (laptop, phone, or tablet) gets infected — often from a suspicious email link or a fake website.
+1. A connected device (laptop, phone, or tablet) gets infected — often from a suspicious email link or a [fake website](https://snipstack.io/fake-website-detector-tool-2026/).
 2. The virus spreads across the home network to the NAS.
 3. Files are encrypted or stolen.
 4. A ransom demand appears.

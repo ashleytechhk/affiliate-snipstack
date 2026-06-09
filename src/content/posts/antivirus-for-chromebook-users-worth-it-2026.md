@@ -48,7 +48,7 @@ You are browsing a website and suddenly a large red warning fills your screen: "
 
 ### Phishing Emails Pretending to Be Banks or Delivery Services
 
-A message arrives that looks exactly like it came from your bank, from Amazon, or from a delivery company. It asks you to click a link and "verify your account." The link goes to a fake website that records whatever you type. These emails are designed to fool even careful readers.
+A message arrives that looks exactly like it came from your bank, from Amazon, or from a delivery company. It asks you to click a link and "verify your account." The link goes to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) that records whatever you type. These emails are designed to fool even careful readers.
 
 ### Password and Data Breaches
 

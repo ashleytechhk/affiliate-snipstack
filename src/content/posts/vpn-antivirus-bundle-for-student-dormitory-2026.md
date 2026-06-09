@@ -79,7 +79,7 @@ Surfshark's VPN uses WireGuard by default — the fastest modern VPN protocol, w
 
 The server network covers 3,200-plus servers across 100 countries. For dorm use, the relevant metrics are nearby server count (lower latency for your region) and connection stability. Surfshark's kill switch cuts your internet if the VPN drops unexpectedly, so your real IP never leaks mid-session — useful if you are accessing anything privacy-sensitive on shared infrastructure.
 
-CleanWeb, Surfshark's built-in ad and tracker blocker, works at the DNS level — meaning it blocks malicious URLs and trackers before they load, across every app on the device, not just the browser. On a dorm network where you have less control over what traffic flows around you, this layer matters.
+CleanWeb, Surfshark's built-in ad and tracker blocker, works at the DNS level — meaning it blocks [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s and trackers before they load, across every app on the device, not just the browser. On a dorm network where you have less control over what traffic flows around you, this layer matters.
 
 ### [Antivirus That](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) Does Not Fight Your Laptop
 

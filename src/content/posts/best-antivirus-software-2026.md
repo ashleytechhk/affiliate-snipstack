@@ -22,7 +22,7 @@ This guide will explain everything in plain language — no jargon, no scare tac
 
 Think of your computer like a house. The internet is the street outside. Every time you go online — to check email, read the news, video call your family — you are opening the front door.
 
-**Antivirus software is the lock on that door.** It sits quietly in the background and watches for anything suspicious trying to get inside. When it finds a threat — a virus, a piece of spyware, a fake website trying to steal your passwords — it stops it before any damage is done.
+**Antivirus software is the lock on that door.** It sits quietly in the background and watches for anything suspicious trying to get inside. When it finds a threat — a virus, a piece of spyware, a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) trying to steal your passwords — it stops it before any damage is done.
 
 The word "virus" comes from the biological idea of something small that sneaks in and causes harm. A computer virus works the same way: a small hidden program that gets onto your device and causes problems. Antivirus software is designed specifically to find and remove these threats.
 

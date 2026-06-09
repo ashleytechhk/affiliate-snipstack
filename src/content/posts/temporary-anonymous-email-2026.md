@@ -35,7 +35,7 @@ No technical skills required. No command line. No DNS records to configure.
 
 ---
 
-## Understanding the Two Types of Temporary Anonymous Email
+## Understanding the Two Types of Temporary [Anonymous Email](https://snipstack.io/anonymous-email-sign-up-no-personal-info-2026/)
 
 Before jumping into setup, it helps to know which tool fits which situation.
 

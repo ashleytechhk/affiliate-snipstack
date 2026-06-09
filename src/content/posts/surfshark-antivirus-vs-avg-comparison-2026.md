@@ -70,7 +70,7 @@ What it covers for seniors:
 
 - **Real-time virus and malware scanning** — stops threats the moment they try to enter your device
 - **Webcam and microphone protection** — alerts you if a program tries to secretly access your camera
-- **Browsing protection** — warns you before you land on a fake website or phishing page
+- **Browsing protection** — warns you before you land on a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) or phishing page
 - **Data breach alerts** — notifies you if your email address appears in a leaked database
 - **Cloud-based scanning** — keeps your computer running fast even during a full scan
 

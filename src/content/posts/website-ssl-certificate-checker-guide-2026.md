@@ -141,7 +141,7 @@ That difference — between "has SSL" and "is actually safe" — is exactly what
 
 ### Does a padlock icon mean a website is safe?
 
-No. A padlock means your connection to the website is encrypted, which prevents third parties from intercepting your data in transit. It does not mean the website itself is legitimate. Scammers obtain valid SSL certificates for fake websites routinely. Always check the full domain name and run it through a [scam checker](/blog/scamcheck?sub=website-ssl-certificate-checker-guide-2026__faq) if something feels off.
+No. A padlock means your connection to the website is encrypted, which prevents third parties from intercepting your data in transit. It does not mean the website itself is legitimate. Scammers obtain valid SSL certificates for [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s routinely. Always check the full domain name and run it through a [scam checker](/blog/scamcheck?sub=website-ssl-certificate-checker-guide-2026__faq) if something feels off.
 
 ### Can a fake website have a real SSL certificate?
 

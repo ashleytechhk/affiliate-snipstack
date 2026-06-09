@@ -43,7 +43,7 @@ Criminals are strategic. They go where the money is, and statistically, older ad
 - Use older devices that have not been updated recently
 - Reuse the same passwords across multiple websites
 
-A common scam works like this: a hacker obtains your email address and an old password from a breach that happened years ago. They send you an email that looks like it is from your bank, using your name and that old password to appear legitimate. The email warns you that your account has been compromised and asks you to "verify" your details by clicking a link. That link is a fake website. Once you enter your real banking password, they own your account.
+A common scam works like this: a hacker obtains your email address and an old password from a breach that happened years ago. They send you an email that looks like it is from your bank, using your name and that old password to appear legitimate. The email warns you that your account has been compromised and asks you to "verify" your details by clicking a link. That link is a [fake website](https://snipstack.io/fake-website-detector-tool-2026/). Once you enter your real banking password, they own your account.
 
 Breach alert notifications stop this chain early. When you are warned that an old password has been exposed, you can change it before a scammer has the chance to use it against you.
 

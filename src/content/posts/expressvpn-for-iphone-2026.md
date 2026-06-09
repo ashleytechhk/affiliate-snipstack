@@ -142,7 +142,7 @@ The honest answer depends on what you prioritize.
 - You have more than 8 devices across your household
 - You want split tunneling on iOS
 - You want a built-in ad and tracker blocker included
-- You want to spend the least possible while still getting a reliable, fast VPN for streaming
+- You want to spend the least possible while still getting a reliable, fast [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/)
 
 For the subscription arbitrage use case on iPhone, Surfshark wins the practical comparison in 2026.
 

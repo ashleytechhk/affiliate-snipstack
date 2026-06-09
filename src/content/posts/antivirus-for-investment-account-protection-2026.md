@@ -32,7 +32,7 @@ There are three reasons seniors are disproportionately targeted:
 
 **Accumulated wealth.** Decades of saving means retirement accounts often hold more money than the accounts of younger adults. A successful attack on a 67-year-old's IRA can net a criminal far more than stealing from a 30-year-old's checking account.
 
-**Less familiarity with digital threats.** Malware, phishing pages, and keyloggers are concepts many older adults have not had to think about before. Criminals exploit that gap. They create fake websites that look identical to legitimate brokerage portals — Fidelity, Vanguard, Charles Schwab — down to the logo and color scheme.
+**Less familiarity with digital threats.** Malware, phishing pages, and keyloggers are concepts many older adults have not had to think about before. Criminals exploit that gap. They create [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s that look identical to legitimate brokerage portals — Fidelity, Vanguard, Charles Schwab — down to the logo and color scheme.
 
 **Slower fraud detection.** Many seniors check their investment accounts less frequently than their bank accounts. A criminal who gains access on a Monday may have days or weeks before the theft is noticed — time enough to move funds beyond recovery.
 

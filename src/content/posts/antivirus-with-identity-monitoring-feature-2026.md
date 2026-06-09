@@ -28,7 +28,7 @@ If you are over 60, you are one of the most targeted groups online. And a basic 
 
 Scammers are not random. They are strategic. Older adults are specifically targeted for several reasons, and understanding those reasons helps explain why standard [antivirus software](https://snipstack.io/antivirus-software-2026/) alone falls short.
 
-First, seniors tend to have more savings — retirement accounts, fixed incomes, property equity — making them financially attractive targets. Second, many older adults grew up before the internet and may not immediately recognise the [signs of a](https://snipstack.io/signs-of-a-fake-website-2026/) phishing email or a fake website. Third, and perhaps most importantly, seniors are less likely to monitor their accounts as frequently as younger users, which gives criminals more time to act undetected.
+First, seniors tend to have more savings — retirement accounts, fixed incomes, property equity — making them financially attractive targets. Second, many older adults grew up before the internet and may not immediately recognise the [signs of a](https://snipstack.io/signs-of-a-fake-website-2026/) phishing email or a [fake website](https://snipstack.io/fake-website-detector-tool-2026/). Third, and perhaps most importantly, seniors are less likely to monitor their accounts as frequently as younger users, which gives criminals more time to act undetected.
 
 The most common attacks are not viruses in the old-fashioned sense. They are:
 

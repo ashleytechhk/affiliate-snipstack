@@ -56,7 +56,7 @@ We scored each option against these five criteria below.
 **What it misses:**
 - No VPN — your internet connection is not protected on public Wi-Fi
 - No webcam protection — scammers can potentially access your camera without you knowing
-- Weak [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) phishing (fake websites that steal your login details)
+- Weak [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) phishing ([fake website](https://snipstack.io/fake-website-detector-tool-2026/)s that steal your login details)
 - No alerts if your email or passwords are leaked in a data breach
 
 **Ease of use:** Very easy — already there, nothing to do.

@@ -55,7 +55,7 @@ This is a scam. No legitimate security company communicates this way. The goal i
 
 A text arrives saying your parcel could not be delivered and you need to click a link to rebook. An email says your Netflix payment failed and your account will close unless you update your card. The message looks exactly like the real thing.
 
-These are [phishing attacks](https://snipstack.io/phishing-link-checker-free-2026/). The link leads to a fake website designed to steal your password or card number. In 2025, phishing was the most common entry point for elder fraud. A good antivirus app checks every link before it opens and warns you if the site is dangerous.
+These are [phishing attacks](https://snipstack.io/phishing-link-checker-free-2026/). The link leads to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) designed to steal your password or card number. In 2025, phishing was the most common entry point for elder fraud. A good antivirus app checks every link before it opens and warns you if the site is dangerous.
 
 ### Malicious Apps Disguised as Useful Tools
 

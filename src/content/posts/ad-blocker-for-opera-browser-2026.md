@@ -67,7 +67,7 @@ There is also the question of tracker sophistication. Opera's blocklist is maint
 
 **[See how network-level blocking goes further than browser-only tools](/blog/adblock?sub=ad-blocker-for-opera-browser-2026__mid)**
 
-Finally, there is malware and phishing protection. Opera's [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) focuses on ads and trackers. It is not a security layer against malicious URLs. A domain that serves malware via a non-ad URL — a phishing page, a drive-by download disguised as a regular link — may not be caught by a blocklist tuned for advertising.
+Finally, there is malware and phishing protection. Opera's [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) focuses on ads and trackers. It is not a security layer against [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s. A domain that serves malware via a non-ad URL — a phishing page, a drive-by download disguised as a regular link — may not be caught by a blocklist tuned for advertising.
 
 ---
 

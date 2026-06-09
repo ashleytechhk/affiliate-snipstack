@@ -31,7 +31,7 @@ Scammers do not go after the newest, most expensive phones first. They go after 
 
 **Second, no built-in protection.** Premium flagship phones sometimes include basic security scanning. Budget phones rarely do. Manufacturers cut costs, and security is often the first thing to go.
 
-**Third, seniors are the preferred target.** This is uncomfortable to say, but it is true. Cybercriminals specifically run campaigns aimed at people over 60 because studies show older adults are less likely to recognise a fake website, a malicious app, or a phishing text message. Your age and your phone model together put a target on your back.
+**Third, seniors are the preferred target.** This is uncomfortable to say, but it is true. Cybercriminals specifically run campaigns aimed at people over 60 because studies show older adults are less likely to recognise a [fake website](https://snipstack.io/fake-website-detector-tool-2026/), a malicious app, or a phishing text message. Your age and your phone model together put a target on your back.
 
 According to the FBI's Internet Crime Complaint Center, adults over 60 reported losing more than $3.4 billion to online fraud in a single recent year — more than any other age group. The threat is real, it is growing, and a low end Android phone without antivirus is an open door.
 

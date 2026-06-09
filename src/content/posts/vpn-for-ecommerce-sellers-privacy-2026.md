@@ -113,7 +113,7 @@ Surfshark is one of the only major [VPN providers](https://snipstack.io/vpn-prov
 
 ### CleanWeb Ad and Tracker Blocking
 
-Surfshark's CleanWeb feature blocks ads, trackers, and malicious URLs at the network level across all browsers and apps. For sellers doing competitor research or visiting supplier websites, this reduces the fingerprinting and tracking that follows your browsing behavior across the web.
+Surfshark's CleanWeb feature blocks ads, trackers, and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s at the network level across all browsers and apps. For sellers doing competitor research or visiting supplier websites, this reduces the fingerprinting and tracking that follows your browsing behavior across the web.
 
 ![Surfshark ecommerce seller protection — encrypted connections across all devices](/og/vpn-for-ecommerce-sellers-privacy-2026-inline-2.png)
 

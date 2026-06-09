@@ -67,7 +67,7 @@ Before comparing products, here's the baseline checklist:
 
 ### VPN Performance
 
-Surfshark's VPN uses the WireGuard protocol by default, which delivers faster speeds than the OpenVPN connections that older Norton or McAfee VPN implementations rely on. The network spans 3,200+ servers across 100+ countries. There are no monthly data caps, which matters if you use the VPN for streaming or larger file transfers.
+Surfshark's VPN uses the WireGuard protocol by default, which delivers faster speeds than the OpenVPN connections that older Norton or McAfee VPN implementations rely on. The network spans 3,200+ servers across 100+ countries. There are no monthly data caps, which matters if you use the [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) or larger file transfers.
 
 The no-logs policy has been independently audited, giving it credibility that self-reported claims alone cannot.
 

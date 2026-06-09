@@ -43,7 +43,7 @@ The tools below help you verify these signals quickly.
 | WHOIS Lookup | Domain age, registrant details | Free | No | Manual per site |
 | Google Safe Browsing | Malware / phishing flags | Free | No | Manual per site |
 | ScamAdviser | Legitimacy score, trust signals | Free (basic) | No | Manual per site |
-| Surfshark Scamcheck | Scam links, malicious URLs, email threats | Free tier + paid | Yes (with subscription) | Automatic |
+| Surfshark Scamcheck | Scam links, [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s, email threats | Free tier + paid | Yes (with subscription) | Automatic |
 
 None of the free tools watch your back continuously. They are reactive — you have to remember to check. Surfshark Scamcheck is the only option on this list that works proactively, scanning links before you click them.
 

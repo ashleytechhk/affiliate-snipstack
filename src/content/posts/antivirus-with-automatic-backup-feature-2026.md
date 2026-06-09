@@ -124,7 +124,7 @@ Being honest about what security software can and cannot do helps set realistic 
 
 **It will:**
 - Detect and block the vast majority of viruses, malware, and ransomware before they can run
-- Warn you before you visit known dangerous or fake websites
+- Warn you before you visit known dangerous or [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s
 - Automatically back up your important files so you can recover them if something goes wrong
 - Alert you if your email address or passwords appear in a known data breach
 

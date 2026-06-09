@@ -139,7 +139,7 @@ A VPN can theoretically address regional availability, but Microsoft actively de
 
 CleanWeb running without the VPN tunnel active — DNS filtering only, no traffic routing — does not change your apparent location and has no interaction with Game Pass regional restrictions. You can run the ad-blocking feature without activating the VPN itself.
 
-If you want to use Surfshark's VPN for streaming on other services (Netflix region switching, accessing BBC iPlayer overseas — see the [streaming VPN guide](/best-vpn-for-streaming-netflix-2026/) for details) while keeping CleanWeb active for ad blocking, that combination works well. Just do not connect to a VPN server when actively using Game Pass if you want to stay within Microsoft's usage terms.
+If you want to use Surfshark's [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) on other services (Netflix region switching, accessing BBC iPlayer overseas — see the [streaming VPN guide](/best-vpn-for-streaming-netflix-2026/) for details) while keeping CleanWeb active for ad blocking, that combination works well. Just do not connect to a VPN server when actively using Game Pass if you want to stay within Microsoft's usage terms.
 
 ---
 

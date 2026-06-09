@@ -124,7 +124,7 @@ Beyond the VPN-level domain blocking, Clean Web also runs as a browser extension
 
 - **Ad blocking** — removes banners, pre-roll video ads, and sidebar promotions
 - **Tracker blocking** — strips tracking pixels and cross-site scripts
-- **Malware link blocking** — flags or removes links to known malicious URLs before you click
+- **Malware link blocking** — flags or removes links to known [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s before you click
 - **Cookie pop-up blocking** — dismisses GDPR consent banners automatically
 - **Real-time threat filtering** — runs inline, not as a post-load cosmetic filter
 

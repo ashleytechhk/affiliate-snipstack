@@ -60,7 +60,7 @@ Defender does not monitor whether your information has appeared in these leaks. 
 
 ### Limited Anti-Phishing Outside Edge
 
-Phishing is the most common way seniors get scammed online. You receive an email that looks like it's from your bank, click a link, and land on a fake website designed to steal your login. Defender's phishing warnings only work inside Microsoft Edge. If you use Google Chrome, Firefox, or another browser, those warnings are absent.
+Phishing is the most common way seniors get scammed online. You receive an email that looks like it's from your bank, click a link, and land on a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) designed to steal your login. Defender's phishing warnings only work inside Microsoft Edge. If you use Google Chrome, Firefox, or another browser, those warnings are absent.
 
 ![Comparison of Defender protections vs. full security suite features](/og/is-windows-defender-enough-in-2026-inline-1.png)
 

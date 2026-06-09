@@ -69,7 +69,7 @@ A window appears on screen saying "YOUR COMPUTER HAS A VIRUS — CALL THIS NUMBE
 
 ### 2. Phishing Emails
 
-An email arrives that looks exactly like it comes from your bank, PayPal, or Amazon. It says there is a problem with your account and you need to click a link and log in. The link goes to a fake website designed to steal your username and password. Real-time web protection in a good antivirus catches these fake sites and stops you from landing on them.
+An email arrives that looks exactly like it comes from your bank, PayPal, or Amazon. It says there is a problem with your account and you need to click a link and log in. The link goes to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) designed to steal your username and password. Real-time web protection in a good antivirus catches these fake sites and stops you from landing on them.
 
 ### 3. Ransomware
 

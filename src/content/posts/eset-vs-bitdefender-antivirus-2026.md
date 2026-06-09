@@ -28,7 +28,7 @@ Both ESET and Bitdefender are strong antivirus programs that will protect most p
 
 This is not meant to frighten you — it is meant to help you understand the real risk so you can protect yourself.
 
-Cybercriminals are calculated. They go where the money is. Older adults control a large share of household wealth, are statistically more trusting of official-looking communications, and are less likely to recognize when they are being tricked by a clever fake website or email. That is not a flaw — it is simply that this type of deception did not exist when many of us grew up.
+Cybercriminals are calculated. They go where the money is. Older adults control a large share of household wealth, are statistically more trusting of official-looking communications, and are less likely to recognize when they are being tricked by a clever [fake website](https://snipstack.io/fake-website-detector-tool-2026/) or email. That is not a flaw — it is simply that this type of deception did not exist when many of us grew up.
 
 Here is what the attacks look like in real life:
 

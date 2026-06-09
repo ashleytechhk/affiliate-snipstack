@@ -51,7 +51,7 @@ Scammers are not random. They are deliberately targeting older adults, and the r
 
 Older adults tend to be more trusting of official-looking messages. They often have retirement savings or fixed pension income that scammers consider a reliable prize. They are less likely to recognise technical red flags — an unusual sender address, a slightly wrong URL, a grammar error in a bank message.
 
-The scams are also becoming harder to spot. Artificial intelligence now writes convincing phishing messages with no spelling errors. Fake websites look nearly identical to the real thing. Voice deepfakes can impersonate a grandchild asking for emergency help.
+The scams are also becoming harder to spot. Artificial intelligence now writes convincing phishing messages with no spelling errors. [Fake website](https://snipstack.io/fake-website-detector-tool-2026/)s look nearly identical to the real thing. Voice deepfakes can impersonate a grandchild asking for emergency help.
 
 An [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) scans links and websites before they load catches these threats at the door — before you have to decide whether something looks legitimate.
 

@@ -156,7 +156,7 @@ Alt-ID is included with [Surfshark One](https://snipstack.io/surfshark-one-vs-bi
 Using an [email alias](https://snipstack.io/how-email-alias-2026/) hides your real address from the services you sign up to. It does not make you fully untraceable across the internet — that would require additional tools. Think of it as preventing your inbox address from being exposed, not as complete anonymity online.
 
 **Can I reply from an alias?**
-As of 2026, Alt-ID aliases are receive-only by default. Replies sent from your real inbox will show your real address unless you use a separate anonymous email provider for replies. For most spam-reduction use cases — newsletters, free trials, shopping — receive-only is sufficient.
+As of 2026, Alt-ID aliases are receive-only by default. Replies sent from your real inbox will show your real address unless you use a separate [anonymous email](https://snipstack.io/anonymous-email-sign-up-no-personal-info-2026/) provider for replies. For most spam-reduction use cases — newsletters, free trials, shopping — receive-only is sufficient.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to emails if I delete an alias?**
 Mail sent to a deleted alias is rejected or silently dropped depending on the sender. You will not receive those emails, and the sender will receive either a bounce notice or no response. This is exactly the behaviour you want when cutting off a spammy source.

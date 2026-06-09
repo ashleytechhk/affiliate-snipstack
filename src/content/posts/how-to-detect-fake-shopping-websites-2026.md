@@ -130,7 +130,7 @@ Cross-reference at least two signals: a real-time trust score (ScamAdviser or Sc
 
 Yes. SSL certificates are free and take minutes to obtain. The padlock means the connection between your browser and the server is encrypted — it says nothing about whether the person running the server is honest. Never rely on the padlock alone.
 
-### What if I already paid a fake website?
+### What if I already paid a [fake website](https://snipstack.io/fake-website-detector-tool-2026/)?
 
 Contact your bank or card issuer immediately and request a chargeback. If you paid by credit card, consumer protection laws in most countries give you strong recourse. Report the site to your national cybercrime agency and to Google's Safe Browsing report tool so it gets flagged for others.
 

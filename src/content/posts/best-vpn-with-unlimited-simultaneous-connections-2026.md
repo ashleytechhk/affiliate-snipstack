@@ -165,7 +165,7 @@ Not in practice. VPN speed is primarily limited by server infrastructure and pro
 
 Surfshark's terms allow use within a household. Unlimited simultaneous connections means every family member's device can be covered by one subscription — useful both for general privacy and for coordinating a household streaming arbitrage strategy.
 
-### Is using a VPN for streaming arbitrage allowed?
+### Is using a [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) arbitrage allowed?
 
 VPNs are legal tools in most countries. Using them to access regional pricing touches the terms of service of individual streaming platforms, most of which prohibit circumventing geographic restrictions. Legal risk for individual subscribers is minimal, but platforms may enforce account suspension in some cases. Review each platform's terms before proceeding. **[Learn more and get started with Surfshark](/blog/vpn?sub=best-vpn-with-unlimited-simultaneous-connections-2026__faq)**
 

@@ -86,7 +86,7 @@ None of these outcomes are theoretical. They happen every day to real people who
 
 **Malware detection and removal.** If something dangerous is found, Surfshark flags it and removes it. No complex settings. No confusing alerts full of technical language. Just a clear message that the threat has been handled.
 
-**Phishing protection.** When you click a link that leads to a fake website designed to steal your login details, Surfshark warns you before the page loads.
+**Phishing protection.** When you click a link that leads to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) designed to steal your login details, Surfshark warns you before the page loads.
 
 **Low impact on your computer.** Older computers sometimes struggle with heavy software. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is built to run quietly in the background without slowing your system down.
 

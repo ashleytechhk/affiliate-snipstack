@@ -95,7 +95,7 @@ Full-featured VPN with access to 3,200+ servers across 100 countries. Uses WireG
 
 ### CleanWeb [Ad Blocker](https://snipstack.io/ad-blocker-for-xbox-game-pass-2026/)
 
-Blocks ads, trackers, and malicious URLs at the DNS level — before they load in your browser. This is the feature Norton and McAfee do not include in their comparable tiers, and it is meaningful: fewer ads means faster page loads, less data usage on metered connections, and fewer phishing attempts landing on your screen.
+Blocks ads, trackers, and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s at the DNS level — before they load in your browser. This is the feature Norton and McAfee do not include in their comparable tiers, and it is meaningful: fewer ads means faster page loads, less data usage on metered connections, and fewer phishing attempts landing on your screen.
 
 ### Alert — Data Breach Notifications
 

@@ -182,7 +182,7 @@ Yes. CleanWeb is active whenever the VPN connection is live, regardless of wheth
 
 The reason most [ad blocker](https://snipstack.io/ad-blocker-for-podcast-apps-ios-2026/)s fail on streaming sites is structural: they live in a browser, and streaming apps do not use a browser. Closing that gap requires a tool that operates below the app layer — at the DNS or VPN level.
 
-For mobile users, Surfshark CleanWeb is the most straightforward solution. It takes five minutes to enable, runs quietly in the background, and covers every streaming app on your phone simultaneously. If you are already paying for a VPN for streaming access or privacy, CleanWeb is already included at no additional cost — you just need to turn it on.
+For mobile users, Surfshark CleanWeb is the most straightforward solution. It takes five minutes to enable, runs quietly in the background, and covers every streaming app on your phone simultaneously. If you are already paying for a [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) access or privacy, CleanWeb is already included at no additional cost — you just need to turn it on.
 
 DNS-only tools like NextDNS are worth using as a free baseline, but their performance on major streaming services is inconsistent. Browser extensions remain excellent for desktop streaming in a browser, but they cannot reach mobile apps.
 

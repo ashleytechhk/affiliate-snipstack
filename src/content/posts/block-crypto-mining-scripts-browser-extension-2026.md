@@ -65,7 +65,7 @@ This approach works well against scripts that rely on known third-party mining p
 
 [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) remains the most comprehensive free browser extension for blocking cryptomining scripts in 2026. It ships with multiple active filter lists that cover mining domains:
 
-- **Online Malicious URL Blocklist** — included by default, covers known cryptojacking domains and malware distribution infrastructure
+- **Online [Malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/) Blocklist** — included by default, covers known cryptojacking domains and malware distribution infrastructure
 - **uBlock filters** — the project's own maintained list, updated regularly to catch newly identified cryptomining domains
 - **Peter Lowe's Ad and Tracking Server List** — additional coverage of tracking and malicious server infrastructure
 

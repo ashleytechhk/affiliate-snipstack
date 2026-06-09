@@ -24,7 +24,7 @@ Suspicious links are the number-one way scammers steal money and personal inform
 
 ## What Does It Mean to Check a Suspicious Link Before Clicking?
 
-A "link" in an email is the underlined or highlighted text you tap or click to go to a website. Scammers create fake websites that look identical to real ones — your bank, Amazon, the post office — and send emails with links pointing to those fake pages. When you enter your password or payment details there, the scammer captures them.
+A "link" in an email is the underlined or highlighted text you tap or click to go to a website. Scammers create [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s that look identical to real ones — your bank, Amazon, the post office — and send emails with links pointing to those fake pages. When you enter your password or payment details there, the scammer captures them.
 
 **Checking a suspicious link before clicking** means running that link through a safety tool before you visit it. The tool inspects where the link actually leads — not where the email claims it leads — and tells you whether the destination is known to be dangerous.
 

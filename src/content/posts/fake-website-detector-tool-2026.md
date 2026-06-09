@@ -70,7 +70,7 @@ Google Safe Browsing runs silently inside Chrome, Firefox, and Safari. Every tim
 
 ## VirusTotal — The Most Thorough Manual Check
 
-VirusTotal (owned by Google) passes a URL through more than 70 antivirus and security engines simultaneously and shows you exactly which ones flagged it and what category they assigned — phishing, malware, spam, or clean. The depth of the result is unmatched by any free tool.
+VirusTotal (owned by Google) passes a URL through more than 70 [antivirus](https://snipstack.io/vs-antivirus-2026/) and security engines simultaneously and shows you exactly which ones flagged it and what category they assigned — phishing, malware, spam, or clean. The depth of the result is unmatched by any free tool.
 
 **What it does well:** If a URL comes back clean across 70 independent engines, that is a meaningful confidence signal. The interface also shows WHOIS data (who registered the domain, and when), community annotations, and historical scan results — context that helps you understand not just whether a site is dangerous, but why.
 
@@ -142,7 +142,7 @@ Yes. Copying a URL from an email and pasting it into a checker is not the same a
 
 ### What should I do if a link is flagged as dangerous?
 
-Do not click it. Delete the email. If the message claimed to be from your bank, a delivery company, or any other organisation you deal with, do not use any phone number or link from that email — go directly to their official website by typing the address yourself, or call the number printed on your card or a previous statement. If you already clicked before checking and entered any details, contact your bank immediately and change the passwords for any accounts you entered credentials into.
+Do not click it. Delete the email. If the message claimed to be from your bank, a delivery company, or any other organisation you deal with, do not use any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) or link from that email — go directly to their official website by typing the address yourself, or call the number printed on your card or a previous statement. If you already clicked before checking and entered any details, contact your bank immediately and change the passwords for any accounts you entered credentials into.
 
 ### Do I need to pay to use a fake website detector tool?
 

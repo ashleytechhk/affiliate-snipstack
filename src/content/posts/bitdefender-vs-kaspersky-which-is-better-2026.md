@@ -54,7 +54,7 @@ In plain terms: both products catch almost every known virus, piece of spyware, 
 
 ### [Protection Against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) Scam Websites
 
-This is where seniors see the biggest benefit. Both products include web protection that warns you before you land on a fake website — the kind designed to steal your passwords or pretend to be your bank's login page.
+This is where seniors see the biggest benefit. Both products include web protection that warns you before you land on a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) — the kind designed to steal your passwords or pretend to be your bank's login page.
 
 Bitdefender's web protection is turned on by default and works in the background without any action from you. Kaspersky's equivalent feature works well in testing but requires you to confirm it is active after installation, which can trip up less tech-savvy users.
 

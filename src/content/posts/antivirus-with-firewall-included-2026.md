@@ -30,7 +30,7 @@ Cybercriminals do not pick victims at random. They go where the money is — and
 
 Here are the tactics they use most often against seniors right now:
 
-**Phishing emails** — You receive a message that looks like it is from your bank, Medicare, or a delivery company. It asks you to click a link and "confirm your details." The link goes to a fake website that steals your password or credit card number.
+**Phishing emails** — You receive a message that looks like it is from your bank, Medicare, or a delivery company. It asks you to click a link and "confirm your details." The link goes to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) that steals your password or credit card number.
 
 **Fake virus warnings** — A pop-up fills your screen claiming your computer is infected. It tells you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). Real security software never works this way. People who call that number are connected to scammers who try to charge hundreds of dollars for fake "repairs" or to gain remote access to the computer.
 

@@ -107,7 +107,7 @@ Do not use the absence of errors as a reason to trust an email. Spear phishing e
 
 Understanding the goal helps you recognise which actions in an email are red flags.
 
-**Login credentials.** The most common goal is to get you to enter your username and password on a fake website that looks real. Once they have your credentials, they access your account, change the password to lock you out, and either drain it or sell the access.
+**Login credentials.** The most common goal is to get you to enter your username and password on a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) that looks real. Once they have your credentials, they access your account, change the password to lock you out, and either drain it or sell the access.
 
 **Financial transfers.** Business email compromise — where an attacker impersonates an executive or supplier — tricks victims into sending money to a fraudulent account. This is how most large spear phishing losses occur.
 

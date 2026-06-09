@@ -151,7 +151,7 @@ They can see a connection coming from the VPN server's IP address rather than yo
 
 ### Does a VPN protect me from phishing emails?
 
-No. A VPN encrypts your connection but does not filter malicious links in emails or block phishing sites by default. However, some VPNs including Surfshark include a CleanWeb feature that blocks known malicious URLs.
+No. A VPN encrypts your connection but does not filter malicious links in emails or block phishing sites by default. However, some VPNs including Surfshark include a CleanWeb feature that blocks known [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s.
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) a VPN actually cost?
 

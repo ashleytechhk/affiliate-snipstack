@@ -63,7 +63,7 @@ Before the comparison table, here are the features that actually matter for dual
 
 A few things stand out in this table. Norton's VPN is capped at 60 GB per month — enough if you rarely leave your home network, but a hard limit if you travel or use public Wi-Fi regularly. McAfee and Bitdefender both impose daily VPN caps on base tiers. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) includes an unlimited VPN at every plan level.
 
-The [ad blocker](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) column is the other gap. Norton and McAfee simply do not include one. Surfshark's CleanWeb blocks ads, trackers, and malicious URLs on both macOS and iOS.
+The [ad blocker](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) column is the other gap. Norton and McAfee simply do not include one. Surfshark's CleanWeb blocks ads, trackers, and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s on both macOS and iOS.
 
 ---
 

@@ -161,7 +161,7 @@ Norton stores your password manager vault and backup data on its servers. Before
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle protect against phishing?
 
-Yes. CleanWeb, included in One Bundle, blocks known phishing domains and malicious URLs in real time across browsers and apps. It also blocks ads and trackers, which reduces the surface area for malvertising attacks — a common entry point for malware on family devices.
+Yes. CleanWeb, included in One Bundle, blocks known phishing domains and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s in real time across browsers and apps. It also blocks ads and trackers, which reduces the surface area for malvertising attacks — a common entry point for malware on family devices.
 
 ### Is there a money-back window if it does not work for my family?
 

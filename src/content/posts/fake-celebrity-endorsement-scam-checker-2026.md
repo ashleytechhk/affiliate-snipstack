@@ -26,7 +26,7 @@ For anyone who receives an email featuring a celebrity's name or face promoting 
 
 ## How Fake Celebrity Endorsement Scams Work — and How Checkers Compare
 
-The table below shows how different checker tools handle the specific features of celebrity endorsement scams, which often combine fake sender addresses, newly registered scam domains, and links to convincing-looking fake websites.
+The table below shows how different checker tools handle the specific features of celebrity endorsement scams, which often combine fake sender addresses, newly registered scam domains, and links to convincing-looking [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s.
 
 | Tool | Sender Verification | Domain Age Check | Real-Time Fraud Database | Plain-Language Result | Free to Use |
 |---|---|---|---|---|---|

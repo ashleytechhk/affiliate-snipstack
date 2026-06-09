@@ -171,7 +171,7 @@ It depends on the app. Many older or poorly designed antivirus apps run constant
 
 ### Does an iPhone need antivirus?
 
-Apple's iPhone has strong built-in security that prevents most malicious apps from installing. However, iPhones are not immune to all threats. [Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s sent by text or email, unsafe public Wi-Fi connections, and fake websites can still expose you to serious harm. A VPN with phishing protection — which Surfshark provides — is the most useful security layer for iPhone users.
+Apple's iPhone has strong built-in security that prevents most malicious apps from installing. However, iPhones are not immune to all threats. [Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s sent by text or email, unsafe public Wi-Fi connections, and [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s can still expose you to serious harm. A VPN with phishing protection — which Surfshark provides — is the most useful security layer for iPhone users.
 
 ### Do I need antivirus on Android?
 

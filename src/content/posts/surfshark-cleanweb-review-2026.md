@@ -229,7 +229,7 @@ If your computing is entirely on a desktop with Firefox, uBlock Origin handles a
 
 If you also use a phone, a tablet, a smart TV, or any device beyond a Firefox desktop — CleanWeb adds real value. It covers the gaps that extensions cannot reach. YouTube on your phone. Ads in apps. Smart TV pre-roll ads on free streaming services.
 
-The value calculation is also different from most [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s because CleanWeb is not a separate purchase. It is included in any Surfshark subscription. If you are already using Surfshark VPN for streaming access (see the [streaming VPN article](/best-vpn-for-streaming-netflix-2026/)) or any other reason, CleanWeb is already on your account — enabling it takes 30 seconds.
+The value calculation is also different from most [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)s because CleanWeb is not a separate purchase. It is included in any Surfshark subscription. If you are already using Surfshark [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) access (see the [streaming VPN article](/best-vpn-for-streaming-netflix-2026/)) or any other reason, CleanWeb is already on your account — enabling it takes 30 seconds.
 
 > **Get Surfshark — VPN + CleanWeb in one subscription**
 > Streaming access, ad blocking, privacy — all covered.

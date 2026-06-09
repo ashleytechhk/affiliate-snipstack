@@ -77,7 +77,7 @@ Here is what you get:
 | Feature | What it does for you |
 |---|---|
 | Real-time virus scanning | Automatically blocks threats the moment they are detected |
-| Safe browsing filter | Warns you before loading a dangerous or fake website |
+| Safe browsing filter | Warns you before loading a dangerous or [fake website](https://snipstack.io/fake-website-detector-tool-2026/) |
 | Webcam protection | Prevents strangers from secretly accessing your laptop camera |
 | Data breach alerts | Notifies you if your email or passwords are found in a breach |
 | Bundled VPN | Keeps your internet connection private at home and in public |

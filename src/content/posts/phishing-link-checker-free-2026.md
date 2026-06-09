@@ -32,7 +32,7 @@ Before getting into the tools, it helps to understand what you are up against.
 
 A phishing link is a web address — the kind you click in an email, a text message, or a social media post — that leads somewhere dangerous instead of somewhere legitimate. The link might look trustworthy at a glance. It might even contain familiar words like "paypal" or "amazon" or "hsbc" somewhere in the address.
 
-But clicking it takes you to a fake website designed to steal your password, your credit card number, or other personal details. Sometimes the fake site looks nearly identical to the real one. That is the point.
+But clicking it takes you to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) designed to steal your password, your credit card number, or other personal details. Sometimes the fake site looks nearly identical to the real one. That is the point.
 
 The word "phishing" is a play on "fishing." Criminals cast a wide net — sending millions of convincing-looking messages — and wait for people to take the bait.
 

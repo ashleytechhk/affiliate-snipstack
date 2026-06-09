@@ -56,7 +56,7 @@ This approach is more effective than browser extensions because it covers all ap
 
 ### 3. VPN-Integrated Ad Blocking (Easiest Setup, Best Coverage)
 
-The most seamless option for non-technical mobile users is a VPN that includes a built-in [ad blocker](https://snipstack.io/ad-blocker-that-works-on-streaming-sites-2026/). Surfshark's CleanWeb feature blocks ads, trackers, and malicious URLs at the network level — before they ever load on your screen.
+The most seamless option for non-technical mobile users is a VPN that includes a built-in [ad blocker](https://snipstack.io/ad-blocker-that-works-on-streaming-sites-2026/). Surfshark's CleanWeb feature blocks ads, trackers, and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s at the network level — before they ever load on your screen.
 
 ![Step-by-step guide showing how to enable CleanWeb in the Surfshark mobile app to remove ads from Google Shopping results](/og/remove-ads-from-google-shopping-results-2026-inline-1.png)
 

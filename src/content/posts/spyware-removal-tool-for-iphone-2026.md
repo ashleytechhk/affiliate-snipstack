@@ -96,7 +96,7 @@ This single step closes many of the doors spyware uses to enter your device.
 
 ### Step 2 — Check for Suspicious Configuration Profiles
 
-A configuration profile is a small file that changes how your iPhone behaves. Legitimate ones come from your workplace or your internet provider. A rogue one can intercept your internet traffic and redirect you to fake websites.
+A configuration profile is a small file that changes how your iPhone behaves. Legitimate ones come from your workplace or your internet provider. A rogue one can intercept your internet traffic and redirect you to [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s.
 
 1. Open **Settings**.
 2. Tap **General**.

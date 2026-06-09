@@ -46,7 +46,7 @@ This takes five seconds and catches a large share of fake sites immediately.
 - A padlock icon should appear to the left of the address. In most browsers — Chrome, Safari, Firefox — this appears automatically for secure connections.
 - The domain name itself should match exactly what you expect. `amazon.com` is real. `amazon-secure-login.com` is not. `arnazon.com` (with a lowercase "r" and "n" that look like an "m") is a trick.
 
-**One important note:** HTTPS alone does not mean a site is legitimate. Scammers can and do obtain HTTPS certificates for fake websites. It just means the connection is encrypted — not that the site itself is honest. You still need to check the domain carefully.
+**One important note:** HTTPS alone does not mean a site is legitimate. Scammers can and do obtain HTTPS certificates for [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s. It just means the connection is encrypted — not that the site itself is honest. You still need to check the domain carefully.
 
 **Red flags to stop you immediately:**
 

@@ -30,7 +30,7 @@ A QR code is simply a visual shortcut to a web address. The black-and-white squa
 
 Scammers figured out that QR codes are perfect for hiding dangerous links. Think of it like receiving a sealed envelope with no return address and no label — you cannot tell where it has come from or where it will take you until you have already opened it. With a normal email link, you can at least hover over it and read the address in the corner of your screen. With a QR code, you see nothing until your camera decodes it.
 
-This technique has its own name in cybersecurity: **quishing** — a combination of QR and phishing. Security researchers began tracking it seriously around 2023, and by 2026 it has become one of the most common methods scammers use to redirect victims to fake websites.
+This technique has its own name in cybersecurity: **quishing** — a combination of QR and phishing. Security researchers began tracking it seriously around 2023, and by 2026 it has become one of the most common methods scammers use to redirect victims to [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s.
 
 The fake website may look identical to your bank's login page, a government portal, a delivery tracking service, or a payment screen. Once you enter your details there, the scammer has them.
 

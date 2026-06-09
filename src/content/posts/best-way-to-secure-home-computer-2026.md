@@ -30,7 +30,7 @@ Cybercriminals follow the money. Older adults, on average, hold more savings, ha
 
 **[Tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s:** A pop-up or phone call claims your computer has a virus and urges you to call a toll-free number. The "technician" then asks for remote access to your screen and drains your bank account or installs real malware in the process. This scam costs American seniors hundreds of millions of dollars annually.
 
-**Phishing emails:** You receive an email that looks exactly like it came from your bank, Medicare, or a delivery company. The link leads to a fake website built to steal your login details. The fakes are so convincing that even experienced computer users are sometimes fooled.
+**Phishing emails:** You receive an email that looks exactly like it came from your bank, Medicare, or a delivery company. The link leads to a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) built to steal your login details. The fakes are so convincing that even experienced computer users are sometimes fooled.
 
 **Ransomware:** Malicious software locks every file on your computer — your photos, documents, everything — and demands payment to unlock them. For someone who stores decades of family photos on their hard drive, this is devastating.
 

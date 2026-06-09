@@ -125,7 +125,7 @@ Here is what makes it worth a look:
 - **Covers unlimited devices** on a single subscription — including your phone and tablet
 - **Real-time malware scanning** powered by regularly updated threat databases
 - **Antivirus + VPN bundle** available, so your connection is protected on public Wi-Fi (at the library, at the doctor's office, at your grandchild's house)
-- **Web protection** that warns you before you land on a fake website
+- **Web protection** that warns you before you land on a [fake website](https://snipstack.io/fake-website-detector-tool-2026/)
 - **Data breach alerts** tied to your email address
 
 The interface is clean and minimal — closer to an app than a traditional antivirus dashboard. For seniors who find McAfee and Norton overwhelming, the simplicity alone is a reason to consider it.
