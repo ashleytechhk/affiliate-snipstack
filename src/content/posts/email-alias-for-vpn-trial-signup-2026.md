@@ -39,7 +39,7 @@ An alias breaks the entire chain at the registration step. You receive every ema
 | **Alt ID (Surfshark)** | Unlimited | Yes | Yes | Yes | Built into Surfshark — alias is ready before you sign up |
 | SimpleLogin | 15 free | Yes | Yes | Yes | Best standalone free pick; open-source |
 | AnonAddy | 20 free | Yes | Yes | Limited | Solid free tier; slightly more steps to set up |
-| Apple Hide My Email | Unlimited (iCloud+) | Yes | Yes | No | Works well but tied to Apple ecosystem |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited (iCloud+) | Yes | Yes | No | Works well but tied to Apple ecosystem |
 | DuckDuckGo Email Protection | Unlimited | Yes | Yes | No | Free; @duck.com domain occasionally rejected |
 | Temp Mail / Guerrilla Mail | Unlimited | No | Auto-expires | No | Breaks trial access when inbox expires |
 

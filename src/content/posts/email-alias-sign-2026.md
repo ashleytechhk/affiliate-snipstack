@@ -53,7 +53,7 @@ Not all alias services are equal. Here is a quick comparison of the main options
 | Service | Alias limit | Two-way reply | Bundled features | Price |
 |---|---|---|---|---|
 | Surfshark Alt-ID | Unlimited | Limited | VPN, antivirus, identity gen | [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) |
-| Apple Hide My Email | Unlimited | Yes (Apple Mail) | iCloud+ only | iCloud+ plan |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited | Yes (Apple Mail) | iCloud+ only | iCloud+ plan |
 | SimpleLogin | 10 free / unlimited paid | Yes | Standalone | Free / ~$30/yr |
 | DuckDuckGo Email Protection | Unlimited | No | Standalone | Free |
 

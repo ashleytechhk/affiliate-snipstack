@@ -26,7 +26,7 @@ That's not bad luck. Dating apps are among the most aggressive data collectors i
 |---|---|---|---|---|---|
 | **Alt ID (Surfshark)** | Yes | Yes | Yes | Yes | No (bundled) |
 | SimpleLogin | Yes | Moderate | 15 free / unlimited paid | Yes | Yes |
-| Apple Hide My Email | Yes | No (@privaterelay.appleid.com) | Yes (iCloud+) | Partial | iCloud+ |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes | No (@privaterelay.appleid.com) | Yes (iCloud+) | Partial | iCloud+ |
 | DuckDuckGo Email Protection | Yes | No (@duck.com) | Yes | No | Yes |
 | Firefox Relay | Yes | No (@mozmail.com) | 5 free / unlimited paid | No | Yes (5) |
 | Temp Mail / Guerrilla Mail | No (expires) | No | Yes | No | Yes |

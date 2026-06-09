@@ -45,7 +45,7 @@ The address you use to create your Microsoft Account stays attached for the life
 | **Alt-ID (Surfshark)** | Unlimited | No (bundled) | Yes | Yes | Yes | No |
 | SimpleLogin | 15 free / Unlimited paid | Yes | Yes | Yes | Yes | Yes |
 | AnonAddy | 20 free / Unlimited paid | Yes | Yes | Yes | Limited | Yes |
-| Apple Hide My Email | Unlimited | iCloud+ only | Yes | Yes | No | No |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited | iCloud+ only | Yes | Yes | No | No |
 | Gmail + trick | Unlimited | Yes | No | Yes | No | No |
 | Temp Mail / Guerrilla | Unlimited | Yes | Auto-expires | No | No | No |
 

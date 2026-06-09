@@ -31,7 +31,7 @@ Free throwaway services work for one-time verifications but break the Product Hu
 | **Surfshark Alt-ID** | Masked alias | Yes | Yes (delete on demand) | Yes | Included with Surfshark |
 | SimpleLogin | Alias service | Yes | Yes | Yes | Free tier / paid plans |
 | AnonAddy | Alias service | Yes | Yes | Yes | Free tier / paid plans |
-| Apple Hide My Email | Masked alias | Yes | Yes | Yes (Safari/iOS only) | Included with iCloud+ |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Masked alias | Yes | Yes | Yes (Safari/iOS only) | Included with iCloud+ |
 | Guerrilla Mail | Throwaway inbox | No | No (expires ~1 hr) | Partial — misses later emails | Free |
 | 10 Minute Mail | Throwaway inbox | No | No (10 min) | No | Free |
 | Gmail "+" trick | Plus addressing | No (same inbox) | Yes | Yes (but address is guessable) | Free |

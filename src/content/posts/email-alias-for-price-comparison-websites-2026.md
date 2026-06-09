@@ -52,7 +52,7 @@ Some services go further by also masking your name and generating a fake identit
 
 Here is a side-by-side look at the main contenders. Price comparison users have specific needs: easy alias creation, reliable forwarding, quick kill-switch, and ideally no extra app to install.
 
-| Feature | Surfshark Alt-ID | SimpleLogin | Apple Hide My Email | DuckDuckGo Email Protection |
+| Feature | Surfshark Alt-ID | SimpleLogin | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | DuckDuckGo Email Protection |
 |---|---|---|---|---|
 | Unlimited aliases | Yes | Yes (free: 10) | Yes (Apple users only) | Yes |
 | Alias deactivation | Instant, one-click | Yes | Yes | Yes |

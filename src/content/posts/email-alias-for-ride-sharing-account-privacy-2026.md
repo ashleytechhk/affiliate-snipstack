@@ -40,7 +40,7 @@ Ride-sharing platforms sit at an unusual intersection: they hold your email, you
 
 Not all alias approaches work for ride-sharing accounts. You need an address that persists long-term (for trip receipts and account recovery), can receive transactional emails reliably (fare confirmations, safety alerts), and can be deleted with one click when it turns noisy.
 
-| Feature | Gmail `+tag` | Throwaway (10 Min Mail) | Apple Hide My Email | **Surfshark Alt-ID** |
+| Feature | Gmail `+tag` | Throwaway (10 Min Mail) | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | **Surfshark Alt-ID** |
 |---|---|---|---|---|
 | Works for ride-app account creation | Yes | Yes (briefly) | Yes | Yes |
 | Survives password reset / account recovery | Yes | No | Yes | Yes |

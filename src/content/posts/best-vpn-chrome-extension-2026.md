@@ -155,7 +155,7 @@ This takes under five minutes:
 
 1. **Sign up for Surfshark** using the link below. You get access to both the extension and the full app under one plan.
 
-2. **Open the Chrome Web Store** and search for "Surfshark VPN." Install the official Surfshark extension (verify the developer name is Surfshark).
+2. **Open the Chrome Web Store** and search for "Surfshark VPN." Install the official Surfshark extension (verify the developer name [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)).
 
 3. **Click the extension icon** in Chrome's toolbar and log in with your Surfshark account credentials.
 

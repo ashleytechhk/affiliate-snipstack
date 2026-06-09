@@ -45,7 +45,7 @@ The result: your inbox fills with emails you didn't meaningfully consent to, fro
 | Tool | Free tier | Unlimited aliases | Persistent | Instant delete | Reply-from alias |
 |---|---|---|---|---|---|
 | **Alt ID (Surfshark)** | No (bundled) | Yes | Yes | Yes | Yes |
-| Apple Hide My Email | Yes (iCloud+) | Yes | Yes | Yes | No |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes (iCloud+) | Yes | Yes | Yes | No |
 | DuckDuckGo Email Protection | Yes | Yes | Yes | Yes | No |
 | SimpleLogin | 15 aliases | No | Yes | Yes | Yes |
 | Temp Mail / disposables | Yes | Unlimited | **No** | Auto-expires | No |

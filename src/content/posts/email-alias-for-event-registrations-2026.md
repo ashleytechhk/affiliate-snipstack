@@ -47,7 +47,7 @@ Here is how the four main alias tools perform specifically for event registratio
 | Tool | Free aliases | Domain appearance | Instant delete | Bundled with | Best for |
 |------|-------------|-------------------|----------------|--------------|----------|
 | Surfshark Alt ID | Unlimited | Realistic custom domain | Yes | Surfshark VPN | VPN users, frequent event attendees |
-| Apple Hide My Email | Unlimited (iCloud+) | @privaterelay.appleid.com | Yes | iCloud+ / Apple One | iPhone / Mac users |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited (iCloud+) | @privaterelay.appleid.com | Yes | iCloud+ / Apple One | iPhone / Mac users |
 | DuckDuckGo Email Protection | Unlimited | @duck.com | Yes | Free, standalone | Privacy-first, no subscription |
 | Firefox Relay | 5 free / unlimited paid | @mozmail.com | Yes | Firefox account | Firefox browser users |
 

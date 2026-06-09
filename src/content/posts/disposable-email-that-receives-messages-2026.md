@@ -36,7 +36,7 @@ Services like 10-Minute Mail, Temp Mail, and Guerrilla Mail give you a randomly 
 
 ### Type 2 — Alias With Real Inbox (Persistent)
 
-Services like Apple Hide My Email, Firefox Relay, and Surfshark Alt ID generate a unique forwarding address. Emails sent to that alias land in **your real inbox** — organized, searchable, and permanent. You can reply through the alias so the sender never sees your actual address. When the alias starts attracting spam, you delete it in one click and the flood stops instantly.
+Services like [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email, Firefox Relay, and Surfshark Alt ID generate a unique forwarding address. Emails sent to that alias land in **your real inbox** — organized, searchable, and permanent. You can reply through the alias so the sender never sees your actual address. When the alias starts attracting spam, you delete it in one click and the flood stops instantly.
 
 **When this works:** Online shopping. Newsletter signups you genuinely want. Account creation for services you'll use long-term. Anywhere you need a real correspondence address that isn't your personal one.
 

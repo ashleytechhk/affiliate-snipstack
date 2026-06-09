@@ -52,7 +52,7 @@ The coupon site sees only the alias. If they sell your data, the buyer gets the 
 
 Here is how the main contenders compare across the factors that matter most when signing up for coupon and cashback sites.
 
-| Feature | Alt-ID (Surfshark) | SimpleLogin Free | DuckDuckGo Email Protection | Apple Hide My Email |
+| Feature | Alt-ID (Surfshark) | SimpleLogin Free | DuckDuckGo Email Protection | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email |
 |---|---|---|---|---|
 | Unlimited aliases | Yes | No (10 max) | Yes | Yes (iCloud+ required) |
 | Custom alias names | Yes | Yes | No (random only) | No (random only) |

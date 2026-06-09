@@ -43,7 +43,7 @@ Not all [email alias](https://snipstack.io/email-alias-for-twitch-account-privac
 | Gmail `+tag` trick | Yes | N/A (is your address) | No | No |
 | Guerrilla Mail / throwaway | Blocked by X | No | Auto-expires | Yes |
 | SimpleLogin (free tier) | Yes | Yes | Yes | Yes |
-| Apple Hide My Email | Yes | Yes | Yes | Yes |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes | Yes | Yes | Yes |
 | **Alt ID** | **Yes** | **Yes** | **Yes** | **Yes** |
 
 ### Gmail `+tag` (yourname+x@gmail.com)

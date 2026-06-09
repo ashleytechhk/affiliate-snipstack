@@ -34,7 +34,7 @@ Investment account emails have two competing demands: they need to arrive reliab
 |------|----------------------|----------------------|------------|----------------|----------------------|-------|
 | **Surfshark Alt-ID** | Yes | Yes | Yes | Yes | Unlimited | Included with Surfshark |
 | Gmail `+tag` trick | Yes | Often stripped | Yes | No | No | Free |
-| Apple Hide My Email | Yes | Usually | Yes | Yes | Unlimited (Apple only) | iCloud+ ($0.99/mo+) |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes | Usually | Yes | Yes | Unlimited (Apple only) | iCloud+ ($0.99/mo+) |
 | SimpleLogin | Yes | Usually | Yes | Yes | Unlimited (paid) | Free / $4/mo |
 | Firefox Relay | Yes | Usually | Yes | Yes | Limited free / unlimited paid | Free (5) / $1.99/mo |
 | Guerrilla Mail | No (separate inbox) | Often blocked | ~1 hour | N/A | No | Free |

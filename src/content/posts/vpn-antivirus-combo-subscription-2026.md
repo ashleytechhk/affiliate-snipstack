@@ -230,7 +230,7 @@ The antivirus component includes real-time scanning that detects known ransomwar
 
 ## Ready to Make the Switch?
 
-If your Norton or McAfee subscription is coming up for renewal — or if you just canceled it after reading Step 1 — this is the right moment to make the change. You get a VPN antivirus combo subscription that runs lighter, covers more devices, and does not interrupt you with upsell popups.
+If your Norton or McAfee subscription is coming up for renewal — or if you just canceled it after reading Step 1 — this is the right moment to make the change. You get a [VPN antivirus](https://snipstack.io/vpn-antivirus-ad-blocker-in-one-app-2026/) combo subscription that runs lighter, covers more devices, and does not interrupt you with upsell popups.
 
 ![Screenshot: Surfshark One showing green VPN connected, Antivirus protection active, and Alert monitoring enabled — all on one dashboard](/og/vpn-antivirus-combo-subscription-2026-inline-2.png)
 

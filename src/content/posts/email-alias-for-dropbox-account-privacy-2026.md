@@ -42,7 +42,7 @@ The pattern is consistent: Dropbox's usefulness depends on sharing, and sharing 
 
 ## Comparison: [Email Alias](https://snipstack.io/email-alias-for-online-shopping-2026/) Options for Dropbox Privacy
 
-| Feature | Gmail `+tag` | Throwaway / 10 Min Mail | Apple Hide My Email | **Alt-ID (Surfshark)** |
+| Feature | Gmail `+tag` | Throwaway / 10 Min Mail | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | **Alt-ID (Surfshark)** |
 |---|---|---|---|---|
 | Works for Dropbox account creation | Yes | Yes (briefly) | Yes | Yes |
 | Survives account recovery emails | Yes | No — expires | Yes | Yes |

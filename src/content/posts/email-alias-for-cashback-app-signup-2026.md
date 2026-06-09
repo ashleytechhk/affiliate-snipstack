@@ -40,7 +40,7 @@ An [email alias](https://snipstack.io/email-alias-for-figma-account-registration
 
 Here is how the leading options stack up on the features that matter most when you are signing up for deals apps.
 
-| Feature | Surfshark Alt ID | SimpleLogin | Apple Hide My Email | DuckDuckGo Email |
+| Feature | Surfshark Alt ID | SimpleLogin | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | DuckDuckGo Email |
 |---|---|---|---|---|
 | Unlimited aliases | Yes | Yes (paid) | Yes (iCloud+) | Yes |
 | Identity profile layer | Yes | No | No | No |

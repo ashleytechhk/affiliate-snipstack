@@ -26,7 +26,7 @@ This article compares the tools that do this best for real estate buyers, seller
 |---|---|---|---|---|---|
 | **Surfshark Alt-ID** | Yes | Yes | Yes | Yes | Real estate power users |
 | SimpleLogin | Yes | Yes | Yes (paid) | Yes (paid) | Tech-savvy users |
-| Apple Hide My Email | Yes | Yes | No limit (Apple only) | No | iPhone-only workflows |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes | Yes | No limit (Apple only) | No | iPhone-only workflows |
 | DuckDuckGo Email Protection | Yes | Yes | Unlimited | No | Light use, free |
 | Temp-Mail / Guerrilla Mail | No | No | Unlimited | No | One-time throwaway only |
 

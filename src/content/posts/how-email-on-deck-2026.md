@@ -70,7 +70,7 @@ Here is how the main options stack up across the use cases that matter.
 | **Surfshark Alt ID** | Yes | Yes | No (bundled) | Ongoing accounts, full identity protection |
 | **SimpleLogin** | Yes | Yes | Yes (10 aliases) | Power users, open-source fans |
 | **AnonAddy** | Yes | Yes | Yes (unlimited) | Developers, high-volume alias users |
-| **Apple Hide My Email** | Yes | Yes | iCloud+ only | Apple ecosystem users |
+| **[Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email** | Yes | Yes | iCloud+ only | Apple ecosystem users |
 | **ProtonMail Aliases** | Yes | Yes (within Proton) | Limited | Proton ecosystem users |
 | **Guerrilla Mail** | No | No | Yes | One-time throwaway only |
 | **10 Minute Mail** | No | No | Yes | Fastest one-time throwaway |

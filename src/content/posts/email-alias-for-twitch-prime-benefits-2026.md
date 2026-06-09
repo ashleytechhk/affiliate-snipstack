@@ -50,7 +50,7 @@ The better alias services go further: they let you disable or delete the alias o
 
 Here is how the leading options stack up for Twitch Prime use specifically.
 
-| Feature | Surfshark Alt-ID | SimpleLogin (free) | Guerrilla Mail | Apple Hide My Email |
+| Feature | Surfshark Alt-ID | SimpleLogin (free) | Guerrilla Mail | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email |
 |---|---|---|---|---|
 | Persistent alias | Yes | Yes (limited free) | No (temporary) | Yes |
 | Disable/delete alias | Yes | Yes | N/A | Yes |

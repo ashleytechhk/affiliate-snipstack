@@ -40,7 +40,7 @@ An [email alias](https://snipstack.io/email-alias-for-pharmacy-prescription-aler
 
 ## Comparison Table: [Email Alias](https://snipstack.io/email-alias-for-ride-sharing-account-privacy-2026/) Tools for NFT Accounts
 
-| Feature | Surfshark Alt ID | SimpleLogin | AnonAddy | Apple Hide My Email |
+| Feature | Surfshark Alt ID | SimpleLogin | AnonAddy | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email |
 |---|---|---|---|---|
 | Alias generation | Instant, one-click | Manual per alias | Manual per alias | Safari / iOS only |
 | Custom domain | No | Yes (paid) | Yes (free tier) | No |

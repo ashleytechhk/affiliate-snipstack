@@ -20,7 +20,7 @@ The fix isn't avoidance. You still need quotes. The fix is submitting an email a
 
 ## Quick Verdict
 
-Insurance comparison forms have two requirements that eliminate most spam tools: they need a real-looking address that the form accepts, and any quote confirmation or follow-up emails need to actually reach you for a few days. Free throwaway services expire too fast. Gmail's `+tag` trick gets stripped by most forms. Apple Hide My Email is Apple-only.
+Insurance comparison forms have two requirements that eliminate most spam tools: they need a real-looking address that the form accepts, and any quote confirmation or follow-up emails need to actually reach you for a few days. Free throwaway services expire too fast. Gmail's `+tag` trick gets stripped by most forms. [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email is Apple-only.
 
 **[Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-insurance-comparison-sites-2026__above-fold) is the right tool for this use case.** It generates a persistent alias that forwards to your real inbox, passes form validation on insurance comparison sites, and can be deleted the moment you've received all the quotes you need. You get the information, then you cut the channel.
 

@@ -32,7 +32,7 @@ For a spam-exhausted business owner who wants a clean inbox without changing the
 | **SimpleLogin (Proton)** | Unlimited (paid) | Yes | Yes | Free / ~$4/mo | Yes | Yes |
 | **addy.io (AnonAddy)** | Unlimited (paid) | Yes | Yes | Free / ~$1/mo | Yes | Yes |
 | **Firefox Relay** | 5 (free) / Unlimited (premium) | No | Limited | Free / ~$1.99/mo | Yes | Limited |
-| **Apple Hide My Email** | Unlimited | No | Partial | iCloud+ (~$0.99/mo) | Yes | Limited |
+| **[Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email** | Unlimited | No | Partial | iCloud+ (~$0.99/mo) | Yes | Limited |
 | **DuckDuckGo Email Protection** | Unlimited | No | No | Free | Yes | No |
 
 *Two-way reply = you can reply to emails and the sender sees only the alias, not your real address.*

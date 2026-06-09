@@ -63,7 +63,7 @@ Here are the main options in 2026:
 | Provider | Alias limit | Catch-all | Price |
 |---|---|---|---|
 | Surfshark Alt-ID | Unlimited | Yes | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) |
-| Apple Hide My Email | Unlimited | No | Bundled with iCloud+ |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited | No | Bundled with iCloud+ |
 | SimpleLogin | 10 (free) / unlimited (paid) | Yes (paid) | Free / ~$30/yr |
 | DuckDuckGo Email Protection | Unlimited | No | Free |
 

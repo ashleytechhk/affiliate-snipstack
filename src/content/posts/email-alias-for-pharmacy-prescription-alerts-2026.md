@@ -20,7 +20,7 @@ This is standard practice at chain pharmacies — CVS, Walgreens, Rite Aid, and 
 
 Pharmacy accounts are a spam problem with a health-communication wrinkle: you actually need the alerts. That rules out throwaway addresses that expire and temporary inboxes you have to check separately. What you need is a persistent forwarding alias — one that routes prescription notifications to your real inbox, passes pharmacy form validation, and can be silenced if the marketing volume becomes unmanageable.
 
-Of the tools compared below, **Surfshark Alt-ID** handles this best. It generates an alias that passes mainstream pharmacy sign-up forms, forwards reliably to whichever inbox you use, and costs nothing extra if you already have a Surfshark subscription. Apple Hide My Email is a close second for anyone deep in the Apple ecosystem. Free throwaway services are the wrong tool for this use case entirely — they either expire before your next prescription is due or require you to check a separate inbox to get time-sensitive refill notifications.
+Of the tools compared below, **Surfshark Alt-ID** handles this best. It generates an alias that passes mainstream pharmacy sign-up forms, forwards reliably to whichever inbox you use, and costs nothing extra if you already have a Surfshark subscription. [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email is a close second for anyone deep in the Apple ecosystem. Free throwaway services are the wrong tool for this use case entirely — they either expire before your next prescription is due or require you to check a separate inbox to get time-sensitive refill notifications.
 
 ---
 

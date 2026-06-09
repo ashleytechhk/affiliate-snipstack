@@ -42,7 +42,7 @@ The result: you've handed your real address to dozens of services, any of which 
 
 Not all alias approaches work equally well for Steam. The Steam Guard recovery flow, Steam's own verification emails, and the persistent nature of gaming accounts all create requirements that disqualify the simplest tools.
 
-| Feature | Gmail `+tag` | Throwaway (10 Min Mail) | Apple Hide My Email | **Surfshark Alt-ID** |
+| Feature | Gmail `+tag` | Throwaway (10 Min Mail) | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | **Surfshark Alt-ID** |
 |---|---|---|---|---|
 | Works for Steam account creation | Yes | Yes (briefly) | Yes | Yes |
 | Survives Steam Guard recovery | Yes | No | Yes | Yes |

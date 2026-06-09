@@ -22,7 +22,7 @@ What you actually need is an [email alias service](https://snipstack.io/email-al
 
 **Surfshark Alt-ID is the right pick for most spam-exhausted users.** It replaces your real address with aliases that cannot be stripped or guessed, instant-delete any alias that goes bad, and sits inside a broader privacy stack (VPN, data removal) that attacks the spam problem from every angle. Plus addressing within an alias service is a nice-to-have, but what actually kills spam is an address that can be fully revoked — and Alt-ID does that cleanly.
 
-If you need open-source auditability, custom domain support, or plus addressing built into the alias itself for workflow automation, **SimpleLogin** is the deeper tool. **Apple Hide My Email** works if you're locked into the Apple ecosystem and don't need cross-platform use. **DuckDuckGo Email Protection** is useful for newsletter management but light on management features.
+If you need open-source auditability, custom domain support, or plus addressing built into the alias itself for workflow automation, **SimpleLogin** is the deeper tool. **[Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email** works if you're locked into the Apple ecosystem and don't need cross-platform use. **DuckDuckGo Email Protection** is useful for newsletter management but light on management features.
 
 For the spam-drowning inbox owner: the fastest, most complete fix is [Alt-ID](/blog/altid?sub=email-alias-that-supports-plus-addressing-2026__above-fold). Set up one alias per category of service, delete when compromised, repeat.
 

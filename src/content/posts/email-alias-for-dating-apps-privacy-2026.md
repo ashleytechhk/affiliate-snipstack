@@ -16,7 +16,7 @@ If you're already getting 50+ unwanted emails a day and you've ever used a datin
 
 ## Quick Verdict
 
-The right move for dating app privacy is a **dedicated alias per app** — one address for Tinder, a different one for Hinge, another for Bumble. [Surfshark Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-dating-apps-privacy-2026__above-fold) handles this cleanly: generate unlimited aliases in under a minute, all forwarding to your real inbox, all deletable the moment spam arrives. Gmail's `+tag` trick exposes your real address to anyone who strips the tag. Throwaway emails expire before you need account recovery. Apple Hide My Email works — but only if you're inside Apple's ecosystem. For anyone who wants platform-agnostic alias control without paying separately for a dedicated alias tool, Alt-ID is the practical answer.
+The right move for dating app privacy is a **dedicated alias per app** — one address for Tinder, a different one for Hinge, another for Bumble. [Surfshark Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-dating-apps-privacy-2026__above-fold) handles this cleanly: generate unlimited aliases in under a minute, all forwarding to your real inbox, all deletable the moment spam arrives. Gmail's `+tag` trick exposes your real address to anyone who strips the tag. Throwaway emails expire before you need account recovery. [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email works — but only if you're inside Apple's ecosystem. For anyone who wants platform-agnostic alias control without paying separately for a dedicated alias tool, Alt-ID is the practical answer.
 
 ---
 

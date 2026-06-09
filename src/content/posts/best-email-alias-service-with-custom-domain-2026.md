@@ -41,7 +41,7 @@ For someone getting 50 or more spam emails per day, an alias strategy with custo
 | **Surfshark Alt-ID** | Yes | Unlimited | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Strong, no-log | Very easy |
 | SimpleLogin (Proton) | Yes | Unlimited (paid) | ~$4 standalone | Strong, open-source | Easy |
 | AnonAddy | Yes | Unlimited (paid) | ~$1–$3 | Strong, open-source | Moderate |
-| Apple Hide My Email | No custom domain | Unlimited (iCloud+) | $0.99 bundled | Apple ecosystem | Very easy |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | No custom domain | Unlimited (iCloud+) | $0.99 bundled | Apple ecosystem | Very easy |
 | Fastmail Masked Email | No custom domain | Unlimited | Included with plan | Good | Easy |
 | Guerrilla Mail | No | Temporary only | Free | Unknown | Very easy |
 

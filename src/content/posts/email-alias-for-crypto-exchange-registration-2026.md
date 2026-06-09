@@ -39,7 +39,7 @@ An [email alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking
 
 ## The Main Contenders: A Head-to-Head Comparison
 
-| Feature | Surfshark Alt-ID | SimpleLogin | AnonAddy | Apple Hide My Email |
+| Feature | Surfshark Alt-ID | SimpleLogin | AnonAddy | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email |
 |---|---|---|---|---|
 | [Email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)es | Unlimited | 10 free / unlimited paid | 20 free / unlimited paid | Unlimited (Apple users only) |
 | Forwarding | Yes | Yes | Yes | Yes |

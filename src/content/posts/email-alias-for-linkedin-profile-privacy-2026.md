@@ -28,7 +28,7 @@ The question is which alias service to use. They are not all equal for a LinkedI
 |---|---|---|---|---|---|
 | **Alt ID (Surfshark)** | Yes | Yes | Yes | Yes | No (bundled) |
 | SimpleLogin | Yes | Yes | Moderate | 15 free / unlimited paid | Yes |
-| Apple Hide My Email | Yes | Partial | Low (@privaterelay.appleid.com) | Yes (iCloud+) | iCloud+ |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes | Partial | Low (@privaterelay.appleid.com) | Yes (iCloud+) | iCloud+ |
 | DuckDuckGo Email Protection | Yes | No | Low (@duck.com) | Yes | Yes |
 | Firefox Relay | Yes | No | Low (@mozmail.com) | 5 free / unlimited paid | Yes (5) |
 | Temp Mail / Guerrilla Mail | No (expires) | No | No | Yes | Yes |

@@ -42,7 +42,7 @@ The result is predictable: one Zoom account and a year of webinar registrations 
 
 Zoom's account setup requires a working email for verification, password reset, and meeting notifications. That rules out pure throwaway addresses. Here's how the main options stack up:
 
-| Feature | Gmail `+tag` | Throwaway (10 Min Mail) | Apple Hide My Email | **Surfshark Alt-ID** |
+| Feature | Gmail `+tag` | Throwaway (10 Min Mail) | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | **Surfshark Alt-ID** |
 |---|---|---|---|---|
 | Works for Zoom registration | Yes | Yes (briefly) | Yes | Yes |
 | Survives account recovery | Yes | No | Yes | Yes |

@@ -42,7 +42,7 @@ GitHub's privacy risks aren't just about spam — they're architectural. The pla
 
 Not every alias tool is appropriate for GitHub. The requirements here are stricter than for consumer signups: the alias needs to be persistent (account recovery matters), able to receive bot and notification emails reliably, and ideally usable as a commit email directly in `.gitconfig`.
 
-| Feature | Gmail `+tag` | Apple Hide My Email | SimpleLogin | AnonAddy | **Surfshark Alt-ID** |
+| Feature | Gmail `+tag` | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | SimpleLogin | AnonAddy | **Surfshark Alt-ID** |
 |---|---|---|---|---|---|
 | Persists through account recovery | Yes | Yes | Yes | Yes | Yes |
 | Can be used as Git commit email | Yes (leaks base address) | Yes | Yes | Yes | Yes |

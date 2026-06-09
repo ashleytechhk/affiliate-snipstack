@@ -46,7 +46,7 @@ The cumulative result: a single Airtable account touches more email-collecting s
 
 Not all alias approaches work for a tool like Airtable, where account access and workspace notifications are ongoing and permanent.
 
-| Feature | Gmail `+tag` | Throwaway (Temp Mail) | Apple Hide My Email | **Surfshark Alt-ID** |
+| Feature | Gmail `+tag` | Throwaway (Temp Mail) | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | **Surfshark Alt-ID** |
 |---|---|---|---|---|
 | Works for Airtable account creation | Yes | Yes (briefly) | Yes | Yes |
 | Survives account recovery flows | Yes | No — address expires | Yes | Yes |

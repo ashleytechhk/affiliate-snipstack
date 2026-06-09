@@ -30,7 +30,7 @@ Bank accounts have stricter requirements than most use cases: statements and two
 |------|----------------------|--------------------------|------------|------------------------|----------------------|-------|
 | **Surfshark Alt-ID** | Yes | Usually | Yes | Yes | Yes | Included with Surfshark |
 | Gmail `+tag` trick | Yes | Often stripped | Yes | No (permanent address) | No | Free |
-| Apple Hide My Email | Yes | Usually | Yes | Yes | No | iCloud+ ($0.99/mo+) |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes | Usually | Yes | Yes | No | iCloud+ ($0.99/mo+) |
 | SimpleLogin | Yes | Usually | Yes | Yes | No | Free (10 aliases) / ~$4/mo |
 | Firefox Relay | Yes | Usually | Yes | Yes | No | Free (5 aliases) / $1.99/mo |
 | Guerrilla Mail | No (separate inbox) | Blocked | ~1 hour | N/A | No | Free |

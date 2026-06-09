@@ -24,7 +24,7 @@ This comparison covers the five services that actually come up in 2026 when peop
 
 **SimpleLogin is the best standalone alias service** for users who want open-source auditability or custom domain support. It does the core job excellently and has a free tier to get started.
 
-The others — Apple Hide My Email, DuckDuckGo Email Protection, [Proton Pass](https://snipstack.io/proton-pass-email-alias-review-2026/) aliases — are useful within their ecosystems but have limitations that make them secondary options for anyone dealing with serious spam volume.
+The others — [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email, DuckDuckGo Email Protection, [Proton Pass](https://snipstack.io/proton-pass-email-alias-review-2026/) aliases — are useful within their ecosystems but have limitations that make them secondary options for anyone dealing with serious spam volume.
 
 ---
 

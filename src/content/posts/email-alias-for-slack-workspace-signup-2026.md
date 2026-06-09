@@ -40,7 +40,7 @@ Using an alias for Slack signups doesn't prevent any of these events — it limi
 
 ## Comparison Table: [Email Alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) Options for Slack Workspace Signups
 
-| Feature | Alt-ID | Apple Hide My Email | Firefox Relay | SimpleLogin | DuckDuckGo Email | Gmail `+` tag |
+| Feature | Alt-ID | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Firefox Relay | SimpleLogin | DuckDuckGo Email | Gmail `+` tag |
 |---|---|---|---|---|---|---|
 | Permanent forwarding | Yes | Yes | Yes | Yes | Yes | No (can't delete) |
 | Kill alias on demand | Yes | Yes | Yes | Yes | No (pause only) | No |

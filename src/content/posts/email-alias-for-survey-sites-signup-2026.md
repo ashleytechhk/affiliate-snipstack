@@ -20,7 +20,7 @@ An [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) puts a fi
 
 ## Quick Verdict
 
-For survey site signups you need a **persistent, forwarding alias** — not a throwaway inbox that expires before your first survey invitation arrives. Alt ID is the right tool here: unlimited aliases, clean forwarding, one-click kill-switch, and a fake identity generator that covers the name and demographic fields survey sites inevitably ask for. SimpleLogin (free) and addy.io are strong backup options for power users who want open-source control. Apple Hide My Email works if you're in the Apple ecosystem. Gmail plus-addressing is free but does nothing to hide your real address from the survey platform's database.
+For survey site signups you need a **persistent, forwarding alias** — not a throwaway inbox that expires before your first survey invitation arrives. Alt ID is the right tool here: unlimited aliases, clean forwarding, one-click kill-switch, and a fake identity generator that covers the name and demographic fields survey sites inevitably ask for. SimpleLogin (free) and addy.io are strong backup options for power users who want open-source control. [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email works if you're in the Apple ecosystem. Gmail plus-addressing is free but does nothing to hide your real address from the survey platform's database.
 
 If you're drowning in survey spam right now, or signing up to a new panel today, Alt ID solves this faster than anything else.
 

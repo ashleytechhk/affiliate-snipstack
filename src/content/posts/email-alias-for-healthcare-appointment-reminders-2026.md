@@ -20,7 +20,7 @@ The fix is not avoiding the forms. You still need reminders. The fix is giving t
 
 ## Quick Verdict
 
-Healthcare appointment reminders have one hard requirement that eliminates most throwaway tools: the alias must keep forwarding for weeks or months. You need to receive your reminder two days before the appointment, the follow-up summary after the visit, and the scheduling link when you need to rebook. Free throwaway services expire in minutes. Gmail's `+tag` trick is strippable and irrevocable. Apple Hide My Email is Apple-only and doesn't generate alternative personal data.
+Healthcare appointment reminders have one hard requirement that eliminates most throwaway tools: the alias must keep forwarding for weeks or months. You need to receive your reminder two days before the appointment, the follow-up summary after the visit, and the scheduling link when you need to rebook. Free throwaway services expire in minutes. Gmail's `+tag` trick is strippable and irrevocable. [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email is Apple-only and doesn't generate alternative personal data.
 
 **[Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-healthcare-appointment-reminders-2026__above-fold)** handles the healthcare use case cleanly. It generates a persistent forwarding alias that delivers appointment reminders to your real inbox for as long as you need — and can be deleted in one click the moment that clinic's marketing gets out of hand. When you switch providers, you create a new alias and the old one stops existing.
 

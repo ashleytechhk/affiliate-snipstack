@@ -29,7 +29,7 @@ The strongest option for Figma account registration is **[Surfshark Alt-ID](http
 | **Surfshark Alt-ID** | Masked alias | Yes | Yes (delete on demand) | Yes | Yes | Included with Surfshark |
 | SimpleLogin | Alias service | Yes | Yes | Yes | Paid (10 free) | Free tier / paid |
 | AnonAddy | Alias service | Yes | Yes | Yes | Paid (20 shared free) | Free tier / paid |
-| Apple Hide My Email | Masked alias | Yes | Yes | Yes (Safari/iOS only) | Yes | Included with iCloud+ |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Masked alias | Yes | Yes | Yes (Safari/iOS only) | Yes | Included with iCloud+ |
 | Gmail "+" trick | Plus addressing | No (same inbox) | Yes | Yes (address guessable) | No | Free |
 | Guerrilla Mail / Temp Mail | Throwaway inbox | No | No (expires) | Partial — misses later emails | Yes | Free |
 

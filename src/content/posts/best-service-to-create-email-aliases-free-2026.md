@@ -70,7 +70,7 @@ Surfshark's Alt ID hits all three criteria: unlimited aliases, no per-alias cost
 
 **Browser extension.** Surfshark's browser extension detects email fields on sign-up forms and suggests inserting an alias automatically. This removes the friction that causes people to give up on alias discipline after a few days.
 
-**Bundled value.** Alt ID comes with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which also includes a VPN and antivirus. If you are paying for those services separately, the bundle makes the alias tool effectively free. If you were not using any of them, the combined package costs less than most standalone VPN subscriptions.
+**Bundled value.** Alt ID comes with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which also includes a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). If you are paying for those services separately, the bundle makes the alias tool effectively free. If you were not using any of them, the combined package costs less than most standalone VPN subscriptions.
 
 ![Alt ID dashboard showing alias creation and management panel](/og/best-service-to-create-email-aliases-free-2026-inline-2.png)
 
@@ -92,7 +92,7 @@ An alias system stops that trajectory before it starts. Every new account you cr
 
 The setup is genuinely simple:
 
-1. Sign up for Surfshark One (Alt ID is included).
+1. Sign up for [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) (Alt ID is included).
 2. Open the Alt ID dashboard, set your forwarding address, and confirm it via the verification email.
 3. Create your first alias and copy it.
 4. From this point on, use that alias — or a fresh alias per service — any time a website or app asks for your email.
@@ -107,7 +107,7 @@ For existing accounts at services you still want to hear from, you can update th
 
 **Is Alt ID actually free, or is there a hidden cost?**
 
-Alt ID is included with Surfshark One — there is no separate charge per alias and no alias creation limit. The cost is the Surfshark One subscription, which covers the VPN, antivirus, and Alt ID together. If you are comparing it to a standalone alias service with a monthly fee, the bundle is typically better value. [Check current Surfshark One pricing here.](/blog/altid?sub=best-service-to-create-email-aliases-free-2026__faq)
+Alt ID is included with [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) — there is no separate charge per alias and no alias creation limit. The cost is the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) subscription, which covers the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and Alt ID together. If you are comparing it to a standalone alias service with a monthly fee, the bundle is typically better value. [Check current Surfshark One pricing here.](/blog/altid?sub=best-service-to-create-email-aliases-free-2026__faq)
 
 **Can the sender see my real email address?**
 

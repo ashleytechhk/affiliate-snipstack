@@ -12,7 +12,7 @@ You type your email into a sign-up form. Three weeks later your inbox looks like
 
 The fix is not an aggressive spam filter. The fix is never giving out your real address in the first place.
 
-In 2026, four tools make that practical: Apple Hide My Email, Firefox Relay, DuckDuckGo Email Protection, and [Surfshark Alt ID](/blog/altid?sub=hide-email-address-when-signing-up-2026__above-fold). This guide explains how each one works, walks through setup for each, and tells you when to reach for which tool.
+In 2026, four tools make that practical: [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email, Firefox Relay, DuckDuckGo Email Protection, and [Surfshark Alt ID](/blog/altid?sub=hide-email-address-when-signing-up-2026__above-fold). This guide explains how each one works, walks through setup for each, and tells you when to reach for which tool.
 
 ---
 

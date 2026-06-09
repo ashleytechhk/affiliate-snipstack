@@ -26,7 +26,7 @@ This comparison breaks down the five most-used [email alias](https://snipstack.i
 
 ## Feature Comparison Table
 
-| Feature | Surfshark Alt ID | SimpleLogin | addy.io | Apple Hide My Email | Gmail Aliases |
+| Feature | Surfshark Alt ID | SimpleLogin | addy.io | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Gmail Aliases |
 |---|---|---|---|---|---|
 | **Masked identity (fake name/DOB)** | Yes | No | No | No | No |
 | **Unlimited aliases** | Yes | Free: 10 / Paid: unlimited | Free: 10 / Paid: unlimited | Yes (Apple ecosystem only) | Yes (+ addressing only) |
