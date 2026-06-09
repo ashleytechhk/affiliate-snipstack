@@ -76,7 +76,7 @@ Romance scammers frequently use marketplace platforms as a first contact point. 
 
 ## Surfshark Alt-Number: The [Burner Number](https://snipstack.io/burner-number-for-depop-seller-account-2026/) Built for This
 
-**[Surfshark Alt-Number](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__mid)** is a virtual US phone number service that gives you a [second number](https://snipstack.io/second-number-for-discord-account-2026/) to use anywhere you don't want to share your real one.
+**[Surfshark Alt-Number](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__mid)** is a [virtual US phone](https://snipstack.io/virtual-us-phone-number-from-uk-2026/) number service that gives you a [second number](https://snipstack.io/second-number-for-discord-account-2026/) to use anywhere you don't want to share your real one.
 
 Here's what sets it apart from free alternatives like Google Voice:
 

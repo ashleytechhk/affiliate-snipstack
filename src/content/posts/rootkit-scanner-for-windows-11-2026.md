@@ -125,7 +125,7 @@ You do not need any technical knowledge. Here is exactly [what to do](https://sn
 
 **Step 1.** Click the link below to visit the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) page. Look for the antivirus plan (not VPN — antivirus).
 
-**Step 2.** Choose a plan. The one-year or two-year plans offer the best value. Enter your email address and payment details on the secure checkout page.
+**Step 2.** Choose a plan. The one-year or two-year plans offer the [best value](https://snipstack.io/best-value-security-subscription-2026/). Enter your email address and payment details on the secure checkout page.
 
 **Step 3.** After payment, a download button will appear. Click it to download a small file to your computer.
 

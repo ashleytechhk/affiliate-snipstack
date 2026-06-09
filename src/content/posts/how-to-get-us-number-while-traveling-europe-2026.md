@@ -142,7 +142,7 @@ Alt-Number supports both inbound and outbound calls. Calls route through the app
 **How long does it take to get set up?**
 Most users are set up in under five minutes. Download the app, create an account, select a US number, and it is active immediately. You can be giving out your new number on a dating app the same day you land in Europe.
 
-**Is a virtual US number legal to use while abroad?**
+**Is a [virtual US](https://snipstack.io/virtual-us-phone-number-from-uk-2026/) number legal to use while abroad?**
 Yes. Using a virtual or secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) personal privacy is entirely legal in Europe and the US. [Virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) services are widely used for business lines, two-factor authentication, and personal privacy. Nothing about traveling internationally changes this.
 
 **What happens to the number when I return home?**

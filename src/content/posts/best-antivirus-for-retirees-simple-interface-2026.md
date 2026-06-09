@@ -160,7 +160,7 @@ Windows Defender is built into Windows and provides basic file scanning. It does
 
 ### How much [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus cost?
 
-Pricing varies by plan and region, but [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is consistently among the more affordable options for the protection it provides. Annual plans bring the per-month cost down significantly. The [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle — which includes the antivirus, a VPN, and breach monitoring — is often the best value for retirees who want comprehensive coverage.
+Pricing varies by plan and region, but [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is consistently among the more affordable options for the protection it provides. Annual plans bring the per-month cost down significantly. The [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle — which includes the antivirus, a VPN, and breach monitoring — is often the [best value](https://snipstack.io/best-value-security-subscription-2026/) for retirees who want comprehensive coverage.
 
 ### Will it protect my tablet and phone as well?
 

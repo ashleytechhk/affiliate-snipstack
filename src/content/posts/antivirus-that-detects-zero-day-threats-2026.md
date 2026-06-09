@@ -166,7 +166,7 @@ One plan can protect your computer, your tablet, and your phone. If you have fam
 Setting up [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) does not require any technical skills. Here are the steps in plain language:
 
 1. Click the link below to go to the official page.
-2. Choose a plan. A one-year or two-year plan gives the best value.
+2. Choose a plan. A one-year or two-year plan gives the [best value](https://snipstack.io/best-value-security-subscription-2026/).
 3. Create an account using your email address.
 4. Complete the payment step.
 5. Click the **Download** button that appears.

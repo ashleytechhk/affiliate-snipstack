@@ -73,7 +73,7 @@ Use only this safe link:
 
 ![Step-by-step diagram showing how antivirus software scans and blocks threats before they reach your device](/og/how-best-antivirus-2026-inline-1.png)
 
-Once you are on the page, click the big button that says **"Get Surfshark"** or **"Start Protection."** It will ask you to choose a plan. The 2-year plan gives you the best value, but a 1-year plan works just as well.
+Once you are on the page, click the big button that says **"Get Surfshark"** or **"Start Protection."** It will ask you to choose a plan. The 2-year plan gives you the [best value](https://snipstack.io/best-value-security-subscription-2026/), but a 1-year plan works just as well.
 
 ---
 

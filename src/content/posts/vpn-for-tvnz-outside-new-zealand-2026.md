@@ -72,7 +72,7 @@ For New Zealanders living overseas and maintaining a connection to home content,
 
 ## Which VPNs Work Reliably With TVNZ+ in 2026
 
-### Surfshark — Best Value
+### Surfshark — [Best Value](https://snipstack.io/best-value-security-subscription-2026/)
 
 Surfshark is the top pick for most TVNZ+ users. It maintains New Zealand servers (Auckland coverage) and has IP rotation infrastructure that keeps pace with streaming platform [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s. The unlimited simultaneous connections policy is a genuine standout — one account covers every device you own: laptop, phone, tablet, smart TV, all at once.
 

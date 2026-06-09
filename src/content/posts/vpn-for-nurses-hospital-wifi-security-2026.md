@@ -122,7 +122,7 @@ Here is a straightforward comparison:
 | Plan | Monthly Cost (approx.) | Devices | Notes |
 |------|------------------------|---------|-------|
 | Surfshark 1-month | ~$15.45/mo | Unlimited | Flexible, higher per-month cost |
-| Surfshark 1-year | ~$3.99/mo | Unlimited | Best value entry point |
+| Surfshark 1-year | ~$3.99/mo | Unlimited | [Best value](https://snipstack.io/best-value-security-subscription-2026/) entry point |
 | Surfshark 2-year | ~$2.49/mo | Unlimited | Lowest per-month cost |
 
 For a nurse already paying $15–18/month for a streaming subscription, switching to a lower-cost regional plan could save $5–10/month. That effectively offsets a portion or all of the VPN cost, depending on the specific services and regions involved.

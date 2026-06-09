@@ -110,7 +110,7 @@ One subscription can cover your laptop, desktop, tablet, and phone. If you have 
 You do not need any technical skills to install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/). Here is all you need to do:
 
 1. Click the link below to go to the official page.
-2. Choose a plan — a one-year or two-year plan gives you the best value.
+2. Choose a plan — a one-year or two-year plan gives you the [best value](https://snipstack.io/best-value-security-subscription-2026/).
 3. Create an account with your email address and a password.
 4. Download the app and double-click the installer file.
 5. Log in, and you are protected immediately.

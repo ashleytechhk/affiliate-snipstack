@@ -63,7 +63,7 @@ Surfshark is a well-established security company used by millions of people worl
 1. Open **Safari** (the compass icon in your dock).
 2. Go to this link: **[Surfshark Antivirus for Mac](/blog/surfshark?sub=how-antivirus-mac-2026__mid)**
 3. Click the large button that says **Get Surfshark** or **Start Protection**.
-4. Choose a plan. The two-year plan offers the best value if you want long-term peace of mind.
+4. Choose a plan. The two-year plan offers the [best value](https://snipstack.io/best-value-security-subscription-2026/) if you want long-term peace of mind.
 5. Enter your email address and payment details.
 6. After payment, you will see a **Download** button. Click it.
 

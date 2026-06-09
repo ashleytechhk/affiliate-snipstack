@@ -106,7 +106,7 @@ Surfshark includes a kill switch that automatically blocks internet traffic if t
 
 There are three serious options in 2026. Here is how they compare for the subscription arbitrage use case.
 
-### Surfshark — Best Value for PC Gamers
+### Surfshark — [Best Value](https://snipstack.io/best-value-security-subscription-2026/) for PC Gamers
 
 Surfshark's strongest point is unlimited simultaneous connections on one subscription. Your gaming PC, phone, laptop, and any other devices all run under the same plan. No device caps, no upsells.
 

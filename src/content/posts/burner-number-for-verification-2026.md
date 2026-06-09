@@ -46,7 +46,7 @@ Before the comparison, here is what separates a paid service worth using from a 
 
 ### 1. Surfshark Alt-Number
 
-**Strongest verification pass rate. Best value when bundled.**
+**Strongest verification pass rate. [Best value](https://snipstack.io/best-value-security-subscription-2026/) when bundled.**
 
 Alt-Number provisions real carrier-backed numbers — the same number type as a physical SIM. This is the meaningful difference from every other service on this list except Telos. Carrier-backed numbers pass SMS verification on Tinder, Hinge, Bumble, WhatsApp, Telegram, Discord, and most major signup flows, because they are not in the VoIP blocklists that torpedo free-tier alternatives.
 

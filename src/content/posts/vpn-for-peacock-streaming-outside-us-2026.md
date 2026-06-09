@@ -78,7 +78,7 @@ Surfshark's infrastructure includes both standard US servers and servers specifi
 
 ## Comparing the [Best VPNs for](https://snipstack.io/best-vpns-for-pc-2026/) Peacock in 2026
 
-### Surfshark — Best Value for Peacock
+### Surfshark — [Best Value](https://snipstack.io/best-value-security-subscription-2026/) for Peacock
 
 Surfshark is the top recommendation for cost-conscious Peacock users. It maintains US servers across 25+ cities and has invested in IP rotation infrastructure that keeps pace with Peacock's [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s.
 

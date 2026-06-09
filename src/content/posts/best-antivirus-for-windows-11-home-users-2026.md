@@ -100,7 +100,7 @@ Open the internet browser on your Windows 11 computer (it may be called Edge, Ch
 
 ### Step 2 — Pick a Plan
 
-You will see several plan options. For most home users, **[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)** is the best value — it includes antivirus, VPN, breach alerts, and webcam protection in a single subscription. Click the plan that suits you, then click the large **"Get Surfshark"** button.
+You will see several plan options. For most home users, **[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)** is the [best value](https://snipstack.io/best-value-security-subscription-2026/) — it includes antivirus, VPN, breach alerts, and webcam protection in a single subscription. Click the plan that suits you, then click the large **"Get Surfshark"** button.
 
 ### Step 3 — Create Your Account
 

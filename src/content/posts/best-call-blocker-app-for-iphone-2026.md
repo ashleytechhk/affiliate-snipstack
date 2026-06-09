@@ -86,7 +86,7 @@ The iOS integration is tight. Hiya plugs into Apple's CallKit framework, which m
 
 The reverse lookup feature has a specific use case for daters: if someone on an app gives you their number before you've met, you can look it up and see whether it flags as a business line, a known spam source, or matches the name they gave you. That's a lightweight verification step worth doing.
 
-The gap: Hiya only catches calls that are already in its database. Novel numbers — like a burner phone someone just bought — show up as unknown, not blocked. And again, it does nothing unless your real number is already the target.
+The gap: Hiya only catches calls that are already in its database. Novel numbers — like a [burner phone](https://snipstack.io/burner-phone-number-app-ios-2026/) someone just bought — show up as unknown, not blocked. And again, it does nothing unless your real number is already the target.
 
 ---
 
@@ -150,7 +150,7 @@ This combination is inexpensive (Hiya's free tier + Silence Unknown Callers cost
 
 For online dating specifically, **Alt-Number** is the best option because it prevents your real number from being shared at all. For general spam [call filtering](https://snipstack.io/call-filtering-app-for-iphone-2026/) on an existing number, **Hiya** (free tier) or **Robokiller** (paid, higher blocking rate) are the strongest third-party choices. Apple's built-in Silence Unknown Callers is the best zero-cost, zero-effort option. [Get Alt-Number here.](/blog/altnumber?sub=best-call-blocker-app-for-iphone-2026__faq)
 
-### Does iPhone have a built-in call blocker?
+### [Does iPhone](https://snipstack.io/does-iphone-need-antivirus-app-2026/) have a built-in call blocker?
 
 Yes. iOS includes Silence Unknown Callers (Settings > Phone > Silence Unknown Callers), which silences any call from a number not in your contacts. You can also manually block individual numbers through your Phone app (recent calls > tap the info icon > Block this Caller). These tools are free and always available, but they do not match the detection capabilities of third-party apps for identifying spam numbers.
 

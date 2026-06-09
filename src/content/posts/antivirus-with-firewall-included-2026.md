@@ -115,7 +115,7 @@ The FBI's elder fraud data shows that the average loss per senior victim in 2023
 Getting set up takes under ten minutes, even if you are not comfortable with technology.
 
 1. **Go to the protected link.** Click **[this link to Surfshark Antivirus](/blog/antivirus?sub=antivirus-with-firewall-included-2026__mid)** — it takes you directly to the right page.
-2. **Choose a plan.** Plans that cover multiple devices for a full year offer the best value. Look for the option that fits your budget.
+2. **Choose a plan.** Plans that cover multiple devices for a full year offer the [best value](https://snipstack.io/best-value-security-subscription-2026/). Look for the option that fits your budget.
 3. **Download the app.** After you sign up, a download button will appear. Click it, then double-click the downloaded file to install. The setup wizard will walk you through each step in plain language.
 4. **Let the software do its first scan.** Once installed, the program will run an initial scan of your computer. This is normal and takes a few minutes. Let it finish.
 5. **Check the main screen.** You should see a green or "Protected" status. That means both the antivirus and the firewall layer are active.

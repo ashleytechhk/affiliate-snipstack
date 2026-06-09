@@ -138,7 +138,7 @@ For travelers who want solid VPN for airport lounge WiFi protection in 2026 with
 
 - **Speed is non-negotiable, cost is secondary** → ExpressVPN
 - **Good balance of features and moderate price** → NordVPN
-- **Unlimited devices, competitive price, best value per dollar** → Surfshark
+- **Unlimited devices, competitive price, [best value](https://snipstack.io/best-value-security-subscription-2026/) per dollar** → Surfshark
 
 For most travelers — particularly those carrying multiple devices and motivated by keeping subscription costs sensible — Surfshark is the practical recommendation. It removes the per-device management headache, handles both the security and the streaming-region use cases, and keeps your monthly spend low.
 
