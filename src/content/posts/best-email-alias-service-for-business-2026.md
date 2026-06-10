@@ -136,7 +136,7 @@ Some will. Certain services (particularly financial platforms, government portal
 
 Start with six: one each for vendor sign-ups, newsletter subscriptions, lead-gen and directory listings, contractor and estimate platforms, event registrations, and a throwaway for one-time downloads. Add per-service aliases for high-volume sources once you've identified where most of your spam originates. Most business users find 10-20 active aliases covers their full workflow without becoming unmanageable.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-github-account-privacy-2026/) slow down email delivery?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-github-account-privacy-2026/) slow down email delivery?**
 
 Forwarding adds a negligible delay — typically under a second. In practice it's not noticeable. The more relevant concern is deliverability: make sure your real inbox doesn't filter forwarded mail as spam. Add the forwarding domain to your trusted senders list after setup.
 

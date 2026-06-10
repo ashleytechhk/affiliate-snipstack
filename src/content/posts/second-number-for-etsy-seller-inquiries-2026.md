@@ -145,7 +145,7 @@ Etsy does not display your phone number on your public seller profile. The expos
 
 Yes. In your Etsy account settings you can update your registered phone number at any time. Replace your real number with your Alt-Number, complete the SMS verification step, and Etsy updates the account record. Your shop, reviews, star seller status, and order history are attached to your account credentials — not to your phone number — and remain completely unchanged.
 
-**Does using a [second number for](https://snipstack.io/second-number-for-fiverr-seller-account-2026/) Etsy violate Etsy's terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [second number for](https://snipstack.io/second-number-for-fiverr-seller-account-2026/) Etsy violate Etsy's terms of service?**
 
 Etsy requires a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and security. It does not require that number to be your primary personal line. A carrier-backed [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) from [Alt-Number](/blog/altnumber?sub=second-number-for-etsy-seller-inquiries-2026__faq) satisfies Etsy's account requirements completely. Using a legitimate secondary number for privacy is not the same as creating a fraudulent account, which is what Etsy's terms prohibit.
 

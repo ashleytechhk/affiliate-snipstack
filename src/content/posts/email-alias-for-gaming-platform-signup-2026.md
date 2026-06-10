@@ -185,7 +185,7 @@ Yes. Aliases forward all incoming email, including 2FA codes, password reset lin
 **Can gaming platforms detect that I am using an alias?**
 Some platforms check for known alias domains and may reject them during signup. Common alias domains like `@mozmail.com` or `@privaterelay.appleid.com` are sometimes blocklisted. Surfshark Alt ID uses less recognizable domain patterns, which reduces the chance of rejection.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-crypto-exchange-registration-2026/) break my gaming account recovery?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-crypto-exchange-registration-2026/) break my gaming account recovery?**
 Not if you keep the alias active. As long as you keep the alias enabled, password resets and account recovery emails will still reach you. If you disable an alias tied to an active account, you will lose access to those recovery emails — so disable only aliases from platforms you no longer use.
 
 **[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt ID safe to use for valuable gaming accounts?**

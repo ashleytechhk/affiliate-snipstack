@@ -132,7 +132,7 @@ Conceptually similar, practically different. A physical burner phone requires ex
 
 An alias does not retroactively protect a number that is already exposed. It prevents future exposure from new signups and new platform profiles. If your real number is already in circulation, combine the alias for all future signups with a data broker opt-out service to reduce the existing exposure. The alias handles the pipeline going forward; the opt-out service addresses what is already out there.
 
-**Does using a [second number](https://snipstack.io/second-number-for-discord-account-2026/) mean I am being deceptive?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [second number](https://snipstack.io/second-number-for-discord-account-2026/) mean I am being deceptive?**
 
 No. The number is real — it rings, receives texts, and works for callbacks. You are not misrepresenting your availability or identity; you are choosing which contact channel you expose to which context. Using a work email for professional contacts and a personal email for friends operates on the same logic. A [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) side hustle and dating use is a boundary, not a deception.
 

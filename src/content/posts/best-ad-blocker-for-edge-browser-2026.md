@@ -46,7 +46,7 @@ Edge runs on the same Chromium base as Chrome, so it supports Chrome Web Store e
 
 ### [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/)
 
-The most effective option. uBlock Origin uses multiple filter lists simultaneously — EasyList (ad network domains), EasyPrivacy (tracker domains), uBlock filters, and optional regional lists for non-English sites. It is lightweight: instead of making your browser heavier, it makes it faster by cutting the external requests that slow page loads.
+The most effective option. [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) uses multiple filter lists simultaneously — EasyList (ad network domains), EasyPrivacy (tracker domains), uBlock filters, and optional regional lists for non-English sites. It is lightweight: instead of making your browser heavier, it makes it faster by cutting the external requests that slow page loads.
 
 How to install on desktop Edge:
 

@@ -79,7 +79,7 @@ On iOS, you can set a custom DNS resolver in two ways:
 
 ### Option 2a: Wi-Fi DNS Settings
 
-Go to **Settings → Wi-Fi**, tap the info icon next to your current network, tap **Configure DNS**, switch to **Manual**, and add the IP addresses for a privacy-focused resolver like AdGuard DNS (`94.140.14.14` and `94.140.15.15`) or NextDNS.
+Go to **Settings → Wi-Fi**, tap the info icon next to your current network, tap **Configure DNS**, switch to **Manual**, and add the IP addresses for a privacy-focused resolver like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) (`94.140.14.14` and `94.140.15.15`) or NextDNS.
 
 The limitation: this only applies to that specific Wi-Fi network. It does not follow you when you switch networks or use mobile data. For a mobile device that moves between networks constantly, this is useful at home but provides no coverage elsewhere.
 
@@ -87,7 +87,7 @@ The limitation: this only applies to that specific Wi-Fi network. It does not fo
 
 AdGuard, NextDNS, and Control D all offer iOS configuration profiles or apps that install a system-level DNS configuration. This approach applies to all networks — Wi-Fi and cellular — without requiring a full VPN connection.
 
-AdGuard DNS has a free public resolver. NextDNS offers a free tier with a monthly query limit (300,000 queries per month, which is enough for most users) and lets you customize your block lists in a web dashboard.
+[AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) has a free public resolver. NextDNS offers a free tier with a monthly query limit (300,000 queries per month, which is enough for most users) and lets you customize your block lists in a web dashboard.
 
 **What DNS blocking does well:** Tracker domains, ad network domains, malware and phishing domains, telemetry calls from apps.
 
@@ -113,7 +113,7 @@ A VPN routes all your device traffic through an encrypted tunnel before it exits
 
 **Why the VPN architecture matters on iOS:** Apple's Network Extension framework allows a VPN app to intercept all device traffic. This is the only permitted mechanism for app-level coverage on iPhone. CleanWeb takes advantage of this to apply DNS filtering across the whole device — no browser restriction, no network-by-network configuration. When the VPN is connected, CleanWeb is filtering. When it disconnects, standard DNS resumes.
 
-### How to Set Up CleanWeb on iPhone (3 minutes)
+### [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up CleanWeb on iPhone (3 minutes)
 
 1. Download **Surfshark** from the App Store.
 2. Create an account or log in.
@@ -183,7 +183,7 @@ For most iPhone users who browse the web and use free apps with any regularity, 
 Yes. Apple provides the Safari Content Blocker API for filtering ads within Safari, and permits VPN apps (using the Network Extension framework) to apply DNS-level filtering across all apps. What Apple does not allow are browser extensions that run arbitrary code inside other browsers, or apps that intercept other apps' traffic outside of the VPN model. Every ad blocking approach described in this guide is App Store approved and compliant with Apple's guidelines. [See which option works for your usage →](/blog/adblock?sub=best-mobile-ad-blocker-ios-2026__faq)
 
 **Will an iOS [ad blocker](https://snipstack.io/ad-blocker-for-samsung-internet-browser-2026/) block ads in YouTube?**
-Not reliably. YouTube serves its ads from the same infrastructure as its video content, which means DNS-level blockers cannot distinguish ad requests from video requests without breaking playback. YouTube Premium is the reliable path to an ad-free YouTube experience in the native iOS app. Some users watch YouTube in the Brave browser, which uses its own ad blocking engine and can block some YouTube ads, though YouTube actively counters this.
+Not reliably. YouTube serves its ads from the same infrastructure as its video content, which means DNS-level blockers cannot distinguish ad requests from video requests without breaking playback. YouTube Premium is the reliable path to an ad-free YouTube experience in the native iOS app. Some users watch YouTube in the Brave browser, which uses its own ad blocking engine and can block some [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/)s, though YouTube actively counters this.
 
 **Does CleanWeb slow down my iPhone?**
 Modern VPN protocols — Surfshark uses WireGuard on iOS by default — add minimal latency, typically under 5ms on a nearby server. For everyday browsing, social media, and streaming, the difference is not noticeable. Pages that previously loaded many ad assets often feel faster after CleanWeb is enabled because the device is no longer waiting for multiple ad network responses.
@@ -194,7 +194,7 @@ Yes, and this is actually the recommended setup. They operate at different layer
 **Is it legal to [block ads on](https://snipstack.io/block-ads-on-smarttv-without-router-changes-2026/) iPhone?**
 Yes. Filtering content on your own device is legal in every jurisdiction where iPhones are sold. Some websites display messages asking you to disable your [ad blocker](https://snipstack.io/ad-blocker-vs-privacy-badger-comparison-2026/), but these are requests, not legal obligations. Apple explicitly supports ad blocking through the Content Blocker API and has never taken regulatory or legal action against ad blocking tools.
 
-**What happens to the VPN when I close the Surfshark app?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to the VPN when I close the Surfshark app?**
 The VPN connection stays active — it runs as a system-level Network Extension, not as a foreground app process. Surfshark on iOS supports Auto-Connect, which reconnects automatically after a network switch or device restart. If you turn CleanWeb on and connect once, it will continue working in the background as long as the VPN profile is active and Auto-Connect is enabled.
 
 ---

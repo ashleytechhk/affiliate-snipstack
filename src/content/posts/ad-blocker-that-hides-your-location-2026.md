@@ -179,7 +179,7 @@ CleanWeb blocks at the DNS and network level, which catches requests to known ad
 
 Yes. In the vast majority of countries, using a VPN and an [ad blocker](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) on your personal device for privacy is entirely legal. Some app terms of service ask you not to use blockers, but that is a contractual matter between you and the app developer, not a legal one. Check the laws in your specific country if you are in a jurisdiction with unusual internet regulations.
 
-**Does using a VPN slow down my phone's internet?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a VPN slow down my phone's internet?**
 
 A small amount of latency is added because traffic takes a slight detour through a VPN server. On a fast connection with a nearby server, this is rarely noticeable in day-to-day use — browsing, streaming, and app loading feel normal. Surfshark uses the WireGuard protocol on mobile by default, which is the fastest available option for consumer VPNs.
 

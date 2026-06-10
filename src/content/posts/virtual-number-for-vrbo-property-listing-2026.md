@@ -135,7 +135,7 @@ No. From a guest's side, your Alt-Number is indistinguishable from a regular mob
 **What happens if I need to cut off contact with a difficult guest?**
 From the Surfshark dashboard, you can disable your current Alt-Number or replace it with a new one. Any guest who calls or texts the old number after it is disabled will not reach you — the number is simply unavailable. Your real mobile number is completely unaffected. Your next set of guests can receive a fresh number with no connection to the previous situation.
 
-**Does using a [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) comply with VRBO's terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) comply with VRBO's terms of service?**
 Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-2026/) as a host contact is not prohibited under VRBO's standard terms of service. Hosts are not required to provide a personal mobile number — a working contact number is sufficient. Review VRBO's current terms if you have concerns. Surfshark's own Terms of Service require that Alt-Number not be used in ways that violate other platforms' rules or applicable law.
 
 **Is Alt-Number an add-on I pay for separately?**

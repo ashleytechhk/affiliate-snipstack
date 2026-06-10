@@ -166,7 +166,7 @@ Surfshark does not publish a hard cap on alias creation. In practice, users repo
 **Is Alt ID available on all devices?**
 Yes. Alt ID works through the Surfshark web dashboard at `my.surfshark.com` and through the native apps on Windows, macOS, iOS, and Android. Any device with a browser can access it.
 
-**Does using a temporary email protect me from data breaches?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a temporary email protect me from data breaches?**
 It significantly reduces your exposure. If a site you signed up to suffers a breach, the leaked address is the alias, not your real email. Attackers trying to cross-reference your identity across breach databases hit a dead end. It is not a complete privacy guarantee, but it is a meaningful layer of separation.
 
 ---

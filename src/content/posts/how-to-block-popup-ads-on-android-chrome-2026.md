@@ -170,7 +170,7 @@ In most cases, no. Popup blockers target ad-serving and redirect domains, not co
 
 CleanWeb is a feature of the Surfshark app, which is available on Google Play and has been independently audited for security. It installs as a standard Android VPN profile — the same mechanism used by corporate VPNs and other well-known privacy tools. No root access is needed. **[Check current CleanWeb details here.](/blog/adblock?sub=how-to-block-popup-ads-on-android-chrome-2026__faq)**
 
-### Does using CleanWeb slow down my Android's internet connection?
+### [Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) CleanWeb slow down my Android's internet connection?
 
 DNS filtering adds negligible latency — typically under five milliseconds per lookup, which is imperceptible in normal browsing. Pages that normally load dozens of ad requests actually load faster with CleanWeb active because those requests are cancelled rather than fetched and discarded.
 

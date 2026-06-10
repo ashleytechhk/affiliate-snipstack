@@ -198,7 +198,7 @@ Yes. Because Alt ID forwards in real time, any 2FA code or one-time password sen
 **Can I use multiple aliases for different test projects?**
 Yes. You can create as many aliases as your plan allows and label each one by project, client, or use case. If a particular project generates ongoing spam after testing, delete that alias without affecting any others.
 
-**Does using an alias affect how the email renders on the recipient side?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect how the email renders on the recipient side?**
 No. The alias is just an email address. The email itself — formatting, attachments, HTML rendering — is not altered by the forwarding process. What you see forwarded to your inbox is exactly what the sending system sent.
 
 ---

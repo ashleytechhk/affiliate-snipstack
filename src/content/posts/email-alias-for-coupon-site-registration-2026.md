@@ -143,7 +143,7 @@ Alt-ID sits above all of these for anyone doing more than casual coupon browsing
 
 ## FAQ
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-hotel-chain-points-account-2026/) on coupon sites violate their terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-hotel-chain-points-account-2026/) on coupon sites violate their terms of service?**
 
 Generally no. Coupon sites require a working email address for verification, and alias addresses receive email and can reply — they fulfil that requirement. Terms vary by platform, but [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/)ing is a standard privacy practice, not a form of fraud or circumvention.
 

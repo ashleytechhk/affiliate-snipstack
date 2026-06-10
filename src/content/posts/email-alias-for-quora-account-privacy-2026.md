@@ -142,7 +142,7 @@ Quora rejects known throwaway and temporary mail domains. Established alias serv
 
 Two options: first, go to Quora's email settings and turn off every digest and notification category — this reduces forwarded volume immediately. Second, if you want a clean break, delete the alias entirely in Alt-ID's dashboard (one click), create a new one, and update your Quora account email. The old alias stops receiving anything. The whole process takes under three minutes.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-linkedin-profile-privacy-2026/) protect me from the 2018 Quora breach?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-linkedin-profile-privacy-2026/) protect me from the 2018 Quora breach?**
 
 It does not remove your original address from breach databases that already hold it. What it does: ensure your current Quora activity and any future Quora communications use a different address, giving you a clean separation between old breach exposure and new activity. If spam is still arriving on your old address, you know its source is historical breach data rather than current Quora behavior — that's useful forensic information, even if the alias can't undo past exposure.
 

@@ -184,7 +184,7 @@ Yes. Forwarding aliases work the same as your real address for incoming mail. Bo
 
 Do not delete an alias while you still need to receive mail from that booking. The correct workflow is: finish the trip, export any receipts you need, then delete the alias. If you need to keep a loyalty account active but want to stop the spam, create a new alias, update the account email, confirm it forwards correctly, then delete the old alias.
 
-**Does using an alias prevent travel sites from sharing my data with partners?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias prevent travel sites from sharing my data with partners?**
 
 An alias prevents partners from reaching you by email. It does not stop the booking platform from sharing your profile data — name, travel preferences, payment method — under its privacy policy. For email spam specifically, a masked alias is the most effective tool available. For broader data privacy, pairing it with a VPN protects your browsing behavior and connection data when you use those booking sites on any network.
 

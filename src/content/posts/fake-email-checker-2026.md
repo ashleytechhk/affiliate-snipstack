@@ -161,7 +161,7 @@ Yes. Because Alt ID forwards emails in real time to your real inbox, any 2FA cod
 **Can I create more than one Alt ID?**
 Yes. You can generate multiple aliases and assign each one to a different context — shopping, newsletters, forums, travel bookings. If one address gets spammed heavily, you deactivate it without affecting the others.
 
-**Does using Alt ID affect email deliverability?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) Alt ID affect email deliverability?**
 For emails sent to you, no — forwarding is transparent. For emails you send, your real address is still the sender unless you configure a custom reply-to. Most people use Alt ID as a receive-only shield and send from their real address when a response is required.
 
 ---

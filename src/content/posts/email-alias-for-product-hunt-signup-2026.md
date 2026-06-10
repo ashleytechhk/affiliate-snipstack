@@ -177,7 +177,7 @@ Alt-ID is part of Surfshark's subscription — the same plan includes both the V
 
 A separate Gmail account means a separate inbox you have to check manually, separate login credentials, and no connection to your real workflow. An alias forwards everything to your existing inbox — same inbox, same email client, same routine. The alias is just a front door that you control and can close at any time.
 
-**Does using an alias affect my ability to upvote or comment on Product Hunt?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect my ability to upvote or comment on Product Hunt?**
 
 No. Upvotes, comments, follows, and all other Product Hunt activity work normally regardless of whether your registered email is an alias. The platform does not distinguish between a forwarding alias and a "real" email address.
 

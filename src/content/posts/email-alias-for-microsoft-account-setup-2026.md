@@ -132,7 +132,7 @@ If you delete an alias before updating your Microsoft Account email, you will be
 
 One alias covers the core Microsoft Account. For granular tracking — knowing exactly which service leaked when spam starts — a separate alias per connected service is significantly more useful. If spam arrives on `xbox-alias`, you know Xbox's partner ecosystem is the source. Alt-ID's unlimited model makes per-service aliasing practical; SimpleLogin's 15-alias free tier is tighter but workable for moderate use.
 
-**Does using an alias affect Microsoft two-factor authentication?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect Microsoft two-factor authentication?**
 
 No. Microsoft sends 2FA codes and security alerts to whatever email address is registered on the account. As long as the alias is active and forwarding, those codes arrive in your real inbox normally. The process is transparent — Microsoft does not know or care whether the registered address is an alias or a primary address.
 

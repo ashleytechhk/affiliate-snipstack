@@ -153,7 +153,7 @@ Most services accept alias addresses without issue. A minority of services attem
 
 Any provider could close. For Alt-ID, the alias infrastructure is tied to Surfshark's broader service. For addy.io, it is an independent privacy-focused project. For SimpleLogin, the Proton acquisition provides institutional backing. In all cases, keeping a note of which service uses which alias lets you update accounts quickly if you ever need to migrate.
 
-**Does using a catch-all domain make me more vulnerable to spam?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a catch-all domain make me more vulnerable to spam?**
 
 Potentially, yes. Because a catch-all domain accepts mail sent to any address, including guesses like `info@yourdomain.com` or `admin@yourdomain.com`, you may receive spam on addresses you never shared. Most catch-all users mitigate this with filters or by using addy.io's regex-routing options to accept only recognised patterns.
 

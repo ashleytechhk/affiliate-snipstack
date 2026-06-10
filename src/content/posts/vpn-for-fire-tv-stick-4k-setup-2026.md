@@ -149,7 +149,7 @@ Terms of service for many platforms technically restrict VPN use, but account ba
 **Do I need to keep the VPN on all the time?**
 Only when using apps where you want to appear in a different region. You can disconnect the VPN when you want normal browsing behavior. Surfshark lets you toggle per-app with its Bypasser (split tunneling) feature, so you can have some apps route through the VPN and others use your regular connection.
 
-**Does using a VPN slow down my Fire TV Stick?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a VPN slow down my Fire TV Stick?**
 With a modern protocol like WireGuard and a nearby server, the speed difference is negligible for streaming. The encryption overhead on current hardware is minimal. The bigger variable is server load — connecting to a less-congested server at off-peak hours will always give you the best results. **[See Surfshark's server options →](/blog/vpn?sub=vpn-for-fire-tv-stick-4k-setup-2026__faq)**
 
 **Can one Surfshark subscription cover my whole household?**

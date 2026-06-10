@@ -144,7 +144,7 @@ Phone number privacy for social media means keeping your real SIM number off the
 
 Yes — a real phone number is a strong identifier. Data broker sites can return your name, approximate address, and linked social media profiles from a phone number lookup, often within seconds. This is why giving your real number to a dating match early in the conversation carries more risk than most people realise.
 
-**Does using a [second phone number](https://snipstack.io/second-number-for-discord-account-2026/) for dating apps look suspicious to matches?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [second phone number](https://snipstack.io/second-number-for-discord-account-2026/) for dating apps look suspicious to matches?**
 
 No. An alias number from a service like Alt-Number is a real, local-looking phone number. The match sees a normal number, and calls and texts reach you as usual. The only difference is that you control whether to keep or retire that channel — they have no way to know it is an alias unless you tell them.
 

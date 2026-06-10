@@ -151,7 +151,7 @@ Skip these for spam filtering specifically:
 
 ## FAQ
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/) actually stop spam, or just redirect it?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/) actually stop spam, or just redirect it?**
 
 An alias by itself forwards everything — including spam — to your real inbox. The spam-stopping happens when you delete a compromised alias. At that point, any future mail to that address bounces, regardless of sender. It's not filtering; it's address revocation. A spammer can't reach an inbox that no longer accepts mail.
 

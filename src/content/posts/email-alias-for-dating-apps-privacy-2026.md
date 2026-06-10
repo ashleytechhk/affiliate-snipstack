@@ -126,7 +126,7 @@ You lose the ability to receive emails from that platform until you update the a
 
 Some services use blocklists of known alias and [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) domains at registration. Alt-ID uses its own domain that is not on standard public blocklists — unlike free throwaway services, which are routinely blocked. In most cases, Alt-ID aliases register without issue. If a specific platform rejects the alias, contact their support; blocklists are often outdated and can be cleared for legitimate email forwarding services.
 
-**Does using an alias mean I'm being dishonest with the dating app?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias mean I'm being dishonest with the dating app?**
 
 No. An alias is a forwarding address that belongs to you and receives your mail. You control it, you access it, and you respond from it. Using an alias is no different from using a work email address instead of a personal one — it's a different contact point for the same person. The alias is a real, working address. The only thing it hides is your primary inbox address, which is your own private information.
 

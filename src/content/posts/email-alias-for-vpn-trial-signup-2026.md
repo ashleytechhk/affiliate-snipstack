@@ -144,7 +144,7 @@ The trial account remains active — deletion of the alias only affects future e
 
 Technically yes, but it defeats the purpose. The value of an alias for trial signups is knowing exactly which service is emailing you, and cutting that specific pipeline when needed. One alias per provider gives you that control. Alt ID's unlimited model makes per-trial aliasing practical at no extra cost.
 
-**Does using an alias affect VPN app functionality?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect VPN app functionality?**
 
 No. The VPN application authenticates with your account credentials (email address and password), not the email inbox itself. As long as the alias is active and you can receive the initial verification email, the app functions identically to an account registered with a real address. [Alt ID](/blog/altid?sub=email-alias-for-vpn-trial-signup-2026__faq) is designed specifically for exactly this type of sign-up workflow.
 

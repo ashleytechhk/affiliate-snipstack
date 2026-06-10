@@ -141,7 +141,7 @@ An [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-202
 
 Yes. Alt-ID is included at no additional cost with all Surfshark subscription plans. If you're already subscribed for VPN access, you have Alt-ID available today — no upgrade required. **[Access your Alt-ID dashboard here →](/blog/altid?sub=email-alias-for-insurance-comparison-sites-2026__faq)**
 
-**Does using an alias affect the accuracy of my insurance quote?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect the accuracy of my insurance quote?**
 
 No. Insurance quote accuracy depends on the coverage and personal details you enter (vehicle info, address, driving history, coverage level) — not on which email address you provide. The email field is for contact purposes only.
 

@@ -134,7 +134,7 @@ TikTok's terms do prohibit interfering with advertising, but enforcement against
 
 No [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) blocks every single ad on every platform. TikTok periodically rotates the domains it uses for ad delivery. CleanWeb's continuously updated blocklists catch the vast majority, but expect occasional slippage when TikTok introduces new ad infrastructure. That said, CleanWeb's coverage for TikTok is among the strongest available on mobile as of 2026.
 
-### Does using a DNS [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) slow down TikTok?
+### [Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a DNS [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) slow down TikTok?
 
 In practice, blocking DNS requests to ad domains makes TikTok load faster, not slower. Ads that never request content cannot add latency. The overhead of DNS filtering is measured in milliseconds and is imperceptible in normal use.
 

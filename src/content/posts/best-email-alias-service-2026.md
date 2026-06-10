@@ -207,7 +207,7 @@ An [email alias service](https://snipstack.io/how-email-alias-2026/) creates for
 
 High-security services — banks, government portals, healthcare providers — sometimes block known alias domains because they want a direct relationship with a verified email address. For those accounts, use your real address. Reserve aliases for everything else: newsletters, signups, trials, e-commerce, forums. The rule of thumb: any account where you'd be fine with the service knowing your real identity can use your real address; anything else gets an alias.
 
-**Does using an alias make it harder to recover accounts?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias make it harder to recover accounts?**
 
 Only if you delete the alias and then need it for account recovery. Before deleting a compromised alias, update the email address on any accounts that still use it — or keep the alias active but stop monitoring it if deletion isn't urgent. In practice, most people keep aliases active unless they're receiving active spam; deletion is the exception, not the routine.
 

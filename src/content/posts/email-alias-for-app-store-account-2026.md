@@ -186,7 +186,7 @@ Hide My Email requires an iCloud+ subscription. The entry-level tier with 50GB s
 **Can app developers see that I'm using an alias?**
 For Alt-ID, the alias address looks like any standard email address — developers cannot tell it is an alias or identify your real address from it. For Hide My Email, the `@privaterelay.appleid.com` domain is publicly associated with Apple's privacy relay, so technically a developer can identify it as a relay address. In practice, this matters only if a developer specifically blocks relay addresses — uncommon for legitimate apps.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/) affect App Store family sharing?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-product-hunt-signup-2026/) affect App Store family sharing?**
 Family sharing purchases and notifications are tied to the Apple ID itself, not the email address you used to create it. Changing your Apple ID's email address to an alias does not affect existing family sharing arrangements. New family sharing invitations will be sent to whatever email address your Apple ID uses at the time.
 
 **What about [anonymous email](https://snipstack.io/anonymous-email-2026/) — does that work for App Store accounts?**

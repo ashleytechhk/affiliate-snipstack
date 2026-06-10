@@ -170,7 +170,7 @@ Deleting an alias stops all forwarding from that address immediately. If you sti
 
 Alt-ID supports reply masking — replies sent from your real inbox via the alias address appear to come from the alias. Your real address does not appear in any outgoing header. This matters most for brokerage support conversations where you prefer not to share your primary email.
 
-**Does using an alias protect my investment accounts from phishing?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias protect my investment accounts from phishing?**
 
 It reduces one attack surface. If your alias email appears in a data breach, attackers get a forwarding address rather than your real email. Phishing emails sent to a deleted alias bounce. Combined with a unique password per platform and two-factor authentication, alias-per-platform significantly narrows the exposure of any single account compromise. **[Start using Alt-ID for your investment accounts →](/blog/altid?sub=email-alias-for-investment-account-notifications-2026__faq)**
 

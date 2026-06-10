@@ -179,7 +179,7 @@ Adjusting preferences changes the targeting of ads, not the volume. You may see 
 
 Yes. On desktop browsers, extensions like [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) can apply cosmetic filters that visually hide Sponsored Content in the LinkedIn feed. Combined with CleanWeb for tracker blocking, desktop LinkedIn is substantially cleaner than the mobile app. The mobile app environment gives users fewer options by design.
 
-### Does using CleanWeb slow down the LinkedIn app?
+### [Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) CleanWeb slow down the LinkedIn app?
 
 No. Blocking DNS requests to tracker domains removes overhead — those requests are not made, so no latency is added. The DNS filtering itself operates in milliseconds and is imperceptible in normal use. Some users report apps loading slightly faster with CleanWeb active because unnecessary ad network calls are eliminated.
 

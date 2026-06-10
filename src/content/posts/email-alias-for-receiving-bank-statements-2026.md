@@ -150,7 +150,7 @@ Deleting an alias immediately stops forwarding. Emails sent to the deleted alias
 
 Yes. Alt-ID is included at no additional cost with all active Surfshark plans. If you already subscribe for VPN access, you have access to Alt-ID today with no upgrade or add-on required. **[Access your Alt-ID dashboard here →](/blog/altid?sub=email-alias-for-receiving-bank-statements-2026__faq)**
 
-**Does using an alias affect my bank's ability to identify me for customer support?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect my bank's ability to identify me for customer support?**
 
 No. Your bank identifies you by account number, date of birth, security questions, and other factors — not by which email address you have on file. The alias is simply where statements and notifications are delivered. Customer support interactions are unaffected.
 

@@ -147,7 +147,7 @@ By default, replies go out from your real email address unless you configure sen
 
 Any emails sent to a deleted alias bounce. If the event sends last-minute updates or venue change notices and the alias is already deleted, you will not receive them. Best practice: keep the alias active until the day after the event ends, then delete it.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-real-estate-inquiries-2026/) violate event terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-real-estate-inquiries-2026/) violate event terms of service?**
 
 No. An alias is a legitimate email address — it receives and forwards email just like any inbox. Event terms of service require a working email address; an alias fully satisfies that requirement. You are not providing fake information; you are providing an address you own and control.
 

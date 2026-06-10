@@ -123,7 +123,7 @@ Yes. A Stack Overflow account is a Stack Exchange network account. Your register
 
 Before deleting any alias tied to an active account, update the registered email in Stack Overflow's account settings first. Navigate to Settings > Edit Profile and Settings > Email, enter a new alias (or a different address), and confirm. Once updated, delete the old alias safely — there's no dangling dependency.
 
-**Does using an alias affect Stack Overflow's recruiter or job features?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect Stack Overflow's recruiter or job features?**
 
 No. The Jobs and Talent features operate on your profile, not your email address. Recruiter contact initiated through Stack Overflow's messaging system delivers to your alias, which forwards to your real inbox. You can respond from the alias without exposing your actual address. The only scenario where this gets complicated is if a recruiter pulls your email from a data broker list — at which point the alias has already done its job by keeping your real address out of that list.
 

@@ -143,7 +143,7 @@ No. [Disposable email](https://snipstack.io/disposable-email-that-receives-messa
 
 You can, but one alias per app is better practice. If you use the same alias for DoorDash and Uber Eats and spam starts arriving, you won't know which platform leaked it. One alias per app gives you attribution — when the promo flood hits a specific alias, you know the source and can cut it off precisely.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-zoom-account-registration-2026/) affect my ability to use promo codes or referral links?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-zoom-account-registration-2026/) affect my ability to use promo codes or referral links?**
 
 No. Promo codes and referral credits are tied to the alias address from the platform's perspective, and you receive any confirmation or credit notification at your real inbox via forwarding. The experience is identical to using your real address, except the platform has your alias, not your actual email.
 

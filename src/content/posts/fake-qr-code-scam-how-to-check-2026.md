@@ -12,7 +12,7 @@ You find a QR code on a parking meter, a restaurant table, a parcel slip in your
 
 Here is the problem: unlike a link in an email, you cannot hover over a QR code to see where it leads. The entire address is hidden inside a pattern of black and white squares. You only discover the destination after your camera has decoded it — and by then, most people simply tap "open" without a second thought.
 
-That is exactly the gap scammers exploit. Knowing [how to check](https://snipstack.io/how-to-check-company-registration-online-2026/) a fake QR code scam before you tap is one of the most practical safety habits you can build in 2026.
+That is exactly the gap scammers exploit. Knowing [how to check](https://snipstack.io/how-to-check-company-registration-online-2026/) a fake [QR code scam](https://snipstack.io/qr-code-scam-checker-2026/) before you tap is one of the most practical safety habits you can build in 2026.
 
 > **Not sure about a QR code link you received by email?** [Run it through Surfshark's free Email Scam Checker now](/blog/scamcheck?sub=fake-qr-code-scam-how-to-check-2026__above-fold) — then read on to understand how these scams work and [how to protect](https://snipstack.io/how-to-protect-against-phishing-emails-2026/) yourself.
 

@@ -154,7 +154,7 @@ Instacart routes shopper-customer communication through a masked messaging layer
 
 Free VoIP services are typically blocked at Instacart's verification step. The practical starting point is Alt-Number's trial, which lets you provision a carrier-backed number and complete Instacart's verification before any subscription cost applies. If you only need the separation during an active period of online dating while you shop, the trial covers the initial setup and gives you time to evaluate before committing.
 
-**Does using a [second number for](https://snipstack.io/second-number-for-discord-account-2026/) Instacart violate Instacart's terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [second number for](https://snipstack.io/second-number-for-discord-account-2026/) Instacart violate Instacart's terms of service?**
 
 Instacart requires that shoppers provide a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and communications — it does not require that number to be your personal primary line. A carrier-backed [second number](https://snipstack.io/second-number-for-tinder-date-privacy-2026/) from Alt-Number satisfies Instacart's account requirements. What Instacart prohibits is account fraud; using a legitimate secondary number for privacy reasons is entirely distinct from that.
 

@@ -136,7 +136,7 @@ Slack does not currently block major alias providers like Alt-ID or SimpleLogin.
 
 Deleting an alias stops all forwarding from that address. You will [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) Slack notifications, sign-in emails, and workspace digests. Before deleting, update your Slack account email to a new alias (or your real address if you've resolved the spam source). Deletion without updating first means you lose access to Slack notifications from that account until you recover it.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-linkedin-profile-privacy-2026/) affect Slack Connect or cross-workspace features?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-linkedin-profile-privacy-2026/) affect Slack Connect or cross-workspace features?**
 
 No. Slack Connect and guest access in external workspaces are tied to your Slack account identity, not the underlying email address. Once your account is set up with an alias, Slack's internal features work identically. The alias is only relevant for the email channel — notifications, sign-in links, and admin messages.
 

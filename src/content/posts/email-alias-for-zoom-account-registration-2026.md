@@ -129,7 +129,7 @@ Yes. Go to zoom.us, sign in, navigate to Profile, and edit your sign-in email. E
 
 Zoom does not block established alias providers like Alt-ID or SimpleLogin. Services that block forwarding domains typically target well-known throwaway services (Guerrilla Mail, Temp Mail, 10 Minute Mail) whose domains appear on public blocklists. Alias providers use their own domains that aren't on those lists, so registration succeeds normally.
 
-**Does using an alias affect Zoom's two-factor authentication?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect Zoom's two-factor authentication?**
 
 No. Zoom sends 2FA verification codes to whichever email address is on the account. If your account uses an alias, the code is forwarded to your real inbox instantly. You enter the code as normal. The only requirement is that you can actually receive email at the alias — which forwarding services satisfy.
 

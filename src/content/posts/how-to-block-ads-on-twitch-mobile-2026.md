@@ -139,7 +139,7 @@ No. DNS-level blocking prevents ad-serving domains from responding, but it does 
 
 No [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) achieves perfect coverage across every platform update. Twitch periodically changes the domains it uses for ad delivery. CleanWeb's continuously updated blocklists catch the large majority of ad traffic, but you may see occasional ads when Twitch deploys new infrastructure that blocklists have not yet catalogued. Coverage improves again as blocklists are updated. [Get started with CleanWeb here.](/blog/adblock?sub=how-to-block-ads-on-twitch-mobile-2026__faq)
 
-### Does using CleanWeb slow down Twitch?
+### [Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) CleanWeb slow down Twitch?
 
 DNS filtering adds sub-millisecond overhead that is imperceptible in normal use. Because blocked ad requests never load, the net effect on the Twitch app is faster load times and reduced buffer events caused by ad delivery contention. You will not notice the filtering; you will notice the ads are gone.
 

@@ -147,7 +147,7 @@ Fiverr does not display your phone number on your public seller profile. However
 
 Yes. In your Fiverr account settings you can update your registered phone number at any time. Replace your real number with your Alt-Number, complete the SMS verification step, and Fiverr updates the account record. Your seller profile, reviews, and order history are unaffected — those are attached to your account, not to your phone number.
 
-**Does using a [second number for](https://snipstack.io/second-number-for-social-media-privacy-2026/) Fiverr violate Fiverr's terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [second number for](https://snipstack.io/second-number-for-social-media-privacy-2026/) Fiverr violate Fiverr's terms of service?**
 
 Fiverr requires sellers to provide a valid, working phone number for account verification and security — it does not require that number to be your primary personal line. A carrier-backed [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) from [Alt-Number](/blog/altnumber?sub=second-number-for-fiverr-seller-account-2026__faq) satisfies Fiverr's account requirements completely. Using a legitimate secondary number for privacy is not the same as creating a fraudulent account, which is what Fiverr's terms prohibit.
 

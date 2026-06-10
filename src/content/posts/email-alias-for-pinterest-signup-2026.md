@@ -140,7 +140,7 @@ For most people who are already considering a privacy tool subscription, Alt-ID 
 
 Pinterest does not maintain a public blocklist of alias domains. Some platforms do reject addresses from known forwarding services, but as of 2026, Pinterest accepts aliases from Alt-ID, SimpleLogin, and Apple Hide My Email without issues. This can change, which is why tools that support custom domains (like SimpleLogin paid) offer an extra layer of future-proofing.
 
-### Does using an alias affect my Pinterest experience?
+### [Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect my Pinterest experience?
 
 No. Pinterest treats the alias as a normal email address. Your feed, boards, followers, and account settings work identically. The only difference is where Pinterest's emails land.
 

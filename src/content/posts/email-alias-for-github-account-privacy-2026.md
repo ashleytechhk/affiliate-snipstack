@@ -133,7 +133,7 @@ You [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-f
 
 One GitHub alias covers your account — that's the minimum. For full incident-response capability, separate aliases per service let you identify which tool leaked when spam appears. If `vercel-alias@altid-domain` starts receiving spam and `github-alias@altid-domain` stays clean, you know exactly where the breach came from. Alt-ID's unlimited aliases make per-tool aliasing practical. Start with GitHub, npm, and your most-used CI platform, then expand to the rest of your stack.
 
-**Does using an alias affect GitHub two-factor authentication?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect GitHub two-factor authentication?**
 
 No. GitHub's 2FA (authenticator app, hardware key, or SMS) is tied to your account, not your email format. Email-based verification codes sent to your alias forward instantly to your real inbox. If you're using an authenticator app (which you should be), your alias email is only used for account recovery — which still works normally through forwarding.
 
