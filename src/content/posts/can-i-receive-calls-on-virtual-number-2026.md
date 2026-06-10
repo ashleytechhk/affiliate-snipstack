@@ -137,7 +137,7 @@ No. To any caller or texter, your [virtual number](https://snipstack.io/virtual-
 Yes. A full-featured [virtual number](https://snipstack.io/virtual-number-for-paypal-setup-2026/) service lets you make outgoing calls and send outgoing texts from the [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/). The recipient sees the [virtual number](https://snipstack.io/virtual-number-vs-esim-comparison-2026/) on their caller ID, not your real number.
 
 **What happens to my [virtual number](https://snipstack.io/virtual-number-for-work-life-separation-2026/) if I cancel my subscription?**
-If your subscription ends, the virtual number is deactivated. Any contacts who had that number can no longer reach you through it. Your real number is unaffected. This is also useful as a deliberate exit: downgrade or cancel, and the number disappears cleanly.
+If your subscription ends, the [virtual number](https://snipstack.io/virtual-number-for-whatsapp-business-2026/) is deactivated. Any contacts who had that number can no longer reach you through it. Your real number is unaffected. This is also useful as a deliberate exit: downgrade or cancel, and the number disappears cleanly.
 
 **Is a virtual number the same as using *67 or caller ID blocking?**
 No. Caller ID blocking (*67) hides your number on the recipient's screen, but your carrier still transmits your number — it can be unblocked by some phone plans, and your number can still appear to the recipient in some situations. A virtual number gives the recipient a completely different, real number. There is no hidden real number underneath. The virtual number is the number, full stop.

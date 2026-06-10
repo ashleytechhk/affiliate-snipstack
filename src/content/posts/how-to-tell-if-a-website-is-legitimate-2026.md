@@ -92,7 +92,7 @@ None of the free tools watch your back continuously. They are reactive — you h
 
 **What it tells you:** A composite legitimacy score based on dozens of signals — domain age, hosting country, SSL certificate details, presence in known scam databases, social media footprint, and more.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) it:**
 1. Go to `scamadviser.com`
 2. Enter the domain or full URL
 3. Read the score and the breakdown of positive and negative signals

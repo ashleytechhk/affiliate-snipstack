@@ -78,7 +78,7 @@ The result is predictable: you use aliases when it's easy (iPhone, Safari) and f
 
 ## Alt-ID: What It Does Well
 
-Surfshark's Alt-ID is the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) layer inside Surfshark's broader privacy suite. It generates forwarding aliases through the Surfshark app and browser extension, and it works on every major platform without exception.
+Surfshark's Alt-ID is the [email alias](https://snipstack.io/email-alias-for-online-shopping-2026/) layer inside Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/). It generates forwarding aliases through the Surfshark app and browser extension, and it works on every major platform without exception.
 
 ### Cross-Platform Without Compromise
 
@@ -148,7 +148,7 @@ For the spam-exhausted inbox owner who uses multiple devices and doesn't want to
 
 Yes — there's no conflict. Some users run Hide My Email for Apple-native sign-ins (App Store apps, iCloud-integrated services) and use Alt-ID for everything else. The main overhead is remembering which aliases came from which service when you need to update them later. For simplicity, most people find consolidating to one tool easier to manage long-term.
 
-**What happens to my Hide My [Email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/)es if I cancel iCloud+?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Hide My [Email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/)es if I cancel iCloud+?**
 
 Your aliases stop forwarding. Apple documents this clearly: aliases are active only while iCloud+ is subscribed. Any service still sending to those addresses won't reach your inbox. Before downgrading, export your alias list and update logins for accounts that matter. This is a meaningful risk that standalone alias services like Alt-ID don't carry — your Alt-ID aliases are tied to your Surfshark subscription independently of any device ecosystem.
 

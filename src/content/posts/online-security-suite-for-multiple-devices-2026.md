@@ -127,7 +127,7 @@ After checkout, you will receive a confirmation email. Keep it — you'll use th
 
 **On Android:**
 
-1. Search for **Surfshark: VPN & Online Security** in the Google Play Store
+1. Search for **Surfshark: VPN & [Online Security](https://snipstack.io/online-security-for-the-whole-family-2026/)** in the Google Play Store
 2. Install and open the app
 3. Log in with your account credentials
 

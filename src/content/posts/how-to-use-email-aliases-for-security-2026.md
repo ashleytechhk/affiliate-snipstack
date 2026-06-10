@@ -168,7 +168,7 @@ It stops new spam tied to your alias addresses from that point forward. Spam alr
 
 Fifty spam emails a day isn't a filter problem — it's a structural problem. Your real address is already too widely distributed to clean up by blocking individual senders. The fix is changing how you hand out your address going forward.
 
-Of the four methods compared here, Alt ID is the most versatile: it works with any provider, supports unlimited aliases, and gives you instant kill-switch control when an address gets compromised. If you're evaluating how to use [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/)es for security seriously, it's the benchmark to compare against.
+Of the four methods compared here, Alt ID is the most versatile: it works with any provider, supports unlimited aliases, and gives you instant kill-switch control when an address gets compromised. If you're evaluating [how to use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/)es for security seriously, it's the benchmark to compare against.
 
 [Get Alt ID and start protecting your inbox today](/blog/altid?sub=how-to-use-email-aliases-for-security-2026__cta)
 

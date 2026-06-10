@@ -117,7 +117,7 @@ Scammers often use data sets that include both phone numbers and email addresses
 
 Surfshark's Email Scam Checker is not a phone lookup tool — but it is the logical next step after identifying a suspicious call. If you receive an email that seems connected to a scam call (or any suspicious email you are unsure about), the checker lets you paste the sender's email address and run it against a database of known breach records and reported scam addresses.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) it:**
 1. Open the suspicious email — do not click any links inside it
 2. Find the full sender email address (in Gmail, click the sender's name to expand it; in Outlook, select "View Details")
 3. Go to **[Surfshark's Email Scam Checker](/blog/scamcheck?sub=scam-phone-number-lookup-free-2026__mid)** and paste the address into the search field

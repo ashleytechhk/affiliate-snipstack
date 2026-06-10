@@ -80,7 +80,7 @@ An **[email alias](https://snipstack.io/email-alias-outlook-2026/)** is a persis
 
 ---
 
-## Step-by-Step: How to Use a Free Temporary Email Generator
+## Step-by-Step: [How to Use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) a Free Temporary Email Generator
 
 If you just need to get past a registration wall right now, here's the fastest approach.
 

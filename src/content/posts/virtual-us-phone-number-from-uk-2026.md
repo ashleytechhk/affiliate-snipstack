@@ -62,7 +62,7 @@ The table is blunt by design. Three of the four options have a blocking problem 
 
 [**Start your Alt-Number free trial →**](/blog/altnumber?sub=virtual-us-phone-number-from-uk-2026__above-fold)
 
-Alt-Number is the [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) feature built into the Surfshark platform. You can get it as a standalone add-on or as part of [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), which also includes the VPN and antivirus suite.
+Alt-Number is the [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) feature built into the Surfshark platform. You can get it as a standalone add-on or as part of [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), which also includes the [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/) suite.
 
 ### What works
 
@@ -171,7 +171,7 @@ It depends entirely on where the number comes from. Carrier-backed numbers like 
 **Is it legal to use a US [virtual number](https://snipstack.io/virtual-number-for-bank-account-verification-2026/) from the UK?**
 Yes. Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-whatsapp-2026/) for personal privacy or to access services that support international users is entirely legal in the UK. There is no law against having a phone number from another country. Alt-Number is a product of Surfshark, a company operating under standard telecom and data privacy frameworks.
 
-**What happens if I stop paying for the number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I stop paying for the number?**
 Once the subscription or trial period ends, the number is deactivated. New incoming calls and texts to that number stop connecting. Any message history in the app stays on your device until you delete it. The number is not immediately reassigned — there is typically a grace period — but you should not rely on it remaining active after cancellation.
 
 **Can I use the US Alt-Number for WhatsApp as well as dating apps?**

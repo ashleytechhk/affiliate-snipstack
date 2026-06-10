@@ -56,7 +56,7 @@ Unroll.me scans your inbox, identifies every mailing list subscription, and show
 
 Clean Email is a paid inbox organizer that includes a bulk-unsubscribe feature. It groups similar emails together, lets you unsubscribe from categories in one click, and includes a "Block" option for senders that don't honor unsubscribe requests.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) it:**
 1. Connect your account at clean.email
 2. Go to the "Unsubscriber" section
 3. Select one, several, or all mailing lists

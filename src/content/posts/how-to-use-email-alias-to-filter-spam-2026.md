@@ -46,7 +46,7 @@ Gmail's `+` trick is free and requires nothing, but marketers strip it and it ca
 
 A managed alias service generates forwarding addresses that route to your real inbox. You create one, you use it, the sender never sees your actual address. When that alias attracts spam, you delete it in one click — the forwarding address simply ceases to exist, so all spam to it bounces.
 
-**How to use it for spam filtering:**
+**[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it for spam filtering:**
 
 1. Sign into [Alt-ID via Surfshark](/blog/altid?sub=how-to-use-email-alias-to-filter-spam-2026__mid) and navigate to the Alt-ID section.
 2. Create a new alias. Label it by category: `shopping`, `newsletters`, `forums`, `trials`, `social`.
@@ -56,7 +56,7 @@ A managed alias service generates forwarding addresses that route to your real i
 
 **Why it works better than filtering:** Filters block known senders. Spam operations rotate sending domains constantly. Deleting an alias blocks every future sender by removing the target address — no rule-writing, no whitelisting, no ongoing maintenance.
 
-**The weak spot:** Alt-ID requires a Surfshark subscription. If your only privacy tool is email aliases and you have no use for a VPN, this is a bundled cost. That said, Surfshark's multi-year plans are priced below what standalone alias tools charge, and you get VPN, data removal, and breach scanning bundled in.
+**The weak spot:** Alt-ID requires a Surfshark subscription. If your only privacy tool is [email alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/)es and you have no use for a VPN, this is a bundled cost. That said, Surfshark's multi-year plans are priced below what standalone alias tools charge, and you get VPN, data removal, and breach scanning bundled in.
 
 ### How Alt-ID Compares to SimpleLogin
 
@@ -68,7 +68,7 @@ A managed alias service generates forwarding addresses that route to your real i
 
 Gmail supports address tags in the format `yourname+tag@gmail.com`. Mail to that address lands in your regular inbox. You can set up filters to label or sort incoming mail by tag.
 
-**How to use it:**
+**[How to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) it:**
 
 - Use `yourname+shopping@gmail.com` when signing up for e-commerce sites.
 - Create a Gmail filter: if "To" contains `+shopping`, apply label "Shopping / Spam Watch."
@@ -151,7 +151,7 @@ Skip these for spam filtering specifically:
 
 ## FAQ
 
-**Does using an email alias actually stop spam, or just redirect it?**
+**Does using an [email alias](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/) actually stop spam, or just redirect it?**
 
 An alias by itself forwards everything — including spam — to your real inbox. The spam-stopping happens when you delete a compromised alias. At that point, any future mail to that address bounces, regardless of sender. It's not filtering; it's address revocation. A spammer can't reach an inbox that no longer accepts mail.
 
@@ -167,7 +167,7 @@ With Alt-ID and SimpleLogin, yes. When a forwarded email arrives in your inbox a
 
 Start with five category aliases: shopping, newsletters, social/apps, work/freelance, and throwaway. That covers 90% of new-signup scenarios. Once you're comfortable, add per-service aliases for high-risk accounts (e-commerce sites you use regularly, for example). Most spam-focused users find 10–20 aliases covers everything without becoming unmanageable. [Alt-ID's](/blog/altid?sub=how-to-use-email-alias-to-filter-spam-2026__faq) multi-alias allowance is enough for this approach.
 
-**What happens to my existing spam if I start using aliases now?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my existing spam if I start using aliases now?**
 
 Aliases protect future signups — they don't remove your real address from lists it's already on. Spam arriving on your existing address will continue for a while. For that, you have two options: aggressive inbox filtering as a short-term measure while you transition new signups to aliases, or creating a fresh primary address and migrating only trusted contacts to it. The latter is more work upfront but gives you a genuinely clean slate.
 

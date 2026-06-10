@@ -142,7 +142,7 @@ They use several techniques: copying the visual design of legitimate news organi
 
 ### What should I do if I receive an email with a suspicious link?
 
-Do not click the link. Copy the URL (on a computer: right-click the link and choose "Copy link address"; on a phone: press and hold the link without tapping) and paste it into Surfshark Scamcheck. If the result flags the link as dangerous, delete the email. If the email appears to come from a company you use — a bank, a delivery service — contact that company directly using a phone number or website address you already know, not anything in the suspicious email.
+Do not click the link. Copy the URL (on a computer: right-click the link and choose "Copy link address"; on a phone: press and hold the link without tapping) and paste it into Surfshark Scamcheck. If the result flags the link as dangerous, delete the email. If the email appears to come from a company you use — a bank, a delivery service — contact that company directly using a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) or website address you already know, not anything in the suspicious email.
 
 ---
 
