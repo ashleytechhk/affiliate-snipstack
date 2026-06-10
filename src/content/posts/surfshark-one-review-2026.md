@@ -196,7 +196,7 @@ Yes. One subscription covers unlimited simultaneous devices across Windows, Mac,
 
 ### Is there a money-back guarantee?
 
-Surfshark offers a refund period on paid plans — check the current terms on the pricing page, as these are subject to change. There is no free tier for Surfshark One.
+Surfshark offers a refund period on paid plans — check the current terms on the pricing page, as these are subject to change. There is no free tier for [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/).
 
 ### Will switching away from Norton slow down my security coverage?
 

@@ -236,7 +236,7 @@ You have been paying too much for software that makes your devices slower. The s
     },
     {
       "@type": "Question",
-      "name": "Can the whole family share one Surfshark One account?",
+      "name": "Can the whole family share one [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) account?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. One subscription covers unlimited simultaneous devices. Every family member can have the app running on their phone, tablet, and laptop at the same time under a single account."

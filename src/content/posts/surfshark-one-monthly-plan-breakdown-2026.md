@@ -148,7 +148,7 @@ The monthly plan is not a trap, but it's also not optimized for long-term value.
 
 On pure monthly price, they're within a dollar of each other. What [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) adds is a notably better VPN (WireGuard, unlimited devices, 100 countries), private search, and breach monitoring — all without the in-app upsell pressure that defines the Norton experience. For most users switching from Norton, the feature-to-price ratio is better on [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) from day one.
 
-### Can I cancel Surfshark One monthly without difficulty?
+### Can I cancel [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) monthly without difficulty?
 
 Yes. Surfshark uses a straightforward subscription cancellation — you can cancel from your account dashboard without calling customer support or navigating a retention flow designed to confuse you. Contrast this with the documented cancellation patterns of Norton and McAfee, which have both faced regulatory scrutiny for making cancellation unnecessarily difficult.
 

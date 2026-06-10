@@ -137,7 +137,7 @@ Not on all tiers. Avast One's base and individual plans include VPN with limitat
 
 Avast's subsidiary Jumpshot was found to have collected and sold granular browsing behavior data from Avast users to marketing and analytics clients. Avast shut Jumpshot down in early 2020 following the reporting and shareholder pressure. Avast has since stated that it no longer engages in that kind of data monetization. The full investigation was published jointly by Motherboard and PCMag in January 2020 and is publicly available.
 
-### Can I use Surfshark One on all my devices at once?
+### Can I use [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) on all my devices at once?
 
 Yes. Surfshark One allows unlimited simultaneous connections — every device in your household can run the [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) concurrently on a single subscription with no per-device limit. This includes Windows, macOS, Android, iOS, and browser extensions.
 

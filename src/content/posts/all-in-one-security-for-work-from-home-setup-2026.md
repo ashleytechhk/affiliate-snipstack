@@ -166,7 +166,7 @@ The core trade-offs: [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-
 
 This depends on your employer's endpoint policy. Most IT departments allow supplemental VPN clients and personal antivirus if they do not conflict with corporate tools. If your employer pushes a managed antivirus solution, running two real-time AV engines simultaneously causes conflicts — in that case, use [Surfshark One for](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) the VPN, CleanWeb, and breach monitoring components and defer to your employer's AV. If the laptop is personal, there is no conflict.
 
-### Does Surfshark One Bundle log browsing activity?
+### Does [Surfshark One Bundle](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) log browsing activity?
 
 The VPN component operates under an audited no-logs policy — Surfshark has undergone independent audits confirming that activity and connection logs are not retained. The antivirus, CleanWeb, and Alert components process data necessary to their function (threat signatures, breach database comparisons) but do not build a behavioral profile of your browsing.
 

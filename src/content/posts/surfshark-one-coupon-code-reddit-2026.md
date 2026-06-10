@@ -123,7 +123,7 @@ A private search tool with no ad tracking, no profiling, and no behavioral targe
 
 *Prices based on publicly listed rates as of May 2026. Verify at checkout — promotional rates change.*
 
-The comparison makes the "do I need a coupon?" question easier to answer. At standard two-year pricing, Surfshark One is at or below Norton and McAfee's first-year promotional rates — while Norton and McAfee's pricing is designed to climb significantly at renewal. Over a two-year horizon, the gap usually favors Surfshark One without any coupon applied.
+The comparison makes the "do I need a coupon?" question easier to answer. At standard two-year pricing, [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) is at or below Norton and McAfee's first-year promotional rates — while Norton and McAfee's pricing is designed to climb significantly at renewal. Over a two-year horizon, the gap usually favors Surfshark One without any coupon applied.
 
 ---
 

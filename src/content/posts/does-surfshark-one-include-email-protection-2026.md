@@ -154,7 +154,7 @@ HaveIBeenPwned is a one-time check against its current database. Alert monitors 
 Directly inside an email client, no — [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) does not install a mail plugin or scan attachments. The VPN's CleanWeb feature blocks known malicious domains at the DNS level, so if a phishing link tries to load in your browser, CleanWeb often intercepts it. For phishing links in email, the protection applies once you click — not at the inbox level.
 
 **How many email addresses can I monitor with Alert?**
-Surfshark One supports multiple email addresses in Alert. The exact number depends on the plan tier — check current plan details on the pricing page before purchasing.
+[Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) supports multiple email addresses in Alert. The exact number depends on the plan tier — check current plan details on the pricing page before purchasing.
 
 **Can I use Alt-ID aliases if I already have Gmail?**
 Yes. Gmail's own alias system (yourname+alias@gmail.com) is widely known and easily stripped by marketers. [Surfshark One's Alt-ID](https://snipstack.io/hide-email-address-when-signing-up-2026/) generates a distinct forwarding address with no visible connection to your real inbox, which provides stronger separation.
