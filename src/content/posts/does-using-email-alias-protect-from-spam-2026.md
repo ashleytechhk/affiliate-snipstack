@@ -124,7 +124,7 @@ A partial tool at best, and increasingly ineffective as spam operations have lea
 
 ---
 
-## Method 4: Disposable / Temporary Email Services
+## Method 4: Disposable / [Temporary Email](https://snipstack.io/temporary-email-and-password-free-2026/) Services
 
 Services like Guerrilla Mail and 10 Minute Mail give you a random address with no account required. You check mail in the browser tab, then it expires.
 
@@ -153,7 +153,7 @@ Strong for the specific case of one-time signups you'll never need again. Useles
 
 A permanent [email alias](https://snipstack.io/email-alias-gmail-2026/) is a forwarding address that sits between you and any service. You give out the alias; the service never sees your real address; all email forwards to your real inbox automatically.
 
-[Alt-ID](https://snipstack.io/blog/altid?sub=does-using-email-alias-protect-from-spam-2026__mid) is Surfshark's implementation of this. It's included with Surfshark subscriptions — no extra cost if you're already using Surfshark for VPN protection.
+[Alt-ID](https://snipstack.io/blog/altid?sub=does-using-email-alias-protect-from-spam-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s implementation of this. It's included with Surfshark subscriptions — no extra cost if you're already using Surfshark for VPN protection.
 
 ### What it does well
 
@@ -166,7 +166,7 @@ A permanent [email alias](https://snipstack.io/email-alias-gmail-2026/) is a for
 
 ### Where it falls short
 
-- Requires a Surfshark subscription (Alt-ID is bundled, not standalone)
+- Requires a Surfshark subscription (Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/), not standalone)
 - No custom domain support — aliases use Alt-ID's assigned domain
 - Some high-security services (banking, government portals) block known alias domains — use your real address for those
 
@@ -231,7 +231,7 @@ A properly deployed alias stops spam at the source for that alias. When you dele
 
 Yes. Aliases forward to whatever inbox you designate — Gmail, Outlook, Apple Mail, or any other provider. You manage everything from your existing inbox. The alias layer sits in front of it invisibly. You don't need to change your email provider.
 
-**What happens to emails I'm already receiving on my real address?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to emails I'm already receiving on my real address?**
 
 Aliases stop *future* exposure. Spam already arriving on your compromised real address won't be affected by a new alias system. For that existing spam, filtering or migrating to a fresh primary address are the options. Going forward, every new signup uses an alias — so the real address gradually stops accumulating new sources.
 
@@ -255,7 +255,7 @@ When you receive a forwarded email and reply using your normal mail client, your
 
 Filters, unsubscribing, and Gmail tricks are damage control. They manage spam after your address is already out there. None of them prevent your address from being shared, sold, or breached in the first place.
 
-An email alias is the only method that changes the underlying equation: your real address never enters the system, and any address that does can be deleted the moment it turns bad.
+An [email alias](https://snipstack.io/email-alias-when-privacy-policy-is-suspicious-2026/) is the only method that changes the underlying equation: your real address never enters the system, and any address that does can be deleted the moment it turns bad.
 
 If you're getting 50+ spam emails a day, no combination of the first four methods will bring that number to zero. The alias system will — because it operates at the source, not the symptom.
 
