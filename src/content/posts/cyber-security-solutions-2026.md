@@ -120,7 +120,7 @@ Yes. The One bundle includes real-time antivirus scanning alongside its VPN and 
 The VPN in [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) has no data caps and no speed throttling. You can use it for streaming, browsing, and general traffic without hitting a wall. This is different from the limited VPNs bundled with Norton and McAfee entry-level plans.
 
 **How many devices can I use with [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)?**
-Unlimited simultaneous connections on a single subscription. This covers phones, laptops, tablets, and desktops regardless of operating system.
+Unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). This covers phones, laptops, tablets, and desktops regardless of operating system.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my data if Surfshark has a breach?**
 Surfshark operates a verified no-logs VPN policy — your browsing activity is not stored on their servers. Independent audits have confirmed this. There is no traffic log to expose. This is categorically different from what a traditional antivirus company holds about your system activity.

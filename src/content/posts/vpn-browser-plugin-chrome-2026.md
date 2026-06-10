@@ -156,7 +156,7 @@ Now that the terminology is clear, the choice is straightforward:
 
 **Full VPN app:** Installs at the OS level. Protects all traffic from all apps on your device. Required for anything beyond browser sessions.
 
-Most people searching for a "VPN plugin for Chrome" actually need a full VPN app with a Chrome extension companion — because what they want to protect is not just their browser. Surfshark delivers both from a single subscription: the Chrome extension handles browser-level controls while the system app covers every other process on your device.
+Most people searching for a "VPN plugin for Chrome" actually need a full VPN app with a Chrome extension companion — because what they want to protect is not just their browser. Surfshark delivers both from a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/): the Chrome extension handles browser-level controls while the system app covers every other process on your device.
 
 ---
 

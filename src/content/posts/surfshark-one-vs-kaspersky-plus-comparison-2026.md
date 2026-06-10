@@ -180,7 +180,7 @@ No. The US Department of Commerce banned Kaspersky from selling and updating its
 No. [Surfshark One bundle](https://snipstack.io/surfshark-one-bundle-worth-it-2026/)s VPN, antivirus, breach monitoring (Surfshark Alert), and private search (Surfshark Search), but does not include a password manager. If a password manager is important to you, Bitwarden offers a capable free option that pairs well with Surfshark One without adding cost. [See what Surfshark One includes here.](/blog/one?sub=surfshark-one-vs-kaspersky-plus-comparison-2026__faq)
 
 **How many devices [does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) cover?**
-Unlimited simultaneous connections on a single subscription — Windows, Mac, iOS, Android, and Linux. Kaspersky Plus caps at five devices on the Plus tier. For households with more than five devices, Surfshark One delivers better coverage per dollar.
+Unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — Windows, Mac, iOS, Android, and Linux. Kaspersky Plus caps at five devices on the Plus tier. For households with more than five devices, Surfshark One delivers better coverage per dollar.
 
 **Is Surfshark's antivirus as strong as Kaspersky's?**
 Kaspersky has a longer antivirus lab-test track record and historically stronger detection scores. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is newer but competent, with a lighter performance footprint. The comparison is less relevant for US users since Kaspersky's database is no longer updating.

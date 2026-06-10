@@ -171,7 +171,7 @@ Do not turn the computer off and on repeatedly. Disconnect it from your Wi-Fi ne
 
 Yes. Download the installer from the official site, click through a few straightforward prompts, and the software starts protecting your computer. There are no complex settings to configure. If you encounter any issues, Surfshark's customer support is available via live chat around the clock.
 
-**Q: Do I need separate ransomware protection software on top of antivirus?**
+**Q: Do I need separate [ransomware protection software](https://snipstack.io/ransomware-protection-software-2026/) on top of antivirus?**
 
 A quality [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) includes behavioral detection (which notices ransomware-like activity) is generally sufficient for most home users. Surfshark Antivirus includes this layer, so you do not need to purchase additional specialized tools.
 

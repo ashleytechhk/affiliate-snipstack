@@ -36,7 +36,7 @@ Data brokers pull from a wide range of sources:
 - **App data** — mobile apps that share location, device IDs, or contact lists with third-party data platforms
 - **Third-party list sales** — other companies that sell the email addresses of their own customers or users
 
-The result is a profile that includes your name, email address, physical address, phone number, estimated income, purchasing habits, and more. That profile gets sold to marketers, advertisers, and anyone else who buys targeted contact lists.
+The result is a profile that includes your name, email address, physical address, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), estimated income, purchasing habits, and more. That profile gets sold to marketers, advertisers, and anyone else who buys targeted contact lists.
 
 There are hundreds of data brokers operating legally in the US and EU. The largest — Acxiom, Epsilon, LexisNexis, Experian Marketing Services — process billions of records. Smaller brokers buy from the larger ones and resell at a markup. By the time a marketing agency buys a list with your address, it may have passed through four or five different brokers.
 

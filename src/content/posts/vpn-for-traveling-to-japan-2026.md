@@ -97,7 +97,7 @@ Several VPNs work in Japan. These are the specific reasons Surfshark earns the t
 
 ### Unlimited Devices on One Plan
 
-You are traveling with a phone, probably a laptop, possibly a tablet. Your partner may be traveling with you. Surfshark covers all of them simultaneously under a single subscription — no per-device fees, no connection limits. Most competing VPNs cap you at five or six.
+You are traveling with a phone, probably a laptop, possibly a tablet. Your partner may be traveling with you. Surfshark covers all of them simultaneously under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — no per-device fees, no connection limits. Most competing VPNs cap you at five or six.
 
 ### Speed That Handles Streaming
 

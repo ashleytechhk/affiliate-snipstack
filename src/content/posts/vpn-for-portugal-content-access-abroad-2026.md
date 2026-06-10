@@ -90,7 +90,7 @@ Server location matters for speed. Surfshark's Portuguese servers are in Lisbon 
 
 ### Unlimited Simultaneous Connections
 
-Surfshark places no cap on how many devices you can connect at once. Your phone, laptop, partner's tablet, and living room TV can all connect to Portugal simultaneously on a single subscription. For households managing multiple streaming services, this removes all the juggling.
+Surfshark places no cap on how many devices you can connect at once. Your phone, laptop, partner's tablet, and living room TV can all connect to Portugal simultaneously on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). For households managing multiple streaming services, this removes all the juggling.
 
 ### NordLynx Protocol
 

@@ -177,7 +177,7 @@ A small increase in latency is possible, but with a fast VPN like Surfshark usin
 
 **Can I use the same Surfshark account on my router and my phone at the same time?**
 
-Yes. Surfshark allows unlimited simultaneous connections, so you can run it on your router (covering your Switch), your phone, laptop, and any other devices all at once on a single subscription.
+Yes. Surfshark allows unlimited simultaneous connections, so you can run it on your router (covering your Switch), your phone, laptop, and any other devices all at once on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 **Do I need to use the VPN every time I play games I purchased from a regional account?**
 

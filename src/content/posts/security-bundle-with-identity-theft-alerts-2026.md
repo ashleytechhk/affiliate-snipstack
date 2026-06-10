@@ -178,7 +178,7 @@ Surfshark's antivirus is notably lighter on system resources. It was built witho
 
 ### How many devices does [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) Bundle cover?
 
-Unlimited devices on a single subscription — Windows, Mac, iOS, Android, and Linux. One plan protects every device in your home, without tiered pricing based on device count. This is a material difference from Norton 360, where device limits push you into higher tiers, and from McAfee plans that vary by subscription level.
+Unlimited devices on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — Windows, Mac, iOS, Android, and Linux. One plan protects every device in your home, without tiered pricing based on device count. This is a material difference from Norton 360, where device limits push you into higher tiers, and from McAfee plans that vary by subscription level.
 
 ### Is this a good time to switch, or should I wait out my current subscription?
 

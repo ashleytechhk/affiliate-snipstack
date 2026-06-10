@@ -139,7 +139,7 @@ Avast's subsidiary Jumpshot was found to have collected and sold granular browsi
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) on all my devices at once?
 
-Yes. Surfshark One allows unlimited simultaneous connections — every device in your household can run the [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) concurrently on a single subscription with no per-device limit. This includes Windows, macOS, Android, iOS, and browser extensions.
+Yes. Surfshark One allows unlimited simultaneous connections — every device in your household can run the [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) concurrently on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) with no per-device limit. This includes Windows, macOS, Android, iOS, and browser extensions.
 
 ### How long is the money-back window?
 

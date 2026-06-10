@@ -155,7 +155,7 @@ Some forums block known alias domains. Alt-ID uses a domain that is less likely 
 
 **Is an [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) the same as a VPN for [email privacy](https://snipstack.io/email-privacy-after-facebook-data-leak-2026/)?**
 
-No — they solve different problems. A VPN hides your IP address and encrypts your internet traffic. An [email alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) hides your email address from the services and people you share it with. For public forum privacy, you likely want both: a VPN so your IP is not exposed in forum logs and metadata, and an alias so your email is not harvested from your posts. Surfshark provides both in a single subscription. [Learn more about Alt-ID here](/blog/altid?sub=mask-email-address-on-public-forums-2026__faq).
+No — they solve different problems. A VPN hides your IP address and encrypts your internet traffic. An [email alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) hides your email address from the services and people you share it with. For public forum privacy, you likely want both: a VPN so your IP is not exposed in forum logs and metadata, and an alias so your email is not harvested from your posts. Surfshark provides both in a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). [Learn more about Alt-ID here](/blog/altid?sub=mask-email-address-on-public-forums-2026__faq).
 
 **How long does it take to set up a masked alias before posting on a forum?**
 

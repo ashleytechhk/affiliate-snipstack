@@ -110,7 +110,7 @@ Suites are built to work as a coordinated system. The antivirus knows about the 
 
 Separate tools almost always license per-device. A password manager at $3/month for one device, a VPN at $5/month for up to six devices, an antivirus at $40/year for one device — the math compounds quickly for households with multiple phones, tablets, and laptops.
 
-Most competitive suites now cover unlimited devices under a single subscription.
+Most competitive suites now cover unlimited devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ### Control and Transparency
 

@@ -163,7 +163,7 @@ A: CleanWeb is a feature built into Surfshark VPN. When you connect to Surfshark
 
 **Q: Can I use this on my phone as well as my Chromebook?**
 
-A: Yes. Surfshark runs on Android, iOS, and Chrome OS. A single subscription covers all your devices simultaneously. So you can protect your Chromebook at school and your phone at home with the same account.
+A: Yes. Surfshark runs on Android, iOS, and Chrome OS. A [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers all your devices simultaneously. So you can protect your Chromebook at school and your phone at home with the same account.
 
 ---
 

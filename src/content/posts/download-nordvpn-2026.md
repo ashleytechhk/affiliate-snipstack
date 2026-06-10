@@ -184,7 +184,7 @@ NordVPN maintains streaming-optimised servers that work with major platforms. St
 
 ### How many devices can I use NordVPN on simultaneously?
 
-NordVPN allows 10 simultaneous connections on a single subscription. If you have more devices than that — or want to cover a full household — Surfshark allows unlimited simultaneous connections on one plan, at a lower monthly cost.
+NordVPN allows 10 simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). If you have more devices than that — or want to cover a full household — Surfshark allows unlimited simultaneous connections on one plan, at a lower monthly cost.
 
 ### Is it legal to use NordVPN?
 

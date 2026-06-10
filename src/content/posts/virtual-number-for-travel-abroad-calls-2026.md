@@ -147,7 +147,7 @@ Anyone who calls or texts the number after you disable it gets no response — t
 Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-personal-use-2026/) is legal. Whether a specific platform permits it in their terms depends on that platform's policies. Review the terms of any app you use. Surfshark's own Terms of Service require that Alt-Number not be used to violate other platforms' rules or applicable law. **[See Surfshark Alt-Number plans here](/blog/altnumber?sub=virtual-number-for-travel-abroad-calls-2026__faq)**.
 
 **Is Alt-Number included in my Surfshark subscription, or is it a separate purchase?**
-Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside Alt-ID, the [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) tool. No separate purchase is required. You get both the VPN and the [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/) under a single subscription.
+Alt-Number is included with Surfshark subscription plans as part of the Alternative ID feature set — alongside Alt-ID, the [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) tool. No separate purchase is required. You get both the VPN and the [virtual number](https://snipstack.io/virtual-number-that-expires-after-use-2026/) under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ---
 

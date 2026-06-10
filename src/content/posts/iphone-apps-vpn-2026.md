@@ -150,7 +150,7 @@ Rarely, and with significant trade-offs. Free VPN apps typically impose data cap
 
 ### How many devices can I use with one iPhone VPN subscription?
 
-It varies by provider. Surfshark, PIA, IPVanish, and Windscribe all offer unlimited simultaneous connections on a single subscription. NordVPN allows 10 devices, ExpressVPN allows 8. For households sharing a subscription, Surfshark's unlimited policy has the best economics.
+It varies by provider. Surfshark, PIA, IPVanish, and Windscribe all offer unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). NordVPN allows 10 devices, ExpressVPN allows 8. For households sharing a subscription, Surfshark's unlimited policy has the best economics.
 
 ### Which iPhone VPN protocol should I use for streaming?
 

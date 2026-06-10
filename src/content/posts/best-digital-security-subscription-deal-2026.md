@@ -84,7 +84,7 @@ What it isn't is a complete digital security subscription. There is no built-in 
 
 ### [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle
 
-The [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) Bundle was designed for exactly this audience — people who want a single subscription that replaces the Norton or McAfee stack without the bloat tax.
+The [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) Bundle was designed for exactly this audience — people who want a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) that replaces the Norton or McAfee stack without the bloat tax.
 
 What's included:
 

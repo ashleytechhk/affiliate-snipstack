@@ -165,7 +165,7 @@ Yes. Surfshark has native apps for both iOS and Android. Connect to a Hong Kong 
 
 ### How many devices can I connect at once?
 
-Surfshark allows unlimited simultaneous device connections on a single subscription. There is no device cap. You can have your phone, laptop, tablet, and television all connected to Hong Kong servers at the same time under one account.
+Surfshark allows unlimited simultaneous device connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). There is no device cap. You can have your phone, laptop, tablet, and television all connected to Hong Kong servers at the same time under one account.
 
 ### What if TVB Anywhere or myTV SUPER blocks the VPN?
 

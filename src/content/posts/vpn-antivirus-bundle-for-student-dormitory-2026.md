@@ -169,7 +169,7 @@ Almost certainly not, and likely the reverse. Norton's background processes are 
 
 ### How many devices [does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) cover in a dorm?
 
-Unlimited simultaneous connections on a single subscription. Laptop, phone, tablet, gaming device — all covered. If you split the cost with a roommate, both of your full device sets are covered under the same plan without additional fees.
+Unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Laptop, phone, tablet, gaming device — all covered. If you split the cost with a roommate, both of your full device sets are covered under the same plan without additional fees.
 
 ### Is the VPN in Norton 360 good enough for dorm use?
 

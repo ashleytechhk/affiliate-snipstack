@@ -172,7 +172,7 @@ USB drive threats are more commonly aimed at Windows computers, but Macs are not
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) cost?
 
-Plans start under $3 a month when billed annually. A single subscription covers multiple devices, meaning your computer, a tablet, and a family member's phone can all be protected under one plan. [See current pricing here.](/blog/antivirus?sub=antivirus-with-usb-drive-auto-scan-2026__faq)
+Plans start under $3 a month when billed annually. A [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers multiple devices, meaning your computer, a tablet, and a family member's phone can all be protected under one plan. [See current pricing here.](/blog/antivirus?sub=antivirus-with-usb-drive-auto-scan-2026__faq)
 
 ---
 

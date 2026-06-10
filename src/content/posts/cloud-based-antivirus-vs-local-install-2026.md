@@ -150,7 +150,7 @@ Possibly — but worth checking. Ask them to confirm: Is the subscription still 
 
 **Does cloud-based antivirus work on iPhones and tablets, not just computers?**
 
-Yes. Most modern cloud-based antivirus programs — including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) — support multiple device types: Windows PCs, Macs, Android phones, and iPhones. A single subscription often covers several devices at once, which means you can protect your computer, your phone, and a shared family tablet under one account.
+Yes. Most modern cloud-based antivirus programs — including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) — support multiple device types: Windows PCs, Macs, Android phones, and iPhones. A [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) often covers several devices at once, which means you can protect your computer, your phone, and a shared family tablet under one account.
 
 ---
 

@@ -170,7 +170,7 @@ The honest answer depends on your setup and goal.
 - Your primary use case is privacy when outside the home (router VPN only helps on your home network)
 - You are on an older mesh system with limited CPU that would throttle your speeds significantly
 
-**The cost perspective:** Surfshark's current pricing is among the lowest of major VPN providers, and unlimited connections means a single subscription covers the router-level connection plus individual app connections on every device. If the subscription savings from streaming pricing arbitrage offset even a fraction of the VPN cost, the math is straightforward.
+**The cost perspective:** Surfshark's current pricing is among the lowest of major VPN providers, and unlimited connections means a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers the router-level connection plus individual app connections on every device. If the subscription savings from streaming pricing arbitrage offset even a fraction of the VPN cost, the math is straightforward.
 
 > **Get Surfshark — router setup guides included, unlimited devices**
 > Whole-home VPN coverage for the price of one subscription.

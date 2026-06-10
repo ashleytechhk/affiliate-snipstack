@@ -155,7 +155,7 @@ Rarely. The core course content — video lectures, quizzes, exercises, transcri
 
 Yes, measurably. Ad scripts — particularly video ads — run JavaScript that keeps the CPU active. Reducing the number of ad network calls means fewer background processes and lower battery consumption during long study sessions.
 
-**Is using an [ad blocker](https://snipstack.io/ad-blocker-for-opera-browser-2026/) against Duolingo's or Udemy's terms of service?**
+**[Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) [ad blocker](https://snipstack.io/ad-blocker-for-opera-browser-2026/) against Duolingo's or Udemy's terms of service?**
 
 Terms of service vary and change frequently. Filtering network requests on your own device is generally not actionable by any platform. Platforms may detect blocking and show prompts, but using a VPN-level filter is transparent to the app layer.
 

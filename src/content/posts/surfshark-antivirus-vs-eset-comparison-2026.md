@@ -31,7 +31,7 @@ Spoiler: ESET is the stronger pure antivirus. Surfshark wins the broader value e
 | Real-time malware protection | Yes | Yes |
 | Independent lab certification | AV-Test certified | AV-Test Top Product (Feb 2026) |
 | Cloud-based threat updates | Every 3 hours | Continuous (LiveGrid) |
-| Ransomware protection | Yes | Yes (Ransomware Shield) |
+| [Ransomware protection](https://snipstack.io/ransomware-protection-software-2026/) | Yes | Yes (Ransomware Shield) |
 | Exploit Blocker | No | Yes |
 | Hardware firewall | No | Yes (Essential+) |
 | Anti-phishing | Yes | Yes |

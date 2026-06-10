@@ -149,7 +149,7 @@ Messages sent to a cancelled Alt-Number either bounce or reach nothing — there
 
 Yes. Unlike Google Voice (US only) or Burner (US and Canada only), [Surfshark Alt-Number](/blog/altnumber?sub=anonymous-number-for-medical-appointments-2026__faq) offers numbers from multiple countries. This matters both for international daters and for anyone outside the US who needs a number that passes verification on US-based services.
 
-**Is using an anonymous number for healthcare registration legal?**
+**[Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) anonymous number for healthcare registration legal?**
 
 Yes. You're providing a real, functional contact number — it just isn't your primary line. Healthcare providers require a working contact number so they can reach you; Alt-Number fulfills that requirement. You're reachable on it. You're not misrepresenting anything.
 

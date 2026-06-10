@@ -157,7 +157,7 @@ Yes. Surfshark unblocks Netflix in the same key markets — US, UK, Japan — at
 
 ### How many devices can I use with ExpressVPN?
 
-ExpressVPN allows 8 simultaneous connections per account. This covers most individual users but can be limiting for households with multiple people and devices. Surfshark has no device limit — a single subscription covers every phone, tablet, laptop, and TV in your home.
+ExpressVPN allows 8 simultaneous connections per account. This covers most individual users but can be limiting for households with multiple people and devices. Surfshark has no device limit — a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers every phone, tablet, laptop, and TV in your home.
 
 ### Will a VPN slow down my Netflix streaming?
 

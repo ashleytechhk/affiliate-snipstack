@@ -142,7 +142,7 @@ Some do, significantly. McAfee's Android background services are among the highe
 
 ### Can I use one antivirus subscription across multiple Android phones?
 
-Most paid apps are per-device or capped — Norton Mobile Security covers 1 device on the base plan, Bitdefender Mobile Security starts at 1–3 devices. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) covers unlimited devices on a single subscription, which makes it the practical choice for households with multiple Android phones plus tablets and other devices.
+Most paid apps are per-device or capped — Norton Mobile Security covers 1 device on the base plan, Bitdefender Mobile Security starts at 1–3 devices. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) covers unlimited devices on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), which makes it the practical choice for households with multiple Android phones plus tablets and other devices.
 
 ### What is the difference between antivirus and a [security bundle](https://snipstack.io/security-bundle-for-crypto-investors-2026/) like [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/)?
 

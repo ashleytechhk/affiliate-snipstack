@@ -148,7 +148,7 @@ Connecting to a VPN server in a region with lower Netflix pricing can allow you 
 Both use WireGuard-based protocols as defaults, and speed tests show comparable performance. On most Android devices and connection types, the difference is not perceptible during streaming.
 
 **How many devices can I use with Surfshark?**
-Surfshark allows unlimited simultaneous device connections on a single subscription. NordVPN allows 10. For households with multiple Android devices, Surfshark's policy is clearly more flexible.
+Surfshark allows unlimited simultaneous device connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). NordVPN allows 10. For households with multiple Android devices, Surfshark's policy is clearly more flexible.
 
 **[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) have a kill switch on Android?**
 Yes. Surfshark's Android app includes a kill switch that cuts your internet connection if the VPN drops, preventing your real IP from being exposed. The feature is available in the app settings under Connectivity.

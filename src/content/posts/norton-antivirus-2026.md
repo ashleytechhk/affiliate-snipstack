@@ -87,7 +87,7 @@ Modern security is not just about blocking malware. Data brokers harvest your na
 - **CleanWeb** — blocks ads, trackers, malware URLs, and phishing sites at the DNS level across all your devices
 - **Surfshark Search** — a private, non-personalized search engine that does not track your queries
 
-None of these require separate purchases. They are in the single subscription. For a user who is already paying Norton $80/year and separately paying for a VPN subscription, consolidating to [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) often results in a net saving while adding coverage.
+None of these require separate purchases. They are in the [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). For a user who is already paying Norton $80/year and separately paying for a VPN subscription, consolidating to [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) often results in a net saving while adding coverage.
 
 ---
 

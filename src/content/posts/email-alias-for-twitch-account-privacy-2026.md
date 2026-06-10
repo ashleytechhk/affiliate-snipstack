@@ -63,7 +63,7 @@ Alt-ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefen
 - The ability to reply from the alias so senders never see your real address
 - One-click alias deletion when an address gets compromised
 - New alias generation at any time without changing your actual email
-- Integration with Surfshark's [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) in a single subscription
+- Integration with Surfshark's [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) in a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/)
 
 ### Why Twitch Users Specifically Benefit
 

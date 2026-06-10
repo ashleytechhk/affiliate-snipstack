@@ -148,7 +148,7 @@ For some services, yes. Many streaming platforms now require a payment method re
 
 ### Can I use the same Surfshark account on multiple devices?
 
-Yes. Surfshark allows unlimited simultaneous device connections on a single subscription. You can run it on your Firestick, phone, laptop, and tablet concurrently.
+Yes. Surfshark allows unlimited simultaneous device connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). You can run it on your Firestick, phone, laptop, and tablet concurrently.
 
 **[Start your Surfshark subscription — works across all your devices →](/blog/vpn?sub=vpn-for-firestick-setup-guide-2026__faq)**
 

@@ -144,7 +144,7 @@ A quality paid VPN has minimal impact on speeds for typical research tasks like 
 University remote access portals (EZproxy, Shibboleth, etc.) use your institutional credentials, not your IP address. A personal commercial VPN does not interact with these systems — you would log in with your university credentials as normal. The VPN only affects how your IP address appears to external sites.
 
 **How many devices can I use Surfshark on?**
-Surfshark allows unlimited simultaneous connections on a single subscription. This covers your desktop, laptop, tablet, and phone without any additional cost or configuration juggling.
+Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). This covers your desktop, laptop, tablet, and phone without any additional cost or configuration juggling.
 
 ---
 

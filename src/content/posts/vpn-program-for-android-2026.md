@@ -127,7 +127,7 @@ For an everyday Android user — someone who wants to protect themselves on publ
 - **WireGuard by default.** The app uses WireGuard as its primary protocol on Android. Battery performance and reconnection speed are both solid.
 - **Compatible with always-on VPN.** Surfshark's Android app works correctly with Android's system-level always-on VPN toggle, including the "Block connections without VPN" system kill switch.
 - **Audited no-logs policy.** Verified by Deloitte. The server infrastructure is RAM-only — no persistent disk storage means no data to hand over even under a court order.
-- **Unlimited devices on a single subscription.** Your Android phone, tablet, and anything else you own are all covered.
+- **Unlimited devices on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).** Your Android phone, tablet, and anything else you own are all covered.
 - **CleanWeb.** Built-in ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/), no extra subscription required.
 - **30-day money-back.** Try it, test the always-on VPN, run a DNS leak check, and get a refund if anything does not work as expected.
 

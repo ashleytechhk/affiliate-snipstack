@@ -103,7 +103,7 @@ Several VPNs serve the consumer and business market. Here is why Surfshark is a 
 
 ### Unlimited Simultaneous Devices
 
-Most accountants juggle at least a laptop, a tablet, and a smartphone. Many also use a home desktop. Surfshark places no limit on simultaneous device connections under a single subscription. Competing services typically cap connections at five or six.
+Most accountants juggle at least a laptop, a tablet, and a smartphone. Many also use a home desktop. Surfshark places no limit on simultaneous device connections under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Competing services typically cap connections at five or six.
 
 ### Strict No-Logs Policy
 

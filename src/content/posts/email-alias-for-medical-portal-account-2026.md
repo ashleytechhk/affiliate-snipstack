@@ -158,7 +158,7 @@ You do not have to, but it is good practice. If you use one alias across multipl
 
 ### Is Surfshark Alt-ID included in the base Surfshark plan?
 
-Alt-ID is included in **[Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/)**, which bundles VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), alert monitoring, and Alt-ID into a single subscription. It is not available as a standalone product. If you already use a VPN and are looking for [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) functionality, the bundle pricing typically works out cheaper than paying for a VPN and a separate alias service independently.
+Alt-ID is included in **[Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/)**, which bundles VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), alert monitoring, and Alt-ID into a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). It is not available as a standalone product. If you already use a VPN and are looking for [email alias](https://snipstack.io/email-alias-for-insurance-comparison-sites-2026/) functionality, the bundle pricing typically works out cheaper than paying for a VPN and a separate alias service independently.
 
 ---
 

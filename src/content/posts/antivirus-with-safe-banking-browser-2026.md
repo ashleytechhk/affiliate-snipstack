@@ -122,7 +122,7 @@ Here is how it maps to the threats described in this guide:
 | Your email in a data breach | Alert — notifies you if your details are leaked |
 | Malware already on your device | Full device scan on demand or scheduled |
 
-Plans start at under $3 a month when billed annually, and a single subscription covers all your devices — your computer, phone, and tablet. There is no need to buy separate protection for each.
+Plans start at under $3 a month when billed annually, and a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers all your devices — your computer, phone, and tablet. There is no need to buy separate protection for each.
 
 Setup takes about five minutes: download the app, log in, and it runs quietly in the background. You do not need to do anything technical. When it detects something, it tells you in plain language and handles the problem for you.
 

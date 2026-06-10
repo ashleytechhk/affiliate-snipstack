@@ -151,7 +151,7 @@ Savings depend on current regional pricing differentials. Based on 2026 rates, s
 
 ### Can I use one Surfshark account for my whole household?
 
-Yes. Surfshark allows unlimited simultaneous connections on a single subscription. All family members and all devices can connect at the same time without extra cost.
+Yes. Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). All family members and all devices can connect at the same time without extra cost.
 
 ### What is the difference between NordVPN and Surfshark for streaming speed?
 

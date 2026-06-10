@@ -203,7 +203,7 @@ At home on your own password-protected Wi-Fi, a VPN is less critical than on pub
 
 ### Do I need a different plan for each family member?
 
-No. Surfshark allows multiple devices on one plan, so you and a spouse or family member can both be protected under a single subscription. This makes it particularly good value compared to buying separate licenses for each person.
+No. Surfshark allows multiple devices on one plan, so you and a spouse or family member can both be protected under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). This makes it particularly good value compared to buying separate licenses for each person.
 
 ---
 

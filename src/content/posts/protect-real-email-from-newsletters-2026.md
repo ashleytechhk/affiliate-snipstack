@@ -149,7 +149,7 @@ Alt-ID aliases are standard email addresses and work with virtually all newslett
 
 They stop arriving — along with any spam. If there's a specific newsletter you want to keep, move it to a fresh alias before deleting the old one. Update your subscription email via the newsletter's preference center, then delete the compromised alias.
 
-**Is using an alias to sign up for newsletters against the rules?**
+**[Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) alias to sign up for newsletters against the rules?**
 
 No. You're providing a valid, functional email address. Newsletters send to it; you receive them. The fact that it forwards through an alias is invisible to the sender and does not violate any standard terms of service. [Alt-ID](/blog/altid?sub=protect-real-email-from-newsletters-2026__faq) generates real, working email addresses.
 

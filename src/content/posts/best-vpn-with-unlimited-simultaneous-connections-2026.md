@@ -82,7 +82,7 @@ Surfshark has offered unlimited simultaneous connections since its launch, not a
 
 ### Device Coverage
 
-Connect every device in your household: Windows PCs, Macs, iPhones, Android phones, Android TV, Fire TV Stick, Apple TV, Linux machines, and routers. Surfshark's app supports all major platforms, and a single subscription covers all of them with no cap on concurrent usage.
+Connect every device in your household: Windows PCs, Macs, iPhones, Android phones, Android TV, Fire TV Stick, Apple TV, Linux machines, and routers. Surfshark's app supports all major platforms, and a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers all of them with no cap on concurrent usage.
 
 This is particularly useful if you are setting up a household-level arbitrage strategy — one person handles the VPN account, every family member's device is covered, and no one has to disconnect to let someone else in.
 

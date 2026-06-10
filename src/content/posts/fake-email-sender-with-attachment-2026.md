@@ -183,7 +183,7 @@ Use your alias as the recipient and a secondary email account (or a colleague's 
 
 ## Frequently Asked Questions
 
-**Is using an [email alias](https://snipstack.io/email-alias-gmail-2026/) to test forms or sign up for services legal?**
+**[Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) [email alias](https://snipstack.io/email-alias-gmail-2026/) to test forms or sign up for services legal?**
 Yes. Using an [email alias](https://snipstack.io/email-alias-sign-2026/) for privacy protection and form testing is legal in virtually all jurisdictions. It is a standard practice among developers and privacy-conscious users. The laws that govern email address misuse are about deception and fraud — using a legitimate forwarding alias does not implicate either.
 
 **Can Alt ID receive emails with file attachments?**

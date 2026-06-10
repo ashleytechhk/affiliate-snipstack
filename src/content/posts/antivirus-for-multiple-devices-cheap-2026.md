@@ -135,7 +135,7 @@ You do not need to wait for a new subscription to reduce your risk immediately. 
 
 **Step 4 — Enable automatic software updates on every device.** Software updates patch the security holes that criminals exploit. Set each phone, tablet, and computer to update automatically so these patches are applied as soon as they are available. Look for "Automatic Updates" in your device's settings.
 
-**Step 5 — Add [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) covers all devices at once.** The steps above reduce risk significantly. Adding a single subscription that protects every device in your home closes the remaining gaps — real-time scanning, scam-site blocking, and breach alerts running on every screen, not just your main computer.
+**Step 5 — Add [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-threats-2026/) covers all devices at once.** The steps above reduce risk significantly. Adding a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) that protects every device in your home closes the remaining gaps — real-time scanning, scam-site blocking, and breach alerts running on every screen, not just your main computer.
 
 ---
 

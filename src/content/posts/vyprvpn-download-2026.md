@@ -148,7 +148,7 @@ VyprVPN unblocks Netflix and a range of other streaming services, though compati
 
 ### Can I use VyprVPN on all my devices at once?
 
-VyprVPN's standard plan allows 30 simultaneous connections — enough for most households. Surfshark imposes no device limit, which matters if you want to cover every family member's devices under a single subscription without counting.
+VyprVPN's standard plan allows 30 simultaneous connections — enough for most households. Surfshark imposes no device limit, which matters if you want to cover every family member's devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) without counting.
 
 ### Is VyprVPN safe to download?
 

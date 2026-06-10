@@ -133,7 +133,7 @@ Yes. A carrier-backed number from Alt-Number works across platforms that require
 
 ### [Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [virtual number](https://snipstack.io/virtual-number-for-home-service-workers-2026/) make my X account truly private?
 
-A [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) addresses phone number exposure specifically. It does not mask your IP address (use a VPN for that), your device fingerprint, your posting patterns, or the metadata X collects from your app sessions. For a fuller privacy posture on X, the combination to reach for is: a [virtual number for signup](/blog/altnumber?sub=virtual-number-for-twitter-x-account-signup-2026__faq) plus a VPN active during sessions. Surfshark's One plan includes both in a single subscription.
+A [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) addresses phone number exposure specifically. It does not mask your IP address (use a VPN for that), your device fingerprint, your posting patterns, or the metadata X collects from your app sessions. For a fuller privacy posture on X, the combination to reach for is: a [virtual number for signup](/blog/altnumber?sub=virtual-number-for-twitter-x-account-signup-2026__faq) plus a VPN active during sessions. Surfshark's One plan includes both in a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ### What happens to my X account if I cancel Alt-Number?
 

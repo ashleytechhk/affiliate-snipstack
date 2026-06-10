@@ -111,7 +111,7 @@ Setup on Android or iOS takes about two minutes:
 3. Enable CleanWeb
 4. Optionally connect to a VPN server for full traffic routing alongside DNS filtering
 
-CleanWeb is included in all Surfshark subscription tiers — it is not a separate purchase. You get the DNS-level ad blocking plus the VPN functionality for streaming, privacy, and location switching as a single subscription.
+CleanWeb is included in all Surfshark subscription tiers — it is not a separate purchase. You get the DNS-level ad blocking plus the VPN functionality for streaming, privacy, and location switching as a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ---
 

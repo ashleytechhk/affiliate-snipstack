@@ -143,7 +143,7 @@ Yes. Streaming services charge different prices in different countries. By conne
 
 ### How many devices can I connect with ProtonVPN vs Surfshark?
 
-ProtonVPN's Plus plan allows up to 10 simultaneous connections. Surfshark allows unlimited simultaneous connections on a single subscription — every device in your household is covered with no additional cost.
+ProtonVPN's Plus plan allows up to 10 simultaneous connections. Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — every device in your household is covered with no additional cost.
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work with smart TVs?
 

@@ -135,7 +135,7 @@ Significantly less than Norton or McAfee. Surfshark's architecture uses a lightw
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) on all my devices with one subscription?
 
-Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) covers unlimited devices under a single subscription — phones, laptops, tablets, and desktops. This is a meaningful advantage over legacy suites that cap at 5–10 devices and charge for extra licences.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) covers unlimited devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — phones, laptops, tablets, and desktops. This is a meaningful advantage over legacy suites that cap at 5–10 devices and charge for extra licences.
 
 ### Is it safe to uninstall Norton before installing a new [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)?
 

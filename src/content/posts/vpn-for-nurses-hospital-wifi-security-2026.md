@@ -145,7 +145,7 @@ It significantly reduces the risk. Encrypted traffic cannot be read by someone i
 
 **Q: Can I use one Surfshark account for my work phone and home devices?**
 
-Yes. Surfshark allows unlimited simultaneous connections. You can protect every personal device you own under a single subscription.
+Yes. Surfshark allows unlimited simultaneous connections. You can protect every personal device you own under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 **Q: How do the streaming subscription savings actually work?**
 

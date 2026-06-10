@@ -90,7 +90,7 @@ One clean subscription. No upsells during setup. No pop-ups asking you to upgrad
 |---|---|---|
 | Virus & malware scanning | Yes | Yes |
 | Dangerous website warnings | Basic | Full (CleanWeb) |
-| Ransomware protection | No (paid only) | Yes |
+| [Ransomware protection](https://snipstack.io/ransomware-protection-software-2026/) | No (paid only) | Yes |
 | Webcam protection | No (paid only) | Yes |
 | Data breach alerts | No | Yes (Alert) |
 | VPN included | No | Yes (unlimited) |

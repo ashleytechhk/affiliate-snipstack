@@ -85,7 +85,7 @@ Think of it like a lock on your front door. It keeps intruders out of the front 
 
 To protect your media server, you need security software installed on that device itself — or a security tool that monitors your entire network for threats.
 
-**[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-home-media-server-2026__mid)** covers multiple devices under a single subscription, including the Windows or Mac computer that may be running your media server software. It scans in real time, catches threats as they arrive, and does not require any technical knowledge to set up or maintain.
+**[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-home-media-server-2026__mid)** covers multiple devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), including the Windows or Mac computer that may be running your media server software. It scans in real time, catches threats as they arrive, and does not require any technical knowledge to set up or maintain.
 
 ---
 

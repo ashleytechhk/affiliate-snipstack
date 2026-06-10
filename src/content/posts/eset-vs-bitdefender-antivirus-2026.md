@@ -93,7 +93,7 @@ Bitdefender uses slightly more system resources than ESET, which can matter on v
 | Phishing and scam site blocking | Good | Excellent |
 | System performance impact | Very Light | Light |
 | Virus detection accuracy | Excellent | Excellent |
-| Ransomware protection | Good | Excellent |
+| [Ransomware protection](https://snipstack.io/ransomware-protection-software-2026/) | Good | Excellent |
 | Price (entry-level) | ~$40/year | ~$30/year |
 | Ease of setup for non-tech users | Moderate | Easy |
 

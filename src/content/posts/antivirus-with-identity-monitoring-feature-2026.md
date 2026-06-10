@@ -132,7 +132,7 @@ For most seniors who want solid, affordable, and straightforward protection with
 
 ### What is the difference between antivirus and identity monitoring?
 
-Antivirus software scans your device for malicious files and blocks harmful software from running. Identity monitoring watches external databases — breach records, fraud marketplaces — for your personal information. Both address different threats. Antivirus protects your device; identity monitoring protects your data. A combined product handles both from a single subscription.
+Antivirus software scans your device for malicious files and blocks harmful software from running. Identity monitoring watches external databases — breach records, fraud marketplaces — for your personal information. Both address different threats. Antivirus protects your device; identity monitoring protects your data. A combined product handles both from a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 **[See tools that cover both →](/blog/antivirus?sub=antivirus-with-identity-monitoring-feature-2026__faq)**
 

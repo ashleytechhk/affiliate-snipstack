@@ -146,7 +146,7 @@ A VPN lets you appear to be in a different country, which allows you to access r
 
 ### How many devices can I run OpenVPN on simultaneously?
 
-The raw OpenVPN client has no device limit — it is software you install anywhere. The limit comes from your server. If you self-host with OpenVPN Access Server's free tier, you get 2 simultaneous connections. Paid commercial VPNs vary: Mullvad caps at 5, NordVPN at 10, and Surfshark allows unlimited simultaneous connections on a single subscription.
+The raw OpenVPN client has no device limit — it is software you install anywhere. The limit comes from your server. If you self-host with OpenVPN Access Server's free tier, you get 2 simultaneous connections. Paid commercial VPNs vary: Mullvad caps at 5, NordVPN at 10, and Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ### Is OpenVPN safe to use in 2026?
 

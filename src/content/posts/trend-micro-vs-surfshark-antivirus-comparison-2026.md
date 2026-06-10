@@ -91,7 +91,7 @@ Here is how the two products compare on the features that matter most to seniors
 |---|---|---|
 | Virus and malware protection | Yes | Yes |
 | Web threat blocking | Yes | Yes |
-| Ransomware protection | Yes | Yes |
+| [Ransomware protection](https://snipstack.io/ransomware-protection-software-2026/) | Yes | Yes |
 | [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) WiFi | No | Yes |
 | Breach alerts for your data | No | Yes |
 | Ad and tracker blocker | Partial | Yes |

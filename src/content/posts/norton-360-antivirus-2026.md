@@ -63,7 +63,7 @@ This is where the gap widens most visibly. Norton's bundled VPN (Norton Secure V
 - **Device cap** tied to your plan — usually 5
 - **Past logging controversy** — Norton Secure VPN was found to collect usage data by default until the policy was updated
 
-Surfshark's VPN is the company's core product — it's what they built their reputation on. You get 3,200+ servers across 100+ countries, WireGuard and OpenVPN protocol support, a verified no-logs policy, and unlimited simultaneous connections on a single subscription. Running it on your phone, laptop, partner's laptop, and smart TV at the same time is a non-issue.
+Surfshark's VPN is the company's core product — it's what they built their reputation on. You get 3,200+ servers across 100+ countries, WireGuard and OpenVPN protocol support, a verified no-logs policy, and unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Running it on your phone, laptop, partner's laptop, and smart TV at the same time is a non-issue.
 
 If VPN is a meaningful part of why you bought a [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/), Surfshark's version is simply better.
 

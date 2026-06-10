@@ -130,7 +130,7 @@ One subscription covers every device you own simultaneously. Netflix throttling 
 
 ### Pricing
 
-On a 2-year plan, Surfshark runs approximately $2.19/month. For comparison: NordVPN is around $3.39/month, ExpressVPN over $6/month. At Surfshark's price point, the VPN cost is well below the monthly savings from a single subscription arbitrage win.
+On a 2-year plan, Surfshark runs approximately $2.19/month. For comparison: NordVPN is around $3.39/month, ExpressVPN over $6/month. At Surfshark's price point, the VPN cost is well below the monthly savings from a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) arbitrage win.
 
 ---
 

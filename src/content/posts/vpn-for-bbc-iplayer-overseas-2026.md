@@ -80,7 +80,7 @@ Surfshark is the budget-conscious pick — but budget doesn't mean weak. It has 
 
 The trade-off is that Surfshark's speeds can occasionally be less consistent than ExpressVPN's on congested servers, though for standard HD iPlayer streams this rarely matters in practice.
 
-**Best for:** Cost-conscious users, families or flatmates sharing a single subscription, and anyone who wants reliable UK access without the premium price tag.
+**Best for:** Cost-conscious users, families or flatmates sharing a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), and anyone who wants reliable UK access without the premium price tag.
 
 [Compare current VPN pricing and deals →](/blog/vpn?sub=vpn-for-bbc-iplayer-overseas-2026__mid)
 

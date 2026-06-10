@@ -97,7 +97,7 @@ The practical answer for heavy-spam users:
 3. **Remove your real address from existing broker lists** — only Alt ID's bundle addresses this.
 4. **Stop trackers from re-harvesting your address** — only Alt ID's bundle addresses this.
 
-For step 3 and 4, Proton Pass has no equivalent in a single subscription. You would need Proton Pass for aliases, Proton VPN separately for network protection, and a separate data removal service for broker opt-outs. Alt ID (via [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)+) combines all three.
+For step 3 and 4, Proton Pass has no equivalent in a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). You would need Proton Pass for aliases, Proton VPN separately for network protection, and a separate data removal service for broker opt-outs. Alt ID (via [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)+) combines all three.
 
 ![Inline device mockup: Alt ID dashboard showing multi-alias management for spam categories](/og/proton-pass-email-alias-review-2026-inline-2.png)
 

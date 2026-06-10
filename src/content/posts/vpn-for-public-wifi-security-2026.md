@@ -101,7 +101,7 @@ If the VPN connection drops unexpectedly — which can happen on unreliable publ
 
 ### Unlimited Devices on One Account
 
-Surfshark is one of the only major VPNs with no simultaneous connection limit. Your phone, laptop, tablet, and any other device can all run Surfshark at the same time on a single subscription. If you work from cafes regularly and switch between devices, this eliminates the "which device do I protect today" calculation.
+Surfshark is one of the only major VPNs with no simultaneous connection limit. Your phone, laptop, tablet, and any other device can all run Surfshark at the same time on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). If you work from cafes regularly and switch between devices, this eliminates the "which device do I protect today" calculation.
 
 ### NoBorders Mode for Restricted Networks
 

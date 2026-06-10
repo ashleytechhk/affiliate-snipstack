@@ -164,7 +164,7 @@ It forwards to your real inbox through the alias. Click the confirmation link as
 
 One alias for all newsletters works and is the easiest starting point. One alias per newsletter is more powerful — when a specific publication sells your address, you can identify exactly who leaked it and delete only that alias without affecting your other newsletter subscriptions. [Alt ID's](/blog/altid?sub=email-alias-for-newsletter-subscriptions-2026__faq) unlimited alias allowance makes the per-newsletter approach practical.
 
-**Is using an alias for newsletter sign-ups against the rules?**
+**[Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) alias for newsletter sign-ups against the rules?**
 
 No. You're providing a valid, functional email address — the newsletter can deliver to it, and you receive every issue. That it routes through a forwarding layer is invisible to the sender and does not violate standard newsletter terms of service.
 

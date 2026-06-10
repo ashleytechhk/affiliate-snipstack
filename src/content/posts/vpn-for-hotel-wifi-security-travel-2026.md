@@ -83,7 +83,7 @@ Not every VPN is built for this use case. When evaluating options, these factors
 
 ### Surfshark
 
-Surfshark allows **unlimited simultaneous device connections** on a single subscription — your laptop, phone, tablet, and a travel companion's phone can all run under one account at the same time. Its streaming unblock performance is reliable across Netflix, Disney+, and other major platforms, and its no-logs policy means it does not retain records of your activity.
+Surfshark allows **unlimited simultaneous device connections** on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — your laptop, phone, tablet, and a travel companion's phone can all run under one account at the same time. Its streaming unblock performance is reliable across Netflix, Disney+, and other major platforms, and its no-logs policy means it does not retain records of your activity.
 
 On price, Surfshark is competitive — particularly on monthly plans, where the cost difference versus ExpressVPN is most pronounced. For a two-week trip where you want everything covered without managing connection slots, the unlimited-device model is a genuine practical advantage, not just a marketing point.
 

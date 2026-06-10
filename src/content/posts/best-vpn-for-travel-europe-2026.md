@@ -161,7 +161,7 @@ A VPN reduces the likelihood of location-based flags by presenting your home IP 
 
 ### How many devices can I connect at once with Surfshark?
 
-Surfshark allows unlimited simultaneous device connections on a single subscription. This means you can have your laptop, phone, tablet, and any other devices all connected to the VPN at the same time under one account — a practical advantage over competitors that cap connections at five or six devices.
+Surfshark allows unlimited simultaneous device connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). This means you can have your laptop, phone, tablet, and any other devices all connected to the VPN at the same time under one account — a practical advantage over competitors that cap connections at five or six devices.
 
 ### Do I need a VPN if most sites use HTTPS already?
 

@@ -155,7 +155,7 @@ Not on its own. A standard VPN encrypts your connection but doesn't scan files o
 
 ### How many devices can I use with one VPN subscription?
 
-It varies by provider. Surfshark allows unlimited simultaneous device connections on a single subscription — useful if you want to protect your phone, laptop, tablet, and a family member's devices all at once.
+It varies by provider. Surfshark allows unlimited simultaneous device connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — useful if you want to protect your phone, laptop, tablet, and a family member's devices all at once.
 
 ---
 

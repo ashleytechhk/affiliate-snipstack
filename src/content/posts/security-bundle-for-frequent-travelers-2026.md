@@ -102,7 +102,7 @@ To be clear about trade-offs:
 
 **McAfee's unlimited device coverage** matches Surfshark on seat count, but its VPN has faced scrutiny for logging practices in the past, and the interface is objectively not designed for someone who needs to connect fast at an airport.
 
-For most frequent travelers — who need a VPN that is always on, a [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) that does not get in the way, and a single subscription that covers the laptop, the phone, and the tablet they carry — the [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) Bundle trade-offs favor the switch.
+For most frequent travelers — who need a VPN that is always on, a [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) that does not get in the way, and a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) that covers the laptop, the phone, and the tablet they carry — the [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) Bundle trade-offs favor the switch.
 
 ---
 

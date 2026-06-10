@@ -139,7 +139,7 @@ Yes. Surfshark maintains streaming-optimized servers and actively works to keep 
 
 ### How many devices can I connect simultaneously?
 
-NordVPN allows 10 simultaneous connections on a single subscription. Surfshark allows unlimited simultaneous connections — every device in your household can be connected at the same time with no additional cost.
+NordVPN allows 10 simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Surfshark allows unlimited simultaneous connections — every device in your household can be connected at the same time with no additional cost.
 
 ### Is it legal to use a VPN to access different regional pricing?
 

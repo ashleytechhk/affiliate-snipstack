@@ -116,7 +116,7 @@ What CleanWeb does for a YouTube-frustrated user is different but substantial:
 - Eliminates tracking pixels and analytics scripts YouTube uses to profile your viewing behavior
 - Blocks malware domains and phishing URLs that increasingly appear in YouTube comment spam and external links
 - Provides an encrypted VPN tunnel that improves privacy on public Wi-Fi
-- Covers every app, every browser, every device under a single subscription
+- Covers every app, every browser, every device under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/)
 
 For users spending significant screen time outside of YouTube — which is most people — CleanWeb closes the gaps that no browser extension can reach.
 

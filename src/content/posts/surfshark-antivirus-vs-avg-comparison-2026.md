@@ -181,7 +181,7 @@ Yes. Surfshark Antivirus provides real-time virus scanning, web protection, and 
 
 ### Is AVG Free actually free?
 
-The basic version is free, but the features most seniors actually need — phishing website blocking, email protection, ransomware protection — require an upgrade to AVG Internet Security, which is a paid subscription.
+The basic version is free, but the features most seniors actually need — phishing website blocking, email protection, [ransomware protection](https://snipstack.io/ransomware-protection-software-2026/) — require an upgrade to AVG Internet Security, which is a paid subscription.
 
 ### Will I lose my files if I uninstall AVG and switch?
 

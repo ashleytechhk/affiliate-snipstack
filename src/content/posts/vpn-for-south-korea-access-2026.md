@@ -212,7 +212,7 @@ Yes, but minimally with a quality VPN. Surfshark's WireGuard protocol and mainta
 
 ### Can I use one Surfshark subscription for my whole household?
 
-Yes. Surfshark allows unlimited simultaneous connections on a single subscription. Every device in your household — phones, laptops, tablets, smart TVs, streaming sticks — can connect to South Korean servers at the same time on one account.
+Yes. Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Every device in your household — phones, laptops, tablets, smart TVs, streaming sticks — can connect to South Korean servers at the same time on one account.
 
 ### How is South Korean Netflix different from other regions?
 

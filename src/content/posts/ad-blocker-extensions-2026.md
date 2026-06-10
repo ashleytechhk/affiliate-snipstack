@@ -154,7 +154,7 @@ Most well-designed [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/)s s
 
 ### Is Surfshark CleanWeb really an [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/), or just a VPN?
 
-It is both. [CleanWeb](/blog/surfshark?sub=ad-blocker-extensions-2026__faq) is a feature of the Surfshark VPN app that filters ad and tracker domains at the DNS and network level. Because it runs inside the VPN tunnel, it covers all apps on your device simultaneously. You get VPN privacy and ad blocking from a single subscription.
+It is both. [CleanWeb](/blog/surfshark?sub=ad-blocker-extensions-2026__faq) is a feature of the Surfshark VPN app that filters ad and tracker domains at the DNS and network level. Because it runs inside the VPN tunnel, it covers all apps on your device simultaneously. You get VPN privacy and ad blocking from a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ### Can I use AdGuard and a VPN at the same time on Android?
 

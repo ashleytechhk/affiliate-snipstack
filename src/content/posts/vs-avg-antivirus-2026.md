@@ -133,7 +133,7 @@ Surfshark does not typically offer a free tier, but it includes a 30-day money-b
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) on my phone and tablet as well as my laptop?
 
-Yes. One Bundle covers unlimited simultaneous devices. Install it on every device you own under a single subscription — there is no per-device fee.
+Yes. One Bundle covers unlimited simultaneous devices. Install it on every device you own under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — there is no per-device fee.
 
 ### Does AVG sell or share my data?
 

@@ -172,7 +172,7 @@ Savings depend on your home region and target region. US subscribers paying $13.
 
 ### Can one Surfshark account cover all my devices for Discovery+?
 
-Yes. Surfshark allows unlimited simultaneous connections on a single subscription. Every device in your household — phones, laptops, tablets, smart TVs, streaming sticks — can run through Surfshark at the same time at no extra cost.
+Yes. Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Every device in your household — phones, laptops, tablets, smart TVs, streaming sticks — can run through Surfshark at the same time at no extra cost.
 
 ### Does a VPN slow down Discovery+ streaming?
 

@@ -154,7 +154,7 @@ Surfshark maintains streaming-optimized servers designed to access regional cont
 
 ### How many devices can I use simultaneously?
 
-Surfshark allows unlimited simultaneous connections on a single subscription. Mullvad caps connections at five devices per account, with the option to purchase additional device slots at extra cost. For individuals, five is usually sufficient. For households covering multiple people's phones, laptops, and a shared TV, Surfshark's unlimited policy removes any accounting headache.
+Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Mullvad caps connections at five devices per account, with the option to purchase additional device slots at extra cost. For individuals, five is usually sufficient. For households covering multiple people's phones, laptops, and a shared TV, Surfshark's unlimited policy removes any accounting headache.
 
 ### Does Mullvad have a free plan?
 

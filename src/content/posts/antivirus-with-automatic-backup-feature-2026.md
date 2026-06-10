@@ -161,7 +161,7 @@ If your files are already encrypted by ransomware, antivirus software cannot dec
 
 ### Can I use this software on my tablet or phone as well as my computer?
 
-Most paid antivirus products, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/), allow installation on multiple devices under a single subscription. This means you can protect your Windows PC, your tablet, and your phone all with one plan. Check the specific plan details when signing up.
+Most paid antivirus products, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/), allow installation on multiple devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). This means you can protect your Windows PC, your tablet, and your phone all with one plan. Check the specific plan details when signing up.
 
 ### What should I do if I get a pop-up saying my computer is infected?
 

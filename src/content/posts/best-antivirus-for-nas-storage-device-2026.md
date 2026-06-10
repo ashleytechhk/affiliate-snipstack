@@ -82,7 +82,7 @@ This is the single most important step. Cover every device in the household:
 - Your smartphone (iPhone or Android)
 - Any tablets used at home
 
-[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) allows you to protect multiple devices under a single subscription. Download the app, sign in, and it starts working immediately. No complicated settings to configure.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) allows you to protect multiple devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Download the app, sign in, and it starts working immediately. No complicated settings to configure.
 
 ### Step 2 — Change the NAS Administrator Password
 

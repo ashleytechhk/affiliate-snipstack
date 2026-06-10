@@ -180,7 +180,7 @@ For most seniors, **[Surfshark One](https://snipstack.io/surfshark-one-vs-indivi
 
 ### Is Sophos Home Free actually free? What is the catch?
 
-Sophos Home Free is genuinely free for one computer — no credit card required. The catch is coverage: you only protect one device, there is no VPN, and some advanced features (like advanced ransomware protection configuration) are reserved for the paid Premium tier. For a single home desktop, it provides real-time antivirus at no cost. For anyone using multiple devices or public networks, the gaps in the free version are meaningful.
+Sophos Home Free is genuinely free for one computer — no credit card required. The catch is coverage: you only protect one device, there is no VPN, and some advanced features (like advanced [ransomware protection](https://snipstack.io/ransomware-protection-software-2026/) configuration) are reserved for the paid Premium tier. For a single home desktop, it provides real-time antivirus at no cost. For anyone using multiple devices or public networks, the gaps in the free version are meaningful.
 
 ### What is a VPN and why does a senior need one?
 

@@ -126,7 +126,7 @@ The alias number is specifically the best way to protect phone number privacy â€
 
 ## FAQ
 
-**Is using an alias number against dating app terms of service?**
+**[Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) alias number against dating app terms of service?**
 
 Most dating app terms of service restrict fake profiles and bots, not the phone number used for verification. Using a real mobile alias number to verify your account is no different than using any real mobile number. You are a real person with a real account â€” the alias is simply a forwarding layer in front of your actual number.
 

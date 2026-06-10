@@ -180,7 +180,7 @@ A quality VPN on WireGuard adds minimal overhead, typically reducing connection 
 
 ### Can one Surfshark account cover my whole household's Crunchyroll access?
 
-Yes. Surfshark allows unlimited simultaneous connections on a single subscription. Multiple people can watch Crunchyroll through the VPN on different devices at the same time, all under one account.
+Yes. Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Multiple people can watch Crunchyroll through the VPN on different devices at the same time, all under one account.
 
 ### How much can I save on Crunchyroll with a VPN?
 

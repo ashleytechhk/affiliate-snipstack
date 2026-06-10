@@ -158,7 +158,7 @@ Yes. Surfshark has native apps for iOS and Android. You can connect to an Italia
 
 ### How many devices can I use at once?
 
-Surfshark allows unlimited simultaneous connections on a single subscription. There is no device cap. You can have your phone, laptop, tablet, and TV all connected to Italian servers at the same time.
+Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). There is no device cap. You can have your phone, laptop, tablet, and TV all connected to Italian servers at the same time.
 
 ### What if an Italian streaming platform detects and blocks the VPN?
 

@@ -98,7 +98,7 @@ If the VPN connection drops — which happens on unreliable hotel and conference
 
 ### Unlimited Devices Under One Account
 
-Surfshark places no limit on simultaneous connections. A single subscription covers your work laptop, personal laptop, smartphone, and tablet — all running concurrently. Lawyers who switch between devices throughout a workday, or who staff associates also needing protection, get full coverage without managing multiple accounts or hitting connection ceilings.
+Surfshark places no limit on simultaneous connections. A [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers your work laptop, personal laptop, smartphone, and tablet — all running concurrently. Lawyers who switch between devices throughout a workday, or who staff associates also needing protection, get full coverage without managing multiple accounts or hitting connection ceilings.
 
 ### MultiHop for Elevated Privacy Needs
 

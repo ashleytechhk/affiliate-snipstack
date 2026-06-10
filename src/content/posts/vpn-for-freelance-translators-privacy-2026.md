@@ -103,7 +103,7 @@ A kill switch automatically cuts your internet connection if the VPN drops unexp
 
 ### Unlimited Device Connections
 
-Freelancers typically work across a laptop, phone, and sometimes a tablet. A VPN that limits simultaneous connections forces you to choose which device gets protection. Surfshark allows unlimited devices on a single subscription.
+Freelancers typically work across a laptop, phone, and sometimes a tablet. A VPN that limits simultaneous connections forces you to choose which device gets protection. Surfshark allows unlimited devices on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ### Server Coverage
 
