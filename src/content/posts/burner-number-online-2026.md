@@ -12,7 +12,7 @@ You matched. The conversation is going well. They ask for your number.
 
 Here is the thing: handing a stranger your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) after one good Hinge conversation is a bigger commitment than most people treat it as. That number is tied to your name in carrier records, reverse-lookup databases, and probably three social media accounts. If things go wrong — a bad date, an overly persistent texter, someone who turns outright hostile — your "real" number follows you forever.
 
-Getting a [burner number](https://snipstack.io/top-burner-number-2026/) online sidesteps this entirely. You give out a number that works like a normal phone number, receive texts and calls through it, and kill it the moment you need to move on. No second SIM. No [second phone](https://snipstack.io/second-phone-number-app-free-2026/). No awkward "sorry, can't talk right now" when they call your work line by mistake.
+Getting a [burner number](https://snipstack.io/top-burner-number-2026/) online sidesteps this entirely. You give out a number that works like a normal [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), receive texts and calls through it, and kill it the moment you need to move on. No second SIM. No [second phone](https://snipstack.io/second-phone-number-app-free-2026/). No awkward "sorry, can't talk right now" when they call your work line by mistake.
 
 This guide walks through the exact steps to get one set up today.
 

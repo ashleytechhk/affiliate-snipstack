@@ -165,7 +165,7 @@ Yes, as long as you buy directly from the official company website or a trusted 
 
 ### What should I do if I think my computer is already infected?
 
-First, do not panic. Disconnect from the internet by unplugging your network cable or turning off your Wi-Fi. Then run a full scan with whatever antivirus software you have installed. If you do not have antivirus installed, ask a trusted family member to help you download and install one from an official website. Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) that appears on a pop-up warning on your screen — those are almost always scams. Real antivirus alerts never ask you to call a phone number.
+First, do not panic. Disconnect from the internet by unplugging your network cable or turning off your Wi-Fi. Then run a full scan with whatever antivirus software you have installed. If you do not have antivirus installed, ask a trusted family member to help you download and install one from an official website. Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) that appears on a pop-up warning on your screen — those are almost always scams. Real antivirus alerts never ask you to call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/).
 
 ---
 

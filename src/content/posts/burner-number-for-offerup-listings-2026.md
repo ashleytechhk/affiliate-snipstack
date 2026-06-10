@@ -28,7 +28,7 @@ OfferUp puts your real [phone number](https://snipstack.io/phone-number-privacy-
 
 Most people treat their OfferUp selling account and their dating life as completely separate. They aren't.
 
-When you post a listing, OfferUp attaches your profile — name, photo, and seller ratings — to every buyer inquiry. Many sellers also add a phone number directly in the listing description to speed up communication. That's where the problem starts.
+When you post a listing, OfferUp attaches your profile — name, photo, and seller ratings — to every buyer inquiry. Many sellers also add a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) directly in the listing description to speed up communication. That's where the problem starts.
 
 Dating app users frequently encounter what researchers call "cross-platform identification": someone you matched with (or unmatched with) tracks your real identity by searching your phone number across platforms. Your number is the thread. Your OfferUp listings reveal your neighborhood. Your listing patterns reveal your schedule. Your profile photo links back to everything else.
 

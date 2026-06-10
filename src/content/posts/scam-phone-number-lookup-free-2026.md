@@ -71,7 +71,7 @@ Before downloading anything, try this: copy the unknown number and paste it dire
 
 ### Whitepages — Good for US Number Background
 
-Whitepages lets you enter any US phone number and get a basic result — who the number is registered to, what city it is from, and whether it is a landline or mobile number. The basic result is free; a full background check requires a paid subscription.
+Whitepages lets you enter any US [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) and get a basic result — who the number is registered to, what city it is from, and whether it is a landline or mobile number. The basic result is free; a full background check requires a paid subscription.
 
 **What is free:** Owner name (often), location, line type (mobile/landline/VoIP), and a spam rating based on community reports.
 

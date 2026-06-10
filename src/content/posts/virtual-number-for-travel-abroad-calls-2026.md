@@ -54,7 +54,7 @@ Because it is your real mobile number, you cannot cleanly revoke it. You can blo
 
 ### Stalking That Bridges the Distance
 
-This is where the risk becomes physical. Researchers studying dating app safety incidents note that phone number exchange is consistently identified as the inflection point in stalking cases that escalate from online contact to real-world incidents. The path from "I have your number" to "I know your home address" requires no technical sophistication — it requires a free website and a few minutes.
+This is where the risk becomes physical. Researchers studying dating app safety incidents note that [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) exchange is consistently identified as the inflection point in stalking cases that escalate from online contact to real-world incidents. The path from "I have your number" to "I know your home address" requires no technical sophistication — it requires a free website and a few minutes.
 
 When you are abroad and share your real number, the person you shared it with now has a permanent tool for locating you, even after you return home. Distance does not protect you. The reverse lookup runs the same way from any location, against the same databases, returning the same results.
 

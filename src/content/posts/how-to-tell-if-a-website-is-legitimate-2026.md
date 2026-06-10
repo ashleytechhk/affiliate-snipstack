@@ -160,7 +160,7 @@ Start with ScamAdviser (free tier at scamadviser.com) for a legitimacy score, th
 
 **Q: What makes a website look fake?**
 
-Common indicators: a domain registered very recently, no verifiable contact information, a "contact us" page with only a web form and no phone number or address, prices dramatically below market rate, spelling errors in legal pages, and social media links that lead to empty or newly created accounts. A scam shop can look convincing at first glance — the domain age and contact verification are the checks that catch most of them.
+Common indicators: a domain registered very recently, no verifiable contact information, a "contact us" page with only a web form and no [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) or address, prices dramatically below market rate, spelling errors in legal pages, and social media links that lead to empty or newly created accounts. A scam shop can look convincing at first glance — the domain age and contact verification are the checks that catch most of them.
 
 **Q: Can a website have good reviews and still be a scam?**
 

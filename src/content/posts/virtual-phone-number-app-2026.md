@@ -98,7 +98,7 @@ Pricing is slightly higher than Hushed for equivalent usage, and [Burner number]
 
 **The privacy power-user's choice.**
 
-MySudo is the most comprehensive privacy tool on this list, but it comes with complexity and cost that most casual daters will not need. The concept is "Sudo identities" — you create multiple complete identities, each with a phone number, email address, and browser. For someone with serious privacy concerns, it's a fortress.
+MySudo is the most comprehensive privacy tool on this list, but it comes with complexity and cost that most casual daters will not need. The concept is "Sudo identities" — you create multiple complete identities, each with a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), email address, and browser. For someone with serious privacy concerns, it's a fortress.
 
 For the average online dater, though, it's more gun than you need. The free plan gives you one Sudo with limited calls and messages. Paid plans start at around $1/month for basic use and scale up quickly. The real value proposition is for people who want to compartmentalize multiple aspects of their life — dating, freelance work, online shopping — into separate identities.
 

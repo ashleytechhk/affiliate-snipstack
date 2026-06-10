@@ -14,7 +14,7 @@ And yet, every dating app asks for it. Tinder. Hinge. Bumble. Grindr. They all w
 
 The assumption most people make is that the only alternative to your real SIM is a second physical SIM from a carrier. That assumption is wrong.
 
-In 2026, you can get a fully functional phone number — one that receives real calls and SMS messages — without ever buying a SIM card, visiting a carrier store, or signing any contract. This guide explains exactly how, and why it matters specifically for online daters.
+In 2026, you can get a fully functional [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — one that receives real calls and SMS messages — without ever buying a SIM card, visiting a carrier store, or signing any contract. This guide explains exactly how, and why it matters specifically for online daters.
 
 [**Get a working number without a SIM card today →**](/blog/altnumber?sub=how-to-use-virtual-number-without-sim-card-2026__above-fold)
 

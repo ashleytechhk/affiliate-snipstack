@@ -233,7 +233,7 @@ Surfshark Antivirus is the core package: real-time malware scanning, scam websit
 
 **What should I do if I see a scary pop-up saying my Mac is infected?**
 
-Do not click anything inside the pop-up. Do not call any phone number it shows. Press **Command + W** to close the browser tab, or close the whole browser window. Then open Surfshark Antivirus and run a scan. Real Apple security messages never appear as browser pop-ups and never ask you to call a phone number.
+Do not click anything inside the pop-up. Do not call any [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) it shows. Press **Command + W** to close the browser tab, or close the whole browser window. Then open Surfshark Antivirus and run a scan. Real Apple security messages never appear as browser pop-ups and never ask you to call a phone number.
 
 ---
 

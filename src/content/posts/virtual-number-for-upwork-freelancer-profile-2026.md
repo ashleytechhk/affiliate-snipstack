@@ -30,7 +30,7 @@ A [virtual number for](https://snipstack.io/virtual-number-for-google-account-ve
 
 Most people think of Upwork as a work platform. They forget that a work profile is a public profile.
 
-Your Upwork listing typically includes your full name, a photo, your city or region, and sometimes a phone number you provided during identity verification or added for client communication. Clients can see it. But so can anyone who finds the profile via a Google search.
+Your Upwork listing typically includes your full name, a photo, your city or region, and sometimes a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) you provided during identity verification or added for client communication. Clients can see it. But so can anyone who finds the profile via a Google search.
 
 Here is where the dating dimension enters. When you exchange numbers with a match on Tinder, Hinge, or Bumble, they now have a digit string. Reverse phone lookup services — many of them free or cheaply accessed — can return associated accounts, addresses, and profile names within seconds. If that number also appears on your Upwork profile (or was used to verify a Google account linked to it), the trail does not stop at your name. It ends at your portfolio, your work history, your city, and every client review you have ever received.
 

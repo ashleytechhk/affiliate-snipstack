@@ -59,7 +59,7 @@ Platforms that use third-party verification layers — Twilio Verify, Telesign, 
 
 If you need a US number, you have more options. If you need anything else, the list shrinks immediately.
 
-**Google Voice:** US numbers only. Requires a US phone number to sign up. No path for international users.
+**Google Voice:** US numbers only. Requires a US [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to sign up. No path for international users.
 
 **TextNow / TextFree:** US and Canada only. No flexibility on country.
 

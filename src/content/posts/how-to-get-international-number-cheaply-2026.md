@@ -12,7 +12,7 @@ A 2024 Pew Research survey found that **38% of online dating users** have experi
 
 That number has not gotten better. Dating apps make it easy to meet people. They do not make it easy to undo the moment you shared your personal [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) with someone who turned out to be the wrong kind of persistent.
 
-If you've ever blocked a number only to get a call from a new one, wondered whether someone had reverse-searched your phone number, or simply wanted to date without handing strangers the key to your entire digital identity — this guide is for you.
+If you've ever blocked a number only to get a call from a new one, wondered whether someone had reverse-searched your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), or simply wanted to date without handing strangers the key to your entire digital identity — this guide is for you.
 
 The fix is simpler than most people think: **get a separate, international number cheaply**, use it exclusively for dating, and keep your real number out of the equation entirely.
 

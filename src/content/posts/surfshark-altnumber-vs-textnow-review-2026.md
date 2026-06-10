@@ -22,7 +22,7 @@ If you have ever matched with someone and thought "I should give them my number 
 
 ---
 
-## Why Your Phone Number Is a Privacy Risk on Dating Apps
+## Why Your [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) Is a Privacy Risk on Dating Apps
 
 Most people think sharing a phone number is safer than sharing a social media profile. It feels more controlled. The reality is the opposite.
 

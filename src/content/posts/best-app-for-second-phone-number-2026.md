@@ -158,7 +158,7 @@ Messages sent to a cancelled Alt-Number stop arriving. There is no forwarding to
 
 **Is using a [second phone number](https://snipstack.io/second-phone-number-apk-2026/) for dating legal?**
 
-Yes. Using a real, functional alternate phone number for personal privacy is legal in virtually every jurisdiction. [Virtual phone number](https://snipstack.io/virtual-phone-number-2026/) services are mainstream products used for business lines, two-factor authentication, and exactly this kind of personal privacy management. You are providing a working number that receives calls and texts — you are not misrepresenting anything.
+Yes. Using a real, functional alternate [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) personal privacy is legal in virtually every jurisdiction. [Virtual phone number](https://snipstack.io/virtual-phone-number-2026/) services are mainstream products used for business lines, two-factor authentication, and exactly this kind of personal privacy management. You are providing a working number that receives calls and texts — you are not misrepresenting anything.
 
 **Does Alt-Number work outside the United States?**
 

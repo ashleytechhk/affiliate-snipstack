@@ -75,7 +75,7 @@ Surfshark's Scamcheck works at this layer — it evaluates links in real time as
 
 ### 4. Number Lookup Tools
 
-Some services let you search a phone number to see whether it has been reported as a scammer number. Sites like 800notes.com and NumberGuru aggregate user reports of scam calls and texts. These are useful for verifying whether a number that texted you is known to be fraudulent, though they rely on community reporting and may not catch newer scam numbers.
+Some services let you search a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to see whether it has been reported as a scammer number. Sites like 800notes.com and NumberGuru aggregate user reports of scam calls and texts. These are useful for verifying whether a number that texted you is known to be fraudulent, though they rely on community reporting and may not catch newer scam numbers.
 
 ### 5. Breach Monitoring (Upstream Prevention)
 

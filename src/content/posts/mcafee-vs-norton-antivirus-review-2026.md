@@ -213,7 +213,7 @@ For both McAfee and Norton, setup typically takes 10 to 15 minutes. You download
 
 ### What should I do if my computer gets a virus even with antivirus installed?
 
-Do not panic. Open your antivirus software and run a full scan. Follow the instructions it gives you — it will usually quarantine or remove the threat automatically. If you are unable to run a scan or the problem persists, call the antivirus company's support line. Both Norton and McAfee include a "virus removal guarantee" — they will help you clean your computer if their software missed something. Never call a phone number that appeared in a pop-up on your screen.
+Do not panic. Open your antivirus software and run a full scan. Follow the instructions it gives you — it will usually quarantine or remove the threat automatically. If you are unable to run a scan or the problem persists, call the antivirus company's support line. Both Norton and McAfee include a "virus removal guarantee" — they will help you clean your computer if their software missed something. Never call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) that appeared in a pop-up on your screen.
 
 ---
 

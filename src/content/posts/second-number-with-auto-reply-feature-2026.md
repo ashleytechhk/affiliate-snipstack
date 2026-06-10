@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 In 2023, a Pew Research study found that 46% of Americans who had used a dating app reported receiving unwanted contact after a match went wrong. That same year, the [National Do](https://snipstack.io/burner-number-dating-apps-2026/)mestic Violence Hotline documented a sharp rise in technology-facilitated stalking cases where the initial contact point was a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) shared through a dating platform. The victim gave out the number. The harasser kept it. Everything else followed from there.
 
-Giving your real phone number to someone you met online is one of the fastest ways to hand a stranger a thread that unravels your entire identity — home neighborhood, employer, relatives, social accounts. Reverse-lookup services like Spokeo and BeenVerified will do it for under five dollars.
+Giving your real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to someone you met online is one of the fastest ways to hand a stranger a thread that unravels your entire identity — home neighborhood, employer, relatives, social accounts. Reverse-lookup services like Spokeo and BeenVerified will do it for under five dollars.
 
 The solution has two parts: a [second number](https://snipstack.io/get-a-second-number-for-texting-2026/) that shields your real one, and an auto reply setup that handles unwanted contact without your personal number ever entering the picture.
 

@@ -46,7 +46,7 @@ That's the entry point Alt-Number addresses.
 
 ## Why Online Daters Are a High-Value Target
 
-Dating app users share more sensitive data than almost any other category of app user. You provide your real name, approximate location, age, photos, and phone number — often within the first week of signing up. That data sits in a database that may or may not be adequately secured.
+Dating app users share more sensitive data than almost any other category of app user. You provide your real name, approximate location, age, photos, and [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — often within the first week of signing up. That data sits in a database that may or may not be adequately secured.
 
 Between 2021 and 2024, several major dating platforms disclosed breaches or data incidents. Even apps that haven't been breached routinely sell anonymized (or not-so-anonymized) user data to third parties including data brokers. Once your number enters that ecosystem, it is sold and resold. There is no opt-out that actually works.
 

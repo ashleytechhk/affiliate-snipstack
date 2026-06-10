@@ -128,7 +128,7 @@ If you need a personal line that you know will end and you want the disposal to 
 
 **Multiple separate identities, each with their own number, email, and browser.**
 
-MySudo takes a different approach entirely. Rather than giving you a [second number](https://snipstack.io/second-number-for-discord-account-2026/), it lets you create up to nine separate Sudos — each with its own phone number, email address, and in-app browser. For personal use that genuinely needs hard walls between life areas (work, dating, family, marketplace, side hustle as distinct identities), it is the most thorough option on this list.
+MySudo takes a different approach entirely. Rather than giving you a [second number](https://snipstack.io/second-number-for-discord-account-2026/), it lets you create up to nine separate Sudos — each with its own [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), email address, and in-app browser. For personal use that genuinely needs hard walls between life areas (work, dating, family, marketplace, side hustle as distinct identities), it is the most thorough option on this list.
 
 The privacy model is serious: no ads, no data selling, end-to-end encryption for in-app calls. For someone managing multiple distinct personal contexts, it offers infrastructure that single-number services cannot match.
 

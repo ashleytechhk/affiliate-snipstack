@@ -111,7 +111,7 @@ Your real number stays clean.
 
 **Dating apps where you've matched and moved off-app.** The moment you share a number in direct conversation is the moment the in-app privacy protections end. That number is now in someone's phone. Alt-Number means they have a number you can disconnect, not your permanent identity.
 
-**Services that require phone verification but shouldn't need your real number.** Appointment booking platforms, wellness apps, subscription services — any service that asks for a phone number for "security" but that you don't trust entirely with your primary contact information.
+**Services that require phone verification but shouldn't need your real number.** Appointment booking platforms, wellness apps, subscription services — any service that asks for a [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) "security" but that you don't trust entirely with your primary contact information.
 
 **Repeat bad dates or uncomfortable situations.** Blocking someone stops future messages but doesn't remove your number from their contacts. Disabling an Alt-Number means their messages simply stop arriving — no confrontation, no blocking battle, clean separation.
 

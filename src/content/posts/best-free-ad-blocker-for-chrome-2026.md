@@ -24,7 +24,7 @@ If you want a single recommendation: **[Surfshark CleanWeb](https://snipstack.io
 
 ## Comparison Table
 
-| Tool | Type | Mobile Chrome Support | Tracker Blocking | Malware Blocking | Free Tier |
+| Tool | Type | Mobile Chrome Support | Tracker Blocking | [Malware Blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/) | Free Tier |
 |---|---|---|---|---|---|
 | [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) | VPN-layer | Full (all traffic) | Yes | Yes | Yes (with VPN trial) |
 | [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) | Browser extension | Limited on mobile | Yes | Partial | Fully free |

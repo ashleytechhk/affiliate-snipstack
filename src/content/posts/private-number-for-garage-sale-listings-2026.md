@@ -10,7 +10,7 @@ A buyer messages your [Facebook Marketplace](https://snipstack.io/facebook-marke
 
 That is the garage sale scenario. Now run the same film for a dating app. A match asks to switch to texting. You send your real number. Same reverse lookup. Same result. You wanted to grab coffee. They now know where you sleep.
 
-The mechanism is identical. The [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) you hand to a stranger on Marketplace and the phone number you share with a new match on Hinge are the same number — and they carry the same risk. A private number for garage sale listings is not a niche tool for people selling used furniture. It is exactly what online daters need in 2026.
+The mechanism is identical. The [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) you hand to a stranger on Marketplace and the [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) you share with a new match on Hinge are the same number — and they carry the same risk. A private number for garage sale listings is not a niche tool for people selling used furniture. It is exactly what online daters need in 2026.
 
 ![Why a private number for garage sale listings matters for online daters in 2026](/og/private-number-for-garage-sale-listings-2026.png)
 

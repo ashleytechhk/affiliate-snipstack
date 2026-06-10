@@ -147,7 +147,7 @@ Negligibly. Surfshark's WireGuard protocol is lightweight, and the added filteri
 Yes. They operate at different layers and do not conflict. CleanWeb filters at the VPN tunnel level across all apps; uBlock Origin filters inside the browser. Running both gives you broader total coverage than either alone.
 
 **What is CleanWeb 2.0 and is it available on mobile?**
-CleanWeb 2.0 adds cookie consent popup blocking and notification popup suppression on top of the standard ad, tracker, and malware blocking. As of mid-2026, these expanded features are most complete in Surfshark's browser extensions and desktop apps; mobile apps include the core blocking with cookie popup handling in ongoing rollout. CleanWeb is included at no extra cost in all Surfshark plans. [See current Surfshark plans →](/blog/adblock?sub=surfshark-cleanweb-ad-blocker-review-2026__faq)
+CleanWeb 2.0 adds cookie consent popup blocking and notification popup suppression on top of the standard ad, tracker, and [malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/). As of mid-2026, these expanded features are most complete in Surfshark's browser extensions and desktop apps; mobile apps include the core blocking with cookie popup handling in ongoing rollout. CleanWeb is included at no extra cost in all Surfshark plans. [See current Surfshark plans →](/blog/adblock?sub=surfshark-cleanweb-ad-blocker-review-2026__faq)
 
 ---
 

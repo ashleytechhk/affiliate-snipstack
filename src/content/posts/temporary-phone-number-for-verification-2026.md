@@ -29,7 +29,7 @@ If you're already paying for a Surfshark subscription, **Alt Number is the obvio
 | | Google Voice | TextNow | Hushed | Surfshark Alt Number |
 |---|---|---|---|---|
 | **Price** | Free | Free (ads) / ~$3/mo | ~$4–8/mo | Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
-| **Number type** | VoIP (real-ish) | VoIP (recycled pool) | VoIP | Real phone number |
+| **Number type** | VoIP (real-ish) | VoIP (recycled pool) | VoIP | Real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) |
 | **SMS verification reliability** | Good | Variable | Good | Good |
 | **Ads** | No | Yes (free tier) | No | No |
 | **Registration requires real number** | Yes (US only) | No | No | No |

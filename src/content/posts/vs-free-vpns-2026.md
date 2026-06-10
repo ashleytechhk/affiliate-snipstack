@@ -35,7 +35,7 @@ Free VPNs work — for checking your email on a coffee shop network. They don't 
 | Streaming access | Blocked by major platforms | Netflix, Disney+, BBC iPlayer, Hulu |
 | Server locations | 3–10 countries | 100+ countries |
 | Logs / sells your data | Often yes | Audited no-logs policy |
-| Ad/malware blocking | No | Yes (CleanWeb) |
+| Ad/[malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/) | No | Yes (CleanWeb) |
 | 24/7 customer support | No | Yes (live chat) |
 | Kill switch | Rarely | Yes |
 | Free trial / guarantee | N/A | 30-day money-back |

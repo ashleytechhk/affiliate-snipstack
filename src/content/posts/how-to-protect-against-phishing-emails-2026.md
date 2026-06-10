@@ -147,7 +147,7 @@ Follow these steps every time you receive an email that makes you feel worried, 
 
 **Step 4 — If anything looks wrong, delete it.** You do not need to investigate further. Delete and empty your trash.
 
-**Step 5 — If you are still worried about your account, contact the company directly.** Look up their phone number from a previous statement, your card, or their official website. Do not use the phone number in the email — that can also be fake.
+**Step 5 — If you are still worried about your account, contact the company directly.** Look up their [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) from a previous statement, your card, or their official website. Do not use the phone number in the email — that can also be fake.
 
 **Step 6 — If you clicked something already, act fast.** Change the password for that account immediately using the official website. If it involved your bank or credit card, call them straight away. Run a virus scan on your device.
 

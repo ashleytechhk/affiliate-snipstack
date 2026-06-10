@@ -34,7 +34,7 @@ What most people do not think about is how differently that risk plays out when 
 
 When you share your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) with someone overseas, that number does not stay in the conversation. It goes into their phone contacts. From there, it surfaces your WhatsApp, Telegram, and iMessage profile automatically — including your profile photo, your status message, and your last-seen timestamp. Services they use in their country may cross-reference the number against databases you have no visibility into.
 
-If the match turns out to be dishonest, manipulative, or worse — you cannot un-share a real phone number. You can block, but blocking is not erasure. The digits are already in their phone, already logged in messaging apps, already potentially shared with others.
+If the match turns out to be dishonest, manipulative, or worse — you cannot un-share a real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/). You can block, but blocking is not erasure. The digits are already in their phone, already logged in messaging apps, already potentially shared with others.
 
 ### International Calls on Your Primary Number Are Expensive
 

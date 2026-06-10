@@ -133,7 +133,7 @@ To make the comparison concrete, here are real examples of what separates a genu
 - Fake: "Verify payment NOW or your booking will be cancelled"
 
 **Contact information:**
-- Real: Directs you to the airline's official website and phone number
+- Real: Directs you to the airline's official website and [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)
 - Fake: Provides a fake customer service number or email
 
 **Booking reference behavior:**

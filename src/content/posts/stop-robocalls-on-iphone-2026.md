@@ -158,7 +158,7 @@ Here's the thing every guide on this topic eventually has to say: all the tools 
 
 The more durable fix is preventing your real number from reaching data brokers and app databases in the first place.
 
-Online daters are particularly exposed. Every time you sign up for a dating app, verify a phone number, or give your digits to a match early in the conversation, that number can end up in a database you never consented to. When those databases get sold, scraped, or breached, your number is in the wild.
+Online daters are particularly exposed. Every time you sign up for a dating app, verify a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), or give your digits to a match early in the conversation, that number can end up in a database you never consented to. When those databases get sold, scraped, or breached, your number is in the wild.
 
 **An alias number breaks this loop.**
 

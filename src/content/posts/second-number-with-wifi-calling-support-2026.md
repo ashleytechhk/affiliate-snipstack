@@ -6,7 +6,7 @@ heroImage: "/og/second-number-with-wifi-calling-support-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-In 2023, a woman in Oregon gave her [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to a man she met on Bumble. Three weeks after she stopped responding to his texts, he showed up at her apartment. He had never been told her address. He found it in under ten minutes using a reverse-lookup service from her phone number — the same number she had given him so they could "move off the app."
+In 2023, a woman in Oregon gave her [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to a man she met on Bumble. Three weeks after she stopped responding to his texts, he showed up at her apartment. He had never been told her address. He found it in under ten minutes using a reverse-lookup service from her [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — the same number she had given him so they could "move off the app."
 
 She had no idea her number was a map to her front door.
 

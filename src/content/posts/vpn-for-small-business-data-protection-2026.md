@@ -129,7 +129,7 @@ At approximately $2.19/month on the two-year plan with unlimited devices, Surfsh
 | Simultaneous devices | **Unlimited** | 10 | 8 |
 | Kill switch | Yes | Yes | Yes |
 | No-logs audit | Yes (Deloitte) | Yes (Deloitte) | Yes (KPMG) |
-| Ad/malware blocking | Yes (CleanWeb) | Yes (Threat Protection) | No |
+| Ad/[malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/) | Yes (CleanWeb) | Yes (Threat Protection) | No |
 | Obfuscation | NoBorders | Obfuscated servers | Lightway |
 | Price (approx. monthly) | **~$2.19/mo** | ~$3.69/mo | ~$6.67/mo |
 | Money-back guarantee | 30 days | 30 days | 30 days |

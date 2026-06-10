@@ -32,7 +32,7 @@ The Signal privacy paradox is real: the app people choose specifically for secur
 
 Signal markets itself as the privacy-first messaging app. It is the one tech journalists recommend when they want a secure channel. It is the app that security researchers use. The encryption is real.
 
-But here is the design decision that catches online daters off guard: Signal uses your phone number as your account identifier. Always has. When you register, you enter a number, Signal sends an SMS, you verify. That number is your Signal identity.
+But here is the design decision that catches online daters off guard: Signal uses your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) as your account identifier. Always has. When you register, you enter a number, Signal sends an SMS, you verify. That number is your Signal identity.
 
 This means two things for online daters:
 

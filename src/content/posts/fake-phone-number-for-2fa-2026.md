@@ -26,7 +26,7 @@ The term "fake phone number" is slightly misleading — what you actually need i
 
 ## Why Giving Dating Apps Your Real Number Is Riskier Than It Looks
 
-Dating apps ask for your phone number for two stated reasons: identity verification and two-factor authentication. Both sound reasonable. Neither justifies handing over a number that links to your full personal profile.
+Dating apps ask for your [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) two stated reasons: identity verification and two-factor authentication. Both sound reasonable. Neither justifies handing over a number that links to your full personal profile.
 
 Here is what actually happens when a dating app gets your number.
 

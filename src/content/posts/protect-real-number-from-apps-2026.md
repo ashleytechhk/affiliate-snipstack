@@ -172,7 +172,7 @@ Your dating app account is linked to the number at signup. If you replace your A
 
 ### Is it legal to use a [second number](https://snipstack.io/second-number-for-airbnb-host-account-2026/) on dating apps?
 
-Yes. Secondary phone numbers are a standard privacy tool used for business lines, online account management, and personal separation. Using one on a dating app is not a terms-of-service violation — the platforms only require a valid phone number that can receive an SMS code. They do not require that number to be your primary line. Alt-Number is operated by Surfshark, which operates as a licensed telecom service provider in its supported markets.
+Yes. Secondary [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s are a standard privacy tool used for business lines, online account management, and personal separation. Using one on a dating app is not a terms-of-service violation — the platforms only require a valid phone number that can receive an SMS code. They do not require that number to be your primary line. Alt-Number is operated by Surfshark, which operates as a licensed telecom service provider in its supported markets.
 
 ### Do I need to tell someone I am using a [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/)?
 

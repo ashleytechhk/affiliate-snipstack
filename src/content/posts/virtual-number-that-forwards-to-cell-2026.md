@@ -22,7 +22,7 @@ It is not small.
 
 Most people guard their passwords carefully. The same people hand out their mobile number to strangers on dating apps without hesitation.
 
-That asymmetry is backwards. A compromised password is painful to deal with. You change it and move on. A phone number that reaches the wrong person creates problems that are difficult to fully close.
+That asymmetry is backwards. A compromised password is painful to deal with. You change it and move on. A [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) that reaches the wrong person creates problems that are difficult to fully close.
 
 Here is what a mobile number actually unlocks for someone who wants to misuse it.
 

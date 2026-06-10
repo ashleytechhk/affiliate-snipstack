@@ -44,7 +44,7 @@ What a VPN does not do: it does not scan your device for malware, and it does no
 
 ## What is Dark Web Monitoring?
 
-The dark web is a part of the internet accessible only through specialist software. It is where criminals trade stolen data: email addresses, passwords, credit card numbers, social security numbers, passport scans. When a company suffers a data breach, the stolen records frequently end up listed for sale on dark web marketplaces.
+The dark web is a part of the internet accessible only through specialist software. It is where criminals trade stolen data: email addresses, passwords, credit card numbers, [social security](https://snipstack.io/social-security-scam-call-verify-2026/) numbers, passport scans. When a company suffers a data breach, the stolen records frequently end up listed for sale on dark web marketplaces.
 
 Dark web monitoring is a service that continually scans those marketplaces and breach databases. When your email address or other monitored credentials appear in a newly discovered dataset, the service sends you an alert. That alert is your window to act — change the compromised password, lock the affected account, notify your bank — before someone else does.
 

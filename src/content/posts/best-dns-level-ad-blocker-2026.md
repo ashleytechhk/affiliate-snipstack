@@ -117,7 +117,7 @@ If you want DNS-level ad blocking without a subscription, you can configure a pu
 |---|---|---|
 | [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) | dns.adguard-dns.com | Large blocklist, tracker + malware coverage |
 | NextDNS | Your unique URL from nextdns.io | Customizable dashboard, query logs |
-| Cloudflare 1.1.1.2 | security.cloudflare-dns.com | Fast, malware blocking (not ad blocking) |
+| Cloudflare 1.1.1.2 | security.cloudflare-dns.com | Fast, [malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/) (not ad blocking) |
 | Control D | Free tier available at controld.com | Customizable, free profiles available |
 
 For ad blocking specifically, **AdGuard DNS** or **NextDNS** are the right choices. Cloudflare's security DNS does not block ads — it only blocks malware domains.

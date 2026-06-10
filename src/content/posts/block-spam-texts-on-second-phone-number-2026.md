@@ -139,7 +139,7 @@ You simply stop using it, or request a replacement number through the app. Any m
 
 **Is a second phone number legal to use on dating apps?**
 
-Yes. Using a secondary phone number for privacy is entirely legal. Most dating apps only require a phone number for verification and communication — they don't require it to be your primary number. Always follow the app's terms of service, but using a secondary number for privacy is standard practice.
+Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) privacy is entirely legal. Most dating apps only require a phone number for verification and communication — they don't require it to be your primary number. Always follow the app's terms of service, but using a secondary number for privacy is standard practice.
 
 **Does Alt Number work on both iPhone and Android?**
 

@@ -38,7 +38,7 @@ Dating is that context. You are, functionally, a solo operator meeting strangers
 
 ### The Verification Trap
 
-Every major dating app — Tinder, Hinge, Bumble, OkCupid — requires phone number verification at signup. That verification number gets stored in their database, attached to your profile, and tied to your account history.
+Every major dating app — Tinder, Hinge, Bumble, OkCupid — requires [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) verification at signup. That verification number gets stored in their database, attached to your profile, and tied to your account history.
 
 When you hand your personal number to a dating app at signup, you are handing it to everyone who will ever breach, buy from, or partner with that app. Dating platforms have had significant data incidents. In 2021, a scraping operation exposed the personal data of over 700 million LinkedIn users, including phone numbers — demonstrating that even data not intended for public display ends up in bulk data sets. Dating platforms, which store explicitly personal information including photos, are even more attractive targets.
 

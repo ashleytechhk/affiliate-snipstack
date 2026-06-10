@@ -99,7 +99,7 @@ Repeat this for every email address you actively use. Most people have two to fo
 
 *[Screenshot placeholder: Add email flow in Surfshark Alert with verification step]*
 
-### Step 3 — Add Phone Numbers and Other Personal Data
+### Step 3 — Add [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s and Other Personal Data
 
 In the same Alert section, you can also add phone numbers and, in some regions, additional personal identifiers. These get cross-referenced against breach databases the same way email addresses do. If your phone number shows up in a leaked marketing database or a phishing list, you'll get an alert.
 

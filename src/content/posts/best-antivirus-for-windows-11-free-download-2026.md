@@ -210,7 +210,7 @@ Many guides tell you to buy a paid [antivirus with](https://snipstack.io/antivir
 
 | What matters to seniors | Windows Defender (Free) | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) (Paid) |
 |---|---|---|
-| Virus and malware blocking | Good | Excellent |
+| Virus and [malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/) | Good | Excellent |
 | Dangerous website warnings | Edge browser only | All browsers |
 | Email phishing protection | No | Yes |
 | Data breach alerts | No | Yes |

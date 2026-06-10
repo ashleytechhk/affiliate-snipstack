@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 You matched. You chatted. You liked their vibe. And then you gave them your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/).
 
-That single moment — one tap, one share — can spiral into months of harassment, unwanted calls at 2 a.m., or worse: someone showing up at your door because your number led them straight to your address. It happens more often than dating apps admit. A 2023 survey by the Cyber Civil Rights Initiative found that nearly **1 in 3 online daters** had experienced stalking or harassment that began with a phone number exchange. In 2026, with data brokers aggregating mobile numbers into detailed personal profiles within minutes, handing out your real number to someone you met on an app is a genuinely risky move.
+That single moment — one tap, one share — can spiral into months of harassment, unwanted calls at 2 a.m., or worse: someone showing up at your door because your number led them straight to your address. It happens more often than dating apps admit. A 2023 survey by the Cyber Civil Rights Initiative found that nearly **1 in 3 online daters** had experienced stalking or harassment that began with a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) exchange. In 2026, with data brokers aggregating mobile numbers into detailed personal profiles within minutes, handing out your real number to someone you met on an app is a genuinely risky move.
 
 The fix is simple, affordable, and takes under two minutes to set up: a dedicated [second phone number](https://snipstack.io/second-phone-number-for-verification-2026/) app for your Android device.
 

@@ -12,7 +12,7 @@ A 2023 investigation by the Mozilla Foundation found that the majority of popula
 
 You swapped one data-harvesting service for another.
 
-For online daters, this matters more than it does for most people. Your phone number is a lookup key. Enter it into a people-search site and you'll typically get back a full name, a city, links to social profiles, and sometimes an employer — in under a minute. That's what a bad date, an obsessive ex-match, or a data broker can do with a number you handed out on Tinder last month.
+For online daters, this matters more than it does for most people. Your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is a lookup key. Enter it into a people-search site and you'll typically get back a full name, a city, links to social profiles, and sometimes an employer — in under a minute. That's what a bad date, an obsessive ex-match, or a data broker can do with a number you handed out on Tinder last month.
 
 Using a [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) is the right instinct. Using one that funds itself through ad targeting is not a fix — it's a lateral move.
 

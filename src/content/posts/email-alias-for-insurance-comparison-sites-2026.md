@@ -133,7 +133,7 @@ Yes. Alt-ID forwards everything sent to the alias directly to your real inbox. Y
 
 Keep it active for at least 5–7 days after submitting the quote form. Most broker follow-ups arrive within that window. Once you've compared what you need and made a decision, delete the alias. From that point, brokers cannot reach your inbox.
 
-**What about the phone number on the insurance form — does an alias help with calls?**
+**What about the [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) on the insurance form — does an alias help with calls?**
 
 An [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) only controls the email channel. If you submitted your real phone number, broker calls happen independently. To reduce call volume, check whether the comparison site has an opt-out field for partner contact, or use a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) the quote request alongside the alias.
 

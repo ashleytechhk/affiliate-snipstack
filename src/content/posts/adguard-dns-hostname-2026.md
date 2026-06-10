@@ -14,7 +14,7 @@ This guide explains every AdGuard DNS hostname, what each one does, why the host
 
 ## Quick Verdict
 
-For most users: set `dns.adguard-dns.com` as your Private DNS hostname on Android (Settings > Network > Private DNS) or install AdGuard's DoH profile on iOS. That single change encrypts all your DNS traffic and blocks ads and trackers across every app — no account, no install. If you want a second layer of protection that catches what DNS alone misses, [pair it with Surfshark CleanWeb](/blog/adblock?sub=adguard-dns-hostname-2026__above-fold) — VPN-layer filtering that covers ads served from allowed domains, malware blocking, and tracker stripping in one toggle.
+For most users: set `dns.adguard-dns.com` as your Private DNS hostname on Android (Settings > Network > Private DNS) or install AdGuard's DoH profile on iOS. That single change encrypts all your DNS traffic and blocks ads and trackers across every app — no account, no install. If you want a second layer of protection that catches what DNS alone misses, [pair it with Surfshark CleanWeb](/blog/adblock?sub=adguard-dns-hostname-2026__above-fold) — VPN-layer filtering that covers ads served from allowed domains, [malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/), and tracker stripping in one toggle.
 
 ---
 

@@ -24,7 +24,7 @@ If you use dating apps and you have ever entered your real [phone number](https:
 
 ## Why Insurance Quote Sites Are a Privacy Minefield
 
-When you visit a comparison aggregator and request quotes from multiple insurers simultaneously, you are not just asking for prices. You are submitting a data record — name, phone number, date of birth, postcode, sometimes driving history or health status — to a platform whose business model often includes **selling or licensing that data to affiliate brokers**.
+When you visit a comparison aggregator and request quotes from multiple insurers simultaneously, you are not just asking for prices. You are submitting a data record — name, [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), date of birth, postcode, sometimes driving history or health status — to a platform whose business model often includes **selling or licensing that data to affiliate brokers**.
 
 The fine print on most comparison sites permits this. A typical clause reads something like: *"We may share your details with selected third-party partners who may contact you with relevant offers."* In practice, "selected third-party partners" can mean dozens of call centers across several countries, all of whom now have your real mobile number on a list they can call for months.
 

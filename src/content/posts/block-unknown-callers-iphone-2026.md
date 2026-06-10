@@ -49,7 +49,7 @@ The problem is that your number doesn't expire. Once shared:
 - They can call or text you indefinitely
 - They can look up your approximate location through carrier data in some cases
 - They can share your number with others
-- You cannot take it back without changing your entire phone number
+- You cannot take it back without changing your entire [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)
 
 Silence Unknown Callers doesn't solve this — they're saved in your contacts, or they'll find a workaround by calling from different numbers. It's a reactive tool. The real fix is a proactive one.
 

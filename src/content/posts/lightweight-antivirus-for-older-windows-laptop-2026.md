@@ -168,7 +168,7 @@ Microsoft stopped releasing security updates for Windows 7 in January 2020. That
 
 **Q: What if I get a pop-up saying my computer has a virus and I should call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)?**
 
-Do not call. That is a tech-support scam. No legitimate antivirus company will ever show you a pop-up with a phone number to call. Real threat alerts from Surfshark appear inside the app itself — they do not ask you to phone anyone. If you see a scary pop-up in your browser, press Alt + F4 on your keyboard to close the browser, or simply restart the computer. Your Surfshark antivirus will handle real threats automatically without any phone call required.
+Do not call. That is a tech-support scam. No legitimate antivirus company will ever show you a pop-up with a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to call. Real threat alerts from Surfshark appear inside the app itself — they do not ask you to phone anyone. If you see a scary pop-up in your browser, press Alt + F4 on your keyboard to close the browser, or simply restart the computer. Your Surfshark antivirus will handle real threats automatically without any phone call required.
 
 **Q: Can one subscription cover more than one device?**
 

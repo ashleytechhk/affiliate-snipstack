@@ -82,7 +82,7 @@ Go to a Whois lookup tool (whois.domaintools.com is free) and enter the seller's
 
 ### Step 4: Search the Business Name and [Phone Number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)
 
-Search the breeder's business name plus the word "scam" or "review." Do the same with their phone number. Check the BBB (bbb.org) and the FTC's complaint database (reportfraud.ftc.gov). Even one complaint is worth taking seriously.
+Search the breeder's business name plus the word "scam" or "review." Do the same with their [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/). Check the BBB (bbb.org) and the FTC's complaint database (reportfraud.ftc.gov). Even one complaint is worth taking seriously.
 
 ### Step 5: Request a Live Video Call
 

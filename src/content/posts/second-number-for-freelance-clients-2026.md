@@ -34,7 +34,7 @@ Here is why freelancers are a specific target profile:
 
 **Your number is already semi-public by design.** A mobile number on a Upwork profile, a freelance portfolio, a contractor listing, or a business card exists to be found. You put it there on purpose. That is the point. The same number appearing on a dating profile was not the point — but that is [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) you use one number for everything.
 
-**Multiple platforms index your number.** Over the course of a freelance career, a phone number gets submitted to contractor directories, invoicing platforms, professional networks, and client email threads. Each of those is a potential data source for a determined reverse-lookup. Free tools like Whitepages, NumLookup, and BeenVerified aggregate these sources automatically.
+**Multiple platforms index your number.** Over the course of a freelance career, a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) gets submitted to contractor directories, invoicing platforms, professional networks, and client email threads. Each of those is a potential data source for a determined reverse-lookup. Free tools like Whitepages, NumLookup, and BeenVerified aggregate these sources automatically.
 
 **Dating apps ask for the same number.** When you sign up for Tinder, Hinge, or Bumble, they verify your account with a phone number. That number is not displayed in your public profile — but it is stored in your account, referenced in account recovery flows, and potentially exposed by a data breach. Hinge alone was included in data aggregation incidents that put user phone numbers into lookup databases reachable from a name search.
 

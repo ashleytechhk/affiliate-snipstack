@@ -22,7 +22,7 @@ A [virtual number with call forwarding app](https://snipstack.io/virtual-phone-n
 
 When you share your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) with a match, you are sharing more than a string of digits.
 
-**People-search sites index phone numbers.** Services like Spokeo, WhitePages, and BeenVerified aggregate public records and social data. Enter a mobile number and many of these sites return a full name, general location, and in some cases a home address within seconds — at no charge. You do not need to be a technical person to use them.
+**People-search sites index [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s.** Services like Spokeo, WhitePages, and BeenVerified aggregate public records and social data. Enter a mobile number and many of these sites return a full name, general location, and in some cases a home address within seconds — at no charge. You do not need to be a technical person to use them.
 
 **Dating app data breaches happen regularly.** Mobifriends exposed 3.6 million user records in 2020. MeetMindful leaked data on 2.28 million members in early 2021. In both cases the leaked data included real names, phone numbers, and location information. Once your number is in a breach, it circulates in spam and scam lists indefinitely.
 

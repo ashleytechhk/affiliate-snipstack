@@ -64,7 +64,7 @@ The platforms that feel most harmless are often the most dangerous vectors in th
 
 **Instagram** allows users to search for accounts by phone number if the account holder has not changed a default setting that most users never touch. When you link your Instagram to a dating app, you are handing a direct path to any account that can be found through your number.
 
-**Facebook** stores your phone number for "security purposes" but uses it extensively for ad targeting and social graph building. Even if you lock down your Facebook privacy settings, your number has likely already been harvested by data brokers who continuously scrape and cross-reference platform data. Facebook has been fined multiple times by regulators for mishandling phone number data — and still holds billions of real numbers in active use.
+**Facebook** stores your [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) "security purposes" but uses it extensively for ad targeting and social graph building. Even if you lock down your Facebook privacy settings, your number has likely already been harvested by data brokers who continuously scrape and cross-reference platform data. Facebook has been fined multiple times by regulators for mishandling phone number data — and still holds billions of real numbers in active use.
 
 **TikTok and Snapchat** both allow contact syncing that can surface your account to anyone who has your phone number in their contact list. A match from a dating app who has somehow obtained your number — from a data broker, from a breach, from a mutual acquaintance — can find your TikTok or Snapchat simply by adding your number to their contacts.
 

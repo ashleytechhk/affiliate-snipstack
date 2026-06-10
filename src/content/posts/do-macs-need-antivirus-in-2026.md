@@ -186,7 +186,7 @@ A well-designed modern antivirus has almost no noticeable impact on everyday Mac
 
 **What if I get a pop-up saying my Mac is infected?**
 
-Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) it shows. Do not click any button inside the pop-up. Close your browser using Command + Q, or restart your Mac. Real security warnings from Apple never include a phone number to call. After restarting, if you are worried, run a scan with a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) tool to confirm your Mac is clean.
+Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) it shows. Do not click any button inside the pop-up. Close your browser using Command + Q, or restart your Mac. Real security warnings from Apple never include a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to call. After restarting, if you are worried, run a scan with a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) tool to confirm your Mac is clean.
 
 **Is it safe to use online banking on a Mac without antivirus?**
 

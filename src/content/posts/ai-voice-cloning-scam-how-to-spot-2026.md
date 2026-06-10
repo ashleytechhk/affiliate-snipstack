@@ -138,7 +138,7 @@ Social media videos, voicemail greetings, online interviews, and audio posted pu
 
 ### How do I verify whether a voice message email is real?
 
-Do not use any contact details or links in the email. Instead, contact the person the email claims to be from using a phone number or email address you already have — from your own contacts, not from the message. If the email claims to be from a company, visit that company's website by typing the address directly into your browser. [Run the email's link through a scam checker](/blog/scamcheck?sub=ai-voice-cloning-scam-how-to-spot-2026__faq) before you click anything.
+Do not use any contact details or links in the email. Instead, contact the person the email claims to be from using a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) or email address you already have — from your own contacts, not from the message. If the email claims to be from a company, visit that company's website by typing the address directly into your browser. [Run the email's link through a scam checker](/blog/scamcheck?sub=ai-voice-cloning-scam-how-to-spot-2026__faq) before you click anything.
 
 ### Can Surfshark's Email Scam Checker detect AI-generated audio?
 

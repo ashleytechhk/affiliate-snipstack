@@ -149,7 +149,7 @@ Yes. In your Fiverr account settings you can update your registered phone number
 
 **[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [second number for](https://snipstack.io/second-number-for-social-media-privacy-2026/) Fiverr violate Fiverr's terms of service?**
 
-Fiverr requires sellers to provide a valid, working phone number for account verification and security — it does not require that number to be your primary personal line. A carrier-backed [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) from [Alt-Number](/blog/altnumber?sub=second-number-for-fiverr-seller-account-2026__faq) satisfies Fiverr's account requirements completely. Using a legitimate secondary number for privacy is not the same as creating a fraudulent account, which is what Fiverr's terms prohibit.
+Fiverr requires sellers to provide a valid, working [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) account verification and security — it does not require that number to be your primary personal line. A carrier-backed [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) from [Alt-Number](/blog/altnumber?sub=second-number-for-fiverr-seller-account-2026__faq) satisfies Fiverr's account requirements completely. Using a legitimate secondary number for privacy is not the same as creating a fraudulent account, which is what Fiverr's terms prohibit.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Fiverr seller reviews and level status if I change my phone number?**
 

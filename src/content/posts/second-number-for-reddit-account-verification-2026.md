@@ -41,7 +41,7 @@ Your real phone number is one of the most powerful identifiers a data broker or 
 - Linked to other accounts — WhatsApp, iCloud, Google, your bank — creating a web of cross-references
 - Exposed in data breaches at a rate that has accelerated every year since 2020
 
-When you give Reddit your real phone number for verification, you are creating a documented link between that identifier and your Reddit account. If Reddit ever suffers a breach — or if Reddit's data is subpoenaed, sold, or accessed by a third party — that link becomes visible.
+When you give Reddit your real [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) verification, you are creating a documented link between that identifier and your Reddit account. If Reddit ever suffers a breach — or if Reddit's data is subpoenaed, sold, or accessed by a third party — that link becomes visible.
 
 For most social media accounts, this feels like a theoretical risk. For a Reddit account where you post under a pseudonym specifically because you want that separation, it is a practical one.
 

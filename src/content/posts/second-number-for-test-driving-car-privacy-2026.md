@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Why you need a second number for test-driving car privacy in 2026](/og/second-number-for-test-driving-car-privacy-2026.png)
 
-Every year, thousands of people are stalked — not by someone they met at a bar, but by someone who got their real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) from a perfectly ordinary interaction. Selling a car. Test-driving one. Arranging a Craigslist meet-up. A 2024 report by the [National Do](https://snipstack.io/burner-number-dating-apps-2026/)mestic Violence Hotline found that digital stalking — which frequently begins with a phone number — affects roughly 1 in 6 Americans at some point in their lives. You hand a stranger your real number, and you hand them a thread they can pull on forever.
+Every year, thousands of people are stalked — not by someone they met at a bar, but by someone who got their real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) from a perfectly ordinary interaction. Selling a car. Test-driving one. Arranging a Craigslist meet-up. A 2024 report by the [National Do](https://snipstack.io/burner-number-dating-apps-2026/)mestic Violence Hotline found that digital stalking — which frequently begins with a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — affects roughly 1 in 6 Americans at some point in their lives. You hand a stranger your real number, and you hand them a thread they can pull on forever.
 
 If you use dating apps and also buy, sell, or test-drive vehicles, you are operating in two of the highest-risk categories for phone-number exposure. This article explains why, and shows you the one fix that takes under two minutes.
 

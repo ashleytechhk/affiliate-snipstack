@@ -67,7 +67,7 @@ This link takes you directly to the official page. Do not search for it in Googl
 Once you land on the page, you will see a few plan options. For most seniors, the **Starter** plan is plenty. It includes:
 
 - Real-time virus protection
-- Malware blocking
+- [Malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/)
 - [Protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) dangerous websites
 - Alert for data breaches (if your email or password shows up somewhere it should not)
 

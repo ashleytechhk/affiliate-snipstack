@@ -28,7 +28,7 @@ When you list yourself on TaskRabbit, you're not just creating a service profile
 
 Here's what a client sees before they even book you: your first name, your profile photo, your distance from their location, your list of skills, and your recent reviews — which often mention your professionalism and sometimes your responsiveness. If you have enough reviews, your approximate neighborhood becomes clear just from the service history.
 
-When they do book, you exchange phone numbers for coordination. That's by design — it's how the platform works. But it means a client now has your direct number attached to everything else your TaskRabbit profile tells them.
+When they do book, you exchange [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s for coordination. That's by design — it's how the platform works. But it means a client now has your direct number attached to everything else your TaskRabbit profile tells them.
 
 Most of the time, clients are exactly what they look like: people who need a shelf assembled or a TV mounted. But some percentage of people who see a profile photo they find attractive will treat TaskRabbit as a second kind of platform. Pew Research found that 37% of people who have ever used a dating app reported being harassed — harassment that frequently extends off-platform once any personal contact information is exchanged.
 

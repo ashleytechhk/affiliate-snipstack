@@ -110,7 +110,7 @@ Now use your Alt-Number as your contact number on dating apps. How you deploy it
 
 **When moving from in-app chat to texting:** Share your Alt-Number instead of your real number. The other person can text you normally — messages land in the Alt-Number section of the Surfshark app.
 
-**For app verification (if setting up a new account):** Some dating apps require a phone number for SMS verification during signup. Alt-Number works for this — it receives SMS codes just like a regular mobile number.
+**For app verification (if setting up a new account):** Some dating apps require a [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) SMS verification during signup. Alt-Number works for this — it receives SMS codes just like a regular mobile number.
 
 **In your profile bio (optional):** Some users add their number directly to their dating profile. Using Alt-Number here keeps your real number out of the profile entirely.
 

@@ -58,7 +58,7 @@ If you receive a suspicious bank text, copying a few words from the message — 
 
 **What it does well:** Scam operations typically send the same message to thousands of people. Reports accumulate quickly on sites like Reddit (r/Scams), community fraud-warning boards, and consumer protection pages. If a text with the phrase "your Barclays account has been suspended" is doing the rounds, a Google search will almost certainly surface those reports within days of the campaign launching.
 
-**Where it falls short:** Brand-new campaigns — texts that started circulating hours or days ago — may not have any search results yet. Scammers regularly rotate their wording, phone numbers, and sender IDs to stay ahead of community reporting. A clean Google result does not mean the text is safe; it may simply mean it is new.
+**Where it falls short:** Brand-new campaigns — texts that started circulating hours or days ago — may not have any search results yet. Scammers regularly rotate their wording, [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s, and sender IDs to stay ahead of community reporting. A clean Google result does not mean the text is safe; it may simply mean it is new.
 
 **Best for:** A quick second opinion when the text message feels familiar, or when you want to see if a specific phone number has been flagged by other users.
 

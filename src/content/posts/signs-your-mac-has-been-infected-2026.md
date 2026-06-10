@@ -121,7 +121,7 @@ This is the most dangerous sign on the list — not because it means your Mac is
 
 Fake virus alerts mimic Apple's design. They may display a realistic-looking warning, a countdown timer, or a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to call. They sometimes lock your browser so it appears you cannot close the tab. If this happens:
 
-1. Do not call any phone number shown on the screen.
+1. Do not call any [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) shown on the screen.
 2. Do not enter any personal information.
 3. Force-quit Safari: press Command + Option + Escape, select Safari, and click Force Quit.
 4. If the browser re-opens to the same page, hold Shift while clicking the Safari icon — this prevents it from restoring your previous session.

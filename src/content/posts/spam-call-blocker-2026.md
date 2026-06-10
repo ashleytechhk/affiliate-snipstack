@@ -88,7 +88,7 @@ The app's "Answer Bots" feature is genuinely entertaining: it answers spam calls
 
 ### 7. Truecaller — Best for Number Lookup Before You Share
 
-**Truecaller's crowd-sourced caller ID database lets you look up any phone number before you engage with it.** If someone on a dating app gives you their number, you can check it against Truecaller's database to see if it's flagged as spam, a business line, or associated with a name that doesn't match who they say they are.
+**Truecaller's crowd-sourced caller ID database lets you look up any [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) before you engage with it.** If someone on a dating app gives you their number, you can check it against Truecaller's database to see if it's flagged as spam, a business line, or associated with a name that doesn't match who they say they are.
 
 ![Truecaller and Alt-Number working together for complete dating privacy](/og/spam-call-blocker-2026-inline-2.png)
 

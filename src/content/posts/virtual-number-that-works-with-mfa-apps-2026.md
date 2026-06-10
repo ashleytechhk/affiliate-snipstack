@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 One in three women who use dating apps has been stalked by someone they met on a platform. Not harassed — stalked. That stat comes from a Pew Research survey, and it gets worse: in most of those cases, the stalker used the victim's [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) as their entry point. A number shared early in a conversation, used to look up an address, a workplace, a social media profile the dater never intended to share.
 
-Your phone number is more than a way to call you. In 2026, it is a skeleton key that opens your location data, your linked accounts, your full identity. And every time you give it out on a dating app — or use it to verify an MFA code — you are handing that key to a stranger.
+Your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is more than a way to call you. In 2026, it is a skeleton key that opens your location data, your linked accounts, your full identity. And every time you give it out on a dating app — or use it to verify an MFA code — you are handing that key to a stranger.
 
 ![Virtual number for dating app privacy](/og/virtual-number-that-works-with-mfa-apps-2026.png)
 

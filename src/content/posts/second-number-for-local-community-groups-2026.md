@@ -32,7 +32,7 @@ Dating apps, for all their flaws, are built with at least a nominal privacy laye
 
 Local community platforms have none of that.
 
-When you join a Nextdoor neighbourhood, you verify your actual street. When you post in a city Reddit asking about hiking partners or language exchange meetups, your post history — including anything you've ever said about your neighbourhood, workplace, or routine — is publicly visible. When you join a Facebook event for a local social, attendees can often see your profile. When you drop your phone number in a group chat to organise logistics, that number is now visible to every person in the group, including people you've never interacted with and people whose real identity you cannot verify.
+When you join a Nextdoor neighbourhood, you verify your actual street. When you post in a city Reddit asking about hiking partners or language exchange meetups, your post history — including anything you've ever said about your neighbourhood, workplace, or routine — is publicly visible. When you join a Facebook event for a local social, attendees can often see your profile. When you drop your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) in a group chat to organise logistics, that number is now visible to every person in the group, including people you've never interacted with and people whose real identity you cannot verify.
 
 ### The Overlap With Online Dating
 

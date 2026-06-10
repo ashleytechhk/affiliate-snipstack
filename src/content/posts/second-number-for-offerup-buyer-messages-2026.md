@@ -26,7 +26,7 @@ When you share your real [phone number](https://snipstack.io/phone-number-privac
 
 Moving a conversation off OfferUp to text feels like normal friction reduction. You want to coordinate a pickup time without the clunky in-app interface. What you are actually doing is handing a stranger access to an identity infrastructure most people do not know exists.
 
-**Reverse phone lookups are free, instant, and shockingly detailed.** Services like Spokeo, Whitepages, FastPeopleSearch, and BeenVerified aggregate public records, voter rolls, old social media registrations, and data-broker compilations. A search on a real phone number can return your full legal name, current and previous addresses, age, family members, and linked profiles in under thirty seconds. Zero technical skill required. Often zero cost.
+**Reverse phone lookups are free, instant, and shockingly detailed.** Services like Spokeo, Whitepages, FastPeopleSearch, and BeenVerified aggregate public records, voter rolls, old social media registrations, and data-broker compilations. A search on a real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) can return your full legal name, current and previous addresses, age, family members, and linked profiles in under thirty seconds. Zero technical skill required. Often zero cost.
 
 **Your number connects your OfferUp account to your broader digital identity.** The same number you registered with Facebook is in that database. So is the one you used for Instagram, your bank's two-factor authentication, and your last apartment lease. A buyer who googles your number can find accounts registered years ago under a name you do not use on OfferUp, at an address you have since moved from — or worse, the one you still live at.
 

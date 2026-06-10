@@ -74,7 +74,7 @@ No app download. No subscription. It works immediately.
 
 For online daters, this is best used as a secondary layer on your real number — not as a standalone solution. The reason: it does nothing to protect your real number from being exposed in the first place. Once someone has your number, they are in your call log or contacts from that first interaction, which means subsequent calls from them will not be silenced. It also has no effect on SMS or iMessage.
 
-Use Silence Unknown Callers as a passive backstop on your primary iPhone number while giving out an Alt-Number for dating. That combination leaves almost no gap.
+Use Silence Unknown Callers as a passive backstop on your primary i[Phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) while giving out an Alt-Number for dating. That combination leaves almost no gap.
 
 ---
 

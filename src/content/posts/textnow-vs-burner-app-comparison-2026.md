@@ -37,7 +37,7 @@ Before the comparison, it helps to be clear on what you are actually protecting 
 When you give someone your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) off a dating app, you are not just sharing a way to call you. You are handing them:
 
 - A reverse-lookup entry that can connect your number to your full name and past addresses
-- Your carrier-level identity, which some data brokers can query by phone number alone
+- Your carrier-level identity, which some data brokers can query by [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) alone
 - A persistent contact point that survives a block — they still have the number even if you block them
 - A gateway to WhatsApp, iMessage, Telegram, and other platforms where your number doubles as a username
 

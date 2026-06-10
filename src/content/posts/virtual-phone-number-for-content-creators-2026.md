@@ -12,7 +12,7 @@ tags: ["altnumber", "privacy", "review"]
 
 In 2026, your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is the last piece of personal information most people still treat as safe to share. It shouldn't be.
 
-For online daters, handing out a real number is already a gamble. For creators — streamers, influencers, podcasters, adult-content artists, anyone with a following and a public presence — it is a measurably worse one. Your face is searchable. Your username is findable. Your audience includes people who have decided, somewhere in the range between enthusiasm and obsession, that they know you. When one of those people matches you on Tinder or Hinge and gets your phone number, the consequences run well beyond an awkward unfollow.
+For online daters, handing out a real number is already a gamble. For creators — streamers, influencers, podcasters, adult-content artists, anyone with a following and a public presence — it is a measurably worse one. Your face is searchable. Your username is findable. Your audience includes people who have decided, somewhere in the range between enthusiasm and obsession, that they know you. When one of those people matches you on Tinder or Hinge and gets your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), the consequences run well beyond an awkward unfollow.
 
 Over 40% of people who experience online harassment report their real phone number was obtained through a social or dating platform, according to the Cyber Civil Rights Initiative's ongoing data. Creators are not just daters — they are public figures who happen to be dating. That combination puts them at the top of every stalker and data broker's priority list.
 

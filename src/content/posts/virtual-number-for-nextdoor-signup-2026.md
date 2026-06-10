@@ -40,7 +40,7 @@ For most people, that trade-off is acceptable. For someone who also dates online
 
 ## The Online Dating Crossover Problem
 
-When you use the same phone number for Nextdoor and a dating app like Tinder, Hinge, or Bumble, you are running two identities off one thread. And threads can be pulled.
+When you use the same [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) Nextdoor and a dating app like Tinder, Hinge, or Bumble, you are running two identities off one thread. And threads can be pulled.
 
 Here is how the exposure actually happens:
 

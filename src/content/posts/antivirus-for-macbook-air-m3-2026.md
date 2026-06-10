@@ -163,7 +163,7 @@ For some users, possibly — but not for seniors who receive emails regularly, c
 
 **What should I do if I see a pop-up saying my Mac is infected?**
 
-Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) it shows. Do not click any buttons in the pop-up except the X to close your browser tab. If you cannot close it, press Command + Q to quit your browser entirely. These pop-ups are scams. A real Mac security alert never asks you to call a phone number. After closing it, run a scan with your antivirus software to confirm your Mac is clean.
+Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) it shows. Do not click any buttons in the pop-up except the X to close your browser tab. If you cannot close it, press Command + Q to quit your browser entirely. These pop-ups are scams. A real Mac security alert never asks you to call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/). After closing it, run a scan with your antivirus software to confirm your Mac is clean.
 
 **Is it safe to enter my credit card details to buy antivirus software?**
 

@@ -35,7 +35,7 @@ The problem is that Discord's phone verification requirement — which kicked in
 Here is why that matters in a dating context:
 
 - If your account is compromised or guessed, the recovery path goes through your real number
-- Discord's phone number is linked to your real-world identity in ways a username is not
+- Discord's [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is linked to your real-world identity in ways a username is not
 - Someone with access to your Discord account metadata — even a brief window — can extract information that points back to your real phone
 
 Most people who use Discord for dating are thinking about vibes and profile pictures. They are not thinking about their phone verification settings.

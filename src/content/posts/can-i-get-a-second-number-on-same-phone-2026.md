@@ -60,7 +60,7 @@ Dating apps themselves also add a layer: Tinder, Hinge, and Bumble use phone-num
 
 **Best overall for dating privacy and verification reliability.**
 
-Alt-Number gives you a real carrier-backed phone number — the same infrastructure as a physical SIM, delivered through the Surfshark app. You pick a country, pick a number, and it is active within minutes. Calls and SMS work through the app on your existing device. No SIM swap, no [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).
+Alt-Number gives you a real carrier-backed [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — the same infrastructure as a physical SIM, delivered through the Surfshark app. You pick a country, pick a number, and it is active within minutes. Calls and SMS work through the app on your existing device. No SIM swap, no [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).
 
 For dating specifically, two things stand out:
 

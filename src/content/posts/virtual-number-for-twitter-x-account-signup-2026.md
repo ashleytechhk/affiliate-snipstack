@@ -26,7 +26,7 @@ X requires a [phone number](https://snipstack.io/phone-number-privacy-for-social
 
 ---
 
-## Why X Wants Your Phone Number — And Why You Should Think Twice
+## Why X Wants Your [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — And Why You Should Think Twice
 
 X frames phone number collection as a security feature. The signup flow positions it as two-factor authentication, account recovery, and identity verification rolled into one. That framing is partly true. It is also incomplete.
 

@@ -82,7 +82,7 @@ When [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-compa
 
 **Scheduled scans are deferred.** If a deep virus scan was scheduled to run at a particular time and you happen to be playing at that moment, the scan pauses until the game closes. This prevents the slowdown that can happen when a scan runs during demanding activity.
 
-**Web protection stays fully active.** This is critical and worth repeating: game mode does not turn off your protection. Real-time malware blocking, [phishing link](https://snipstack.io/check-suspicious-link-before-clicking-2026/) detection, and scam site blocking all remain fully operational. Game mode only suppresses the notifications that would interrupt you — not the underlying security work.
+**Web protection stays fully active.** This is critical and worth repeating: game mode does not turn off your protection. Real-time [malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/), [phishing link](https://snipstack.io/check-suspicious-link-before-clicking-2026/) detection, and scam site blocking all remain fully operational. Game mode only suppresses the notifications that would interrupt you — not the underlying security work.
 
 **The result** is that while you are playing, you see nothing from your antivirus unless something genuinely dangerous requires your immediate attention. Routine information waits. Threats are still blocked silently, without alarming you.
 

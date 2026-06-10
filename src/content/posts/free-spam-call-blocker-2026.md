@@ -84,7 +84,7 @@ For dating-app scenarios specifically, Nomorobo is less relevant because it targ
 
 **Best for: US users who want a free [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) with built-in spam protection.**
 
-Google Voice gives US residents a free secondary phone number that forwards to your real line. You get voicemail transcription, call screening, and basic spam filtering — all for nothing. For online dating, it is a solid alternative number to hand out instead of your real digits.
+Google Voice gives US residents a free secondary [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) that forwards to your real line. You get voicemail transcription, call screening, and basic spam filtering — all for nothing. For online dating, it is a solid alternative number to hand out instead of your real digits.
 
 The catches: it is US-only, it is tied to your Google account (so it is not truly private if account security is a concern), and the spam filtering is basic compared to dedicated tools. That said, if you just want something quick and free to use on dating apps, Google Voice gets the job done.
 

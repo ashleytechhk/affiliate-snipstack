@@ -80,7 +80,7 @@ Surfshark Alternative Number gives you a [virtual phone number](https://snipstac
 
 ### 2. Google Voice — Best Free Option for US Users
 
-Google Voice gives you a real US phone number for free — tied to your Google account. You pick the number (from available options in your area code), and it forwards calls and texts to your real phone. The number works for calls, SMS, and voicemail, and you can call or text from the Google Voice app or web interface.
+Google Voice gives you a real US [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) free — tied to your Google account. You pick the number (from available options in your area code), and it forwards calls and texts to your real phone. The number works for calls, SMS, and voicemail, and you can call or text from the Google Voice app or web interface.
 
 **What it does well:**
 - Free — no monthly charge for basic use

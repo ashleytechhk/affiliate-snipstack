@@ -180,7 +180,7 @@ Free ad blocking for Chrome on mobile is completely achievable in 2026 — you j
 
 - **Android users:** Start with NextDNS or AdGuard DNS (zero-cost, works in Chrome) or switch to Brave for a complete Chrome-like experience with ads blocked by default.
 - **iPhone users:** Configure NextDNS at the iOS system level and use Firefox Focus or DuckDuckGo Browser when you need aggressive blocking on a specific site.
-- **Both platforms:** When you want system-wide coverage beyond the browser — across every app, with malware blocking included — that's the use case for a network-level tool like CleanWeb.
+- **Both platforms:** When you want system-wide coverage beyond the browser — across every app, with [malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/) included — that's the use case for a network-level tool like CleanWeb.
 
 None of the free options require a credit card. Try one, see if it covers your use case, and upgrade only if you find a gap.
 

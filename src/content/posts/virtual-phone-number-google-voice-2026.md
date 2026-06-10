@@ -161,7 +161,7 @@ Surfshark Alt-Number is purpose-built for this. It is faster to set up, works gl
 ## FAQ
 
 **Can I use Google Voice for online dating outside the US?**
-No. Google Voice personal accounts require a US phone number to set up and are not available internationally. If you are outside the US, you need an alternative like Surfshark Alt-Number, which supports multiple countries.
+No. Google Voice personal accounts require a US [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to set up and are not available internationally. If you are outside the US, you need an alternative like Surfshark Alt-Number, which supports multiple countries.
 
 **Will people know my Surfshark Alt-Number is a [virtual number](https://snipstack.io/virtual-number-with-call-forwarding-app-2026/)?**
 Not through normal caller ID or reverse lookup. Alt-Number is assigned from real carrier pools, so it looks and behaves like any standard mobile number. There is no "VOIP" flag that a match would see.

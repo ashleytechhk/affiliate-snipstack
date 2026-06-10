@@ -111,7 +111,7 @@ Here is what it includes:
 
 Alert is the dark web monitoring component. You register your email addresses, and it monitors them continuously against breach databases. When your details appear, you receive a notification in plain English with a clear description of what was exposed and what to change.
 
-Alert also monitors beyond email: you can add phone numbers and credit card numbers to be watched as well — useful if you have ever shopped online with a card and wondered whether it was compromised in a retailer breach.
+Alert also monitors beyond email: you can add [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s and credit card numbers to be watched as well — useful if you have ever shopped online with a card and wondered whether it was compromised in a retailer breach.
 
 ### [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) — Real-Time Protection
 

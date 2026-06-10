@@ -24,7 +24,7 @@ For iPhone users who date online in 2026, Surfshark Alt Number is the cleanest s
 
 ## Why Handing Out Your Real Number Is Riskier Than You Think
 
-Most people treat a phone number as a throwaway detail — less sensitive than a home address, less dangerous than a credit card. That assumption is wrong, and the stakes have gone up in 2026.
+Most people treat a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) as a throwaway detail — less sensitive than a home address, less dangerous than a credit card. That assumption is wrong, and the stakes have gone up in 2026.
 
 ### What a stranger can learn from your mobile number alone
 

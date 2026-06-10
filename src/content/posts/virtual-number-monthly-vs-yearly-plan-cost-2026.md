@@ -100,7 +100,7 @@ For most people who use dating apps more than a few times a month, the yearly pl
 
 The financial comparison above only accounts for subscription fees. It ignores the hidden costs of exposure.
 
-Phone number harassment is not a rare edge case. When someone has your real number and you want them gone, your options are:
+[Phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) harassment is not a rare edge case. When someone has your real number and you want them gone, your options are:
 
 - Block them (they can create new numbers)
 - Contact your carrier to change your number (typically costs money and disrupts everyone who has your real number legitimately)

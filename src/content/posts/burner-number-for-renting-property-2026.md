@@ -24,7 +24,7 @@ A [burner number for](https://snipstack.io/burner-number-for-verification-2026/)
 
 ## How Renting Property Exposes Your Real Number
 
-Most people think of their phone number as semi-private — it's not on a website, it's not on a business card. But if you've rented an apartment in the last few years, your number has traveled much further than you realize.
+Most people think of their [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) as semi-private — it's not on a website, it's not on a business card. But if you've rented an apartment in the last few years, your number has traveled much further than you realize.
 
 Here's where it lands when you apply for a rental:
 

@@ -67,7 +67,7 @@ Android 9 and above includes a **Private DNS** setting that encrypts your DNS lo
 2. Go to **Network & internet** (Samsung users: Connections → More connection settings).
 3. Tap **Private DNS**.
 4. Select **Private DNS provider hostname**.
-5. Enter `dns.adguard-dns.com` for AdGuard DNS (free, no account needed).
+5. Enter `dns.adguard-dns.com` for [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) (free, no account needed).
 6. Tap **Save**.
 
 The setting persists through reboots and applies to every app, every time — no ongoing maintenance required. AdGuard DNS's blocklist covers the major ad networks (Google Ads, Meta, AppLovin, Criteo) and a large catalog of known tracker domains.
@@ -117,7 +117,7 @@ The coverage spans your entire phone: browsers, social apps, games, streaming ap
 
 ---
 
-## How to Set Up CleanWeb on Android (3 Minutes)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up CleanWeb on Android (3 Minutes)
 
 ![Surfshark CleanWeb enabled on Android — blocking ads across all apps](/og/best-mobile-ad-blocker-android-2026-inline-2.png)
 
@@ -130,7 +130,7 @@ The coverage spans your entire phone: browsers, social apps, games, streaming ap
 
 Once connected, CleanWeb is active across every app on your phone. No per-app configuration, no list management, no root access required.
 
-**Recommended pairing:** Run CleanWeb alongside Firefox + uBlock Origin. CleanWeb handles network-layer blocking across all apps; uBlock Origin handles cosmetic filtering inside Firefox, removing the empty ad containers that DNS blocking sometimes leaves visible. The two approaches complement each other without conflict.
+**Recommended pairing:** Run CleanWeb alongside Firefox + [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/). CleanWeb handles network-layer blocking across all apps; uBlock Origin handles cosmetic filtering inside Firefox, removing the empty ad containers that DNS blocking sometimes leaves visible. The two approaches complement each other without conflict.
 
 ---
 

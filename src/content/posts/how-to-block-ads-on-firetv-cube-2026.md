@@ -118,7 +118,7 @@ When the Fire TV Cube (or any device) connects to an app or website, it first se
 3. Replace the default DNS with a filtering service:
    - **[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/):** `94.140.14.14` / `94.140.15.15`
    - **NextDNS:** use your personal NextDNS hostname after creating a free account (free up to 300,000 queries/month)
-   - **Quad9:** `9.9.9.9` (malware blocking, lighter ad filtering)
+   - **Quad9:** `9.9.9.9` ([malware blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/), lighter ad filtering)
 4. Save settings and restart your router
 
 **What this blocks on Fire TV Cube:**

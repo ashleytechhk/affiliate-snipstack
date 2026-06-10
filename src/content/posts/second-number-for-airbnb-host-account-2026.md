@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Why every Airbnb host needs a second number to keep their real identity private from guests in 2026](/og/second-number-for-airbnb-host-account-2026.png)
 
-In 2023, an Airbnb host in Portland listed her spare room the way most hosts do — real name, real photos, real phone number on the account. A guest stayed for three nights. Left a five-star review. Then started contacting her weeks later through channels she had never shared: a work email she kept off her Airbnb profile, a neighborhood Facebook group she had mentioned in passing. When she changed her personal number, the messages shifted to her building's front door intercom. He had started with her Airbnb account and worked outward from there.
+In 2023, an Airbnb host in Portland listed her spare room the way most hosts do — real name, real photos, real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) on the account. A guest stayed for three nights. Left a five-star review. Then started contacting her weeks later through channels she had never shared: a work email she kept off her Airbnb profile, a neighborhood Facebook group she had mentioned in passing. When she changed her personal number, the messages shifted to her building's front door intercom. He had started with her Airbnb account and worked outward from there.
 
 She had never invited him into her life. She had only let him stay in her spare room.
 

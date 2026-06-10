@@ -84,7 +84,7 @@ Alt-Number is a paid service. There is a free trial to get started, but long-ter
 
 ### Why it fails from the UK
 
-Google Voice appears in almost every "virtual US number" article because it is free. The small print most articles skip: **you need an existing US phone number to set up a Google Voice account**. From the UK, the signup process terminates at the verification step. Without a US SIM or a friend willing to forward the code, you cannot get a number at all.
+Google Voice appears in almost every "virtual US number" article because it is free. The small print most articles skip: **you need an existing US [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to set up a Google Voice account**. From the UK, the signup process terminates at the verification step. Without a US SIM or a friend willing to forward the code, you cannot get a number at all.
 
 Even if you find a workaround, the resulting Google Voice number is still VOIP, still linked to your Google account identity, and still regularly rejected by dating apps that screen for non-carrier numbers. The "free" calculation changes fast when you factor in the time lost troubleshooting.
 

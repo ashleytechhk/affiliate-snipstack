@@ -34,7 +34,7 @@ But the mechanics are identical. You are still exchanging contact information wi
 - A direct line that bypasses Bumble's in-app messaging and any blocking tools the platform provides
 - A permanent record in their phone that persists long after you stop replying in-app
 
-This matters because Bumble BFF connections can turn uncomfortable just as quickly as dating connections. Unreciprocated intensity, boundary violations, persistent texting after you've lost interest — these aren't hypothetical. Bumble's own safety resources acknowledge that in-person meetups carry risk, which is why they recommend meeting in public places and telling someone where you're going. The phone number step is the gap their recommendations don't close.
+This matters because Bumble BFF connections can turn uncomfortable just as quickly as dating connections. Unreciprocated intensity, boundary violations, persistent texting after you've lost interest — these aren't hypothetical. Bumble's own safety resources acknowledge that in-person meetups carry risk, which is why they recommend meeting in public places and telling someone where you're going. The [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) step is the gap their recommendations don't close.
 
 ---
 

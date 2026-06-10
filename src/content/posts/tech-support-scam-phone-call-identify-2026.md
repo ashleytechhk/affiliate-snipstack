@@ -84,7 +84,7 @@ If you called them because a browser pop-up told you to, the number was put ther
 
 ## Method 2: Reverse Phone Lookup for Caller ID Spoofing
 
-Tech support scammers frequently spoof their caller ID to display a local number, a familiar area code, or even the real phone number of a company like Apple Support. This makes the call appear legitimate when it is not.
+Tech support scammers frequently spoof their caller ID to display a local number, a familiar area code, or even the real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) of a company like Apple Support. This makes the call appear legitimate when it is not.
 
 A reverse phone lookup — searching the phone number in a service like Truecaller, Hiya, or a simple Google search — can reveal whether the number has been reported by other people as a scam.
 

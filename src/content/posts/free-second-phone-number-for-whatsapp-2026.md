@@ -61,7 +61,7 @@ Now open WhatsApp. You are going to register a second account using your new Alt
 
 **On Android:**
 1. Go to WhatsApp Settings (three-dot menu) > **Add account**
-2. Enter your Alt-Number when prompted for a phone number
+2. Enter your Alt-Number when prompted for a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)
 3. WhatsApp will send a verification SMS — this goes to your Alt-Number inbox inside the Alt-Number app
 4. Open the Alt-Number app, copy the 6-digit code, paste it into WhatsApp
 5. Done. Your second WhatsApp account is live.

@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 You filled out a home renovation quote form three months ago. You needed a bathroom remodel, maybe a kitchen refresh. You entered your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) because the form required it. Now you're getting four to eight unsolicited calls per week from contractors, lead brokers, and home improvement services you've never heard of — and at least two of them have your full name.
 
-Here's what most people don't realize: that same phone number is sitting in at least a dozen databases right now, many of which are cross-referenced against your dating app profile, your social media accounts, and public records. A persistent caller or an unwanted match who gets hold of it can find out more about you in two minutes than you'd share in a week of conversation.
+Here's what most people don't realize: that same [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is sitting in at least a dozen databases right now, many of which are cross-referenced against your dating app profile, your social media accounts, and public records. A persistent caller or an unwanted match who gets hold of it can find out more about you in two minutes than you'd share in a week of conversation.
 
 If you're actively using dating apps and you've recently put your number on a renovation quote form, you're carrying an exposure you probably haven't accounted for.
 

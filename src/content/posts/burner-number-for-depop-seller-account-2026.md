@@ -18,7 +18,7 @@ A [burner number](https://snipstack.io/burner-number-for-facebook-marketplace-20
 
 ## Quick Verdict
 
-If you sell on Depop, use dating apps, or do both, your real phone number is visible to more strangers than you probably realize. [Alt-Number by Surfshark](https://snipstack.io/blog/altnumber?sub=burner-number-for-depop-seller-account-2026__above-fold) gives you a working secondary number — functional for SMS and calls — without touching your real SIM. You use it for verifications, buyer messages, and match conversations. If someone crosses a line, you swap the number and they lose access to you entirely. Setup takes minutes. It is a significantly stronger layer of separation than any other method covered here.
+If you sell on Depop, use dating apps, or do both, your real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is visible to more strangers than you probably realize. [Alt-Number by Surfshark](https://snipstack.io/blog/altnumber?sub=burner-number-for-depop-seller-account-2026__above-fold) gives you a working secondary number — functional for SMS and calls — without touching your real SIM. You use it for verifications, buyer messages, and match conversations. If someone crosses a line, you swap the number and they lose access to you entirely. Setup takes minutes. It is a significantly stronger layer of separation than any other method covered here.
 
 ---
 

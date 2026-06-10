@@ -36,7 +36,7 @@ Beyond safety, there is the spam angle. Share your real number and you may spend
 
 **Best overall for serious online daters.**
 
-Alt-Number gives you a real US or UK phone number that works for calls and texts — without a physical SIM swap. You install it alongside Surfshark's existing apps, pick your number, and start using it immediately on your current device. What separates it from purely free alternatives is reliability: no recycled numbers that still receive spam from previous owners, no arbitrary expiry on messages, and support that actually responds.
+Alt-Number gives you a real US or UK [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) that works for calls and texts — without a physical SIM swap. You install it alongside Surfshark's existing apps, pick your number, and start using it immediately on your current device. What separates it from purely free alternatives is reliability: no recycled numbers that still receive spam from previous owners, no arbitrary expiry on messages, and support that actually responds.
 
 The free trial period lets you test the full feature set before committing. Paid tiers are priced sensibly when bundled with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/), making this the most cost-effective privacy stack for someone who already wants a VPN and an [ad blocker](https://snipstack.io/ad-blocker-for-android-2026/) alongside their [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/).
 

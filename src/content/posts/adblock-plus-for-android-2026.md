@@ -106,7 +106,7 @@ The trade-off is minimal configurability and no HTTPS filtering. You are limited
 
 ## Summary Comparison Table
 
-| Option | Coverage | Free Tier | Setup Difficulty | Malware Blocking |
+| Option | Coverage | Free Tier | Setup Difficulty | [Malware Blocking](https://snipstack.io/malware-blocking-ad-blocker-2026/) |
 |---|---|---|---|---|
 | Surfshark CleanWeb | System-wide | Trial available | Very easy | Yes |
 | uBlock Origin + Firefox | Browser only | Yes | Easy | Partial |

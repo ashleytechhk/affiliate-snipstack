@@ -12,7 +12,7 @@ You matched on Hinge. The conversation clicked. You moved things to Instagram �
 
 Now they call. You blocked them on the app three weeks ago.
 
-This is the number-one pattern online daters encounter in 2026: your phone number is scattered across more surfaces than you realise, and once it is out there, the fallout is out of your control. The FTC reported over $1.1 billion in romance scam losses in a single recent year — and the attack vector in nearly every case is a phone number that should never have been shared.
+This is the number-one pattern online daters encounter in 2026: your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is scattered across more surfaces than you realise, and once it is out there, the fallout is out of your control. The FTC reported over $1.1 billion in romance scam losses in a single recent year — and the attack vector in nearly every case is a phone number that should never have been shared.
 
 **[Skip ahead — protect your number with an alias &rarr;](/blog/altnumber?sub=phone-number-privacy-for-social-media-2026__above-fold)**
 

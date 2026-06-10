@@ -87,7 +87,7 @@ If you do not already have it, install WhatsApp Business from the App Store or G
 
 ### Step 3 — Register With Your Alt-Number
 
-Open WhatsApp Business and start the registration flow. When prompted for a phone number, enter your Alt-Number. WhatsApp Business will send a 6-digit verification SMS to that number. Open the Alt-Number app — the code appears in your inbox. Copy it, paste it into WhatsApp Business, and the account is verified and live.
+Open WhatsApp Business and start the registration flow. When prompted for a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), enter your Alt-Number. WhatsApp Business will send a 6-digit verification SMS to that number. Open the Alt-Number app — the code appears in your inbox. Copy it, paste it into WhatsApp Business, and the account is verified and live.
 
 ### Step 4 — Build Your Business Profile
 

@@ -26,7 +26,7 @@ If you are paying for Norton 360, Norton Family, McAfee Total Protection, or any
 
 - Cancelled your existing subscription(s) at the right time to avoid double-billing
 - Installed [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) on every device in your household
-- Set up Alt-ID and Alt-Number so your family stops handing out real email addresses and phone numbers to every website that asks
+- Set up Alt-ID and Alt-Number so your family stops handing out real email addresses and [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s to every website that asks
 - Confirmed everything is working with one quick test
 
 The whole process takes about 30 minutes across all devices.
