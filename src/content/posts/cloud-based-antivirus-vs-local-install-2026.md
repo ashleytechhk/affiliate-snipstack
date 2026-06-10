@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2023, the FBI reported that adults over 60 lost more than **$3.4 billion** to online fraud — more than any other age group. That number rose again in 2024. The single most common entry point for these attacks? A device with outdated or ineffective security software that let something slip through before the user ever noticed.
+In 2023, the FBI reported that adults over 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — more than any other age group. That number rose again in 2024. The single most common entry point for these attacks? A device with outdated or ineffective security software that let something slip through before the user ever noticed.
 
 If you have an older [antivirus](https://snipstack.io/vs-antivirus-2026/) program installed on your computer — one you set up a few years ago and have not thought about since — there is a real chance it is no longer protecting you the way you think it is.
 

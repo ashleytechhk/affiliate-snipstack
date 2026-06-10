@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2025, adults over 60 lost more than **$3.4 billion** to online fraud — more than any other age group in the United States. Scammers are deliberate about who they target. They know older adults are more likely to trust an unexpected email, click a link that looks like it came from the bank, or be rattled by a popup screaming that their computer is infected.
+In 2025, adults over 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — more than any other age group in the United States. Scammers are deliberate about who they target. They know older adults are more likely to trust an unexpected email, click a link that looks like it came from the bank, or be rattled by a popup screaming that their computer is infected.
 
 The software on your computer is your first line of defense. And right now, millions of seniors are running [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) — or nothing at all — and believing they are adequately protected. This guide explains exactly what free antivirus does and does not cover, what paid protection adds, and how to make the right call without needing any tech experience.
 

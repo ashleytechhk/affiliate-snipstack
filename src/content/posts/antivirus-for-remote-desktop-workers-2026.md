@@ -152,7 +152,7 @@ Hang up or close the window. No legitimate antivirus company, bank, or governmen
 
 The 190 remote desktop attacks per second happening right now are not aimed at any particular person. They are automated. They are indiscriminate. And they stop only when they hit a computer that is properly protected.
 
-For remote workers over 60 — who are statistically the most targeted group for online fraud, who often handle sensitive work and personal files on the same home computer, and who may not have the IT support of a corporate office — antivirus software is not a luxury. It is the single most important layer of protection you can put in place today.
+For remote workers over 60 — who are statistically the most targeted group for [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/), who often handle sensitive work and personal files on the same home computer, and who may not have the IT support of a corporate office — antivirus software is not a luxury. It is the single most important layer of protection you can put in place today.
 
 Five minutes of setup. Quiet protection every day after that. The peace of mind that your files, your work, and your personal information are not sitting exposed to automated attacks running around the clock.
 

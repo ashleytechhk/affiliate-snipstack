@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Trend Micro vs Surfshark antivirus comparison for seniors 2026](/og/trend-micro-vs-surfshark-antivirus-comparison-2026.png)
 
-In 2025, adults over 60 lost more than **$4.8 billion to online fraud** — the highest of any age group, according to the FBI's Internet Crime Report. The most common tactics were fake tech support calls, phishing emails, and malware quietly installed after clicking the wrong link.
+In 2025, adults over 60 lost more than **$4.8 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/)** — the highest of any age group, according to the FBI's Internet Crime Report. The most common tactics were fake tech support calls, phishing emails, and malware quietly installed after clicking the wrong link.
 
 If you or someone you love uses a computer at home, this is not a remote risk. It is the daily reality. And choosing the wrong [antivirus](https://snipstack.io/vs-antivirus-2026/) — or no antivirus at all — is the difference between staying safe and handing over your savings to a stranger you never met.
 

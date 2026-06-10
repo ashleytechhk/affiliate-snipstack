@@ -10,7 +10,7 @@ tags: ["scamcheck", "privacy", "review"]
 
 A text arrives. Your bank needs you to verify a transaction. A courier could not deliver your parcel. Your streaming service is about to cancel your account. All you need to do is tap the link.
 
-If any of that sounds familiar, you have already encountered smishing — SMS-based phishing. It is one of the fastest-growing forms of online fraud, and it is designed to catch you off guard because texts feel more personal and urgent than emails.
+If any of that sounds familiar, you have already encountered smishing — SMS-based phishing. It is one of the fastest-growing forms of [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/), and it is designed to catch you off guard because texts feel more personal and urgent than emails.
 
 A scam text message checker is any tool, setting, or habit that helps you evaluate whether a text message — and especially any link inside it — is genuine or fraudulent before you act on it. This guide explains exactly what these checkers are, why they matter, how they work, and which ones are worth using in 2026.
 

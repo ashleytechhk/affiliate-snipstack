@@ -26,7 +26,7 @@ Snapdragon-powered Windows laptops run on ARM architecture, which means some tra
 
 ## Why Seniors Are Being Targeted Through New Laptops
 
-The FBI's 2024 Internet Crime Report found that adults aged 60 and over lost more than $3.4 billion to online fraud in a single year — more than any other age group. Scammers are not choosing victims randomly. They specifically target people who have recently bought new technology, because new device owners are more likely to be confused about what is normal, less likely to have security software already installed, and more likely to trust a message that says "your new computer needs attention."
+The FBI's 2024 Internet Crime Report found that adults aged 60 and over lost more than $3.4 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in a single year — more than any other age group. Scammers are not choosing victims randomly. They specifically target people who have recently bought new technology, because new device owners are more likely to be confused about what is normal, less likely to have security software already installed, and more likely to trust a message that says "your new computer needs attention."
 
 Snapdragon laptops are relatively new to the market. Most people buying them — particularly seniors looking for a lightweight, long-battery machine — do not know what "ARM architecture" means. That gap in knowledge is exactly what criminals exploit.
 

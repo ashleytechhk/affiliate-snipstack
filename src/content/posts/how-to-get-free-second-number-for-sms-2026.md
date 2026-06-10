@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![How to get a free second number for SMS — online dating privacy guide 2026](/og/how-to-get-free-second-number-for-sms-2026.png)
 
-The FTC reported over $1.1 billion lost to romance scams in a single year — and in almost every case, the attack started with a phone number.
+The FTC reported over $1.1 billion lost to romance scams in a single year — and in almost every case, the attack started with a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/).
 
 Not a hacked password. Not a leaked email. A phone number, handed to a stranger on a dating app who turned out to be exactly the kind of person you should never have given it to.
 
@@ -79,23 +79,23 @@ Confirm your selection and the number is provisioned immediately. No waiting, no
 
 ### Step 3 — Receive SMS on Your New Number
 
-Your second number is now active. When anything sends an SMS to that number — a dating app verification code, a message from a match, a two-factor prompt — it arrives in the **Alt-Number inbox** inside the app.
+Your [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) is now active. When anything sends an SMS to that number — a dating app verification code, a message from a match, a two-factor prompt — it arrives in the **Alt-Number inbox** inside the app.
 
 Open the inbox, read the message or copy the code, and use it exactly as you would with a normal SMS. From the sender's side, the interaction is indistinguishable from texting a regular phone number.
 
-This is the step where most people are surprised by how straightforward it is. No SIM tray, no carrier call, no paperwork. You have a working second number.
+This is the step where most people are surprised by how straightforward it is. No SIM tray, no carrier call, no paperwork. You have a working [second number](https://snipstack.io/second-number-for-fiverr-seller-account-2026/).
 
 ![Alt-Number inbox receiving SMS verification code for a dating app](/og/how-to-get-free-second-number-for-sms-2026-inline-1.png)
 
 ### Step 4 — Use the Number for Dating App Signups and Match Conversations
 
-With your second number live, you can use it for:
+With your [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) live, you can use it for:
 
 - **Dating app registration** — enter the Alt-Number when an app asks for phone verification at signup. The SMS code routes to your Alt-Number inbox.
 - **Moving conversations off-app** — when a match asks for your number to text directly, give them the Alt-Number. Texts and calls reach you through the app. Your real SIM is never involved.
 - **Platform verifications you are unsure about** — any service asking for a phone number that you are not ready to give your real one to.
 
-The discipline of using the second number consistently is what makes this work. If you give out your real number on some apps and the second number on others, you get partial protection. Use the Alt-Number as your default for every new dating context.
+The discipline of using the [second number](https://snipstack.io/second-number-for-social-media-privacy-2026/) consistently is what makes this work. If you give out your real number on some apps and the second number on others, you get partial protection. Use the Alt-Number as your default for every new dating context.
 
 ### Step 5 — Manage Calls and Messages
 

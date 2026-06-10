@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Best antivirus for Windows 11 home users — complete guide 2026](/og/best-antivirus-for-windows-11-home-users-2026.png)
 
-Every 39 seconds, a computer somewhere in the world is attacked by a hacker. In 2025, the FBI reported that Americans over the age of 60 lost more than **$3.4 billion** to online fraud — more than any other age group. If you use Windows 11 at home and you are 60 or older, the people behind those attacks are actively looking for someone exactly like you. This guide explains what they do, why Windows 11 is not fully protected on its own, and how to fix it in under 15 minutes.
+Every 39 seconds, a computer somewhere in the world is attacked by a hacker. In 2025, the FBI reported that Americans over the age of 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — more than any other age group. If you use Windows 11 at home and you are 60 or older, the people behind those attacks are actively looking for someone exactly like you. This guide explains what they do, why Windows 11 is not fully protected on its own, and how to fix it in under 15 minutes.
 
 ## Quick Verdict
 

@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-Here is a number worth pausing on: in 2023 alone, Americans over 60 lost more than **$3.4 billion** to online fraud — the highest of any age group, according to the FBI's Internet Crime Complaint Center. And the most alarming part? Many of those victims had already taken steps to protect themselves. Some had a VPN. Some thought that was enough.
+Here is a number worth pausing on: in 2023 alone, Americans over 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — the highest of any age group, according to the FBI's Internet Crime Complaint Center. And the most alarming part? Many of those victims had already taken steps to protect themselves. Some had a VPN. Some thought that was enough.
 
 It was not.
 

@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Best antivirus for retirees — simple interface, real protection 2026](/og/best-antivirus-for-retirees-simple-interface-2026.png)
 
-Adults over 65 lose more money to online fraud each year than any other age group. The FBI's Internet Crime Complaint Center reported that this demographic accounted for over $3.4 billion in losses in a single recent year — a figure that has climbed every year since. The most common entry point? A single click on a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/), a bogus pop-up, or a link texted by a scammer pretending to be a grandchild.
+Adults over 65 lose more money to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) each year than any other age group. The FBI's Internet Crime Complaint Center reported that this demographic accounted for over $3.4 billion in losses in a single recent year — a figure that has climbed every year since. The most common entry point? A single click on a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/), a bogus pop-up, or a link texted by a scammer pretending to be a grandchild.
 
 The good news: one well-chosen antivirus, set up in under ten minutes, stops the overwhelming majority of these attacks automatically. You never have to think about it again.
 

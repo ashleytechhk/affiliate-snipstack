@@ -80,7 +80,7 @@ Apps like Google Voice, TextNow, or 2ndLine give you a free secondary number.
 
 ### Option 3: Use Alt Number (Recommended for Travelers)
 
-**[Alt Number](https://snipstack.io/blog/altnumber?sub=how-to-get-local-number-when-abroad-2026__mid)** is Surfshark's virtual number service. It gives you a real US or UK phone number — not a recycled VOIP line — that you can use from anywhere in the world.
+**[Alt Number](https://snipstack.io/blog/altnumber?sub=how-to-get-local-number-when-abroad-2026__mid)** is Surfshark's [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) service. It gives you a real US or UK phone number — not a recycled VOIP line — that you can use from anywhere in the world.
 
 **Pros:**
 - Real number, not flagged as VOIP by dating apps
@@ -146,7 +146,7 @@ Using a [second phone number for privacy](https://snipstack.io/second-phone-numb
 
 ## Who Should Prioritize This
 
-You should get a local or virtual number for dating abroad if:
+You should get a local or [virtual number for](https://snipstack.io/virtual-number-for-international-business-calls-2026/) dating abroad if:
 
 - You're traveling for more than a week and plan to use dating apps
 - You're an expat or digital nomad who dates internationally as a regular part of life
@@ -191,9 +191,9 @@ It stays active as long as your Surfshark subscription is active. You don't lose
 
 No. Alt Number works from any country — you don't need local carrier access. The number itself is a US or UK number, which works for most international dating scenarios. If you specifically need a number with a local country code for the country you're visiting, a physical SIM or eSIM from that country's carrier is the only option currently.
 
-**Is it legal to use a virtual number for dating?**
+**Is it legal to use a [virtual number for](https://snipstack.io/virtual-number-for-google-account-verification-2026/) dating?**
 
-Yes. Using a secondary or virtual phone number is entirely legal. The relevant legal question is always about intent — using any number for fraud, harassment, or impersonation is illegal regardless of whether it's your real number or a virtual one. Using a virtual number to protect your privacy while dating is straightforward and legitimate.
+Yes. Using a secondary or [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) is entirely legal. The relevant legal question is always about intent — using any number for fraud, harassment, or impersonation is illegal regardless of whether it's your real number or a virtual one. Using a [virtual number to](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) protect your privacy while dating is straightforward and legitimate.
 
 **What if I lose access to the Alt Number app?**
 

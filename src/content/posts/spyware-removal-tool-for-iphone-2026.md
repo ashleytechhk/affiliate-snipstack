@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![A senior looking concerned at their iPhone — spyware threats explained](/og/spyware-removal-tool-for-iphone-2026.png)
 
-In 2023, the FBI reported that adults over 60 lost more than **$3.4 billion** to online fraud — the highest of any age group, and a figure that has risen every single year. A significant portion of those losses started with something invisible: spyware silently installed on a phone, watching every tap, reading every message, and forwarding login details to criminals halfway around the world.
+In 2023, the FBI reported that adults over 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — the highest of any age group, and a figure that has risen every single year. A significant portion of those losses started with something invisible: spyware silently installed on a phone, watching every tap, reading every message, and forwarding login details to criminals halfway around the world.
 
 If you have an iPhone and you have ever clicked a link in a suspicious text message, downloaded an app from outside the App Store, or connected to a public Wi-Fi network at a cafe or airport, there is a real chance something unwanted is already running on your device.
 

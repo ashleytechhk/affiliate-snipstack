@@ -149,19 +149,19 @@ Pi-hole is self-hosted DNS filtering software that runs on a device on your home
 
 ## FAQ
 
-**What does "no logging" mean for an ad blocker?**
+**What does "no logging" mean for an [ad blocker](https://snipstack.io/ad-blocker-vs-privacy-badger-comparison-2026/)?**
 
-It means the service does not store records of which domains your device looked up. A genuine no-logging ad blocker processes your DNS queries and discards them — no query log, no browsing history. The strongest evidence for this claim is an independent third-party audit of the provider's infrastructure, not a self-reported privacy policy.
+It means the service does not store records of which domains your device looked up. A genuine no-logging [ad blocker](https://snipstack.io/ad-blocker-for-edge-browser-windows-11-2026/) processes your DNS queries and discards them — no query log, no browsing history. The strongest evidence for this claim is an independent third-party audit of the provider's infrastructure, not a self-reported privacy policy.
 
 **Does Surfshark CleanWeb really keep no logs?**
 
-Surfshark's no-logs policy has been audited by Deloitte. The audit confirmed that Surfshark's servers are not configured to store connection logs or session data. CleanWeb operates within the same infrastructure, so DNS queries from the ad blocker are covered. **[See the full CleanWeb details →](/blog/adblock?sub=best-ad-blocker-no-logging-2026__faq)**
+Surfshark's no-logs policy has been audited by Deloitte. The audit confirmed that Surfshark's servers are not configured to store connection logs or session data. CleanWeb operates within the same infrastructure, so DNS queries from the [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) are covered. **[See the full CleanWeb details →](/blog/adblock?sub=best-ad-blocker-no-logging-2026__faq)**
 
-**Can a free ad blocker on mobile have a no-logging policy?**
+**Can a free [ad blocker](https://snipstack.io/ad-blocker-for-older-browser-versions-2026/) on mobile have a no-logging policy?**
 
 Yes. Brave's on-device blocking involves no server at all — there is nothing to log. [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) in Firefox Android is similarly self-contained. Free DNS services like NextDNS offer a logging-off option. "Free" does not automatically mean your data is the product — but read the privacy policy carefully and look for audit documentation where it exists.
 
-**Why does it matter if my ad blocker logs my DNS queries?**
+**Why does it matter if my [ad blocker](https://snipstack.io/ad-blocker-for-windows-11-system-wide-2026/) logs my DNS queries?**
 
 Your DNS query log is a near-complete record of your online activity — every domain visited, every app that connects to the internet, every service your phone communicates with. A provider that stores this data holds a detailed behavioral profile. Even with a "private" privacy policy, that data could be accessed through legal requests, breached, or monetized if the company changes hands or terms.
 

@@ -30,7 +30,7 @@ Scammers are not random. They deliberately focus on older adults because they kn
 
 Here are the numbers that should concern every person over 60:
 
-- The FBI's Internet Crime Complaint Center reported that adults 60 and older lost over **$3.4 billion** to online fraud in 2023 — more than any other age group.
+- The FBI's Internet Crime Complaint Center reported that adults 60 and older lost over **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in 2023 — more than any other age group.
 - Phishing emails (fake messages pretending to be from your bank, Medicare, or a delivery company) are the most common entry point for fraud.
 - A single virus on your computer can silently record every password you type — including your banking login — without you ever knowing it is there.
 

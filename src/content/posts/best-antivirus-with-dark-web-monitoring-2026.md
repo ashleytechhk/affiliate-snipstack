@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2023, the FBI reported that adults over 60 lost more than **$3.4 billion** to online fraud — more than any other age group. That number keeps climbing. And here is the part that most people do not realise: a lot of that theft started not with a clever hacker sitting at a keyboard, but with a stolen password quietly sitting on the dark web for months — or years — before anyone used it.
+In 2023, the FBI reported that adults over 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — more than any other age group. That number keeps climbing. And here is the part that most people do not realise: a lot of that theft started not with a clever hacker sitting at a keyboard, but with a stolen password quietly sitting on the dark web for months — or years — before anyone used it.
 
 You cannot see the dark web. You cannot search it. You would never know your email address and password were sold there. That is exactly why you need a tool that watches it for you.
 

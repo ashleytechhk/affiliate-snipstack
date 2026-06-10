@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 In 2025, a woman in Austin listed her apartment for sublease on Craigslist. Within 48 hours, a man who had matched with her on Bumble — and been unmatched — recognized her listing photo, cross-referenced her [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), and showed up at the address she was trying to vacate. She had used the same number on both platforms. That single overlap was all it took.
 
-The FBI's Internet Crime Complaint Center recorded over 91,000 online fraud and harassment reports tied to classified ad platforms in 2024. That number has climbed every year for the past five years. And it doesn't capture the softer harms — the persistent texts, the reverse phone lookups, the strangers who now know your neighborhood because you listed a table for $40.
+The FBI's Internet Crime Complaint Center recorded over 91,000 [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) and harassment reports tied to classified ad platforms in 2024. That number has climbed every year for the past five years. And it doesn't capture the softer harms — the persistent texts, the reverse phone lookups, the strangers who now know your neighborhood because you listed a table for $40.
 
 If you use dating apps *and* post on classified ad sites — Craigslist, OfferUp, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), Gumtree — you are running the same [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) through two very different crowds. That's not a privacy strategy. That's an open door.
 

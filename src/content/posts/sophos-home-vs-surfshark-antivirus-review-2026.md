@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2024, adults over 60 lost more than **$4.8 billion** to online fraud — the single largest figure ever recorded by the FBI Internet Crime Complaint Center for any age group. That is not a rounding error. Scammers deliberately target older adults because they tend to trust unexpected emails, answer unfamiliar calls, and click links that appear official. Once harmful software reaches your computer, it can silently record your passwords, drain bank accounts, and give strangers a back door into your personal files.
+In 2024, adults over 60 lost more than **$4.8 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — the single largest figure ever recorded by the FBI Internet Crime Complaint Center for any age group. That is not a rounding error. Scammers deliberately target older adults because they tend to trust unexpected emails, answer unfamiliar calls, and click links that appear official. Once harmful software reaches your computer, it can silently record your passwords, drain bank accounts, and give strangers a back door into your personal files.
 
 If you have been comparing [antivirus](https://snipstack.io/vs-antivirus-2026/) programs and wondering which one actually keeps seniors safe, this plain-English **sophos home vs [surfshark antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) review** is for you. No technical jargon. No confusing charts. Just a clear answer.
 

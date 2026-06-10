@@ -18,7 +18,7 @@ The [best antivirus for](https://snipstack.io/best-antivirus-for-windows-11-2026
 
 ## Why Windows 10 Seniors Are Targeted More Often
 
-Scammers specifically look for older computer users. Why? Because surveys consistently show that people over 60 lose more money to online fraud than any other age group. Windows 10 remains one of the most popular operating systems on the planet, which makes it the biggest target for viruses and malware.
+Scammers specifically look for older computer users. Why? Because surveys consistently show that people over 60 lose more money to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) than any other age group. Windows 10 remains one of the most popular operating systems on the planet, which makes it the biggest target for viruses and malware.
 
 Here are the four most common threats seniors face:
 

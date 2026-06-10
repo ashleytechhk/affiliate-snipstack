@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-Here is a number that should give you pause: according to the FBI's Internet Crime Report, people over 60 lost more than **$3.4 billion** to online fraud in a single year. That is more than any other age group — and phishing attacks were one of the leading causes.
+Here is a number that should give you pause: according to the FBI's Internet Crime Report, people over 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in a single year. That is more than any other age group — and phishing attacks were one of the leading causes.
 
 If you have ever received an email claiming to be from your bank, your doctor's office, or a well-known retailer asking you to "verify your account" or "claim a refund," you have been targeted by a phishing attack. You may not have known it at the time. That is the point — these scams are designed to look completely real.
 

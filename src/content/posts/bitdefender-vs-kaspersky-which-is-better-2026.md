@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-Americans over 60 lost more than **$3.4 billion to online fraud last year** — and that number is climbing. The single most common entry point was a device that had no active [antivirus](https://snipstack.io/vs-antivirus-2026/), or one that had not been updated in months.
+Americans over 60 lost more than **$3.4 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) last year** — and that number is climbing. The single most common entry point was a device that had no active [antivirus](https://snipstack.io/vs-antivirus-2026/), or one that had not been updated in months.
 
 If you are trying to decide between Bitdefender and Kaspersky to protect your computer, you are already doing the right thing. But the choice matters. One of these two products carries a serious, ongoing controversy that seniors especially should know about before handing over payment details. This guide breaks it down in plain language, with a clear recommendation at the end.
 

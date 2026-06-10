@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Surfshark Antivirus vs Kaspersky comparison guide for seniors 2026](/og/surfshark-antivirus-vs-kaspersky-comparison-2026.png)
 
-Adults over 60 lost more than **$3.4 billion to online fraud in a single year**, according to the FBI's Elder Fraud Report. That number goes up every year. Scammers know that many older adults are less familiar with online tricks — and they target that directly.
+Adults over 60 lost more than **$3.4 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in a single year**, according to the FBI's Elder Fraud Report. That number goes up every year. Scammers know that many older adults are less familiar with online tricks — and they target that directly.
 
 If you are still using Kaspersky [antivirus](https://snipstack.io/vs-antivirus-2026/), there is something you need to know right now. And if you are shopping for protection for the first time, this guide will tell you exactly what to get and why.
 

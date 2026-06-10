@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-Adults over 60 lose more money to cybercrime than any other age group. In 2023, the FBI's Internet Crime Complaint Center reported that Americans over 60 lost over **$3.4 billion** to online fraud — that is more than any other demographic, and the number climbs every single year. The criminals are not random. They are targeting seniors deliberately, because they know that older adults are more likely to be home on their computers, more trusting of official-looking emails, and less familiar with how quickly a threat can spread.
+Adults over 60 lose more money to cybercrime than any other age group. In 2023, the FBI's Internet Crime Complaint Center reported that Americans over 60 lost over **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — that is more than any other demographic, and the number climbs every single year. The criminals are not random. They are targeting seniors deliberately, because they know that older adults are more likely to be home on their computers, more trusting of official-looking emails, and less familiar with how quickly a threat can spread.
 
 If you live alone, or if you help care for an elderly parent, the question is not whether a threat will come. It is whether you will be ready when it does.
 

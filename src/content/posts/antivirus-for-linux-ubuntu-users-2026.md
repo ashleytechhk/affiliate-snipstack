@@ -50,7 +50,7 @@ Scammers and hackers are not random. They are strategic. They target seniors bec
 3. Many seniors are less likely to recognize warning signs before it is too late
 4. Older adults often use their computers for banking, health records, and government services — all high-value targets
 
-The FBI's Internet Crime Complaint Center reported that adults over 60 lost more than $3.4 billion to online fraud in a single recent year — more than any other age group. This is not a minor problem. This is a crisis affecting real people, and it is growing.
+The FBI's Internet Crime Complaint Center reported that adults over 60 lost more than $3.4 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in a single recent year — more than any other age group. This is not a minor problem. This is a crisis affecting real people, and it is growing.
 
 If you are using Ubuntu, you may feel a false sense of security. Ubuntu is a wonderful operating system, but it is not a shield against human manipulation or sophisticated malware. That is what [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) is for.
 

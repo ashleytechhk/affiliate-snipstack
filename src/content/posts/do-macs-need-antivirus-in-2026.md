@@ -32,7 +32,7 @@ That changed around 2012, and it has accelerated sharply since. Here is why:
 
 - **Macs became popular.** As more people switched from Windows to Mac — especially older adults who found iPhones and iPads easy to use — Mac users became a worthwhile target for criminals.
 - **Threats evolved beyond traditional viruses.** Today's biggest risks are not classic "viruses" that erase your hard drive. They are phishing websites that steal your passwords, adware that bombards you with fake alerts, and ransomware that locks your photos until you pay.
-- **Criminals specifically target seniors.** Studies consistently show that adults over 60 lose more money to online fraud than any other age group. Mac-owning seniors are a high-value target.
+- **Criminals specifically target seniors.** Studies consistently show that adults over 60 lose more money to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) than any other age group. Mac-owning seniors are a high-value target.
 
 The old advice — "buy a Mac and forget about security" — was never fully accurate, and in 2026 it is genuinely dangerous.
 

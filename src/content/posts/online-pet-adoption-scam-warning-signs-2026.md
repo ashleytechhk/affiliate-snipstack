@@ -146,7 +146,7 @@ If you believe you have already sent money to a pet adoption scammer:
 
 - **Contact your bank or payment provider immediately.** If you paid by credit card, you may be able to dispute the charge. Wire transfers and gift cards are much harder to recover.
 - **File a report with the FTC** at reportfraud.ftc.gov. This creates a record that helps investigators.
-- **Report to the Internet Crime Complaint Center (IC3)** at ic3.gov, which handles online fraud cases.
+- **Report to the Internet Crime Complaint Center (IC3)** at ic3.gov, which handles [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) cases.
 - **Tell your local police.** Even if recovery is unlikely, a report helps authorities track patterns.
 - **Warn others.** Post about the scam on the same platform where you found the listing — this can protect other potential victims.
 

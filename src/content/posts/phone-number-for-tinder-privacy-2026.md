@@ -96,7 +96,7 @@ Key advantages for Tinder specifically:
 - **No second device needed** — everything runs through the Surfshark app on your existing phone
 - **Works globally** — not restricted to the US or Canada like most free alternatives
 - **You control it entirely** — pause, replace, or cancel the number at any time without contacting a carrier
-- **Part of a broader privacy suite** — includes VPN access and data breach monitoring if you want them
+- **Part of a broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/)** — includes VPN access and data breach monitoring if you want them
 
 The one honest limitation: it's not free. If you want a privacy number that costs nothing, Google Voice is the closest option (with the caveats above). If you want one that actually works reliably for both Tinder verification and giving to matches, Alt-Number is the cleaner choice.
 
@@ -104,7 +104,7 @@ The one honest limitation: it's not free. If you want a privacy number that cost
 
 ---
 
-## How to Set Up a Tinder Privacy Number in Under 5 Minutes
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Tinder Privacy Number in Under 5 Minutes
 
 1. Download the Surfshark app from the App Store or Google Play
 2. Create an account or log in if you already have one

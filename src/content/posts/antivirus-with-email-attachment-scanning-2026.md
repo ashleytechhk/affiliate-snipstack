@@ -14,7 +14,7 @@ One morning in 2024, a 74-year-old retired teacher in Florida opened an email fr
 
 The scariest part? Her computer had [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) installed. It just did not scan email attachments.
 
-This is not a rare story. The FBI's Internet Crime Complaint Center reported that adults over 60 lost more money to online fraud than any other age group in 2023 — over $3.4 billion in total. And email attachments remain the single most common delivery method for the malware and ransomware that makes those losses possible.
+This is not a rare story. The FBI's Internet Crime Complaint Center reported that adults over 60 lost more money to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) than any other age group in 2023 — over $3.4 billion in total. And email attachments remain the single most common delivery method for the malware and ransomware that makes those losses possible.
 
 If your [antivirus](https://snipstack.io/vs-antivirus-2026/) does not specifically scan what arrives in your inbox before you open it, you are missing the most important layer of protection.
 

@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-**Adults over 60 lost more than $3.4 billion to online fraud in 2023 alone — the highest total of any age group, according to the FBI's Internet Crime Complaint Center.**
+**Adults over 60 lost more than $3.4 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in 2023 alone — the highest total of any age group, according to the FBI's Internet Crime Complaint Center.**
 
 That number did not come from people being careless. It came from people who thought they were protected — and weren't. If you have [Avast Free](https://snipstack.io/avast-free-antivirus-2026/) on your computer right now, there is something you need to know before you read another word: in 2024, the US Federal Trade Commission found that Avast had sold its users' detailed web browsing data to advertising companies through a subsidiary called Jumpshot. Avast settled for $16.5 million.
 

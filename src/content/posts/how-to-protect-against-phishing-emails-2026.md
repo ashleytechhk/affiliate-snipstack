@@ -6,7 +6,7 @@ heroImage: "/og/how-to-protect-against-phishing-emails-2026.png"
 tags: ["antivirus", "privacy", "review"]
 ---
 
-In 2023, the FBI reported that older adults lost more than **$3.4 billion** to online fraud — and phishing emails were the front door for most of it.
+In 2023, the FBI reported that older adults lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) — and phishing emails were the front door for most of it.
 
 If you have ever received an email saying your bank account is about to be closed, your package could not be delivered, or your computer has been infected, you have already been targeted. Most of those messages are designed to steal your password, your money, or both.
 
