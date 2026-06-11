@@ -166,7 +166,7 @@ Yes. The Surfshark app on iOS and Android includes Alt ID under the same account
 ## Frequently Asked Questions
 
 **Is it legal to use an anonymous or alias email address?**
-Yes, in virtually all jurisdictions, using an [email alias](https://snipstack.io/email-alias-outlook-2026/) for privacy protection is legal. It is a standard privacy practice used by millions of people worldwide. The laws that matter here are not about using aliases — they are about what you do with them.
+Yes, in virtually all jurisdictions, using an [email alias](https://snipstack.io/email-alias-outlook-2026/) for [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/) is legal. It is a standard privacy practice used by millions of people worldwide. The laws that matter here are not about using aliases — they are about what you do with them.
 
 **Does Alt ID keep my real email address completely hidden from senders?**
 Alt ID forwards email to your real inbox without revealing your real address to the sender. Surfshark can see the forwarding relationship as part of operating the service, but senders cannot. Read Surfshark's privacy policy for the full picture on data handling.

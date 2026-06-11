@@ -103,7 +103,7 @@ Hushed is a paid app (subscription or per-number) that gives you a [private numb
 
 **What does not:** An additional paid subscription on top of anything you already have. No bundled VPN or [email alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) tools — you are buying the number only.
 
-**Best for:** Users who specifically want a standalone private number without a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).
+**Best for:** Users who specifically want a standalone [private number](https://snipstack.io/private-number-for-craigslist-listings-2026/) without a broader [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).
 
 ---
 

@@ -106,7 +106,7 @@ Most websites that ask for a phone number are not asking because they need to ca
 
 An [alternative phone number](https://snipstack.io/second-phone-number-2026/) lets you complete verification without giving out your real number. Incoming texts from that number forward to your actual phone. Spam goes to the alias; you turn it off without changing your real number.
 
-For teenagers, this is particularly useful: a private number for every new sign-up means their real number stays clean.
+For teenagers, this is particularly useful: a [private number for](https://snipstack.io/private-number-for-craigslist-listings-2026/) every new sign-up means their real number stays clean.
 
 ---
 

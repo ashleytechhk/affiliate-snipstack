@@ -45,7 +45,7 @@ For basic protection, it works. Independent security labs rate it as "good" — 
 |---|---|
 | Basic virus protection | Yes |
 | Ransomware blocking | Partial |
-| Webcam privacy protection | No |
+| Webcam [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/) | No |
 | Real-time scam website alerts | Limited |
 | VPN for safer browsing | No |
 | Protection when using public Wi-Fi | No |

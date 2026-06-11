@@ -80,7 +80,7 @@ Apps like Google Voice, TextNow, or 2ndLine give you a [free second](https://sni
 
 ### Option 3: Use Alt Number (Recommended for Travelers)
 
-**[Alt Number](https://snipstack.io/blog/altnumber?sub=how-to-get-local-number-when-abroad-2026__mid)** is Surfshark's [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) service. It gives you a real US or UK [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — not a recycled VOIP line — that you can use from anywhere in the world.
+**[Alt Number](https://snipstack.io/blog/altnumber?sub=how-to-get-local-number-when-abroad-2026__mid)** [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [virtual number](https://snipstack.io/virtual-number-for-international-calling-cheap-2026/) service. It gives you a real US or UK [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — not a recycled VOIP line — that you can use from anywhere in the world.
 
 **Pros:**
 - Real number, not flagged as VOIP by dating apps
@@ -94,7 +94,7 @@ Apps like Google Voice, TextNow, or 2ndLine give you a [free second](https://sni
 - Currently US and UK numbers only (more regions expected in 2026)
 - Requires a Surfshark subscription
 
-For most travelers dating abroad, the tradeoffs are obvious: a real number that works reliably, costs nothing extra if you're already on Surfshark One, and takes five minutes to set up beats buying a local SIM in every scenario except "I specifically need a number that shows a local country code."
+For most travelers dating abroad, the tradeoffs are obvious: a real number that works reliably, costs nothing extra if you're already on [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/), and takes five minutes to set up beats buying a local SIM in every scenario except "I specifically need a number that shows a local country code."
 
 ---
 
@@ -102,7 +102,7 @@ For most travelers dating abroad, the tradeoffs are obvious: a real number that 
 
 The best time to set this up is before you board — not in a foreign airport on roaming data.
 
-**Step 1 — Get Surfshark One (or check if you have it)**
+**Step 1 — Get [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) (or check if you have it)**
 
 If you don't have Surfshark, get a plan that includes Alt Number. [Check current pricing and availability here](https://snipstack.io/blog/altnumber?sub=how-to-get-local-number-when-abroad-2026__mid). If you already have Surfshark VPN, log in and check whether Alt Number is included in your tier.
 
@@ -167,7 +167,7 @@ You probably don't need to prioritize this if you're only going abroad for a 3-d
 | Passes dating app verification | Yes | Inconsistent | Yes | Often blocked |
 | No SIM swap needed | Yes | Yes | No | Yes |
 | No ads | Yes | Yes | N/A | No (free tier) |
-| Cost | Bundled with Surfshark One | Free | $5–$25/trip | Free / $7/mo |
+| Cost | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | Free | $5–$25/trip | Free / $7/mo |
 
 For travelers who want reliability without the hardware hassle, Alt Number wins the comparison cleanly.
 
@@ -205,6 +205,6 @@ Your number is tied to your Surfshark account, not the device. Reinstall the Sur
 
 The gap between "I should protect my number while dating abroad" and actually doing it is almost always five minutes of setup. That's the only thing standing between you and a clean, disposable contact layer that keeps your real number, your WhatsApp, your banking OTPs, and your permanent contact identity out of a stranger's hands.
 
-**[Alt Number](https://snipstack.io/blog/altnumber?sub=how-to-get-local-number-when-abroad-2026__cta)** is the most friction-free way to handle this in 2026. No SIM swaps, no per-trip hardware, no ads, no VOIP flags on dating apps. If you're already on Surfshark One, open the app and set it up before your next trip. If you're not, the pricing page is worth a look before you board.
+**[Alt Number](https://snipstack.io/blog/altnumber?sub=how-to-get-local-number-when-abroad-2026__cta)** is the most friction-free way to handle this in 2026. No SIM swaps, no per-trip hardware, no ads, no VOIP flags on dating apps. If you're already on [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/), open the app and set it up before your next trip. If you're not, the pricing page is worth a look before you board.
 
 Your real number is yours. Keep it that way.

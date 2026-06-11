@@ -117,7 +117,7 @@ From that point, use the same Alt-Number anywhere else you'd otherwise expose yo
 
 **Sending or receiving payments via PayPal on dates.** Splitting dinner, buying concert tickets together, reimbursing each other for shared expenses — any PayPal transaction with someone you met on a dating app links your payment identity to your real contact information unless you're using an alternate number.
 
-**Moving off the dating app to texting.** The moment you share a number in direct conversation, the in-app privacy protections end. That number is now in their contacts. If that's your real number, they have a permanent line to your identity. If it's your Alt-Number, they have a line you can disconnect.
+**Moving off the dating app to texting.** The moment you share a number in direct conversation, the in-app [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/)s end. That number is now in their contacts. If that's your real number, they have a permanent line to your identity. If it's your Alt-Number, they have a line you can disconnect.
 
 **Ending things that turn uncomfortable.** Blocking someone on a dating app doesn't stop them from texting your phone number. Disabling an Alt-Number does. Messages to a deactivated number simply stop going through — no confrontation required, no blocking battle on your real line.
 

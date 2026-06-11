@@ -116,7 +116,7 @@ For a definitive test, go to **dnsleaktest.com** while connected — you should 
 
 ### Step 6 — Optionally Connect to a VPN Server
 
-CleanWeb runs without a VPN connection, but if you also want your traffic encrypted and your location private, tap **Connect** on the main screen to connect to the nearest server. The combination gives you ad blocking plus privacy protection in one step.
+CleanWeb runs without a VPN connection, but if you also want your traffic encrypted and your location private, tap **Connect** on the main screen to connect to the nearest server. The combination gives you ad blocking plus [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/) in one step.
 
 ---
 

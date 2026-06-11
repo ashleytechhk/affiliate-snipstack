@@ -164,7 +164,7 @@ No. Apps that use Apple's CallKit framework (Hiya, Robokiller, Nomorobo) run as 
 
 ### Is it legal to use a [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) as my dating contact number?
 
-Yes. Using a [virtual phone number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) for personal privacy is legal in most countries. [Virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) services are commonly used for business lines, privacy protection, and secondary contact channels. Surfshark Alt-Number is a product from a regulated company operating under standard telecom licensing. The number is a real, working number — the only difference is that it routes through the service rather than directly to your SIM. [Learn more about Alt-Number here.](/blog/altnumber?sub=best-call-blocker-app-for-iphone-2026__faq)
+Yes. Using a [virtual phone number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) for personal privacy is legal in most countries. [Virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) services are commonly used for business lines, [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/), and secondary contact channels. Surfshark Alt-Number is a product from a regulated company operating under standard telecom licensing. The number is a real, working number — the only difference is that it routes through the service rather than directly to your SIM. [Learn more about Alt-Number here.](/blog/altnumber?sub=best-call-blocker-app-for-iphone-2026__faq)
 
 ### Do these apps work on both calls and texts?
 

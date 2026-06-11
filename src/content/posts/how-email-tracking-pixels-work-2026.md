@@ -59,7 +59,7 @@ There are several ways to reduce or eliminate tracking pixel exposure. They oper
 | Method | Blocks Pixel? | Hides IP? | Stops Profiling? | Inbox Still Gets Spam? | Effort |
 |---|---|---|---|---|---|
 | Disable remote images (email client) | Yes | Yes | Partially | Yes | Low |
-| Apple Mail Privacy Protection | Proxied | Masked | Partially | Yes | Zero (auto) |
+| Apple Mail [Privacy Protection](https://snipstack.io/privacy-protection-software-review-2026/) | Proxied | Masked | Partially | Yes | Zero (auto) |
 | Gmail "Ask before displaying" | Yes | Yes | Partially | Yes | Low |
 | VPN / privacy browser | No | Yes | No | Yes | Medium |
 | Pixel-blocking browser extension | Rarely | No | No | Yes | Low |

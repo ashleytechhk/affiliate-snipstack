@@ -149,7 +149,7 @@ If your subscription lapsed, the number goes inactive. Renewing the subscription
 
 ### Can I use this number for WhatsApp as well as dating apps?
 
-Yes. The process is the same as any WhatsApp verification: enter the Alt-Number when WhatsApp asks for a phone number, retrieve the 6-digit code from the Alt-Number inbox, paste it in. You [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) WhatsApp account tied to your private number.
+Yes. The process is the same as any WhatsApp verification: enter the Alt-Number when WhatsApp asks for a phone number, retrieve the 6-digit code from the Alt-Number inbox, paste it in. You [get a second](https://snipstack.io/get-a-second-number-for-texting-2026/) WhatsApp account tied to your [private number](https://snipstack.io/private-number-for-craigslist-listings-2026/).
 
 ---
 

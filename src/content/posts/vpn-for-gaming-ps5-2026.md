@@ -26,7 +26,7 @@ That is why "[VPN for gaming](https://snipstack.io/vpn-for-gaming-pc-setup-2026/
 
 *A VPN routes your PS5's traffic through a server in another country. PlayStation Network sees that country's IP — not yours — and serves regional pricing and content accordingly.*
 
-## What Is a VPN for Gaming on PS5?
+## What Is a [VPN for Gaming](https://snipstack.io/vpn-for-gaming-xbox-2026/) on PS5?
 
 If you are new to this, start here.
 

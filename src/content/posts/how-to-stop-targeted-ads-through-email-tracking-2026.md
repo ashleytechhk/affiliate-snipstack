@@ -105,7 +105,7 @@ With this setting, Gmail asks you before downloading any images in emails. Since
 
 **Apple Mail (iOS):**
 1. Open **Settings** → **Mail**
-2. Scroll to **Privacy Protection**
+2. Scroll to **[Privacy Protection](https://snipstack.io/privacy-protection-software-review-2026/)**
 3. Toggle on **Protect Mail Activity**
 
 Apple Mail's privacy protection routes image downloads through Apple's proxy servers — trackers see Apple's IP address, not yours. This is one of the stronger implementations.

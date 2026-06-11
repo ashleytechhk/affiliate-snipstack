@@ -76,7 +76,7 @@ SetupVPN markets itself as a permanently free, unlimited VPN extension. In 2021,
 
 The extension has been updated since that disclosure. The structural problem is incentive: a free-forever product with no disclosed business model has no obvious path to funding the security work and infrastructure maintenance that a VPN requires. Extensions with unclear revenue models have historically monetized through data.
 
-**Verdict: Avoid.** The documented security history and opaque business model are disqualifying for a tool whose purpose is privacy protection.
+**Verdict: Avoid.** The documented security history and opaque business model are disqualifying for a tool whose purpose is [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/).
 
 ---
 

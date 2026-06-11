@@ -66,7 +66,7 @@ Every dating app requires SMS verification. That's when your number enters the a
 
 ### Moving a conversation off-app
 
-"Let's text instead" is a normal progression. It's also the moment in-app privacy protections stop. Once you've moved to WhatsApp or SMS, the other person has your number permanently — unless the number you gave them is the Alt-Number.
+"Let's text instead" is a normal progression. It's also the moment in-app [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/)s stop. Once you've moved to WhatsApp or SMS, the other person has your number permanently — unless the number you gave them is the Alt-Number.
 
 ### After a bad date
 

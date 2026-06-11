@@ -105,7 +105,7 @@ In the US, business registration databases often require a contact email. Small 
 
 ### What actually stops it
 
-Use a masked alias as the contact email for any public-record submission. For domain registration, use domain privacy protection (most registrars offer this for a few dollars per year) or use an alias as the WHOIS email. If the alias ends up in a broker's database, you can delete it without touching your real address.
+Use a masked alias as the contact email for any public-record submission. For domain registration, use domain [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/) (most registrars offer this for a few dollars per year) or use an alias as the WHOIS email. If the alias ends up in a broker's database, you can delete it without touching your real address.
 
 ---
 

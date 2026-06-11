@@ -130,7 +130,7 @@ A [virtual number](https://snipstack.io/virtual-number-for-google-account-verifi
 Yes. Alt-Number receives both incoming calls and SMS messages. Outgoing texts work as replies to messages you have received. The number functions as a complete communication channel for guest contact — not just for one-time verification codes.
 
 **Will guests be able to tell I am using a [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/)?**
-No. From a guest's side, your Alt-Number is indistinguishable from a regular mobile number. It appears on caller ID and in SMS threads as a standard US number. Nothing signals that it is virtual. The privacy protection is entirely on your end.
+No. From a guest's side, your Alt-Number is indistinguishable from a regular mobile number. It appears on caller ID and in SMS threads as a standard US number. Nothing signals that it is virtual. The [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/) is entirely on your end.
 
 **What happens if I need to cut off contact with a difficult guest?**
 From the Surfshark dashboard, you can disable your current Alt-Number or replace it with a new one. Any guest who calls or texts the old number after it is disabled will not reach you — the number is simply unavailable. Your real mobile number is completely unaffected. Your next set of guests can receive a fresh number with no connection to the previous situation.
