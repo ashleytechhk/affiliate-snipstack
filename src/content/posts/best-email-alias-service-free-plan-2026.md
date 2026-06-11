@@ -152,7 +152,7 @@ SimpleLogin and Addy.io are open-source — code is auditable. Surfshark and Moz
 **Which [email alias](https://snipstack.io/email-alias-for-gym-membership-signup-2026/) service has the best free plan?**
 SimpleLogin's 10-alias free tier is the strongest standalone free option, with full reply support and no expiry. If you're willing to pay for a VPN (or already do), Alt-ID's bundled unlimited aliases make it the better value overall. [See Alt-ID's current plans here.](/blog/altid?sub=best-email-alias-service-free-plan-2026__faq)
 
-**Is Surfshark Alt-ID free?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt-ID free?**
 Alt-ID is included with Surfshark subscriptions, which are paid. Surfshark does offer a money-back guarantee period, letting you test the full product including Alt-ID before committing. It is not a standalone free service.
 
 **Can I use an [email alias](https://snipstack.io/email-alias-for-real-estate-inquiries-2026/) to stop all spam?**

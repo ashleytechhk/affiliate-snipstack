@@ -270,7 +270,7 @@ It depends on the service. WhatsApp has historically rejected many VoIP numbers 
 
 ### Can I keep my [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) permanently?
 
-Yes — paid services like Surfshark Alternative Number, Burner, and Hushed on a monthly plan give you a permanent number as long as your subscription is active. Google Voice numbers are permanent and free for US users. Disposable/temporary numbers (Hushed's short-term plans) expire after the selected duration.
+Yes — paid services like Surfshark Alternative Number, Burner, and Hushed on a monthly plan give you a permanent number as long as your subscription is active. Google Voice numbers are permanent and free for US users. Disposable/[temporary number](https://snipstack.io/temporary-number-for-one-time-use-2026/)s (Hushed's short-term plans) expire after the selected duration.
 
 ### Will my [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) work for bank and financial app verification?
 

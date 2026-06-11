@@ -88,7 +88,7 @@ If you are evaluating the antivirus engine alone, that is a narrow view of what 
 
 The core scanner provides real-time [protection against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) malware, spyware, and ransomware. Threat definitions update every three hours via cloud-based detection, supplementing the local database. You can schedule scans, run quick or full scans, and exclude specific folders from scanning. Surfshark's antivirus has earned top marks from AV-TEST in past evaluation cycles, placing it among tested and certified tools rather than unproven newcomers.
 
-On Windows 11, enabling Surfshark Antivirus automatically turns off Defender's active scanning — the two engines do not run simultaneously. This is standard behavior for any third-party AV that Windows recognizes as a qualified replacement.
+On Windows 11, enabling [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) automatically turns off Defender's active scanning — the two engines do not run simultaneously. This is standard behavior for any third-party AV that Windows recognizes as a qualified replacement.
 
 ### Webcam Protection
 

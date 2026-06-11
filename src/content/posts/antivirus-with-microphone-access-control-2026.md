@@ -153,7 +153,7 @@ That is it. From that point forward, Surfshark watches your device 24 hours a da
 
 ### Does antivirus software actually protect your microphone?
 
-Yes — modern antivirus products with privacy features monitor which apps request access to your microphone in real time. When an app tries to activate the microphone without your knowledge or without a clear purpose, the software alerts you and gives you the option to block it. Surfshark Antivirus includes this feature as part of its standard package. [Learn more here.](/blog/antivirus?sub=antivirus-with-microphone-access-control-2026__faq)
+Yes — modern antivirus products with privacy features monitor which apps request access to your microphone in real time. When an app tries to activate the microphone without your knowledge or without a clear purpose, the software alerts you and gives you the option to block it. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) includes this feature as part of its standard package. [Learn more here.](/blog/antivirus?sub=antivirus-with-microphone-access-control-2026__faq)
 
 ### How do I know if spyware is already listening to me?
 

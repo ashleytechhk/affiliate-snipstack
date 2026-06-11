@@ -202,7 +202,7 @@ For everyone else — particularly anyone setting up or maintaining security for
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is Surfshark ONE actually antivirus or just a VPN?",
+      "name": "[Is Surfshark ONE](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) actually antivirus or just a VPN?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Surfshark ONE includes a full antivirus scanner with real-time threat detection, an unlimited VPN, breach monitoring via Surfshark Alert, a DNS-level ad and phishing blocker (CleanWeb), and an [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) tool (Alternative ID). The antivirus and VPN components run independently."

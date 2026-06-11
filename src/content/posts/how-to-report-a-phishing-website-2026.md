@@ -143,7 +143,7 @@ Every phishing website is registered through a domain registrar (the company tha
 
 This channel takes more effort but can permanently kill a phishing site rather than just flagging it.
 
-**How to find the registrar:**
+**[How to find](https://snipstack.io/how-to-find-out-which-site-sold-my-email-2026/) the registrar:**
 
 1. Go to `lookup.icann.org` — this is the official tool run by the body that oversees internet domain names.
 2. Enter the phishing website's domain.

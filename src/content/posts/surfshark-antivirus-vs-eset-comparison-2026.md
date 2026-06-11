@@ -89,7 +89,7 @@ For ESET Premium users who already get a VPN in their plan, the bundle argument 
 
 Both products are marketed as lightweight, and both largely deliver on that claim.
 
-### Surfshark Antivirus
+### [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/)
 
 Surfshark was designed from the start to minimize CPU and RAM overhead. Its performance score in AV-Test certification (5.5/6) is strong — system slowdown during scans and background operation is minimal. Users on older Windows 10 machines generally report no noticeable impact during day-to-day use.
 

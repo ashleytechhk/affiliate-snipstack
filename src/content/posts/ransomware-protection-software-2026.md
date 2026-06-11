@@ -181,7 +181,7 @@ The clearest signs are: files you cannot open anymore, files that have had ".loc
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) ransomware protection software cost per year?
 
-Paid options in this comparison range from about $48 to $90 per year at renewal (not introductory promotional pricing). Surfshark Antivirus sits at the lower end and covers unlimited devices, which is a significant advantage for households with more than one computer. Windows Defender is free but covers only basic threats.
+Paid options in this comparison range from about $48 to $90 per year at renewal (not introductory promotional pricing). [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) sits at the lower end and covers unlimited devices, which is a significant advantage for households with more than one computer. Windows Defender is free but covers only basic threats.
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus work on Windows 10?
 

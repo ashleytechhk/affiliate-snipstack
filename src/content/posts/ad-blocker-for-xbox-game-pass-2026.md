@@ -175,7 +175,7 @@ No. uBlock Origin is a browser extension and does not run inside native apps on 
 
 DNS-level blocking that targets known ad and tracker domains should not break core app functionality — those calls are separate from the game streaming, library browsing, and account management features. There is a small risk of blocking first-party Microsoft domains if a blocklist is overly aggressive, but Surfshark's CleanWeb is tuned to minimize false positives. If you notice anything broken, toggle CleanWeb off temporarily to verify.
 
-**Is Surfshark CleanWeb free?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) CleanWeb free?**
 
 CleanWeb is included with all Surfshark subscriptions at no additional charge. It is not a standalone free product. Surfshark subscriptions start at a low monthly rate on 2-year plans (check current pricing for accurate figures). If you want free DNS-level blocking without a VPN subscription, Android's Private DNS feature with a free [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) server is an alternative worth exploring.
 

@@ -154,7 +154,7 @@ Windows Defender is the free built-in security tool in Windows. It provides basi
 
 **Can I install antivirus myself, or do I need help?**
 
-You can install it yourself. The process involves downloading one file and clicking "Install." Surfshark Antivirus walks you through each step with clear on-screen instructions. If you get stuck at any point, their live chat support is available around the clock and can guide you through it step by step.
+You can install it yourself. The process involves downloading one file and clicking "Install." [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) walks you through each step with clear on-screen instructions. If you get stuck at any point, their live chat support is available around the clock and can guide you through it step by step.
 
 **What if I already have a virus on my laptop?**
 

@@ -177,7 +177,7 @@ Yes. A [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-f
 
 ### How do I know if my details have been stolen in a data breach?
 
-You often do not know until something goes wrong. The safest approach is to use a breach monitoring tool — included with Surfshark Antivirus — that automatically watches known breach databases and alerts you the moment your email address or an associated password appears. This gives you the chance to change that password before any criminal can use it.
+You often do not know until something goes wrong. The safest approach is to use a breach monitoring tool — included with [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) — that automatically watches known breach databases and alerts you the moment your email address or an associated password appears. This gives you the chance to change that password before any criminal can use it.
 
 ---
 

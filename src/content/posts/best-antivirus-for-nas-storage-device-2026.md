@@ -155,7 +155,7 @@ Yes. Built-in NAS security features protect the NAS box itself, but they cannot 
 
 ### Can [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) install directly on a NAS device?
 
-No, and any service claiming to do so for a home NAS should be researched carefully. Surfshark Antivirus runs on Windows, Mac, Android, and iOS — the operating systems used by your personal devices. Protecting those devices is the most effective way to safeguard what is stored on your NAS.
+No, and any service claiming to do so for a home NAS should be researched carefully. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) runs on Windows, Mac, Android, and iOS — the operating systems used by your personal devices. Protecting those devices is the most effective way to safeguard what is stored on your NAS.
 
 ### What is ransomware and how does it affect a NAS?
 

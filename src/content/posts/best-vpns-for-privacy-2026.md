@@ -123,7 +123,7 @@ For users who want a pure VPN comparison rather than a suite comparison:
 
 ## Frequently Asked Questions
 
-**Is Surfshark truly no-logs? How do I know?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) truly no-logs? How do I know?**
 
 Surfshark's no-logs policy has been independently audited by Deloitte. The audit confirmed that Surfshark does not store connection timestamps, IP addresses, browsing history, or session data. This is verifiable third-party verification, not a self-reported claim. [See the full Surfshark One bundle details here.](/blog/surfshark?sub=best-vpns-for-privacy-2026__faq)
 

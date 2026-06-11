@@ -149,7 +149,7 @@ They do completely different jobs. Tor hides your location and browsing activity
 Modern antivirus software, including Surfshark, is designed to be lightweight. Most users notice no slowdown during everyday tasks like browsing, email, or video calls. Scheduled full scans might briefly use more processing power, but you can set those to run while you are not using the computer.
 
 **Q: How often do I need to update the antivirus?**
-With Surfshark Antivirus, you do not need to manually update anything. The virus database updates automatically in the background, so your protection always covers the latest threats.
+With [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/), you do not need to manually update anything. The virus database updates automatically in the background, so your protection always covers the latest threats.
 
 ---
 

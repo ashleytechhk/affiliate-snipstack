@@ -166,7 +166,7 @@ Once you delete an alias, any mail sent to that address has nowhere to forward. 
 
 Some high-security services — banks, government portals, healthcare providers — block domains associated with known privacy or alias tools. If a service rejects your alias at signup, use your real address for that account. These are typically accounts that warrant a direct relationship with your actual inbox anyway. For everything else — subscriptions, trials, newsletters, shopping — aliases work reliably.
 
-**Is Surfshark Alt-ID private if Surfshark can see my forwarding activity?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt-ID private if Surfshark can see my forwarding activity?**
 
 Surfshark processes forwarding to deliver your email, similar to how any email service processes delivery. Surfshark's privacy policy and no-logs stance apply to the Alt-ID service. If you need zero-knowledge alias forwarding and are comfortable with a more technical setup, SimpleLogin's self-hosted option offers that at the infrastructure level. For most spam-prevention use cases, Alt-ID's privacy posture is more than adequate. **[See Alt-ID's details via Surfshark](/blog/altid?sub=email-alias-for-privacy-without-creating-new-account-2026__faq)**
 

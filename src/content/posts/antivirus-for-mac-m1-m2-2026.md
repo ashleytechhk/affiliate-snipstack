@@ -184,7 +184,7 @@ Yes. One Surfshark subscription covers multiple devices, including iPhone and iP
 
 **What should I do if a scan finds something on my Mac?**
 
-Surfshark Antivirus presents flagged items with a plain-English description and a single **Remove** button. Clicking it moves the threat to quarantine, where it cannot do anything. Your personal files — photos, documents, emails — are not affected. If you are uncertain about any flagged item, [Surfshark's customer support](/blog/antivirus?sub=antivirus-for-mac-m1-m2-2026__faq) is available around the clock and can explain what was found in plain language.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) presents flagged items with a plain-English description and a single **Remove** button. Clicking it moves the threat to quarantine, where it cannot do anything. Your personal files — photos, documents, emails — are not affected. If you are uncertain about any flagged item, [Surfshark's customer support](/blog/antivirus?sub=antivirus-for-mac-m1-m2-2026__faq) is available around the clock and can explain what was found in plain language.
 
 **Is my bank account at risk if I have not been running antivirus?**
 

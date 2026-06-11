@@ -136,7 +136,7 @@ There are several security products on the market. Here is why [Surfshark Antivi
 
 Getting protected takes less than five minutes:
 
-1. Click the link below to visit the Surfshark Antivirus offer page
+1. Click the link below to visit the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) offer page
 2. Choose a plan (the two-year plan offers the best savings)
 3. Create an account and download the app on your Smart TV (Android TV) and other devices
 4. Open the app, follow the simple on-screen setup, and you are done

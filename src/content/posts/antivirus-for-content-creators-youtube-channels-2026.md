@@ -164,7 +164,7 @@ Windows Defender covers basic threats but has documented gaps with the specific 
 
 **Q: What if I use a Mac instead of Windows?**
 
-Surfshark Antivirus is available for both Windows and Mac. Mac users are not immune from the threats described in this article. The phishing pages, sponsorship email scams, and fake software downloads that target YouTubers affect Mac users just as much as Windows users.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) is available for both Windows and Mac. Mac users are not immune from the threats described in this article. The phishing pages, sponsorship email scams, and fake software downloads that target YouTubers affect Mac users just as much as Windows users.
 
 **Q: Will antivirus software slow down my video editing?**
 

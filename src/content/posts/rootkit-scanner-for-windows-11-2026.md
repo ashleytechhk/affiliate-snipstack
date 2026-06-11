@@ -166,7 +166,7 @@ During a full scan, you may notice your computer is slightly slower — this is 
 
 ### I already have antivirus software. Do I still need a rootkit scanner?
 
-It depends on what your current antivirus includes. Many standard antivirus programs — including some paid ones — do not include deep rootkit scanning. Check your software's feature list and look specifically for "rootkit detection" or "deep scan." If those features are not listed, your computer may have gaps in its protection. Surfshark Antivirus includes rootkit scanning as a core feature, not an add-on.
+It depends on what your current antivirus includes. Many standard antivirus programs — including some paid ones — do not include deep rootkit scanning. Check your software's feature list and look specifically for "rootkit detection" or "deep scan." If those features are not listed, your computer may have gaps in its protection. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) includes rootkit scanning as a core feature, not an add-on.
 
 ---
 

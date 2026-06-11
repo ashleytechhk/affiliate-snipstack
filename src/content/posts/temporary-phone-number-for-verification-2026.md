@@ -74,7 +74,7 @@ For dating apps, Hushed works reliably. You can use it to verify, then keep that
 
 The main downside is cost. Hushed starts at around $4/month for a single number and goes up from there. That's not a lot, but it's another subscription on top of everything else you're already paying for.
 
-**Bottom line for online daters:** If you want a standalone, clean, no-ads temporary number solution and don't mind the extra cost, Hushed is the most purpose-built option in this list.
+**Bottom line for online daters:** If you want a standalone, clean, no-ads [temporary number](https://snipstack.io/temporary-number-for-one-time-use-2026/) solution and don't mind the extra cost, Hushed is the most purpose-built option in this list.
 
 ---
 

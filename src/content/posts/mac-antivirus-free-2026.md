@@ -159,7 +159,7 @@ No. Apple's built-in tools are free and already running. A free trial of [Surfsh
 
 **What if I accidentally click a bad link before I install [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/)?**
 
-Do not panic. Close the browser tab immediately by pressing Command and W at the same time. Do not enter any personal information, call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) shown on screen, or download anything the page prompts. If you think you may have already typed in a password, change that password on a different device (a smartphone works fine) and contact the real organization — your actual bank, for example — using a phone number from a statement, not one found online. Then install [antivirus software](https://snipstack.io/antivirus-software-2026/) and run a full scan.
+Do not panic. Close the browser tab immediately by pressing Command and W at the same time. Do not enter any personal information, call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) shown on screen, or download anything the page prompts. If you think you may have already typed in a password, change that password on a different device (a smartphone works fine) and contact the real organization — your actual bank, for example — using a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) from a statement, not one found online. Then install [antivirus software](https://snipstack.io/antivirus-software-2026/) and run a full scan.
 
 **Will antivirus software slow down my Mac?**
 

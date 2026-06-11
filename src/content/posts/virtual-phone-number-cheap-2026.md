@@ -100,7 +100,7 @@ The downside: Hushed numbers are VoIP and get flagged by some verification syste
 
 **Cost:** ~$1.99 for 3 days, ~$3.99/month ongoing. Lifetime plan available (~$25 one-time).
 
-**Works for:** Short-term privacy between matches, temporary numbers during the early texting phase.
+**Works for:** Short-term privacy between matches, [temporary number](https://snipstack.io/temporary-number-for-one-time-use-2026/)s during the early texting phase.
 
 ---
 

@@ -157,7 +157,7 @@ Services like HaveIBeenPwned (haveibeenpwned.com) track email addresses across k
 
 Yes. There is no rule against using a secondary number for dating app registration. The apps verify that you received an SMS code — they don't verify that the number is your "primary" line. A real, carrier-backed number from Alt-Number passes this check the same way a SIM-issued number does.
 
-**What happens to my existing dating matches if I switch to a secondary number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my existing dating matches if I switch to a secondary number?**
 
 Switching your number going forward doesn't affect existing contacts — anyone who already has your real number still has it. The secondary number strategy works best implemented before a breach happens, or before new matches receive your contact information. For existing contacts where you gave your real number and now regret it, the only options are blocking specific callers or doing a full number change through your carrier.
 
@@ -165,7 +165,7 @@ Switching your number going forward doesn't affect existing contacts — anyone 
 
 Google Voice provides a [free second](https://snipstack.io/free-second-phone-number-for-whatsapp-2026/)ary number, but it's widely recognized as a VoIP line. Many dating apps — particularly ones with stricter fraud prevention systems — maintain blocklists of known VoIP number ranges and reject them during SMS verification. Alt-Number uses carrier-range numbers that pass these checks. The distinction matters most at app signup, where a rejected number means starting over with a different service anyway.
 
-**Does Surfshark Alt-Number work outside the US?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-Number work outside the US?**
 
 Alt-Number offers numbers in multiple countries. If you're dating in the UK or elsewhere, check the current country availability in the Surfshark app. [Current plan details here.](/blog/altnumber?sub=how-to-avoid-spam-calls-after-data-breach-2026__faq)
 

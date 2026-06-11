@@ -212,4 +212,4 @@ Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-d
 
 ---
 
-*Disclosure: This article contains affiliate links. If you purchase Surfshark Antivirus through our links, we may earn a commission at no extra cost to you. Our recommendations are based on honest assessment of the product.*
+*Disclosure: This article contains affiliate links. If you purchase [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) through our links, we may earn a commission at no extra cost to you. Our recommendations are based on honest assessment of the product.*

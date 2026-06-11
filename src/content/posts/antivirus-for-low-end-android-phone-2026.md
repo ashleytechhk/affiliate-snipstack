@@ -140,7 +140,7 @@ A well-designed antivirus like Surfshark will not noticeably slow your phone. It
 
 ### My phone only has 1GB of RAM. Will antivirus still work?
 
-Yes. Surfshark Antivirus is designed to run on phones with limited memory, including devices with 1GB or 2GB of RAM that are common in the budget Android category. The app is engineered to be unobtrusive so it does not compete with your other running apps.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) is designed to run on phones with limited memory, including devices with 1GB or 2GB of RAM that are common in the budget Android category. The app is engineered to be unobtrusive so it does not compete with your other running apps.
 
 ### Is my old Android phone really at risk if I just use it for calling and messaging?
 

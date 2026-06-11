@@ -202,7 +202,7 @@ No. Modern antivirus programs like Surfshark are specifically designed so that a
 
 ### How often do I need to update or check on the antivirus?
 
-With Surfshark Antivirus, updates happen automatically in the background. You do not need to schedule them or remember to do anything. The software checks for new threat information constantly and keeps itself current without any input from you. Once a month, it is a good habit to open the app and confirm the protection is still switched on — but beyond that, the software handles everything else.
+With [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/), updates happen automatically in the background. You do not need to schedule them or remember to do anything. The software checks for new threat information constantly and keeps itself current without any input from you. Once a month, it is a good habit to open the app and confirm the protection is still switched on — but beyond that, the software handles everything else.
 
 ### Is it worth paying for antivirus when free options exist?
 

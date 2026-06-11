@@ -167,7 +167,7 @@ Yes. You can use your Surfshark Alt Number with as many apps as you like. It is 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my Alt Number — can someone call it again?**
 Once you delete or release the number, it is no longer associated with your account. Calls to that number will not reach you. This makes it easy to cut off contact completely if a situation becomes uncomfortable.
 
-**Is Surfshark Alt Number available outside the US?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt Number available outside the US?**
 Surfshark Alt Number supports numbers in multiple countries including the US and UK. Coverage continues to expand. Check the current country list inside the Surfshark app at signup.
 
 ---

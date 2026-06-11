@@ -155,7 +155,7 @@ Yes. The Surface Pro runs Windows, and Windows is targeted more than any other o
 
 ### Will antivirus software slow down my Surface Pro?
 
-Modern antivirus programs are built to run quietly with very little impact on performance. Surfshark Antivirus is specifically designed to be lightweight. You may notice a slight slowdown during the first full scan, but normal use — browsing, email, video calls — will feel completely unchanged after that.
+Modern antivirus programs are built to run quietly with very little impact on performance. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) is specifically designed to be lightweight. You may notice a slight slowdown during the first full scan, but normal use — browsing, email, video calls — will feel completely unchanged after that.
 
 ### I already have Windows Defender — is that not enough?
 

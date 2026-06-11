@@ -40,7 +40,7 @@ It is not a replacement for a browser extension if you want cosmetic filtering (
 
 ## What [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) CleanWeb?
 
-CleanWeb is Surfshark's DNS-level ad and tracker blocking feature. It is not a browser extension — it is a setting inside the Surfshark VPN application that, when enabled, routes your DNS queries through Surfshark's servers and blocks requests to domains on their blocklist.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s DNS-level ad and tracker blocking feature. It is not a browser extension — it is a setting inside the Surfshark VPN application that, when enabled, routes your DNS queries through Surfshark's servers and blocks requests to domains on their blocklist.
 
 **How it works technically:**
 

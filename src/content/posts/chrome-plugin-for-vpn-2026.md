@@ -94,7 +94,7 @@ If you're an ExpressVPN subscriber who already has the desktop app running, the 
 | **HTTPS enforcement** | Yes | Yes | Yes |
 | **Requires account login** | Yes | Yes | Yes |
 | **Server count** | 6,000+ servers | 3,200+ servers | 3,000+ servers |
-| **Cookie popup blocker** | No | Yes | No |
+| **Cookie [popup blocker](https://snipstack.io/popup-blocker-for-windows-11-2026/)** | No | Yes | No |
 | **Split tunneling in browser** | No | No | No |
 
 *Features based on publicly documented extension capabilities as of early 2026. Extension features update independently of desktop apps.*

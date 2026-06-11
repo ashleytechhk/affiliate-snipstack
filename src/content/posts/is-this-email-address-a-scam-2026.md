@@ -57,7 +57,7 @@ The single most effective defence is a habit you can build in the next five minu
 
 ---
 
-## How to Find the Real Sender Address
+## [How to Find](https://snipstack.io/how-to-find-out-which-site-sold-my-email-2026/) the Real Sender Address
 
 Many email apps hide the full address behind a friendly display name. Here is how to reveal it:
 

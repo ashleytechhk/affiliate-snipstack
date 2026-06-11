@@ -182,7 +182,7 @@ No. [Surfshark One bundle](https://snipstack.io/surfshark-one-bundle-worth-it-20
 **How many devices [does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) cover?**
 Unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — Windows, Mac, iOS, Android, and Linux. Kaspersky Plus caps at five devices on the Plus tier. For households with more than five devices, Surfshark One delivers better coverage per dollar.
 
-**Is Surfshark's antivirus as strong as Kaspersky's?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s antivirus as strong as Kaspersky's?**
 Kaspersky has a longer antivirus lab-test track record and historically stronger detection scores. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) is newer but competent, with a lighter performance footprint. The comparison is less relevant for US users since Kaspersky's database is no longer updating.
 
 **Will switching from Norton or McAfee to Surfshark One improve my computer's performance?**

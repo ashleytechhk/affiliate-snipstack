@@ -203,7 +203,7 @@ Google Play Protect is useful and already running on your phone — leave it on.
 
 ### Will [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) slow down my Android phone?
 
-Modern antivirus apps are designed to be lightweight. Surfshark Antivirus, Bitdefender, and Malwarebytes all have low battery and performance impact on Android 14. The scan runs quickly in the background when you install a new app. During normal phone use — calls, messages, browsing — you will not notice the antivirus running at all.
+Modern antivirus apps are designed to be lightweight. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/), Bitdefender, and Malwarebytes all have low battery and performance impact on Android 14. The scan runs quickly in the background when you install a new app. During normal phone use — calls, messages, browsing — you will not notice the antivirus running at all.
 
 ### What is the difference between antivirus and a VPN?
 

@@ -169,7 +169,7 @@ Norton commonly runs promotional introductory pricing in the range of $19.99–$
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus work on Mac and Android, not just Windows?
 
-Yes. Surfshark Antivirus supports Windows, Mac, and Android. The VPN component of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) supports Windows, Mac, iOS, Android, Linux, and browser extensions. The coverage across operating systems is broader than most people expect from a single-subscription security suite.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) supports Windows, Mac, and Android. The VPN component of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) supports Windows, Mac, iOS, Android, Linux, and browser extensions. The coverage across operating systems is broader than most people expect from a single-subscription security suite.
 
 ---
 

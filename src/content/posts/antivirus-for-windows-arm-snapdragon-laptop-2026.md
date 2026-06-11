@@ -96,7 +96,7 @@ One Surfshark subscription covers an unlimited number of devices. That means you
 
 ---
 
-## How to Install Surfshark Antivirus on Your Snapdragon Laptop
+## How to Install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) on Your Snapdragon Laptop
 
 Here is the full process, written for someone who does not consider themselves a tech person. Every step is described in plain language.
 

@@ -158,7 +158,7 @@ Warning signs include: files you cannot open, file names that have changed to ra
 [Free antivirus](https://snipstack.io/vs-free-antivirus-2026/) programs offer basic protection but typically lack real-time scanning, automatic updates, and multi-device coverage. For protecting a NAS — where years of irreplaceable files are at stake — a reliable paid antivirus like Surfshark gives you peace of mind that free options cannot match.
 
 **Does [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) work on Apple devices?**
-Yes. Surfshark Antivirus works on Windows, macOS, Android, and iOS devices. If you use an iPad or iPhone to access your NAS, you can protect that device too.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) works on Windows, macOS, Android, and iOS devices. If you use an iPad or iPhone to access your NAS, you can protect that device too.
 
 ---
 

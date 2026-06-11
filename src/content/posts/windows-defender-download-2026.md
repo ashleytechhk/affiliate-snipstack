@@ -32,7 +32,7 @@ That is it. No credit card, no download, no installation disc.
 
 Yes. Microsoft includes Windows Defender on **every** Windows 10 and Windows 11 computer sold since 2015. You do not download it from a website. It lives inside your computer, waiting to be switched on.
 
-Many people ask: "Where do I download Windows Defender?" The honest answer is — you already have it. The steps below show you how to find it, check it is running, and run your first scan.
+Many people ask: "Where do I download Windows Defender?" The honest answer is — you already have it. The steps below show you [how to find](https://snipstack.io/how-to-find-out-which-site-sold-my-email-2026/) it, check it is running, and run your first scan.
 
 ![Windows Security dashboard overview](/og/windows-defender-download-2026.png)
 

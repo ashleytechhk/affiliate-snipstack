@@ -242,7 +242,7 @@ The right approach is to test with a no-risk window. Surfshark's WireGuard proto
     },
     {
       "@type": "Question",
-      "name": "Is Surfshark worth it just for gaming?",
+      "name": "[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) worth it just for gaming?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Surfshark's lowest-cost plan runs around $2.19/month on a 2-year commitment. Whether it is worth it for gaming alone depends on whether it measurably improves your ping — which is why the 30-day test window exists. If it helps, the cost is minimal. If it does not, you can refund it."

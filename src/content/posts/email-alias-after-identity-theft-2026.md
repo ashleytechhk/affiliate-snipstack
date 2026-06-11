@@ -201,7 +201,7 @@ Start with one per category: shopping, newsletters, social accounts, work tools,
 
 You cannot remove it from existing breach lists. What you can do: stop using it for new signups (alias everything going forward), apply aggressive spam filters for breach-sourced patterns, and consider migrating your most important accounts — banking, primary social media, work tools — to a fresh address or a protected alias that you use as your new primary. The [Alt ID](/blog/altid?sub=email-alias-after-identity-theft-2026__faq) setup takes about ten minutes and immediately stops the bleeding on new data exposure.
 
-**Is Surfshark Alt ID worth it if I only need the alias feature?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt ID worth it if I only need the alias feature?**
 
 The alias feature alone may not justify a full Surfshark subscription if you have no interest in VPN coverage. If you travel, use public Wi-Fi, or want layered privacy tools in one place, the bundled value is strong. If you just need aliases, addy.io paid at $12/year is the more economical standalone choice — you give up identity generation but keep full alias functionality.
 

@@ -57,7 +57,7 @@ For Craigslist specifically, this matters because:
 
 The number is not connected to your real personal line in any way that responders can discover. It exists in the Surfshark app and dies when you choose to end it.
 
-If you already use Surfshark for a VPN, Alt Number comes bundled into the same subscription at no extra cost. If you don't, it's an additional line item — though for daters who cross-post on Craigslist, Facebook Marketplace, and similar platforms, having a single reusable privacy number for listings is cleaner than running separate accounts on three different burner apps.
+If you already use Surfshark for a VPN, Alt Number comes bundled into the same subscription at no extra cost. If you don't, it's an additional line item — though for daters who cross-post on Craigslist, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), and similar platforms, having a single reusable privacy number for listings is cleaner than running separate accounts on three different burner apps.
 
 ---
 
@@ -109,7 +109,7 @@ TextNow is worth trying if you want to test the concept of a private listing num
 
 ---
 
-## How to Set Up a Private Listing Number in Under 5 Minutes
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Private Listing Number in Under 5 Minutes
 
 Regardless of which provider you choose, the setup is the same in principle:
 

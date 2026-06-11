@@ -192,7 +192,7 @@ Yes. Alt-ID forwards all incoming email from your alias to the real address you 
 **[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I delete an alias?**
 Any email sent to that alias after deletion bounces permanently. Emails already in transit when you delete may still arrive, but the channel closes immediately for new messages. Your real address is never exposed.
 
-**Is Surfshark Alt-ID included in the basic Surfshark plan?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt-ID included in the basic Surfshark plan?**
 Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) and One+ plans. It is not a paid add-on — if you subscribe to either plan, you have access to Alt-ID as part of the package.
 
 ---

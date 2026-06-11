@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 One in three women who use dating apps reports being contacted by someone who made them feel unsafe after they shared a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/). That is not a fringe case — it is the reality of modern online dating. Your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is far more personal than most people realize: it can expose your full name, home address, workplace, and social media profiles through a simple reverse lookup. Once you hand it to the wrong person, you cannot un-hand it.
 
-A [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) that expires after use solves this at the root. Instead of your real digits, you share a temporary number that forwards calls and texts normally — then disappears the moment you decide to move on.
+A [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) that expires after use solves this at the root. Instead of your real digits, you share a [temporary number](https://snipstack.io/temporary-number-for-one-time-use-2026/) that forwards calls and texts normally — then disappears the moment you decide to move on.
 
 ![Virtual number privacy for online dating](/og/virtual-number-that-expires-after-use-2026.png)
 

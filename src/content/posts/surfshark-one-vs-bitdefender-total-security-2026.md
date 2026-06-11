@@ -154,7 +154,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-revie
 
 Yes. [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) includes unlimited simultaneous connections, so every person in the household can run the full suite — VPN, antivirus, and alerts — on their own devices without needing separate accounts or licenses.
 
-### What is Surfshark Alert and is it worth using?
+### What [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alert and is it worth using?
 
 Surfshark Alert monitors your email addresses, passwords, credit cards, and personal IDs against known breach databases. When your data appears in a leaked dataset, you get an alert so you can act immediately — change passwords, cancel cards, freeze credit. It is included in all [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/)s at no extra cost. Bitdefender does not include equivalent breach monitoring in Total Security; it is a separate add-on.
 

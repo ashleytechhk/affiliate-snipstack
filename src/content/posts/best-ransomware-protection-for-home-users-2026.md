@@ -161,7 +161,7 @@ No security software can promise to catch every threat — anyone who claims oth
 
 **Q: My computer runs slowly — will antivirus software make it worse?**
 
-Modern antivirus programs, including Surfshark Antivirus, are designed to use minimal system resources. Most users notice no slowdown in everyday use. The cloud-based scanning approach means heavy processing happens on Surfshark's servers rather than your computer.
+Modern antivirus programs, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/), are designed to use minimal system resources. Most users notice no slowdown in everyday use. The cloud-based scanning approach means heavy processing happens on Surfshark's servers rather than your computer.
 
 **Q: What should I do if I think my computer already has ransomware?**
 

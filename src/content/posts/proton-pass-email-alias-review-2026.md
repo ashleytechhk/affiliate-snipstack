@@ -36,7 +36,7 @@ For someone who is *not* already in the Proton ecosystem and is specifically sho
 
 ## What [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt ID?
 
-Alt ID is Surfshark's [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) and identity-masking tool. It generates randomized [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/)es — addresses that look like real emails to any sender — and forwards all incoming mail to your actual inbox. You can create multiple aliases, label them, toggle forwarding on or off, and delete them permanently with one click.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/) and identity-masking tool. It generates randomized [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/)es — addresses that look like real emails to any sender — and forwards all incoming mail to your actual inbox. You can create multiple aliases, label them, toggle forwarding on or off, and delete them permanently with one click.
 
 Alt ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ subscriptions, which bundle the alias tool with a VPN and a data removal service (which actively scrubs your real email from broker databases). That combination is directly relevant if you are dealing with heavy spam: the VPN stops tracking at the network level, the alias masks your address going forward, and the data removal service cleans up existing exposure.
 

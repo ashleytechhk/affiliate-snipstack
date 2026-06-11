@@ -155,7 +155,7 @@ Yes. While Linux has a strong security foundation, it is not immune to threats. 
 
 A quality antivirus like Surfshark is designed to run with minimal impact on your computer's speed. It handles its protective work in the background without making your machine feel sluggish during normal use.
 
-### Can I use Surfshark Antivirus on more than one computer?
+### Can I use [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) on more than one computer?
 
 Yes. A single Surfshark subscription covers multiple devices. If you have more than one computer — or want to protect a family member's device — one plan can cover everyone.
 

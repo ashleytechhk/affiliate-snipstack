@@ -82,7 +82,7 @@ Features relevant to Brave users specifically:
 
 - **CleanWeb:** Blocks ad-serving domains and tracker scripts at the DNS level inside the browser. Brave already blocks many ads natively, but CleanWeb adds a network-layer filter that catches things Brave's content filtering misses.
 - **WebRTC leak blocking:** WebRTC is a browser protocol that can expose your real IP address even when a proxy is active. Surfshark's extension blocks this leak explicitly.
-- **Cookie consent popup blocker:** Removes GDPR consent popups before they load — a minor but consistent quality-of-life improvement.
+- **Cookie consent [popup blocker](https://snipstack.io/popup-blocker-for-windows-11-2026/):** Removes GDPR consent popups before they load — a minor but consistent quality-of-life improvement.
 - **IP display:** Shows your current masked IP address in the toolbar, so you can confirm which region Brave is presenting before you navigate to a subscription page.
 
 Surfshark audited its no-logs policy through Deloitte. The extension was fully updated to Manifest V3 compliance ahead of Chrome's mandatory cutover — meaning it will not silently break in future Brave/Chromium updates.

@@ -77,7 +77,7 @@ TextNow is a free VoIP-based calling and messaging app. You get a real US phone 
 
 ## Burner App: Better Concept, Real Restrictions
 
-The Burner app is built specifically for the use case of disposable numbers. You get a temporary number, use it for however long you need it, then "burn" it — delete it and replace it with a new one. The concept is sound.
+The Burner app is built specifically for the use case of disposable numbers. You get a [temporary number](https://snipstack.io/temporary-number-for-one-time-use-2026/), use it for however long you need it, then "burn" it — delete it and replace it with a new one. The concept is sound.
 
 ### What Burner Does Well
 

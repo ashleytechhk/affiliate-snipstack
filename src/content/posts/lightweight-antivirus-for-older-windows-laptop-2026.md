@@ -114,7 +114,7 @@ Open the internet browser on your laptop. This is the program you use to visit w
 
 ### Step 2 — Go to the Download Page
 
-Click the link below. It takes you directly to the Surfshark Antivirus page where you can choose a plan.
+Click the link below. It takes you directly to the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) page where you can choose a plan.
 
 **[Click here to go to the Surfshark Antivirus download page](/blog/antivirus?sub=lightweight-antivirus-for-older-windows-laptop-2026__mid)**
 

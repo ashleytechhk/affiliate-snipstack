@@ -165,7 +165,7 @@ Being careful helps, but it is not enough on its own. Modern scams are designed 
 
 **Will antivirus software slow down my Windows computer?**
 
-A well-designed antivirus has a small, barely noticeable impact during normal use. Surfshark Antivirus is specifically engineered for low system resource use — most users report no slowdown during everyday tasks like browsing, watching videos, or writing emails. During a full scan (which you typically only run once a month), there may be slightly more activity, but you can continue using your computer throughout.
+A well-designed antivirus has a small, barely noticeable impact during normal use. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) is specifically engineered for low system resource use — most users report no slowdown during everyday tasks like browsing, watching videos, or writing emails. During a full scan (which you typically only run once a month), there may be slightly more activity, but you can continue using your computer throughout.
 
 **How do I know if my antivirus is working?**
 

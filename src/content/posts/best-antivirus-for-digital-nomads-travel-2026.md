@@ -145,7 +145,7 @@ A VPN and an antivirus solve different problems. A VPN encrypts your traffic so 
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus work on Mac?
 
-Yes. Surfshark Antivirus runs on macOS as well as Windows and Android. Mac users face different threats than Windows users — less traditional malware, more adware, browser hijackers, and phishing — and the Mac version of Surfshark Antivirus is tuned for the threats Mac users actually encounter. [See full details and start protecting your Mac here.](/blog/antivirus?sub=best-antivirus-for-digital-nomads-travel-2026__faq)
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) runs on macOS as well as Windows and Android. Mac users face different threats than Windows users — less traditional malware, more adware, browser hijackers, and phishing — and the Mac version of Surfshark Antivirus is tuned for the threats Mac users actually encounter. [See full details and start protecting your Mac here.](/blog/antivirus?sub=best-antivirus-for-digital-nomads-travel-2026__faq)
 
 ### Will running antivirus drain my laptop battery faster?
 

@@ -42,7 +42,7 @@ For a senior user trying to work out whether a single suspicious email is safe, 
 
 ## What Surfshark Scamcheck Actually Does
 
-Scamcheck is part of the Surfshark One security suite, but the basic lookup is available without a full subscription. Here is [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) you use it:
+Scamcheck is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/), but the basic lookup is available without a full subscription. Here is [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) you use it:
 
 **You paste in an email address or URL.** You do not need to click anything in the suspicious email to do this. Just copy the sender's address from the email header, or hover over the link to reveal the URL and copy that.
 
@@ -168,9 +168,9 @@ No tool catches everything. Here is what to keep in mind:
 
 ## Frequently Asked Questions
 
-### Is Surfshark Scamcheck free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Scamcheck free?
 
-The basic individual lookup — checking a single email address or URL — is available without a full paid subscription. Continuous monitoring, which alerts you when your personal details appear in new breaches, is part of the paid Surfshark One plan. [See what each tier includes.](/blog/scamcheck?sub=surfshark-scamcheck-review-2026__faq)
+The basic individual lookup — checking a single email address or URL — is available without a full paid subscription. Continuous monitoring, which alerts you when your personal details appear in new breaches, is part of the paid [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan. [See what each tier includes.](/blog/scamcheck?sub=surfshark-scamcheck-review-2026__faq)
 
 ### Do I need to install anything to use Scamcheck?
 
@@ -190,7 +190,7 @@ No tool can tell you with certainty that an email is safe — only that it does 
 
 ### Is Surfshark Scamcheck worth paying for?
 
-For occasional checking of suspicious emails, the free tier is sufficient. The paid tier makes sense if you want automatic monitoring — so you are alerted when your email address or phone number appears in a fresh data breach, rather than only finding out when scam emails start arriving. [Check current pricing here.](/blog/scamcheck?sub=surfshark-scamcheck-review-2026__faq)
+For occasional checking of suspicious emails, the free tier is sufficient. The paid tier makes sense if you want automatic monitoring — so you are alerted when your email address or [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) appears in a fresh data breach, rather than only finding out when scam emails start arriving. [Check current pricing here.](/blog/scamcheck?sub=surfshark-scamcheck-review-2026__faq)
 
 ---
 

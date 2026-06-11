@@ -153,7 +153,7 @@ No. YouTube serves ads from its own infrastructure, which means DNS-level blocki
 No measurable difference in practice. The DNS filtering happens at the query level — blocked domains simply return no result. Allowed traffic passes through normally. The VPN connection speed is determined by the server and protocol (WireGuard is fastest), not by CleanWeb.
 
 **Is ad blocking on a VPN legal?**
-Yes. Using DNS-level filtering to decline connections to advertising domains is entirely legal in virtually every jurisdiction. You are choosing not to load certain content, which is a standard network configuration, no different from using a browser's built-in popup blocker.
+Yes. Using DNS-level filtering to decline connections to advertising domains is entirely legal in virtually every jurisdiction. You are choosing not to load certain content, which is a standard network configuration, no different from using a browser's built-in [popup blocker](https://snipstack.io/popup-blocker-for-windows-11-2026/).
 
 **Can I use CleanWeb without keeping the VPN connected?**
 No — CleanWeb operates through the VPN tunnel, so the VPN connection needs to be active. If you want DNS-level blocking without a VPN connection, the equivalent standalone option is [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) configured in your phone's Private DNS settings.

@@ -91,7 +91,7 @@ The comparison is not really close once you factor in the ban. Kaspersky is froz
 
 ### It Was Designed for Simplicity
 
-Many antivirus products are built for IT professionals. They show you dozens of settings, alerts, and options that most people do not understand and do not need. Surfshark Antivirus takes the opposite approach.
+Many antivirus products are built for IT professionals. They show you dozens of settings, alerts, and options that most people do not understand and do not need. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) takes the opposite approach.
 
 When you open it, you see one thing: whether you are protected. If you are, the screen is calm and green. If something needs attention, it tells you in plain language and walks you through one simple step to fix it.
 

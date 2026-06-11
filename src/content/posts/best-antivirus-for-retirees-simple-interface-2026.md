@@ -172,7 +172,7 @@ Surfshark will show you a clear alert in plain language explaining what was foun
 
 ### Can I use Surfshark on a Mac instead of Windows?
 
-Yes. Surfshark Antivirus is available for Windows, Mac, Android, and iOS. The interface is consistent across all platforms, so the experience is equally simple whether you use a Windows PC, an Apple Mac, or a tablet.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) is available for Windows, Mac, Android, and iOS. The interface is consistent across all platforms, so the experience is equally simple whether you use a Windows PC, an Apple Mac, or a tablet.
 
 ---
 

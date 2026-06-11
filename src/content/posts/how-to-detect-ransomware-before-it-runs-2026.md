@@ -173,7 +173,7 @@ Basic free tools provide limited protection. They typically scan for known threa
 
 **Q: How do I know if my antivirus is actually working?**
 
-A properly installed real-time antivirus runs continuously without requiring you to do anything. You can usually check its status by looking for its icon in the taskbar (the row of small icons near the clock on Windows). If the icon is there and shows no alerts, it is working. Surfshark Antivirus also sends you a simple notification when it detects and blocks a threat.
+A properly installed real-time antivirus runs continuously without requiring you to do anything. You can usually check its status by looking for its icon in the taskbar (the row of small icons near the clock on Windows). If the icon is there and shows no alerts, it is working. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) also sends you a simple notification when it detects and blocks a threat.
 
 **Q: Will ransomware attack my photos and documents, or just my programs?**
 
