@@ -129,7 +129,7 @@ Not every VPN is well-suited to router-level deployment. The key requirements:
 
 **Unlimited simultaneous connections.** Most VPNs limit the number of devices connected at once (NordVPN: 6, ExpressVPN: 8). At the router level, your one VPN connection covers every device on the network — but [VPN providers](https://snipstack.io/vpn-providers-best-2026/) count the router as one device. With Surfshark's unlimited connections policy, there is no device cap issue whether you run it at the router level or mix router and individual app connections.
 
-**WireGuard protocol support.** WireGuard is the fastest VPN protocol available — lower overhead and better throughput than OpenVPN. For whole-home routing, where every device's traffic goes through the VPN, speed matters more than in single-device use. Surfshark supports WireGuard on router-level configurations for systems that support it.
+**WireGuard protocol support.** WireGuard is the [fastest VPN](https://snipstack.io/fastest-vpn-for-streaming-2026/) protocol available — lower overhead and better throughput than OpenVPN. For whole-home routing, where every device's traffic goes through the VPN, speed matters more than in single-device use. Surfshark supports WireGuard on router-level configurations for systems that support it.
 
 **Dedicated server selection for streaming.** Surfshark labels servers by streaming optimization. For router-level use where you want consistent access to a specific region's content library, selecting the right server on initial setup matters — Surfshark's streaming-optimized servers stay ahead of streaming platform IP blocklists.
 

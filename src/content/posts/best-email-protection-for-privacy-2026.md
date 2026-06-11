@@ -121,7 +121,7 @@ A spam filter is reactive — it tries to intercept junk after your address has 
 
 **Is Alt-ID the same as a [temporary email](https://snipstack.io/temporary-email-and-password-free-2026/) address?**
 
-No. Temporary email services (Guerrilla Mail, 10 Minute Mail) provide addresses that expire after minutes or hours. Alt-ID aliases are persistent — they stay active until you delete them. That makes them suitable for ongoing services: shopping accounts, newsletters, subscriptions, anything that sends mail over time. They also pass email validation checks that reject known throwaway domains.
+No. [Temporary email](https://snipstack.io/temporary-email-and-password-2026/) services (Guerrilla Mail, 10 Minute Mail) provide addresses that expire after minutes or hours. Alt-ID aliases are persistent — they stay active until you delete them. That makes them suitable for ongoing services: shopping accounts, newsletters, subscriptions, anything that sends mail over time. They also pass email validation checks that reject known throwaway domains.
 
 **Will this stop the spam already arriving on my real address?**
 
@@ -133,7 +133,7 @@ No. You are providing a functional email address — mail sent to it is delivere
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my alias emails if I cancel Surfshark?**
 
-Forwarding would stop when the subscription ends, since Alt-ID is tied to the Surfshark service. If you cancel, update important accounts to a new alias or your real address before doing so. For most users, the cost of a Surfshark subscription is easily justified by the privacy and inbox benefit — and the VPN, Antivirus, and other included tools add further value.
+Forwarding would stop when the subscription ends, since Alt-ID is tied to the Surfshark service. If you cancel, update important accounts to a new alias or your real address before doing so. For most users, the cost of a Surfshark subscription is easily justified by the privacy and inbox benefit — and the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and other included tools add further value.
 
 **Can I use Alt-ID on mobile as well as desktop?**
 

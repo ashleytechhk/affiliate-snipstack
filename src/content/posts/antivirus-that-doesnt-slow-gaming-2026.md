@@ -84,11 +84,11 @@ For seniors on fixed incomes, the financial demand is calculated to be painful b
 
 ### Phishing Through Gaming Platforms
 
-Many seniors now use gaming-adjacent platforms — streaming services, online stores, and gaming communities. Criminals send convincing fake emails pretending to be from these platforms, asking you to verify your account or claim a reward. The link leads to a fake login page that captures your username and password.
+Many seniors now use gaming-adjacent platforms — streaming services, online stores, and gaming communities. Criminals send convincing [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/)s pretending to be from these platforms, asking you to verify your account or claim a reward. The link leads to a fake login page that captures your username and password.
 
 ### Scam Popups During Gameplay
 
-Browser-based games in particular can trigger popup scams that look like official warnings. "Your computer has been infected — call this number immediately" is a classic tech support scam. The number connects you to a criminal who will attempt to talk you into giving them remote access to your computer or payment information.
+Browser-based games in particular can trigger popup scams that look like official warnings. "Your computer has been infected — call this number immediately" is a classic [tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/). The number connects you to a criminal who will attempt to talk you into giving them remote access to your computer or payment information.
 
 ![Common gaming scam patterns targeting seniors — fake update popups, prize notifications, and phishing emails](/og/antivirus-that-doesnt-slow-gaming-2026-inline-2.png)
 
@@ -175,7 +175,7 @@ A firewall controls which programs can send and receive data over the internet �
 
 ### What should I do if I get a scary popup while gaming?
 
-Do not click anything on the popup — not the "X" to close it, not any button it shows. Use keyboard shortcut Alt+F4 on Windows to force-close the popup, or right-click the program in your taskbar and choose "Close." Never call any phone number shown on a security popup — this is almost always a scam designed to connect you with a criminal. If you are unsure whether a warning was real, close the popup and open your antivirus software directly to run a scan from there.
+Do not click anything on the popup — not the "X" to close it, not any button it shows. Use keyboard shortcut Alt+F4 on Windows to force-close the popup, or right-click the program in your taskbar and choose "Close." Never call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown on a security popup — this is almost always a scam designed to connect you with a criminal. If you are unsure whether a warning was real, close the popup and open your antivirus software directly to run a scan from there.
 
 ### Will antivirus protect my gaming accounts and passwords?
 

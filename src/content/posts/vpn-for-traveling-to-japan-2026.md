@@ -101,7 +101,7 @@ You are traveling with a phone, probably a laptop, possibly a tablet. Your partn
 
 ### Speed That Handles Streaming
 
-Japan's domestic internet infrastructure is excellent. What can slow you down is the VPN tunnel between Japan and your home country server. Surfshark uses the NordLynx protocol (built on WireGuard), which is among the fastest VPN protocols available. HD streaming from a UK or Canadian server is reliable on a standard hotel broadband connection.
+Japan's domestic internet infrastructure is excellent. What can slow you down is the VPN tunnel between Japan and your home country server. Surfshark uses the NordLynx protocol (built on WireGuard), which is among the [fastest VPN](https://snipstack.io/fastest-vpn-for-streaming-2026/) protocols available. HD streaming from a UK or Canadian server is reliable on a standard hotel broadband connection.
 
 ### Servers in Every Key Region
 

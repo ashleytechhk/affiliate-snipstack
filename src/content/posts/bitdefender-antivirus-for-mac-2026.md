@@ -51,7 +51,7 @@ Bitdefender has been making security software for over 20 years. Their Mac produ
 
 ### Surfshark [Antivirus for](https://snipstack.io/antivirus-for-windows-server-2022-2026/) Mac
 
-Surfshark started as a VPN company and expanded into full antivirus. Their Mac antivirus is newer but covers what matters most for everyday users:
+Surfshark started as a VPN company and expanded into full antivirus. Their [Mac antivirus](https://snipstack.io/mac-antivirus-free-2026/) is newer but covers what matters most for everyday users:
 
 - Real-time virus and malware protection
 - Scheduled and on-demand scans
