@@ -33,7 +33,7 @@ The most effective combination is to report in two places: your email client (Gm
 | FTC (reportfraud.ftc.gov) | US-targeted scams | Escalates to law enforcement | No (creates case) | Reference number |
 | Impersonated brand abuse team | Brand-specific phishing | Brand can take legal action | No | Varies |
 | Domain registrar abuse contact | Phishing website host | Can suspend the domain | No | Slow |
-| Surfshark Scamcheck | URL verification + feed | Contributes to threat feed | Surfshark account | Instant scan result |
+| [Surfshark Scamcheck](https://snipstack.io/surfshark-scamcheck-review-2026/) | URL verification + feed | Contributes to threat feed | Surfshark account | Instant scan result |
 
 ---
 

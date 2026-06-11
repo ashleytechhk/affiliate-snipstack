@@ -151,7 +151,7 @@ It is worth being straightforward about this, because clarity builds trust.
 - It does not read your SMS inbox or scan your texts automatically — that would require access your phone's messages, which is a privacy concern in itself
 - It does not replace carrier-level filtering or your phone's built-in spam protection — those are separate and complementary
 
-The most effective setup is all three layers working together: your phone's built-in spam filter catches high-volume scam texts before they land; Surfshark Scamcheck evaluates links from texts you are unsure about before you tap them; and Surfshark Alert monitors your personal data so you know when your phone number has been exposed in a breach.
+The most effective setup is all three layers working together: your phone's built-in spam filter catches high-volume scam texts before they land; [Surfshark Scamcheck](https://snipstack.io/surfshark-scamcheck-review-2026/) evaluates links from texts you are unsure about before you tap them; and Surfshark Alert monitors your personal data so you know when your phone number has been exposed in a breach.
 
 ---
 

@@ -109,7 +109,7 @@ Burner is a purpose-built app for [temporary phone numbers](https://snipstack.io
 - Uses real mobile number ranges, reducing rejection risk during app verification
 - No second SIM or second device needed
 - Full control: pause the number, replace it, or cancel it cleanly
-- Available as a standalone service or bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) (which adds a VPN, antivirus, and [identity monitoring](https://snipstack.io/identity-theft-monitoring-2026/))
+- Available as a standalone service or bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) (which adds a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and [identity monitoring](https://snipstack.io/identity-theft-monitoring-2026/))
 
 **The only real trade-off:** It's a paid service. There's no free tier.
 

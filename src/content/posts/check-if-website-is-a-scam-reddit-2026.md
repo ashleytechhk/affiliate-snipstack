@@ -54,7 +54,7 @@ If the link is already visible as plain text (not embedded in anchor text), simp
 
 Before searching Reddit, run the URL through an automated tool. This takes about 30 seconds and often gives you a definitive answer immediately.
 
-**Option A — Surfshark Scamcheck (recommended for non-technical users)**
+**Option A — [Surfshark Scamcheck](https://snipstack.io/surfshark-scamcheck-review-2026/) (recommended for non-technical users)**
 
 Surfshark's Email Scam Checker is designed for exactly this situation. Paste the URL or sender address into the checker and it cross-references the domain against known fraud databases, checks how recently the domain was registered, and evaluates whether the site passes basic authentication standards. The verdict comes in plain language — no technical interpretation required.
 

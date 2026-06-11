@@ -133,7 +133,7 @@ If you are holding a suspicious email, here is a practical decision flow:
 
 1. **Do not click the link yet.** Hover over it (on desktop) or long-press it (on mobile) to preview the destination URL.
 2. **Check the domain.** Legitimate TikTok communications come from `@tiktok.com` email addresses and link to `tiktok.com` subdomains. Any other domain is a red flag.
-3. **Run a quick scan.** Copy the destination URL and paste it into VirusTotal or URLVoid. If the scan takes too long or the process feels like too many steps, this is exactly the gap Surfshark Scamcheck fills automatically.
+3. **Run a quick scan.** Copy the destination URL and paste it into VirusTotal or URLVoid. If the scan takes too long or the process feels like too many steps, this is exactly the gap [Surfshark Scamcheck](https://snipstack.io/surfshark-scamcheck-review-2026/) fills automatically.
 4. **When in doubt, go direct.** Close the email. Open the TikTok app on your phone and check your order status there. If there is genuinely something that needs your attention, you will see it.
 5. **Report phishing emails.** Forward suspicious emails to phishing@tiktok.com and to your email provider's spam reporting function.
 

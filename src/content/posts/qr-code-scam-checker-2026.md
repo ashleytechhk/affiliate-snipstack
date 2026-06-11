@@ -32,7 +32,7 @@ For most people who receive suspicious QR codes — in emails, in the post, on s
 | VirusTotal | Yes (paste URL manually) | Yes (on-demand) | Yes — web-based | No — standalone |
 | URLVoid | Yes (paste URL manually) | Yes (on-demand) | Yes — web-based | No — standalone |
 | Trend Micro QR Scanner | Yes (scan within app) | Yes (live) | No — app required | No — standalone |
-| Surfshark Scamcheck | Yes (paste URL, or always-on browsing) | Yes (always-on) | Yes — works in browser | Yes — with Surfshark subscription |
+| [Surfshark Scamcheck](https://snipstack.io/surfshark-scamcheck-review-2026/) | Yes (paste URL, or always-on browsing) | Yes (always-on) | Yes — works in browser | Yes — with Surfshark subscription |
 
 ---
 

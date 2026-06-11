@@ -130,7 +130,7 @@ No. In most cases, routing through an extra server increases latency slightly. A
 
 ### Which VPN is best for gaming on a budget?
 
-Surfshark offers the lowest price per month among the three major options, with no device limit. For households or anyone connecting multiple devices, it delivers the best value. [Check current pricing →](/blog/vpn?sub=best-vpn-for-warzone-2026__faq)
+Surfshark offers the lowest price per month among the three major options, with no device limit. For households or anyone connecting multiple devices, it delivers the [best value](https://snipstack.io/best-value-antivirus-subscription-2026/). [Check current pricing →](/blog/vpn?sub=best-vpn-for-warzone-2026__faq)
 
 ### Can I use a VPN on PlayStation or Xbox for Warzone?
 

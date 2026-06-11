@@ -34,7 +34,7 @@ Here's what your real number exposes when you give it to a stranger overseas:
 
 **Your permanent contact point.** Unlike a hotel room or Airbnb you'll leave in a week, your real number stays attached to you indefinitely. A bad actor who got your number on a trip to Southeast Asia can still reach you six months later when you're back home.
 
-**Your connected accounts.** Your real number is likely tied to WhatsApp, Signal, Telegram, Instagram DMs, and possibly your banking SMS verification. Handing it out isn't just handing out a way to call you — it's handing out a thread that leads to everything else.
+**Your connected accounts.** Your real number is likely tied to WhatsApp, Signal, Telegram, [Instagram DM](https://snipstack.io/instagram-dm-link-scam-checker-2026/)s, and possibly your banking SMS verification. Handing it out isn't just handing out a way to call you — it's handing out a thread that leads to everything else.
 
 **Your physical location patterns.** Number-based tracking isn't hypothetical. In 2024, researchers demonstrated that commercial location data brokers could resolve a US [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to a home address with 87% accuracy using only publicly available app data. If your number is in their hands, your home address is closer to being in their hands than you think.
 

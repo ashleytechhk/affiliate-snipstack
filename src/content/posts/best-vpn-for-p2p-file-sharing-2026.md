@@ -78,7 +78,7 @@ Some advanced users bind their torrent client to the VPN's network interface, so
 
 ## Top VPN Options for P2P in 2026
 
-### Surfshark — Best Value for P2P
+### Surfshark — [Best Value](https://snipstack.io/best-value-antivirus-subscription-2026/) for P2P
 
 Surfshark explicitly supports P2P on its servers and does not restrict torrenting to specific locations. Its default protocol is WireGuard, which is fast and lightweight. The no-logs policy has been independently audited by Deloitte. A kill switch is available on all major platforms: Windows, macOS, iOS, and Android.
 

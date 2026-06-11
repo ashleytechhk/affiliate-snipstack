@@ -128,7 +128,7 @@ A website scam checker tool assesses whether a URL is likely to be fraudulent, m
 
 ### Is Google Safe Browsing enough on its own?
 
-For most everyday browsing it provides a useful safety net, but it relies on a cached blocklist. Scam sites that are new — particularly those created specifically for a targeted phishing campaign — may not appear in the database yet. Combining Safe Browsing with a tool that checks real-time reputation (like Surfshark Scamcheck or VirusTotal) gives you better coverage.
+For most everyday browsing it provides a useful safety net, but it relies on a cached blocklist. Scam sites that are new — particularly those created specifically for a targeted phishing campaign — may not appear in the database yet. Combining Safe Browsing with a tool that checks real-time reputation (like [Surfshark Scamcheck](https://snipstack.io/surfshark-scamcheck-review-2026/) or VirusTotal) gives you better coverage.
 
 ### Can I use these tools on my phone?
 
