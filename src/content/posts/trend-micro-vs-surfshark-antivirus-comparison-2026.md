@@ -173,7 +173,7 @@ A VPN is useful for anyone who ever connects to WiFi outside their home — at a
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) on my iPad or iPhone?
 
-Yes. Surfshark One covers unlimited devices, including iPhones, iPads, Android phones, Windows computers, and Macs. One subscription protects everything in your household. Trend Micro Maximum Security covers up to five specific devices, and the base antivirus plan covers only one.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) covers unlimited devices, including iPhones, iPads, Android phones, Windows computers, and Macs. One subscription protects everything in your household. Trend Micro Maximum Security covers up to five specific devices, and the base antivirus plan covers only one.
 
 ### What should I do if I already have Trend Micro installed?
 

@@ -80,7 +80,7 @@ The interface can feel overwhelming if you're not used to security dashboards. R
 
 ### URLVoid
 
-URLVoid is a straightforward domain reputation checker. It checks the domain behind a URL against blacklists and shows you the domain age, registration details, and reputation scores from multiple sources.
+URLVoid is a straightforward domain reputation checker. It checks the domain behind a URL against blacklists and shows you the [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), registration details, and reputation scores from multiple sources.
 
 For Discord Nitro scam links, URLVoid is useful because many phishing domains are freshly registered — a two-week-old domain sending you a "gift" is a red flag. The tool surfaces this clearly.
 

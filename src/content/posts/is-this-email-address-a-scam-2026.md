@@ -95,7 +95,7 @@ Surfshark's Email Scam Checker does the investigative work for you, in seconds. 
 
 **It checks known scam databases.** Security organisations and researchers maintain constantly updated lists of addresses and domains used in fraud campaigns. The checker cross-references the address you submitted against these databases simultaneously.
 
-**It examines the sending domain.** A domain registered two days ago that claims to belong to a major bank is a reliable warning sign. The checker looks at domain age, registration details, and whether the domain is technically configured the way a legitimate business would configure it.
+**It examines the sending domain.** A domain registered two days ago that claims to belong to a major bank is a reliable warning sign. The checker looks at [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), registration details, and whether the domain is technically configured the way a legitimate business would configure it.
 
 **It verifies technical authentication records.** Legitimate companies set up email authentication standards (SPF, DKIM, DMARC) that prove their emails genuinely come from them. Scam domains typically lack or misuse these records. The checker examines them and translates the result into plain language — you do not need to know what any of those acronyms mean.
 

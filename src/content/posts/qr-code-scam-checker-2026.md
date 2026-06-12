@@ -56,7 +56,7 @@ Google Safe Browsing runs automatically whenever you use Chrome, Safari, or Fire
 
 **What it does well:** It requires nothing from you. Every QR code you scan in Chrome or Safari gets this check automatically. For well-known phishing campaigns that have already been catalogued, the protection is instant and invisible.
 
-**Where it falls short:** Google Safe Browsing relies on a cached blocklist, not a live reputation score. Brand-new scam pages — especially QR code phishing sites, which are often created the same day they are deployed on physical posters — may not yet be in the database. A page that was created last Tuesday to harvest credentials at a specific car park may have no history at all. Safe Browsing gives no details either: you either see a warning or you do not. There is no trust score, no domain age, no context.
+**Where it falls short:** Google Safe Browsing relies on a cached blocklist, not a live reputation score. Brand-new scam pages — especially QR code phishing sites, which are often created the same day they are deployed on physical posters — may not yet be in the database. A page that was created last Tuesday to harvest credentials at a specific car park may have no history at all. Safe Browsing gives no details either: you either see a warning or you do not. There is no trust score, no [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), no context.
 
 **Best for:** Catching widely reported, previously catalogued scam sites as a baseline. Not sufficient on its own for QR code scenarios, where the destination may be brand new.
 

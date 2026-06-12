@@ -122,7 +122,7 @@ Once connected, all ad and tracker DNS lookups from every app on the device go t
 | Requires browser to be open | Yes | No |
 | Covers all iOS/Android apps | No | Yes |
 
-The pattern is consistent: a browser blocker handles what happens inside one app. DNS-level blocking handles everything your phone does, whether you are actively using it or not.
+The pattern is consistent: a browser blocker handles [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) inside one app. DNS-level blocking handles everything your phone does, whether you are actively using it or not.
 
 ---
 

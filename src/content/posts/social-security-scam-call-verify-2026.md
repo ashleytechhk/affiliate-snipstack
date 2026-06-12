@@ -65,7 +65,7 @@ The table below shows what each approach covers and where each one falls short o
 | Confirm the SSA never calls about suspended numbers | Know the rule — SSA does not cold-call threats | Not applicable |
 | Verify caller ID is not spoofed | Look up the real SSA number independently; call it back | Not applicable |
 | Check the follow-up email sender domain | Inspect the "From" address manually | Scans sender domain against fraud databases instantly |
-| Check links in the follow-up email | Hover to preview URL; manual WHOIS lookup | Automated URL and domain age check — takes seconds |
+| Check links in the follow-up email | Hover to preview URL; manual WHOIS lookup | Automated URL and [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) check — takes seconds |
 | Detect phishing pages behind shortened links | Cannot inspect without clicking | Follows redirect chain without loading the page |
 | Check if your email appears in breach data | Requires a separate tool | Included in Surfshark Alert monitoring |
 | Flag fake SSA document attachments | Difficult without technical knowledge | Checks file sender and link authenticity |

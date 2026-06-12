@@ -188,7 +188,7 @@ Do not panic, but act quickly. Close the tab immediately. Do not enter any infor
 
 No tool can tell you with certainty that an email is safe — only that it does not match known threat databases at the time of the check. A clean result means no known flags, which is a good sign. But if the email is still asking you to do something unexpected — confirm your password, click a link you did not request, provide personal information — be cautious regardless. Contact the organisation directly through a channel you trust.
 
-### Is Surfshark Scamcheck worth paying for?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Scamcheck worth paying for?
 
 For occasional checking of suspicious emails, the free tier is sufficient. The paid tier makes sense if you want automatic monitoring — so you are alerted when your email address or [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) appears in a fresh data breach, rather than only finding out when scam emails start arriving. [Check current pricing here.](/blog/scamcheck?sub=surfshark-scamcheck-review-2026__faq)
 

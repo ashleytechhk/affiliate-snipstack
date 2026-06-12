@@ -56,7 +56,7 @@ Before diving into how to apply each check, here is how the two approaches stack
 | Urgency and pressure language | Read carefully; easy to miss when stressed | Flags manipulative language patterns |
 | Known phishing templates | Google the message text in quotes | Cross-references known scam templates |
 | Brand impersonation (fake PayPal logos) | Visual inspection — possible to fool | Detects header spoofing and impersonation |
-| New / suspicious sending domain | Manual WHOIS lookup | Automated domain age and reputation check |
+| New / suspicious sending domain | Manual WHOIS lookup | Automated [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) and reputation check |
 | Attachment safety | Do not open — but you cannot scan it manually | Checks attachments for known threat signatures |
 
 > **Bottom line:** Manual checks are free and better than nothing. They catch obvious fakes if you remember to look. Surfshark's Email Scam Checker catches the less obvious ones — spoofed headers, brand-new phishing domains, known templates — without requiring any extra steps from you.

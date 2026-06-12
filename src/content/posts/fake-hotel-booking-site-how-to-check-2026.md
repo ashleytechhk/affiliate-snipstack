@@ -92,7 +92,7 @@ VirusTotal scans a URL against dozens of security vendors simultaneously. The re
 
 ### ScamAdviser
 
-ScamAdviser gives each website a trust score and explains its reasoning in reasonably plain language. It checks the domain age, hosting location, and patterns associated with scam sites. The free version is adequate for occasional checks.
+ScamAdviser gives each website a trust score and explains its reasoning in reasonably plain language. It checks the [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), hosting location, and patterns associated with scam sites. The free version is adequate for occasional checks.
 
 ### Manual WHOIS Lookup
 

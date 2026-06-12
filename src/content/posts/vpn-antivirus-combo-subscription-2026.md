@@ -273,7 +273,7 @@ The full setup takes under 20 minutes. Follow Steps 1–6 above and you will hav
     },
     {
       "@type": "Question",
-      "name": "Can I use Surfshark One on Windows, Mac, and iPhone with one subscription?",
+      "name": "Can I use [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) on Windows, Mac, and iPhone with one subscription?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. One subscription covers unlimited simultaneous devices across Windows, Mac, iOS, Android, and more. You download the app on each device and log in with the same account."

@@ -200,7 +200,7 @@ Surfshark offers a refund period on paid plans — check the current terms on th
 
 ### Will switching away from Norton slow down my security coverage?
 
-There is a brief window between uninstalling Norton and completing the Surfshark One antivirus activation where your device is running without real-time antivirus. Keep your browser closed and avoid downloading files during that window. Following Steps 2–4 in the setup guide above keeps that gap to under five minutes.
+There is a brief window between uninstalling Norton and completing the [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) antivirus activation where your device is running without real-time antivirus. Keep your browser closed and avoid downloading files during that window. Following Steps 2–4 in the setup guide above keeps that gap to under five minutes.
 
 ### Does Surfshark One protect against ransomware?
 

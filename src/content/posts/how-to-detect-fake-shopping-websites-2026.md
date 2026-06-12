@@ -28,7 +28,7 @@ If you only remember one thing: **cross-check at least two sources before buying
 
 | Tool | What It Checks | Real-Time | Free Tier | Best For |
 |---|---|---|---|---|
-| **ScamAdviser** | Domain age, hosting location, SSL, traffic data | Yes | Yes | Quick trust score |
+| **ScamAdviser** | [Domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), hosting location, SSL, traffic data | Yes | Yes | Quick trust score |
 | **Trustpilot** | User-submitted reviews | No (review-based) | Yes | Established retailers |
 | **Google Reviews** | Star ratings, user comments | No (review-based) | Yes | Local & well-known brands |
 | **Better Business Bureau (BBB)** | Complaint history, accreditation | No | Yes | US-based businesses |

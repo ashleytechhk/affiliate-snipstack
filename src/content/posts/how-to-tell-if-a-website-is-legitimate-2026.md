@@ -40,7 +40,7 @@ The tools below help you verify these signals quickly.
 
 | Tool | What it checks | Cost | Real-time alerts | Effort required |
 |---|---|---|---|---|
-| WHOIS Lookup | Domain age, registrant details | Free | No | Manual per site |
+| WHOIS Lookup | [Domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), registrant details | Free | No | Manual per site |
 | Google Safe Browsing | Malware / phishing flags | Free | No | Manual per site |
 | ScamAdviser | Legitimacy score, trust signals | Free (basic) | No | Manual per site |
 | Surfshark Scamcheck | Scam links, [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s, email threats | Free tier + paid | Yes (with subscription) | Automatic |

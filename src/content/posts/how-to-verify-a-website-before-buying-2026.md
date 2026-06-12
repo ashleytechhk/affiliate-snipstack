@@ -29,7 +29,7 @@ Most [website scam](https://snipstack.io/website-scam-checker-tool-2026/)s follo
 | Method | Time needed | Cost | Skill required | What it catches | What it misses |
 |---|---|---|---|---|---|
 | Manual URL inspection | 1 min | Free | Low | Lookalike domains, missing HTTPS | Convincing fakes with real SSL |
-| Domain age / WHOIS lookup | 2 min | Free | Low–medium | Brand-new scam domains | Older compromised sites |
+| [Domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) / WHOIS lookup | 2 min | Free | Low–medium | Brand-new scam domains | Older compromised sites |
 | Trustpilot / BBB review search | 3 min | Free | Low | Shops with a bad track record | New shops with no reviews yet |
 | Google "site name + scam" search | 2 min | Free | Low | Reported scams with online buzz | Scams too new to be discussed |
 | [Reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/) (product photos) | 2 min | Free | Low | Stolen product images | Original scam photography |

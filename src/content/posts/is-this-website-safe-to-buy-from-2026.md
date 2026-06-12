@@ -18,7 +18,7 @@ That gut feeling is worth listening to. Online shopping fraud losses hit record 
 
 ## Quick Verdict
 
-Most fake shopping sites fail at least two of the six checks in this guide. A physical business address, a clear returns policy, payment through Stripe or PayPal, and a real customer service contact are the four signals that separate credible stores from disposable scam pages. If a site passes those four, a quick Scamcheck scan can catch risks that manual inspection misses — like domain age or known fraud database matches. Spending 90 seconds on these checks before checkout is worth far more than disputing a fraudulent charge afterward.
+Most fake shopping sites fail at least two of the six checks in this guide. A physical business address, a clear returns policy, payment through Stripe or PayPal, and a real customer service contact are the four signals that separate credible stores from disposable scam pages. If a site passes those four, a quick Scamcheck scan can catch risks that manual inspection misses — like [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) or known fraud database matches. Spending 90 seconds on these checks before checkout is worth far more than disputing a fraudulent charge afterward.
 
 ---
 

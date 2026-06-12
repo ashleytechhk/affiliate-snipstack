@@ -85,7 +85,7 @@ VirusTotal lets you paste a URL into its website and scans it simultaneously aga
 
 ## Tool 3: ScamAdviser — Trust Scores for Non-Technical Users
 
-ScamAdviser gives each website a trust score between 0 and 100, drawing on domain age, hosting signals, blacklist status, user reviews, and whether the site has visible contact information or a return policy. A score below 40 is a red flag; above 80 is generally trustworthy.
+ScamAdviser gives each website a trust score between 0 and 100, drawing on [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), hosting signals, blacklist status, user reviews, and whether the site has visible contact information or a return policy. A score below 40 is a red flag; above 80 is generally trustworthy.
 
 **What it does well:** The output is easy to read — a number with a plain-English explanation of why the site scored the way it did. "Domain registered 6 days ago" or "no contact page found" are the kinds of signals that tell you something useful without requiring technical knowledge.
 

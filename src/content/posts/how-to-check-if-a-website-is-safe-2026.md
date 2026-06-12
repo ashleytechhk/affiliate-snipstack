@@ -183,7 +183,7 @@ Change the password for that account immediately from a known-safe device. If yo
 
 **Q: Are free URL scanners reliable?**
 
-Yes, for known threats. Tools like Google Safe Browsing and VirusTotal are genuinely effective against phishing pages and malware sites that have already been identified and reported. They are less effective against brand-new scam sites that have not yet been flagged. For the freshest threats, combining a WHOIS check (domain age) with a URL scan covers most cases. For ongoing automatic protection, [Surfshark Alert](/blog/scamcheck?sub=how-to-check-if-a-website-is-safe-2026__faq) adds real-time monitoring without any manual effort.
+Yes, for known threats. Tools like Google Safe Browsing and VirusTotal are genuinely effective against phishing pages and malware sites that have already been identified and reported. They are less effective against brand-new scam sites that have not yet been flagged. For the freshest threats, combining a WHOIS check ([domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/)) with a URL scan covers most cases. For ongoing automatic protection, [Surfshark Alert](/blog/scamcheck?sub=how-to-check-if-a-website-is-safe-2026__faq) adds real-time monitoring without any manual effort.
 
 **Q: Can a website steal my information just by visiting it, without me typing anything?**
 

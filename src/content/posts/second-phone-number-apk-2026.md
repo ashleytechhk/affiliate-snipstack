@@ -44,7 +44,7 @@ Unlike iOS, Android allows installation from sources outside the official app st
 
 ### Risk 1: Malware disguised as utility apps
 
-Number spoofing and burner-number apps are a well-documented malware category. Threat reports from mobile security firms consistently flag fake VoIP and phone-number apps as high-risk sideloads. A malicious APK can request permissions — contacts, SMS, microphone, camera — that look reasonable for a phone app, then exfiltrate the data it finds.
+[Number spoofing](https://snipstack.io/number-spoofing-protection-2026/) and burner-number apps are a well-documented malware category. Threat reports from mobile security firms consistently flag fake VoIP and phone-number apps as high-risk sideloads. A malicious APK can request permissions — contacts, SMS, microphone, camera — that look reasonable for a phone app, then exfiltrate the data it finds.
 
 If you are sideloading a number app specifically to protect your privacy, handing that same app access to your SMS and contacts defeats the purpose entirely.
 

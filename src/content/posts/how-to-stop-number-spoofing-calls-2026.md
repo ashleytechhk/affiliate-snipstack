@@ -14,7 +14,7 @@ Not always the victim's number. Sometimes a spoofed one — a call that showed u
 
 If you use dating apps, your number is in circulation. You gave it to the app. The app may have shared it with data brokers. You gave it to a few matches. Some of those matches shared it further. At some point, that number ends up in a list that criminals buy, combine with other leaked data, and use to craft convincing spoofed calls.
 
-This guide explains how number spoofing works, why online daters are disproportionately targeted, what you can do at each layer of defense, and what the only structural fix actually looks like.
+This guide explains how [number spoofing](https://snipstack.io/number-spoofing-protection-2026/) works, why online daters are disproportionately targeted, what you can do at each layer of defense, and what the only structural fix actually looks like.
 
 ---
 

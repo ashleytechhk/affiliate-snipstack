@@ -197,7 +197,7 @@ It is a full [security suite](https://snipstack.io/security-suite-for-unlimited-
 
 Incogni — the automated data broker removal service — is not included in [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/). It comes with [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/)+, the next tier up. You can also add it separately.
 
-### Does Surfshark One work on unlimited devices?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) work on unlimited devices?
 
 The VPN, Alert, Search, Alternative ID, and Clean Web all cover unlimited devices simultaneously. The antivirus component supports up to 5 devices per subscription.
 

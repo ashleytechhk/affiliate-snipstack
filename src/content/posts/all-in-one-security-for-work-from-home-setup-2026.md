@@ -172,7 +172,7 @@ The VPN component operates under an audited no-logs policy — Surfshark has und
 
 ### How long does the switch from Norton or McAfee actually take?
 
-If you follow the clean install process — export passwords, run the vendor's official removal tool, restart, install Surfshark One — plan for 20 to 30 minutes of active time plus a restart. The initial antivirus scan on a full drive can run another 30 to 60 minutes in the background without interrupting your work.
+If you follow the clean install process — export passwords, run the vendor's official removal tool, restart, install [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) — plan for 20 to 30 minutes of active time plus a restart. The initial antivirus scan on a full drive can run another 30 to 60 minutes in the background without interrupting your work.
 
 ---
 

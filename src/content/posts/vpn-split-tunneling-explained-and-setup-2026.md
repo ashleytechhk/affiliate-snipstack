@@ -24,7 +24,7 @@ Split tunneling is one of the most practically useful VPN features for subscript
 
 ---
 
-## What Is Split Tunneling?
+## [What Is Split](https://snipstack.io/what-is-split-tunneling-vpn-2026/) Tunneling?
 
 Split tunneling divides your internet traffic into two separate paths at the same time:
 

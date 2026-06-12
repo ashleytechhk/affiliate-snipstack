@@ -28,13 +28,13 @@ The popups that most people search for a blocker to stop are not simple banner a
 
 ### Tech-Support Scam Alerts
 
-These are fake Windows security dialogs served through malvertising ad networks. They appear in a browser tab — sometimes triggered by a mis-typed URL, an expired domain redirect, or a malicious ad on a legitimate website — and are engineered to look like Windows Defender warnings. They lock the browser window, play audio alerts, and display a phone number.
+These are fake Windows security dialogs served through malvertising ad networks. They appear in a browser tab — sometimes triggered by a mis-typed URL, an expired domain redirect, or a malicious ad on a legitimate website — and are engineered to look like Windows Defender warnings. They lock the browser window, play audio alerts, and display a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/).
 
-The FTC's Consumer Sentinel Network consistently ranks tech-support scams among the highest-loss categories for online fraud. The mechanism is almost always a popup served from a domain flagged by security researchers months or years before the average user encounters it.
+The FTC's Consumer Sentinel Network consistently ranks tech-support scams among the highest-loss categories for [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/). The mechanism is almost always a popup served from a domain flagged by security researchers months or years before the average user encounters it.
 
 ### Push Notification Popups
 
-Windows 11's notification system is accessible from any browser. A website can request permission to send browser push notifications, and once granted, it can send alerts that look visually identical to system notifications — appearing in the bottom right corner of the screen, surviving after you close the browser. Malicious sites exploit this to push fake antivirus alerts and prize announcements indefinitely.
+Windows 11's notification system is accessible from any browser. A website can request permission to send browser push notifications, and once granted, it can send alerts that look visually identical to system notifications — appearing in the bottom right corner of the screen, surviving after you close the browser. Malicious sites exploit this to push fake [antivirus](https://snipstack.io/vs-antivirus-2026/) alerts and prize announcements indefinitely.
 
 ### Malvertising Popups in Legitimate Sites
 
@@ -134,11 +134,11 @@ For a user whose goal is to stop scam popups and malvertising — not just on th
 
 ---
 
-## What to Do Right Now: A Practical Setup
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) Right Now: A Practical Setup
 
 If scam popups have already appeared on your Windows 11 machine, the immediate steps are:
 
-1. **Do not call any number displayed in a popup.** Microsoft does not display phone numbers in browser alerts. A number in a popup is a scam number.
+1. **Do not call any number displayed in a popup.** Microsoft does not display [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s in browser alerts. A number in a popup is a scam number.
 2. **Force-close the browser** (Alt+F4 or Task Manager) rather than clicking anything inside the popup.
 3. **Review notification permissions** in your browser settings (Settings → Privacy → Notifications) and revoke any unfamiliar sites.
 4. **Enable CleanWeb** on your VPN to block the malicious domains responsible for serving these popups.

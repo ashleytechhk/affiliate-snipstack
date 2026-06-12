@@ -82,7 +82,7 @@ VirusTotal (owned by Google) passes a URL through more than 70 [antivirus](https
 
 ## ScamAdviser — Readable Trust Score
 
-ScamAdviser assigns websites a trust score from 0 to 100 using signals like domain age, hosting location, contact information, and whether the site appears on known blacklists. The score is displayed with a brief explanation — for example, "this domain was registered 12 days ago" or "no return policy detected."
+ScamAdviser assigns websites a trust score from 0 to 100 using signals like [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), hosting location, contact information, and whether the site appears on known blacklists. The score is displayed with a brief explanation — for example, "this domain was registered 12 days ago" or "no return policy detected."
 
 **What it does well:** The format is intuitive. You do not need to know what DKIM stands for — a score of 22 out of 100 with a note saying the domain is very new communicates the risk clearly. For checking shopping or services sites you are unfamiliar with, the trust score format is beginner-friendly.
 

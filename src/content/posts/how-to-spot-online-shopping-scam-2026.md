@@ -34,7 +34,7 @@ Use this table as a quick reference before diving into each flag in detail.
 | Payment via gift card / wire / crypto only | Read the checkout page | Not applicable |
 | No SSL on checkout page | Check browser address bar for padlock + HTTPS | Flags sites missing valid SSL |
 | Missing return policy | Search the site's footer manually | Not applicable |
-| Brand-new domain | Run a WHOIS lookup (free, ~5 min) | Surfaces domain age signals |
+| Brand-new domain | Run a WHOIS lookup (free, ~5 min) | Surfaces [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) signals |
 | "Too good to be true" prices | Cross-check on other retailers | Alerts if your data appears in a breach tied to the site |
 
 > **Bottom line:** Surfshark Alert automates the technical checks (SSL, domain signals, breach monitoring). The human-judgment flags — stolen photos, pressure copy, gift-card-only payments — still need your eyes.

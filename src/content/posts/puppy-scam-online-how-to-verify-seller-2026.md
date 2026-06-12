@@ -76,7 +76,7 @@ Copy the seller's email and search it in Google, exactly as written, inside quot
 
 A legitimate breeder typically uses the same email for years and may have reviews tied to it.
 
-### Step 3: Check the Domain Age
+### Step 3: Check the [Domain Age](https://snipstack.io/domain-age-checker-scam-prevention-2026/)
 
 Go to a Whois lookup tool (whois.domaintools.com is free) and enter the seller's website URL. A domain registered within the last 60-90 days is a serious warning sign. Established breeders don't launch new websites every season.
 

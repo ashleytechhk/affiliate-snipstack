@@ -28,7 +28,7 @@ For anyone who receives an email featuring a celebrity's name or face promoting 
 
 The table below shows how different checker tools handle the specific features of celebrity endorsement scams, which often combine fake sender addresses, newly registered scam domains, and links to convincing-looking [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s.
 
-| Tool | Sender Verification | Domain Age Check | Real-Time Fraud Database | Plain-Language Result | Free to Use |
+| Tool | Sender Verification | [Domain Age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) Check | Real-Time Fraud Database | Plain-Language Result | Free to Use |
 |---|---|---|---|---|---|
 | Surfshark Email Scam Checker | Yes | Yes | Yes — proprietary + partner feeds | Yes | Yes (core features) |
 | Google Safe Browsing | No | No | Yes — cached blocklist | No (browser warning only) | Yes — built into browsers |

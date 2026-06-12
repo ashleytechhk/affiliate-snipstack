@@ -108,7 +108,7 @@ Understanding what the tool does in the background helps you trust the result.
 
 **Link destination analysis.** The checker inspects where a link actually leads, not where the email text claims it leads. This catches the common trick of displaying a trusted brand name while the underlying link points somewhere completely different.
 
-**Domain age and reputation.** Scam campaigns frequently use domains registered within days of the attack. A domain that is three days old and claiming to be a well-known financial institution is a strong signal of fraud. The checker surfaces this without you needing to look it up yourself.
+**[Domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) and reputation.** Scam campaigns frequently use domains registered within days of the attack. A domain that is three days old and claiming to be a well-known financial institution is a strong signal of fraud. The checker surfaces this without you needing to look it up yourself.
 
 **Cross-referencing security databases.** Known phishing domains, malware distributors, and fraud sites are catalogued by security organisations. The checker queries multiple databases simultaneously — a match means an immediate warning.
 

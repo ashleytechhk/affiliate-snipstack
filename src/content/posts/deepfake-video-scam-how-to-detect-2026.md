@@ -103,7 +103,7 @@ Surfshark's Email Scam Checker addresses this at source. Paste the suspicious em
 
 - **The sender domain** — whether the email actually comes from who it claims to be from, using technical authentication records (SPF, DKIM, DMARC) that legitimate companies are required to set up
 - **The link destination** — where the link in the email actually leads, cross-checked against security databases for known phishing and scam domains
-- **Domain age** — newly registered domains (a hallmark of scam campaigns) get flagged automatically
+- **[Domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/)** — newly registered domains (a hallmark of scam campaigns) get flagged automatically
 - **Breach exposure** — if the email address the message was sent to has appeared in a data leak, that context helps explain why you are being targeted
 
 **What it does well:** The result is in plain language — not a technical readout. You do not need to know what an SPF record is. You get: "this looks suspicious" or "this appears safe," with the key reason stated clearly.

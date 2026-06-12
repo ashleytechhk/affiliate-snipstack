@@ -143,7 +143,7 @@ Here is how it helps at each stage of a pig butchering approach:
 
 | Stage | What the Scammer Sends | What the Checker Can Flag |
 |---|---|---|
-| Initial contact | Email from an address you do not recognise | Sender domain age, authentication failures |
+| Initial contact | Email from an address you do not recognise | Sender [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), authentication failures |
 | Platform introduction | Link to the "exclusive" investment site | Domain registered recently, threat database match |
 | Documentation | PDF or link "proving" the platform's legitimacy | Suspicious sender patterns, unknown domain |
 | Fee request | Email with payment instructions | Spoofed sender address, fraudulent domain signals |

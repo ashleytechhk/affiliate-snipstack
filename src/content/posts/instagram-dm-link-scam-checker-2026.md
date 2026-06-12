@@ -98,7 +98,7 @@ If you use Chrome, Firefox, or Safari, Google Safe Browsing is already running. 
 
 ## ScamAdviser — Trust Score for Unfamiliar Sites
 
-ScamAdviser assigns a trust score from 0 to 100 to any website, pulling signals from domain age, registration country, user reviews, and blacklist status. A score below 40 is a red flag.
+ScamAdviser assigns a trust score from 0 to 100 to any website, pulling signals from [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), registration country, user reviews, and blacklist status. A score below 40 is a red flag.
 
 **What it does well:** The trust score format is intuitive for non-technical users, and ScamAdviser explains why a site scored low — useful context when you are deciding whether to proceed.
 

@@ -36,7 +36,7 @@ The three most common attacks in 2026 look like this:
 
 **Fake [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/).** You see an ad or get an email saying your computer has a dangerous virus. You click to download the "fix." The download is the virus.
 
-**Phishing pages.** A link in an email or text takes you to what looks exactly like your bank's website, or your email login, or the Social Security Administration. You type in your password. A scammer on the other side now has it.
+**Phishing pages.** A link in an email or text takes you to what looks exactly like your bank's website, or your email login, or the [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) Administration. You type in your password. A scammer on the other side now has it.
 
 All three of these attacks work by bypassing the human's natural skepticism through urgency and fear. Real [antivirus software](https://snipstack.io/antivirus-software-2026/) stops them technically — before the damage happens.
 

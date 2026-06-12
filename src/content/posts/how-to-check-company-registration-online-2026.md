@@ -29,7 +29,7 @@ Manual company registration checks are free and reliable — but they only confi
 | Company is a real registered entity | Yes — checks government database | Not applicable |
 | Company address matches registration | Yes — view official registered address | Not applicable |
 | Email sender domain is authenticated | No — registry does not check email | Yes — verifies SPF, DKIM, DMARC records |
-| Sender domain age (new = suspicious) | No — requires separate WHOIS lookup | Yes — flags newly registered domains |
+| Sender [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) (new = suspicious) | No — requires separate WHOIS lookup | Yes — flags newly registered domains |
 | Domain linked to known phishing | No — out of scope for registry | Yes — cross-checks fraud databases |
 | Link in email leads to a safe site | No | Yes — scans destination URL |
 | Time required | 5–15 minutes per company | Under 60 seconds |

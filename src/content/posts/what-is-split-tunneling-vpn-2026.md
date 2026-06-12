@@ -126,7 +126,7 @@ If you only use a VPN occasionally for general privacy on public Wi-Fi, split tu
 
 Split tunneling lets you select which apps or websites route through your VPN while the rest of your traffic uses your regular internet connection. You get the benefits of a VPN for the specific apps you care about without slowing down or disrupting everything else. [Check which VPN includes split tunneling](/blog/vpn?sub=what-is-split-tunneling-vpn-2026__faq).
 
-### Does Surfshark have split tunneling?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) have split tunneling?
 
 Yes. Surfshark calls its split tunneling feature Bypasser. It's available on Windows, macOS, Android, and iOS — but with different capabilities per platform. Windows, macOS, and Android support full app-level routing (select which apps use the VPN). iOS supports website-level routing only (specify domains rather than apps). Reverse Bypasser mode — route everything through VPN except excluded apps — is available on Android and Windows.
 
@@ -142,7 +142,7 @@ No. Non-tunneled traffic goes through your regular connection at normal speed. T
 
 On Android, yes — Surfshark Bypasser gives you full app-level split tunneling. Select which apps use the VPN, save the configuration, and it applies immediately. Reverse Bypasser mode (exclude specific apps from the VPN) is also available.
 
-On iOS, Bypasser supports website-level routing only — you add specific domains to the bypass list rather than selecting apps. For streaming services with clear domain names this works well in a browser. For native iPhone apps, the alternative is simply turning the VPN on and off when needed.
+On iOS, Bypasser supports website-level routing only — you add specific domains to the bypass list rather than selecting apps. For streaming services with clear domain names this works well in a browser. For native [iPhone apps](https://snipstack.io/iphone-apps-vpn-2026/), the alternative is simply turning the VPN on and off when needed.
 
 ### Does split tunneling work with streaming services?
 
@@ -152,7 +152,7 @@ Yes, and this is one of its primary use cases. You configure your streaming apps
 
 ## The Bottom Line
 
-Split tunneling is the feature that makes using a VPN for streaming sustainable. Without it, every other service on your device gets routed through a foreign server, which triggers security flags, breaks local services, and slows down traffic that has nothing to do with the streaming you're trying to control.
+Split tunneling is the feature that makes using a [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/) sustainable. Without it, every other service on your device gets routed through a foreign server, which triggers security flags, breaks local services, and slows down traffic that has nothing to do with the streaming you're trying to control.
 
 With split tunneling, you get a clean setup: your streaming apps see the region and pricing you want, and everything else works exactly as it did before.
 

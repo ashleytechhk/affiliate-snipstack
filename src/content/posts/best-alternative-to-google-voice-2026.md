@@ -139,7 +139,7 @@ This isn't a minor technical detail. It's the reason Google Voice works great fo
 
 Calls and texts to your Alt Number come through the Surfshark app. Notifications work like any other messaging app. You can give the number to dating app matches immediately after setup.
 
-If you're not yet on Surfshark, you can [view current plans and pricing here](/blog/altnumber?sub=best-alternative-to-google-voice-2026__mid) — Alt Number is included with Surfshark One or available as a standalone add-on.
+If you're not yet on Surfshark, you can [view current plans and pricing here](/blog/altnumber?sub=best-alternative-to-google-voice-2026__mid) — Alt Number is included with [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) or available as a standalone add-on.
 
 ---
 
@@ -151,7 +151,7 @@ Dating apps use number verification services that cross-check incoming numbers a
 
 **Is it legal to use a [second number for](https://snipstack.io/second-number-for-anonymous-neighborhood-reports-2026/) dating apps?**
 
-Yes, completely. Using a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) privacy is legal and common. Dating apps verify that you received an SMS code — they don't check whether the number is your "primary" line. The only restriction is using any [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) fraudulent or deceptive purposes, which would be illegal regardless of whether it's your real number or a second one.
+Yes, completely. Using a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) privacy is legal and common. Dating apps verify that you received an SMS code — they don't check whether the number is your "primary" line. The only restriction [is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/)y [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) fraudulent or deceptive purposes, which would be illegal regardless of whether it's your real number or a second one.
 
 **Will my match know I'm using a [second number](https://snipstack.io/second-number-for-reddit-account-verification-2026/)?**
 
@@ -169,9 +169,9 @@ Yes. Alt Number works for SMS verification on Tinder, Hinge, Bumble, OkCupid, an
 
 No. All of the alternatives listed here — Alt Number, Hushed, TextNow, Google Voice — work on your existing phone through an app. No second SIM, no second device. Alt Number runs inside the Surfshark app. You use your regular phone for everything; the [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) just routes through the app.
 
-**Is Alt Number included in Surfshark One, or is it a separate cost?**
+**Is Alt Number included in [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/), or is it a separate cost?**
 
-Alt Number is included in the Surfshark One and Surfshark One+ plans. If you're already using Surfshark for a VPN, check your plan — you may already have access. If you're on Surfshark's base VPN plan, Alt Number is available as an add-on. [Check current plan details here](/blog/altnumber?sub=best-alternative-to-google-voice-2026__faq).
+Alt Number is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ plans. If you're already using Surfshark for a VPN, check your plan — you may already have access. If you're on Surfshark's base VPN plan, Alt Number is available as an add-on. [Check current plan details here](/blog/altnumber?sub=best-alternative-to-google-voice-2026__faq).
 
 ---
 

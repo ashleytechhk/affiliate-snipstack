@@ -155,7 +155,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) a
 
 ### What does Surfshark Alert actually monitor?
 
-Surfshark Alert monitors your email addresses, credit card numbers, and ID documents against known data breach databases. When your information appears in a breach, you receive a real-time notification so you can act quickly — change passwords, freeze cards, or take other protective steps. This is included in the Surfshark One subscription at no extra cost.
+Surfshark Alert monitors your email addresses, credit card numbers, and ID documents against known data breach databases. When your information appears in a breach, you receive a real-time notification so you can act quickly — change passwords, freeze cards, or take other protective steps. This is included in the [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) subscription at no extra cost.
 
 ### Is there a free trial or money-back guarantee?
 

@@ -144,7 +144,7 @@ Alert, the breach monitoring component, watches dark web databases and known bre
 
 **Will switching from Norton to [Surfshark One](https://snipstack.io/surfshark-one-review-reddit-2026/) leave any gaps in my protection?**
 
-The main functional gap is a built-in password manager. Norton 360 includes one; Surfshark One does not. If you actively use Norton's password manager, you will need a replacement — Bitwarden's free tier or Apple's built-in Passwords app are both solid options at no additional cost. Every other core protection category — antivirus, VPN, breach monitoring — is covered in the One bundle.
+The main functional gap is a built-in password manager. Norton 360 includes one; [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) does not. If you actively use Norton's password manager, you will need a replacement — Bitwarden's free tier or Apple's built-in Passwords app are both solid options at no additional cost. Every other core protection category — antivirus, VPN, breach monitoring — is covered in the One bundle.
 
 **How does Surfshark One compare to buying individual apps separately?**
 

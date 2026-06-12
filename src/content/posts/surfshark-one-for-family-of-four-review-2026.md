@@ -134,4 +134,4 @@ Surfshark operates under a no-logs policy for VPN usage — it does not record y
 
 ---
 
-*Disclosure: This article contains affiliate links. If you purchase Surfshark One through our links, we may earn a commission at no extra cost to you. Pricing figures cited are approximate based on publicly available rates as of May 2026 and may vary. Always check current pricing at checkout.*
+*Disclosure: This article contains affiliate links. If you purchase [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) through our links, we may earn a commission at no extra cost to you. Pricing figures cited are approximate based on publicly available rates as of May 2026 and may vary. Always check current pricing at checkout.*

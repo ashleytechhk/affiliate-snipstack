@@ -151,7 +151,7 @@ Do not click any links in the email. Do not reply, as replies confirm your addre
 
 **Q: How can a scam checker help identify pyramid scheme emails?**
 
-A scam checker analyses the technical signals associated with an email or its linked websites — domain age, blacklist status, phishing database matches, and hosting patterns commonly associated with fraudulent operations. Pyramid scheme operators who run email campaigns often use recently registered domains and shared hosting infrastructure that shows up in threat databases before the scheme is widely reported. Running the email through a checker like Surfshark's catches these technical indicators even when the pitch itself sounds plausible.
+A scam checker analyses the technical signals associated with an email or its linked websites — [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), blacklist status, phishing database matches, and hosting patterns commonly associated with fraudulent operations. Pyramid scheme operators who run email campaigns often use recently registered domains and shared hosting infrastructure that shows up in threat databases before the scheme is widely reported. Running the email through a checker like Surfshark's catches these technical indicators even when the pitch itself sounds plausible.
 
 **Q: What is the "Amway rule" or "70% rule"?**
 

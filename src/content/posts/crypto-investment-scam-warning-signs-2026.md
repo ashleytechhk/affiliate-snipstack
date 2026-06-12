@@ -31,7 +31,7 @@ Use this table as a fast reference before diving into each sign in detail.
 | Warning Sign | Manual Check | Surfshark Scam Detector |
 |---|---|---|
 | Guaranteed returns promised | Common sense — no investment guarantees returns | Not applicable — judgment call |
-| Unsolicited contact via email or DM | Check sender's address and domain age | Flags phishing emails and suspicious domains |
+| Unsolicited contact via email or DM | Check sender's address and [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/) | Flags phishing emails and suspicious domains |
 | Fake celebrity or influencer endorsement | Reverse-search image; check official channels | Scans links to fraudulent impersonator pages |
 | Unverifiable or offshore platform | Search regulator databases (FCA, SEC, ASIC) | Flags unregistered domains and lookalike URLs |
 | Pressure to act before a deadline | Slow down and verify independently | Not applicable — judgment call |

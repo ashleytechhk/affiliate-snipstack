@@ -20,7 +20,7 @@ If you are a heavy streaming user and you feel like the ads have gotten worse, y
 
 ## Quick Verdict
 
-There is no native ad blocker for Roku TV — Roku does not allow ad-blocking apps in its channel store. The platform's ads come from two separate sources: Roku's own ad infrastructure (home screen, The Roku Channel, Roku's free channels) and third-party streaming apps (Peacock, Pluto TV, Tubi). DNS-level blocking stops the first category effectively. The second category is harder, but a VPN with CleanWeb running at your router covers more ground than any in-TV approach.
+There is no native [ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/) for Roku TV — Roku does not allow ad-blocking apps in its channel store. The platform's ads come from two separate sources: Roku's own ad infrastructure (home screen, The Roku Channel, Roku's free channels) and third-party streaming apps (Peacock, Pluto TV, Tubi). DNS-level blocking stops the first category effectively. The second category is harder, but a VPN with CleanWeb running at your router covers more ground than any in-TV approach.
 
 For mobile users who want one solution that covers their phone and their Roku TV simultaneously, Surfshark's CleanWeb is the most practical option in 2026. You install it once on your phone, extend it to your router, and the entire network — Roku included — goes through DNS-level ad filtering.
 
@@ -49,7 +49,7 @@ The practical breakdown: DNS blocking removes the Roku system ads cleanly. Third
 
 ---
 
-## Why There Is No Native Ad Blocker App for Roku
+## Why There Is No Native [Ad Blocker](https://snipstack.io/ad-blocker-for-chromecast-streaming-device-2026/) App for Roku
 
 On your phone, you can install an [ad blocker for your browser](https://snipstack.io/ad-blocker-for-iphone-browser-2026/) or enable a system-level filter like CleanWeb. On Roku, that option does not exist.
 
@@ -74,7 +74,7 @@ DNS (Domain Name System) resolves domain names into IP addresses. When your Roku
 1. Log in to your router admin panel — typically at `192.168.1.1` or `192.168.0.1`
 2. Find the DNS settings under WAN, Internet, or Advanced settings
 3. Replace your ISP's default DNS with a filtering DNS:
-   - AdGuard DNS: `94.140.14.14` / `94.140.15.15`
+   - [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/): `94.140.14.14` / `94.140.15.15`
    - NextDNS: create a free account at nextdns.io and use your personal endpoint
 4. Save and reboot your router
 
@@ -190,7 +190,7 @@ When you block Roku's ad domains at the DNS level, you also cut a significant po
 
 ## Frequently Asked Questions
 
-**Is there an actual ad blocker app I can install on Roku?**
+**Is there an actual [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) app I can install on Roku?**
 
 No. Roku does not allow ad-blocking channels in its store. Any method for blocking Roku TV ads operates outside the TV — at your router, via DNS, or through a VPN-enabled router. There is no app you can sideload or install directly on a standard Roku device to block ads. **[See how router-level blocking covers Roku without touching the TV →](/blog/adblock?sub=ad-blocker-for-roku-tv-2026__faq)**
 
@@ -200,7 +200,7 @@ No. DNS-based blocking only stops requests to known ad-serving domains. Your str
 
 **Why do I still see ads in Peacock or Pluto TV after changing my DNS?**
 
-Those ads come from Peacock's and Pluto TV's own ad infrastructure, not from Roku's servers. DNS blocking Roku's ad domains has no effect on ads delivered by third-party streaming platforms. To remove ads from Peacock, you would need Peacock Premium Plus. Pluto TV has no paid tier — it is ad-supported by design.
+Those ads come from Peacock's and Pluto TV's own ad infrastructure, not from Roku's servers. DNS blocking Roku's ad domains has no effect on ads delivered by third-party streaming platforms. To [remove ads from](https://snipstack.io/remove-ads-from-google-shopping-results-2026/) Peacock, you would need Peacock Premium Plus. Pluto TV has no paid tier — it is ad-supported by design.
 
 **Does changing DNS on my router affect other devices?**
 
