@@ -24,7 +24,7 @@ Safari on iPhone supports third-party content blockers that filter ads before th
 
 An [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/) for iPhone browser is software that prevents advertising content from loading when you browse the web in Safari or another iOS browser. It can remove banner ads, video pre-rolls, pop-ups, tracking pixels, and cookie consent spam.
 
-On desktop, browser extensions handle this job. On iPhone, Apple uses a different system called **Safari Content Blockers** — a privacy-preserving API built into iOS.
+On desktop, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s handle this job. On iPhone, Apple uses a different system called **Safari Content Blockers** — a privacy-preserving API built into iOS.
 
 ### How Safari Content Blockers Work
 

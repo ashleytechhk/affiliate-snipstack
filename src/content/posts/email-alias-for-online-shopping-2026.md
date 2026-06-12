@@ -86,7 +86,7 @@ For the rest of this guide, the steps use **Surfshark Alt ID** as the primary ex
 
 ### Using DuckDuckGo Email Protection
 
-1. Go to duckduckgo.com and enable Email Protection in settings, or install the DuckDuckGo browser extension.
+1. Go to duckduckgo.com and enable Email Protection in settings, or install the DuckDuckGo [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 2. Request your personal `@duck.com` address (waitlist may apply depending on region).
 3. On any sign-up form, DuckDuckGo will offer to generate a unique duck address per site.
 

@@ -24,7 +24,7 @@ Arc Search (the mobile browser from The Browser Company) ships with a built-in [
 
 ## What Is an [Ad Blocker for](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) Arc Browser?
 
-An **[ad blocker for](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) Arc browser** is software that prevents advertising content — banners, video pre-rolls, tracking pixels, cookie-consent walls — from loading when you browse the web. On desktop, this usually means a browser extension like [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) or AdGuard. On mobile, it is more complicated.
+An **[ad blocker for](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) Arc browser** is software that prevents advertising content — banners, video pre-rolls, tracking pixels, cookie-consent walls — from loading when you browse the web. On desktop, this usually means a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) like [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) or AdGuard. On mobile, it is more complicated.
 
 Arc Search is The Browser Company's mobile browser for iPhone. Unlike desktop Arc (which is Chromium-based and supports Chrome extensions), **Arc Search does not support third-party browser extensions**. There is no plugin store, no manifest file to install, and no way to run [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) inside it. Instead, The Browser Company built the blocking capability directly into the app itself.
 

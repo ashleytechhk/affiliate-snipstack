@@ -100,7 +100,7 @@ SimpleLogin is an open-source alias service, now owned by Proton (the company be
 - Free plan: up to 10 active aliases, no cost
 - Paid plan: unlimited aliases, custom domain support, around $4/month or $30/year
 - Open-source codebase, independently auditable
-- Browser extension for quick in-browser alias creation
+- [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for quick in-browser alias creation
 
 ### When to choose it
 

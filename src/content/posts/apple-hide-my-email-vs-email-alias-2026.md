@@ -22,7 +22,7 @@ Apple's **Hide My Email** does exactly that — within limits. So does a standal
 
 The moment you step outside that ecosystem — Android, Windows, Chrome, Firefox, any browser that isn't Safari — Hide My Email becomes difficult to use or unavailable entirely. Aliases are also tied to your iCloud+ subscription; cancel it and your addresses stop forwarding.
 
-**Surfshark Alt-ID** is the cross-platform answer. It works on every device through the Surfshark app and browser extension, lets you create and kill aliases in seconds, and comes bundled with VPN and data breach tools as part of a single privacy subscription. For the spam-exhausted user who signs up for things everywhere, not just on Apple devices, Alt-ID is the more complete fix.
+**Surfshark Alt-ID** is the cross-platform answer. It works on every device through the Surfshark app and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), lets you create and kill aliases in seconds, and comes bundled with VPN and data breach tools as part of a single privacy subscription. For the spam-exhausted user who signs up for things everywhere, not just on Apple devices, Alt-ID is the more complete fix.
 
 If you're all-in on Apple and never leave the ecosystem: Hide My Email is already there. For everyone else, Alt-ID solves the problem properly.
 

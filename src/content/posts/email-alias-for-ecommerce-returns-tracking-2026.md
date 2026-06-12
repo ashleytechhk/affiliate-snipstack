@@ -52,7 +52,7 @@ All four tools below are measured against these four criteria.
 | **Alias limit** | Unlimited | Unlimited | Unlimited | 5 free / unlimited paid |
 | **Domain appearance** | Realistic custom domain | @privaterelay.appleid.com | @duck.com | @mozmail.com |
 | **Blocked at checkout** | Rarely | Sometimes | Sometimes | Often |
-| **Works without specific browser** | Yes — any device, any browser | No — Safari / Apple ecosystem | Partial — browser extension helps | No — Firefox only |
+| **Works without specific browser** | Yes — any device, any browser | No — Safari / Apple ecosystem | Partial — [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) helps | No — Firefox only |
 | **Alias management dashboard** | Yes — in-app list | Yes — iCloud settings | Yes — extension popup | Yes — relay.firefox.com |
 | **Disable/delete per alias** | Yes — single toggle | Yes | Yes | Yes |
 | **Bundled extras** | VPN + [antivirus](https://snipstack.io/vs-antivirus-2026/) | iCloud storage | Privacy browser | Firefox sync |

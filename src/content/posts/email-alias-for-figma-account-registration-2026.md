@@ -87,7 +87,7 @@ SimpleLogin and AnonAddy have free tiers (10–20 aliases) that are adequate if 
 
 The setup takes under five minutes.
 
-**Step 1 — Generate an alias.** In [Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-figma-account-registration-2026__mid), open the browser extension or dashboard and create a new alias. You get a randomized address like `slate.ridge7421@altid-domain`. Label it "Figma account" so it is easy to identify later.
+**Step 1 — Generate an alias.** In [Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-figma-account-registration-2026__mid), open the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) or dashboard and create a new alias. You get a randomized address like `slate.ridge7421@altid-domain`. Label it "Figma account" so it is easy to identify later.
 
 **Step 2 — Register on Figma using the alias.** Go to figma.com and create your account (or update your existing account email in account settings). Paste the alias address into the email field.
 

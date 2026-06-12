@@ -120,7 +120,7 @@ This is the lowest-friction entry point for iOS ad blocking. The ceiling is also
 
 ## Why System-Wide Blocking Matters More in 2026
 
-Browser-only blockers were good enough in 2018 when most mobile browsing happened in a browser. By 2026, the average smartphone user spends 70%+ of their screen time inside apps — not browsers. Instagram, TikTok, YouTube, games, news apps, delivery apps — all of these serve ads through their own ad SDKs, completely invisible to a browser extension.
+Browser-only blockers were good enough in 2018 when most mobile browsing happened in a browser. By 2026, the average smartphone user spends 70%+ of their screen time inside apps — not browsers. Instagram, TikTok, YouTube, games, news apps, delivery apps — all of these serve ads through their own ad SDKs, completely invisible to a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 
 The only way to address in-app ads without rooting your phone is at the network layer: either DNS filtering or a VPN that inspects and drops ad traffic before it loads.
 

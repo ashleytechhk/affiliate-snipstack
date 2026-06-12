@@ -98,7 +98,7 @@ The practical limits: iCloud Hide My Email is tied to the Apple ecosystem; Andro
 
 **How it works for hotel points accounts:**
 
-1. Before joining a loyalty program (or before updating an existing account), open the Surfshark browser extension and generate a new alias.
+1. Before joining a loyalty program (or before updating an existing account), open the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and generate a new alias.
 2. Use the alias as your points account email at registration or in your profile settings.
 3. All program email — confirmation of stays, points statements, partner offers, account security notices — forwards to your real inbox automatically. Your account functions exactly as normal.
 4. When the partner blasts become intolerable, open the Alt-ID dashboard and delete the alias. Every sender with that address — the main program, every affiliated partner, every co-branded card issuer — loses their path to your inbox in a single action.

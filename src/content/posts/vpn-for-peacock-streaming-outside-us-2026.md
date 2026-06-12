@@ -162,7 +162,7 @@ The honest caveat: this calculation depends on your local streaming market and w
 
 Getting Peacock working with a VPN takes under five minutes:
 
-1. **Sign up for a VPN** — Surfshark offers the best price-to-reliability ratio. Download the app for your device (available on Windows, macOS, iOS, Android, and browser extensions).
+1. **Sign up for a VPN** — Surfshark offers the best price-to-reliability ratio. Download the app for your device (available on Windows, macOS, iOS, Android, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s).
 2. **Open the VPN app** and choose a US server. Select a city on the East or West Coast depending on which is geographically closer to your current location — this minimizes latency.
 3. **Connect before opening Peacock** — let the VPN establish the connection fully before launching the app or browser.
 4. **Open Peacock** — log in with your regular account credentials. The platform should load normally.

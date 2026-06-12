@@ -92,7 +92,7 @@ All three products include real-time antivirus scanning. The technical differenc
 
 **Norton's antivirus engine** has decades of reputation behind it and consistently scores well in AV-Test and SE Labs evaluations. The caveat: it bundles processes that run continuously — LiveUpdate, Norton Power Eraser, the LifeLock integration — and collectively these have a measurable impact on older hardware. If the family PC is more than four years old, you may notice slowdown.
 
-**McAfee's antivirus** is similarly capable in detection rates but has a comparable performance footprint. Its browser extensions — WebAdvisor, Safe Connect — add to the overhead and can conflict with other browser tools.
+**McAfee's antivirus** is similarly capable in detection rates but has a comparable performance footprint. Its [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s — WebAdvisor, Safe Connect — add to the overhead and can conflict with other browser tools.
 
 For a household running modern devices (purchased in the last three to four years), the detection rate differences between all three are small enough that the experience around the antivirus matters more than the scanner itself.
 

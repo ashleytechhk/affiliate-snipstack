@@ -61,7 +61,7 @@ Persistent aliases — Alt ID, SimpleLogin, AnonAddy, Apple Hide My Email — st
 
 The delete action is where aliases earn their value. The ideal flow: trial ends, one click in your alias dashboard, the address is gone. Every future email from that VPN provider bounces. No more drip campaigns, no win-back sequence, no annual renewal reminder six months later.
 
-Alt ID and SimpleLogin both offer single-click deletion from a clean dashboard. AnonAddy is slightly more involved but still fast. Apple Hide My Email deletes from iCloud settings. DuckDuckGo handles it through the browser extension. The Gmail `+` trick doesn't support deletion at all — you'd need to build a filter rule, which is maintenance overhead you shouldn't need for a trial signup.
+Alt ID and SimpleLogin both offer single-click deletion from a clean dashboard. AnonAddy is slightly more involved but still fast. Apple Hide My Email deletes from iCloud settings. DuckDuckGo handles it through the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). The Gmail `+` trick doesn't support deletion at all — you'd need to build a filter rule, which is maintenance overhead you shouldn't need for a trial signup.
 
 ### Reply-From Support
 

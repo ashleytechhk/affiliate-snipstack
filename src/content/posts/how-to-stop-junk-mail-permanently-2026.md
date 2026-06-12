@@ -106,7 +106,7 @@ Alt ID generates unique, random [email alias](https://snipstack.io/email-alias-e
 [Start using Alt ID to protect your inbox](/blog/altid?sub=how-to-stop-junk-mail-permanently-2026__mid)
 
 1. Sign up for an Alt ID-enabled account via the link above.
-2. Install the browser extension if you want one-click alias generation while filling out web forms.
+2. Install the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) if you want one-click alias generation while filling out web forms.
 3. When you sign up for any new website or service, use a generated alias instead of your real address.
 4. Label each alias with the site name (e.g., `amazon-jku7@altid.example`) so you know where spam originates.
 5. If an alias starts receiving junk, delete it. The spam chain is broken.

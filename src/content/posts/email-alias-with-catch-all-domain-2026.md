@@ -65,7 +65,7 @@ Surfshark's Alternative ID generates randomised [email alias](https://snipstack.
 - Instant delete — one click kills the alias and all spam sent to it stops cold
 - Reply masking — replies go out from the alias, keeping your real address hidden
 - Bundled with Surfshark — if you are already paying for the VPN (or considering it), Alt-ID costs you nothing extra
-- Browser extension integration for fast alias insertion at signup forms
+- [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) integration for fast alias insertion at signup forms
 
 The honest trade-off: your aliases live at a Surfshark domain. If you care about branded email addresses or want `spam@yourname.com`, this is not that. If you care about stopping spam in the next fifteen minutes without touching a DNS record, this is exactly that.
 

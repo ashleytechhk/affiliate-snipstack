@@ -148,7 +148,7 @@ Here is how to set it up.
 
 Go to [the Alt ID page](/blog/altid?sub=stop-receiving-spam-from-unsubscribe-forms-2026__mid) and choose a plan. Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) and One+ — it is not a separate purchase. Use your real email during checkout (this is the inbox your alias mail forwards to).
 
-### Step 5b — Install the Surfshark Browser Extension
+### Step 5b — Install the Surfshark [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)
 
 From your browser's extension store, search "Surfshark" and install the official extension. It is available for Chrome, Firefox, and Edge on desktop. Sign in with your Surfshark account when prompted.
 

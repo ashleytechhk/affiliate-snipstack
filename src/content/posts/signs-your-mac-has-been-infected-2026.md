@@ -22,7 +22,7 @@ They are not.
 
 ## Quick Verdict
 
-Macs are not immune to infection. Adware, browser hijackers, and scam-ware are common, and the signs are often subtle — a slightly slower Mac, an unfamiliar browser extension, search results that look a little off. If you have noticed any of the warning signs listed below, act on them the same day. Waiting gives malicious software more time to collect your passwords, banking details, and personal files. The fastest fix is a combination of the manual steps in this guide plus a dedicated security tool like [Surfshark Antivirus](/blog/antivirus?sub=signs-your-mac-has-been-infected-2026__above-fold) that catches threats before they cause damage.
+Macs are not immune to infection. Adware, browser hijackers, and scam-ware are common, and the signs are often subtle — a slightly slower Mac, an unfamiliar [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), search results that look a little off. If you have noticed any of the warning signs listed below, act on them the same day. Waiting gives malicious software more time to collect your passwords, banking details, and personal files. The fastest fix is a combination of the manual steps in this guide plus a dedicated security tool like [Surfshark Antivirus](/blog/antivirus?sub=signs-your-mac-has-been-infected-2026__above-fold) that catches threats before they cause damage.
 
 ---
 

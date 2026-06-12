@@ -41,7 +41,7 @@ Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separat
 
 SimpleLogin lets you create unlimited [email alias](https://snipstack.io/email-alias-sign-2026/)es on its free tier (up to 10 aliases, then paid) and routes incoming mail straight to your real inbox. Replies work through the alias too, so two-way email stays anonymous. The service is open-source, audited, and — since its acquisition by Proton — tightly integrated with ProtonMail accounts.
 
-The browser extension makes alias creation one-click while you are filling out a signup form, which is where most unwanted subscriptions start. Power users appreciate the custom domain support: point your own domain at SimpleLogin and you get branded aliases like `shopping@yourdomain.com` that look intentional rather than disposable.
+The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) makes alias creation one-click while you are filling out a signup form, which is where most unwanted subscriptions start. Power users appreciate the custom domain support: point your own domain at SimpleLogin and you get branded aliases like `shopping@yourdomain.com` that look intentional rather than disposable.
 
 Where SimpleLogin stops short is identity generation. It creates an alias address, nothing more. If a signup form also asks for a name and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), you are on your own. For inbox protection alone, it is outstanding; for full data minimisation, pair it with a separate identity generator.
 

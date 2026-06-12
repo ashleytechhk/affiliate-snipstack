@@ -130,7 +130,7 @@ NordVPN's US server network is one of the largest in the industry, with SmartDNS
 
 The setup takes under five minutes:
 
-1. **Sign up for Surfshark** and download the app for your device — available on Windows, macOS, iOS, Android, Android TV, Fire TV, and as a browser extension.
+1. **Sign up for Surfshark** and download the app for your device — available on Windows, macOS, iOS, Android, Android TV, Fire TV, and as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 
 2. **Open the app and select a US server.** Look for servers labeled as streaming-optimized. These are maintained specifically to stay ahead of streaming blocklists.
 

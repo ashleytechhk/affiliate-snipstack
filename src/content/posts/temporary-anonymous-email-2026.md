@@ -104,7 +104,7 @@ Once your account is active, you have immediate access to Alt-ID. No extra steps
 2. In the left-hand navigation panel, click **Alt-ID** (listed under the privacy tools section).
 3. The Alt-ID home screen opens, showing any existing aliases and a button to create new ones.
 
-Alternatively, install the Surfshark browser extension for Chrome, Firefox, or Edge. The extension adds an Alt-ID button directly to your browser toolbar, making it faster to generate an alias without leaving the page you are on.
+Alternatively, install the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for Chrome, Firefox, or Edge. The extension adds an Alt-ID button directly to your browser toolbar, making it faster to generate an alias without leaving the page you are on.
 
 > *Screenshot placeholder: Alt-ID alias management screen*
 > ![Alt-ID showing existing aliases and the create-new button](/og/temporary-anonymous-email-2026-inline-1.png)

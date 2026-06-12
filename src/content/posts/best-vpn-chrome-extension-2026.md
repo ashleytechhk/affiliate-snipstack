@@ -99,7 +99,7 @@ Notable features:
 - **WebRTC protection** — Chrome's WebRTC protocol can expose your real IP even with a proxy active. Surfshark's extension explicitly blocks WebRTC leaks.
 - **IP display in toolbar** — shows your current masked IP at a glance, confirming which location Chrome is presenting.
 
-Surfshark's extension is included in any Surfshark subscription alongside the full desktop and mobile apps. One subscription covers the browser extension, the Windows/Mac/iOS/Android apps, and unlimited simultaneous devices.
+Surfshark's extension is included in any Surfshark subscription alongside the full desktop and mobile apps. One subscription covers the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), the Windows/Mac/iOS/Android apps, and unlimited simultaneous devices.
 
 ### [NordVPN Chrome Extension](https://snipstack.io/nordvpn-chrome-extension-2026/)
 

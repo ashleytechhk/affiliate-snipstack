@@ -181,7 +181,7 @@ Yes. Alt-Number provides a private phone number that forwards SMS verification t
 
 ### How does the VPN handle ad blocking for kids' devices?
 
-Surfshark's CleanWeb feature blocks ads and known tracking domains at the VPN level, before they load. It applies to every device connected to the VPN — no per-device browser extension required. This means that a child's tablet connecting through the Surfshark VPN gets the same ad blocking as an adult's laptop without any additional configuration.
+Surfshark's CleanWeb feature blocks ads and known tracking domains at the VPN level, before they load. It applies to every device connected to the VPN — no per-device [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) required. This means that a child's tablet connecting through the Surfshark VPN gets the same ad blocking as an adult's laptop without any additional configuration.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I already have a standalone VPN I am happy with?
 

@@ -45,7 +45,7 @@ An [email alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking
 | Forwarding | Yes | Yes | Yes | Yes |
 | Reply from alias | Yes | Yes | Yes | Yes |
 | Fake identity profile | Yes | No | No | No |
-| Browser extension | Yes | Yes | Yes | Safari only |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Yes | Yes | Safari only |
 | Mobile app | Yes (Surfshark) | Yes | No dedicated app | iOS / macOS only |
 | Pricing | Bundled in [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Free tier / ~$4/mo paid | Free tier / ~$1/mo paid | Free (Apple One / iCloud+) |
 | Platform | Cross-platform | Cross-platform | Cross-platform | Apple ecosystem only |

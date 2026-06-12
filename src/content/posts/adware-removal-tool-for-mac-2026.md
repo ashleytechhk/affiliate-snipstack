@@ -33,7 +33,7 @@ Most people think of Macs as safe computers. In many ways they are. But adware i
 - Clicking a link in an unexpected email or text message
 - Downloading a free program or a software update from an unofficial website
 - Clicking a pop-up advertisement that says "Your Mac is infected — click here to fix it" (this is itself the adware)
-- Installing a browser extension that turns out to be malicious
+- Installing a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) that turns out to be malicious
 
 Seniors are a prime target because scammers know that older adults may not immediately recognise the warning signs. A realistic-looking pop-up saying "Call Apple Support Now" can be convincing — especially the first time you see one.
 

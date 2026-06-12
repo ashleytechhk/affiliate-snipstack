@@ -50,7 +50,7 @@ If you already use an [ad blocker](https://snipstack.io/ad-blocker-for-iphone-br
 
 On iPhone, iOS content blockers — the kind you install from the App Store and enable in Safari Settings — only filter traffic inside Safari's rendering engine. The Amazon Music app loads everything through its own network stack. Your Safari content blocker never sees those requests.
 
-This is a structural iOS limitation, not a bug. Apple does not allow browser extensions to intercept app traffic.
+This is a structural iOS limitation, not a bug. Apple does not allow [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s to intercept app traffic.
 
 ### Amazon Hosts Its Own Audio Ads
 

@@ -82,7 +82,7 @@ An ad-free, no-tracking private search engine. Small thing, but significant if y
 Creates a separate online identity — a proxy email address and persona — you can use when signing up for services you don't fully trust. This keeps your real email out of breach databases in the first place, rather than just monitoring after the fact.
 
 ### Clean Web
-Blocks ads, trackers, malware links, and cookie pop-ups at the network level, before they load in the browser. Works across all your devices, not just a browser extension.
+Blocks ads, trackers, malware links, and cookie pop-ups at the network level, before they load in the browser. Works across all your devices, not just a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 
 **[Get all six tools under one subscription — unlimited devices](/blog/one?sub=best-security-suite-for-mixed-device-household-2026__mid)**
 

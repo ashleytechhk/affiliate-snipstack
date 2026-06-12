@@ -127,7 +127,7 @@ For everyday users, yes. Modern bundled antivirus engines score competitively on
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include a password manager?
 
-[Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) does not include a password manager as of 2026. For password management, Bitwarden's free tier remains an excellent complement — it pairs well with any bundle since it runs as a browser extension without a system agent. [Learn what Surfshark One does include →](/blog/one?sub=is-bundled-security-better-than-separate-apps-2026__faq)
+[Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) does not include a password manager as of 2026. For password management, Bitwarden's free tier remains an excellent complement — it pairs well with any bundle since it runs as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) without a system agent. [Learn what Surfshark One does include →](/blog/one?sub=is-bundled-security-better-than-separate-apps-2026__faq)
 
 ### Will running a bundled suite slow down my computer?
 

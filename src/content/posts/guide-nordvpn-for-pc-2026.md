@@ -6,7 +6,7 @@ heroImage: "/og/guide-nordvpn-for-pc-2026.png"
 tags: ["vpn", "privacy", "review"]
 ---
 
-You want to run NordVPN on your PC — Windows or Mac — and you want to know what you are actually getting. This guide walks through the desktop client setup, explains the features that only exist on the full PC app (not the mobile version, not the browser extension), and ends with an honest look at whether NordVPN is the right call or whether a cheaper alternative does the same job.
+You want to run NordVPN on your PC — Windows or Mac — and you want to know what you are actually getting. This guide walks through the desktop client setup, explains the features that only exist on the full PC app (not the mobile version, not the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)), and ends with an honest look at whether NordVPN is the right call or whether a cheaper alternative does the same job.
 
 ![NordVPN PC desktop client setup guide 2026](/og/guide-nordvpn-for-pc-2026.png)
 

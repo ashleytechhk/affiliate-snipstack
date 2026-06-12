@@ -146,7 +146,7 @@ The setup takes under five minutes. Here's the exact process:
 
 **Step 1.** Get Surfshark. Alt-ID is included with all plans — not a paid add-on.
 
-**Step 2.** Open the Surfshark app or browser extension. Go to **Alt-ID** in the sidebar.
+**Step 2.** Open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Go to **Alt-ID** in the sidebar.
 
 **Step 3.** Click **Generate new Alt-ID**. The tool creates a randomized alias address and optional fake name and profile.
 

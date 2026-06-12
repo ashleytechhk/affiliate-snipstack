@@ -22,7 +22,7 @@ If you have landed here because ads are slowing down your browsing, burning thro
 
 The phrase "[ad blocker](https://snipstack.io/ad-blocker-for-xbox-game-pass-2026/)" gets used loosely. Here is what is actually happening under the hood, which matters because it determines what gets blocked and what slips through.
 
-### Browser Extension Blocking (What [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) Does)
+### [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) Blocking (What [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) Does)
 
 A Firefox extension like [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) sits between your browser and every web page it loads. When Firefox requests a resource — an image, a script, a video embed — uBlock checks the request URL against its filter lists. If the URL matches a known ad or tracker domain, the request is cancelled before it goes out. The page loads without the ad element, and your browser never contacts the ad server.
 

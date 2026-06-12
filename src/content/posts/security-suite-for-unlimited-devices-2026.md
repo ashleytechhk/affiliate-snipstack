@@ -161,7 +161,7 @@ One account, one subscription — every device you own can be logged in and prot
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) a single app or four separate apps?
 
-The four components (VPN, Antivirus, Alert, Search) are managed under one account but installed as separate apps. The [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) are the most frequently used and each has its own interface. Alert notifications come through the Alert app or browser extension. Search is accessed as a web-based tool. You do not need all four active simultaneously — use what you need, ignore what you don't.
+The four components (VPN, Antivirus, Alert, Search) are managed under one account but installed as separate apps. The [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) are the most frequently used and each has its own interface. Alert notifications come through the Alert app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Search is accessed as a web-based tool. You do not need all four active simultaneously — use what you need, ignore what you don't.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton subscription price at renewal?
 

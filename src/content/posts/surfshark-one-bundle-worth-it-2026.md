@@ -40,7 +40,7 @@ The problems with legacy suites are well-documented by the people who use them e
 
 **Renewal pricing opacity.** Introductory prices are set artificially low to acquire subscribers, then reset aggressively at renewal. The gap between what you paid in year one and what you are charged in year two is, in many cases, 200 to 300 percent.
 
-**Bloatware installs.** Norton's installation bundle has historically included toolbars, browser extensions, and system utilities you did not ask for. McAfee has done the same. These additions consume resources and add no security value for the majority of users.
+**Bloatware installs.** Norton's installation bundle has historically included toolbars, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, and system utilities you did not ask for. McAfee has done the same. These additions consume resources and add no security value for the majority of users.
 
 None of this means the underlying protection is poor. It means you are paying for a distribution model, not just a security product.
 

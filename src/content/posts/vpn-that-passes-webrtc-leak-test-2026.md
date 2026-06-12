@@ -72,7 +72,7 @@ Not every VPN handles WebRTC the same way. Here's what separates the ones that p
 
 VPNs that route all network traffic — including WebRTC requests — through their tunnel adapter prevent the leak at the source. When WebRTC queries the network for IP addresses, it only finds the VPN's virtual interface, so the only IP it returns is the one assigned by the VPN server. This requires solid network driver implementation, which is why some budget VPNs fail here even if their general tunnel works correctly.
 
-### Browser Extension Integration
+### [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) Integration
 
 Some VPNs offer browser extensions that can disable or restrict WebRTC entirely within the browser context. This is a belt-and-suspenders approach — even if a WebRTC request escapes the tunnel, the extension prevents the browser from exposing the real IP in the first place. Surfshark's browser extension, for example, includes a dedicated WebRTC blocking toggle alongside its regular privacy features.
 

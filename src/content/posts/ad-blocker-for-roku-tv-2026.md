@@ -148,7 +148,7 @@ What CleanWeb handles on mobile:
 - Pre-roll ads in mobile video players
 - Tracking pixels that follow you between apps and websites
 - Background telemetry calls from apps running in the background
-- All browsers simultaneously — no per-browser extension required
+- All browsers simultaneously — no per-[browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) required
 
 You enable it once in the Surfshark app settings and it runs in the background as long as the VPN is connected. Both iOS and Android are fully supported.
 

@@ -37,7 +37,7 @@ Both approaches work on Smart TVs even if your router is locked down (rented mod
 
 ### Why Smart TVs Are Harder to De-Ad Than Phones
 
-On a phone, you install an ad-blocking app. Done. Smart TVs do not have browser extensions or sideloadable ad-block apps in any meaningful way — Samsung, LG, and Roku all lock down their app ecosystems to prevent this. The only reliable hooks are:
+On a phone, you install an ad-blocking app. Done. Smart TVs do not have [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s or sideloadable ad-block apps in any meaningful way — Samsung, LG, and Roku all lock down their app ecosystems to prevent this. The only reliable hooks are:
 
 1. **DNS settings** — most Smart TVs let you enter a custom DNS in the network settings
 2. **VPN tunnel** — if your Smart TV supports a VPN app (some Android TV models do), or if you share a filtered connection from another device

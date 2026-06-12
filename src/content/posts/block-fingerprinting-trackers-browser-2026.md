@@ -146,7 +146,7 @@ Enable CleanWeb through Surfshark on desktop. Use Brave as your primary [browser
 **Users who want browser-only blocking without a VPN subscription:**
 Brave alone with Shields set to Aggressive handles a significant portion of fingerprinting scripts. You lose the DNS-level coverage that CleanWeb provides for non-browser apps, but for browser-only use, Brave Shields is the most effective free single tool available.
 
-For a deeper look at how CleanWeb performs in testing — including which tracker domains it catches that standalone browser extensions miss — see the [Surfshark CleanWeb review](/surfshark-cleanweb-review-2026/).
+For a deeper look at how CleanWeb performs in testing — including which tracker domains it catches that standalone [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s miss — see the [Surfshark CleanWeb review](/surfshark-cleanweb-review-2026/).
 
 ---
 

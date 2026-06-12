@@ -22,7 +22,7 @@ This guide cuts through the noise. We tested the main options against real-world
 
 Most browser extensions that claim to check scam sites do one thing well: they flag sites already on a public blocklist. The problem is that scam sites are often only a few hours old — brand-new domains created specifically for one phishing campaign, then abandoned. Those sites do not appear on any list yet.
 
-The extensions that work best in 2026 combine blocklist matching with real-time link analysis and email sender checking — because most dangerous links arrive by email, not from random browsing. Of the tools we looked at, **Surfshark Scam Checker** is the one we recommend for everyday users who are not security professionals: it checks the link, the sending domain, and whether the email address has appeared in breach records, all in one place, with a result you can actually understand. It has a free tier and nothing to configure.
+The extensions that work best in 2026 combine blocklist matching with real-time link analysis and email sender checking — because most dangerous links arrive by email, not from random browsing. Of the tools we looked at, **Surfshark Scam Checker** is the one we recommend for everyday users who are not security professionals: it checks the link, the sending domain, and whether the email address has appeared in breach records, [all in one](https://snipstack.io/all-in-one-security-app-that-covers-mac-and-iphone-2026/) place, with a result you can actually understand. It has a free tier and nothing to configure.
 
 The others have genuine strengths — but also meaningful gaps, which we detail below.
 
@@ -40,7 +40,7 @@ The most common approach. The extension holds a database of known scam and phish
 
 ### Reputation scoring
 
-Some tools assign a trust score to each domain based on signals like domain age, SSL certificate history, server location, and user reports. A one-day-old domain with no review history gets a low score even if it has not been explicitly flagged.
+Some tools assign a trust score to each domain based on signals like [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), SSL certificate history, server location, and user reports. A one-day-old domain with no review history gets a low score even if it has not been explicitly flagged.
 
 **The gap:** Scores require calibration. A low score on a new domain belonging to a small legitimate business creates false alarms. Tuning thresholds is difficult, and different tools get it wrong in different directions.
 
@@ -146,7 +146,7 @@ VirusTotal is a link and file scanning tool that routes your check through over 
 
 ---
 
-## What to Do When You Get a Suspicious Email Link
+## [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) When You Get a Suspicious Email Link
 
 If you receive an email with a link that you are not sure about, this is the process that takes under two minutes:
 
@@ -202,7 +202,7 @@ No. It is a web-based tool. You open it in any browser on any device and paste i
 
 Close the browser tab immediately. Do not enter any information on the page if you are still on it. Change the password for any account associated with the service the email claimed to be from. Contact your bank if any financial details were entered. Run your device's built-in malware scan. Reporting the email as phishing in your email app also helps protect others — in Gmail, this is the three-dot menu then "Report phishing."
 
-### Is Surfshark Scam Checker completely free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Scam Checker completely free?
 
 There is a free tier that covers individual manual link and email checks with no account required. A paid subscription adds automatic monitoring — so you are alerted when your personal details appear in new data breaches, rather than having to check each suspicious message manually. [See what each tier includes.](/blog/scamcheck?sub=browser-extension-to-check-scam-sites-2026__faq)
 
@@ -275,7 +275,7 @@ The practical approach for 2026 is layered: let your browser's built-in protecti
     },
     {
       "@type": "Question",
-      "name": "Is Surfshark Scam Checker completely free?",
+      "name": "[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Scam Checker completely free?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "There is a free tier that covers individual manual link and email checks with no account required. A paid subscription adds automatic monitoring — so you are alerted when your personal details appear in new data breaches, rather than having to check each suspicious message manually."

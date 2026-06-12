@@ -101,7 +101,7 @@ There's also no bundled VPN, no tracker stripping, and no data removal tool. Hid
 
 ## Firefox Relay: Best Free Option With Two-Way Reply
 
-Mozilla's Firefox Relay offers a free tier of five [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/)es and a paid tier (around $1.99/month) with unlimited aliases, two-way reply, and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking. It works across all browsers and devices as a browser extension and web dashboard, with no ecosystem requirement.
+Mozilla's Firefox Relay offers a free tier of five [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/)es and a paid tier (around $1.99/month) with unlimited aliases, two-way reply, and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking. It works across all browsers and devices as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and web dashboard, with no ecosystem requirement.
 
 ### What It Does Well
 

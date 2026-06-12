@@ -150,7 +150,7 @@ Brave uses the Chromium rendering engine, which gives it broad compatibility wit
 
 ### Does AdGuard work with Firefox on iPhone?
 
-Not as a browser add-on. iOS forces all third-party browsers — including Firefox — to use the WebKit engine, which doesn't support browser extensions. Firefox on iPhone cannot run the AdGuard add-on. Your alternatives are Firefox Focus (built-in blocking), AdGuard DNS (device-level, free), or Surfshark CleanWeb (device-level, paid). [See CleanWeb options for iPhone.](/blog/adblock?sub=adguard-firefox-2026__faq)
+Not as a browser add-on. iOS forces all third-party browsers — including Firefox — to use the WebKit engine, which doesn't support [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Firefox on iPhone cannot run the AdGuard add-on. Your alternatives are Firefox Focus (built-in blocking), AdGuard DNS (device-level, free), or Surfshark CleanWeb (device-level, paid). [See CleanWeb options for iPhone.](/blog/adblock?sub=adguard-firefox-2026__faq)
 
 ### Can I install AdGuard as an extension in Firefox on Android?
 

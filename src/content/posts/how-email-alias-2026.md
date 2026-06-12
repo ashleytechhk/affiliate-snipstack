@@ -96,7 +96,7 @@ The exact steps vary by provider, but the pattern is consistent across all of th
 4. Tap **Continue** and then **Done**.
 5. Use the generated address in any form or app.
 
-**Using SimpleLogin (browser extension workflow):**
+**Using SimpleLogin ([browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) workflow):**
 
 1. Install the SimpleLogin extension for Chrome or Firefox.
 2. When you land on a signup form, click the extension icon.

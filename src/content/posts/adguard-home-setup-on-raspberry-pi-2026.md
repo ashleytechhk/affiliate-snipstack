@@ -27,7 +27,7 @@ AdGuard Home is open-source DNS-filtering software. Instead of [blocking ads](ht
 This approach is called **DNS-level ad blocking**, and it has two key advantages:
 
 - It works across every device on your network (phones, tablets, smart TVs, laptops) without installing anything extra on each device.
-- Advertisers cannot easily detect or bypass it the way they can detect browser extensions.
+- Advertisers cannot easily detect or bypass it the way they can detect [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 
 The catch: DNS-level blocking only works for DNS-based ads. Video ads that are served from the same domain as the content (common on YouTube) slip through.
 

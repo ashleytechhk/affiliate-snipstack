@@ -120,7 +120,7 @@ Alternative ID is the feature Norton and McAfee do not have at all. If you regul
 
 ### 6. Clean Web (Standalone Mode)
 
-Beyond the VPN-level domain blocking, Clean Web also runs as a browser extension and standalone toggle.
+Beyond the VPN-level domain blocking, Clean Web also runs as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and standalone toggle.
 
 - **Ad blocking** — removes banners, pre-roll video ads, and sidebar promotions
 - **Tracker blocking** — strips tracking pixels and cross-site scripts

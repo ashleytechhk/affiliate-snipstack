@@ -98,7 +98,7 @@ URLVoid checks a domain against more than 30 security databases simultaneously â
 
 **What it does well:** Speed and breadth. For a quick cross-reference against established blocklists, URLVoid covers more databases in one check than most people would access individually. If a domain is actively listed as a phishing host by multiple services, URLVoid will surface it.
 
-**Where it falls short:** URLVoid only reports what already exists in the databases it queries. A scam domain registered this week, not yet reported and added to blocklists, will return a clean result even if it is actively being used in phishing campaigns. There is no email authentication checking, no browser extension, and no alert system. Like the other manual tools, it requires you to remember to check and to take the time to do it.
+**Where it falls short:** URLVoid only reports what already exists in the databases it queries. A scam domain registered this week, not yet reported and added to blocklists, will return a clean result even if it is actively being used in phishing campaigns. There is no email authentication checking, no [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), and no alert system. Like the other manual tools, it requires you to remember to check and to take the time to do it.
 
 **Best for:** A quick secondary lookup when another tool has flagged a domain and you want confirmation from additional sources.
 

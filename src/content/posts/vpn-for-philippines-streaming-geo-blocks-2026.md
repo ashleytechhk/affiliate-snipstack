@@ -99,7 +99,7 @@ No technical background needed. Here is the full process from start to streaming
 Not every VPN bypasses Netflix and Disney+ geo restrictions. Many free and budget VPNs get detected and blocked within days. Surfshark maintains dedicated streaming infrastructure, with servers optimized specifically for the major platforms. When a streaming service updates its VPN detection, Surfshark updates its server IP pools to match.
 
 **Step 2 — Install the app on your devices.**
-Surfshark supports Windows, macOS, iOS, Android, smart TVs, and browser extensions. One subscription covers every device you own simultaneously — no device caps, no choosing between your phone and your laptop.
+Surfshark supports Windows, macOS, iOS, Android, smart TVs, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. One subscription covers every device you own simultaneously — no device caps, no choosing between your phone and your laptop.
 
 **Step 3 — Connect to your target country's server.**
 Want the full US Netflix library? Select a US server. Want to subscribe to a service at a lower regional rate? Connect to that region first, then open or create your streaming account. The platform reads your connection location as that country.

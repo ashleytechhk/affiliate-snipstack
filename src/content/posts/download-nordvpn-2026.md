@@ -172,7 +172,7 @@ Yes. NordVPN has undergone multiple independent audits of its no-logs policy (Cu
 
 ### Does NordVPN work on all platforms?
 
-NordVPN provides apps for Windows, macOS, iOS, Android, Linux (CLI), Android TV, and browser extensions for Chrome and Firefox. It also supports manual router installation via OpenVPN config files for DD-WRT, OpenWRT, Tomato, and Asus Merlin firmware. If your device can run a VPN client at all, NordVPN likely supports it.
+NordVPN provides apps for Windows, macOS, iOS, Android, Linux (CLI), Android TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox. It also supports manual router installation via OpenVPN config files for DD-WRT, OpenWRT, Tomato, and Asus Merlin firmware. If your device can run a VPN client at all, NordVPN likely supports it.
 
 ### What is the difference between NordVPN and Surfshark?
 

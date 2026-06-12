@@ -206,7 +206,7 @@ Expect to spend between $3 and $8 per device per month for a reputable product, 
 
 ### How do I know if my computer already has a virus?
 
-Common warning signs: the computer runs noticeably slower than usual, you see programs or browser extensions you did not install, pop-up windows appear even when you are not browsing, your files have disappeared or been renamed, or your email contacts report receiving messages from you that you did not send. If you notice any of these, run a full scan immediately. Many infections are designed to be invisible, so running a scan even if everything appears normal is good practice after installing new software.
+Common warning signs: the computer runs noticeably slower than usual, you see programs or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s you did not install, pop-up windows appear even when you are not browsing, your files have disappeared or been renamed, or your email contacts report receiving messages from you that you did not send. If you notice any of these, run a full scan immediately. Many infections are designed to be invisible, so running a scan even if everything appears normal is good practice after installing new software.
 
 ---
 

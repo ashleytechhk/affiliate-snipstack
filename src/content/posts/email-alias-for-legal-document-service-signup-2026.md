@@ -77,7 +77,7 @@ Alt ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitd
 
 SimpleLogin is an open-source alias service that you can self-host or use via their managed plan. The free tier allows up to 15 aliases, which is plenty for occasional legal signups. The paid plan at $4/month unlocks unlimited aliases and custom domain support.
 
-**Strengths.** Full transparency — the code is public. Custom domain support means your aliases can look professional if needed. The browser extension makes alias creation frictionless during signup flows.
+**Strengths.** Full transparency — the code is public. Custom domain support means your aliases can look professional if needed. The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) makes alias creation frictionless during signup flows.
 
 **Weaknesses.** The interface is more complex than Alt ID. Setting up a custom domain requires DNS knowledge. For users who want a one-click solution, the initial configuration can feel like a chore.
 

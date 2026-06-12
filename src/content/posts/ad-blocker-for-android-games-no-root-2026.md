@@ -34,7 +34,7 @@ There are three main approaches to doing this on Android without root:
 - **DNS-based blocking** — The app changes your device's DNS resolver to one that returns blank answers for ad-serving domains. Simpler, but less thorough.
 - **Browser-only blocking** — Extension-based blocking that only works inside a browser, not inside game apps.
 
-For in-game ads specifically, only the first two methods work. Browser extensions cannot touch traffic from Android game apps.
+For in-game ads specifically, only the first two methods work. [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s cannot touch traffic from Android game apps.
 
 ---
 

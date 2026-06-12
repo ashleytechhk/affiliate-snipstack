@@ -120,7 +120,7 @@ IT support workers run multiple devices — a work laptop, a personal laptop, a 
 The setup takes under ten minutes and applies to both use cases:
 
 1. **Subscribe to Surfshark.** The two-year plan brings the price down to under $3/month, making the subscription savings math extremely favorable.
-2. **Install on all your devices.** Apps are available for Windows, macOS, Linux, iOS, Android, and browser extensions. Install on every device you use for work and personal subscriptions.
+2. **Install on all your devices.** Apps are available for Windows, macOS, Linux, iOS, Android, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Install on every device you use for work and personal subscriptions.
 3. **Enable the kill switch.** Find it in Settings in the desktop app. Turn it on before any remote work sessions.
 4. **Connect to the right server.** For remote IT work, connect to a server in the same region as the client network or the restricted tool you need to access. For subscription savings, connect to a server in the target country before visiting the subscription platform.
 5. **Manage your subscriptions.** Use a payment method that works in the target market — many users find that a PayPal account set to the target country's currency or a regional prepaid card simplifies this step.

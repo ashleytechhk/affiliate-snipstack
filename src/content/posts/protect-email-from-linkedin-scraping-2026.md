@@ -143,7 +143,7 @@ A secondary account shifts the inbox problem rather than solving it. The real em
 
 **Step 1.** Get Surfshark — Alt-ID is included with all plans. No separate subscription or add-on needed.
 
-**Step 2.** Open the Surfshark app or browser extension. Navigate to **Alt-ID** in the sidebar.
+**Step 2.** Open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Navigate to **Alt-ID** in the sidebar.
 
 **Step 3.** Click **Generate new Alt-ID**. Surfshark creates a randomized [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) that forwards to your real inbox.
 

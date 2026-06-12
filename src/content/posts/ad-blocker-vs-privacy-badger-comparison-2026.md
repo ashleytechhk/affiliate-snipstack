@@ -68,7 +68,7 @@ Privacy Badger is available on:
 It is not available on:
 - **Chrome for Android** — Chrome on Android does not support extensions
 - **iOS Safari** — Apple's architecture does not give extensions the access Privacy Badger needs
-- **Any native app** — browser extensions see only browser traffic
+- **Any native app** — [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s see only browser traffic
 
 If you use Chrome on your Android phone — which is the default for most Android users — Privacy Badger simply does not work for you. If you are on iPhone, it effectively does not exist. And even if you are one of the Firefox-for-Android users who can install it, Privacy Badger sees only what loads inside the Firefox browser window. The Instagram app, YouTube app, mobile games, and every other native app run completely outside its reach.
 

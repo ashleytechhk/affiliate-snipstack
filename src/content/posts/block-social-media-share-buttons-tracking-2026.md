@@ -107,7 +107,7 @@ Once active, CleanWeb filters apply across Safari, Chrome, Firefox, and every ot
 
 ### Option 2: [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) (Desktop and Firefox for Android)
 
-[uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) is a browser extension available for Firefox on desktop and Android. It maintains extensive filter lists that include share button domains. The "Annoyances" filter lists within uBlock specifically target social sharing widgets.
+[uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) is a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) available for Firefox on desktop and Android. It maintains extensive filter lists that include share button domains. The "Annoyances" filter lists within uBlock specifically target social sharing widgets.
 
 **Limitation:** Works only inside the browser where the extension is installed. In-app browsers, other apps, and other browsers on your device are not covered.
 

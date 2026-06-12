@@ -55,7 +55,7 @@ An [ad blocker](https://snipstack.io/ad-blocker-for-older-browser-versions-2026/
 
 ### Browser-Level Blocking
 
-On Android, **Firefox supports full browser extensions** including [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/). On iPhone, **Safari Content Blockers** — third-party apps you download from the App Store — filter ad requests inside the browser before they load. These work well for web browsing and catch most banner ads, pre-roll video ads, and tracker scripts on mobile websites.
+On Android, **Firefox supports full [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s** including [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/). On iPhone, **Safari Content Blockers** — third-party apps you download from the App Store — filter ad requests inside the browser before they load. These work well for web browsing and catch most banner ads, pre-roll video ads, and tracker scripts on mobile websites.
 
 What they cannot do: reach inside native apps. When Spotify, Instagram, or YouTube runs as a native app, it fetches its content through its own network stack — not Safari, not Firefox. Browser-level blockers have no access.
 

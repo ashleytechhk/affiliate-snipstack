@@ -12,7 +12,7 @@ tags: ["antivirus", "privacy", "review"]
 
 In 2024, a 67-year-old retired teacher in Ohio opened what looked like a game update notification. Within 48 hours, her computer was locked by ransomware and criminals were demanding $1,200. She had good intentions — she just did not have [antivirus](https://snipstack.io/vs-antivirus-2026/) protection that worked quietly in the background without slowing down her games. By the time she noticed anything was wrong, the damage was done.
 
-She is not alone. The FBI's Internet Crime Complaint Center reported that adults over 60 lost more than **$3.4 billion** to cybercrime in 2024 — and attackers increasingly use gaming-themed lures to reach this group. Fake game updates, scam prize popups, and malicious browser extensions disguised as cheats are among the most common entry points.
+She is not alone. The FBI's Internet Crime Complaint Center reported that adults over 60 lost more than **$3.4 billion** to cybercrime in 2024 — and attackers increasingly use gaming-themed lures to reach this group. Fake game updates, scam prize popups, and malicious [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s disguised as cheats are among the most common entry points.
 
 Here is the problem many seniors face: every antivirus they try makes their computer feel slow and unresponsive. Games stutter. Menus take longer to load. So they turn the protection off. And that is exactly what criminals are counting on.
 

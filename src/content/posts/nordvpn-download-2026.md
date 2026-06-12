@@ -35,7 +35,7 @@ NordVPN is a well-built product, but it is priced for people who do not comparis
 | Money-back guarantee | 30 days | 30 days |
 | iOS / Android app | Yes | Yes |
 | Windows / macOS app | Yes | Yes |
-| Browser extensions | Yes | Yes |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s | Yes | Yes |
 
 Both are credible, audited, well-reviewed VPNs. The price gap is real. On a 24-month plan, Surfshark saves most households $25–$40 over the subscription period — that more than covers one month of whatever streaming service you are region-switching to access.
 

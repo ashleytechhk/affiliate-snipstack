@@ -85,7 +85,7 @@ The distinction matters and it is worth being direct about it. CleanWeb blocks t
 
 The Disney+ tracker problem is representative, not unique. Every major ad-supported streaming app — Peacock, Tubi, Pluto TV, the free tier of Paramount+ — runs a similar stack of ad-tech SDKs. So do your news apps, your weather app, free mobile games, and most social platforms.
 
-A browser extension blocks nothing outside its specific browser. An iOS content blocker covers Safari only. Neither touches the Disney+ app, the Peacock app, Instagram, or anything else operating as a standalone app.
+A [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) blocks nothing outside its specific browser. An iOS content blocker covers Safari only. Neither touches the Disney+ app, the Peacock app, Instagram, or anything else operating as a standalone app.
 
 The only approach that covers all of this simultaneously is a network-level blocker — one that sits at the system level and inspects DNS lookups from every app before they go out. On iOS and Android, the approved mechanism for this is a local VPN profile. The Surfshark app implements this with CleanWeb active.
 

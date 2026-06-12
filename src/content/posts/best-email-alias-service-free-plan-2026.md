@@ -67,7 +67,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-20
 
 ### SimpleLogin
 
-SimpleLogin is an open-source alias service with a genuinely useful free tier: 10 aliases with full reply support, no expiry. The web interface is clean, browser extensions are solid, and the service has a good reputation in the privacy community.
+SimpleLogin is an open-source alias service with a genuinely useful free tier: 10 aliases with full reply support, no expiry. The web interface is clean, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s are solid, and the service has a good reputation in the privacy community.
 
 **Free plan specifics:** 10 active aliases, reply-from-alias supported, one mailbox. For light users — say, protecting your inbox from a handful of sites — 10 aliases is workable. Heavy users who want aliases per service will hit the limit fast.
 

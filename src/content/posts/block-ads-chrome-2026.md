@@ -77,7 +77,7 @@ uBlock Origin Lite is the MV3-compliant version of the original, maintained by R
 
 **Install from:** Chrome Web Store, search "uBlock Origin Lite."
 
-### AdGuard Browser Extension — Best MV3-Native Option
+### AdGuard [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) — Best MV3-Native Option
 
 AdGuard's team rebuilt their extension from scratch to work within MV3's constraints and push those constraints as far as possible. Their custom `declarativeNetRequest` implementation, combined with content-script cosmetic filtering (hiding empty ad slots on pages), gets them to roughly 85-90% of what old uBlock Origin blocked — the highest among Chrome extensions in 2026.
 

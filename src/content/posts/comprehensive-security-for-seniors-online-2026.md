@@ -112,7 +112,7 @@ Norton 360 Deluxe is a genuinely capable [security suite](https://snipstack.io/s
 Where it falls down for this comparison:
 
 - **VPN is throttled** on lower tiers. Norton's VPN includes data caps unless you are on a higher-priced plan. [Surfshark ONE](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) includes a full, unlimited VPN in the base subscription.
-- **No ad or phishing DNS blocking** included — browser-level protection relies on Norton's browser extension, which is not installed by default on all devices.
+- **No ad or phishing DNS blocking** included — browser-level protection relies on Norton's [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), which is not installed by default on all devices.
 - **Year-two pricing jumps significantly** — the gap between intro and renewal rate is wide and not prominently disclosed during purchase.
 - **Resource load is high** — Norton's suite has a reputation for slowing down aging hardware, which is directly relevant for seniors on older machines.
 

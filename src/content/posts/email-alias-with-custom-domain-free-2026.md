@@ -85,7 +85,7 @@ SimpleLogin offers 10 aliases on its free tier with no custom domain. The premiu
 **Free-tier reality:** 10 aliases is enough for a basic setup — one per category of online life — but you'll hit the ceiling quickly if you go per-service. Custom domain support is premium-only.
 
 **Key features:**
-- Free: 10 aliases, reply-from-alias, browser extensions, iOS/Android apps
+- Free: 10 aliases, reply-from-alias, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, iOS/Android apps
 - Paid ($36/yr): unlimited aliases, unlimited custom domains, multiple mailboxes
 - Open source
 

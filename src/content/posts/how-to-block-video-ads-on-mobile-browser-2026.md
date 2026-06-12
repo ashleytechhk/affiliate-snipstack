@@ -71,7 +71,7 @@ On Android, Brave is particularly strong. It uses aggressive filter lists and a 
 
 ### Firefox with [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) (Android only)
 
-Firefox on Android is one of the few mobile browsers that supports actual browser extensions. This means you can install [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) — the gold standard desktop [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) — directly in your mobile browser.
+Firefox on Android is one of the few mobile browsers that supports actual [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. This means you can install [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) — the gold standard desktop [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) — directly in your mobile browser.
 
 uBlock Origin's network-level filtering is comprehensive. It blocks video ad scripts at the request stage, before the video file is ever fetched. On Android, Firefox with uBlock Origin provides desktop-class ad blocking on a phone screen.
 

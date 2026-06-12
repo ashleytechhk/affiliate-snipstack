@@ -42,7 +42,7 @@ What Surfshark specifically brings to this:
 
 ## How Surfshark Works: The Basics
 
-Surfshark runs as an app on your device — available for Windows, Mac, iOS, Android, Android TV, and as a browser extension. You open the app, choose a server location, and connect. Your internet traffic now routes through that server.
+Surfshark runs as an app on your device — available for Windows, Mac, iOS, Android, Android TV, and as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). You open the app, choose a server location, and connect. Your internet traffic now routes through that server.
 
 The key protocols Surfshark uses:
 

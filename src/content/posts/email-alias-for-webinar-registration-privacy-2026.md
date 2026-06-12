@@ -48,7 +48,7 @@ Using a dedicated [email alias](https://snipstack.io/email-alias-example-2026/) 
 | Kill alias on demand | Yes | Yes | Yes | Yes | No (pause only) | No |
 | Passes platform email validation | Yes | Yes | Yes | Yes | Yes | Often stripped |
 | Works with any email provider | Yes | iCloud only | Yes | Yes | Any | Gmail only |
-| Browser extension | Yes | Safari only | Yes (Firefox) | Yes | Yes | N/A |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Safari only | Yes (Firefox) | Yes | Yes | N/A |
 | Unlimited aliases | Yes | Yes (iCloud+) | Paid only | Paid only | Yes | Yes |
 | Fake identity generator | Yes | No | No | No | No | No |
 | Alias guessable back to real email | No | No | No | No | No | Yes |

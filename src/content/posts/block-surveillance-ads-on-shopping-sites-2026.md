@@ -104,7 +104,7 @@ Even if you avoid in-app browsers, a default mobile browser sends more data than
 **Best options for mobile shopping sessions:**
 
 - **Brave (iOS and Android):** Built-in Shields blocks tracker requests by default, no setup required. Tap the lion icon → set to Aggressive for the strongest protection. Works across all shopping sites without breaking checkout flows.
-- **Firefox for Android:** Supports [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) as a browser extension — the most granular tracker blocking available on any mobile browser. Set [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) to Medium mode for shopping sites.
+- **Firefox for Android:** Supports [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) — the most granular tracker blocking available on any mobile browser. Set [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) to Medium mode for shopping sites.
 - **Safari with Content Blocker (iPhone only):** Download AdGuard or 1Blocker from the App Store, then enable it in Settings → Safari → Extensions. Covers in-browser trackers. Does not cover in-app trackers — that is what Step 4 addresses.
 
 ---

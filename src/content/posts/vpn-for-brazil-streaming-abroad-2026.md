@@ -82,7 +82,7 @@ No technical experience needed. The entire process takes under ten minutes.
 Choose an annual or two-year plan for the best per-month rate. Surfshark regularly offers significant discounts off the monthly price on longer plans.
 
 **Step 2 — Download and install the app.**
-Surfshark has native apps for Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, and Apple TV. Browser extensions are available for Chrome and Firefox.
+Surfshark has native apps for Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, and Apple TV. [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s are available for Chrome and Firefox.
 
 **Step 3 — Open the app and search for Brazil.**
 In the server list, type "Brazil" or "BR." Surfshark operates multiple servers across Brazilian cities. Select any one — the app will choose the fastest available.

@@ -229,7 +229,7 @@ We include this for informational completeness, not as a primary recommendation.
 
 Setup takes under five minutes:
 
-1. **Sign up** at the Surfshark link below and download the app for your device (Windows, Mac, iOS, Android, Android TV, Fire TV, browser extension)
+1. **Sign up** at the Surfshark link below and download the app for your device (Windows, Mac, iOS, Android, Android TV, Fire TV, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/))
 2. **Open the app** and go to Locations
 3. **Select a streaming-optimized server** — Surfshark labels servers for streaming. For BBC iPlayer, pick United Kingdom. For Netflix US, pick United States.
 4. **Connect**, then open your streaming service in your browser or app

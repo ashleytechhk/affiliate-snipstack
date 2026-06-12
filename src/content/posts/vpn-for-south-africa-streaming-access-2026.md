@@ -80,7 +80,7 @@ No technical skills needed. Here's the full process:
 Most free or budget VPNs get detected and blocked by streaming platforms within days. Surfshark maintains streaming-specific server infrastructure that stays ahead of these detection systems, with documented access to Netflix (multiple regional libraries), Disney+, Amazon Prime, and more.
 
 **Step 2 — Install the app on your device.**
-Surfshark has apps for Windows, macOS, Android, iOS, Android TV, Amazon Fire TV, and browser extensions. One subscription covers every device in your household at the same time — no limit on simultaneous connections.
+Surfshark has apps for Windows, macOS, Android, iOS, Android TV, Amazon Fire TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. One subscription covers every device in your household at the same time — no limit on simultaneous connections.
 
 **Step 3 — Connect to your target region's server.**
 Want the US Netflix library? Pick any US server. Want to subscribe at a lower regional price? Connect to that region before creating or renewing your streaming account.

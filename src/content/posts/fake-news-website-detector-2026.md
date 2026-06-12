@@ -28,7 +28,7 @@ For most people who receive suspicious emails with unfamiliar links, **[Surfshar
 |---|---|---|---|---|
 | Google Fact Check Tools | Individual news claims and stories | No — manual lookup | Yes | No |
 | Snopes / FactCheck.org | Specific viral claims and rumours | No — manual lookup | Yes | No |
-| NewsGuard | News publisher credibility ratings | Partial — browser extension | Paid tier required | Browser extension |
+| NewsGuard | News publisher credibility ratings | Partial — [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Paid tier required | Browser extension |
 | Media Bias/Fact Check | News source bias and factual accuracy history | No — manual lookup | Yes | No |
 | Surfshark Scamcheck | Website safety, phishing, scam domains | Yes — always-on or on-demand | Included with Surfshark | Account required |
 

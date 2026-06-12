@@ -12,7 +12,7 @@ The result: an inbox drowning in 50, 60, sometimes 80 unsolicited emails per day
 
 The fix is not a better spam filter. It is changing how you sign up in the first place. This guide walks you through exactly [how to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) an **[email alias](https://snipstack.io/how-email-alias-2026/)** every time you register for a new site — so your real address stays out of the databases that feed the spam problem.
 
-> **Quick Verdict:** Using a dedicated alias at every signup is the single most effective inbox hygiene habit you can build in 2026. [Surfshark Alt-ID](/blog/altid?sub=email-alias-sign-2026__above-fold) makes it fast — unlimited randomly generated aliases, one-click forwarding to your real inbox, and a browser extension that fills alias addresses into signup forms automatically. If you want the short answer: get Alt-ID and stop giving out your real address.
+> **Quick Verdict:** Using a dedicated alias at every signup is the single most effective inbox hygiene habit you can build in 2026. [Surfshark Alt-ID](/blog/altid?sub=email-alias-sign-2026__above-fold) makes it fast — unlimited randomly generated aliases, one-click forwarding to your real inbox, and a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) that fills alias addresses into signup forms automatically. If you want the short answer: get Alt-ID and stop giving out your real address.
 
 ![Email alias sign-up flow — a browser signup form pointing to an alias address, which routes to a clean personal inbox](/og/email-alias-sign-2026.png)
 

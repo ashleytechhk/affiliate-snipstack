@@ -140,7 +140,7 @@ If you want granular control, go with Option 5 (AdGuard app). If you have the sk
 
 ### Does AdGuard DNS [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side apps, not just browsers?
 
-Yes — this is the key advantage over browser extensions. Because Private DNS applies at the operating system level, it filters DNS queries from every app on your device: social media apps, news aggregators, games, utility apps, and browsers alike. Apps that serve ads by calling out to known ad-network domains will see those calls blocked. Apps that serve ads from their own first-party domain (less common but it happens) are harder to block with DNS alone — that is where CleanWeb's VPN-layer filtering adds meaningful coverage.
+Yes — this is the key advantage over [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Because Private DNS applies at the operating system level, it filters DNS queries from every app on your device: social media apps, news aggregators, games, utility apps, and browsers alike. Apps that serve ads by calling out to known ad-network domains will see those calls blocked. Apps that serve ads from their own first-party domain (less common but it happens) are harder to block with DNS alone — that is where CleanWeb's VPN-layer filtering adds meaningful coverage.
 
 ### Will dns.adguard.com slow down my Android?
 

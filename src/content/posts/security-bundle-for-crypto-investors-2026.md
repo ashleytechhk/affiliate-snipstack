@@ -55,7 +55,7 @@ The question in 2026 isn't "do I need security software?" It's "is there a bundl
 
 Clipboard hijacking is a category of malware that sits in memory and monitors your clipboard. When you copy a wallet address to paste into a transaction field, the hijacker silently replaces it with an attacker-controlled address. By the time you notice the funds went somewhere wrong, they're gone.
 
-Norton and McAfee both rely heavily on signature-based detection — they catch malware they've seen before and catalogued. Clipboard hijackers are often custom, delivered via malicious browser extensions or bundled software, and they frequently evade signature databases long enough to do their damage. Surfshark's antivirus engine uses a mix of signature and heuristic detection with cloud-based analysis, giving it a better real-time read on novel process behavior.
+Norton and McAfee both rely heavily on signature-based detection — they catch malware they've seen before and catalogued. Clipboard hijackers are often custom, delivered via malicious [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s or bundled software, and they frequently evade signature databases long enough to do their damage. Surfshark's antivirus engine uses a mix of signature and heuristic detection with cloud-based analysis, giving it a better real-time read on novel process behavior.
 
 ### Browser Extension Info-Stealers Target MetaMask Directly
 

@@ -117,7 +117,7 @@ Alt-ID also generates alternative identity details (name, date of birth) so you'
 
 **Step 1.** Get Surfshark. [Start here](/blog/surfshark?sub=temporary-email-stop-spam-2026__mid) — Alt-ID is included with all plans.
 
-**Step 2.** Download and install the Surfshark browser extension (Chrome, Firefox, or Edge). Sign in with your Surfshark account.
+**Step 2.** Download and install the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) (Chrome, Firefox, or Edge). Sign in with your Surfshark account.
 
 **Step 3.** Open the extension and navigate to the **Alternative ID** section.
 

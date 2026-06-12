@@ -36,7 +36,7 @@ The app is available on:
 - iOS
 - Android
 - Linux (via manual configuration)
-- Browser extensions (Chrome, Firefox)
+- [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s (Chrome, Firefox)
 
 The flagship technical feature is **Hydra**, a proprietary VPN protocol developed in-house. Hydra is optimized for speed and stability on high-latency connections. It's not open-source, which means independent security researchers can't audit its internals — a limitation worth noting for privacy-first users.
 

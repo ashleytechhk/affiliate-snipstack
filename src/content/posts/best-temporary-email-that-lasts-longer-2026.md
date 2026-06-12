@@ -110,7 +110,7 @@ When the alias starts attracting spam — because the site sold your data or suf
 
 ### Setup in Under Three Minutes
 
-Alt-ID lives inside the Surfshark app and browser extension. Creating an alias takes about 30 seconds:
+Alt-ID lives inside the Surfshark app and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Creating an alias takes about 30 seconds:
 
 1. Open the Surfshark app or browser extension
 2. Navigate to the **Alternative ID** section

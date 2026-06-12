@@ -118,7 +118,7 @@ This process takes milliseconds and is invisible to you. The article page loads 
 
 ### What CleanWeb Cannot Do
 
-CleanWeb works at the DNS layer, not the cosmetic layer. When a video ad unit is blocked, the news site's HTML still contains a placeholder container where the ad would have appeared. That container may show as blank whitespace. CleanWeb does not remove the empty HTML element — a browser extension with cosmetic filtering handles that, and the two can run alongside each other without conflict.
+CleanWeb works at the DNS layer, not the cosmetic layer. When a video ad unit is blocked, the news site's HTML still contains a placeholder container where the ad would have appeared. That container may show as blank whitespace. CleanWeb does not remove the empty HTML element — a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) with cosmetic filtering handles that, and the two can run alongside each other without conflict.
 
 CleanWeb also cannot block ads that are served from the same domain as the news site itself. First-party ad serving — where the news site hosts the ad file directly — is not common, but some publishers do it to defeat blocklists. Those ads get through.
 

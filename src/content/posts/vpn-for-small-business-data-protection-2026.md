@@ -182,7 +182,7 @@ The encryption overhead from a VPN typically results in a 5–15% reduction in c
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on all the devices my team uses?
 
-Surfshark has native apps for Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. It also supports manual setup on routers, which would cover every device on a given network without individual app installation. For a team using a mix of platforms, this breadth of coverage handles most small business device environments without gaps.
+Surfshark has native apps for Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox. It also supports manual setup on routers, which would cover every device on a given network without individual app installation. For a team using a mix of platforms, this breadth of coverage handles most small business device environments without gaps.
 
 ---
 

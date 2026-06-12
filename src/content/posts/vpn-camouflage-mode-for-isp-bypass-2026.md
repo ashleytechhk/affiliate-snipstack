@@ -138,7 +138,7 @@ Your ISP can see that encrypted traffic is leaving your device — that is unavo
 
 ### Does Camouflage Mode work on all devices?
 
-Surfshark's Camouflage Mode works on Windows, macOS, iOS, and Android — the platforms that support OpenVPN in the Surfshark app. It is not available on browser extensions or on platforms where OpenVPN is not implemented (some smart TV apps use IKEv2 only). For streaming arbitrage on a TV, the practical solution is to run Surfshark on your router instead, which covers all devices on your home network.
+Surfshark's Camouflage Mode works on Windows, macOS, iOS, and Android — the platforms that support OpenVPN in the Surfshark app. It is not available on [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s or on platforms where OpenVPN is not implemented (some smart TV apps use IKEv2 only). For streaming arbitrage on a TV, the practical solution is to run Surfshark on your router instead, which covers all devices on your home network.
 
 ### Is it legal to use VPN obfuscation features?
 

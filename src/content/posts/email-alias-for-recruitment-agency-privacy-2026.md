@@ -82,7 +82,7 @@ For applying to known large employers through their official portals, this risk 
 
 ## DuckDuckGo Email Protection: Best Free Standalone Option
 
-DuckDuckGo Email Protection gives every user a personal `@duck.com` address that strips email trackers and forwards clean email to your real inbox. Additional per-site aliases can be generated through the DuckDuckGo browser extension.
+DuckDuckGo Email Protection gives every user a personal `@duck.com` address that strips email trackers and forwards clean email to your real inbox. Additional per-site aliases can be generated through the DuckDuckGo [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 
 For recruitment privacy, the appeal is simplicity and zero cost. There is no subscription required and no app to install beyond the browser extension. The trade-off is the same domain-recognition issue: `@duck.com` is increasingly known as a privacy relay among tech-savvy recruiters and ATS systems.
 

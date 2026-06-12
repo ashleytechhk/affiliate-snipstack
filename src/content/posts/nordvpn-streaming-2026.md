@@ -146,7 +146,7 @@ Some subscribers use VPNs to access lower-cost regional pricing on streaming pla
 
 ### How many devices can I connect with Surfshark?
 
-Surfshark allows unlimited simultaneous device connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). This covers phones, laptops, smart TVs, tablets, and browser extensions without needing to count or manage a cap.
+Surfshark allows unlimited simultaneous device connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). This covers phones, laptops, smart TVs, tablets, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s without needing to count or manage a cap.
 
 ### What is the cheapest way to get Surfshark?
 

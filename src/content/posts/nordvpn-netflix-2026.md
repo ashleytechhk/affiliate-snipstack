@@ -107,7 +107,7 @@ Reliability (uptime and consistent unblocking) is comparable. Both maintain dedi
 
 ## Device Support and Ease of Use
 
-Both VPNs cover Windows, macOS, iOS, Android, Fire TV, Apple TV, and browser extensions. Both support router-level installation for devices that cannot run VPN apps natively (smart TVs, game consoles).
+Both VPNs cover Windows, macOS, iOS, Android, Fire TV, Apple TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Both support router-level installation for devices that cannot run VPN apps natively (smart TVs, game consoles).
 
 Surfshark's unlimited connections policy is a genuine differentiator. If you want to protect every device in a household — phones, tablets, laptops, a smart TV — a single Surfshark account handles it without juggling connection slots.
 

@@ -95,7 +95,7 @@ If you want a true no-card free trial, ProtonVPN and Windscribe are your options
 
 1. Visit the offer link below and select a plan — the two-year plan gives the lowest monthly rate.
 2. Complete checkout. You get immediate access to all servers and features.
-3. Install the app on your devices (Windows, Mac, iOS, Android, browser extension, Fire TV, etc.).
+3. Install the app on your devices (Windows, Mac, iOS, Android, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), Fire TV, etc.).
 4. Test it across the streaming services you care about.
 5. If it does not meet your needs within 30 days, contact support via live chat and request a refund. No long forms, no interrogation.
 

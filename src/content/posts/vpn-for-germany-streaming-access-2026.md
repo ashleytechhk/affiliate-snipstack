@@ -80,7 +80,7 @@ No technical background required. Here's the process from zero to streaming:
 Not all VPNs bypass streaming geo-restrictions. Many are blocked. Surfshark maintains a dedicated infrastructure specifically for streaming, with servers optimized for Netflix, Disney+, Amazon Prime, and more.
 
 **Step 2 — Install the app on your device.**
-Surfshark supports Windows, macOS, iOS, Android, smart TVs, and browser extensions. One subscription covers every device you own, simultaneously.
+Surfshark supports Windows, macOS, iOS, Android, smart TVs, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. One subscription covers every device you own, simultaneously.
 
 **Step 3 — Connect to your target country's server.**
 Want to access the UK library? Pick a UK server. Want to subscribe at a lower regional price? Connect to that region first, then create or log into your streaming account.

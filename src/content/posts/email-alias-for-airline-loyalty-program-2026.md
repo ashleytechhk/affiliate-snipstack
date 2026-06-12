@@ -110,7 +110,7 @@ Unsubscribing from one sender does not unsubscribe you from others. And staying 
 
 **How it works for airline programs:**
 
-1. Before registering for a loyalty program (or updating an existing one), open the Surfshark browser extension and generate a new alias — something like `p8r3kx5n@surfshark.id`.
+1. Before registering for a loyalty program (or updating an existing one), open the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and generate a new alias — something like `p8r3kx5n@surfshark.id`.
 2. Enter this alias as your email address when signing up.
 3. All program emails — boarding pass confirmations, miles statements, status notifications, partner offers — forward automatically to your real inbox. Your account works exactly as normal.
 4. When the partner blasts become intolerable, open the Alt-ID dashboard and delete the alias. Every sender who had that address — the airline, its bank partner, its hotel affiliate, its car hire partner — loses their channel to your inbox simultaneously.

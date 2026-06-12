@@ -40,7 +40,7 @@ Before getting into the comparison table, it is worth naming the specific frustr
 **With McAfee Total Protection:**
 
 - Renewal prices follow a similar pattern — low to start, significantly higher at renewal.
-- McAfee has faced criticism for intrusive behavior: browser extensions installed without clear consent, persistent pop-ups, and a cluttered interface that feels more like an ad platform than a security product.
+- McAfee has faced criticism for intrusive behavior: [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s installed without clear consent, persistent pop-ups, and a cluttered interface that feels more like an ad platform than a security product.
 - The antivirus engine itself performs well in independent tests, but the surrounding experience is frustrating enough that users regularly look for cleaner alternatives.
 
 Reddit's r/antivirus community has a recurring thread type: "Just paid renewal for [Norton/McAfee], considering leaving — what are you all using now?" [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) comes up consistently as the recommended switch.

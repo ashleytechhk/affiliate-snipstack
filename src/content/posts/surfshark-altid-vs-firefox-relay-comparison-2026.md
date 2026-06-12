@@ -39,7 +39,7 @@ The question is which tool does this better.
 | Email forwarding | Yes | Yes |
 | Reply from alias | Yes | Paid plan only |
 | [Phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking | Via Surfshark Alt Number | No |
-| Browser extension | Yes | Yes (Firefox only) |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Yes (Firefox only) |
 | Works on all browsers | Yes | Firefox-centric |
 | Standalone product | Yes | Mozilla account required |
 | Pricing | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) subscription | Free / $1.99/mo paid |

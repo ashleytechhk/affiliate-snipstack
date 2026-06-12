@@ -83,7 +83,7 @@ No account required. Google will review the submission and, if confirmed, add it
 
 ## Channel 3 — Anti-Phishing Working Group (APWG)
 
-The APWG is a non-profit coalition of security companies, banks, and law enforcement agencies. When you forward a phishing email to `reportphishing@apwg.org`, it enters a shared database that over ten major security vendors — including those that power [antivirus](https://snipstack.io/vs-antivirus-2026/) products, browser extensions, and corporate email filters — use to update their threat feeds.
+The APWG is a non-profit coalition of security companies, banks, and law enforcement agencies. When you forward a phishing email to `reportphishing@apwg.org`, it enters a shared database that over ten major security vendors — including those that power [antivirus](https://snipstack.io/vs-antivirus-2026/) products, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, and corporate email filters — use to update their threat feeds.
 
 This is the most efficient way to have one report ripple across many different security products simultaneously.
 

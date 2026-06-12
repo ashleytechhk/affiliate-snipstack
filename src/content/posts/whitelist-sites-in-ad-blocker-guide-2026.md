@@ -43,7 +43,7 @@ On desktop, most [ad blocker](https://snipstack.io/ad-blocker-for-older-browser-
 
 On mobile, the picture is more complicated for two reasons.
 
-**First, mobile browsers have limited extension support.** Safari on iOS does not allow traditional browser extensions the same way Chrome does on desktop. Firefox for Android supports extensions, but the average mobile user is not running Firefox. That means most mobile ad blocking happens at the **network level** — either through a VPN-based filter (like CleanWeb) or through the DNS layer.
+**First, mobile browsers have limited extension support.** Safari on iOS does not allow traditional [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s the same way Chrome does on desktop. Firefox for Android supports extensions, but the average mobile user is not running Firefox. That means most mobile ad blocking happens at the **network level** — either through a VPN-based filter (like CleanWeb) or through the DNS layer.
 
 **Second, apps and browsers share the same network.** A VPN-based [ad blocker](https://snipstack.io/ad-blocker-for-android-games-no-root-2026/) blocks ads inside apps too — Instagram, news apps, games. If you whitelist at the network level, you are whitelisting for every app on your phone, not just one browser tab.
 

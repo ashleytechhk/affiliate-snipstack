@@ -135,7 +135,7 @@ AnonAddy's lowest tier covers custom domains for roughly the cost of a coffee pe
 
 The process is broadly similar across services. You add the alias provider's DNS records (MX records for receiving mail, and sometimes SPF/DKIM records for sending) to your domain registrar. Most providers give you a step-by-step checklist. DNS propagation typically takes 5–30 minutes.
 
-Once your domain is verified, you create aliases through the provider's dashboard or browser extension. Alt-ID and SimpleLogin both offer browser extensions that auto-generate an alias whenever you encounter an email field on a webpage — this is the workflow that most heavy users end up relying on.
+Once your domain is verified, you create aliases through the provider's dashboard or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Alt-ID and SimpleLogin both offer browser extensions that auto-generate an alias whenever you encounter an email field on a webpage — this is the workflow that most heavy users end up relying on.
 
 Receiving email from an alias feels identical to receiving it from your real address. Replying through an alias depends on the service — Alt-ID supports reply-from-alias so recipients see your alias address, not your real one.
 

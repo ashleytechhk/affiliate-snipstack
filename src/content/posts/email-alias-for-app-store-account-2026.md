@@ -97,7 +97,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-20
 
 **Where it falls short:**
 
-- Not as frictionless as Hide My Email on Apple devices — there's no OS-level autofill integration. You generate the alias in the Surfshark app or browser extension, then paste it into the form.
+- Not as frictionless as Hide My Email on Apple devices — there's no OS-level autofill integration. You generate the alias in the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), then paste it into the form.
 - Requires a Surfshark subscription. If you only want [email alias](https://snipstack.io/email-alias-for-substack-subscription-2026/)es and nothing else from the privacy toolkit, this may be more than you need.
 
 **Verdict on Alt-ID:** The more versatile option. Better for multi-device users, better for bulk alias management, and bundled with tools that address the broader digital footprint problem — not just the email angle.

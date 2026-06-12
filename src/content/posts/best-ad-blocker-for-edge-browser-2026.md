@@ -57,7 +57,7 @@ How to install on desktop Edge:
 
 For most users, the default setup removes the majority of display ads, video pre-rolls, and tracking beacons without touching a settings menu.
 
-### AdGuard Browser Extension
+### AdGuard [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)
 
 AdGuard's browser extension is a strong alternative if you want a more visual interface and per-site controls. It blocks ads and trackers using its own maintained filter lists. The free version is effective; the paid AdGuard app goes further by working at the OS level rather than just inside the browser.
 

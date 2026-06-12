@@ -160,7 +160,7 @@ Surfshark offers dedicated South Korean servers with consistent performance and 
 
 Setup takes under five minutes:
 
-1. **Sign up for Surfshark** using the link below and download the app for your device (Windows, Mac, iOS, Android, Android TV, Fire TV, or browser extension)
+1. **Sign up for Surfshark** using the link below and download the app for your device (Windows, Mac, iOS, Android, Android TV, Fire TV, or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/))
 2. **Open the app** and go to Locations
 3. **Search for or select South Korea** from the server list
 4. **Connect** to the Korean server

@@ -55,7 +55,7 @@ Real [email alias](https://snipstack.io/email-alias-for-legal-document-service-s
 | **Real domain hidden** | Yes | Yes | Yes | Yes |
 | **Two-way reply via alias** | Yes | Yes | No | No |
 | **Custom domain** | No | Yes (paid) | No | No |
-| **Cross-platform** | iOS, Android, desktop | iOS, Android, desktop, browser | Apple devices only | Browser extension |
+| **Cross-platform** | iOS, Android, desktop | iOS, Android, desktop, browser | Apple devices only | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) |
 | **Bundled privacy tools** | VPN + data removal + [antivirus](https://snipstack.io/vs-antivirus-2026/) | No | iCloud+ bundle | Limited |
 | **Free tier** | No (Surfshark plan required) | Yes (10 aliases) | Yes (iCloud+ subscribers) | Yes |
 | **Open source** | No | Yes | No | Partial |

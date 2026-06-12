@@ -149,7 +149,7 @@ NordVPN is a solid alternative if you already have a Nord subscription or prefer
 
 Getting a VPN running with League Pass takes under five minutes:
 
-1. **Sign up for a VPN** — Surfshark is the cost-efficient recommendation. Download the app for your device (available on Windows, macOS, iOS, Android, Fire TV, and browser extensions).
+1. **Sign up for a VPN** — Surfshark is the cost-efficient recommendation. Download the app for your device (available on Windows, macOS, iOS, Android, Fire TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s).
 2. **Open the VPN app** and select the country whose pricing or access rules you want to test. For blackout bypass, choose a server outside the US — UK, Canada, or Australia work well. For price checking, select the target market you want to compare.
 3. **Connect before opening the NBA app or website** — let the VPN establish the connection fully before you launch League Pass.
 4. **Check the pricing or access** — if you are exploring arbitrage, go to the NBA League Pass signup page and note the displayed price. If you are bypassing a blackout, open the game directly.

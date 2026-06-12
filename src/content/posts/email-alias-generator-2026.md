@@ -89,7 +89,7 @@ For people receiving 50+ spam emails a day, a 10-alias cap and a blocklist probl
 
 Go to [Surfshark's Alt-ID page](/blog/altid?sub=email-alias-generator-2026__mid) and subscribe to a [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) or One+ plan. During account creation, use your real email address — this is the inbox your alias mail will forward to.
 
-### Step 2 — Install the Surfshark Browser Extension
+### Step 2 — Install the Surfshark [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)
 
 After subscribing, download the Surfshark extension for Chrome, Firefox, or Edge from your browser's extension store. Sign in using your new Surfshark credentials.
 

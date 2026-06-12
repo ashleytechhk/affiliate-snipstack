@@ -202,7 +202,7 @@ Try Bitdefender Free — it is the lightest option and least likely to slow olde
 No. Running two at the same time causes conflicts and slows your phone. Pick one and stick with it.
 
 **Play Protect says my phone is clean but I still see strange pop-ups. Why?**
-Pop-up ads often come from a browser extension or a misbehaving app — not a traditional virus. Try Malwarebytes for a deeper scan that catches adware.
+Pop-up ads often come from a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) or a misbehaving app — not a traditional virus. Try Malwarebytes for a deeper scan that catches adware.
 
 **Someone texted me a link to download [antivirus for](https://snipstack.io/antivirus-for-linux-ubuntu-users-2026/) free. Should I click it?**
 No. This is almost certainly a scam. Only download apps from the Play Store.

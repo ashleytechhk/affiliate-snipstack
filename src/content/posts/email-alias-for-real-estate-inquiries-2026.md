@@ -75,7 +75,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-20
 
 SimpleLogin is an open-source alias service with a free tier and a paid plan that unlocks unlimited aliases and reply masking. It is more technical than Alt-ID — the interface is functional rather than polished, and setup assumes you know what you are doing.
 
-**What works:** Strong privacy credentials (open source, self-hostable), browser extension for one-click alias generation at checkout or form-fill, and solid reply masking on the paid tier.
+**What works:** Strong privacy credentials (open source, self-hostable), [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for one-click alias generation at checkout or form-fill, and solid reply masking on the paid tier.
 
 **What does not:** The free tier caps you at 15 aliases, which is genuinely limiting if you are running a serious property search across multiple markets. The interface is dated. Support is community-driven. No bundled VPN or data-removal features.
 

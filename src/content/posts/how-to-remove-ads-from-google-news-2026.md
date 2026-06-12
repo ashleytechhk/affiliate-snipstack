@@ -95,7 +95,7 @@ Surfshark's CleanWeb feature is a DNS and network filter built into the Surfshar
 
 First-party served ads — placements where the publisher serves ads from their own domain rather than a third-party ad network — are outside DNS-level blocking's reach. Google's own search ads on google.com are also unaffected; CleanWeb avoids blocking Google's core search infrastructure to prevent breaking search functionality.
 
-Cosmetic filtering (removing empty HTML containers left after an ad is blocked) also requires a browser extension. You may see blank spaces where Taboola widgets used to be on publisher sites. The content is gone, but the placeholder remains.
+Cosmetic filtering (removing empty HTML containers left after an ad is blocked) also requires a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). You may see blank spaces where Taboola widgets used to be on publisher sites. The content is gone, but the placeholder remains.
 
 ---
 

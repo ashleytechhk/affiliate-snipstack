@@ -126,7 +126,7 @@ In the DuckDuckGo app, go to **Settings → Email Protection** to see your forwa
 
 Go to [Surfshark's Alt ID page](/blog/altid?sub=hide-email-address-when-signing-up-2026__mid) and choose a plan. Use your real email address during checkout — this is the inbox your alias mail forwards to.
 
-### Step 2 — Install the Surfshark Browser Extension
+### Step 2 — Install the Surfshark [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)
 
 From your browser's extension store, search "Surfshark" and install the official extension. It is available for Chrome, Firefox, and Edge. Sign in with your Surfshark credentials.
 

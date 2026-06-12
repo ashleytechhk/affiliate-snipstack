@@ -49,7 +49,7 @@ A dedicated [email alias](https://snipstack.io/email-alias-example-2026/) for AI
 | Works with any email provider | Yes | iCloud only | Yes | Yes | Any | Gmail only |
 | Unlimited aliases | Yes | Yes (iCloud+) | No (5 free) | No (15 free) | Yes | Yes |
 | Realistic-looking domain | Yes | No | No | No | No | N/A |
-| Browser extension | Yes | Safari only | Firefox only | Yes | Yes | N/A |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Safari only | Firefox only | Yes | Yes | N/A |
 | Fake identity generator | Yes | No | No | No | No | No |
 | Standalone pricing | Surfshark plan | iCloud+ | Free / $1.99/mo | Free / ~$4/mo | Free | Free |
 | Alias guessable back to real address | No | No | No | No | No | Yes |

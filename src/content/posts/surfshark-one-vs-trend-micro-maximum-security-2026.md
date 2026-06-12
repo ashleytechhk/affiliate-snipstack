@@ -93,7 +93,7 @@ Trend Micro Maximum Security has some monitoring capability, but comprehensive b
 
 ### CleanWeb — Ad and Tracker Blocking
 
-The VPN component of [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) includes CleanWeb, which blocks ads, trackers, and known malicious domains at the DNS level. It runs across all browsers and apps when the VPN is active — no separate browser extension required, no per-browser configuration. Trend Micro Maximum Security does not include an equivalent [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/).
+The VPN component of [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) includes CleanWeb, which blocks ads, trackers, and known malicious domains at the DNS level. It runs across all browsers and apps when the VPN is active — no separate [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) required, no per-browser configuration. Trend Micro Maximum Security does not include an equivalent [ad blocker](https://snipstack.io/ad-blocker-for-iphone-browser-2026/).
 
 ---
 

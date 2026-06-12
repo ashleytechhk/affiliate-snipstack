@@ -138,7 +138,7 @@ On a 2-year plan, Surfshark runs approximately $2.19/month. For comparison: Nord
 
 The setup is five minutes:
 
-1. **Sign up** at the link below and download the Surfshark app for your platform (Windows, Mac, iOS, Android, Android TV, Fire TV, browser extension)
+1. **Sign up** at the link below and download the Surfshark app for your platform (Windows, Mac, iOS, Android, Android TV, Fire TV, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/))
 2. **Open the app** and go to Settings → VPN Settings → Protocol
 3. **Select WireGuard** — this is fastest for bypassing throttling while maintaining full encryption
 4. **Enable Kill Switch** — this cuts your connection automatically if the VPN drops, preventing your ISP from seeing your traffic during any reconnection gap

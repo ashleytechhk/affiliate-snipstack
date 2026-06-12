@@ -38,7 +38,7 @@ Knowing the difference matters because no single tool eliminates all three. The 
 
 ---
 
-## Why Browser Extensions Do Not Work Here
+## Why [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s Do Not Work Here
 
 A lot of guides suggest browser-based extensions like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) for ad blocking. That advice simply does not apply to a mobile app. The iHeartRadio app on iOS and Android makes its own direct network requests — it never passes through a browser. Extensions have zero visibility into app-level traffic.
 

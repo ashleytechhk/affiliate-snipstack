@@ -18,7 +18,7 @@ That gap — the space between "browser blocker installed" and "actually clean p
 
 ## What [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) CleanWeb?
 
-CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s integrated ad, tracker, and malware-blocking feature. It ships inside the Surfshark [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) iOS, Android, Windows, macOS, and browser extensions — no separate download, no additional subscription tier.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s integrated ad, tracker, and malware-blocking feature. It ships inside the Surfshark [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) iOS, Android, Windows, macOS, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s — no separate download, no additional subscription tier.
 
 When you enable CleanWeb and connect to a Surfshark server, all traffic from your device routes through that encrypted tunnel. Before reaching the open internet, the CleanWeb layer checks every outbound request against Surfshark's blocklists and filters. Requests destined for known ad networks, tracker endpoints, phishing domains, and malware infrastructure get dropped at the connection level. Legitimate traffic passes through normally.
 

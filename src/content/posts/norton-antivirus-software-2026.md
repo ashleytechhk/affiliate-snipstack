@@ -135,7 +135,7 @@ Yes — and it is a full-featured VPN with unlimited devices, 3,200+ servers, an
 Cancelling Norton stops future renewals. You typically retain access until the end of your paid period. Do not cancel before confirming your new software is active and scanning correctly.
 
 **[Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) available on Mac, Windows, iOS, and Android?**
-Yes. All four major platforms are covered, with browser extensions available for Chrome, Firefox, and Edge. Unlike Norton, there is no per-device limit — one subscription covers your whole household.
+Yes. All four major platforms are covered, with [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s available for Chrome, Firefox, and Edge. Unlike Norton, there is no per-device limit — one subscription covers your whole household.
 
 **[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) protect against identity theft and data breaches?**
 Surfshark Alert monitors breach databases and notifies you if your email, passwords, or other personal data appear in leaked datasets. It is not an insurance product (no reimbursement like LifeLock), but for proactive monitoring it covers the same ground at a lower cost.

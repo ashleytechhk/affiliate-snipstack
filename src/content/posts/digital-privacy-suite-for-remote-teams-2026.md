@@ -44,7 +44,7 @@ A privacy suite built for this environment needs to do more than scan for viruse
 |---|---|---|---|
 | **VPN Included** | Yes — unlimited devices | Yes — 5 devices | Yes — unlimited devices |
 | **Antivirus** | Real-time, lightweight | Real-time, heavy | Real-time, moderate |
-| **Ad / Tracker Blocker** | CleanWeb — VPN-level | Browser extension only | Browser extension only |
+| **Ad / Tracker Blocker** | CleanWeb — VPN-level | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) only | Browser extension only |
 | **Data Breach Monitoring** | Surfshark Alert — email, ID, card | LifeLock add-on (extra cost) | Identity monitoring included |
 | **Private Search** | Surfshark Search — no tracking | No | No |
 | **Password Manager** | Not included | Included | Included |

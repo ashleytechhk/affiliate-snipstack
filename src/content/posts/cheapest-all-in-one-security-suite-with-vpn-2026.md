@@ -61,7 +61,7 @@ The math gets more interesting when you account for what you are replacing. Most
 
 Most security suite VPNs are afterthoughts. Norton's VPN caps daily data on lower plans. McAfee's VPN works but lacks the server infrastructure and speed of a dedicated VPN provider.
 
-Surfshark's VPN is the foundation, not a checkbox feature. It runs on 3,200+ servers across 100 countries, supports WireGuard and OpenVPN, includes a kill switch, multi-hop routing, and a proven no-logs policy audited by Cure53. It works reliably on Windows, macOS, iOS, Android, Linux, and browser extensions — and covers every device you own under one account with no simultaneous connection limit.
+Surfshark's VPN is the foundation, not a checkbox feature. It runs on 3,200+ servers across 100 countries, supports WireGuard and OpenVPN, includes a kill switch, multi-hop routing, and a proven no-logs policy audited by Cure53. It works reliably on Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s — and covers every device you own under one account with no simultaneous connection limit.
 
 ### Antivirus: Clean and Lightweight
 

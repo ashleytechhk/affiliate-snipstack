@@ -147,7 +147,7 @@ One nuance for subscription arbitrageurs: check the terms of service of any stre
 Getting started takes under five minutes:
 
 1. **Sign up for Surfshark** using the link below and choose your plan.
-2. **Download the app** for your device — Windows, macOS, iOS, Android, or browser extension.
+2. **Download the app** for your device — Windows, macOS, iOS, Android, or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 3. **Open the app** and find the server list or search function.
 4. **Search for "Netherlands"** and select a server (Amsterdam is typically the fastest).
 5. **Connect.** Your IP address now appears as a Netherlands IP.

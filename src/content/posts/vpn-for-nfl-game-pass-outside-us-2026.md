@@ -165,7 +165,7 @@ For the live-game experience specifically, a VPN also helps fans outside the US 
 
 Getting NFL streaming working with a VPN takes less than five minutes:
 
-1. **Sign up for a VPN** — Surfshark offers the best price-to-reliability ratio for NFL streaming. Download the app for your device (Windows, macOS, iOS, Android, and browser extensions are all available).
+1. **Sign up for a VPN** — Surfshark offers the best price-to-reliability ratio for NFL streaming. Download the app for your device (Windows, macOS, iOS, Android, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s are all available).
 2. **Open the VPN app** and select a server in your target country — the US or whichever market you have your subscription in.
 3. **Connect before opening the NFL app or website** — let the VPN establish the connection fully before you attempt to log in or stream.
 4. **Open the NFL app or browser** and log in with your credentials. Playback should load normally.

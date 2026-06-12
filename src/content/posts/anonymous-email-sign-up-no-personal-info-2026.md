@@ -99,7 +99,7 @@ For iPhone-native, iCloud-primary users who want zero-effort anonymous sign-up: 
 
 ## Firefox Relay
 
-Firefox Relay offers five free aliases that forward to any email address — no ecosystem lock-in. The browser extension makes alias creation seamless: when a sign-up form appears, Relay offers to generate an alias in one click without leaving the page.
+Firefox Relay offers five free aliases that forward to any email address — no ecosystem lock-in. The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) makes alias creation seamless: when a sign-up form appears, Relay offers to generate an alias in one click without leaving the page.
 
 The free tier's five-alias limit is the binding constraint. If you're serious about using a different alias for every service — which is the strategy that actually works — you'll exhaust five aliases quickly. The paid tier removes the limit at a reasonable price, but you're now paying for a standalone alias tool rather than getting it bundled with broader privacy software.
 

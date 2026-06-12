@@ -69,7 +69,7 @@ Understanding why these differences exist helps you navigate them more effective
 
 The technical flow is straightforward:
 
-1. **You open the Surfshark app** on your device (Windows, Mac, iOS, Android, Fire TV, Android TV, or as a browser extension).
+1. **You open the Surfshark app** on your device (Windows, Mac, iOS, Android, Fire TV, Android TV, or as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)).
 
 2. **You select a server** in the country whose Max library or pricing you want to access. For US Max content, choose a US server. Surfshark labels certain servers as streaming-optimized — these are maintained specifically to stay ahead of streaming service IP blocklists.
 

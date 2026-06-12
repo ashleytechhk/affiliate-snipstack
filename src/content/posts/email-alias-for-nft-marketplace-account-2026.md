@@ -102,7 +102,7 @@ For NFT users who primarily use mobile apps (some marketplaces have solid iOS ap
 
 The setup is simpler than most people expect:
 
-1. **Generate your alias** in your chosen tool (Alt ID dashboard, SimpleLogin browser extension, or AnonAddy web app).
+1. **Generate your alias** in your chosen tool (Alt ID dashboard, SimpleLogin [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), or AnonAddy web app).
 2. **Copy the alias** — it will look something like `gx7k3m@altid.surfshark.com` or `random-words@simplelogin.com`.
 3. **Paste the alias** into the email field when registering on the NFT marketplace.
 4. **Verify the account** — the confirmation email will forward to your real inbox. Click the link as normal.

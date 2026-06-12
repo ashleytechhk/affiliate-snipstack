@@ -61,7 +61,7 @@ Here is how the main contenders stack up across the criteria that matter most fo
 | Identity layer (name, DOB) | Yes | No | No | No |
 | No-log policy | Yes | Yes | N/A | N/A |
 | Pricing | Included in Surfshark plans | Free / Paid tiers | Requires iCloud+ ($0.99/mo+) | Free / Relay Premium |
-| Browser extension | Yes | Yes | Safari only | Yes |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Yes | Safari only | Yes |
 
 The identity layer column is where Alt-ID separates itself. When a rental portal asks for more than just an email — a name for correspondence, for instance — Alt-ID can generate a plausible alternative identity so your real personal details stay off the portal's CRM system entirely.
 

@@ -160,7 +160,7 @@ All three encrypt traffic competently. Surfshark's edge for healthcare workers i
 Getting started takes under five minutes:
 
 1. **Subscribe to Surfshark** and create your account at the link below.
-2. **Download the app** for your platform — iOS, Android, Windows, macOS, Linux, and browser extensions are all available.
+2. **Download the app** for your platform — iOS, Android, Windows, macOS, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s are all available.
 3. **Open the app and connect to a server.** For security on any network, the nearest server gives the fastest speeds.
 4. **Enable the kill switch** in settings — this ensures no unprotected traffic leaks if the VPN drops momentarily.
 5. **For streaming savings,** connect to a server in your target country — Turkey, India, or Argentina are the most popular for cost differences — before opening the streaming platform. Use a private browsing window to avoid cached location data interfering.

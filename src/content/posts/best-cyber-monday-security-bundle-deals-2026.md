@@ -95,7 +95,7 @@ A private search engine with no tracking or personalization bubbles. Useful if y
 
 ## Norton 360 Deluxe: The Incumbent Problem
 
-Norton has name recognition, but its product has accumulated years of feature bloat. The installation process attempts to install browser extensions, change your default search engine, and enroll you in optional services during setup — all requiring active opt-outs.
+Norton has name recognition, but its product has accumulated years of feature bloat. The installation process attempts to install [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, change your default search engine, and enroll you in optional services during setup — all requiring active opt-outs.
 
 Performance impact is measurable. On machines with 8GB RAM or less, Norton's background processes create noticeable slowdowns during scans and at startup. This is particularly painful on older laptops that are still perfectly capable for everyday tasks.
 

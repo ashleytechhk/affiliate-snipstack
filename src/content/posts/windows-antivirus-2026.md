@@ -58,7 +58,7 @@ The VPN bundled into Norton 360 Standard caps bandwidth and lacks the configurab
 
 ### McAfee Total Protection: Similar Story, Different Logo
 
-McAfee shares Norton's core problem: it is a product built by accretion over decades, and the accumulated weight shows. Installation is straightforward, and protection scores are competitive. But McAfee's system impact on older or lower-spec Windows machines is pronounced. The McAfee WebAdvisor browser extension, once installed, has a tendency to flag legitimate sites and inject itself into search results in ways that feel more like ad placement than security.
+McAfee shares Norton's core problem: it is a product built by accretion over decades, and the accumulated weight shows. Installation is straightforward, and protection scores are competitive. But McAfee's system impact on older or lower-spec Windows machines is pronounced. The McAfee WebAdvisor [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), once installed, has a tendency to flag legitimate sites and inject itself into search results in ways that feel more like ad placement than security.
 
 McAfee does include an unlimited VPN now — a genuine improvement — but the VPN auto-disables on trusted networks by default, which is the opposite of what privacy-conscious users want.
 

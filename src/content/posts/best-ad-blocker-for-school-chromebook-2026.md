@@ -28,7 +28,7 @@ An [ad blocker](https://snipstack.io/ad-blocker-for-edge-browser-windows-11-2026
 
 There are two main types:
 
-**Browser extensions** — These install inside Chrome and filter content only within that browser window. They are easy to install and free, but they cannot see traffic from Android apps or other services running on your Chromebook.
+**[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s** — These install inside Chrome and filter content only within that browser window. They are easy to install and free, but they cannot see traffic from Android apps or other services running on your Chromebook.
 
 **VPN-level [ad blocker](https://snipstack.io/ad-blocker-for-chromecast-streaming-device-2026/)s** — These sit between your device and the internet, filtering DNS requests (the system that translates website names into server addresses) before a connection is even made. They protect your entire device, including every app, not just the browser.
 

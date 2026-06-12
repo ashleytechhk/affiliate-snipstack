@@ -147,7 +147,7 @@ At approximately $2.19/month on the two-year plan, Surfshark costs less than mos
 Getting started takes under five minutes:
 
 1. **Subscribe and create your account** via the link in this article.
-2. **Download the app** for your platform — iOS, Android, Windows, macOS, Linux, and browser extensions are all available.
+2. **Download the app** for your platform — iOS, Android, Windows, macOS, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s are all available.
 3. **Save a home-country server as a favourite** — this becomes your default for banking and anything financial.
 4. **Enable the kill switch** in settings — ensures no unencrypted traffic leaks if the VPN momentarily drops.
 5. **For streaming savings,** connect to a server in your target region (Turkey, India, Argentina) before opening the streaming platform. Use a private browsing window to prevent cached location data from interfering with region detection.

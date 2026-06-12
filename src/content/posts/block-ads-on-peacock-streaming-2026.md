@@ -20,7 +20,7 @@ This guide explains what "[blocking ads on](https://snipstack.io/blocking-ads-on
 
 ## Quick Verdict
 
-No free method fully eliminates Peacock ads in 2026 on mobile. Peacock uses server-side ad injection on its app, which defeats browser extensions entirely. The options that consistently reduce the ad load are: upgrading to Peacock Premium Plus (Peacock's own ad-free tier), DNS-level blocking through a VPN like [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) (which blocks ad infrastructure across every app, including Peacock), or using a modified third-party client (high technical risk, not recommended). For mobile users specifically, CleanWeb is the only realistic set-and-forget option that works without jailbreaking your phone or managing technical workarounds.
+No free method fully eliminates Peacock ads in 2026 on mobile. Peacock uses server-side ad injection on its app, which defeats [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s entirely. The options that consistently reduce the ad load are: upgrading to Peacock Premium Plus (Peacock's own ad-free tier), DNS-level blocking through a VPN like [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/) (which blocks ad infrastructure across every app, including Peacock), or using a modified third-party client (high technical risk, not recommended). For mobile users specifically, CleanWeb is the only realistic set-and-forget option that works without jailbreaking your phone or managing technical workarounds.
 
 ---
 

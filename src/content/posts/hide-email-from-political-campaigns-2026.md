@@ -121,7 +121,7 @@ Filters also do nothing about your real address already sitting in campaign data
 
 **Step 1.** Get Surfshark — Alt-ID is included with all plans. No separate subscription required.
 
-**Step 2.** Open the Surfshark app or browser extension. Navigate to **Alt-ID** in the sidebar.
+**Step 2.** Open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Navigate to **Alt-ID** in the sidebar.
 
 **Step 3.** Click **Generate new Alt-ID**. Surfshark creates a randomized alias address and an optional alternative name.
 

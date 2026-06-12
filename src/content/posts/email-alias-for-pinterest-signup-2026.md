@@ -94,7 +94,7 @@ The catch is the ecosystem lock-in. Hide My Email requires iCloud+ (starts at $0
 
 ## Firefox Relay: Simple and Affordable
 
-Mozilla's Relay service is straightforward: browser extension intercepts email fields, generates a relay address, forwards to your real inbox. The free plan caps at five aliases. The paid plan ($1.99/month) removes the cap and adds [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking.
+Mozilla's Relay service is straightforward: [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) intercepts email fields, generates a relay address, forwards to your real inbox. The free plan caps at five aliases. The paid plan ($1.99/month) removes the cap and adds [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking.
 
 The limitation worth flagging: the free tier does not support replying from your alias address. You can receive, but if you reply to a Pinterest email, your real address shows. The paid tier resolves this for some alias types, but the feature set remains more limited than Alt-ID or SimpleLogin.
 

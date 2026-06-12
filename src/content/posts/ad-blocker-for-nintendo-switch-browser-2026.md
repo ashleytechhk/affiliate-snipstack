@@ -17,7 +17,7 @@ But the answer is not "give up." There are real ways to reduce or eliminate ads 
 
 ## Quick Verdict
 
-The Nintendo Switch does not support browser extensions, so traditional [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)s cannot be installed directly. The practical options are DNS-level blocking (changing the DNS in Switch network settings) or router-level blocking (covering all devices on your home network automatically). For mobile users, the easiest all-in-one fix [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s CleanWeb feature — it handles DNS-level ad blocking on your Switch via custom DNS, covers your phone natively via the Surfshark app, and requires no technical configuration beyond a settings change.
+The Nintendo Switch does not support [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, so traditional [ad blocker](https://snipstack.io/ad-blocker-for-apple-tv-app-2026/)s cannot be installed directly. The practical options are DNS-level blocking (changing the DNS in Switch network settings) or router-level blocking (covering all devices on your home network automatically). For mobile users, the easiest all-in-one fix [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s CleanWeb feature — it handles DNS-level ad blocking on your Switch via custom DNS, covers your phone natively via the Surfshark app, and requires no technical configuration beyond a settings change.
 
 ---
 

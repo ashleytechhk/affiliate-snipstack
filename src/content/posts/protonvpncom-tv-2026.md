@@ -123,7 +123,7 @@ Both VPNs use modern protocols (WireGuard, OpenVPN, IKEv2). In independent speed
 
 ### App Quality
 
-Surfshark's apps are polished across platforms — Windows, macOS, iOS, Android, Linux, and browser extensions. The smart TV apps (Android TV, Fire TV, Apple TV) are particularly well-maintained, which matters directly for the TV streaming use case. ProtonVPN's apps are also solid but historically received fewer updates on the TV/streaming device front.
+Surfshark's apps are polished across platforms — Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. The smart TV apps (Android TV, Fire TV, Apple TV) are particularly well-maintained, which matters directly for the TV streaming use case. ProtonVPN's apps are also solid but historically received fewer updates on the TV/streaming device front.
 
 ### Customer Support
 

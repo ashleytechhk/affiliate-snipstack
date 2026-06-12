@@ -51,7 +51,7 @@ Using an alias for your Notion signup severs the connection between your real ad
 | Persistent (won't expire) | Yes | Yes | Yes | Yes | Yes | Yes |
 | Kill alias on demand | Yes | Yes | Yes | Yes | Pause only | No |
 | Works with any email provider | Yes | iCloud only | Yes | Yes | Any | Gmail only |
-| Browser extension | Yes | Safari only | Yes | Firefox only | Yes | N/A |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Safari only | Yes | Firefox only | Yes | N/A |
 | Alternative identity / fake name | Yes | No | No | No | No | No |
 | Alias easily guessed back | No | No | No | No | No | Yes |
 | Free tier | No (Surfshark plan) | Yes (iCloud+) | Yes (15 aliases) | Yes (5 aliases) | Yes | Yes |

@@ -36,7 +36,7 @@ This is fundamentally different from, say, hiding an ad element on a webpage wit
 
 ---
 
-## Why Browser Extensions Do Not Work in the Rumble App
+## Why [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s Do Not Work in the Rumble App
 
 This is where most guides mislead mobile users.
 

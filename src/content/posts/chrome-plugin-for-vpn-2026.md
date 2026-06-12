@@ -172,7 +172,7 @@ For NordVPN and Surfshark: yes. Both extensions are standalone proxies that work
 
 ### Does the Chrome extension slow down my browsing?
 
-Marginally. Any VPN — desktop app or browser extension — adds a small amount of latency because your traffic is routing through an additional server. In practice, on a modern connection, this is not noticeable for browsing. Video calls through Chrome may show slightly higher latency if the VPN server is geographically distant.
+Marginally. Any VPN — desktop app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) — adds a small amount of latency because your traffic is routing through an additional server. In practice, on a modern connection, this is not noticeable for browsing. Video calls through Chrome may show slightly higher latency if the VPN server is geographically distant.
 
 ### Will the Chrome extension [block ads on](https://snipstack.io/block-ads-on-youtube-tv-app-2026/) YouTube and other streaming sites?
 

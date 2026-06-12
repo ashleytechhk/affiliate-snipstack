@@ -193,7 +193,7 @@ Yes. Apple's system routes image loads through Apple's proxy servers, which hide
 
 ### Can I see which tracking pixels are in my emails?
 
-Yes. Browser-based tools like Ugly Email (a Gmail browser extension) and Hey's "Spy Pixel Tracker" feature flag emails with known tracking pixels before you open them. On mobile, the Gmail app does not offer this visibility natively — another reason the pre-emptive approach (blocking images or using CleanWeb) is more practical than detection after the fact.
+Yes. Browser-based tools like Ugly Email (a Gmail [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)) and Hey's "Spy Pixel Tracker" feature flag emails with known tracking pixels before you open them. On mobile, the Gmail app does not offer this visibility natively — another reason the pre-emptive approach (blocking images or using CleanWeb) is more practical than detection after the fact.
 
 ### Does CleanWeb block tracking pixels in every mail app?
 

@@ -86,7 +86,7 @@ Hide My Email is genuinely excellent on Apple devices. In Safari, the creation f
 
 Step outside Apple's garden and the experience degrades. Want to sign up for a service on a Chromebook? You can visit iCloud.com and create an alias there, but you cannot use the Safari AutoFill shortcut. Want to manage aliases on an Android phone? You're stuck with the browser version of iCloud.com, which is functional but stripped-down compared to the native iOS experience.
 
-Alt ID works wherever you have a Surfshark account and a browser. The web dashboard is consistent across operating systems. The browser extension works in Chrome, Firefox, and Edge. Android users get the same alias management features as iOS users. For anyone who uses a mix of devices — and most people do in 2026 — Alt ID is simply less friction.
+Alt ID works wherever you have a Surfshark account and a browser. The web dashboard is consistent across operating systems. The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) works in Chrome, Firefox, and Edge. Android users get the same alias management features as iOS users. For anyone who uses a mix of devices — and most people do in 2026 — Alt ID is simply less friction.
 
 [**Get Alt ID and manage aliases across all your devices**](/blog/altid?sub=surfshark-altid-vs-apple-hide-my-email-2026__mid)
 

@@ -22,7 +22,7 @@ The short answer is yes — but not for the reasons most VPN articles lead with.
 
 Brave's built-in privacy tools do not include server-based IP relocation. The firewall/VPN feature available in Brave on iOS and Android is a separate, paid product that does not have a desktop equivalent and does not give you fine-grained control over which country your traffic appears to come from.
 
-For desktop Brave — where most subscription arbitrage actually happens — a third-party VPN extension is the only practical option. **Surfshark's browser extension** is the one worth installing: it works as a standalone proxy inside Brave without requiring the desktop app to be running, covers 100+ countries, and at roughly $2.19/month costs less than the monthly price difference you can recover on a single streaming subscription price gap.
+For desktop Brave — where most subscription arbitrage actually happens — a third-party VPN extension is the only practical option. **Surfshark's [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)** is the one worth installing: it works as a standalone proxy inside Brave without requiring the desktop app to be running, covers 100+ countries, and at roughly $2.19/month costs less than the monthly price difference you can recover on a single streaming subscription price gap.
 
 If you're not ready to pay, **[ProtonVPN](https://snipstack.io/vs-protonvpn-2026/)'s free extension** covers three countries (US, Netherlands, Japan) and has no data cap. The country list is narrow enough to limit its use for arbitrage, but it's a legitimate starting point.
 

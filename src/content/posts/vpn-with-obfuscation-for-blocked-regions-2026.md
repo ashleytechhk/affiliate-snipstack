@@ -121,7 +121,7 @@ Surfshark's multi-year plans work out to a few dollars per month. If obfuscated 
 Getting started takes under five minutes:
 
 1. **Sign up** — Use the link below to get Surfshark at the current promotional rate.
-2. **Download the app** — Available on iOS, Android, Windows, macOS, Linux, and browser extensions.
+2. **Download the app** — Available on iOS, Android, Windows, macOS, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 3. **Choose your protocol** — Go to Settings > VPN settings and select OpenVPN. Camouflage Mode activates automatically with this protocol on restricted networks.
 4. **Enable NoBorders Mode** — In Settings > Advanced, toggle NoBorders on. Surfshark will recommend the best servers for your current network environment.
 5. **Pick a server** — Choose the country whose streaming library or subscription price you want to access: US for the broadest Netflix library, UK for BBC iPlayer, Brazil or Turkey for lower regional pricing on various platforms.

@@ -134,7 +134,7 @@ Any VPN adds some latency because your traffic routes through an additional serv
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) work on all my devices?
 
-Surfshark supports Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. The antivirus scanning component runs on Windows and macOS. Mobile devices access the VPN and Alert monitoring features — consistent with how iOS and Android handle third-party security apps at the system level.
+Surfshark supports Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox. The antivirus scanning component runs on Windows and macOS. Mobile devices access the VPN and Alert monitoring features — consistent with how iOS and Android handle third-party security apps at the system level.
 
 ---
 

@@ -106,7 +106,7 @@ Start with your own primary device (usually a Windows laptop or Mac). Getting th
 Now that [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) is confirmed working on the first device, remove the old software.
 
 **On Windows:**
-Norton and McAfee both leave behind system processes and browser extensions if you use the standard "Add or Remove Programs" uninstaller. Use the vendor's dedicated removal tool instead:
+Norton and McAfee both leave behind system processes and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s if you use the standard "Add or Remove Programs" uninstaller. Use the vendor's dedicated removal tool instead:
 
 - Norton: Download **Norton Remove and Reinstall** tool from the Norton support page and run it
 - McAfee: Use the **MCPR.exe** removal tool (McAfee Consumer Product Removal) from McAfee support

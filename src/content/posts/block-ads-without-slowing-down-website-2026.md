@@ -88,7 +88,7 @@ The overhead here is slightly higher than pure DNS filtering because more proces
 
 ### 4. JavaScript Injection Blockers — Highest Overhead
 
-Browser extensions like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) work by injecting JavaScript into every page that runs a filter evaluation before page elements render. On desktop, this is fast enough to be imperceptible. On mobile, the picture is different.
+[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) work by injecting JavaScript into every page that runs a filter evaluation before page elements render. On desktop, this is fast enough to be imperceptible. On mobile, the picture is different.
 
 iOS does not support browser extensions at all (except Safari's limited Content Blocker API). Android's Chrome similarly lacks extension support. Mobile Firefox supports [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), but the JavaScript injection model adds more overhead than compiled content blockers — noticeable on lower-end devices.
 

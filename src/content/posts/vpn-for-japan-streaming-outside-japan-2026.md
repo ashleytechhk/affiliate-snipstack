@@ -77,7 +77,7 @@ No technical background needed. Here is the process from start to streaming:
 Not every VPN can bypass the geo-restriction systems that platforms like Netflix Japan deploy. Some VPNs are detected and blocked immediately. Surfshark maintains dedicated streaming-optimized servers and actively updates its infrastructure when platforms update their detection methods.
 
 **Step 2 — Install Surfshark on your device.**
-Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and browser extensions. One subscription covers all your devices simultaneously with no cap on connections.
+Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. One subscription covers all your devices simultaneously with no cap on connections.
 
 **Step 3 — Connect to a Japan server.**
 Open the Surfshark app, search for Japan in the server list, and connect. Your connection is now routed through a Japanese IP address.

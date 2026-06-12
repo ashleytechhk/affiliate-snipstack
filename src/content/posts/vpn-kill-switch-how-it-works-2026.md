@@ -168,7 +168,7 @@ The kill switch is the most important IP leak protection, but it is not the only
 
 **DNS Leak Protection** — VPNs route your DNS requests (the queries that translate domain names to IP addresses) through the VPN tunnel. Without this, DNS requests can leak to your ISP's DNS servers even when the VPN is connected, revealing which domains you are visiting. Surfshark has DNS leak protection enabled by default.
 
-**WebRTC Leak Protection** — WebRTC is a browser technology that can reveal your real IP address even when a VPN is active, because it communicates directly between browsers rather than through the VPN tunnel. Surfshark's browser extension blocks WebRTC leaks. For streaming done through a browser (rather than a native app), this matters.
+**WebRTC Leak Protection** — WebRTC is a browser technology that can reveal your real IP address even when a VPN is active, because it communicates directly between browsers rather than through the VPN tunnel. Surfshark's [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) blocks WebRTC leaks. For streaming done through a browser (rather than a native app), this matters.
 
 **IPv6 Leak Protection** — Some ISPs assign IPv6 addresses. If a VPN only tunnels IPv4 traffic, your IPv6 traffic may leak your real location. Surfshark handles IPv6 by routing it through the tunnel or disabling it entirely during VPN use.
 

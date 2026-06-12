@@ -162,7 +162,7 @@ You probably cannot find out which specific site sold your email in the past. Th
 
 But you can set up a system right now that gives you a precise answer every time it happens in the future. One alias per site. Spam arrives, label tells you who. Delete the alias, door closes. Repeat.
 
-[Surfshark Alt ID](/blog/altid?sub=how-to-find-out-which-site-sold-my-email-2026__cta) makes this practical — unlimited aliases, instant creation from the browser extension, one-click deletion. If you're getting hammered by spam and want to stop adding to the problem while gaining the ability to identify future leakers, this is the tool that makes the canary method work at normal-human scale.
+[Surfshark Alt ID](/blog/altid?sub=how-to-find-out-which-site-sold-my-email-2026__cta) makes this practical — unlimited aliases, instant creation from the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), one-click deletion. If you're getting hammered by spam and want to stop adding to the problem while gaining the ability to identify future leakers, this is the tool that makes the canary method work at normal-human scale.
 
 **Start with your next sign-up. Use an alias. Label it. Know who leaks.**
 

@@ -47,7 +47,7 @@ For iOS users or anyone who uses Chrome, Firefox with uBlock is simply not an op
 ![Dark mode smartphone screen mockup showing mobile browser with three red X overlays blocking ad placeholders, green shield badge showing 127 ads blocked](/og/ublock-origin-mobile-2026-inline-1.png)
 
 
-uBlock Origin is a browser extension. Extensions require a browser that allows them. On desktop, Chrome, Firefox, and Edge all permit extensions. On mobile, only Firefox for Android keeps that door open — and even then, only a subset of extensions are approved.
+uBlock Origin is a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Extensions require a browser that allows them. On desktop, Chrome, Firefox, and Edge all permit extensions. On mobile, only Firefox for Android keeps that door open — and even then, only a subset of extensions are approved.
 
 That means:
 

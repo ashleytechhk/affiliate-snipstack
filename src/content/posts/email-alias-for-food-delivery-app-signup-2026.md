@@ -94,7 +94,7 @@ Alt ID, DuckDuckGo, and SimpleLogin all have explicit no-logs policies for email
 
 The setup takes under five minutes and works across DoorDash, Uber Eats, Grubhub, Instacart, or any other platform.
 
-1. **Create a new alias** in your chosen tool. In Alt ID: open the Surfshark app, go to Alt ID, hit Generate. In DuckDuckGo: enable Email Protection in the browser extension and request a unique per-site address. Label the alias so you know what it's for — `doordash-alias` or similar.
+1. **Create a new alias** in your chosen tool. In Alt ID: open the Surfshark app, go to Alt ID, hit Generate. In DuckDuckGo: enable Email Protection in the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and request a unique per-site address. Label the alias so you know what it's for — `doordash-alias` or similar.
 2. **Use the alias at signup.** Instead of your real email address, paste the alias into the food app's registration field. The app sends a verification email to the alias, which forwards to your real inbox.
 3. **Verify normally.** Click the verification link in your real inbox. From the app's perspective, your alias is a fully valid email address. Account setup completes as normal.
 4. **Record the alias.** Store it in your password manager alongside the account credentials. You'll need the alias address if you ever change phones or need account recovery.

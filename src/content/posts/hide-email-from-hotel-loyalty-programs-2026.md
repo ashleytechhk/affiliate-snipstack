@@ -105,7 +105,7 @@ The volume compounds if you have multiple memberships. If you have Bonvoy, Hilto
 
 **How it works for hotel programs:**
 
-1. Before joining a loyalty program, open the Surfshark browser extension and generate a new alias (e.g., `k9x4mw2p@surfshark.id`).
+1. Before joining a loyalty program, open the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and generate a new alias (e.g., `k9x4mw2p@surfshark.id`).
 2. Use the alias as your loyalty program email address at registration.
 3. All program emails — booking confirmations, points statements, partner offers — forward to your real inbox automatically. Your account functions normally.
 4. When the partner blasts become intolerable, open the Alt-ID dashboard and delete the alias. Every sender who had that address — Bonvoy, Marriott Vacations, the Chase credit card team, the Hertz affiliate — loses their path to your inbox simultaneously.

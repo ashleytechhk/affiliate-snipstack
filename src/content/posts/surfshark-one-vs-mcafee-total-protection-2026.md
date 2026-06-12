@@ -83,7 +83,7 @@ This is the differentiator that McAfee simply does not have. Surfshark Search is
 
 ### CleanWeb Ad and Tracker Blocking
 
-Surfshark's VPN includes CleanWeb, which blocks ads, trackers, and known malicious domains at the DNS level. It works across all browsers and applications when the VPN is active, without requiring a separate browser extension.
+Surfshark's VPN includes CleanWeb, which blocks ads, trackers, and known malicious domains at the DNS level. It works across all browsers and applications when the VPN is active, without requiring a separate [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 
 McAfee Total Protection does not include an equivalent standalone [ad blocker](https://snipstack.io/ad-blocker-free-chrome-2026/).
 

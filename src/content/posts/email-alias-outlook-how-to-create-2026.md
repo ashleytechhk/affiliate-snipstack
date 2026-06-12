@@ -35,7 +35,7 @@ Alt-ID removes that ceiling entirely. Unlimited aliases, instant on/off toggling
 | **Instant disable (toggle)** | No — delete only | Yes |
 | **Fake name / identity generation** | No | Yes |
 | **Works with any email provider** | No (Microsoft accounts only) | Yes — forwards to any inbox |
-| **Browser extension for auto-fill** | No | Yes (Surfshark extension) |
+| **[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for auto-fill** | No | Yes (Surfshark extension) |
 | **Standalone cost** | Free | Requires Surfshark plan |
 | **Reply from alias** | Yes (via Outlook.com) | Yes |
 | **Bundled with VPN** | No | Yes (Surfshark) |

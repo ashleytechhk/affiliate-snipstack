@@ -120,7 +120,7 @@ Gmail's `yourname+rewards@gmail.com` variant delivers to your real inbox and cos
 The process takes under five minutes:
 
 1. Get a Surfshark plan — Alt-ID is included at all subscription tiers. [Start here.](/blog/altid?sub=email-alias-for-rewards-program-signup-2026__mid)
-2. Install the Surfshark browser extension (Chrome, Firefox, or Edge) or open the mobile app.
+2. Install the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) (Chrome, Firefox, or Edge) or open the mobile app.
 3. Navigate to **Alt-ID** in the sidebar.
 4. Click **Create new identity**. Copy the generated alias address. Note the optional fake name and date of birth if you want to use them.
 5. Open the loyalty program's signup page (Marriott Bonvoy, Target Circle, CVS ExtraCare, Best Buy Plus — whichever).

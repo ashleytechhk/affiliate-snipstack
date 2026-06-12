@@ -88,7 +88,7 @@ The issue is cost and system impact.
 
 On price: identity protection in Norton lives exclusively in the LifeLock-tier plans, starting at Norton 360 with LifeLock Select. That plan runs around $9.99/month in first-year promotions, but the renewal rate is among the highest in the category. If identity monitoring is your primary reason to buy, you are paying a premium specifically to access it.
 
-On system impact: Norton is consistently cited in user forums as resource-heavy. Scheduled scans at peak CPU usage, browser extensions that add significant overhead, and a product suite that aggressively prompts upgrades. Users who have switched from Norton to lighter alternatives frequently mention it as the first thing they notice.
+On system impact: Norton is consistently cited in user forums as resource-heavy. Scheduled scans at peak CPU usage, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s that add significant overhead, and a product suite that aggressively prompts upgrades. Users who have switched from Norton to lighter alternatives frequently mention it as the first thing they notice.
 
 Norton makes sense if you want the most comprehensive LifeLock coverage — actual identity restoration services, fraud specialist support, and insurance-backed protection. If you primarily want breach monitoring and day-to-day privacy, that level of service may be more than you need and more than you want to pay for.
 

@@ -119,7 +119,7 @@ Launch the streaming service from the Play Store app or in Chrome. The platform 
 
 ## Alternative: Chrome Extension for Managed Chromebooks
 
-If your Chromebook is managed by a school or employer and Google Play is disabled, Surfshark offers a Chrome browser extension available from the Chrome Web Store. The extension protects your browser traffic specifically — it does not cover apps running outside of Chrome, but it is enough to access streaming sites and change the apparent location for web-based services.
+If your Chromebook is managed by a school or employer and Google Play is disabled, Surfshark offers a Chrome [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) available from the Chrome Web Store. The extension protects your browser traffic specifically — it does not cover apps running outside of Chrome, but it is enough to access streaming sites and change the apparent location for web-based services.
 
 To install it: open Chrome, go to the Chrome Web Store, search "Surfshark VPN," and add the extension. Log in with your Surfshark account credentials. The setup is the same from Step 5 onward.
 

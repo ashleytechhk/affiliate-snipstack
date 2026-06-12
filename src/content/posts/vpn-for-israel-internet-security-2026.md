@@ -85,7 +85,7 @@ No technical knowledge required. Here is the full process from zero to protected
 Not all VPNs are equal. Many are blocked by streaming platforms. Others log user activity or use weak encryption. Surfshark has passed independent no-logs audits and actively maintains streaming access across Netflix, Disney+, Amazon Prime, and more.
 
 **Step 2 — Install the app on your devices.**
-Surfshark has native apps for iOS, Android, Windows, macOS, Android TV, Amazon Fire TV, Apple TV, and browser extensions for Chrome and Firefox. One subscription covers every device you own with unlimited simultaneous connections.
+Surfshark has native apps for iOS, Android, Windows, macOS, Android TV, Amazon Fire TV, Apple TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox. One subscription covers every device you own with unlimited simultaneous connections.
 
 **Step 3 — Turn on auto-connect for untrusted networks.**
 In Surfshark's settings, enable auto-connect on Wi-Fi. The VPN activates automatically whenever you join a public or unknown network — no manual switching required. Your connection is always encrypted.

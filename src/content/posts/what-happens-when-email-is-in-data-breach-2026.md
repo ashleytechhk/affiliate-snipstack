@@ -129,7 +129,7 @@ Going forward, every new sign-up gets a fresh alias. When the next breach happen
 - **Forwarding:** All email sent to the alias arrives in your real inbox. You do not manage a separate inbox.
 - **Multiple aliases:** Create one per service category or per service. Kill individual aliases without affecting others.
 - **Alternative identity details:** Alt-ID also generates fake name, date of birth, and profile details so you are not handing over real personal data alongside your email.
-- **Browser extension:** Detects email fields on signup forms and auto-fills with your alias. No copy-pasting.
+- **[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/):** Detects email fields on signup forms and auto-fills with your alias. No copy-pasting.
 - **Included with Surfshark:** No separate subscription required if you already use Surfshark for VPN.
 
 ![Alt-ID alias management dashboard showing active aliases and one-click delete option](/og/what-happens-when-email-is-in-data-breach-2026-inline-2.png)

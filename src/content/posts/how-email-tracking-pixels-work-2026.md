@@ -62,7 +62,7 @@ There are several ways to reduce or eliminate tracking pixel exposure. They oper
 | Apple Mail [Privacy Protection](https://snipstack.io/privacy-protection-software-review-2026/) | Proxied | Masked | Partially | Yes | Zero (auto) |
 | Gmail "Ask before displaying" | Yes | Yes | Partially | Yes | Low |
 | VPN / privacy browser | No | Yes | No | Yes | Medium |
-| Pixel-blocking browser extension | Rarely | No | No | Yes | Low |
+| Pixel-blocking [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Rarely | No | No | Yes | Low |
 | [Email alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) (delete when spammy) | Yes | Yes | Yes | No | Low setup |
 
 ### Disable remote images in your email client

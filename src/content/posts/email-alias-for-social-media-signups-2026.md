@@ -82,7 +82,7 @@ An [email alias](https://snipstack.io/email-alias-for-investment-account-notific
 
 When you use [Alt ID](/blog/altid?sub=email-alias-for-social-media-signups-2026__mid) for a social media signup, here is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/):
 
-1. You generate a unique alias (something like `silver.marsh2847@altid.surfshark.net`) in seconds via the Surfshark app or browser extension.
+1. You generate a unique alias (something like `silver.marsh2847@altid.surfshark.net`) in seconds via the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 2. You sign up for Instagram, Reddit, Discord, or any platform using the alias instead of your real email.
 3. Confirmation emails, password resets, and notifications forward automatically to your real inbox. You never miss anything.
 4. If that platform suffers a breach, the leaked address is the alias — not your real email. Spammers get a forwarding address that you control.

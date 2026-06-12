@@ -86,7 +86,7 @@ The usability ceiling is real. Configuring PGP requires a working key pair, a co
 
 SimpleLogin is open-source, audited, and since its acquisition by Proton, tightly integrated into the Proton ecosystem. If you use ProtonMail as your primary inbox, SimpleLogin aliases benefit from Proton's end-to-end encryption on the receiving end — the forwarded mail lands in an encrypted inbox.
 
-The browser extension makes alias creation one-click during signups. The free tier covers 10 aliases. Paid plans add unlimited aliases, custom domain support, and auto-create rules.
+The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) makes alias creation one-click during signups. The free tier covers 10 aliases. Paid plans add unlimited aliases, custom domain support, and auto-create rules.
 
 SimpleLogin does not offer identity generation. It handles the [email alias](https://snipstack.io/email-alias-for-twitch-account-privacy-2026/), nothing else. If a signup form also asks for your name and date of birth, you are on your own — or you need to combine it with a separate identity generator.
 

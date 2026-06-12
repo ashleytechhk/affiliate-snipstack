@@ -53,7 +53,7 @@ Using an [email alias](https://snipstack.io/protect-real-email-from-newsletters-
 | **Two-way reply** | Yes | No | Yes | Yes |
 | **Instant deletion** | Yes | Yes | Yes | Yes |
 | **Mobile app** | iOS + Android (Surfshark) | Native iOS/macOS | iOS + Android + extension | Via Firefox account |
-| **Browser extension** | Yes (Surfshark) | Safari only | All major browsers | Firefox primarily |
+| **[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)** | Yes (Surfshark) | Safari only | All major browsers | Firefox primarily |
 | **Bundled VPN** | Yes | No | No | No |
 | **Data removal tool** | Yes (Surfshark) | No | No | No |
 | **Setup time** | ~3 minutes | ~2 minutes (Apple users) | ~5 minutes | ~5 minutes |

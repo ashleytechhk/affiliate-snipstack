@@ -10,7 +10,7 @@ tags: ["vpn", "privacy", "review"]
 
 You already have a NordVPN subscription. But the Chrome extension is a separate thing — not just a shortcut to the desktop app. It works independently, proxies only your browser traffic, and includes a trimmed version of NordVPN's threat protection layer. Whether that's exactly what you need, or a pale substitute for the full VPN, depends on what you're actually doing in Chrome.
 
-This article explains how the extension works, what Threat Protection Lite covers, how NordVPN's approach differs from extensions like ExpressVPN's (spoiler: meaningfully), and how it stacks up against Surfshark's browser extension in 2026.
+This article explains how the extension works, what Threat Protection Lite covers, how NordVPN's approach differs from extensions like ExpressVPN's (spoiler: meaningfully), and how it stacks up against Surfshark's [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) in 2026.
 
 **[See how Surfshark's extension compares — and its current deal](/blog/vpn?sub=nordvpn-chrome-extension-2026__above-fold)**
 

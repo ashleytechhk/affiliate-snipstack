@@ -133,7 +133,7 @@ The dashboard also shows how many emails each alias has received, which helps yo
 
 ---
 
-## Step 7 — Install the Browser Extension (Optional but Recommended)
+## Step 7 — Install the [Browser Extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) (Optional but Recommended)
 
 Surfshark offers a browser extension for Chrome and Firefox that detects sign-up forms and suggests inserting an alias automatically.
 

@@ -134,7 +134,7 @@ NordVPN is a dependable alternative if you prefer Nord's security feature set or
 
 Getting Sling TV working with a VPN takes under five minutes:
 
-1. **Subscribe to a VPN** — Surfshark offers the best price-to-reliability combination. Download the app for your device (Windows, macOS, iOS, Android, Fire TV, browser extension).
+1. **Subscribe to a VPN** — Surfshark offers the best price-to-reliability combination. Download the app for your device (Windows, macOS, iOS, Android, Fire TV, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)).
 2. **Select a US server** — choose a city on the East or West Coast nearest to your current location to minimize latency.
 3. **Connect before opening Sling TV** — let the VPN fully establish the connection, then launch the Sling TV app or browser tab.
 4. **Log in with your existing account credentials.** The platform should load normally.

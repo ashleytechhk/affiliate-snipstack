@@ -100,7 +100,7 @@ SimpleLogin started as an open-source project and was acquired by Proton in 2022
 
 **Free tier with real functionality.** Ten active aliases on the free plan is enough to run category-level spam protection (one alias for shopping, one for newsletters, one for trials). You can test the strategy before committing to a paid plan.
 
-**Browser extension.** The Chrome and Firefox extension lets you generate and fill in an alias directly at the signup form — no switching apps or tabs. For high-volume signups, this saves meaningful friction.
+**[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).** The Chrome and Firefox extension lets you generate and fill in an alias directly at the signup form — no switching apps or tabs. For high-volume signups, this saves meaningful friction.
 
 ### Where it falls short
 

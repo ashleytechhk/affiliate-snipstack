@@ -155,7 +155,7 @@ For most home users, yes. [Surfshark Antivirus](https://snipstack.io/surfshark-o
 
 ### Can I use one Surfshark One subscription on multiple devices?
 
-Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) covers unlimited simultaneous device connections under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). The VPN and Alert features work across Windows, macOS, iOS, Android, Linux, and browser extensions. The antivirus component covers Windows and macOS. One subscription, every device in your household.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) covers unlimited simultaneous device connections under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). The VPN and Alert features work across Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. The antivirus component covers Windows and macOS. One subscription, every device in your household.
 
 ---
 

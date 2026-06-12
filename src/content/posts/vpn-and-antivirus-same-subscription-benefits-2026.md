@@ -139,7 +139,7 @@ For home use, yes. Surfshark's real-time engine covers malware, ransomware, and 
 Yes. They are integrated products within the same app. The VPN and antivirus run alongside each other without conflict, unlike running two competing third-party security tools.
 
 **[Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include ad blocking?**
-Yes. CleanWeb is built into the VPN layer and blocks ads and trackers at the DNS level. It is not a browser extension — it works across all apps on the device when the VPN is active.
+Yes. CleanWeb is built into the VPN layer and blocks ads and trackers at the DNS level. It is not a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) — it works across all apps on the device when the VPN is active.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my protection if the VPN disconnects?**
 The antivirus component runs independently of the VPN. Malware protection, real-time scanning, and breach alerts continue regardless of VPN status. If you want to enforce VPN connectivity, the Kill Switch feature cuts internet access if the VPN drops — your choice.

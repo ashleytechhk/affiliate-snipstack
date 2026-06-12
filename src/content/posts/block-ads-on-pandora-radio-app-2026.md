@@ -36,7 +36,7 @@ Pandora serves ads in three forms on its free mobile tier:
 
 **3. Video ads (reward-based)** — Pandora offers the option to watch a short video in exchange for ad-free listening for a set period. These load via third-party video ad networks and are separate requests from the music stream.
 
-Browser extensions can block the display and video ad layers — but they don't apply to the Pandora mobile app, and they have no access to the audio ad stream regardless. This is the core challenge for mobile users.
+[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s can block the display and video ad layers — but they don't apply to the Pandora mobile app, and they have no access to the audio ad stream regardless. This is the core challenge for mobile users.
 
 ---
 

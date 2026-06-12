@@ -108,7 +108,7 @@ Most people do not need enterprise-grade features. They need something that inst
 
 **Independently audited no-logs policy.** Surfshark's no-logs claim has been verified by Deloitte. The audit confirmed that no connection timestamps, IP addresses, or browsing activity are stored. This addresses the biggest structural concern with VPN website browsing — whether the provider itself can see what you do.
 
-**CleanWeb DNS-level blocking.** Surfshark's CleanWeb feature blocks known ad-serving and tracker domains at the DNS level, before they load. This is not the same as a browser extension — it works across every app on your device, not just your browser.
+**CleanWeb DNS-level blocking.** Surfshark's CleanWeb feature blocks known ad-serving and tracker domains at the DNS level, before they load. This is not the same as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) — it works across every app on your device, not just your browser.
 
 **WireGuard protocol as default.** WireGuard is the current standard for low-overhead VPN encryption. It adds less latency than older protocols, which matters for everyday browsing where speed is noticeable.
 

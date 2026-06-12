@@ -69,7 +69,7 @@ The limitation is ecosystem lock-in: it works seamlessly on iPhone and Mac, less
 
 ### DuckDuckGo Email Protection
 
-DuckDuckGo's `@duck.com` service is genuinely free with no subscription required. The browser extension generates unique aliases on any sign-up form — there's no copy-paste step. It also strips email trackers from forwarded messages, which is a useful bonus.
+DuckDuckGo's `@duck.com` service is genuinely free with no subscription required. The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) generates unique aliases on any sign-up form — there's no copy-paste step. It also strips email trackers from forwarded messages, which is a useful bonus.
 
 The `@duck.com` domain is increasingly recognizable as a privacy tool, which means some conference platforms may flag or reject it. If domain appearance matters to you, this is a weakness.
 

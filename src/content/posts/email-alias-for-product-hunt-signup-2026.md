@@ -65,7 +65,7 @@ An alias lets you participate fully — upvote, comment, follow makers, receive 
 
 **How it works for Product Hunt:**
 
-1. Open the Surfshark app or browser extension and navigate to the Alt-ID section.
+1. Open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and navigate to the Alt-ID section.
 2. Generate a new alias. You get a randomized address like `meadow.frost4892@altid-domain` — it looks completely real to Product Hunt's sign-up form.
 3. Use that alias when creating your Product Hunt account. Label it "Product Hunt" in the Alt-ID dashboard so you know exactly what it is for.
 4. Product Hunt sends its verification email to the alias. Alt-ID forwards it to your real inbox. You verify, log in, start browsing.

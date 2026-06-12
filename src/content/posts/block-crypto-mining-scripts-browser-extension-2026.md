@@ -205,4 +205,4 @@ There have been experiments with "consensual" browser mining — sites that ask 
 
 Cryptojacking is a background threat — you often do not know it is happening until you notice the warmth in your pocket or wonder why your battery is at 40% before noon. The solution is not complicated: uBlock Origin on Firefox for Android covers the browser side comprehensively and for free, Brave handles it on iOS with no setup, and CleanWeb at the network level catches mining domain requests that any individual browser might miss.
 
-**[Add system-wide mining domain protection to your phone](/blog/adblock?sub=block-crypto-mining-scripts-browser-extension-2026__cta)** — CleanWeb pairs with your browser extension to cover the gaps no extension can reach alone.
+**[Add system-wide mining domain protection to your phone](/blog/adblock?sub=block-crypto-mining-scripts-browser-extension-2026__cta)** — CleanWeb pairs with your [browser extension to](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) cover the gaps no extension can reach alone.

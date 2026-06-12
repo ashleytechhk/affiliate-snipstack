@@ -70,7 +70,7 @@ SimpleLogin is an open-source alias service with a free tier. It works for X sig
 
 ## [How to Use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) Alt ID for Your X Signup
 
-**Step 1.** Set up Surfshark and access Alt ID through the Surfshark browser extension or dashboard. [Start here if you don't have it yet.](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid)
+**Step 1.** Set up Surfshark and access Alt ID through the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) or dashboard. [Start here if you don't have it yet.](/blog/altid?sub=email-alias-for-twitter-x-signup-2026__mid)
 
 **Step 2.** Generate a new identity in the Alt ID panel. You'll get a masked [email alias](https://snipstack.io/email-alias-generator-2026/) (e.g., `kx7m2p@surfshark.id`) plus alternative name and profile details.
 

@@ -52,7 +52,7 @@ Before you start, you need:
 - The Surfshark app installed on desktop or mobile, or access to the Surfshark web dashboard
 - About five minutes
 
-You do not need technical knowledge, a running VPN connection, or any special browser extensions beyond what Surfshark already provides.
+You do not need technical knowledge, a running VPN connection, or any special [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s beyond what Surfshark already provides.
 
 ---
 

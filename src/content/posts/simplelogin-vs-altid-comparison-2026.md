@@ -39,7 +39,7 @@ If you're drowning in spam and want the fastest path to a clean inbox, go with A
 | **Two-way reply via alias** | Yes | Yes |
 | **Instant alias deletion** | Yes | Yes |
 | **Mobile app** | iOS + Android | Via Surfshark app |
-| **Browser extension** | Yes (Chrome, Firefox) | Via Surfshark extension |
+| **[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)** | Yes (Chrome, Firefox) | Via Surfshark extension |
 | **Bundled VPN** | No | Yes (Surfshark) |
 | **Data removal tool** | No | Yes (Surfshark) |
 | **Setup time** | ~5 minutes | ~3 minutes |

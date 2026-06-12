@@ -155,7 +155,7 @@ At $2.19/month on a two-year Surfshark plan, a VPN is a small addition to protec
 
 Getting Fubo working through a VPN takes under five minutes:
 
-1. **Sign up for a VPN** — Surfshark is the recommended starting point for value and reliability. Download the app for your device (available on Windows, macOS, iOS, Android, and as a browser extension).
+1. **Sign up for a VPN** — Surfshark is the recommended starting point for value and reliability. Download the app for your device (available on Windows, macOS, iOS, Android, and as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)).
 2. **Open the VPN app** and select a US server. Choose a city on the coast closest to your current location — this minimizes latency and keeps your stream stable.
 3. **Connect before opening Fubo TV** — let the VPN establish its connection fully before launching the app or browser tab.
 4. **Open Fubo TV** and log in with your regular account credentials. The platform should load and play normally.

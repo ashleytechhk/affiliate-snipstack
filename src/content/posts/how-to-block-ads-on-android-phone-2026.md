@@ -24,7 +24,7 @@ The good news: you don't need to root your phone or install sketchy APKs to fix 
 
 ## Why Ad Blocking on Android Is Different From Desktop
 
-On a laptop you install [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) and forget about it. On Android, browser extensions barely exist — the standard Chrome for Android doesn't support them at all. That means the "install an extension" path most desktop users know is simply not available.
+On a laptop you install [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) and forget about it. On Android, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s barely exist — the standard Chrome for Android doesn't support them at all. That means the "install an extension" path most desktop users know is simply not available.
 
 Instead, Android ads arrive from three distinct places:
 

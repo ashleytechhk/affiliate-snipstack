@@ -30,7 +30,7 @@ Alt-ID generates disposable [email alias](https://snipstack.io/email-alias-gmail
 - The Surfshark app installed on your device (iOS, Android, Windows, or macOS)
 - Your main email address you want to protect
 
-That is the full list. You do not need a separate email provider, a browser extension, or any technical setup beyond the Surfshark app.
+That is the full list. You do not need a separate email provider, a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), or any technical setup beyond the Surfshark app.
 
 ---
 

@@ -99,7 +99,7 @@ Getting protected does not require changing your email provider or learning new 
 
 **Step 1.** Get a Surfshark subscription. Alt-ID is available on all plans.
 
-**Step 2.** Open the Surfshark app or browser extension and navigate to **Alt-ID** in the sidebar.
+**Step 2.** Open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and navigate to **Alt-ID** in the sidebar.
 
 **Step 3.** Click **Generate new Alt-ID**. You get a randomized alias address and, optionally, an alternative name and profile to go with it.
 

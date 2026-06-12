@@ -65,7 +65,7 @@ School-issued and home laptops used for homework are increasingly targeted by ra
 
 Every device comes with some level of default security. It is not enough.
 
-Windows 11's [Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) is a solid baseline for adults who browse carefully and stick to known software. For children, who will click on things an adult would hesitate over, it misses too much. It does not scan files downloaded through browser extensions, does not protect against threats arriving via gaming clients like Steam or Discord, and does not warn before a dangerous link loads in a messaging app.
+Windows 11's [Microsoft Defender](https://snipstack.io/microsoft-defender-antivirus-for-windows-11-2026/) is a solid baseline for adults who browse carefully and stick to known software. For children, who will click on things an adult would hesitate over, it misses too much. It does not scan files downloaded through [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, does not protect against threats arriving via gaming clients like Steam or Discord, and does not warn before a dangerous link loads in a messaging app.
 
 iOS and iPadOS are commonly described as "safe," and Apple's closed ecosystem does reduce risk meaningfully. But it does not eliminate it. Phishing attacks, malicious Wi-Fi networks, and harmful web content are all platform-agnostic. An iPhone is not immune; it is just a different attack surface.
 

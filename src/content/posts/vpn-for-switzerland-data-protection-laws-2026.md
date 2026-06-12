@@ -127,7 +127,7 @@ Getting started takes under ten minutes:
 
 **Step 1 — Sign up for Surfshark.** Choose a plan — the two-year option gives the best per-month value and the longest period of subscription savings.
 
-**Step 2 — Download the app.** Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and browser extensions. Install on the devices you use most.
+**Step 2 — Download the app.** Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Install on the devices you use most.
 
 **Step 3 — Connect to your chosen server.** For Swiss privacy browsing, select a Switzerland server. For streaming savings, connect to the region with the pricing you want to access.
 

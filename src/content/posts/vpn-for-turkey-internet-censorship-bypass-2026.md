@@ -107,7 +107,7 @@ The process is straightforward regardless of which use case applies to you.
 Not every VPN can handle Turkey's DPI filtering. Many generic VPNs are immediately detected and blocked. Surfshark's NoBorders and camouflage mode are specifically designed for this environment.
 
 **Step 2 — Download and install the app.**
-Surfshark has native apps for Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, and browser extensions for Chrome and Firefox. One subscription covers unlimited devices simultaneously.
+Surfshark has native apps for Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox. One subscription covers unlimited devices simultaneously.
 
 **Step 3 — Select your server based on your goal.**
 - If you are inside Turkey and want unrestricted internet access: connect to any server outside Turkey. A nearby country (Netherlands, Germany, UK) will generally offer better speeds.

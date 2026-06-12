@@ -44,7 +44,7 @@ Together, a temp email and password form a firewall between your digital identit
 Before you start, you need:
 
 1. **A Surfshark account** — Alt-ID is included with [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+ plans. [Start here.](/blog/surfshark?sub=temporary-email-and-password-2026__mid)
-2. **The Surfshark browser extension or app** — available for Chrome, Firefox, Edge, iOS, and Android.
+2. **The Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) or app** — available for Chrome, Firefox, Edge, iOS, and Android.
 3. **A real email address** — this is your forwarding destination. Alt-ID never exposes it.
 
 That is it. No technical knowledge required. No command line. No configuration files.

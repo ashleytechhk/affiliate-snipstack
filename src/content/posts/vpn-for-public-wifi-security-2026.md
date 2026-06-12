@@ -143,7 +143,7 @@ For public wifi security specifically, all three perform the core function of en
 Getting protected on public networks takes under five minutes:
 
 1. **Subscribe to Surfshark** and create your account.
-2. **Download the app** for your device — available on iOS, Android, Windows, macOS, Linux, and browser extensions.
+2. **Download the app** for your device — available on iOS, Android, Windows, macOS, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 3. **Open the app and connect to a server.** For security on public wifi, any server works — pick the nearest one for fastest speeds.
 4. **Connect to the public wifi network** as normal. Surfshark encrypts everything from this point forward.
 5. **Enable the kill switch** in settings if it is not already on — this ensures no unprotected traffic leaks if the VPN drops.

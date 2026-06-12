@@ -192,7 +192,7 @@ Yes, as long as you buy directly from the company's official website or a truste
 
 ### Do I need antivirus on a tablet or iPad as well?
 
-Android tablets face similar risks to Windows computers — malware, [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, and scam apps. iPads (which run Apple's operating system) have a more restricted environment, similar to iPhones, so the biggest risk there is phishing links and scam websites rather than traditional viruses. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) covers Android tablets. For iPad, the phishing-link protection still works through the associated browser extension.
+Android tablets face similar risks to Windows computers — malware, [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, and scam apps. iPads (which run Apple's operating system) have a more restricted environment, similar to iPhones, so the biggest risk there is phishing links and scam websites rather than traditional viruses. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) covers Android tablets. For iPad, the phishing-link protection still works through the associated [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if the antivirus finds something on my computer?
 

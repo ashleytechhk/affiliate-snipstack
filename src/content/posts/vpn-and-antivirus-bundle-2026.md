@@ -179,7 +179,7 @@ The case comes down to three factors:
 
 **2. Single account management.** One set of credentials, one billing cycle, one support team. When Norton's support queue was running 45-minute wait times during the 2025 holiday season, having fewer vendors meant fewer headaches.
 
-**3. No bloatware.** Norton and McAfee install browser extensions, password manager popups, and VPN upsell banners whether you want them or not. Surfshark installs what you enable, nothing more.
+**3. No bloatware.** Norton and McAfee install [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, password manager popups, and VPN upsell banners whether you want them or not. Surfshark installs what you enable, nothing more.
 
 **[Switch to Surfshark One today — bundle your VPN and antivirus →](/blog/one?sub=vpn-and-antivirus-bundle-2026__cta)**
 

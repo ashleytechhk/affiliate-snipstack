@@ -56,7 +56,7 @@ Alt ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefen
 | VPN bundled | No (separate Proton VPN product) | Yes — same subscription |
 | Data broker removal | No | Yes ([Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)+) |
 | Works outside Proton ecosystem | Partial — reply-from-alias works best with ProtonMail | Yes — any email provider |
-| Platform | iOS, Android, browser extension | iOS, Android, web dashboard |
+| Platform | iOS, Android, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | iOS, Android, web dashboard |
 
 ![Inline comparison chart: Proton Pass alias features vs Alt ID feature set](/og/proton-pass-email-alias-review-2026-inline-1.png)
 

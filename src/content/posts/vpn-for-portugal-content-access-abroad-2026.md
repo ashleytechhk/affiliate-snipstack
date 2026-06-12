@@ -66,7 +66,7 @@ Run the numbers: if you're saving €3–5/month per service, and you're using t
 
 Understanding the mechanics helps you set things up correctly and troubleshoot when something doesn't work.
 
-**Step 1: Install the VPN app.** Download Surfshark on your device. Apps are available for iOS, Android, Windows, macOS, Linux, Fire TV, Android TV, and browser extensions for Chrome and Firefox.
+**Step 1: Install the VPN app.** Download Surfshark on your device. Apps are available for iOS, Android, Windows, macOS, Linux, Fire TV, Android TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox.
 
 **Step 2: Connect to a Portuguese server.** Open the app and select Portugal as your location. Surfshark has servers in Lisbon specifically — closer geography generally means faster speeds.
 

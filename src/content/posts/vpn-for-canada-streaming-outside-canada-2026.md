@@ -107,7 +107,7 @@ There are plenty of [VPN providers](https://snipstack.io/vpn-providers-best-2026
 The full process takes under ten minutes:
 
 **Step 1 — Sign up for Surfshark.**
-A two-year plan offers the best per-month cost. Download the app for your device — Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and browser extensions.
+A two-year plan offers the best per-month cost. Download the app for your device — Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 
 **Step 2 — Open the app and select a Canadian server.**
 For keeping Canadian services working abroad, pick a server in Toronto or Vancouver. For lower latency to specific content delivery networks, Toronto tends to serve eastern Canadian content better; Vancouver covers western.

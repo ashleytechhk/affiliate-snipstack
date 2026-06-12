@@ -134,7 +134,7 @@ Surfshark hits every criterion on the list above, which is why it is the recomme
 
 ## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Surfshark for Mexico Streaming: Step by Step
 
-1. **Sign up for Surfshark** at the two-year plan rate. Download the app for your device (Windows, Mac, iOS, Android, Fire TV, or browser extension).
+1. **Sign up for Surfshark** at the two-year plan rate. Download the app for your device (Windows, Mac, iOS, Android, Fire TV, or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)).
 2. **Open the app** and navigate to the server list. Search for "Mexico" or use the Streaming-optimized filter if available.
 3. **Connect to a Mexico streaming server.** Wait for the connection to confirm — the app shows your new IP location.
 4. **Open your streaming service.** For new sign-ups, visit the platform's homepage — you should see MXN pricing. For existing accounts, log in normally; Mexico-region catalog will load.

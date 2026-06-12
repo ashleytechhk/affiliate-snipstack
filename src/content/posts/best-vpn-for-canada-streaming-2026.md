@@ -126,7 +126,7 @@ There are dozens of VPNs. Here is why Surfshark outperforms the field for the Ca
 This takes under ten minutes start to finish:
 
 **Step 1 — Sign up and download.**
-Get Surfshark on a two-year plan for the best per-month rate. Download the app for your device — Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and browser extensions.
+Get Surfshark on a two-year plan for the best per-month rate. Download the app for your device — Surfshark supports Windows, macOS, iOS, Android, Android TV, Amazon Fire TV, Apple TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 
 **Step 2 — Open the app and choose your server.**
 For unblocking Canadian services from abroad: search for Canada and select a server in Toronto or Vancouver. For subscription arbitrage to a lower-cost region: search for your target country and select a streaming-optimized server there.

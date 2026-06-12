@@ -72,7 +72,7 @@ The problems are structural, not just cosmetic.
 
 The VPN that comes with standard Norton 360 plans caps data usage. To get unlimited VPN, you need the Plus tier or higher — at meaningfully more cost. For a household where both partners travel or work from cafés, that limitation matters.
 
-The bloatware criticism is earned. Norton installs multiple background services, adds a browser extension, and pops up recommendations for additional products regularly. On older hardware, the performance impact is noticeable. On newer machines it is less severe, but the constant surface area for upsell prompts remains.
+The bloatware criticism is earned. Norton installs multiple background services, adds a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), and pops up recommendations for additional products regularly. On older hardware, the performance impact is noticeable. On newer machines it is less severe, but the constant surface area for upsell prompts remains.
 
 **Year-two pricing is the dealbreaker for many.** A plan that cost $50 in year one routinely renews at over $100 unless you manually cancel and re-subscribe at a new introductory rate. That is a chore that should not have to be a chore.
 

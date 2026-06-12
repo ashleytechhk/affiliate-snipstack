@@ -125,7 +125,7 @@ Free throwaway email is a tool for a five-minute problem. Newsletter spam is a m
 
 **Step 1.** Get Surfshark — Alt-ID is included with all plans. No separate subscription or add-on needed.
 
-**Step 2.** Open the Surfshark app or browser extension. Navigate to **Alt-ID** in the sidebar.
+**Step 2.** Open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). Navigate to **Alt-ID** in the sidebar.
 
 **Step 3.** Click **Generate new Alt-ID**. Surfshark creates a randomized alias and optional alternative name/profile.
 

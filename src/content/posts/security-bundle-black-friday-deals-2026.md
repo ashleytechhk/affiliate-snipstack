@@ -123,7 +123,7 @@ McAfee's bundled VPN routes through TunnelBear infrastructure — a legitimate V
 
 ## The Bloatware Problem: Why 2026 Is the Year to Leave
 
-Security software bloat is not new, but the 2026 versions of Norton and McAfee have not improved the situation. Both suites ship with components that are arguably separate products — browser extensions, password vaults, identity monitoring dashboards, PC optimization tools — bundled in as upsells dressed up as features.
+Security software bloat is not new, but the 2026 versions of Norton and McAfee have not improved the situation. Both suites ship with components that are arguably separate products — [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, password vaults, identity monitoring dashboards, PC optimization tools — bundled in as upsells dressed up as features.
 
 ![Norton 360 vs Surfshark One interface — side by side comparison](/og/security-bundle-black-friday-deals-2026-inline-2.png)
 

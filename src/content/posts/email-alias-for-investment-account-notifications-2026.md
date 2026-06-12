@@ -109,7 +109,7 @@ Where it falls short relative to Alt-ID: it is a standalone tool requiring a sep
 
 ### Firefox Relay
 
-Firefox Relay gives five free aliases, then charges $1.99/month for unlimited. It works across browsers (not just Firefox) and integrates with the Firefox browser extension for quick alias insertion.
+Firefox Relay gives five free aliases, then charges $1.99/month for unlimited. It works across browsers (not just Firefox) and integrates with the Firefox [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for quick alias insertion.
 
 The five-alias free limit is a real constraint for investors managing accounts on multiple platforms — five platforms fills the quota immediately. The paid tier at $1.99/month is affordable and unlocks what you need, but at that price SimpleLogin and Alt-ID both offer more.
 

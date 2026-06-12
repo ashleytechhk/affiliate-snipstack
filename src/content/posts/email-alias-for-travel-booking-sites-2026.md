@@ -60,7 +60,7 @@ An [email alias](https://snipstack.io/email-alias-example-2026/) cuts this chain
 
 ### Surfshark Alt-ID
 
-Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email feature, bundled with every Surfshark subscription. You generate an alias in the Surfshark browser extension, use it when you register on a travel site, and all mail forwards to your real inbox automatically.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s masked email feature, bundled with every Surfshark subscription. You generate an alias in the Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), use it when you register on a travel site, and all mail forwards to your real inbox automatically.
 
 **Why it works for travel booking:**
 

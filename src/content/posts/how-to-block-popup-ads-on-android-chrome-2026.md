@@ -124,7 +124,7 @@ If you primarily want to address popup ads inside Chrome specifically and do not
 
 **Brave Browser** ships with its own native [ad blocker](https://snipstack.io/best-free-ad-blocker-for-chrome-2026/) enabled by default. It is built on the same Chromium engine as Chrome, so most sites behave identically. Brave's Shields system blocks popup ads, trackers, and fingerprinting scripts. It is free and available on Google Play.
 
-**Firefox for Android** supports proper browser extensions on mobile — including [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/), which remains the gold standard for filter-list-based blocking on desktop and works equally well on Android Firefox.
+**Firefox for Android** supports proper [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s on mobile — including [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/), which remains the gold standard for filter-list-based blocking on desktop and works equally well on Android Firefox.
 
 **The trade-off:** Both alternatives give you strong in-browser blocking, but neither covers other apps on your device. Popup-style ads in news apps, games, and social media clients remain unfiltered. For whole-device coverage, a DNS-level solution is still the more complete approach.
 

@@ -36,7 +36,7 @@ Yahoo homepage ads are paid placements served by Yahoo's advertising network —
 
 **Tracking pixels and scripts** — invisible requests from third-party analytics and ad attribution vendors that run in the background on every page load, even when no visible ad appears.
 
-Understanding the type matters because different blocking methods handle different formats. A browser extension blocks banners and trackers. It cannot block the Yahoo app's ad placements. A DNS-level filter catches requests from both — but works differently depending on whether the ad is served from a blockable external hostname.
+Understanding the type matters because different blocking methods handle different formats. A [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) blocks banners and trackers. It cannot block the Yahoo app's ad placements. A DNS-level filter catches requests from both — but works differently depending on whether the ad is served from a blockable external hostname.
 
 ---
 

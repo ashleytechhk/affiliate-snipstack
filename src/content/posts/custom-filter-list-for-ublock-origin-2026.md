@@ -48,7 +48,7 @@ At the same time, the mobile ad ecosystem has fragmented. Many apps serve ads th
 
 ### The Browser Requirement
 
-uBlock Origin is a browser extension. On mobile, it runs exclusively inside **Firefox for Android** (and Firefox-based browsers like Fennec). It does not work in Chrome, Safari, Edge, or any other mobile browser, and it has no effect inside apps.
+uBlock Origin is a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). On mobile, it runs exclusively inside **Firefox for Android** (and Firefox-based browsers like Fennec). It does not work in Chrome, Safari, Edge, or any other mobile browser, and it has no effect inside apps.
 
 If you primarily use Chrome on Android or Safari on iOS, uBlock Origin is not available to you regardless of filter lists.
 

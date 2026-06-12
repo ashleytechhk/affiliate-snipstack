@@ -71,7 +71,7 @@ In Alt ID:
 
 For Apple Hide My Email, Safari surfaces the option automatically when you focus an email field on a registration form — tap "Use Hide My Email" in the autofill suggestions.
 
-For DuckDuckGo Email Protection, the browser extension generates a unique duck address per site when you click the Email Protection icon in a form field.
+For DuckDuckGo Email Protection, the [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) generates a unique duck address per site when you click the Email Protection icon in a form field.
 
 ### Step 2 — Register With the Alias, Not Your Real Email
 

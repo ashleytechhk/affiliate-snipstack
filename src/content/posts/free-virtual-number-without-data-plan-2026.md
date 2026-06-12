@@ -151,7 +151,7 @@ When you delete a [virtual number](https://snipstack.io/virtual-number-for-whats
 If you use dating apps regularly and currently share your real number, yes. The cost is a fraction of what a [second phone](https://snipstack.io/second-phone-number-app-free-2026/) plan would cost, it requires no hardware, and it eliminates the most common entry point for post-date harassment and stalking. The peace of mind it provides is worth more than the monthly fee for most active daters.
 
 **Can I use a [virtual number to](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) sign up for dating apps?**
-Yes. Most dating apps accept virtual numbers for SMS verification. This means you can register the app itself with your virtual number, keeping your real number entirely out of the picture from the very first step.
+Yes. Most dating apps accept [virtual number](https://snipstack.io/virtual-number-for-instagram-signup-2026/)s for SMS verification. This means you can register the app itself with your virtual number, keeping your real number entirely out of the picture from the very first step.
 
 ---
 

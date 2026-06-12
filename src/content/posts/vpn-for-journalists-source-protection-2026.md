@@ -144,7 +144,7 @@ This layer is the hardest to automate and the most often overlooked. A VPN canno
 Getting Surfshark configured correctly takes about ten minutes:
 
 1. **Subscribe and create your account.** Use a dedicated email address — not your work address linked to your byline.
-2. **Install the app** on every device you use for journalism work — iOS, Android, Windows, macOS, and browser extensions are all available.
+2. **Install the app** on every device you use for journalism work — iOS, Android, Windows, macOS, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s are all available.
 3. **Enable the kill switch.** In the app settings, turn on the kill switch before doing any sensitive work. This ensures no traffic escapes if the connection drops.
 4. **Enable NoBorders mode** if you are working in or traveling to a restricted-network environment. This setting is in VPN settings and activates obfuscation automatically.
 5. **Verify DNS leak protection is active.** You can use a DNS leak test site to confirm your DNS queries are resolving through the VPN server, not your ISP.

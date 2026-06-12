@@ -162,7 +162,7 @@ The caveat worth stating honestly: this calculation depends on what you watch. E
 
 The setup takes under five minutes:
 
-1. **Sign up for a VPN** — Surfshark is the recommended option for price and reliability. Download the app for your device (available on Windows, macOS, iOS, Android, and browser extensions).
+1. **Sign up for a VPN** — Surfshark is the recommended option for price and reliability. Download the app for your device (available on Windows, macOS, iOS, Android, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s).
 2. **Open the VPN app** and select a US server. East or West Coast depending on which is geographically closer to you — this reduces latency and buffering on live streams.
 3. **Connect before opening ESPN+** — let the VPN fully establish the connection before launching the app or browser.
 4. **Open ESPN+** and log in with your regular account credentials. Content should load normally.

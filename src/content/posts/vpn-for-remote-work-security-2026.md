@@ -169,7 +169,7 @@ All three provide competent encryption for remote work security. Surfshark's adv
 Getting started takes under five minutes:
 
 1. **Subscribe to Surfshark** using the link below and create your account.
-2. **Download the app** for your platform — Windows, macOS, Linux, iOS, Android, and browser extensions are all available.
+2. **Download the app** for your platform — Windows, macOS, Linux, iOS, Android, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s are all available.
 3. **Open the app and connect to a server.** For work security on any given network, the nearest server gives the fastest speeds with full encryption.
 4. **Enable the kill switch** in settings to prevent any traffic leaks during brief disconnections.
 5. **For streaming savings,** connect to a server in your target region — Turkey, India, or Argentina are the most popular — before opening the streaming platform in a private browsing window. Avoid cached location data interfering by clearing cookies on first use.

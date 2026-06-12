@@ -61,7 +61,7 @@ Here is a side-by-side look at the main contenders. Price comparison users have 
 | Works on any device | Yes | Yes | Apple ecosystem only | Any |
 | Included in bundle | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Standalone | Apple iCloud+ | Free standalone |
 | Pricing (2026) | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) | Free / ~$4/month Pro | Free with iCloud+ ($1+/month) | Free |
-| Browser extension | Yes | Yes | Safari only | Yes |
+| [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Yes | Safari only | Yes |
 
 **Winner for price comparison site users: Surfshark Alt-ID**, because it combines alias creation, identity masking, and a cross-platform browser extension into one tool — and you probably already need a VPN for the private browsing side of price shopping anyway.
 

@@ -147,7 +147,7 @@ For ecommerce sellers specifically, the unlimited devices and CleanWeb features 
 Getting protected takes under five minutes:
 
 1. **Subscribe to Surfshark** via the link below and create your account.
-2. **Download the app** for your device — available on Windows, macOS, iOS, Android, Linux, and as browser extensions.
+2. **Download the app** for your device — available on Windows, macOS, iOS, Android, Linux, and as [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 3. **Enable the kill switch** in the app settings before you connect — this ensures no unprotected traffic leaks during reconnection.
 4. **Turn on CleanWeb** in settings to activate ad and tracker blocking across all apps.
 5. **Connect to a server.** For business security, pick the nearest server to minimize speed impact. For streaming savings, connect to Turkey, India, or Argentina before opening the streaming platform.

@@ -106,7 +106,7 @@ Getting started takes less than ten minutes:
 Visit Surfshark through the educator-friendly link below and choose a subscription plan. The two-year plan offers the lowest monthly rate.
 
 **Step 2 — Download the app**
-Surfshark has native apps for Windows, macOS, iOS, Android, and Linux. No manual configuration required. For Chrome or Firefox, there is also a browser extension if you only need VPN for web browsing.
+Surfshark has native apps for Windows, macOS, iOS, Android, and Linux. No manual configuration required. For Chrome or Firefox, there is also a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) if you only need VPN for web browsing.
 
 **Step 3 — Connect**
 Open the app, pick a server location, and tap Connect. For school resource access, choose a server in your country. For geo-restricted content, choose a server in the relevant country. For subscription pricing, choose the server that corresponds to the lower-priced region.

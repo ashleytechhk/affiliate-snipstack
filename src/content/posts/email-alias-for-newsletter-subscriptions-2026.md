@@ -88,7 +88,7 @@ Hide My Email is also tightly tied to iCloud+. If you ever cancel iCloud+, your 
 
 ## Tool 3: DuckDuckGo Email Protection
 
-DuckDuckGo's Email Protection is a genuinely strong free option. You get a personal `@duck.com` address plus the ability to generate unique per-site forwarding addresses through the DuckDuckGo browser extension. All incoming mail is stripped of trackers before forwarding to your real inbox — a useful bonus for newsletters that embed pixel trackers in their HTML.
+DuckDuckGo's Email Protection is a genuinely strong free option. You get a personal `@duck.com` address plus the ability to generate unique per-site forwarding addresses through the DuckDuckGo [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). All incoming mail is stripped of trackers before forwarding to your real inbox — a useful bonus for newsletters that embed pixel trackers in their HTML.
 
 **Why it works:** Free, no subscription, cross-platform via browser extension, tracker stripping is a genuine extra layer of privacy.
 

@@ -78,7 +78,7 @@ No technical knowledge required. Here is the full process:
 MUBI's most interesting regional catalogues sit in Europe, North America, and parts of Asia. You want a VPN with servers in France, the UK, Germany, Italy, Japan, the US, and South Korea at minimum. Surfshark covers all of these and more than 100 additional countries.
 
 **Step 2 — Install the app on your device.**
-Surfshark runs on Windows, macOS, iOS, Android, smart TVs, and browser extensions. One subscription covers every device you own — phone, laptop, tablet, and TV — simultaneously.
+Surfshark runs on Windows, macOS, iOS, Android, smart TVs, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. One subscription covers every device you own — phone, laptop, tablet, and TV — simultaneously.
 
 **Step 3 — Connect to your target country's server.**
 Open the app, select the country whose MUBI library you want to access, and connect. This takes a few seconds.

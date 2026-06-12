@@ -48,7 +48,7 @@ Any suite calling itself all-in-one security for a work from home setup needs to
 |---|---|---|---|
 | **VPN included** | Yes — full, 100+ countries | Yes — limited, 5 devices | Yes — unlimited devices |
 | **Antivirus** | Real-time, lightweight | Real-time, heavy footprint | Real-time, moderate footprint |
-| **Ad / tracker blocking** | CleanWeb — VPN-level | Browser extension only | Browser extension only |
+| **Ad / tracker blocking** | CleanWeb — VPN-level | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) only | Browser extension only |
 | **Data breach monitoring** | Surfshark Alert — email, ID, card | LifeLock add-on (extra cost) | Identity monitoring included |
 | **Private search** | Surfshark Search (no tracking) | No | No |
 | **Password manager** | Not included | Included | Included |

@@ -38,7 +38,7 @@ A proper alias tool gives you a completely different address — something like 
 
 - A Gmail account (free or Workspace)
 - A [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) subscription (Alt-ID is included)
-- The Surfshark browser extension **or** the Alt-ID web dashboard — no app install required on desktop
+- The Surfshark [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) **or** the Alt-ID web dashboard — no app install required on desktop
 
 That's it. You don't need to change your DNS records, verify domain ownership, or configure SMTP. This is not a developer tutorial.
 

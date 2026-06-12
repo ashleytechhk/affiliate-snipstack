@@ -40,7 +40,7 @@ The trade-off is that CleanWeb is a VPN feature, not a standalone free tool. If 
 
 ## 2. [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) (Firefox for Android)
 
-**The gold standard browser extension — and it runs on Firefox Android.**
+**The gold standard [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) — and it runs on Firefox Android.**
 
 [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/) is consistently rated the most effective browser-based [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/) available. On desktop it is ubiquitous, but the reason it matters for mobile is that Firefox for Android supports the full extension ecosystem, including uBlock Origin's latest versions. No other major mobile browser offers this.
 

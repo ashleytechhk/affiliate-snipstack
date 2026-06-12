@@ -209,7 +209,7 @@ Potentially, yes — and this is why aggressive DNS blocklists targeting Amazon 
 
 Yes. Because Surfshark has a native Fire TV app available in the Amazon Appstore, CleanWeb runs directly on the Cube itself — you don't need a VPN-capable router. Install the Surfshark app, enable CleanWeb in settings, connect to a server, and the DNS filtering is active for every app on that device.
 
-**Can I use [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) or a browser extension to block Fire TV Cube ads?**
+**Can I use [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) or a [browser extension to](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) block Fire TV Cube ads?**
 
 No. Browser extensions work inside desktop browser tabs and have no visibility into Fire TV's native app environment. The Fire TV Cube runs apps as native Android applications — none of them load inside a browser environment where extensions could intercept their requests.
 

@@ -81,7 +81,7 @@ Surfshark Alt ID is part of [Surfshark One](https://snipstack.io/surfshark-one-v
 - The generated alias email actually receives mail and forwards cleanly
 - You can create multiple aliases for different platforms
 - Disabling a spammy alias takes one tap — the platform loses access immediately
-- Works across Windows, macOS, Android, iOS, and browser extensions
+- Works across Windows, macOS, Android, iOS, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s
 
 **What to keep in mind:**
 

@@ -109,7 +109,7 @@ For subscription arbitrage users who want obfuscation-ready VPN access at the lo
 Once you have chosen a provider, the workflow is straightforward.
 
 **Step 1: Download and install the [VPN app on](https://snipstack.io/vpn-app-on-android-2026/) your device.**
-Surfshark supports Windows, macOS, iOS, Android, Linux, and browser extensions. Install on whichever device you will use for the initial account setup.
+Surfshark supports Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Install on whichever device you will use for the initial account setup.
 
 **Step 2: Connect to a server in your target low-cost region.**
 India, Turkey, and Argentina are the three highest-value markets for most streaming services. Pick one based on the specific service you want to arbitrage.

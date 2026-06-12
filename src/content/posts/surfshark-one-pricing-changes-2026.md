@@ -62,7 +62,7 @@ Here is a direct comparison of what you get at each provider's mid-tier plan in 
 | Dark web monitoring | Yes (Alert) | Yes | Yes |
 | Device limit | Unlimited | 5 devices | 5 devices |
 | Private search | Yes | No | No |
-| Bloatware/toolbars | None | Browser extensions pushed on install | McAfee WebAdvisor installed by default |
+| Bloatware/toolbars | None | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s pushed on install | McAfee WebAdvisor installed by default |
 | Data broker removal | One+ tier only | Norton LifeLock (premium add-on) | Not included |
 | Renewal price shock | Low (narrowed gap) | High (significant renewal increase) | High (significant renewal increase) |
 | Single unified app | Yes | Separate Norton apps | Separate McAfee apps |

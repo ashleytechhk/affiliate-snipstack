@@ -160,7 +160,7 @@ The honest caveat: the savings depend on what content you're after and where you
 
 Getting Stan working with a VPN overseas takes under five minutes:
 
-1. **Sign up for a VPN** — Surfshark offers the best combination of Australian server reliability and price. Download the app for your platform (Windows, macOS, iOS, Android, browser extensions, and smart TV apps are all available).
+1. **Sign up for a VPN** — Surfshark offers the best combination of Australian server reliability and price. Download the app for your platform (Windows, macOS, iOS, Android, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, and smart TV apps are all available).
 2. **Open the VPN app** and select an Australian server. Sydney is a good default; if that server is temporarily flagged, try Melbourne or Brisbane.
 3. **Connect before opening Stan** — let the VPN establish the tunnel fully before launching the app or loading the Stan website.
 4. **Open Stan and log in** — use your regular Stan account credentials. The platform should load as normal.

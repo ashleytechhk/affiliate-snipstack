@@ -170,7 +170,7 @@ No. [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-20
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) available on all devices?
 
-Surfshark VPN runs on Windows, macOS, iOS, Android, Linux, and browser extensions. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is currently available on Windows and Android. Surfshark Alert is managed through the web dashboard and Surfshark app. One subscription covers unlimited devices simultaneously.
+Surfshark VPN runs on Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is currently available on Windows and Android. Surfshark Alert is managed through the web dashboard and Surfshark app. One subscription covers unlimited devices simultaneously.
 
 ### How does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) compare to Norton 360?
 

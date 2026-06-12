@@ -67,7 +67,7 @@ An alias address means the streaming service has a forwarding target, not your r
 
 ### Alt-ID — Best Overall for Streaming Trials
 
-Alt-ID is [Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in [email alias](https://snipstack.io/email-alias-generator-2026/) tool. It generates a forwarding address — something like `birchwood.frost47@[altid-domain]` — that routes incoming mail to your real inbox. You manage all aliases from the Surfshark dashboard or browser extension.
+Alt-ID is [Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s built-in [email alias](https://snipstack.io/email-alias-generator-2026/) tool. It generates a forwarding address — something like `birchwood.frost47@[altid-domain]` — that routes incoming mail to your real inbox. You manage all aliases from the Surfshark dashboard or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 
 **What makes it work for streaming trials:**
 

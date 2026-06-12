@@ -12,7 +12,7 @@ Chrome's Manifest V3 extension framework, which Google began enforcing across al
 
 If you search "uBlock Origin not working," you are joining millions of Chrome users who discovered the same thing. The extension that defined browser ad blocking for a decade has been quietly neutered, and Google has no interest in reversing that decision.
 
-The good news: better alternatives exist. Some are browser extensions built for Manifest V3 from the ground up. One skips the browser entirely.
+The good news: better alternatives exist. Some are [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s built for Manifest V3 from the ground up. One skips the browser entirely.
 
 ---
 

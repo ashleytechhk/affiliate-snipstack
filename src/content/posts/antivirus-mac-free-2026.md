@@ -155,7 +155,7 @@ Each option was evaluated on five criteria that matter most for seniors:
 | Avast Free | Moderate | Yes | Concerns | Users who want free real-time coverage and accept the privacy trade-off |
 | AVG Free | Moderate | Yes | Concerns | Same as Avast — same company |
 | Bitdefender Virus Scanner | Easy | No | Good | On-demand scans, trusted brand |
-| Avira Free | Busy | Partial | Good | Users who want a browser extension bundled |
+| Avira Free | Busy | Partial | Good | Users who want a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) bundled |
 
 ---
 

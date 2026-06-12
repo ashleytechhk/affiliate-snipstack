@@ -52,7 +52,7 @@ If you exclusively use Firefox on Android, this is a free option worth trying. B
 
 DNS blockers intercept ad-serving domain requests at the network level. Apps like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) or NextDNS run as a local VPN profile on your device, routing DNS queries through a filter list that blocks known ad domains.
 
-This approach is more effective than browser extensions because it covers all apps and browsers. The downside: it requires setting up a custom DNS configuration or installing a dedicated app, and the filter lists need regular updates to stay effective against new Google ad domains.
+This approach is more effective than [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s because it covers all apps and browsers. The downside: it requires setting up a custom DNS configuration or installing a dedicated app, and the filter lists need regular updates to stay effective against new Google ad domains.
 
 ### 3. VPN-Integrated Ad Blocking (Easiest Setup, Best Coverage)
 
