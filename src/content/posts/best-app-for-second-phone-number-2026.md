@@ -80,7 +80,7 @@ Alt-Number [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrad
 
 **Surfshark account, not Google.** Your Alt-Number is tied to your Surfshark account, not your Google identity. There is no public account to trace it back to.
 
-**One device, one subscription.** No second phone. No second SIM card. The number lives inside the Surfshark app on your existing phone, alongside your real number.
+**One device, one subscription.** No [second phone](https://snipstack.io/second-phone-number-for-ebay-selling-2026/). No second SIM card. The number lives inside the Surfshark app on your existing phone, alongside your real number.
 
 [**Start your Alt-Number free trial →**](/blog/altnumber?sub=best-app-for-second-phone-number-2026__mid)
 

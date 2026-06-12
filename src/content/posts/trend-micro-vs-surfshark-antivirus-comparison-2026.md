@@ -177,7 +177,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) cover
 
 ### What should I do if I already have Trend Micro installed?
 
-If your Trend Micro subscription is current and working, you are protected against viruses. Consider whether the gaps — no VPN, no breach alerts — are things you need. If you decide to switch to Surfshark One, uninstall Trend Micro first (via Control Panel on Windows, then follow the prompts) before installing the new software. Running two antivirus programs at the same time can cause conflicts.
+If your Trend Micro subscription is current and working, you are protected against viruses. Consider whether the gaps — no VPN, no breach alerts — are things you need. If you decide to switch to [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/), uninstall Trend Micro first (via Control Panel on Windows, then follow the prompts) before installing the new software. Running two antivirus programs at the same time can cause conflicts.
 
 ### Is there a free trial before I commit to Surfshark One?
 

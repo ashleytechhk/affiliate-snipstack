@@ -164,7 +164,7 @@ Norton has more third-party lab certifications and a longer track record in inde
 
 Surfshark Alert notifies you with the specific breach source and what type of data was exposed (email, password hash, credit card number, etc.). It does not provide identity theft insurance or legal assistance — if those services matter to you, Norton's higher-tier LifeLock plans are a relevant alternative. Alert is a detection and notification tool, not a recovery service.
 
-### Is it cheaper to buy Surfshark VPN separately than Surfshark One?
+### Is it cheaper to buy Surfshark VPN separately than [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/)?
 
 Surfshark offers a standalone VPN plan (Surfshark Starter) at a lower price if you only need the VPN. Surfshark One costs more because it includes antivirus, Alert, and Search on top. If you already have antivirus covered separately and just want a VPN, the standalone plan may suit you. If you're replacing a Norton or McAfee suite entirely, One is likely the better-value package.
 

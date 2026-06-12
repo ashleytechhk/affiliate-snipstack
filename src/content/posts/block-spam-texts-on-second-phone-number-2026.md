@@ -125,7 +125,7 @@ A [second number](https://snipstack.io/second-number-for-whatsapp-business-accou
 
 ## Frequently Asked Questions
 
-**Can I use a second phone number to block spam texts completely?**
+**Can I use a [second phone number](https://snipstack.io/second-phone-number-for-ebay-selling-2026/) to block spam texts completely?**
 
 Yes. When you use a [second number](https://snipstack.io/second-number-for-receiving-verification-sms-2026/) like Alt Number for online dating, spam texts are directed at that number rather than your real one. You can block or replace the [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/) at any time without affecting your real number at all. [Try Alt Number here.](/blog/altnumber?sub=block-spam-texts-on-second-phone-number-2026__faq)
 

@@ -72,7 +72,7 @@ For mobile users, the choice of *how* you block ads is more consequential than w
 
 ### Browser-Level Blockers
 
-On Android, **Firefox with [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/)** remains the strongest free browser-level option. uBlock Origin blocks ad and tracker domains using community-maintained filter lists, with near-zero performance overhead. It is effective inside Firefox and costs nothing.
+On Android, **Firefox with [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/)** remains the strongest free browser-level option. [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) blocks ad and tracker domains using community-maintained filter lists, with near-zero performance overhead. It is effective inside Firefox and costs nothing.
 
 On iOS, **Safari Content Blockers** — apps like AdGuard for iOS — supply filter rules to Safari's native content blocking engine. Apple's implementation is privacy-respecting (the blocker app never sees your browsing history), fast, and battery-efficient.
 
@@ -97,7 +97,7 @@ What changes for mobile users:
 
 ---
 
-## How to Set Up CleanWeb on Your Phone
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up CleanWeb on Your Phone
 
 **On iOS:**
 1. Download the Surfshark app from the App Store

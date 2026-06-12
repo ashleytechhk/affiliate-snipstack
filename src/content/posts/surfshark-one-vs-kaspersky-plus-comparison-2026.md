@@ -165,7 +165,7 @@ On promotional pricing, both products land in a similar range. The differences s
 
 ## Who Might Consider Kaspersky Plus
 
-Outside of the US, and in markets where regulatory guidance has not flagged Kaspersky use, the technical case is closer. Kaspersky Plus includes a password manager Surfshark One lacks. Its antivirus detection history is strong. If you are in a jurisdiction where Kaspersky is still fully updated and available, and password management is your deciding factor, the evaluation is more nuanced.
+Outside of the US, and in markets where regulatory guidance has not flagged Kaspersky use, the technical case is closer. Kaspersky Plus includes a password manager [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/) lacks. Its antivirus detection history is strong. If you are in a jurisdiction where Kaspersky is still fully updated and available, and password management is your deciding factor, the evaluation is more nuanced.
 
 For US-based users: the software is not receiving updates. The evaluation effectively ends there.
 

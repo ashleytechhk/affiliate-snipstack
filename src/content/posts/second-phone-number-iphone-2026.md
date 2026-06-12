@@ -167,7 +167,7 @@ Surfshark Alt-Number provides a real local number, not a VoIP alias. Dating apps
 **Which iPhone models support eSIM for a second carrier line?**
 iPhone XS and newer (including all iPhone 11, 12, 13, 14, 15, and 16 models) support eSIM. iPhone 14 and later sold in the US are eSIM-only with no physical SIM tray. If your iPhone model predates the XS, the app-based method with Surfshark Alt-Number is your best option.
 
-**Can people tell I am using a second phone number?**
+**Can people tell I am using a [second phone number](https://snipstack.io/second-phone-number-for-ebay-selling-2026/)?**
 With Alt-Number, the number looks like any standard local mobile number. Free tools that check whether a number is VoIP will not flag it, because it is not VoIP — it is a real number. With Google Voice or TextNow, the VoIP origin is visible to anyone who runs a quick lookup.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I stop paying for the Alt-Number subscription?**

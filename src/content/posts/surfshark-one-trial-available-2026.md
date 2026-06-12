@@ -155,7 +155,7 @@ Contact Surfshark's support team via live chat or email and request a cancellati
 
 ### Can I cancel Norton and switch immediately, or should I overlap?
 
-The safest approach is to cancel Norton's auto-renewal rather than canceling the current subscription mid-term. Most Norton plans do not offer prorated refunds outside their refund window. Let your current Norton subscription run out, and use Surfshark One's 30-day window to overlap and run both simultaneously for a comparison period. That way you are never without coverage during the evaluation.
+The safest approach is to cancel Norton's auto-renewal rather than canceling the current subscription mid-term. Most Norton plans do not offer prorated refunds outside their refund window. Let your current Norton subscription run out, and use [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/)'s 30-day window to overlap and run both simultaneously for a comparison period. That way you are never without coverage during the evaluation.
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus good enough to fully replace Norton?
 

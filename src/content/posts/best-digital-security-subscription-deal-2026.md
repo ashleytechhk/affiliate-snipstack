@@ -153,7 +153,7 @@ Both, plus more. [Surfshark One](https://snipstack.io/surfshark-one-vs-individua
 
 **How do I switch from Norton to Surfshark without losing protection?**
 
-Download Norton's official removal tool (NRnR.exe) from the Norton website — a standard uninstall leaves behind AV drivers that conflict with new software. Export any passwords from Norton's password manager first. Restart your machine, then install Surfshark One and run an initial full scan. Cancel Norton's auto-renewal separately; the software uninstall does not cancel your billing.
+Download Norton's official removal tool (NRnR.exe) from the Norton website — a standard uninstall leaves behind AV drivers that conflict with new software. Export any passwords from Norton's password manager first. Restart your machine, then install [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/) and run an initial full scan. Cancel Norton's auto-renewal separately; the software uninstall does not cancel your billing.
 
 **Will Surfshark One slow down my internet connection?**
 

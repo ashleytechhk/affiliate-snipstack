@@ -159,7 +159,7 @@ Surfshark Alert monitors your email addresses, credit card numbers, and ID docum
 
 ### Is there a free trial or money-back guarantee?
 
-Both Bitdefender and Surfshark One offer a 30-day money-back guarantee. Surfshark does not require you to provide a cancellation reason, and the refund process is handled through live chat support. Either way, you can try either product risk-free for a month.
+Both Bitdefender and [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/) offer a 30-day money-back guarantee. Surfshark does not require you to provide a cancellation reason, and the refund process is handled through live chat support. Either way, you can try either product risk-free for a month.
 
 ### How does the price of Surfshark One compare to Bitdefender after renewal?
 

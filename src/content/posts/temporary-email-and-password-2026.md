@@ -99,7 +99,7 @@ Back in the Alt-ID panel, you will see a list of all your active aliases. If spa
 Check that your forwarding address is correct in the Alt-ID settings. Also check your real inbox's spam folder — forwarded mail occasionally triggers spam filters on first delivery. Mark one as "not spam" and subsequent messages will come through cleanly.
 
 **The website rejected my alias.**
-Some aggressive spam filters block email domains they do not recognize. In this case, try generating a different alias — Alt-ID offers multiple alias domains. Alternatively, use a service-specific alias with a more familiar-looking domain if Alt-ID provides that option in your plan.
+Some aggressive spam filters [block email](https://snipstack.io/block-email-trackers-and-read-receipts-2026/) domains they do not recognize. In this case, try generating a different alias — Alt-ID offers multiple alias domains. Alternatively, use a service-specific alias with a more familiar-looking domain if Alt-ID provides that option in your plan.
 
 **I forgot which alias I used for a site.**
 Open the Alt-ID panel and check the alias list. If you named or labeled the alias when you created it, it will be easy to find. Going forward, use the label field during creation ("Netflix trial," "that shoe site," etc.).

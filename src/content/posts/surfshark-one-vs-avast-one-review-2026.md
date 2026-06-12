@@ -143,7 +143,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) allow
 
 ### How long is the money-back window?
 
-Both Surfshark One and Avast One offer a 30-day money-back period on annual plans. That gives you enough time to run both suites, test the VPN on your typical use cases, and verify the antivirus doesn't conflict with anything on your system before the refund window closes.
+Both [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/) and Avast One offer a 30-day money-back period on annual plans. That gives you enough time to run both suites, test the VPN on your typical use cases, and verify the antivirus doesn't conflict with anything on your system before the refund window closes.
 
 ---
 

@@ -187,7 +187,7 @@ The case for switching from Norton or McAfee to [Surfshark ONE](https://snipstac
 
 Norton 360 remains defensible if you specifically want LifeLock's identity-restoration tier with insurance backing. McAfee Total Protection is fine for basic [Windows antivirus](https://snipstack.io/windows-antivirus-2026/) but leaves real gaps in phishing protection and has no VPN in the base plan.
 
-For everyone else — particularly anyone setting up or maintaining security for a parent or grandparent, or anyone fed up with the annual Norton renewal dance — Surfshark ONE is the cleaner, better-value choice.
+For everyone else — particularly anyone setting up or maintaining security for a parent or grandparent, or anyone fed up with the annual Norton renewal dance — [Surfshark ONE](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/) is the cleaner, better-value choice.
 
 **[Get Surfshark ONE — antivirus, VPN, breach monitoring, and phishing protection in one subscription](/blog/one?sub=comprehensive-security-for-seniors-online-2026__cta)**
 

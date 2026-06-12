@@ -28,7 +28,7 @@ Browser extensions are a desktop technology. On mobile — iOS or Android — th
 
 The word "extension" refers to a specific browser API: a privileged module that can inspect and modify network requests inside the browser. Desktop Chrome, Firefox, and Edge support this. Mobile Chrome and Safari do not — Apple and Google both restrict the API on their mobile browsers, for performance and security reasons.
 
-This is not an oversight. It is a deliberate architectural decision. The result is that every [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) built on the extension model — [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), AdBlock Plus, Privacy Badger, Ghostery — is unavailable on the two browsers that most people use on their phones.
+This is not an oversight. It is a deliberate architectural decision. The result is that every [ad blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) built on the extension model — [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), [AdBlock Plus](https://snipstack.io/adblock-plus-for-android-2026/), Privacy Badger, Ghostery — is unavailable on the two browsers that most people use on their phones.
 
 There are partial workarounds. Firefox for Android does support a limited subset of extensions, including uBlock Origin. Brave on Android ships with its own ad-blocking engine (Shields) built into the browser itself. These are real options for browser-level ad blocking on Android. But they share a fundamental limitation: they only work inside that specific browser.
 
@@ -68,7 +68,7 @@ On iOS, content blockers work inside Safari through Apple's Content Blocker API.
 
 ### Option 2: Private DNS
 
-Android 9 and above includes a Private DNS setting. Point it at a filtering DNS resolver — AdGuard DNS (`dns.adguard-dns.com`) or NextDNS — and the system drops DNS lookups for known ad and tracker domains before any connection is established. This works system-wide, including inside apps.
+Android 9 and above includes a Private DNS setting. Point it at a filtering DNS resolver — [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) (`dns.adguard-dns.com`) or NextDNS — and the system drops DNS lookups for known ad and tracker domains before any connection is established. This works system-wide, including inside apps.
 
 Setup:
 1. Settings → Network & internet → Private DNS
@@ -153,7 +153,7 @@ On a phone you use for banking, for email, for work — that is a meaningful pro
 
 **Can I block ads without an extension on iPhone?**
 
-Yes. Apple's Content Blocker API lets third-party apps supply filtering rules to Safari — apps like AdGuard for iOS use this to block ads inside Safari without a browser extension. For system-wide coverage beyond Safari, a [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in filtering (like CleanWeb) is the more complete option. **[See how to set it up on iPhone →](/blog/adblock?sub=block-ads-without-extension-2026__faq)**
+Yes. Apple's Content Blocker API lets third-party apps supply filtering rules to Safari — apps like AdGuard for iOS use this to [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side Safari without a browser extension. For system-wide coverage beyond Safari, a [VPN with built](https://snipstack.io/vpn-with-built-in-tracker-blocking-2026/)-in filtering (like CleanWeb) is the more complete option. **[See how to set it up on iPhone →](/blog/adblock?sub=block-ads-without-extension-2026__faq)**
 
 **Does Chrome on Android support ad-blocking extensions?**
 
@@ -163,9 +163,9 @@ No. Google Chrome for Android does not support extensions of any kind. Firefox f
 
 Modern VPN protocols — particularly WireGuard, which Surfshark uses by default on mobile — add minimal latency overhead, typically under 5ms on a nearby server. For ordinary browsing, streaming, and app use, the difference is imperceptible. On ad-heavy pages, blocking ad requests before they load often makes pages faster, not slower.
 
-**Does blocking ads at the network level stop YouTube ads?**
+**Does [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) at the network level stop YouTube ads?**
 
-Not reliably. YouTube serves ads from the same domains as its content — `youtube.com` and `googlevideo.com`. Blocking those domains at the DNS level would break video playback. This limitation applies to DNS-level blocking and VPN-based filtering equally. YouTube's ad-free options (YouTube Premium) or a browser with built-in blocking (Brave, for YouTube in a browser tab) are more effective for that specific platform.
+Not reliably. YouTube serves ads from the same domains as its content — `youtube.com` and `googlevideo.com`. Blocking those domains at the DNS level would break video playback. This limitation applies to DNS-level blocking and VPN-based filtering equally. YouTube's ad-free options (YouTube Premium) or a [browser with built](https://snipstack.io/browser-with-built-in-ad-blocker-2026/)-in blocking (Brave, for YouTube in a browser tab) are more effective for that specific platform.
 
 **Is it legal to [block ads on](https://snipstack.io/block-ads-on-smarttv-without-router-changes-2026/) a mobile device?**
 

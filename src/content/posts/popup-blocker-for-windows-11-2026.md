@@ -28,7 +28,7 @@ The popups that most people search for a blocker to stop are not simple banner a
 
 ### Tech-Support Scam Alerts
 
-These are fake Windows security dialogs served through malvertising ad networks. They appear in a browser tab — sometimes triggered by a mis-typed URL, an expired domain redirect, or a malicious ad on a legitimate website — and are engineered to look like Windows Defender warnings. They lock the browser window, play audio alerts, and display a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/).
+These are fake [Windows security](https://snipstack.io/windows-security-2026/) dialogs served through malvertising ad networks. They appear in a browser tab — sometimes triggered by a mis-typed URL, an expired domain redirect, or a malicious ad on a legitimate website — and are engineered to look like [Windows Defender](https://snipstack.io/windows-defender-download-2026/) warnings. They lock the browser window, play audio alerts, and display a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/).
 
 The FTC's Consumer Sentinel Network consistently ranks tech-support scams among the highest-loss categories for [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/). The mechanism is almost always a popup served from a domain flagged by security researchers months or years before the average user encounters it.
 

@@ -129,7 +129,7 @@ This isn't a minor technical detail. It's the reason Google Voice works great fo
 
 ---
 
-## How to Set Up Alt Number in 5 Minutes
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt Number in 5 Minutes
 
 1. Open the Surfshark app on iOS or Android
 2. Tap "Alt Number" in the bottom navigation

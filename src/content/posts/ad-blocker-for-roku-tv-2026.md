@@ -133,7 +133,7 @@ Pi-hole with a Roku-specific blocklist (community-maintained lists are available
 
 If you are a heavy streaming user who is also annoyed by ads on your phone, CleanWeb is the most practical cross-device answer in 2026.
 
-CleanWeb is Surfshark's built-in ad and tracker blocking feature. It works at the DNS/VPN layer — catching ad requests before they leave your device, covering every app simultaneously, not just your browser.
+CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s built-in ad and tracker blocking feature. It works at the DNS/VPN layer — catching ad requests before they leave your device, covering every app simultaneously, not just your browser.
 
 **For Roku TV:**
 

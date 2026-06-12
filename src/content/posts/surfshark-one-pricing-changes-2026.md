@@ -123,7 +123,7 @@ The one area where Norton and McAfee maintain an advantage is identity theft ins
 
 ## FAQ
 
-**Has the Surfshark One price gone up in 2026?**
+**Has the [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/) price gone up in 2026?**
 The structure changed rather than the price simply going up. Surfshark narrowed the gap between introductory and renewal rates. For multi-year plans, the effective renewal cost is lower than it was under the previous structure. [Check current pricing here.](/blog/one?sub=surfshark-one-pricing-changes-2026__faq)
 
 **[Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include a VPN with no data limit?**
