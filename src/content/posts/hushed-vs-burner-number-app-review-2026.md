@@ -20,7 +20,7 @@ The instinct to use a secondary number is right. The question is whether Hushed 
 
 Moving from in-app chat to texting feels like a natural step in online dating. What most people do not realize is that sharing your real number creates a permanent trail.
 
-A phone number is not just a way to receive texts. With a real number, someone can:
+A [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is not just a way to receive texts. With a real number, someone can:
 
 - Run a reverse phone lookup and find your full name, home address, and social profiles in under a minute
 - Look up your carrier and port your number in a SIM-swap attack

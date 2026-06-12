@@ -36,7 +36,7 @@ Here is why freelancers are a specific target profile:
 
 **Multiple platforms index your number.** Over the course of a freelance career, a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) gets submitted to contractor directories, invoicing platforms, professional networks, and client email threads. Each of those is a potential data source for a determined reverse-lookup. Free tools like Whitepages, NumLookup, and BeenVerified aggregate these sources automatically.
 
-**Dating apps ask for the same number.** When you sign up for Tinder, Hinge, or Bumble, they verify your account with a phone number. That number is not displayed in your public profile — but it is stored in your account, referenced in account recovery flows, and potentially exposed by a data breach. Hinge alone was included in data aggregation incidents that put user phone numbers into lookup databases reachable from a name search.
+**Dating apps ask for the same number.** When you sign up for Tinder, Hinge, or Bumble, they verify your account with a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). That number is not displayed in your public profile — but it is stored in your account, referenced in account recovery flows, and potentially exposed by a data breach. Hinge alone was included in data aggregation incidents that put user phone numbers into lookup databases reachable from a name search.
 
 The combination is the problem. One number, two exposed contexts, one reverse-search to connect them.
 

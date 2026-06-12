@@ -131,7 +131,7 @@ When WhatsApp Business sends the verification SMS to your Alt-Number, it goes to
 
 **Can I use the same Alt-Number for other platforms too?**
 
-Yes. Your Alt-Number is a real secondary number that works for SMS verification across platforms — WhatsApp Business, Telegram, online marketplaces, and other services that require a phone number. If you have a [side hustle](https://snipstack.io/second-phone-number-for-side-hustle-2026/) that spans multiple platforms, one Alt-Number can serve as your business-facing contact number across all of them.
+Yes. Your Alt-Number is a real secondary number that works for SMS verification across platforms — WhatsApp Business, Telegram, online marketplaces, and other services that require a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). If you have a [side hustle](https://snipstack.io/second-phone-number-for-side-hustle-2026/) that spans multiple platforms, one Alt-Number can serve as your business-facing contact number across all of them.
 
 **What happens to my WhatsApp Business account if I cancel Alt-Number?**
 

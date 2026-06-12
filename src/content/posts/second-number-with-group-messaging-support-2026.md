@@ -26,7 +26,7 @@ Surfshark Alt-Number gives you a fully functional US or UK [phone number](https:
 
 Dating apps have improved dramatically at keeping conversations inside their platforms, but the moment you move to SMS or a call — which most matches expect before a first date — you hand over a direct line to your private life.
 
-Your phone number is more than just a way to reach you. In the wrong hands, it becomes a reverse-lookup key. Free and paid services can link a mobile number to your full name, approximate home address, social media profiles, and even your workplace. A match who turns uncomfortable after a date does not need to be a skilled hacker to find all of this. They just need Google and your digits.
+Your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is more than just a way to reach you. In the wrong hands, it becomes a reverse-lookup key. Free and paid services can link a mobile number to your full name, approximate home address, social media profiles, and even your workplace. A match who turns uncomfortable after a date does not need to be a skilled hacker to find all of this. They just need Google and your digits.
 
 **The harassment pipeline tends to go like this:**
 

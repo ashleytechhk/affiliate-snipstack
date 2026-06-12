@@ -164,7 +164,7 @@ Yes. Samsung Tizen OS allows manual DNS entry in the advanced network settings. 
 No. Paid streaming tiers do not serve third-party ads via external ad servers. The content itself is ad-free. DNS blocking is only relevant for ad-supported tiers and Smart TV home screen ads.
 
 **Q: Can I block Smart TV ads without paying for anything?**
-Yes — free DNS services like AdGuard DNS (no account required, no cost) work at the DNS level. The trade-off is less comprehensive blocking, no malware protection, and potential DNS query logging. CleanWeb adds these layers for users already on a Surfshark plan.
+Yes — free DNS services like AdGuard DNS (no account required, no cost) work at the DNS level. The trade-off is less comprehensive blocking, no malware protection, and potential DNS query logging. [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds these layers for users already on a Surfshark plan.
 
 **Q: Does CleanWeb slow down my Smart TV's connection?**
 DNS filtering adds minimal latency — typically under 5ms for cached domains. In practice, you will not notice a speed difference. The VPN tunnel itself adds some overhead if the TV routes through it, but the DNS-only method (no VPN on the TV) has no meaningful impact on streaming quality.

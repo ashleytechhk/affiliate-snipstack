@@ -12,7 +12,7 @@ Over 33 billion records were exposed in data breaches in 2023 alone — and [pho
 
 You're not being paranoid. You're being accurate.
 
-For online daters, [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s are uniquely dangerous to expose. Unlike an email address you can abandon, your phone number ties directly to your carrier identity, is often linked to your bank accounts and two-factor authentication, and can be reverse-searched to surface your full name, address, and social profiles within seconds. Every time you hand it to a dating app, a form, or an enthusiastic match who asked to "text instead," you're adding another entry point for marketers, data brokers, and anyone else who wants to find you.
+For online daters, [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s are uniquely dangerous to expose. Unlike an email address you can abandon, your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) ties directly to your carrier identity, is often linked to your bank accounts and two-factor authentication, and can be reverse-searched to surface your full name, address, and social profiles within seconds. Every time you hand it to a dating app, a form, or an enthusiastic match who asked to "text instead," you're adding another entry point for marketers, data brokers, and anyone else who wants to find you.
 
 This guide explains exactly why the problem is worse than most people realise — and what you can actually do about it in 2026.
 

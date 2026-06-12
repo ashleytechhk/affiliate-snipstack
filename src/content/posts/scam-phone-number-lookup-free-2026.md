@@ -107,7 +107,7 @@ It is worth registering your number, but do not rely on it to identify scam call
 
 Here is a pattern that has become more common in 2026: you receive a suspicious call from an unknown number. You do not answer. A few hours later, an email arrives about the same topic — a "missed delivery," a "billing problem," or a "security alert." The phone call and the email are part of the same operation.
 
-Scammers often use data sets that include both phone numbers and email addresses purchased from breach marketplaces. If they called you, there is a reasonable chance your email address is in the same list.
+Scammers often use data sets that include both [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s and email addresses purchased from breach marketplaces. If they called you, there is a reasonable chance your email address is in the same list.
 
 **[Check a suspicious follow-up email with Surfshark's Email Scam Checker →](/blog/scamcheck?sub=scam-phone-number-lookup-free-2026__mid)**
 

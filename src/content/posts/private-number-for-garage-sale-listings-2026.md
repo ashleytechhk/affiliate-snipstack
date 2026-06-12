@@ -24,7 +24,7 @@ If you hand out your real number on dating apps, a motivated person can trace yo
 
 ---
 
-## The Shared Attack Surface: Marketplace, Dating Apps, and Your Real Phone Number
+## The Shared Attack Surface: Marketplace, Dating Apps, and Your Real [Phone Number](https://snipstack.io/phone-number-alias-for-work-2026/)
 
 The reason "private number for garage sale listings" and "private number for online dating" point to the same solution is that the attack works the same way in both contexts.
 

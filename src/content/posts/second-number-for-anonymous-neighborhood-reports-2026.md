@@ -44,7 +44,7 @@ The escalation pattern is more common than it looks from the outside. It doesn't
 
 You match, you text for a week, you meet for coffee. The vibe is off. You stop responding. They send a few more messages, you go quiet, and you assume that's the end of it.
 
-It often isn't. The number you gave them is now a lookup key. They run it through a reverse phone service and get your surname. They search that on LinkedIn and find your employer. From your employer's website they find your office address. From a neighborhood Facebook group or a local subreddit they narrow down your block. They know roughly where you live — not because you told them, but because you gave them a phone number.
+It often isn't. The number you gave them is now a lookup key. They run it through a reverse phone service and get your surname. They search that on LinkedIn and find your employer. From your employer's website they find your office address. From a neighborhood Facebook group or a local subreddit they narrow down your block. They know roughly where you live — not because you told them, but because you gave them a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/).
 
 This is not a worst-case scenario. It is a documented pattern that community safety advocates and domestic violence organizations have been tracking for years as dating app use has expanded.
 

@@ -200,7 +200,7 @@ If you are reading this because you are worried your computer might be infected,
 
 ### Is it safe to use an online virus scanner?
 
-It depends entirely on which one. Scanners from ESET, Trend Micro, and Bitdefender are from reputable security companies and are safe to use. The vast majority of websites that offer "free instant virus scans" — especially ones with dramatic pop-ups and urgent phone numbers — are scams. If you did not seek out the scanner yourself by going to the company's official website, treat it with suspicion.
+It depends entirely on which one. Scanners from ESET, Trend Micro, and Bitdefender are from reputable security companies and are safe to use. The vast majority of websites that offer "free instant virus scans" — especially ones with dramatic pop-ups and urgent [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s — are scams. If you did not seek out the scanner yourself by going to the company's official website, treat it with suspicion.
 
 ### Can a website really scan my whole computer without me downloading anything?
 

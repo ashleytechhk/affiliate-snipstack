@@ -18,7 +18,7 @@ An anonymous [phone number](https://snipstack.io/phone-number-for-tinder-privacy
 
 ## Quick Verdict
 
-The [best anonymous](https://snipstack.io/best-anonymous-email-2026/) phone number app for dating in 2026 is **[Surfshark Alt-Number](/blog/altnumber?sub=anonymous-phone-number-app-2026__above-fold)**. It gives you a real mobile number — not a VoIP line that dating apps flag and reject — with no second SIM, no second device, and no US-only restriction. You pick your number, use it for dating, and disable it the moment you want a clean break. Setup takes under five minutes. It works globally, which matters if you travel or want a number from a specific country code.
+The [best anonymous](https://snipstack.io/best-anonymous-email-2026/) [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) app for dating in 2026 is **[Surfshark Alt-Number](/blog/altnumber?sub=anonymous-phone-number-app-2026__above-fold)**. It gives you a real mobile number — not a VoIP line that dating apps flag and reject — with no second SIM, no second device, and no US-only restriction. You pick your number, use it for dating, and disable it the moment you want a clean break. Setup takes under five minutes. It works globally, which matters if you travel or want a number from a specific country code.
 
 ---
 

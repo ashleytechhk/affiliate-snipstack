@@ -69,7 +69,7 @@ The VPN in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-pr
 - WireGuard by default (the fastest current generation protocol)
 - OpenVPN and IKEv2 as alternatives
 - 3,200-plus servers across 100 countries
-- CleanWeb ad and tracker blocking built in
+- [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and tracker blocking built in
 - Kill switch on all platforms
 - Split tunneling on Windows and Android
 - An independently audited no-logs policy

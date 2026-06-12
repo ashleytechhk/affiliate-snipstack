@@ -24,7 +24,7 @@ If you have ever matched with someone and thought "I should give them my number 
 
 ## Why Your [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) Is a Privacy Risk on Dating Apps
 
-Most people think sharing a phone number is safer than sharing a social media profile. It feels more controlled. The reality is the opposite.
+Most people think sharing a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is safer than sharing a social media profile. It feels more controlled. The reality is the opposite.
 
 Your phone number is tied to your identity in ways most people never think about. Data brokers like Spokeo, Whitepages, and BeenVerified can match a mobile number to your full legal name, current address, previous addresses, family members, and sometimes your employer — in under 60 seconds. These lookups are not restricted to law enforcement. Anyone can pay for them.
 

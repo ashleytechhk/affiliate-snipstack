@@ -20,7 +20,7 @@ The solution has two parts: a [second number](https://snipstack.io/get-a-second-
 
 ## Quick Verdict
 
-If you are dating online and handing out your real phone number, you are one bad match away from a real-world problem. A [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) from Surfshark Alt-Number gives you a real mobile number — not a VOIP line, not a recycled Google Voice number — that works for SMS verification on every major dating app. When you combine that alias with your phone's built-in auto reply feature, you get a complete system: the alias absorbs the exposure, the auto reply handles unwanted contact from a number you can revoke, and your real number stays completely out of the chain. Setup takes under ten minutes.
+If you are dating online and handing out your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/), you are one bad match away from a real-world problem. A [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/) from Surfshark Alt-Number gives you a real mobile number — not a VOIP line, not a recycled Google Voice number — that works for SMS verification on every major dating app. When you combine that alias with your phone's built-in auto reply feature, you get a complete system: the alias absorbs the exposure, the auto reply handles unwanted contact from a number you can revoke, and your real number stays completely out of the chain. Setup takes under ten minutes.
 
 ---
 

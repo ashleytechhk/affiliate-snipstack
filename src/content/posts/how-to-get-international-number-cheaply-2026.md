@@ -16,7 +16,7 @@ If you've ever blocked a number only to get a call from a new one, wondered whet
 
 The fix is simpler than most people think: **get a separate, international number cheaply**, use it exclusively for dating, and keep your real number out of the equation entirely.
 
-**[Protect your real number with Alt-Number](/blog/altnumber?sub=how-to-get-international-number-cheaply-2026__above-fold)** — real phone numbers from multiple countries, no second SIM required.
+**[Protect your real number with Alt-Number](/blog/altnumber?sub=how-to-get-international-number-cheaply-2026__above-fold)** — real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s from multiple countries, no second SIM required.
 
 ---
 

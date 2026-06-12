@@ -196,7 +196,7 @@ Number availability varies by region and changes frequently. Popular area codes 
 
 A [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) is the concept — a secondary number you can discard. VoIP (Voice over Internet Protocol) is the technology that most burner apps use to route calls over the internet rather than through a carrier. The distinction matters because dating apps and some businesses specifically block VoIP numbers. Apps like Hushed, Burner, and Surfshark Alt-Number use real mobile number ranges that sidestep this problem. Google Voice is VoIP and gets flagged more often.
 
-**Is it legal to use a burner phone number?**
+**Is it legal to use a burner [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)?**
 
 Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) privacy is legal. The only issues arise if you use it for fraud, harassment, or impersonation — which applies to any phone number, not specifically burner ones. Using a separate number for dating or marketplace listings is straightforwardly legal.
 

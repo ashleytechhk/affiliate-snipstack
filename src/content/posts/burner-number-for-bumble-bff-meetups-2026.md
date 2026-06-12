@@ -40,7 +40,7 @@ This matters because Bumble BFF connections can turn uncomfortable just as quick
 
 ## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) a Number Gets into the Wrong Hands
 
-The risk isn't just harassment from the person you gave it to. Your phone number is increasingly a skeleton key to your digital life.
+The risk isn't just harassment from the person you gave it to. Your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is increasingly a skeleton key to your digital life.
 
 **Reverse lookup.** Free and paid people-search sites (Whitepages, Spokeo, BeenVerified) can cross-reference a phone number against public records, previous addresses, associated names, and relatives. Handing someone your mobile number can, in a few clicks, give them your full name, approximate address, and household members — information you never intended to share.
 

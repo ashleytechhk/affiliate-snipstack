@@ -79,7 +79,7 @@ Some services let you search a [phone number](https://snipstack.io/phone-number-
 
 ### 5. Breach Monitoring (Upstream Prevention)
 
-Here is the part most scam text guides overlook: before a scammer can text you, they need your number. Your phone number ends up in scammer databases primarily through data breaches — when a company you signed up with is hacked and their user data is sold.
+Here is the part most scam text guides overlook: before a scammer can text you, they need your number. Your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) ends up in scammer databases primarily through data breaches — when a company you signed up with is hacked and their user data is sold.
 
 Surfshark Alert monitors your personal data (including phone numbers and email addresses) against known breach databases. When your information appears in a newly discovered breach, you are alerted so you can take action — changing passwords, tightening security, and knowing to expect an uptick in scam contacts. This upstream layer does not stop an individual scam text, but it helps you understand why you are receiving them and where your data has been exposed.
 

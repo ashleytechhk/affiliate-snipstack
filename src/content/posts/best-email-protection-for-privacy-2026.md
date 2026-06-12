@@ -34,7 +34,7 @@ Here are the four layers, from most common to most effective:
 
 **Email encryption.** Tools like ProtonMail or PGP encryption protect the *content* of emails in transit so that interceptors cannot read them. Useful for sensitive professional communications. Irrelevant to spam: spammers are not trying to read your emails, they are trying to reach your inbox.
 
-**Email masking / alias forwarding.** Instead of giving services your real address, you give them a proxy address that forwards mail to your inbox. You control the proxy; you can delete it at any time. This is the only approach that addresses the cause rather than the symptom — and in 2026, it is the most practical form of email protection for a regular user dealing with spam overload.
+**[Email masking](https://snipstack.io/email-masking-service-review-2026/) / alias forwarding.** Instead of giving services your real address, you give them a proxy address that forwards mail to your inbox. You control the proxy; you can delete it at any time. This is the only approach that addresses the cause rather than the symptom — and in 2026, it is the most practical form of email protection for a regular user dealing with spam overload.
 
 ---
 

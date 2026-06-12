@@ -140,7 +140,7 @@ Unlike your real number, a burner number is replaceable. When a match stops bein
 2. **Mute** — silences notifications from the number without deleting history
 3. **Replace** — generates a fresh number entirely; the old one stops working, and whoever had it can no longer reach you through it
 
-With Alt-Number, requesting a new number takes seconds in the app. Your real phone number, your real identity, your regular contacts — none of it was ever involved.
+With Alt-Number, requesting a new number takes seconds in the app. Your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/), your real identity, your regular contacts — none of it was ever involved.
 
 This is the practical difference between a burner number and blocking someone on your real number. Blocking leaves your real number in their contacts. Burning a number removes the line entirely.
 

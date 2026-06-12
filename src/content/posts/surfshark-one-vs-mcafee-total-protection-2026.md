@@ -81,7 +81,7 @@ McAfee's Identity Monitoring covers similar ground. Both are useful tools. The d
 
 This is the differentiator that McAfee simply does not have. Surfshark Search is a privacy-respecting search engine that returns organic results without tracking your queries or building an advertising profile. It is not the default for everyone — some users are satisfied with their existing search behavior — but for privacy-minded users, having it bundled in is a genuine extra.
 
-### CleanWeb Ad and Tracker Blocking
+### [CleanWeb Ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and Tracker Blocking
 
 Surfshark's VPN includes CleanWeb, which blocks ads, trackers, and known malicious domains at the DNS level. It works across all browsers and applications when the VPN is active, without requiring a separate [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).
 

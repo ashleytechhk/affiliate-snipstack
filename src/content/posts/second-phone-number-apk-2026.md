@@ -107,7 +107,7 @@ Alt-Number provisions the number instantly. No waiting. No callback. The number 
 
 Now go to your dating app. Whether you are giving out a number for texting, setting up a WhatsApp account, or verifying a new profile — enter your Alt-Number.
 
-When a match texts or calls, the message arrives in the Alt-Number app inbox. You reply from there. To your match, it looks and behaves exactly like a normal phone number. They see your messages coming from a standard mobile line.
+When a match texts or calls, the message arrives in the Alt-Number app inbox. You reply from there. To your match, it looks and behaves exactly like a normal [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). They see your messages coming from a standard mobile line.
 
 ![Alt-Number app inbox showing incoming SMS from a dating app match on Android](/og/second-phone-number-apk-2026-inline-2.png)
 

@@ -47,7 +47,7 @@ Pricing starts with a free trial period, making it easy to test before committin
 
 Google Voice has been around since 2009 and it's still the most recognizable free [virtual number](https://snipstack.io/virtual-number-for-signal-registration-2026/) in the US. You get a real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), SMS support, and voicemail — all tied to your Google account and forwarded to any device. Setup takes five minutes if you already have a Gmail address.
 
-The catch for online daters: Google Voice numbers are increasingly flagged by dating apps as VOIP numbers. Tinder in particular has been aggressive about blocking them. You may get through verification on some apps but hit a wall on others. It also requires a US phone number to set up initially, locking out international users. If you're a casual dater who just wants a backup number for Craigslist-adjacent scenarios, Google Voice works fine. For dating apps specifically, be prepared for friction.
+The catch for online daters: Google Voice numbers are increasingly flagged by dating apps as VOIP numbers. Tinder in particular has been aggressive about blocking them. You may get through verification on some apps but hit a wall on others. It also requires a US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to set up initially, locking out international users. If you're a casual dater who just wants a backup number for Craigslist-adjacent scenarios, Google Voice works fine. For dating apps specifically, be prepared for friction.
 
 ---
 

@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Fake phone number for 2FA — protect your real identity on dating apps 2026](/og/fake-phone-number-for-2fa-2026.png)
 
-A study by cybersecurity firm NordLayer found that 60% of people reuse the same phone number across every account they register — dating apps, banks, email, healthcare. When you hand a dating app your real number for two-factor authentication, you are handing it to every data broker, advertiser, and breach exposure that app ever produces.
+A study by cybersecurity firm NordLayer found that 60% of people reuse the same [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) across every account they register — dating apps, banks, email, healthcare. When you hand a dating app your real number for two-factor authentication, you are handing it to every data broker, advertiser, and breach exposure that app ever produces.
 
 That number is not just a login credential. It is a lookup key. Type any mobile number into a people-search site and within seconds you get a name, a city, a social media profile, sometimes an employer. If a date — or someone posing as one — ever gets hold of your real number, the background check they run on you takes thirty seconds and costs nothing.
 

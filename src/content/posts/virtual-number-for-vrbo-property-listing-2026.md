@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 A 2024 study by the National Shared Economy Research Group found that short-term rental hosts are four times more likely to report guest harassment than hotel front desk staff — and in nearly every documented case, the harassment began because the guest had the host's personal [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/). Not a platform number. Not a booking system relay. The host's actual mobile, handed over at check-in or listed in the property contact section, giving a stranger a direct, permanent line that no platform can revoke on their behalf.
 
-VRBO and Airbnb have made hosting accessible to millions of people. They have also, quietly, made millions of private phone numbers permanently available to anyone who has ever booked a stay.
+VRBO and Airbnb have made hosting accessible to millions of people. They have also, quietly, made millions of private [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s permanently available to anyone who has ever booked a stay.
 
 Every experienced host eventually learns this lesson. The question is whether you learn it after an incident — or before.
 

@@ -10,7 +10,7 @@ You matched with someone last Tuesday. Conversation was good, so you swapped num
 
 Your real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is not just a way to reach you. In the wrong hands, it is a starting point for harassment, stalking, and identity exposure. Dating apps are one of the highest-risk environments for number leakage — because the entire premise involves sharing contact details with people you have known for, on average, a few days.
 
-This is not a fringe problem. Dating-app data breaches have exposed hundreds of millions of user records over the past several years, with phone numbers among the most commonly leaked fields. And that is before counting every number shared directly in a chat that later turned sour.
+This is not a fringe problem. Dating-app data breaches have exposed hundreds of millions of user records over the past several years, with [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s among the most commonly leaked fields. And that is before counting every number shared directly in a chat that later turned sour.
 
 The [best way to](https://snipstack.io/best-way-to-secure-home-computer-2026/) protect [phone number privacy](https://snipstack.io/phone-number-privacy-for-social-media-2026/) in 2026 is to make sure your real number is never the one in circulation. This article explains how.
 

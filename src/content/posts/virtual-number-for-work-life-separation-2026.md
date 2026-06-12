@@ -88,7 +88,7 @@ Here's what real work-life separation looks like with Alt-Number:
 
 **You control the exit.** If a match becomes uncomfortable, or the number starts receiving spam, you disable it. No confrontation, no awkward blocking, no trace back to your professional life. A replacement number is available immediately.
 
-This is what a phone number alias makes possible: not just privacy from marketers, but actual separation between who you are at work and who you are on a date.
+This is what a [phone number alias](https://snipstack.io/phone-number-alias-for-work-2026/) makes possible: not just privacy from marketers, but actual separation between who you are at work and who you are on a date.
 
 ---
 

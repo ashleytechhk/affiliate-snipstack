@@ -20,7 +20,7 @@ There is a clean fix: **get a US number while traveling Europe** that you use ex
 
 ## Quick Verdict
 
-Surfshark Alt-Number gives you a working US phone number in under five minutes, regardless of which European country you are currently standing in. It receives calls and texts, passes SMS verification on dating apps, and is completely separate from your real SIM. For travelers who want to keep swiping without handing strangers a number that traces back to their actual identity, it is the most straightforward solution available right now — no SIM swap, no local carrier contract, no international headaches.
+Surfshark Alt-Number gives you a working US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) in under five minutes, regardless of which European country you are currently standing in. It receives calls and texts, passes SMS verification on dating apps, and is completely separate from your real SIM. For travelers who want to keep swiping without handing strangers a number that traces back to their actual identity, it is the most straightforward solution available right now — no SIM swap, no local carrier contract, no international headaches.
 
 ---
 

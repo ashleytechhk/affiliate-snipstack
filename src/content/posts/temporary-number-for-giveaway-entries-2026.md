@@ -26,7 +26,7 @@ Using a [temporary number for](https://snipstack.io/temporary-number-for-one-tim
 
 ## Why Giveaway Entries Are a Privacy Risk Most People Ignore
 
-Entering a giveaway feels low-stakes. You fill in your name, your email, your phone number, you tap submit. What could go wrong?
+Entering a giveaway feels low-stakes. You fill in your name, your email, your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/), you tap submit. What could go wrong?
 
 Quite a lot, as it turns out.
 

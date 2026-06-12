@@ -93,7 +93,7 @@ The right fix is upstream: stop your real address from being useful to the next 
 
 **Where it works:** If you are already a Proton user, this is a seamless addition. The free tier includes ten alias addresses. The interface is clean and the privacy track record is strong.
 
-**Where it breaks:** Ten aliases on the free tier limits per-service isolation unless you upgrade. Like SimpleLogin, there is no identity masking — just email masking. The kill switch works, but alias management is slightly less intuitive outside the Proton app.
+**Where it breaks:** Ten aliases on the free tier limits per-service isolation unless you upgrade. Like SimpleLogin, there is no identity masking — just [email masking](https://snipstack.io/email-masking-service-review-2026/). The kill switch works, but alias management is slightly less intuitive outside the Proton app.
 
 **Verdict:** Great within the Proton ecosystem. Limited by the free-tier alias cap for heavy users.
 

@@ -27,7 +27,7 @@ A Chrome extension for your VPN is a browser-scoped companion that lets you cont
 For paid subscribers, the three most relevant options are:
 
 - **NordVPN's Chrome extension** — standalone proxy, no desktop app required, includes Threat Protection Lite in the browser
-- **Surfshark's Chrome extension** — standalone proxy with full feature parity to the app, adds CleanWeb ad blocking to your browser
+- **Surfshark's Chrome extension** — standalone proxy with full feature parity to the app, adds [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) blocking to your browser
 - **ExpressVPN's Chrome extension** — remote control for the ExpressVPN desktop app; requires the app running in the background
 
 The right one depends on which VPN you subscribe to. If you're choosing a VPN partly for the browser experience, Surfshark's extension is the most fully featured companion.

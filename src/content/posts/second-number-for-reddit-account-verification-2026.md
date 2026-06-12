@@ -20,7 +20,7 @@ Reddit is where people go to be honest. They ask questions they would never ask 
 
 ## Quick Verdict
 
-Reddit does not require a phone number to sign up in every case — but it does prompt verification on new accounts, flagged accounts, accounts returning from a ban, and accounts attempting certain actions on mobile. **When Reddit asks for your number, that is exactly the wrong moment to hand over your real one.**
+Reddit does not require a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to sign up in every case — but it does prompt verification on new accounts, flagged accounts, accounts returning from a ban, and accounts attempting certain actions on mobile. **When Reddit asks for your number, that is exactly the wrong moment to hand over your real one.**
 
 Surfshark Alt-Number is the right tool here: it provisions a carrier-backed number (not a VoIP number that Reddit may reject), receives the verification SMS inside the app, and keeps your real identity cleanly separated from your Reddit account. Setup takes under five minutes.
 

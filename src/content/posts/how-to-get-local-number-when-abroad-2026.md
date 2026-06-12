@@ -134,7 +134,7 @@ The threat model has shifted. Five years ago, the main concern was spam calls. T
 
 **SIM-swap fraud** has grown sharply since 2022. Attackers social-engineer carriers into transferring your number to a SIM they control, then use it to intercept your banking OTPs. The fewer people who have your real number, the smaller your attack surface.
 
-**Cross-platform stalking** is now trivial. A real phone number can be used to find someone's Instagram (many accounts are registered with a phone number), WhatsApp profile picture and status, and sometimes their LinkedIn — all without that person knowing. Handing your number to a bad actor on a dating app can expose your entire online identity.
+**Cross-platform stalking** is now trivial. A real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) can be used to find someone's Instagram (many accounts are registered with a phone number), WhatsApp profile picture and status, and sometimes their LinkedIn — all without that person knowing. Handing your number to a bad actor on a dating app can expose your entire online identity.
 
 **Dating app data breaches** happen regularly. When you use your real number to verify a dating app account, that number sits in the platform's database. Breaches at major platforms have exposed millions of users' phone numbers. A [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) limits your blast radius.
 

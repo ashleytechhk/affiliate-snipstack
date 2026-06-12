@@ -28,7 +28,7 @@ Renovation quote forms are one of the most reliable sources of phone spam in 202
 
 Most people assume renovation quote spam is just an annoyance — a few calls you decline and eventually it fades. That's not what actually happens.
 
-When you submit your phone number through a home improvement lead-gen form — on sites like Angi, HomeAdvisor, Thumbtack, or even a local contractor's "get a free quote" page — your number doesn't go to one contractor. It goes to a lead marketplace. That marketplace sells your contact details to anywhere from three to eight contractors simultaneously, each of whom imports your number into their CRM system.
+When you submit your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) through a home improvement lead-gen form — on sites like Angi, HomeAdvisor, Thumbtack, or even a local contractor's "get a free quote" page — your number doesn't go to one contractor. It goes to a lead marketplace. That marketplace sells your contact details to anywhere from three to eight contractors simultaneously, each of whom imports your number into their CRM system.
 
 Those CRM systems run automated follow-up sequences. Follow-up call at 24 hours. Another at 72 hours. An SMS nudge at the one-week mark. These sequences run for months regardless of whether you've already hired someone and completed the project.
 

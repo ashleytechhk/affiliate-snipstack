@@ -40,7 +40,7 @@ This means two things for online daters:
 
 **Second**, even if you are the one who invites them, you have now confirmed your real number to a stranger. They can reverse-search it, find your social profiles, trace your address through data broker sites, or contact you long after you have decided you want no further communication.
 
-Online dating safety researchers have consistently documented patterns of harassment that begin with a phone number exchange. A number shared in excitement is not easy to take back. Once someone has it, they have it.
+Online dating safety researchers have consistently documented patterns of harassment that begin with a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) exchange. A number shared in excitement is not easy to take back. Once someone has it, they have it.
 
 ---
 

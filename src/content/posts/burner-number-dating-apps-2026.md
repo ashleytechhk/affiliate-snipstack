@@ -52,7 +52,7 @@ The old-school approach. Pick up a prepaid SIM from a carrier like T-Mobile or A
 
 ### Option 2: Google Voice
 
-Google Voice gives you a free US phone number that forwards calls and texts to your real number. It's been around for years and works well enough.
+Google Voice gives you a free US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) that forwards calls and texts to your real number. It's been around for years and works well enough.
 
 **Pros:** Free. Integrates with Gmail. Call screening built in.
 

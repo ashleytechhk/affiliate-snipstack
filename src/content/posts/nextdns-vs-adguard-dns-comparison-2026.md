@@ -128,7 +128,7 @@ One important difference: because NextDNS uses a per-account hostname, you need 
 
 **Choose NextDNS if:** you want to see exactly what your device is phoning home to, customize your block lists, or manage separate filtering profiles for different family members or devices. Budget the paid tier if you use multiple devices heavily — running out of free queries mid-month resets everything to zero protection without warning.
 
-**Use both or either alongside CleanWeb:** DNS filtering covers roughly 60-65% of mobile ad scenarios. The remainder — ads served from shared domains, tracking parameters embedded in links, malware URLs hosted on otherwise legitimate domains — require a different filtering layer. Surfshark's CleanWeb adds that layer at the VPN tunnel level, covering the gap that DNS structurally cannot close.
+**Use both or either alongside CleanWeb:** DNS filtering covers roughly 60-65% of mobile ad scenarios. The remainder — ads served from shared domains, tracking parameters embedded in links, malware URLs hosted on otherwise legitimate domains — require a different filtering layer. Surfshark's [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds that layer at the VPN tunnel level, covering the gap that DNS structurally cannot close.
 
 ![Surfshark CleanWeb combined with DNS filtering — mobile protection layers](/og/nextdns-vs-adguard-dns-comparison-2026-inline-2.png)
 

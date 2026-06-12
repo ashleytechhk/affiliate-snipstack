@@ -32,7 +32,7 @@ This is the standard playbook for legacy [antivirus](https://snipstack.io/vs-ant
 | **VPN** | Included (unlimited) | Separate add-on (extra cost) |
 | **Data Breach Monitoring** | Included (Surfshark Alert) | Included (WebShield/ID Protection) |
 | **Private Search Engine** | Included (Surfshark Search) | Not included |
-| **Alternative ID / Email Masking** | Included (Alternative ID) | Not included |
+| **Alternative ID / [Email Masking](https://snipstack.io/email-masking-service-review-2026/)** | Included (Alternative ID) | Not included |
 | **Simultaneous Devices** | 5 (One) / Unlimited (One+) | Up to 6 (varies by plan) |
 | **Pricing Model** | Flat bundle, no major upsells | Tiered; VPN often separate |
 | **Renewal Transparency** | Consistent pricing | Introductory discounts; renewal rate typically higher |

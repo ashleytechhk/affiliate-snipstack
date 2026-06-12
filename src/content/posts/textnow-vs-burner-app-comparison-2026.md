@@ -51,7 +51,7 @@ That is the gap TextNow and Burner are both trying to fill. Here is how they act
 
 ![Flat-style illustration of a smartphone showing a chat screen with a TextNow logo and a privacy shield icon blocking an incoming message request](/og/textnow-vs-burner-app-comparison-2026-inline-1.png)
 
-TextNow is a free VoIP-based calling and messaging app. You get a real US phone number at no cost — it's subsidized by in-app ads. You can make calls and send texts from it just like a regular number.
+TextNow is a free VoIP-based calling and messaging app. You get a real US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) at no cost — it's subsidized by in-app ads. You can make calls and send texts from it just like a regular number.
 
 ### What TextNow Does Well
 

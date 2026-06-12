@@ -112,7 +112,7 @@ MySudo numbers generally pass dating app verification, which gives it an edge ov
 
 **Free calls and texts, ad-supported.**
 
-TextNow is a legitimate free option that gives you a real phone number with unlimited US and Canada calling and texting, supported by in-app ads. The business model is ad revenue, not subscription fees, which keeps the price at zero for basic use.
+TextNow is a legitimate free option that gives you a real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) with unlimited US and Canada calling and texting, supported by in-app ads. The business model is ad revenue, not subscription fees, which keeps the price at zero for basic use.
 
 For online dating, TextNow works well for SMS-heavy communication. Voice call quality is adequate over Wi-Fi, though it can degrade on a weak connection. The number is a real number (not flagged as VoIP on most platforms), which is a genuine advantage for Tinder verification.
 

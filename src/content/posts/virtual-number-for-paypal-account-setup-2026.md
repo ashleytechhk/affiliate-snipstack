@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 The FTC reported that Americans lost over $1.3 billion to romance scams in a single year — and the most common entry point wasn't a fake profile or a sob story. It was a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/).
 
-A phone number you shared on PayPal. The same one tied to your Tinder profile. The same one that, when someone types it into a people-search site, returns your full legal name, your city, and your employer in under a minute.
+A [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) you shared on PayPal. The same one tied to your Tinder profile. The same one that, when someone types it into a people-search site, returns your full legal name, your city, and your employer in under a minute.
 
 Here's the part nobody warns you about: PayPal is built around real identity. When you sign up, you verify your account with your phone number. That number is linked to your legal name and payment history. When you [Venmo or PayPal](https://snipstack.io/virtual-phone-number-2026/) someone you met on a dating app — splitting a dinner, paying for tickets — you hand them a thread that unravels your entire identity. They search the number. They find you.
 

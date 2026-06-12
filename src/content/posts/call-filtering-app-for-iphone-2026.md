@@ -35,7 +35,7 @@ The problem is not unknown callers in general. It is one specific person — som
 The sequence is uncomfortably fast. You match. The conversation goes well enough. You swap numbers to move off the app. Within seconds of receiving your number, someone motivated can:
 
 - Run a free reverse lookup on Spokeo, Whitepages, or BeenVerified and retrieve your full name, current address, and linked social profiles
-- Open WhatsApp or Telegram and see your profile photo and last-seen status, because those apps auto-match contacts by phone number
+- Open WhatsApp or Telegram and see your profile photo and last-seen status, because those apps auto-match contacts by [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)
 - Search your number in Facebook's contact search (still available as of 2026) and find your profile even if it is set to friends-only
 - Note your area code and narrow your geography for follow-up searches
 

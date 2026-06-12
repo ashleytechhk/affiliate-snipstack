@@ -148,7 +148,7 @@ This is the step most families skip and should not. [Alt-ID](https://snipstack.i
 3. Copy the masked email address
 4. Use this email on any site where you would normally hesitate to give your real one
 
-**Alt-Number** works the same way for phone numbers. It is a real, functional number that receives SMS verification codes and forwards calls. Use it for any service that asks for a mobile number but does not strictly need your real one — [pizza delivery accounts](https://snipstack.io/virtual-phone-number-google-voice-2026/), store loyalty programs, dating apps if your teenagers are at that age, anything you do not fully trust.
+**Alt-Number** works the same way for [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s. It is a real, functional number that receives SMS verification codes and forwards calls. Use it for any service that asks for a mobile number but does not strictly need your real one — [pizza delivery accounts](https://snipstack.io/virtual-phone-number-google-voice-2026/), store loyalty programs, dating apps if your teenagers are at that age, anything you do not fully trust.
 
 Both features are already included in your [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/). You are not paying extra for them.
 

@@ -58,7 +58,7 @@ An [email alias](https://snipstack.io/email-alias-for-pharmacy-prescription-aler
 
 Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s answer to the [email alias](https://snipstack.io/email-alias-for-webinar-registration-privacy-2026/) problem, and it is deliberately simple. You open the dashboard, click generate, and receive a forwarding alias in seconds. There are no custom domains to configure, no DNS records to set up, and no separate app to install.
 
-What makes Alt ID stand out against NFT-specific threats is the bundle. You are not just buying an alias — you are buying a privacy stack. The same subscription gives you access to Surfshark's VPN (useful for connecting to blockchain RPC nodes without leaking your IP), CleanWeb ad and tracker blocking, and antivirus scanning. For a user managing a crypto portfolio, that combination addresses three separate risk surfaces under one account.
+What makes Alt ID stand out against NFT-specific threats is the bundle. You are not just buying an alias — you are buying a privacy stack. The same subscription gives you access to Surfshark's VPN (useful for connecting to blockchain RPC nodes without leaking your IP), [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and tracker blocking, and antivirus scanning. For a user managing a crypto portfolio, that combination addresses three separate risk surfaces under one account.
 
 **Limitations to know**: Alt ID does not currently support custom domains. If you run a project or DAO and need a branded forwarding address (e.g., collab@yourproject.xyz forwarding to your real inbox), you will need SimpleLogin or AnonAddy instead.
 

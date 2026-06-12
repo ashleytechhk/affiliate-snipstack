@@ -42,7 +42,7 @@ If you're already paying for a Surfshark subscription, **Alt Number is the obvio
 
 ## Google Voice — Best Free Option, US Only
 
-Google Voice gives you a real-looking US number for free, and it passes SMS verification on most major dating apps including Tinder, Hinge, and Bumble. The catch is you need an existing US phone number to activate it, which means it's effectively US-only and requires a real SIM to set up.
+Google Voice gives you a real-looking US number for free, and it passes SMS verification on most major dating apps including Tinder, Hinge, and Bumble. The catch is you need an existing US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to activate it, which means it's effectively US-only and requires a real SIM to set up.
 
 For dating, Google Voice works well as a "middle layer" number — you can answer calls, send texts, and the caller ID shows your Voice number. If someone you met on a dating app turns out to be problematic, you can drop the number or block them without touching your real line.
 

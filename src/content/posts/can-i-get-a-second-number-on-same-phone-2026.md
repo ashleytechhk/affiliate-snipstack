@@ -68,7 +68,7 @@ For dating specifically, two things stand out:
 
 **Disposability on your terms.** If a match gets uncomfortable, you delete the number. Their calls and texts go nowhere. You can get a new number the same day. Your real number — and everything attached to it — was never involved.
 
-Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), alongside a VPN, CleanWeb ad and tracker blocking, and data breach monitoring. If you are already using a VPN (and for privacy-aware dating, you should be), the marginal cost of adding a real [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) is close to nothing.
+Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), alongside a VPN, [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and tracker blocking, and data breach monitoring. If you are already using a VPN (and for privacy-aware dating, you should be), the marginal cost of adding a real [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) is close to nothing.
 
 **[Get Surfshark Alt-Number — carrier number, no second SIM needed](/blog/altnumber?sub=can-i-get-a-second-number-on-same-phone-2026__mid)**
 
@@ -80,7 +80,7 @@ Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-sep
 
 **Free. Limited. Not built for dating app verification.**
 
-Google Voice gives you a US phone number that receives calls and texts through the Google Voice app. The setup takes five minutes and costs nothing, which makes it the default recommendation in every Reddit thread that predates 2022.
+Google Voice gives you a US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) that receives calls and texts through the Google Voice app. The setup takes five minutes and costs nothing, which makes it the default recommendation in every Reddit thread that predates 2022.
 
 The problem is that dating apps caught up. Tinder, Bumble, and Hinge actively screen for VoIP number ranges — and Google Voice is squarely in those ranges. In practice, using a Google Voice number for Tinder account creation in 2026 fails more often than it succeeds. It works more reliably on less strict apps (some niche dating sites, casual platforms with lighter verification) but not on the major apps where most people actually date.
 

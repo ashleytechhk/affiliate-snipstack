@@ -46,7 +46,7 @@ But it means your number often gets shared in the community context first, befor
 
 ## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) the Wrong Person Has Your Real Number
 
-The scenarios vary in severity, but they share a common thread: your real phone number gives someone direct, persistent access to you that is very hard to revoke.
+The scenarios vary in severity, but they share a common thread: your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) gives someone direct, persistent access to you that is very hard to revoke.
 
 **Persistent unwanted contact.** Blocking a number on iMessage or WhatsApp is not a complete solution. Someone with your number can call from a different device, use a different platform, or simply show up — because they know your neighbourhood from the same community group where they got your number.
 

@@ -30,7 +30,7 @@ Most people treat their OfferUp selling account and their dating life as complet
 
 When you post a listing, OfferUp attaches your profile — name, photo, and seller ratings — to every buyer inquiry. Many sellers also add a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) directly in the listing description to speed up communication. That's where the problem starts.
 
-Dating app users frequently encounter what researchers call "cross-platform identification": someone you matched with (or unmatched with) tracks your real identity by searching your phone number across platforms. Your number is the thread. Your OfferUp listings reveal your neighborhood. Your listing patterns reveal your schedule. Your profile photo links back to everything else.
+Dating app users frequently encounter what researchers call "cross-platform identification": someone you matched with (or unmatched with) tracks your real identity by searching your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) across platforms. Your number is the thread. Your OfferUp listings reveal your neighborhood. Your listing patterns reveal your schedule. Your profile photo links back to everything else.
 
 For women especially, the risk is real. A 2024 report by the Cyber Civil Rights Initiative found that 78% of online harassment victims who were physically located were traced through contact information shared on marketplace or e-commerce platforms — not dating apps directly.
 

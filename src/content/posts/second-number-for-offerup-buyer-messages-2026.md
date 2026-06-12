@@ -32,7 +32,7 @@ Moving a conversation off OfferUp to text feels like normal friction reduction. 
 
 **Messaging apps auto-link profiles before you say a word.** The moment a buyer saves your number in their contacts, WhatsApp and Telegram check whether an account is registered to it. If you use WhatsApp with your real number, that buyer can now see your profile photo, your status, and your last-seen timestamp — without you ever accepting them as a contact. You did not give them your WhatsApp. You gave them ten digits that pointed straight to it.
 
-The exposure is not a glitch in how these services work. It is the predictable result of using one permanent identifier — your real phone number — as the registration anchor for every piece of your digital life simultaneously.
+The exposure is not a glitch in how these services work. It is the predictable result of using one permanent identifier — your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) — as the registration anchor for every piece of your digital life simultaneously.
 
 ---
 

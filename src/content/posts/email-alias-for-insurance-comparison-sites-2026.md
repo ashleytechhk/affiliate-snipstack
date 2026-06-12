@@ -135,7 +135,7 @@ Keep it active for at least 5–7 days after submitting the quote form. Most bro
 
 **What about the [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) on the insurance form — does an alias help with calls?**
 
-An [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) only controls the email channel. If you submitted your real phone number, broker calls happen independently. To reduce call volume, check whether the comparison site has an opt-out field for partner contact, or use a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) the quote request alongside the alias.
+An [email alias](https://snipstack.io/email-alias-for-car-dealership-contact-2026/) only controls the email channel. If you submitted your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/), broker calls happen independently. To reduce call volume, check whether the comparison site has an opt-out field for partner contact, or use a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) the quote request alongside the alias.
 
 **Is Alt-ID included with my existing Surfshark subscription?**
 

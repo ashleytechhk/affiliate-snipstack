@@ -148,7 +148,7 @@ Yes. CleanWeb is included with every Surfshark subscription and is available on 
 
 ### Will ad blocking slow down my phone?
 
-Minimal impact in practice. VPN-based blockers like CleanWeb add a small amount of routing overhead, but most users don't notice it in day-to-day browsing. DNS-based blockers have near-zero performance impact. In most cases, [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) actually makes pages load faster because you're not downloading ad assets.
+Minimal impact in practice. VPN-based blockers like [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)d a small amount of routing overhead, but most users don't notice it in day-to-day browsing. DNS-based blockers have near-zero performance impact. In most cases, [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) actually makes pages load faster because you're not downloading ad assets.
 
 ### Can I use AdGuard DNS for free on my iPhone?
 

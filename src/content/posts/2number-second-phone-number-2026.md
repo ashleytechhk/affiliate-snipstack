@@ -135,7 +135,7 @@ If a match sends unwanted messages, you have two options inside Alt-Number:
 1. **Block the contact** — stops that specific person from reaching your Alt-Number
 2. **Replace the number** — get a new Alt-Number entirely, leaving the old one dead
 
-Neither option affects your real phone number. The match has no way to connect the dots from your Alt-Number to your real contact information.
+Neither option affects your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). The match has no way to connect the dots from your Alt-Number to your real contact information.
 
 When you want a fresh number for a new round of dating — new apps, new city, new situation — you replace the number and start clean.
 

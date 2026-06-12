@@ -24,7 +24,7 @@ If you sell on Depop, use dating apps, or do both, your real [phone number](http
 
 ## The Risk Nobody Talks About
 
-Phone number lookup services are widely available and free to use. Anyone with your mobile number can run it through a reverse-lookup tool and surface your full name, linked social profiles, and general location within seconds. You don't need to be a hacker. You need ten seconds and a search engine.
+[Phone number](https://snipstack.io/phone-number-alias-for-work-2026/) lookup services are widely available and free to use. Anyone with your mobile number can run it through a reverse-lookup tool and surface your full name, linked social profiles, and general location within seconds. You don't need to be a hacker. You need ten seconds and a search engine.
 
 This is the threat model that makes Depop and dating apps so exposed:
 

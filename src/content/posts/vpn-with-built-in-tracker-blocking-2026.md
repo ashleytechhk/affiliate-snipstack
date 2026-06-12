@@ -152,7 +152,7 @@ The practical case is strongest if:
 
 If you only use a small set of paid apps with no ad SDKs and never use social media on mobile, the marginal benefit shrinks. But that profile describes almost no one.
 
-The additional overhead is minimal. CleanWeb adds no measurable latency versus running Surfshark without it. There is no separate app to manage or separate subscription to pay — it is included in the Surfshark plan.
+The additional overhead is minimal. [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds no measurable latency versus running Surfshark without it. There is no separate app to manage or separate subscription to pay — it is included in the Surfshark plan.
 
 ---
 

@@ -40,7 +40,7 @@ The problem is [what happens](https://snipstack.io/what-happens-when-email-is-in
 
 ## The Verification Trap
 
-Google requires phone number verification for new accounts. This is not optional for most users — it is a mandatory step that exists to prevent spam accounts and verify that a real person is creating the account.
+Google requires [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) verification for new accounts. This is not optional for most users — it is a mandatory step that exists to prevent spam accounts and verify that a real person is creating the account.
 
 When you type your real number into that verification field, Google links it to the new account. That is the intended behavior. But for someone trying to keep their dating life separate from their personal identity, it creates a direct bridge between the two.
 

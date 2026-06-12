@@ -30,7 +30,7 @@ A [virtual number](https://snipstack.io/virtual-number-for-international-busines
 
 Most people understand a data breach as a spam problem: your number leaks, you get more robocalls. The reality is more specific — and more dangerous for anyone using dating apps.
 
-When your phone number appears in a breach, it does not just end up on a call list. It gets packaged alongside other leaked data points — your name, your email address, your home state — and sold to people-search aggregators like Whitepages, Spokeo, and BeenVerified. These sites index that information automatically and make it searchable by phone number within weeks of a breach going public.
+When your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) appears in a breach, it does not just end up on a call list. It gets packaged alongside other leaked data points — your name, your email address, your home state — and sold to people-search aggregators like Whitepages, Spokeo, and BeenVerified. These sites index that information automatically and make it searchable by phone number within weeks of a breach going public.
 
 Now consider the standard online dating progression: you match with someone, messages go well, and eventually one of you shares a phone number so you can text or move to WhatsApp. That moment — handing over your number to a stranger you have met through a swipe — is when the data broker problem becomes a dating problem.
 

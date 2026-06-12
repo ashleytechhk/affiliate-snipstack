@@ -180,13 +180,13 @@ A real mobile number from Alt-Number or Hushed does not have public registry inf
 
 **Should I use a different number for each platform (eBay, Craigslist, Facebook Marketplace)?**
 
-It depends on your exposure tolerance. If you sell across multiple platforms, using the same second number across all of them means a determined buyer can correlate your listings. If that concerns you, Alt-Number makes it easy to run more than one number simultaneously — different numbers for different platforms, managed from one app.
+It depends on your exposure tolerance. If you sell across multiple platforms, using the same [second number](https://snipstack.io/second-number-for-whatsapp-business-account-2026/) across all of them means a determined buyer can correlate your listings. If that concerns you, Alt-Number makes it easy to run more than one number simultaneously — different numbers for different platforms, managed from one app.
 
-**What if a buyer tries to scam me and I've given them my second number?**
+**What if a buyer tries to scam me and I've given them my [second number](https://snipstack.io/second-number-for-calling-overseas-cheaply-2026/)?**
 
-A second number helps with harassment and unwanted contact, not with scam prevention — eBay's buyer and seller protection handles that. If a buyer becomes harassing after a transaction, disabling your second number ends their ability to reach you by phone. You can still communicate through eBay's platform for any legitimate dispute resolution.
+A [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/) helps with harassment and unwanted contact, not with scam prevention — eBay's buyer and seller protection handles that. If a buyer becomes harassing after a transaction, disabling your [second number](https://snipstack.io/second-number-with-group-messaging-support-2026/) ends their ability to reach you by phone. You can still communicate through eBay's platform for any legitimate dispute resolution.
 
-**Does a second number work for WhatsApp or Telegram buyer communication?**
+**Does a [second number](https://snipstack.io/second-number-for-local-community-groups-2026/) work for WhatsApp or Telegram buyer communication?**
 
 Yes. Real mobile numbers from Alt-Number and Hushed can be registered with WhatsApp and Telegram as separate accounts. This lets you keep marketplace buyer conversations in a separate messaging identity entirely. VoIP numbers are increasingly blocked by WhatsApp during registration — another reason real mobile numbers are worth the small cost difference.
 

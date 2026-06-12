@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![What is a phone number for Tinder privacy and do you need one in 2026](/og/phone-number-for-tinder-privacy-2026.png)
 
-Tinder asks for your phone number during signup. That part is expected. What most people don't think about is where that number goes next — and [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) a match asks for it.
+Tinder asks for your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) during signup. That part is expected. What most people don't think about is where that number goes next — and [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) a match asks for it.
 
 If you've ever given out your real number to someone on a dating app and then wished you hadn't, you already understand the problem. This guide explains what a "[phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) Tinder privacy" actually means, why the standard advice doesn't go far enough, and the cleanest way to solve it in 2026.
 

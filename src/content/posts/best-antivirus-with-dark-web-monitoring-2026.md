@@ -164,7 +164,7 @@ These steps cost nothing. But they are not a substitute for ongoing monitoring. 
 
 ### What is dark web monitoring and do I really need it?
 
-Dark web monitoring is a service that watches underground internet marketplaces for your personal information — email addresses, passwords, phone numbers, and more. When it finds your details in a database of stolen credentials, it alerts you so you can act before anyone uses that information against you. Given that data breaches affect millions of people every year and that seniors are among the most targeted groups, yes — it is genuinely worth having.
+Dark web monitoring is a service that watches underground internet marketplaces for your personal information — email addresses, passwords, [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s, and more. When it finds your details in a database of stolen credentials, it alerts you so you can act before anyone uses that information against you. Given that data breaches affect millions of people every year and that seniors are among the most targeted groups, yes — it is genuinely worth having.
 
 **[See how Surfshark Alert handles dark web monitoring →](/blog/antivirus?sub=best-antivirus-with-dark-web-monitoring-2026__faq)**
 

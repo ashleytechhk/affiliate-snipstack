@@ -26,7 +26,7 @@ Surfshark Alt-Number gives you a working US [virtual phone number](https://snips
 
 ## Why Your [Phone Number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) Is More Dangerous Than You Think
 
-Most people treat their [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) as a low-stakes piece of information. Email gets the careful treatment — people use throwaway addresses, disable tracking pixels, read privacy policies. The phone number gets handed out freely.
+Most people treat their [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) as a low-stakes piece of information. Email gets the careful treatment — people use throwaway addresses, disable tracking pixels, read privacy policies. The [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) gets handed out freely.
 
 That is a mistake.
 

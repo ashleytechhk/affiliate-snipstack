@@ -173,7 +173,7 @@ This is where the comparison becomes clear. Norton and McAfee's introductory pri
 
 Norton and McAfee built their businesses on a model that made sense when one desktop sat in a family living room. In 2026, a college student owns multiple devices, connects to untrusted networks daily, and cannot afford to have their laptop bogged down by software that works against them.
 
-A proper **VPN antivirus bundle for college students** should cover every device, stay out of your way, include a real VPN — not a capped afterthought — and price itself honestly across multiple years. [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) does all four. Norton and McAfee, at their comparable pricing tiers, do not.
+A proper **[VPN antivirus bundle](https://snipstack.io/vpn-antivirus-bundle-student-discount-2026/) for college students** should cover every device, stay out of your way, include a real VPN — not a capped afterthought — and price itself honestly across multiple years. [Surfshark One](https://snipstack.io/surfshark-one-bundle-worth-it-2026/) does all four. Norton and McAfee, at their comparable pricing tiers, do not.
 
 If you are already annoyed enough to be reading comparison articles, you are probably annoyed enough to switch. The process takes about ten minutes.
 

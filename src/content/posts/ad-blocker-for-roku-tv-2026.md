@@ -222,6 +222,6 @@ Roku TV's advertising has become more aggressive, not less, as the platform has 
 
 The good news is the system-level ads are straightforward to block once you go outside the TV. Ten minutes of DNS configuration on your router will noticeably clean up the Roku home screen and cut the background tracking calls that follow you through the platform.
 
-For mobile-first users: the same ad infrastructure problem exists on your phone. Apps are full of banner ads, pre-rolls, and invisible tracking calls that a system-level blocker handles in one toggle. CleanWeb addresses both — your phone directly, your Roku through your router — which is why it is the most practical single-tool answer for heavy streaming users in 2026.
+For mobile-first users: the same ad infrastructure problem exists on your phone. Apps are full of banner ads, pre-rolls, and invisible tracking calls that a system-level blocker handles in one toggle. [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)dresses both — your phone directly, your Roku through your router — which is why it is the most practical single-tool answer for heavy streaming users in 2026.
 
 **[Set up CleanWeb on your phone and extend it to your Roku through your router →](/blog/adblock?sub=ad-blocker-for-roku-tv-2026__cta)**

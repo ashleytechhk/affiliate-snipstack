@@ -121,7 +121,7 @@ Use this checklist when evaluating any [online pet](https://snipstack.io/online-
 **Legitimate breeders typically:**
 - Have a verifiable physical address and welcome in-person visits
 - Provide health records, vaccination documentation, and breeder registration numbers
-- Use a stable, consistent email and phone number with a traceable history
+- Use a stable, consistent email and [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) with a traceable history
 - Accept payment via traceable methods (credit card, PayPal with buyer protection)
 - Are registered with a recognized breed organization (AKC, UKC, or equivalent)
 - Offer a health guarantee and contract

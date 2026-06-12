@@ -32,7 +32,7 @@ eSIMs have two primary use cases in 2026:
 
 **Travel data connectivity.** This is the dominant use case. Services like Airalo, Holafly, and similar providers sell short-term eSIM data plans for travelers who want local internet access without roaming fees. These plans are almost always data-only — no [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/), no SMS, no incoming calls. They get you online in a new country. That is it.
 
-**Carrier switching and dual-SIM.** High-end Android phones and iPhones from iPhone XS onwards support eSIM alongside a physical SIM. This lets you run two lines on one phone — your work line on the physical SIM, your personal line on the eSIM, for example. This does include a real phone number. But it is tied to your carrier account, registered to your real identity, and billed to you personally. You cannot discard it.
+**Carrier switching and dual-SIM.** High-end Android phones and iPhones from iPhone XS onwards support eSIM alongside a physical SIM. This lets you run two lines on one phone — your work line on the physical SIM, your personal line on the eSIM, for example. This does include a real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). But it is tied to your carrier account, registered to your real identity, and billed to you personally. You cannot discard it.
 
 Neither of these use cases overlaps with "I want a number I can give to a stranger on Hinge without it leading back to my name."
 

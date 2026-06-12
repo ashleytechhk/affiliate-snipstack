@@ -24,7 +24,7 @@ Dating apps require phone verification. When you sign up for Tinder, Bumble, or 
 
 Each of those locations is a separate exposure vector.
 
-**Platform data breaches.** Dating apps are high-value breach targets. In 2021, MeetMindful suffered a breach exposing 2.28 million user records including real names, emails, and location data. In 2020, a vulnerability in Grindr exposed users' HIV status data alongside location information. When a platform database is compromised, your phone number goes with it.
+**Platform data breaches.** Dating apps are high-value breach targets. In 2021, MeetMindful suffered a breach exposing 2.28 million user records including real names, emails, and location data. In 2020, a vulnerability in Grindr exposed users' HIV status data alongside location information. When a platform database is compromised, your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) goes with it.
 
 **Two-factor authentication interception.** Here is the specific risk that most people miss: if your 2FA is tied to your real number and someone gets hold of that number — through a breach, a SIM swap, or social engineering — they can receive your authentication codes and take over your account. Your security layer becomes their entry point.
 

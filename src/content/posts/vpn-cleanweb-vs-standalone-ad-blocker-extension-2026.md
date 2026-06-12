@@ -179,7 +179,7 @@ The DNS filtering itself adds negligible latency — typically under 1 milliseco
 
 ### Why can't I just use the free [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) instead of paying for CleanWeb?
 
-AdGuard's free DNS resolver (`dns.adguard-dns.com`) is a legitimate free option for Android users — set it under Settings → Network & Internet → Private DNS. It provides device-wide DNS blocking at no cost. The trade-offs: it does not mask your IP address, the [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s less frequently than a dedicated paid service, and on iOS you cannot configure system-wide Private DNS the same way — it requires installing a configuration profile. CleanWeb adds VPN-layer IP masking and more frequently maintained block lists alongside the DNS blocking.
+AdGuard's free DNS resolver (`dns.adguard-dns.com`) is a legitimate free option for Android users — set it under Settings → Network & Internet → Private DNS. It provides device-wide DNS blocking at no cost. The trade-offs: it does not mask your IP address, the [blocklist update](https://snipstack.io/blocklist-update-schedule-for-ublock-origin-2026/)s less frequently than a dedicated paid service, and on iOS you cannot configure system-wide Private DNS the same way — it requires installing a configuration profile. [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds VPN-layer IP masking and more frequently maintained block lists alongside the DNS blocking.
 
 ### Does CleanWeb [block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/)side apps that show their own internal ads?
 

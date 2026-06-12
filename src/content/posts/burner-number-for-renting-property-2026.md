@@ -30,7 +30,7 @@ Here's where it lands when you apply for a rental:
 
 **Rental listing platforms.** Sites like Zillow, Apartments.com, and Zumper collect your contact details when you inquire about a listing. Some store this data; all pass it to landlords and property managers who may use third-party CRM tools.
 
-**Tenant screening services.** RentSpree, TransUnion SmartMove, Buildium, and similar platforms receive your full application including phone number. These third-party services have their own data retention policies — policies you agreed to in the fine print but almost certainly didn't read.
+**Tenant screening services.** RentSpree, TransUnion SmartMove, Buildium, and similar platforms receive your full application including [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). These third-party services have their own data retention policies — policies you agreed to in the fine print but almost certainly didn't read.
 
 **Property management software.** Large apartment complexes run property management platforms like AppFolio or Yardi. Your number gets imported into these systems and can persist for years after you move out.
 

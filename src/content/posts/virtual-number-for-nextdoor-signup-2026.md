@@ -28,7 +28,7 @@ Using your real [phone number for](https://snipstack.io/phone-number-for-faceboo
 
 ## Why Nextdoor Is a Different Kind of Privacy Risk
 
-Most apps ask for your phone number to reduce fake accounts. Nextdoor asks for your number for a different reason: it verifies that you actually live in a specific neighbourhood.
+Most apps ask for your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to reduce fake accounts. Nextdoor asks for your number for a different reason: it verifies that you actually live in a specific neighbourhood.
 
 That is the entire premise of the platform. It is a hyperlocal community — posts about package theft two streets over, recommendations for local plumbers, updates from your local council. It only works if members are genuinely located where they say they are. So Nextdoor uses your phone number, your address, and in some cases your postcode to place you in a neighbourhood and give you access to that community feed.
 

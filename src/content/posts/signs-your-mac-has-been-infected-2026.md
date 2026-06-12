@@ -176,7 +176,7 @@ Apple's XProtect and Gatekeeper tools provide a solid baseline. They handle know
 
 **What should I do if I see a "virus warning" pop-up on my Mac?**
 
-Do not call any phone number shown in the pop-up. Do not enter any personal details. Force-quit your browser (Command + Option + Escape), then reopen it while holding the Shift key to prevent it from restoring the fake warning page. These pop-ups are scams — the goal is to get you to call a number so a criminal can gain remote access to your computer.
+Do not call any [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) shown in the pop-up. Do not enter any personal details. Force-quit your browser (Command + Option + Escape), then reopen it while holding the Shift key to prevent it from restoring the fake warning page. These pop-ups are scams — the goal is to get you to call a number so a criminal can gain remote access to your computer.
 
 **How do I remove a browser hijacker from Safari?**
 

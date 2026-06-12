@@ -135,7 +135,7 @@ The pattern is clear: every app from Hiya down to Truecaller operates reactively
 
 ## Frequently Asked Questions
 
-### Does Truecaller hide my phone number from people I call?
+### Does Truecaller hide my [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) from people I call?
 
 No. Truecaller identifies and blocks incoming spam calls. It does not mask or replace your outgoing caller ID. Anyone you call — or anyone you give your number to — can see your real number. For dating privacy, Truecaller offers no protection once you have shared your number with a match.
 

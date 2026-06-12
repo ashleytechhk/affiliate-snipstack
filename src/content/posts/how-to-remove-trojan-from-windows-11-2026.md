@@ -155,7 +155,7 @@ Removing a Trojan is only half the job. Prevention is what stops the next infect
 
 **Download software only from official sources.** For Windows programmes, use the Microsoft Store or the official website of the company that made the software.
 
-**Never call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) from a pop-up warning.** Legitimate security warnings on your computer never include a phone number to call.
+**Never call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) from a pop-up warning.** Legitimate security warnings on your computer never include a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to call.
 
 **Update Windows regularly.** Security updates patch known weaknesses that Trojans exploit.
 

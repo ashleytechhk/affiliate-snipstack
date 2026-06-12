@@ -80,7 +80,7 @@ Surfshark's Chrome extension installs directly into Brave with one click from th
 
 Features relevant to Brave users specifically:
 
-- **CleanWeb:** Blocks ad-serving domains and tracker scripts at the DNS level inside the browser. Brave already blocks many ads natively, but CleanWeb adds a network-layer filter that catches things Brave's content filtering misses.
+- **CleanWeb:** Blocks ad-serving domains and tracker scripts at the DNS level inside the browser. Brave already blocks many ads natively, but [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds a network-layer filter that catches things Brave's content filtering misses.
 - **WebRTC leak blocking:** WebRTC is a browser protocol that can expose your real IP address even when a proxy is active. Surfshark's extension blocks this leak explicitly.
 - **Cookie consent [popup blocker](https://snipstack.io/popup-blocker-for-windows-11-2026/):** Removes GDPR consent popups before they load — a minor but consistent quality-of-life improvement.
 - **IP display:** Shows your current masked IP address in the toolbar, so you can confirm which region Brave is presenting before you navigate to a subscription page.

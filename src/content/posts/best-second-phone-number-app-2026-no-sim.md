@@ -32,7 +32,7 @@ Here are the best options, ranked by use case and value.
 
 ![A hand holding a smartphone with multiple incoming spam call notifications stacked on screen, dimly lit modern living room background](/og/best-second-phone-number-app-2026-no-sim-inline-1.png)
 
-*The reality of leaked phone numbers in 2026 — once your number is in the database, the calls do not stop.*
+*The reality of leaked [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s in 2026 — once your number is in the database, the calls do not stop.*
 
 ## Why You Need a [Second Phone Number](https://snipstack.io/second-phone-number-apk-2026/) in 2026
 

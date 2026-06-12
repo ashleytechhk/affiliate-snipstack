@@ -167,7 +167,7 @@ Once you cancel or pause the number, messages sent to it either bounce or go una
 
 **Can I use one [virtual number](https://snipstack.io/virtual-number-monthly-vs-yearly-plan-cost-2026/) across multiple dating apps?**
 
-Yes. Your [Alt-Number](https://snipstack.io/surfshark-altnumber-vs-google-voice-2026/) is a phone number like any other — you can use it for Tinder, Hinge, Bumble, or any other service that accepts a mobile number. You can also use it as the verification number when creating new accounts on those platforms.
+Yes. Your [Alt-Number](https://snipstack.io/surfshark-altnumber-vs-google-voice-2026/) is a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) like any other — you can use it for Tinder, Hinge, Bumble, or any other service that accepts a mobile number. You can also use it as the verification number when creating new accounts on those platforms.
 
 **How is a [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-signup-2026/) different from just blocking someone?**
 

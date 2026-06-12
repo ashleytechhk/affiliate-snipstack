@@ -26,7 +26,7 @@ Surfshark Alt-Number gives you a real mobile number — not a flagged VoIP line 
 
 ---
 
-## Why Your Phone Number Is the Riskiest Thing You Share on a Dating App
+## Why Your [Phone Number](https://snipstack.io/phone-number-alias-for-work-2026/) Is the Riskiest Thing You Share on a Dating App
 
 Dating apps themselves are reasonably careful with your data. The problem is what happens the moment you move the conversation off-platform.
 

@@ -106,7 +106,7 @@ All three layers above are reactive. They deal with spoofed calls after your num
 
 The structural solution is different: give fewer entities your real number so fewer entities can distribute it.
 
-**[Surfshark Alt-Number](/blog/altnumber?sub=how-to-stop-number-spoofing-calls-2026__mid)** gives you a real alias phone number — not a VoIP line, a real mobile number that receives calls and texts normally. You use it when signing up for dating apps, when exchanging numbers with a new match, when filling out any form where you're not certain how the data will be used.
+**[Surfshark Alt-Number](/blog/altnumber?sub=how-to-stop-number-spoofing-calls-2026__mid)** gives you a real alias [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) — not a VoIP line, a real mobile number that receives calls and texts normally. You use it when signing up for dating apps, when exchanging numbers with a new match, when filling out any form where you're not certain how the data will be used.
 
 Your real number never touches those systems. It doesn't appear in the app's database. It doesn't get sold to data brokers. It doesn't end up on the lists that make you a target for spoofed calls.
 

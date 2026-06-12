@@ -26,7 +26,7 @@ A second [virtual number](https://snipstack.io/virtual-number-for-google-account
 
 ## Why Dating Apps Turn Your [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) Into a Liability
 
-When you create a profile on Tinder, Hinge, Bumble, or any other dating platform, the app typically asks for a phone number during sign-up. This serves two purposes: identity verification via a one-time SMS code, and account recovery.
+When you create a profile on Tinder, Hinge, Bumble, or any other dating platform, the app typically asks for a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) during sign-up. This serves two purposes: identity verification via a one-time SMS code, and account recovery.
 
 The problem is that your number does not stay inside that app's walled garden.
 

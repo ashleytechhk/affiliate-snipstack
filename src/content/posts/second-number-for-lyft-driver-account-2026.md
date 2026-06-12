@@ -30,7 +30,7 @@ Lyft driver accounts are tied to your real identity by design — that is how th
 
 Most online daters share a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) at some point — it is how you move from swiping to actually talking. The risk for most people is manageable: one number, one exposure point. For Lyft drivers, the exposure architecture is fundamentally different.
 
-Your Lyft driver account is publicly searchable in the sense that passengers see your name, photo, and rating before they ever step into your car. Your account is also verified with your real phone number — used for two-factor authentication, ride-related SMS alerts, and support contact. In states that require commercial driver licensing for rideshare, your name and vehicle information are also in public databases.
+Your Lyft driver account is publicly searchable in the sense that passengers see your name, photo, and rating before they ever step into your car. Your account is also verified with your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) — used for two-factor authentication, ride-related SMS alerts, and support contact. In states that require commercial driver licensing for rideshare, your name and vehicle information are also in public databases.
 
 When a match on Hinge or Tinder knows you drive for Lyft, they have a search surface that most people do not consider: your driver name. That name, combined with your city, your vehicle description, and a basic reverse-lookup of any number they can associate with your account, can reconstruct your home area, your real schedule, and contact channels you never consciously shared.
 

@@ -6,7 +6,7 @@ heroImage: "/og/second-number-for-social-media-privacy-2026.png"
 tags: ["altnumber", "privacy", "review"]
 ---
 
-In 2023, a woman in Texas matched with someone on Hinge. She never gave him her phone number. Two weeks after unmatching him, he showed up outside her workplace. He had used her Instagram handle — visible on her dating profile — to find her Facebook, then used Facebook's "People You May Know" feature combined with a reverse phone lookup to reconstruct her real contact details. The only thing that seeded the chain: the [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) she had used to register her Instagram account years earlier.
+In 2023, a woman in Texas matched with someone on Hinge. She never gave him her [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). Two weeks after unmatching him, he showed up outside her workplace. He had used her Instagram handle — visible on her dating profile — to find her Facebook, then used Facebook's "People You May Know" feature combined with a reverse phone lookup to reconstruct her real contact details. The only thing that seeded the chain: the [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) she had used to register her Instagram account years earlier.
 
 One number. One person who decided not to stop. A trail that led straight to her front door.
 

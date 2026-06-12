@@ -11,7 +11,7 @@ You want to access streaming content from a different region — or pay the lowe
 This guide answers those questions directly. What a VPN Chrome extension is, where it works well, where it falls short compared to the full VPN app, and which one makes the most sense for someone motivated primarily by streaming access and subscription savings.
 
 > **Get Surfshark — extension and full app in one subscription**
-> Unlimited devices. CleanWeb ad blocking included.
+> Unlimited devices. [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) blocking included.
 > [Get Surfshark VPN](/blog/vpn?sub=best-vpn-chrome-extension-2026__above-fold)
 
 ---

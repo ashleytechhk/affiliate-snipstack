@@ -32,7 +32,7 @@ The moment before you exchange numbers feels like progress — you are moving th
 
 **Your number connects your dating life to the rest of your digital identity.** Your Instagram account was registered with your real number. So was your Facebook. Social platforms allow phone-number searches that most users have never changed from their default settings. A match who googles your number can find accounts you created years ago, using a name you do not use on Tinder, at an address you no longer want strangers to know.
 
-The exposure is not a bug. It is the natural result of using the same permanent identifier — your phone number — across every piece of your digital life.
+The exposure is not a bug. It is the natural result of using the same permanent identifier — your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) — across every piece of your digital life.
 
 ---
 

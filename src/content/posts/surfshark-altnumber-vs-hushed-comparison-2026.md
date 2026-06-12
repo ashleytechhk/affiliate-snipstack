@@ -26,7 +26,7 @@ Surfshark Alt Number wins for online daters who already use or plan to use other
 
 Most people don't think twice before sharing a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) with a match. It feels like a natural next step — moving from in-app chat to "real" contact. What they don't realize is what that number unlocks.
 
-A phone number is a skeleton key. With it, someone can:
+A [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is a skeleton key. With it, someone can:
 
 - Run a reverse lookup and find your full name and address within minutes
 - Link your number to your other social media profiles

@@ -89,7 +89,7 @@ Surfshark Alt ID is part of [Surfshark One](https://snipstack.io/surfshark-one-v
 - It is not a standalone free tool
 - You still need to remember which alias maps to which platform (the dashboard helps)
 
-For gamers who already use or are considering a VPN for privacy or latency reasons, the bundle pricing makes Alt ID effectively free as an add-on. For someone who only wants email masking with no other privacy tools, SimpleLogin's free tier is a reasonable starting point.
+For gamers who already use or are considering a VPN for privacy or latency reasons, the bundle pricing makes Alt ID effectively free as an add-on. For someone who only wants [email masking](https://snipstack.io/email-masking-service-review-2026/) with no other privacy tools, SimpleLogin's free tier is a reasonable starting point.
 
 **[See current Alt ID pricing and get started](/blog/altid?sub=email-alias-for-gaming-platform-signup-2026__mid)**
 

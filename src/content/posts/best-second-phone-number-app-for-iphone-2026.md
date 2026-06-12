@@ -28,7 +28,7 @@ Most people treat a [phone number](https://snipstack.io/phone-number-for-tinder-
 
 ### What a stranger can learn from your mobile number alone
 
-When you text someone your iPhone number, you are not just giving them a way to call you. You are handing over:
+When you text someone your i[Phone number](https://snipstack.io/phone-number-alias-for-work-2026/), you are not just giving them a way to call you. You are handing over:
 
 - **Carrier identity** — easily looked up via free number lookup tools, which can suggest your billing region
 - **Social media cross-reference** — WhatsApp, Telegram, Signal, and Instagram all allow search by phone number unless you manually disable this in settings (most people never do)

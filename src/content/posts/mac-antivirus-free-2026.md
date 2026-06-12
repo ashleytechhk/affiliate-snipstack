@@ -167,7 +167,7 @@ A well-designed antivirus app has minimal impact on day-to-day performance. [Sur
 
 **I received a pop-up saying my Mac is infected and I need to call a number. Is that real?**
 
-No. This is one of the most common scams targeting seniors in 2026. Legitimate security software installed on your Mac will never display a message telling you to call a phone number. Any pop-up from a website making this claim is a scam, regardless of how official it looks. Close the browser tab (Command + W), do not call the number, and run a scan using real security software. If you are unsure whether a message is legitimate, call a family member or friend before taking any action — and never give a stranger remote access to your Mac.
+No. This is one of the most common scams targeting seniors in 2026. Legitimate security software installed on your Mac will never display a message telling you to call a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). Any pop-up from a website making this claim is a scam, regardless of how official it looks. Close the browser tab (Command + W), do not call the number, and run a scan using real security software. If you are unsure whether a message is legitimate, call a family member or friend before taking any action — and never give a stranger remote access to your Mac.
 
 **Can I use this if I have never installed software before?**
 

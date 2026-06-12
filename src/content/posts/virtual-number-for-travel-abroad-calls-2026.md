@@ -60,7 +60,7 @@ When you are abroad and share your real number, the person you shared it with no
 
 ### Identity Exposure Through a Foreign Contact
 
-Your phone number is the master key to your digital identity in 2026. It is the recovery method for your email. It is the second factor for your banking. It is the authentication backup for your social accounts. Sharing it with someone you met while travelling — someone you have known for days, not years — means that if that person has bad intent or their own device is compromised, your entire identity infrastructure has an unlocked entry point.
+Your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is the master key to your digital identity in 2026. It is the recovery method for your email. It is the second factor for your banking. It is the authentication backup for your social accounts. Sharing it with someone you met while travelling — someone you have known for days, not years — means that if that person has bad intent or their own device is compromised, your entire identity infrastructure has an unlocked entry point.
 
 The threat does not have to come from the match directly. A device that has your number saved can be accessed by others. Data can be sold. Contact lists from breached apps have appeared in underground markets multiple times.
 

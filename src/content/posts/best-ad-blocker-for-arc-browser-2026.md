@@ -111,7 +111,7 @@ On **mobile**, the picture is simpler: Arc Search has no extension support, the 
 
 ## CleanWeb vs. Arc Search's Built-In Blocker
 
-A question worth asking directly: if Arc Search already blocks ads in the browser, what does CleanWeb add?
+A question worth asking directly: if Arc Search already blocks ads in the browser, what does [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)d?
 
 The answer depends on how much of your phone activity goes through Arc versus other apps. If you spend three hours a day in Arc Search and ten minutes in everything else, the built-in blocker handles most of your exposure. If you are like most smartphone users — switching between six or eight apps constantly, with the browser being just one of them — the gap CleanWeb fills is substantial.
 

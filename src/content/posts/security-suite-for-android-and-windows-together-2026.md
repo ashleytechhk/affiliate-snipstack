@@ -59,7 +59,7 @@ The column that matters most here is "Same features on both platforms." [Surfsha
 
 ### [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) on Android
 
-The Android app includes the same four-component setup as Windows: full VPN with WireGuard support, real-time antivirus scanning, CleanWeb ad and tracker blocking, and Surfshark Alert breach notifications. There is no feature tiering between platforms — you log in, you get everything.
+The Android app includes the same four-component setup as Windows: full VPN with WireGuard support, real-time antivirus scanning, [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and tracker blocking, and Surfshark Alert breach notifications. There is no feature tiering between platforms — you log in, you get everything.
 
 The VPN works without a data cap and includes the kill switch, MultiHop routing, and auto-connect on untrusted Wi-Fi. This last point matters specifically for Android users: most people browse on their phones over public Wi-Fi far more often than they do on a laptop. A VPN that protects your Windows machine but leaves your phone exposed on the coffee shop network is not cross-platform security — it's a gap with good marketing.
 

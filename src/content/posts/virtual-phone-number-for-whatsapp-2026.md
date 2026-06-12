@@ -48,7 +48,7 @@ Pricing sits comfortably below most competitors at the time of writing. If you a
 
 Google Voice hands you a US number tied to your Google account. It works for WhatsApp verification as long as you are registering a US number, and the price is hard to argue with: free for personal use.
 
-The drawbacks are real. Google Voice numbers are notorious for being flagged by services that check for VoIP numbers, and WhatsApp has historically blocked some batches. Success rates vary. It also requires a US phone number to sign up, locking out most international users. And your data sits with Google — which is fine for many people but not ideal if you are specifically trying to reduce your digital footprint while dating.
+The drawbacks are real. Google Voice numbers are notorious for being flagged by services that check for VoIP numbers, and WhatsApp has historically blocked some batches. Success rates vary. It also requires a US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to sign up, locking out most international users. And your data sits with Google — which is fine for many people but not ideal if you are specifically trying to reduce your digital footprint while dating.
 
 Good fallback option if you are already in the Google ecosystem and want to test the workflow before paying for anything.
 

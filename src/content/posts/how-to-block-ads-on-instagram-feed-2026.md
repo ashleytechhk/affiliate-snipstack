@@ -149,7 +149,7 @@ CleanWeb operates at the network level and doesn't distinguish between feed, Sto
 
 ### Is there a free way to block Instagram ads on mobile?
 
-NextDNS offers a free tier (300,000 queries/month), which is enough for light use and can block a portion of Instagram's ad traffic. It requires some setup on iOS or Android. If you're already considering a VPN for privacy reasons, Surfshark's CleanWeb adds no extra cost on top of the VPN subscription, making it effectively free as a bundled feature.
+NextDNS offers a free tier (300,000 queries/month), which is enough for light use and can block a portion of Instagram's ad traffic. It requires some setup on iOS or Android. If you're already considering a VPN for privacy reasons, Surfshark's [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds no extra cost on top of the VPN subscription, making it effectively free as a bundled feature.
 
 ---
 

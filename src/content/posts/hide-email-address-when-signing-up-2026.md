@@ -72,7 +72,7 @@ Go to **Settings → [your name] → iCloud → Hide My Email** to see all your 
 
 ## Option 2: Firefox Relay
 
-Firefox Relay is Mozilla's email masking service. It is free for up to five aliases, with a paid upgrade for unlimited.
+Firefox Relay is Mozilla's [email masking service](https://snipstack.io/email-masking-service-review-2026/). It is free for up to five aliases, with a paid upgrade for unlimited.
 
 ### Step 1 — Create a Firefox Account
 

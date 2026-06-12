@@ -70,7 +70,7 @@ The process takes about three minutes:
 
 1. Download the Surfshark app and open Alt-Number from the navigation menu.
 2. Select a mobile number — US numbers work for Hinge's SMS verification.
-3. In Hinge, start the registration or re-verification flow and enter your Alt-Number when prompted for a phone number.
+3. In Hinge, start the registration or re-verification flow and enter your Alt-Number when prompted for a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/).
 4. The verification code arrives in the Surfshark app's inbox. Enter it in Hinge. Registration completes.
 5. When matches ask for your number, give them the Alt-Number — calls and texts arrive in a dedicated inbox, completely separate from your real SMS.
 6. Your real number never enters Hinge's database, never goes to a match, and never exists in the chain that runs from their phone to a data broker to your address.

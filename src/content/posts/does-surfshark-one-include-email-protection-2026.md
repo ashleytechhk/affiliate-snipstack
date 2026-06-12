@@ -132,7 +132,7 @@ Since you are evaluating whether to replace your current suite entirely, here is
 | Alert breach monitoring | Yes |
 | Alt-ID [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)es | Yes |
 | Private search engine | Yes |
-| CleanWeb ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Yes (via VPN) |
+| [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Yes (via VPN) |
 | Encrypted email client | No |
 | Email attachment scanning | No |
 | Firewall (uses OS-level) | No (uses [Windows Defender](https://snipstack.io/windows-defender-download-2026/) Firewall) |

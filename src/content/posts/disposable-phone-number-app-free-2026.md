@@ -12,7 +12,7 @@ The FTC reported that Americans lost $1.3 billion to romance scams in 2022 alone
 
 Your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is not just a way to reach you. It is an identity key. A determined person with your number can run a reverse lookup and find your full name in seconds. From there, your neighborhood, your workplace, your social profiles, and your dating history follow. In the time between one date and the next, a bad match can build a file on you that you never agreed to share.
 
-This is the risk that a **disposable phone number app** exists to close. You hand out a number you control. If things go wrong — or even if they just go nowhere — you kill the number and move on. Your real identity was never in the picture.
+This is the risk that a **disposable [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) app** exists to close. You hand out a number you control. If things go wrong — or even if they just go nowhere — you kill the number and move on. Your real identity was never in the picture.
 
 [**Get a free disposable phone number with Alt-Number today →**](/blog/altnumber?sub=disposable-phone-number-app-free-2026__above-fold)
 

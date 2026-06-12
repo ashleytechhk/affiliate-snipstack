@@ -30,7 +30,7 @@ When you sign up for Uber, you hand over a [phone number](https://snipstack.io/p
 
 Uber does mask numbers during active trips through an anonymisation relay. When a driver calls you, they should reach a proxy number, not your real line. But this masking is not universal. It does not cover in-app messages sent before or after a trip completes. It does not cover account-level data that appears in support interactions. And if a driver notes your number during a brief window where the relay drops or a call is placed outside the app, the masking provides no protection at all.
 
-Beyond the driver-contact scenario, there is a subtler risk: data breaches. Uber has experienced significant security incidents in the past. Account data — including the phone numbers registered to accounts — has appeared in these events. A number tied to your Uber account is a number tied to your real identity, your payment method, and your home and work address through your trip history.
+Beyond the driver-contact scenario, there is a subtler risk: data breaches. Uber has experienced significant security incidents in the past. Account data — including the [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s registered to accounts — has appeared in these events. A number tied to your Uber account is a number tied to your real identity, your payment method, and your home and work address through your trip history.
 
 For most people, this risk sits at a low-grade background level. For someone who also uses that same number on dating apps, the risk profile changes significantly.
 

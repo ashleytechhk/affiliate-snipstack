@@ -138,7 +138,7 @@ ScamAdviser is a free website — not a browser extension — that lets you past
 
 ### VirusTotal
 
-VirusTotal is a link and file scanning tool that routes your check through over 70 antivirus and threat intelligence engines simultaneously. If any of them flag the URL, you see it. It is thorough.
+VirusTotal is a link and file scanning tool that routes your check through over 70 [antivirus](https://snipstack.io/vs-antivirus-2026/) and threat intelligence engines simultaneously. If any of them flag the URL, you see it. It is thorough.
 
 **Best for:** Technical users who want maximum signal depth and are comfortable reading a multi-engine output.
 
@@ -188,7 +188,7 @@ Yes. Pasting a link's text into a checking tool is completely safe. You are send
 
 ### Which free browser extension is best for non-technical users?
 
-For passive protection while browsing: Google Safe Browsing is already running in your browser with no action required. For checking specific links and email addresses you received: [Surfshark Scam Checker](/blog/scamcheck?sub=browser-extension-to-check-scam-sites-2026__faq) is the most accessible option — plain-language results, no account needed for individual checks, and it covers both the link and the sender.
+For passive protection while browsing: Google Safe Browsing is already running in your [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) no action required. For checking specific links and email addresses you received: [Surfshark Scam Checker](/blog/scamcheck?sub=browser-extension-to-check-scam-sites-2026__faq) is the most accessible option — plain-language results, no account needed for individual checks, and it covers both the link and the sender.
 
 ### Can a scam site look completely safe and still be dangerous?
 

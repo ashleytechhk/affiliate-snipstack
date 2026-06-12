@@ -50,7 +50,7 @@ The core problem is number reuse across contexts that were never meant to overla
 
 **Scenario 3 — The data broker chain.** Your Upwork-verified number ends up in a data broker database. A dating app match — or their friend — purchases a people-search report. It comes back with your real name, your Upwork URL, and your last known address. You never gave them your last name on the app. They found it anyway.
 
-None of these require hacking. They require a phone number and two minutes on Google.
+None of these require hacking. They require a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) and two minutes on Google.
 
 ---
 

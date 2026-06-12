@@ -100,7 +100,7 @@ That position in the network stack makes CleanWeb browser-agnostic. Whether you 
 
 ![Surfshark CleanWeb toggle in the Surfshark mobile app — one switch covers all apps and browsers](/og/ad-blocker-for-opera-browser-2026-inline-2.png)
 
-What CleanWeb adds on top of Opera's built-in blocker:
+What [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds on top of Opera's built-in blocker:
 
 - **In-app ad blocking** — social feeds, mobile games, news apps
 - **Cross-browser tracking protection** — consistent across Opera, Chrome, and any other browser on your phone

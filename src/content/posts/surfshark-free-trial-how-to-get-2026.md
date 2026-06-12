@@ -32,7 +32,7 @@ If you cancel before the 7 days are up — by disabling auto-renewal before the 
 
 - Access to Surfshark's full server network (3,200+ servers across 100 countries)
 - WireGuard and OpenVPN protocols
-- CleanWeb ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)
+- [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)
 - Kill switch and DNS leak protection
 - Up to **3 simultaneous device connections** (vs. unlimited on paid plans)
 

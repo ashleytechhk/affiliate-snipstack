@@ -152,7 +152,7 @@ The kill switch is only as useful as the VPN's ability to reconnect quickly. Sur
 
 ### Available on All Plans
 
-Some VPN providers put the kill switch behind higher-tier plans. Surfshark includes it in the base subscription — no upgrade required. At approximately $2.19/month on a two-year plan, you are getting kill switch, WireGuard, CleanWeb ad blocking, and unlimited devices without tiered pricing decisions.
+Some VPN providers put the kill switch behind higher-tier plans. Surfshark includes it in the base subscription — no upgrade required. At approximately $2.19/month on a two-year plan, you are getting kill switch, WireGuard, [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) blocking, and unlimited devices without tiered pricing decisions.
 
 ### No-Logs Policy (Audited)
 

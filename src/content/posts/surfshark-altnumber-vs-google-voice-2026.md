@@ -32,7 +32,7 @@ The threat is not hypothetical. Dating apps have faced multiple large data expos
 
 ### What a Single [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) Reveals
 
-**Reverse lookup databases** are free, instant, and comprehensive. Services like Spokeo, Whitepages, and BeenVerified index public records, social accounts, and data broker compilations. A search on your phone number can return your full name, current and previous addresses, age, and relatives. This is legal, it is free, and anyone can do it in seconds.
+**Reverse lookup databases** are free, instant, and comprehensive. Services like Spokeo, Whitepages, and BeenVerified index public records, social accounts, and data broker compilations. A search on your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) can return your full name, current and previous addresses, age, and relatives. This is legal, it is free, and anyone can do it in seconds.
 
 **Social profile linking** happens automatically on WhatsApp, Telegram, Signal, and iMessage. The moment someone saves your number, their app checks whether it matches an existing account. If you use WhatsApp with your real number, anyone who has that number can see your profile photo, your status, and your last-seen timestamp — all without you accepting them as a contact.
 

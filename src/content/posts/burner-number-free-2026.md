@@ -48,7 +48,7 @@ The free trial period lets you test the full feature set before committing. Paid
 
 **Best free option with no expiry.**
 
-Google Voice remains the gold standard for a genuinely free US phone number. You pick a number, link it to your Google account, and receive calls and texts through the app or web browser. There is no charge for calls within the US and Canada, and the number does not expire as long as you use it occasionally.
+Google Voice remains the gold standard for a genuinely free US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). You pick a number, link it to your Google account, and receive calls and texts through the app or web browser. There is no charge for calls within the US and Canada, and the number does not expire as long as you use it occasionally.
 
 The limitation for dating-app use is that Google Voice requires a valid US phone number to sign up — so it does not help if you are international. It also lacks the privacy-stack context that a purpose-built privacy tool provides. Your Google Voice activity is tied to your Google account, and Google's data practices are what they are. Still, for pure functionality at zero cost, it is hard to beat.
 

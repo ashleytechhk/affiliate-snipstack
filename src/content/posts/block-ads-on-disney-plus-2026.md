@@ -138,7 +138,7 @@ Even if you tolerate the video ads, the data harvesting is a separate considerat
 
 Disney's advertising platform collects viewing data for targeting purposes and shares it with advertising partners. When you're on the ad-supported tier, Disney+ is not just a streaming service you pay less for — it is partly an advertising product where your viewing behaviour is the inventory. The ad-tech SDKs embedded in the mobile app extend that inventory to your device's broader digital footprint.
 
-Whether that tradeoff is acceptable is a personal call. But it is a different decision than "I can handle a few ads." The tracking that accompanies those ads continues to build a profile across platforms and sessions — something the [tracker blocker for browser](https://snipstack.io/tracker-blocker-browser-extension-2026/) category of tools exists specifically to address on the web, and CleanWeb addresses at the app level.
+Whether that tradeoff is acceptable is a personal call. But it is a different decision than "I can handle a few ads." The tracking that accompanies those ads continues to build a profile across platforms and sessions — something the [tracker blocker for browser](https://snipstack.io/tracker-blocker-browser-extension-2026/) category of tools exists specifically to address on the web, and [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)dresses at the app level.
 
 ---
 

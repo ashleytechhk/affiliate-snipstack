@@ -32,7 +32,7 @@ When they do book, you exchange [phone number](https://snipstack.io/phone-number
 
 Most of the time, clients are exactly what they look like: people who need a shelf assembled or a TV mounted. But some percentage of people who see a profile photo they find attractive will treat TaskRabbit as a second kind of platform. Pew Research found that 37% of people who have ever used a dating app reported being harassed — harassment that frequently extends off-platform once any personal contact information is exchanged.
 
-When that contact information is a phone number that's also linked to a public gig profile with your face on it, the situation compounds quickly.
+When that contact information is a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) that's also linked to a public gig profile with your face on it, the situation compounds quickly.
 
 ---
 

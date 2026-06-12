@@ -14,7 +14,7 @@ This is how exposure works in 2026: one platform serves as a lookup anchor, and 
 
 Your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is the thread that connects all of it.
 
-Your Instacart shopper account is tied to your real name, your verified identity documents, and the phone number you registered with. That number handles SMS verification, order alerts, and support contact. It is not visible on the shopper profile customers see — but it is the authentication anchor for an account that is very much tied to your real-world presence.
+Your Instacart shopper account is tied to your real name, your verified identity documents, and the [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) you registered with. That number handles SMS verification, order alerts, and support contact. It is not visible on the shopper profile customers see — but it is the authentication anchor for an account that is very much tied to your real-world presence.
 
 [**Get a second number for your Instacart shopper account before your next delivery gives someone a reason to look →**](/blog/altnumber?sub=second-number-for-instacart-shopper-account-2026__above-fold)
 

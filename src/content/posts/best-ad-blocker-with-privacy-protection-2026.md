@@ -153,7 +153,7 @@ They serve different scopes. A browser extension like [uBlock Origin](https://sn
 Surfshark uses the WireGuard protocol by default, which adds minimal overhead — typically under 5ms of additional latency on a good server. In practice, many users find their browsing feels faster with CleanWeb active, because ad assets are never downloaded. The bandwidth savings from not loading ad content more than offset the small VPN overhead.
 
 **Is CleanWeb free or does it cost extra?**
-CleanWeb is included in all Surfshark plans — there is no add-on fee. When you subscribe to Surfshark, you get VPN protection plus CleanWeb ad and tracker blocking as part of the same subscription.
+CleanWeb is included in all Surfshark plans — there is no add-on fee. When you subscribe to Surfshark, you get VPN protection plus [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) and tracker blocking as part of the same subscription.
 
 ---
 

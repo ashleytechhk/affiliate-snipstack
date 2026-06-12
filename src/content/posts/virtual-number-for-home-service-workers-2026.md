@@ -40,7 +40,7 @@ Online daters are walking into the same trap. You post a profile. You match with
 
 ## Why a [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) Is More Dangerous Than You Think
 
-Most people treat a phone number as low-stakes contact information. That instinct is wrong, and the asymmetry between what you think you're sharing and what you're actually exposing is significant.
+Most people treat a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) as low-stakes contact information. That instinct is wrong, and the asymmetry between what you think you're sharing and what you're actually exposing is significant.
 
 A mobile number links to:
 

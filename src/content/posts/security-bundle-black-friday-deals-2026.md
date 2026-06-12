@@ -61,7 +61,7 @@ Black Friday multi-yr deals  | Yes — deep discount    | Promotional pricing   
 
 ### What you get in the bundle
 
-**VPN:** The same engine as Surfshark's standalone product — WireGuard and OpenVPN protocols, 3,200-plus servers in 100 countries, unlimited simultaneous connections, a verified no-logs policy, and CleanWeb ad blocking built in. Norton's bundled VPN caps daily data on lower tiers; McAfee's VPN routes through third-party infrastructure. Surfshark's is uncapped and in-house.
+**VPN:** The same engine as Surfshark's standalone product — WireGuard and OpenVPN protocols, 3,200-plus servers in 100 countries, unlimited simultaneous connections, a verified no-logs policy, and [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) blocking built in. Norton's bundled VPN caps daily data on lower tiers; McAfee's VPN routes through third-party infrastructure. Surfshark's is uncapped and in-house.
 
 **Antivirus:** Real-time malware protection and scheduled scanning for Windows and macOS. Surfshark's antivirus engine is newer than Norton's, which means it does not have a fifteen-year benchmark history — but it also was not written with fifteen-year-old legacy code. Independent tests rate it as solid for everyday protection. System performance impact is low; scans do not throttle the machine the way Norton's full scans tend to.
 

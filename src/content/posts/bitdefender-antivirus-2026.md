@@ -35,7 +35,7 @@ Bitdefender Antivirus Plus is a focused, excellent product. If pure malware prot
 | VPN (unlimited) | No | Yes (3,200+ servers) |
 | Data breach alerts | No | Yes (email, ID, card) |
 | Private search | No | Yes (no logs, no ads) |
-| Alternative ID / email masking | No | Yes |
+| Alternative ID / [email masking](https://snipstack.io/email-masking-service-review-2026/) | No | Yes |
 | Ad & [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Limited (web extension) | Yes (CleanWeb) |
 | Webcam & mic protection | Yes (higher tiers) | No |
 | Password manager | Yes (higher tiers) | No |

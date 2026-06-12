@@ -80,7 +80,7 @@ Independent lab testing has rated it as competent. It does not have three decade
 
 This is where the value calculation tips sharply in Surfshark's favor. The VPN covers unlimited devices under one plan — your laptop, phone, tablet, partner's devices — at no extra charge. Norton's base tier VPN covers one device. McAfee's device limits depend on which plan you are on.
 
-WireGuard and OpenVPN protocols, kill switch, and CleanWeb ad blocking are all included. The architecture is audited by independent security firms and operates on a no-logs policy.
+WireGuard and OpenVPN protocols, kill switch, and [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) blocking are all included. The architecture is audited by independent security firms and operates on a no-logs policy.
 
 ### Surfshark Search — No Tracking, No Ads
 

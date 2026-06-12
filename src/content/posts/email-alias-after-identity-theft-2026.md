@@ -63,7 +63,7 @@ Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-20
 
 **What works well:**
 
-- Identity generation per alias, not just email masking
+- Identity generation per alias, not just [email masking](https://snipstack.io/email-masking-service-review-2026/)
 - Unlimited aliases on all plans
 - Two-way reply masking — replies go out from your alias, not your real address
 - Instant toggle (pause) or permanent deletion per alias

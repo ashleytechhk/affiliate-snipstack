@@ -65,7 +65,7 @@ All four tools below are measured against these four criteria.
 
 ### Surfshark Alt ID
 
-Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s email masking feature, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ plans. You generate a new alias inside the Surfshark app — desktop or mobile — and get a forwarding address that routes to your real inbox. The address uses a custom domain that looks like a plausible personal email, not a known alias service.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [email masking](https://snipstack.io/email-masking-service-review-2026/) feature, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+ plans. You generate a new alias inside the Surfshark app — desktop or mobile — and get a forwarding address that routes to your real inbox. The address uses a custom domain that looks like a plausible personal email, not a known alias service.
 
 **For returns tracking:** Alt ID excels. Forwarding is persistent by default — you do not need to renew or touch anything. The in-app alias list shows you every address you have created, with the ability to label them by store. When a return is complete and you no longer need emails from that retailer, you toggle off forwarding for that alias in one tap.
 

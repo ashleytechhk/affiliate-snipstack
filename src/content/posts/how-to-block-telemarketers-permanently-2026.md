@@ -32,7 +32,7 @@ Dating apps are a rich source of [phone number](https://snipstack.io/phone-numbe
 
 - **App permissions:** Many dating apps request contact access. Some share anonymized data with advertising partners — and "anonymized" rarely stays that way for long.
 - **Third-party integrations:** Apps use analytics SDKs, ad networks, and login services. Each is a potential leak point.
-- **Data breaches:** Dating platforms are high-value targets. When a breach happens, phone numbers go straight to the gray market.
+- **Data breaches:** Dating platforms are high-value targets. When a breach happens, [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s go straight to the gray market.
 - **Mutual contacts:** When a match saves your number, their phone's contact sync can expose it to services that harvest contact metadata.
 
 None of this requires the app to do anything malicious. It's the predictable result of sharing personal data across multiple services. The only reliable fix is not sharing your real number.

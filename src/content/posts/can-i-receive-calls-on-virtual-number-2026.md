@@ -40,7 +40,7 @@ Most dating apps do their messaging within the app. The problem starts when thin
 
 Here is what can go wrong:
 
-**Reverse phone lookup.** Free tools like Whitepages or BeenVerified let anyone search a phone number and pull your full name, home address, and family members within seconds. If you give a stranger your number, you may be handing them your home address without knowing it.
+**Reverse phone lookup.** Free tools like Whitepages or BeenVerified let anyone search a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) and pull your full name, home address, and family members within seconds. If you give a stranger your number, you may be handing them your home address without knowing it.
 
 **Caller ID and location inference.** Your number's area code signals roughly where you live. In smaller cities or regions, that narrows it down significantly.
 

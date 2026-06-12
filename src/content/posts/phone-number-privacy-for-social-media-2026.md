@@ -126,7 +126,7 @@ This is proactive number privacy, not reactive filtering. Your real number is ne
 
 Google Voice offers a similar concept but is US-only, requires an active Google account, and has historically deactivated numbers that go unused for extended periods. Burner and similar apps charge per-number credits that expire.
 
-Alt-Number is included in Surfshark's suite alongside its VPN and other privacy tools, so daters who already use a VPN for their browsing activity are not paying for a standalone product. For someone actively using dating apps, the combination of a VPN and a phone number alias covers the two largest digital exposure vectors simultaneously.
+Alt-Number is included in Surfshark's suite alongside its VPN and other privacy tools, so daters who already use a VPN for their browsing activity are not paying for a standalone product. For someone actively using dating apps, the combination of a VPN and a [phone number alias](https://snipstack.io/phone-number-alias-for-work-2026/) covers the two largest digital exposure vectors simultaneously.
 
 ![Surfshark Alt-Number in use — alias routes to real device, real number stays hidden](/og/phone-number-privacy-for-social-media-2026-inline-2.png)
 

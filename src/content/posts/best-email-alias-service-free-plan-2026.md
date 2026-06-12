@@ -51,7 +51,7 @@ The question isn't whether to use one. The question is which free plan gives you
 
 ### Surfshark Alt-ID
 
-Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s email masking feature, included with their subscription plans. It generates randomized aliases that forward to your real inbox, supports two-way replies, and lets you disable or delete any alias instantly from a clean dashboard.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [email masking](https://snipstack.io/email-masking-service-review-2026/) feature, included with their subscription plans. It generates randomized aliases that forward to your real inbox, supports two-way replies, and lets you disable or delete any alias instantly from a clean dashboard.
 
 **Free plan specifics:** Alt-ID is not a standalone free product — it comes bundled with Surfshark's paid subscription. However, Surfshark offers a money-back trial period, which effectively gives you free access to test it. If you're already paying for a VPN (or considering one), the bundled value is strong: you get alias management plus VPN plus data-removal tools for the price of one subscription.
 

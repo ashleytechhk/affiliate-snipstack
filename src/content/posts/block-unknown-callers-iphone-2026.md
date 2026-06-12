@@ -62,7 +62,7 @@ Understanding the mechanics helps you set realistic expectations.
 iOS matches incoming calls against three sources before deciding to ring or silence:
 
 1. **Your Contacts app** — anyone stored there rings through
-2. **Your Mail app** — email addresses associated with phone numbers in recent messages
+2. **Your Mail app** — email addresses associated with [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s in recent messages
 3. **Recent outgoing calls** — anyone you called in the past few days
 
 A number that appears in none of those sources gets silenced and routed to voicemail.

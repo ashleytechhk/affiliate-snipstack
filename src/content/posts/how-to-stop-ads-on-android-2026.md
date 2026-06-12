@@ -164,7 +164,7 @@ This stack costs you nothing at Tier 1, and the VPN subscription at Tier 2 cover
 ## FAQ
 
 **Does Android have a built-in [ad blocker](https://snipstack.io/ad-blocker-extensions-2026/)?**
-Not directly, but the Private DNS setting (Android 9+) lets you point your device at a DNS resolver that blocks ad domains. It is free, built in, and requires no additional app. AdGuard DNS and NextDNS are the most popular options. For broader coverage including tracker blocking and phishing protection, a VPN with CleanWeb adds meaningful additional layers.
+Not directly, but the Private DNS setting (Android 9+) lets you point your device at a DNS resolver that blocks ad domains. It is free, built in, and requires no additional app. AdGuard DNS and NextDNS are the most popular options. For broader coverage including tracker blocking and phishing protection, a VPN with [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/)ds meaningful additional layers.
 
 **Will [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) break apps?**
 Occasionally. A small number of apps check for their ad SDK before loading content, and aggressive DNS blocking can trigger those checks. If an app stops loading, temporarily disable your DNS blocking or whitelist the app's domain in your resolver settings. This is rare with standard blocklists from AdGuard or NextDNS.

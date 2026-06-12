@@ -60,7 +60,7 @@ If you receive a suspicious bank text, copying a few words from the message — 
 
 **Where it falls short:** Brand-new campaigns — texts that started circulating hours or days ago — may not have any search results yet. Scammers regularly rotate their wording, [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s, and sender IDs to stay ahead of community reporting. A clean Google result does not mean the text is safe; it may simply mean it is new.
 
-**Best for:** A quick second opinion when the text message feels familiar, or when you want to see if a specific phone number has been flagged by other users.
+**Best for:** A quick second opinion when the text message feels familiar, or when you want to see if a specific [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) has been flagged by other users.
 
 ---
 

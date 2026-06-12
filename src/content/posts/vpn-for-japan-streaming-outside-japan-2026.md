@@ -105,7 +105,7 @@ There are many VPN options available, but Japan streaming has specific requireme
 
 **No-logs policy, independently audited.** Surfshark does not record your browsing or streaming activity. Third-party security audits have verified this claim.
 
-**CleanWeb ad blocking.** Built-in tracker and ad blocking works across all connections, including streaming — cleaner experience with no injected ads on certain platforms.
+**[CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) blocking.** Built-in tracker and ad blocking works across all connections, including streaming — cleaner experience with no injected ads on certain platforms.
 
 **Price.** On a two-year plan, Surfshark's monthly cost is lower than almost every competitor at the same quality tier. For a use case that revolves around saving money on subscriptions, the VPN cost needs to make financial sense — and Surfshark's does.
 
