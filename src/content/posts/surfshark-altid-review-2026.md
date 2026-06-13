@@ -128,7 +128,7 @@ Alias management from that point is ongoing: any time you are about to sign up f
 
 ## Pricing
 
-Alt ID is not available as a standalone product. It is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)+ subscription tiers, which bundle VPN access, antivirus, Surfshark Alert (breach monitoring), and the alias tool.
+Alt ID is not available as a standalone product. It is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)+ subscription tiers, which bundle VPN access, [antivirus](https://snipstack.io/vs-antivirus-2026/), Surfshark Alert (breach monitoring), and the alias tool.
 
 For current pricing, see the [Surfshark One deals page](/blog/altid?sub=surfshark-altid-review-2026__faq) — promotional rates on multi-year plans change frequently. The 30-day money-back guarantee means you can test the full setup within a billing cycle.
 
@@ -162,7 +162,7 @@ Some services block known alias domains at sign-up. Alt ID may offer alternative
 
 ### Is Alt ID included in the basic Surfshark VPN plan?
 
-No. Alt ID requires Surfshark One or Surfshark One+. The standard VPN-only plan does not include it. [View current pricing and plans](/blog/altid?sub=surfshark-altid-review-2026__faq).
+No. Alt ID requires [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) or [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)+. The standard VPN-only plan does not include it. [View current pricing and plans](/blog/altid?sub=surfshark-altid-review-2026__faq).
 
 ---
 
