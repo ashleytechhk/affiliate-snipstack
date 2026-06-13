@@ -96,7 +96,7 @@ Surfshark's pricing as of 2026:
 
 The arbitrage math on the 2-year plan:
 
-- VPN annual cost: ~$52 (2-year rate spread annually)
+- [VPN annual](https://snipstack.io/vpn-annual-plan-discount-2026/) cost: ~$52 (2-year rate spread annually)
 - YouTube Premium India vs US savings: ~$120–130/year
 - Netflix Turkey vs US savings: ~$130–140/year
 - Disney+ comparable savings: ~$60–80/year

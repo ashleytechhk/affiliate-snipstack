@@ -46,7 +46,7 @@ A [virtual number](https://snipstack.io/virtual-number-for-real-estate-agents-20
 
 ![Diagram showing how a virtual number routes incoming calls to a real cell phone — the caller dials the virtual number, the call arrives on the owner's real device](/og/virtual-number-that-forwards-to-cell-2026-inline-1.png)
 
-When someone calls or texts your forwarding number, the call or message arrives on your existing phone — the same device you always use, through the same notification system. You do not need to open a separate app, check a second inbox, or carry an additional device. From your end, the call rings exactly like any other call. From the caller's end, the number behaves like any standard mobile number.
+When someone calls or texts your [forwarding number](https://snipstack.io/forwarding-number-for-small-business-2026/), the call or message arrives on your existing phone — the same device you always use, through the same notification system. You do not need to open a separate app, check a second inbox, or carry an additional device. From your end, the call rings exactly like any other call. From the caller's end, the number behaves like any standard mobile number.
 
 **The forwarding mechanism is what makes it usable day-to-day.** You give out the [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/) and then forget about it — until someone calls it. Your behavior does not change. Your habits do not change. You just never need to give out your real number to get there.
 

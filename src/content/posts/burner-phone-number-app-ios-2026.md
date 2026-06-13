@@ -113,7 +113,7 @@ Note on Alt-Number: it lives inside the Surfshark app rather than as a standalon
 1. Open Google Voice and sign in with your Google account.
 2. Tap **Search** and enter a city or area code where you want your number.
 3. Select a number from the list.
-4. Google Voice will ask you to verify a forwarding number — enter your real i[Phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to receive calls.
+4. Google Voice will ask you to verify a [forwarding number](https://snipstack.io/forwarding-number-for-small-business-2026/) — enter your real i[Phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to receive calls.
 5. Once verified, your Google Voice number is active. Calls forward to your real phone; texts appear in the Google Voice app.
 
 **Important caveat:** Google Voice numbers are frequently rejected by dating apps at the SMS verification step. If you're setting up a new Tinder or Hinge account, test the number first before you need it.

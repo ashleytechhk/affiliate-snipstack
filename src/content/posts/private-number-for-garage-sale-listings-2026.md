@@ -72,7 +72,7 @@ Surfshark Alt Number is a [virtual number](https://snipstack.io/second-number-wi
 
 ### Setup Takes Three Minutes
 
-You activate Alt Number through the Surfshark app. You do not need to link your real phone number during setup. There is no forwarding number required. The number is assigned to your account, not registered in your name in any public-facing system.
+You activate Alt Number through the Surfshark app. You do not need to link your real phone number during setup. There is no [forwarding number](https://snipstack.io/forwarding-number-for-small-business-2026/) required. The number is assigned to your account, not registered in your name in any public-facing system.
 
 ### It Passes Dating App SMS Verification
 

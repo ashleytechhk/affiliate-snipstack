@@ -52,7 +52,7 @@ Google Voice has existed since 2009 and remains one of the most widely used free
 
 ### The Privacy Ceiling You Hit With Google Voice
 
-**Google knows your real number.** Setup requires you to link a real forwarding number. This is non-negotiable. Google's system does not anonymise you from Google — it anonymises you from the person on the other end. If your threat model includes Google's data practices, this is a significant gap.
+**Google knows your real number.** Setup requires you to link a real [forwarding number](https://snipstack.io/forwarding-number-for-small-business-2026/). This is non-negotiable. Google's system does not anonymise you from Google — it anonymises you from the person on the other end. If your threat model includes Google's data practices, this is a significant gap.
 
 **Your real identity connects to your Google account.** If your Google account uses your real name (and most do, given Gmail's long-standing real-name culture and Google Workspace policies), then your Voice number is one step removed from your real identity in a data ecosystem that monetises targeting. It is a thin layer.
 

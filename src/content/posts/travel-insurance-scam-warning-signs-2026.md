@@ -81,7 +81,7 @@ Look up the company name plus "license" or "complaints" in your government's fin
 Find the company's [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) independently — not from the email or website you are checking — and call to verify the policy.
 
 **Pros:** Definitive answer.
-**Cons:** Takes 15 to 30 minutes. Scammers sometimes set up call-forwarding numbers to intercept these checks.
+**Cons:** Takes 15 to 30 minutes. Scammers sometimes set up call-[forwarding number](https://snipstack.io/forwarding-number-for-small-business-2026/)s to intercept these checks.
 
 ### Option 3: Use an Email Scam Checker
 

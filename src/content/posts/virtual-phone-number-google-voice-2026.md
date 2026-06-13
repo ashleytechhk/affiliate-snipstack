@@ -47,7 +47,7 @@ Go to voice.google.com, sign in with your Google account, and click "Get a voice
 
 ### Step 3 — Verify With Your Real Number
 
-Google requires you to link a real forwarding number. This is a critical privacy note: Google knows your actual number. The [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) is a mask to outside callers, not to Google.
+Google requires you to link a real [forwarding number](https://snipstack.io/forwarding-number-for-small-business-2026/). This is a critical privacy note: Google knows your actual number. The [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/) is a mask to outside callers, not to Google.
 
 ### Step 4 — Choose Your Number
 

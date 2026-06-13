@@ -35,7 +35,7 @@ A [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is a sk
 
 Dating violence and harassment are not fringe concerns. Studies consistently show that women, LGBTQ+ daters, and younger users face outsized risk when personal contact details leak to the wrong person.
 
-The safest habit is to never give out your real number until you genuinely trust someone. A [second number](https://snipstack.io/second-number-for-reddit-account-verification-2026/) app lets you do exactly that — hand over a forwarding number that you can delete the moment things go sideways, with zero trace back to you.
+The safest habit is to never give out your real number until you genuinely trust someone. A [second number](https://snipstack.io/second-number-for-reddit-account-verification-2026/) app lets you do exactly that — hand over a [forwarding number](https://snipstack.io/forwarding-number-for-small-business-2026/) that you can delete the moment things go sideways, with zero trace back to you.
 
 ---
 

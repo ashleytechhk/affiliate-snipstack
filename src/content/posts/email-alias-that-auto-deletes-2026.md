@@ -80,13 +80,13 @@ Not all alias tools handle this the same way. Here is how the main options compa
 
 **SimpleLogin** is a persistent forwarding alias service with on-demand delete, same category as Alt ID. The free tier caps you at 10 active aliases, which fills up fast once you adopt the one-alias-per-service habit. It does not generate alternative identity details alongside the alias.
 
-**Alt ID** is Surfshark's masked alias tool, included with all Surfshark plans. It generates unlimited aliases, forwards everything to your real inbox, and lets you deactivate or delete any alias in seconds. It also generates alternative identity details — name, date of birth — useful when a sign-up form asks for more than just your email. If you are a Surfshark subscriber already, Alt ID costs nothing extra. If you're not, the subscription bundles VPN and other privacy tools alongside it.
+**Alt ID** [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s masked alias tool, included with all Surfshark plans. It generates unlimited aliases, forwards everything to your real inbox, and lets you deactivate or delete any alias in seconds. It also generates alternative identity details — name, date of birth — useful when a sign-up form asks for more than just your email. If you are a Surfshark subscriber already, Alt ID costs nothing extra. If you're not, the subscription bundles VPN and other privacy tools alongside it.
 
 For a Spam-Exhausted Inbox Owner dealing with 50+ messages a day across multiple services, the unlimited alias allowance in Alt ID is the practical differentiator. SimpleLogin's free cap runs out. And the timed tools don't solve the problem at all.
 
 ---
 
-## How to Use Alt ID to Stop Spam: A Simple Setup
+## [How to Use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) Alt ID to Stop Spam: A Simple Setup
 
 **Step 1.** Get Alt ID through a [Surfshark plan](/blog/altid?sub=email-alias-that-auto-deletes-2026__mid). Alt ID is included with all subscription tiers — no add-on cost.
 
@@ -120,15 +120,15 @@ Deactivating pauses forwarding — the alias still exists and can be reactivated
 
 You can try, but you'll lose access to order confirmations, shipping updates, and password resets once the address expires. For any service where you expect ongoing correspondence, use a persistent on-demand-delete alias instead. Reserve timed throwaways for one-click registrations you'll never return to.
 
-**What happens when I delete an Alt ID alias — does the sender know?**
+**[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I delete an Alt ID alias — does the sender know?**
 
 The sender gets a bounce or permanent delivery failure, the same response any mail server returns for a non-existent address. They receive no notification that an alias was deleted. From their side, it looks the same as if the address never existed.
 
-**Does using an [email alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/) protect me from all spam?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/) protect me from all spam?**
 
 It protects the email address itself from being burned. If a service leaks your alias, you can revoke it and the spam stops. It does not protect against spam that arrives before you deactivate, and it doesn't filter spam that comes through your real address from older exposures. For your existing real address, spam filters and Gmail's Promotions tab still do useful work. The alias model is the structural fix for all future signups.
 
-**Is Alt ID the same as a completely disposable email address?**
+**Is Alt ID the same as a completely [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) address?**
 
 Not exactly. A disposable address typically expires automatically and has no forwarding. An Alt ID alias is persistent and forwards to your real inbox — it behaves like a normal email address for legitimate purposes. The "disposable" quality is that you can destroy it instantly, on your schedule, rather than having it disappear on its own.
 

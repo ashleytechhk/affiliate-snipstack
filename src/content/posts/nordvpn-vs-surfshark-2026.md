@@ -47,7 +47,7 @@ Surfshark typically runs around $2.19/month on its 2-year plan. NordVPN's compar
 
 Here's where it gets interesting for cost-focused users: that $28 difference is almost entirely erased by one month of a cheaper regional streaming subscription. But Surfshark doesn't just save you money on the VPN itself — it helps you save more on subscriptions, faster, because you're not spending as much to get started.
 
-If you're running the numbers on ROI — VPN annual cost vs. streaming savings — Surfshark's lower entry cost means your break-even point arrives sooner.
+If you're running the numbers on ROI — [VPN annual](https://snipstack.io/vpn-annual-plan-discount-2026/) cost vs. streaming savings — Surfshark's lower entry cost means your break-even point arrives sooner.
 
 ---
 
