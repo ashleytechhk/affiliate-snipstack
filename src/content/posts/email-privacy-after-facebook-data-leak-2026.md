@@ -136,7 +136,7 @@ With a **plain alias service** (SimpleLogin, addy.io): they have a masked email 
 
 With **Alt ID**: they have a masked email address tied to a fictional name and date of birth. Even if a second breach somewhere else exposes the same fictional identity, it does not connect back to you — the fictional person does not exist. Cross-database identity correlation, which is [how data brokers](https://snipstack.io/how-data-brokers-get-your-email-address-2026/) build detailed profiles on real people, has nothing to work with.
 
-This matters more than most alias comparisons acknowledge. Single-service isolation is good. Cross-database identity protection is better.
+This matters more than most alias comparisons acknowledge. Single-service isolation is good. Cross-database [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) is better.
 
 ![Alt ID alias dashboard showing multiple masked identities with toggle controls](/og/email-privacy-after-facebook-data-leak-2026-inline-2.png)
 

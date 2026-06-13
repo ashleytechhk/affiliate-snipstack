@@ -51,7 +51,7 @@ Norton and McAfee are not bad products at the technical level. Their malware det
 
 **Renewal pricing.** Both use a classic promotional bait model. The first-year rate looks reasonable. At renewal, the price nearly doubles or triples. Many users discover this only when they see the charge on their bank statement.
 
-**Bloatware and upsell pressure.** Open Norton 360 and you will see prompts for Norton LifeLock, Norton VPN upgrades, Norton Password Manager premium, and Norton PC Tuneup — some of these are paid add-ons presented inside a suite you are already paying for. McAfee does the same with identity protection tiers and Safe Connect VPN upgrades. Every notification is an opportunity to sell you something.
+**Bloatware and upsell pressure.** Open Norton 360 and you will see prompts for Norton LifeLock, Norton VPN upgrades, Norton Password Manager premium, and Norton PC Tuneup — some of these are paid add-ons presented inside a suite you are already paying for. McAfee does the same with [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) tiers and Safe Connect VPN upgrades. Every notification is an opportunity to sell you something.
 
 **Device limits.** Both cap standard plans at five devices. If you have a laptop, desktop, phone, tablet, and a family member's device — you are at the limit. Adding a sixth device means upgrading to a higher tier.
 

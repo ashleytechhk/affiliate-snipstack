@@ -93,7 +93,7 @@ The subscription also includes an unlimited VPN (useful when you are using publi
 
 Norton has been around for decades and has genuine name recognition. Its malware detection rates are among the highest in independent lab tests, and its ransomware protection is real.
 
-The problems are the weight and the upsell pressure. Norton installs multiple background services that, on older computers with 4 GB or 8 GB of memory, can noticeably slow things down. The interface is also busy — you will regularly see prompts to add LifeLock identity protection, expand your cloud backup storage, or upgrade to a higher plan. For seniors who just want protection and no fuss, these constant prompts can be confusing and stressful.
+The problems are the weight and the upsell pressure. Norton installs multiple background services that, on older computers with 4 GB or 8 GB of memory, can noticeably slow things down. The interface is also busy — you will regularly see prompts to add LifeLock [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/), expand your cloud backup storage, or upgrade to a higher plan. For seniors who just want protection and no fuss, these constant prompts can be confusing and stressful.
 
 The VPN included with Norton 360 Standard is also capped — you get a monthly data limit rather than unlimited usage, which is a significant limitation if you browse the internet regularly.
 

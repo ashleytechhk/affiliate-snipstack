@@ -96,7 +96,7 @@ The case where it loses: anything involving public Wi-Fi, more than five devices
 
 McAfee has improved its software substantially since splitting from Intel, and its antivirus engine is genuinely capable. But for online banking specifically, the VPN cap is a real obstacle. 500 MB per day on the base plan is not enough for anyone who banks on public networks with any frequency.
 
-McAfee's identity protection is US-centric — less useful outside North America, and the international coverage it does offer does not match the continuous breach monitoring Surfshark Alert provides. The renewal cost follows the same pattern as Norton: aggressive intro pricing, then a significant jump at year two.
+McAfee's [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) is US-centric — less useful outside North America, and the international coverage it does offer does not match the continuous breach monitoring Surfshark Alert provides. The renewal cost follows the same pattern as Norton: aggressive intro pricing, then a significant jump at year two.
 
 If you are already a McAfee subscriber who rarely uses public Wi-Fi and banks only from home on a trusted network, the suite is serviceable. If any part of your banking happens on shared or public networks, the base plan's VPN cap is a meaningful gap.
 

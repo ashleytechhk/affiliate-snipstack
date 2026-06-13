@@ -12,7 +12,7 @@ You signed up for Norton at $29.99 for the first year. Then the renewal landed i
 
 That cycle is exactly what a growing number of users are escaping. The question is: what do you actually need in a [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/), and what does it cost without the first-year bait-and-switch?
 
-This comparison focuses on [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s that include **identity protection** — specifically breach monitoring, not just [antivirus](https://snipstack.io/vs-antivirus-2026/). If you are carrying a Norton or McAfee subscription and wondering whether you are overpaying, these numbers will give you a clear answer.
+This comparison focuses on [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s that include **[identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/)** — specifically breach monitoring, not just [antivirus](https://snipstack.io/vs-antivirus-2026/). If you are carrying a Norton or McAfee subscription and wondering whether you are overpaying, these numbers will give you a clear answer.
 
 [Skip to Surfshark One — our top pick for value](/blog/one?sub=cheapest-security-suite-with-identity-protection-2026__above-fold)
 

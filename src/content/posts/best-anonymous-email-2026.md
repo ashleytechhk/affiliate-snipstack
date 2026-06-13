@@ -130,7 +130,7 @@ iCloud Hide My Email| Alias (Apple) | Partial   | No           | $0.99/mo
 
 ## Which Should You Choose?
 
-- **You want the simplest inbox-cleaning solution with identity protection** — go with Surfshark Alt-ID. The fake identity profile covers every field on a typical signup form, not just the email.
+- **You want the simplest inbox-cleaning solution with [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/)** — go with Surfshark Alt-ID. The fake identity profile covers every field on a typical signup form, not just the email.
 - **You want open-source and self-hostable** — SimpleLogin or AnonAddy.
 - **You want a private inbox, not just an alias** — ProtonMail or Tuta.
 - **You just need one throwaway address right now** — Guerrilla Mail.

@@ -103,7 +103,7 @@ The problems that push people away from Norton are real:
 - An interface loaded with upsells, optimizer tools of questionable value, and notification badges that rarely point to anything urgent
 - Device limits that force you up the pricing tiers as your household grows
 
-If you are evaluating Norton 360 fresh, the LifeLock Ultimate tier is the version that justifies the price — everything below that gives you less identity protection than you might expect from the branding.
+If you are evaluating Norton 360 fresh, the LifeLock Ultimate tier is the version that justifies the price — everything below that gives you less [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) than you might expect from the branding.
 
 ---
 

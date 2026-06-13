@@ -125,7 +125,7 @@ Neither product requires technical knowledge to operate day-to-day. Both offer a
 
 Norton is still a reasonable choice if:
 
-- You actively use Norton's LifeLock identity protection and find value in it
+- You actively use Norton's LifeLock [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) and find value in it
 - You need Windows-specific webcam protection or parental controls built into the suite
 - You or your organization relies on Norton's enterprise endpoint features
 

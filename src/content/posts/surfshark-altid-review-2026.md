@@ -128,7 +128,7 @@ Alias management from that point is ongoing: any time you are about to sign up f
 
 ## Pricing
 
-Alt ID is not available as a standalone product. It is included in Surfshark One and Surfshark One+ subscription tiers, which bundle VPN access, antivirus, Surfshark Alert (breach monitoring), and the alias tool.
+Alt ID is not available as a standalone product. It is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)+ subscription tiers, which bundle VPN access, antivirus, Surfshark Alert (breach monitoring), and the alias tool.
 
 For current pricing, see the [Surfshark One deals page](/blog/altid?sub=surfshark-altid-review-2026__faq) — promotional rates on multi-year plans change frequently. The 30-day money-back guarantee means you can test the full setup within a billing cycle.
 
@@ -136,9 +136,9 @@ For current pricing, see the [Surfshark One deals page](/blog/altid?sub=surfshar
 
 ## FAQ
 
-### What is Surfshark Alt ID and how does it work?
+### What [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt ID and how does it work?
 
-Alt ID is an [email alias service](https://snipstack.io/email-alias-service-that-works-with-apple-mail-2026/) included in Surfshark One subscriptions. You generate masked email addresses — aliases — that forward to your real inbox. Services you sign up for only see the alias, never your real address. When an alias is compromised, you delete it from the Alt ID dashboard and the spam stops, because the alias address no longer exists.
+Alt ID is an [email alias service](https://snipstack.io/email-alias-service-that-works-with-apple-mail-2026/) included in [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) subscriptions. You generate masked email addresses — aliases — that forward to your real inbox. Services you sign up for only see the alias, never your real address. When an alias is compromised, you delete it from the Alt ID dashboard and the spam stops, because the alias address no longer exists.
 
 ### Is the [surfshark altid](https://snipstack.io/surfshark-altid-vs-apple-hide-my-email-2026/) review positive — is it actually worth it?
 
@@ -152,7 +152,7 @@ No. Alt ID protects your address going forward — from the first alias you use 
 
 By default, replies from your email client use your real address. Some configurations allow you to reply from the alias, keeping your real address hidden in both directions. Check Surfshark's current setup documentation for your email client before relying on this for privacy-sensitive two-way communication.
 
-### What happens to spam emails sent to a deleted alias?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to spam emails sent to a deleted alias?
 
 They bounce. A deleted alias address simply stops existing — mail delivered to it returns to the sender with a delivery failure notice. There is no way for a spammer to "follow" a deleted alias to your real address.
 

@@ -124,7 +124,7 @@ We scored each option against these five criteria below.
 **What it does well:**
 - Strong virus detection scores
 - Includes a VPN, password manager, and cloud backup
-- LifeLock identity protection available (as an add-on)
+- LifeLock [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) available (as an add-on)
 
 **What it misses:**
 - Interface is cluttered with upsell prompts — pop-ups encouraging you to buy extras

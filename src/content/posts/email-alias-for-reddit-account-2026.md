@@ -116,7 +116,7 @@ Services like Guerrilla Mail or temp-mail give you an address that expires after
 
 SimpleLogin is a legitimate alias service with a free tier capped at 10 aliases. That ceiling disappears fast once you apply one-alias-per-service discipline across shopping, newsletters, forums, and trials. Alt ID offers unlimited aliases bundled with the Surfshark subscription — no per-alias counting, no ceiling to hit.
 
-### Alt ID Adds Identity Protection Beyond Email
+### Alt ID Adds [Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) Beyond Email
 
 Reddit sign-up only asks for an email address. But third-party apps authenticated via Reddit (scheduling tools, analytics dashboards, mobile clients) sometimes request more profile data. Alt ID can generate an alternative identity profile — alternative name, date of birth — for contexts where forms ask for more than just an email. Most alias tools stop at the address.
 

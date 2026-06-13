@@ -68,7 +68,7 @@ The main catch is the VPN data cap. Norton's standard mobile plan limits VPN usa
 
 ### Lookout — Privacy Focus, Tiered Pricing
 
-Lookout started as a smartphone security company before antivirus brands entered the space, so its mobile-first approach shows. The phishing protection is strong, and the identity protection features at higher tiers are thorough. However, the pricing structure can be confusing — the cheaper plan leaves out VPN access, and the full package jumps significantly in price.
+Lookout started as a smartphone security company before antivirus brands entered the space, so its mobile-first approach shows. The phishing protection is strong, and the [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) features at higher tiers are thorough. However, the pricing structure can be confusing — the cheaper plan leaves out VPN access, and the full package jumps significantly in price.
 
 For a senior who mainly needs link protection and breach alerts, the mid-tier plan works reasonably well. But if you also want a VPN, you will pay noticeably more than competing bundles.
 

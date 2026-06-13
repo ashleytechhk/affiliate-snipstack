@@ -120,7 +120,7 @@ The annual cost is lower than most individual antivirus subscriptions, and signi
 
 If you are comparing products before deciding, two other options appear frequently in this category:
 
-**[Norton 360](https://snipstack.io/norton-360-antivirus-2026/) with LifeLock** — Norton's flagship bundle includes [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and restoration support, which goes further than breach alerts alone. The price is significantly higher, and the full LifeLock features are a US-centric product. If you are in the US and want insurance-backed identity protection, it is worth a look — but the cost reflects those extras.
+**[Norton 360](https://snipstack.io/norton-360-antivirus-2026/) with LifeLock** — Norton's flagship bundle includes [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and restoration support, which goes further than breach alerts alone. The price is significantly higher, and the full LifeLock features are a US-centric product. If you are in the US and want insurance-backed [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/), it is worth a look — but the cost reflects those extras.
 
 **McAfee Total Protection with identity monitoring** — McAfee's bundled plan covers breach monitoring and VPN alongside malware scanning. The interface is fairly accessible, and the all-in-one approach is similar to [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/). Watch the renewal pricing closely, as introductory offers can more than double in year two.
 

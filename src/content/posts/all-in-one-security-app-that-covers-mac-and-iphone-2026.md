@@ -91,7 +91,7 @@ Generates a disposable identity — name, email, and optionally a [phone number]
 
 Norton is not a bad product. If you have used it for years, know the interface, and are on a [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) covering Windows PCs alongside your Mac and iPhone, switching may not be worth the friction. Norton's malware detection rates are consistently strong in independent lab tests.
 
-The pain points are real, though. The macOS app is resource-heavy compared to alternatives. The dashboard pushes LifeLock identity protection, dark web monitoring add-ons, and cloud backup — all at extra cost — on almost every screen. If you are paying $150 a year and using maybe 30% of what you are paying for, that is worth reconsidering.
+The pain points are real, though. The macOS app is resource-heavy compared to alternatives. The dashboard pushes LifeLock [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/), dark web monitoring add-ons, and cloud backup — all at extra cost — on almost every screen. If you are paying $150 a year and using maybe 30% of what you are paying for, that is worth reconsidering.
 
 ---
 

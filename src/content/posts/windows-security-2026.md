@@ -69,7 +69,7 @@ Windows Security only works on Windows computers. Your iPhone, Android phone, or
 
 Defender can warn you about dangerous downloads in Microsoft Edge. But if you receive a scam email that looks exactly like a real message from your bank — or a fake Amazon order confirmation — Windows Security may not catch it before you click.
 
-### Gap 5: No Identity Protection or Credit Monitoring
+### Gap 5: No [Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) or Credit Monitoring
 
 If a criminal uses your personal information to open accounts in your name, you will not find out from Windows Security. [Identity theft](https://snipstack.io/identity-theft-protection-software-2026/) often goes undetected for months.
 

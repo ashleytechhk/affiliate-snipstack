@@ -71,7 +71,7 @@ That said, the bloatware reputation did not come from nowhere. McAfee still inst
 
 The VPN included in McAfee Total Protection is among the most limited of any bundled [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/). It lacks a kill switch on some configurations, and its server network is significantly smaller than standalone VPN services. For families who actually want to use the VPN — for public Wi-Fi, for travel, for kids' device security — McAfee's offering is more checkbox than tool.
 
-Where McAfee does better than Norton: its identity protection features are available to more users across more plan tiers, and the multi-device coverage on its Premium plan (up to 10 devices) is more family-friendly than Norton's 5-device ceiling.
+Where McAfee does better than Norton: its [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) features are available to more users across more plan tiers, and the multi-device coverage on its Premium plan (up to 10 devices) is more family-friendly than Norton's 5-device ceiling.
 
 ---
 

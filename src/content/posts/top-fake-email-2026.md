@@ -120,7 +120,7 @@ Temp Mail         | Burner inbox   | Yes        | No (hrs)   | No         | Web 
 
 **For Apple users:** Hide My Email — it's already built in and costs nothing extra if you have any paid iCloud storage plan.
 
-**For the best balance of ease, persistence, and full identity protection:** Surfshark Alt-ID is the only option that pairs a forwarding alias with a generated identity — useful when a form asks for a name, not just an email.
+**For the best balance of ease, persistence, and full [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/):** Surfshark Alt-ID is the only option that pairs a forwarding alias with a generated identity — useful when a form asks for a name, not just an email.
 
 **[See Alt-ID plans — included with Surfshark One](/blog/surfshark?sub=top-fake-email-2026__mid)**
 

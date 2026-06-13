@@ -54,7 +54,7 @@ If your machine is powerful, your year-one discount made it attractive, and you 
 
 McAfee's positioning in 2026 is "unlimited devices, one price" — and that is genuinely useful for families or anyone with four or more devices. Protection rates are solid. The VPN is now included with most plans and is not bandwidth-capped, which puts it ahead of Norton on that dimension.
 
-Where McAfee loses points: the interface feels dated, the renewal prices jump significantly in year two, and the product is prone to surfacing upsell prompts for identity protection tiers that arguably should be part of the base product. There is also no private search feature — your search activity is not insulated from ad tracking just because McAfee is scanning your files.
+Where McAfee loses points: the interface feels dated, the renewal prices jump significantly in year two, and the product is prone to surfacing upsell prompts for [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) tiers that arguably should be part of the base product. There is also no private search feature — your search activity is not insulated from ad tracking just because McAfee is scanning your files.
 
 ---
 

@@ -74,7 +74,7 @@ For users outside the US, LifeLock's value drops significantly. Credit monitorin
 
 [McAfee](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) has improved since its independence from Intel — the antivirus engine is better than it was, and the interface is somewhat cleaner than it used to be. But it still carries legacy bloat, the bundled VPN is basic, and the pricing curve mirrors Norton's renewal pattern.
 
-Identity protection is US-centric. The real-time protection and web browsing safety features are functional but unremarkable. If Norton feels too expensive, McAfee isn't a meaningful upgrade — it's the same category of product at a slightly different price point.
+[Identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) is US-centric. The real-time protection and web browsing safety features are functional but unremarkable. If Norton feels too expensive, McAfee isn't a meaningful upgrade — it's the same category of product at a slightly different price point.
 
 ### Bitdefender Total Security
 

@@ -12,7 +12,7 @@ Here is what happened to a Spotify user in 2011: the desktop app served a drive-
 
 That incident is over a decade old. The scale has grown since. In 2012, researchers tracked nearly 10 billion ad impressions compromised by malvertising in a single year. By 2021, campaigns were buying Google Search ad slots to impersonate legitimate software downloads and deliver ransomware to anyone who searched for the real product.
 
-The uncomfortable part: most people think they are protected. They installed [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) on Chrome three years ago and consider the problem solved. But mobile now accounts for more than half of global web traffic, and Chrome for Android supports zero browser extensions. The [ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/) sitting on your laptop browser is doing nothing for the device in your pocket right now.
+The uncomfortable part: most people think they are protected. They installed [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) on Chrome three years ago and consider the problem solved. But mobile now accounts for more than half of global web traffic, and Chrome for Android supports zero [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. The [ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/) sitting on your laptop browser is doing nothing for the device in your pocket right now.
 
 This is the gap no one talks about. This [ad blocker](https://snipstack.io/ad-blocker-for-chromecast-streaming-device-2026/) review breaks down what extensions actually cover, where they stop, and what it takes to protect a phone that is connected to the internet more hours a day than most people's laptops.
 
@@ -52,7 +52,7 @@ It is not just about coverage gaps. Mobile devices face a structurally different
 
 ### More Time, Less Protection
 
-The average smartphone user now spends the majority of their connected hours on mobile, not desktop. That same device typically has no firewall, no antivirus, and whatever default settings came from the manufacturer. The attack surface is larger and the defences are thinner.
+The average smartphone user now spends the majority of their connected hours on mobile, not desktop. That same device typically has no firewall, no [antivirus](https://snipstack.io/vs-antivirus-2026/), and whatever default settings came from the manufacturer. The attack surface is larger and the defences are thinner.
 
 ### In-App Ad Networks Are Different
 

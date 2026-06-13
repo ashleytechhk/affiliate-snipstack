@@ -100,7 +100,7 @@ If you use a VPN at all — even occasionally — this is not a minor distinctio
 
 ## Breach Alerts: Surfshark Alert vs. Nothing
 
-Bitdefender Antivirus Plus does not include breach monitoring. You'd need to step up to Digital Identity Protection, which is a separate product at a separate price.
+Bitdefender Antivirus Plus does not include breach monitoring. You'd need to step up to Digital [Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/), which is a separate product at a separate price.
 
 Surfshark Alert monitors your email addresses, credit card numbers, and personal ID documents against breach databases and notifies you in real time when your data shows up. It's built into the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) subscription — no upgrade required.
 

@@ -57,7 +57,7 @@ Hushed is a VoIP phone number app that has been around since 2013. It gives you 
 
 **It is a VoIP number.** Dating apps and verification services increasingly screen for VoIP numbers. Hushed numbers are detectable. Some platforms reject them outright at signup. Others display flags or show the carrier as a VoIP provider, which looks suspicious to matches who check.
 
-**No broader privacy features.** Hushed is a phone number tool, nothing more. There is no VPN, no data breach monitoring, and no identity protection bundled in.
+**No broader privacy features.** Hushed is a phone number tool, nothing more. There is no VPN, no data breach monitoring, and no [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) bundled in.
 
 ---
 

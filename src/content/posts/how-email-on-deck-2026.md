@@ -53,7 +53,7 @@ Services like Netflix, Spotify, and most SaaS trials actively maintain blocklist
 
 This is the critical gap. If you want to actually use an account — check order updates, manage a subscription — a disposable address is useless. You would have to use your real email anyway, which defeats the whole purpose.
 
-### No identity protection beyond the email
+### No [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) beyond the email
 
 Email on Deck hides your email address. It does nothing to hide your name, physical address, or any other personal detail you fill into signup forms.
 

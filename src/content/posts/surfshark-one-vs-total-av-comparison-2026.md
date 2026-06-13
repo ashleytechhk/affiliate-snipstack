@@ -93,7 +93,7 @@ This is the part of [Surfshark One](https://snipstack.io/surfshark-one-trial-ava
 
 **Alternative ID** generates substitute personal details (a proxy name, a [temporary email](https://snipstack.io/temporary-email-and-password-free-2026/) address) that you can use when signing up for services you don't fully trust. It shields your real identity from sites that are likely to sell or leak your data.
 
-TotalAV's equivalent is its WebShield and Identity Protection tools, which cover breach monitoring at a basic level. It does not include a private search engine or an identity masking tool equivalent to Alternative ID.
+TotalAV's equivalent is its WebShield and [Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) tools, which cover breach monitoring at a basic level. It does not include a private search engine or an identity masking tool equivalent to Alternative ID.
 
 If your concern is the full surface area of your digital identity — not just malware on your device but your email in breach databases and your personal info scattered across data broker sites — [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) covers more ground.
 

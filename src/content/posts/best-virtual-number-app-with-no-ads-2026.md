@@ -72,7 +72,7 @@ A genuinely ad-free [virtual number](https://snipstack.io/virtual-number-for-tel
 
 **2. A clear, auditable privacy policy.** The policy should explicitly state that call logs, SMS metadata, and usage patterns are not shared with or sold to third parties for advertising purposes. Vague language like "we may share anonymised data with partners" is a red flag.
 
-**3. A track record of operating as a privacy product.** Companies that build their entire product line around privacy — VPNs, identity protection tools, encrypted communications — have reputational skin in the game. A data scandal destroys the brand. A random free app with no privacy positioning has nothing to lose.
+**3. A track record of operating as a privacy product.** Companies that build their entire product line around privacy — VPNs, [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) tools, encrypted communications — have reputational skin in the game. A data scandal destroys the brand. A random free app with no privacy positioning has nothing to lose.
 
 Surfshark Alt-Number meets all three. It's part of a privacy-focused product suite (alongside Surfshark VPN and [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/)), runs a subscription model, and has a privacy policy that doesn't carve out ad-targeting exceptions.
 

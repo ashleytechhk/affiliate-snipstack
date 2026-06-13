@@ -74,7 +74,7 @@ The veteran. Strong AV engine with decades of lab results. LifeLock integration 
 
 ### McAfee Total Protection
 
-Similar story. McAfee has improved meaningfully after its post-Intel separation, but the software still carries legacy bloat, the VPN is basic, and the pricing model follows the same intro-then-cliff pattern as Norton. Identity protection is US-centric and less useful outside North America.
+Similar story. McAfee has improved meaningfully after its post-Intel separation, but the software still carries legacy bloat, the VPN is basic, and the pricing model follows the same intro-then-cliff pattern as Norton. [Identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) is US-centric and less useful outside North America.
 
 ### Bitdefender Total Security
 

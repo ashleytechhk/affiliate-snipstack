@@ -150,7 +150,7 @@ Yes. Scam profiles often have a profile photo (sometimes stolen from a real pers
 
 ### What should I do if I already gave personal information to a fake recruiter?
 
-Act quickly. If you shared financial details, contact your bank immediately. If you provided government ID or tax information, report the incident to your national identity protection agency (in the US, that is identitytheft.gov; in the UK, Action Fraud). Change the password on any accounts associated with the email address you used. Report the LinkedIn profile and the email as phishing so the platforms can investigate.
+Act quickly. If you shared financial details, contact your bank immediately. If you provided government ID or tax information, report the incident to your national [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) agency (in the US, that is identitytheft.gov; in the UK, Action Fraud). Change the password on any accounts associated with the email address you used. Report the LinkedIn profile and the email as phishing so the platforms can investigate.
 
 ### Is it safe to paste a recruiter email or link into a checking tool?
 

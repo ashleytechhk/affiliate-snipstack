@@ -88,7 +88,7 @@ Apple Hide My Email generates random addresses that forward to your iCloud inbox
 
 ### Surfshark Alt ID
 
-Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s email masking service, included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle alongside the VPN, antivirus, and dark web monitoring. The key differentiator is what it does beyond the masked address: it generates a complete alternative identity — a different name and date of birth — to pair with each masked email.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s email masking service, included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle alongside the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and dark web monitoring. The key differentiator is what it does beyond the masked address: it generates a complete alternative identity — a different name and date of birth — to pair with each masked email.
 
 **What it does well:**
 

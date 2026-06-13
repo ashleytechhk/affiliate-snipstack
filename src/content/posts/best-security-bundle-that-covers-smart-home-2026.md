@@ -93,7 +93,7 @@ The gap for smart home households is significant, however. Norton does not offer
 
 McAfee+ Premium introduced unlimited device installs across its household plans, which sounds ideal for a connected home. The catch is that "unlimited devices" means unlimited devices that can install McAfee software. A Ring doorbell, a Nest thermostat, or an Alexa Echo cannot run McAfee. The unlimited count applies only to phones, tablets, and computers.
 
-The breach monitoring feature — McAfee's "Identity Protection" — is solid, covering more personal data categories than most competitors. But the network-level protection for smart home gadgets requires McAfee's separately priced Secure Home Platform router software, which is not included in standard McAfee+ plans and has had inconsistent availability in non-US markets.
+The breach monitoring feature — McAfee's "[Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/)" — is solid, covering more personal data categories than most competitors. But the network-level protection for smart home gadgets requires McAfee's separately priced Secure Home Platform router software, which is not included in standard McAfee+ plans and has had inconsistent availability in non-US markets.
 
 **Best for:** Large families who need to cover many phones and laptops, and who are comfortable checking what the renewal price looks like in year two.
 

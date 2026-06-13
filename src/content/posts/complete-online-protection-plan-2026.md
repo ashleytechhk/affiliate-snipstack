@@ -78,7 +78,7 @@ User reviews across the major tech forums in 2025–2026 consistently surface th
 
 **Renewal price creep.** The first-year discount is aggressive; the renewal price is not. Users who set up automatic renewal without checking the price often see charges 80–100% higher than year one. This isn't a billing error — it's the pricing model.
 
-**Upsell prompts in-dashboard.** Norton 360 Deluxe upsells password manager features available in higher tiers. McAfee prompts for additional identity protection features mid-session. These aren't catastrophic, but if you're already paying for a "complete" plan, in-app upsells feel contradictory.
+**Upsell prompts in-dashboard.** Norton 360 Deluxe upsells password manager features available in higher tiers. McAfee prompts for additional [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) features mid-session. These aren't catastrophic, but if you're already paying for a "complete" plan, in-app upsells feel contradictory.
 
 **Performance impact during scans.** Both Norton and McAfee have improved this over the years, but independent performance benchmarks (AV-Comparatives, AV-Test) still flag scan-time CPU spikes. On older hardware this is noticeable.
 

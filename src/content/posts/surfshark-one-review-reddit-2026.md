@@ -12,7 +12,7 @@ tags: ["one", "privacy", "review"]
 
 You pay $99 a year for Norton or McAfee. Every few months it nags you to upgrade. The interface is cluttered with upsell banners. Half the features you are supposedly paying for require yet another tier. And when renewal comes around, the price has quietly crept up again.
 
-Sound familiar? You are not alone. Reddit threads on r/privacy and r/[antivirus](https://snipstack.io/vs-antivirus-2026/) are full of people asking the same question: is there something that just works — VPN, antivirus, identity protection — in one clean package without the bloatware?
+Sound familiar? You are not alone. Reddit threads on r/privacy and r/[antivirus](https://snipstack.io/vs-antivirus-2026/) are full of people asking the same question: is there something that just works — VPN, antivirus, [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) — in one clean package without the bloatware?
 
 That product is **[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)**. This review compares it directly against [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) and McAfee Total Protection so you can decide whether switching is worth it.
 

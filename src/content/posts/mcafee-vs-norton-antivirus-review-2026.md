@@ -50,7 +50,7 @@ Both companies advertise heavily discounted first-year prices and then renew at 
 
 **McAfee Total Protection** typically starts around $30–$40 for the first year for a single device. At renewal, that price can jump to $90 or more. McAfee also bundles features you may never use into pricier tiers — [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) monitoring, a VPN, credit score tracking — which makes it hard to find a simple, affordable plan.
 
-**Norton 360 Standard** follows a similar pattern but the renewal gap is smaller. First-year pricing often lands around $20–$40, with renewals around $80–$90 for the base plan. Norton's plan structure is easier to understand: Standard covers one device, Deluxe covers five, LifeLock plans add identity protection.
+**Norton 360 Standard** follows a similar pattern but the renewal gap is smaller. First-year pricing often lands around $20–$40, with renewals around $80–$90 for the base plan. Norton's plan structure is easier to understand: Standard covers one device, Deluxe covers five, LifeLock plans add [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/).
 
 **The senior trap to watch:** Both companies make it easy to forget about auto-renewal. Set a calendar reminder 30 days before your subscription ends so you have time to compare prices and cancel if needed.
 

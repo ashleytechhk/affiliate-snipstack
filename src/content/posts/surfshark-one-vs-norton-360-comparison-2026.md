@@ -91,7 +91,7 @@ Surfshark Alert scans the dark web for your email addresses, credit card numbers
 
 This is a feature Norton simply does not offer. Surfshark Search is a no-log, no-ad, no-tracking search engine built into the bundle. It is not going to replace Google for power users — but for anyone who wants to stop feeding their queries into an ad engine, it is a genuine bonus.
 
-### Norton LifeLock (Identity Protection)
+### Norton LifeLock ([Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/))
 
 Norton's identity protection is more robust at the top tier. LifeLock monitors credit files, SSN, bank accounts, and court records — and includes [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance and a dedicated restoration team. If identity theft is your primary concern and you are willing to pay for the premium plan, LifeLock is hard to beat in the US market.
 

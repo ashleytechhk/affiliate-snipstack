@@ -34,7 +34,7 @@ If your primary concern is deep identity monitoring with insurance-backed covera
 | **Simultaneous devices** | Unlimited | 5 | 5 | Unlimited |
 | **VPN included** | Yes — unlimited data | Yes — 50 GB/day cap on base | Yes — 200 MB/day cap | Yes — unlimited |
 | **Antivirus (real-time)** | Yes | Yes | Yes — high detection rates | Yes |
-| **Breach / dark web alerts** | Yes — Alert (global) | Yes — LifeLock (US only) | Yes — Digital Identity Protection | Yes — limited |
+| **Breach / dark web alerts** | Yes — Alert (global) | Yes — LifeLock (US only) | Yes — Digital [Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) | Yes — limited |
 | **Ad and tracker blocking** | Yes — CleanWeb | No (separate product) | Yes — TrafficLight | No |
 | **Masked [email alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/)** | Yes — Alt-ID | No | No | No |
 | **iOS / Android support** | Full VPN + Alert on iOS | Full | Full | Full |

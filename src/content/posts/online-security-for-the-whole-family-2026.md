@@ -56,7 +56,7 @@ A bundled alternative covering all four categories runs $52–$80 per year on an
 
 Security advice tends to focus on threats. But for a household with multiple people and multiple devices, the more useful frame is: what does each person in this house actually need?
 
-### The Adults: Connection Privacy and Identity Protection
+### The Adults: Connection Privacy and [Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/)
 
 Adults in the household typically carry the most financial exposure. They do the online banking. They filed taxes with their real email address in five different portals. They have a work laptop that connects to hotel and airport Wi-Fi several times a year.
 

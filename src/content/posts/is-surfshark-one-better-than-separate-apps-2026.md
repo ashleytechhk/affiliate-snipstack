@@ -165,7 +165,7 @@ In independent lab tests, both score in the high-90s for malware detection. The 
 
 ### Can I use Surfshark One on all my devices with one subscription?
 
-Yes. Surfshark One supports unlimited simultaneous devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — Windows, Mac, iOS, Android, and browser extensions for Chrome, Firefox, and Edge. Norton's device limits vary by plan (typically 1–5). McAfee Total Protection is more generous on devices but still requires separate logins per device and can be finicky on older operating systems.
+Yes. Surfshark One supports unlimited simultaneous devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — Windows, Mac, iOS, Android, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome, Firefox, and Edge. Norton's device limits vary by plan (typically 1–5). McAfee Total Protection is more generous on devices but still requires separate logins per device and can be finicky on older operating systems.
 
 ### Does Surfshark One monitor data breaches?
 

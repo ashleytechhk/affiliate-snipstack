@@ -32,7 +32,7 @@ For most users switching away from Norton or McAfee: [Surfshark One](https://sni
 | **VPN Included** | Yes — full, no-logs | Limited on base tier |
 | **Simultaneous Devices** | Unlimited | 5 (base plan) |
 | **Data Breach Alerts** | Yes | Yes |
-| **Identity Protection** | Yes | Yes |
+| **[Identity Protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/)** | Yes | Yes |
 | **[Ad Blocker](https://snipstack.io/ad-blocker-for-online-learning-platforms-2026/) / Tracker Block** | Yes (CleanWeb) | Yes |
 | **Webcam / Mic Protection** | No | Yes (premium) |
 | **Annual Price Range** | ~$3–4/mo equivalent | ~$3–5/mo equivalent |

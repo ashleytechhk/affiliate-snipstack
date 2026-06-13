@@ -35,7 +35,7 @@ For setting up security on a senior's computer — or switching off a Norton/McA
 | **Breach / dark web monitoring** | Yes (Surfshark Alert) | Yes (LifeLock tiers) | Yes (limited) |
 | **Ad and tracker blocking** | Yes (CleanWeb) | No | No |
 | **Phishing / scam site alerts** | Yes | Yes | Yes |
-| **Alternative identity protection** | Yes (Alternative ID) | No | No |
+| **Alternative [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/)** | Yes (Alternative ID) | No | No |
 | **Simultaneous devices** | Unlimited | 5 | Up to 5 |
 | **Renewal price increases** | Stable after intro | Significant year 2+ | Significant year 2+ |
 | **Resource usage** | Lightweight | Heavy | Heavy |

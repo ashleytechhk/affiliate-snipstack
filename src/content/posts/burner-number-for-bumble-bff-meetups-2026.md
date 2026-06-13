@@ -76,7 +76,7 @@ Not all alternative number services are equal. For the Bumble BFF use case speci
 
 ### Surfshark Alt-Number: How It Fits
 
-[Surfshark Alt-Number](https://snipstack.io/blog/altnumber?sub=burner-number-for-bumble-bff-meetups-2026__mid) gives you a real mobile number — the kind that doesn't get flagged as VoIP by apps or reverse-lookup services — without requiring a second SIM or a second device. It runs through the Surfshark app, which handles privacy tools including VPN, data breach monitoring, and identity protection.
+[Surfshark Alt-Number](https://snipstack.io/blog/altnumber?sub=burner-number-for-bumble-bff-meetups-2026__mid) gives you a real mobile number — the kind that doesn't get flagged as VoIP by apps or reverse-lookup services — without requiring a second SIM or a second device. It runs through the Surfshark app, which handles privacy tools including VPN, data breach monitoring, and [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/).
 
 For Bumble BFF meetups specifically:
 

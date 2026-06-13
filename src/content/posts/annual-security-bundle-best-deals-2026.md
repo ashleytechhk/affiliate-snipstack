@@ -104,7 +104,7 @@ The **Alert** feature monitors your email addresses and personal data against br
 
 **Stick with Norton 360 if:**
 - Maximum antivirus detection scores are your primary requirement
-- You already use and value LifeLock identity protection services
+- You already use and value LifeLock [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) services
 - You are comfortable managing the upsell prompts
 - You negotiated a favorable multi-year renewal rate
 

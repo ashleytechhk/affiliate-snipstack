@@ -10,7 +10,7 @@ tags: ["one", "privacy", "review"]
 
 You open your laptop. The Norton renewal popup lands before your browser does. The McAfee tray icon spins in the background, consuming RAM you never agreed to donate. Sound familiar?
 
-If you have been paying $80–$120 a year for a suite that slows down your machine, upsells you at every screen, and still only covers one device per license, you are not getting a good deal. The antivirus market has changed. There are leaner alternatives that match or beat legacy suites on detection rates — and bundle VPN and identity protection without nickel-and-diming you.
+If you have been paying $80–$120 a year for a suite that slows down your machine, upsells you at every screen, and still only covers one device per license, you are not getting a good deal. The antivirus market has changed. There are leaner alternatives that match or beat legacy suites on detection rates — and bundle VPN and [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) without nickel-and-diming you.
 
 This comparison breaks down the top contenders for 2026 so you can decide whether to stick, switch, or upgrade.
 

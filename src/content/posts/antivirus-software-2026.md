@@ -76,7 +76,7 @@ The hidden cost of "free" is also worth naming: Defender's telemetry feeds back 
 
 ## 6. Norton 360 — Still Works, Still Bloated
 
-**Norton 360** remains a technically competent antivirus suite. Protection scores are strong. The LifeLock identity protection add-on is one of the more robust identity-theft products on the market. If you are a Norton 360 subscriber and everything is working fine, there is no fire-drill urgency to leave.
+**Norton 360** remains a technically competent antivirus suite. Protection scores are strong. The LifeLock [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) add-on is one of the more robust identity-theft products on the market. If you are a Norton 360 subscriber and everything is working fine, there is no fire-drill urgency to leave.
 
 The problem is the experience. Norton's interface is dense with upsells — storage plans, identity add-ons, PC tune-up tools, a built-in VPN that counts against a separate data cap on some tiers. Renewal pricing can climb to $100+ per year after the introductory period. The background processes (multiple Norton services running at startup) add measurable boot-time overhead on mid-range hardware. These are not bugs — they are business model features.
 
