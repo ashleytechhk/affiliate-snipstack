@@ -49,7 +49,7 @@ SimpleLogin is an open-source [email alias](https://snipstack.io/email-alias-for
 - Free tier allows up to 10 aliases — enough for cautious testers
 - Open-source codebase means the privacy claims can be independently verified
 - Supports reply-from-alias, keeping your real address hidden in both directions
-- Browser extension makes alias creation frictionless during signups
+- [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) makes alias creation frictionless during signups
 - Works with any email provider — Gmail, Outlook, or anything else
 
 **Where it falls short:**
@@ -88,7 +88,7 @@ Apple Hide My Email generates random addresses that forward to your iCloud inbox
 
 ### Surfshark Alt ID
 
-Alt ID is Surfshark's email masking service, included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle alongside the VPN, antivirus, and dark web monitoring. The key differentiator is what it does beyond the masked address: it generates a complete alternative identity — a different name and date of birth — to pair with each masked email.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s email masking service, included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle alongside the VPN, antivirus, and dark web monitoring. The key differentiator is what it does beyond the masked address: it generates a complete alternative identity — a different name and date of birth — to pair with each masked email.
 
 **What it does well:**
 
@@ -101,7 +101,7 @@ Alt ID is Surfshark's email masking service, included in the [Surfshark One](htt
 
 **Where it falls short:**
 
-- Paid — included in Surfshark One, not available as a standalone free product
+- Paid — included in [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), not available as a standalone free product
 - Bundled model means you're paying for tools beyond email masking (though most people find use for the [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/) components)
 
 **Best for:** Anyone dealing with serious spam volume who wants unlimited masked addresses, proactive breach monitoring, and the ability to kill a compromised address in under a minute. The generated identity layer makes it the most complete option for inbox owners who've already had their real address exposed in breach databases.
@@ -122,7 +122,7 @@ Alt ID is Surfshark's email masking service, included in the [Surfshark One](htt
 | Dark web scanning | No | No | Yes |
 | Open-source | Yes | No | No |
 | Works with non-Apple inbox | Yes | No | Yes |
-| Bundled with VPN/antivirus | No | No | Yes (Surfshark One) |
+| Bundled with VPN/antivirus | No | No | Yes ([Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/)) |
 
 The table shows a clear gap: SimpleLogin and Apple Hide My Email protect your real address from the services you give your masked address to. Alt ID does that *and* protects you from the masked address itself being correlated back to your real identity if it's later breached.
 
@@ -158,7 +158,7 @@ It's not an absolute guarantee of anonymity. But it makes correlation significan
 
 **If you want an open-source option with a free tier:** SimpleLogin's free 10-alias tier covers basic use. Upgrade to paid ($30/year) if you need more aliases. Know that there's no breach monitoring or identity masking.
 
-**If you're getting 50+ spam emails a day and want this actually solved:** [Surfshark Alt ID](/blog/altid?sub=email-masking-service-review-2026__mid) is the option that closes the full loop. Unlimited masked addresses you can kill immediately, a generated identity on each one, and continuous breach monitoring — all from a single dashboard. The bundled VPN and antivirus mean the subscription covers your full privacy stack, not just email.
+**If you're getting 50+ spam emails a day and want this actually solved:** [Surfshark Alt ID](/blog/altid?sub=email-masking-service-review-2026__mid) is the option that closes the full loop. Unlimited masked addresses you can kill immediately, a generated identity on each one, and continuous breach monitoring — all from a single dashboard. The bundled [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/) mean the subscription covers your full privacy stack, not just email.
 
 ---
 

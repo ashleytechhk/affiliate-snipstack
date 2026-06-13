@@ -58,7 +58,7 @@ No feature locks, no bandwidth caps, no device limits during the trial period. T
 | **[Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/)** | No (payment required) | 30 days | Yes — full bundle | Chat/email, straightforward |
 | **[Norton 360](https://snipstack.io/norton-360-antivirus-2026/)** | 7-day free trial (some plans) | 60-day refund on annual | Yes | Multi-step, requires calling or chat |
 | **McAfee+** | 30-day free trial (some plans) | 30-day refund | Yes | Account portal, can be slow |
-| **Bitdefender Total Security** | 30-day free trial | 30-day refund | Yes | Online form |
+| **Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/)** | 30-day free trial | 30-day refund | Yes | Online form |
 
 *Availability of free trials varies by region and promotion. Always verify current offers at checkout — promotional policies change.*
 

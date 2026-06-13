@@ -102,7 +102,7 @@ For users who run scans while working rather than walking away from their desk, 
 
 **Bitdefender Autopilot:** A hands-off mode that makes security decisions automatically, reducing notification fatigue.
 
-**Wide product range:** Bitdefender offers multiple tiers from basic Antivirus Plus through Total Security, with the higher tiers adding parental controls, file encryption, and webcam protection.
+**Wide product range:** Bitdefender offers multiple tiers from basic Antivirus Plus through [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/), with the higher tiers adding parental controls, file encryption, and webcam protection.
 
 **Device coverage:** Varies by tier — entry plans cover one device.
 

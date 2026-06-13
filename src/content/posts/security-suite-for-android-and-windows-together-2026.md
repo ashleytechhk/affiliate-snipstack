@@ -38,7 +38,7 @@ What you actually need is a suite where Android and Windows are treated as equal
 
 ## Head-to-Head Comparison: Android + Windows Coverage
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) Bundle | Norton 360 Deluxe | McAfee Total Protection | Bitdefender Total Security |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) Bundle | Norton 360 Deluxe | McAfee Total Protection | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) |
 |---|---|---|---|---|
 | Full antivirus on Android | Yes | Partial | Yes | Yes |
 | Full antivirus on Windows | Yes | Yes | Yes | Yes |

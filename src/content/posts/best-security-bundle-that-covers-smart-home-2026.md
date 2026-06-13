@@ -47,7 +47,7 @@ A router-level VPN with a built-in malware-domain blocker closes all three angle
 | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Yes (manual setup) | Yes (Fire TV, Apple TV) | Yes | Yes (Alert) | Yes (Clean Web) | ~$56–$72 |
 | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe | No router support | No | 5 devices | Yes | Partial | ~$50–$100 |
 | McAfee+ Premium | No router support | No | Unlimited (endpoint only) | Yes | Partial | ~$90–$120 |
-| Bitdefender Total Security | No router support | No | Up to 5 | No (separate plan) | Yes | ~$60–$90 |
+| Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) | No router support | No | Up to 5 | No (separate plan) | Yes | ~$60–$90 |
 | Bitdefender Box (hardware) | Yes (dedicated hardware) | Yes | Unlimited | No | Yes | ~$150 + $100/yr |
 
 *Prices reflect introductory or multi-year offers. Always verify current pricing before purchasing.*

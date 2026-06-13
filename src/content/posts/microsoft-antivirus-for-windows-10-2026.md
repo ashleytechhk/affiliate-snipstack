@@ -93,7 +93,7 @@ We scored each option against these five criteria below.
 
 ---
 
-## Option 3: Bitdefender Total Security
+## Option 3: Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/)
 
 **What it is:** Bitdefender is consistently one of the highest-rated antivirus programs in independent security lab tests. It offers excellent detection rates and a light system footprint.
 

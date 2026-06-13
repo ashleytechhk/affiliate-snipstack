@@ -62,7 +62,7 @@ We looked at five widely used options across six criteria that matter most for e
 | **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/)** | Yes — real-time | Very easy | No | Yes (unlimited) | Unlimited | ~$48 |
 | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Standard | Yes — real-time | Moderate | Yes | Yes (limited) | 1 | ~$90 |
 | McAfee Total Protection | Yes — real-time | Moderate | Yes | Yes | 1 | ~$80 |
-| Bitdefender Total Security | Yes — real-time | Moderate | No | No (add-on) | 5 | ~$90 |
+| Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) | Yes — real-time | Moderate | No | No (add-on) | 5 | ~$90 |
 | Windows Defender (free) | Partial | Very easy | No | No | Unlimited | Free |
 
 *Prices are approximate USD renewal rates. Detection data sourced from AV-TEST 2025–2026 independent lab reports.*

@@ -90,7 +90,7 @@ That's $80–140/year stacked, before any overlap or redundancy.
 
 ## VPN: A Feature Bitdefender Simply Does Not Offer
 
-Bitdefender does include a VPN in some higher-tier packages (Total Security), but the free allowance is limited to 200MB/day — not useful for streaming or sustained privacy. Unlimited VPN requires an add-on that pushes the price up significantly.
+Bitdefender does include a VPN in some higher-tier packages ([Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/)), but the free allowance is limited to 200MB/day — not useful for streaming or sustained privacy. Unlimited VPN requires an add-on that pushes the price up significantly.
 
 Surfshark's VPN is the core product the company was built on. It runs on WireGuard and OpenVPN protocols, operates over 3,200 servers across 100+ countries, supports split tunneling, has a kill switch, and has been independently audited. It's a full VPN, not a checkbox feature.
 

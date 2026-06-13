@@ -33,7 +33,7 @@ Here is how five of the most reputable antivirus options stack up on the feature
 | **[Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/)** | Yes | Yes (unlimited) | Yes | Yes | Unlimited | Multi-year plans; clear terms |
 | Norton 360 Deluxe | Yes | Yes (varies by tier) | Yes | No | 5 | Significant jump |
 | McAfee Total Protection | Yes | Yes (unlimited) | Yes | No | Unlimited | Significant jump |
-| Bitdefender Total Security | Yes | Yes (limited data) | No | No | 5 | Moderate increase |
+| Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) | Yes | Yes (limited data) | No | No | 5 | Moderate increase |
 | Malwarebytes Premium + Privacy | Yes | Yes (add-on) | No | No | 5 | Flat but separate VPN cost |
 
 A few notes on that table: Norton's VPN data allowance varies by plan — the unlimited tier is not available on all tiers. Bitdefender's VPN is limited to 200 MB per day on anything below their Premium VPN add-on. Malwarebytes' VPN is a separate purchase. [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) includes unlimited VPN with no data cap and private search — features that are genuinely separate products from every other vendor listed here.

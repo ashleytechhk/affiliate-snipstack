@@ -22,7 +22,7 @@ Four people, a dozen devices, and exactly one person in the household who has to
 
 The bundle's value case rests on the antivirus and Alert (the breach monitoring tool). If your household already has a standalone antivirus subscription elsewhere, the incremental saving shrinks. If nobody in the house has any security tooling right now, One is a strong starting point: one bill, one app, unlimited devices, and coverage that scales with however many phones and laptops your family actually owns.
 
-The honest caveat: Surfshark's antivirus is competent but not at the level of dedicated [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s like Bitdefender Total Security. For most families browsing, streaming, and online shopping, it is more than sufficient. For a household with high-value targets — someone working in finance or law — a specialist antivirus layered on top may still make sense.
+The honest caveat: Surfshark's antivirus is competent but not at the level of dedicated [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)s like Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/). For most families browsing, streaming, and online shopping, it is more than sufficient. For a household with high-value targets — someone working in finance or law — a specialist antivirus layered on top may still make sense.
 
 ---
 

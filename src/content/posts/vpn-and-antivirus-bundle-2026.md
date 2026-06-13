@@ -67,7 +67,7 @@ Here is the honest 2026 price picture for protecting a family of four:
 
 **Option A — Buy Separately**
 
-- NordVPN (6 devices) + Bitdefender Total Security: approximately $110–$130/year after first-year discount expires
+- NordVPN (6 devices) + Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/): approximately $110–$130/year after first-year discount expires
 - Norton 360 Deluxe (5 devices): approximately $100–$110/year at renewal
 - McAfee+ Family: approximately $130/year at renewal
 

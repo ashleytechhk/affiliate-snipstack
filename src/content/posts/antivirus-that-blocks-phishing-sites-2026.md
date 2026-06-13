@@ -64,7 +64,7 @@ Not all antivirus products block phishing sites equally well. Here is what to ch
 
 ## Comparison Table: Antivirus Tools That Block Phishing Sites
 
-| Feature | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) | Bitdefender Total Security | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) | Malwarebytes Premium |
+| Feature | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) | Malwarebytes Premium |
 |---|---|---|---|---|
 | Phishing site blocking | Yes (CleanWeb) | Yes | Yes | Yes |
 | Real-time malware scanning | Yes | Yes | Yes | Yes |
