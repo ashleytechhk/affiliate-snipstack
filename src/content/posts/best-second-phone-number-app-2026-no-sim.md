@@ -362,7 +362,7 @@ If you are building a comprehensive privacy setup across your phone, email, and 
     },
     {
       "@type": "Question",
-      "name": "How much does a second phone number cost per month?",
+      "name": "How much does a [second phone number](https://snipstack.io/second-phone-number-for-airbnb-host-2026/) cost per month?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Free options (Google Voice, TextNow) exist but come with privacy trade-offs and verification limitations. Paid services range from roughly $2-5/month for basic plans. Surfshark Alternative Number is bundled with Surfshark subscriptions."

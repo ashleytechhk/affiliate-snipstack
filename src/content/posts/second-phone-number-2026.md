@@ -174,7 +174,7 @@ It depends on the app. Surfshark Alt-Number, Hushed, Burner, and TextNow all sup
 
 Once you cancel or delete a number, it becomes unreachable. Calls and texts sent to it will not be delivered, and you will not receive any notifications. This is the feature that makes [second number](https://snipstack.io/second-number-for-job-hunting-privacy-2026/)s so useful for dating: you can cut contact cleanly, without blocking or confrontation. [Alt-Number](/blog/surfshark?sub=second-phone-number-2026__faq) lets you do this instantly from the app.
 
-**Is using a second phone number legal?**
+**Is using a [second phone number](https://snipstack.io/second-phone-number-for-airbnb-host-2026/) legal?**
 
 Yes, in virtually every jurisdiction. Using a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) privacy is a normal, lawful practice. The relevant distinction is intent: using a number to harass or defraud someone is illegal regardless of the number type. Using a [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/) to protect your personal information while dating is entirely legitimate.
 

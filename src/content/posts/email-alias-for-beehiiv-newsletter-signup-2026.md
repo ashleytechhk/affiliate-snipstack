@@ -24,7 +24,7 @@ For Beehiiv newsletter signups, you need a **persistent alias that forwards reli
 
 ---
 
-## Comparison Table: Email Alias Tools for Beehiiv Signups
+## Comparison Table: [Email Alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) Tools for Beehiiv Signups
 
 | Feature | **Alt ID** | SimpleLogin (Free) | AnonAddy (Free) | Gmail + Trick |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ You also have no kill-switch. You can't delete `yourname+beehiiv@gmail.com` — 
 
 ---
 
-## How to Use Alt ID for Beehiiv Signups (Step-by-Step)
+## [How to Use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) Alt ID for Beehiiv Signups (Step-by-Step)
 
 **Step 1.** Get Alt ID through a Surfshark plan — [start here](/blog/altid?sub=email-alias-for-beehiiv-newsletter-signup-2026__mid). It's included with all plan tiers, no add-on required.
 
@@ -148,7 +148,7 @@ Yes. Beehiiv sends a double opt-in confirmation to whichever address you provide
 
 Yes, if you're using Alt ID or SimpleLogin, which both support reply-from alias functionality. When you reply to a forwarded email, the outgoing message shows the alias as the sender rather than your real address. The creator sees the alias; your actual inbox address stays hidden. Gmail's `+` trick doesn't offer this — replies go from your real address.
 
-**What happens if I delete the alias and the newsletter sends me something important?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete the alias and the newsletter sends me something important?**
 
 The email bounces — the alias no longer exists. If you think a newsletter might send critical information (a course you purchased, a paid subscription invoice), use the toggle-off feature instead of full deletion. Toggle off pauses forwarding without destroying the alias. You can restore it later. Reserve full deletion for aliases attached to sources you're certain you want no further contact from.
 

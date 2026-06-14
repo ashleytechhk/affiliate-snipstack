@@ -137,7 +137,7 @@ No. From their perspective, they're texting a regular phone number. There's noth
 
 You simply stop using it, or request a replacement number through the app. Any messages or calls to the old number stop being delivered to you. Your real number is never affected.
 
-**Is a second phone number legal to use on dating apps?**
+**Is a [second phone number](https://snipstack.io/second-phone-number-for-airbnb-host-2026/) legal to use on dating apps?**
 
 Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) privacy is entirely legal. Most dating apps only require a phone number for verification and communication — they don't require it to be your primary number. Always follow the app's terms of service, but using a secondary number for privacy is standard practice.
 

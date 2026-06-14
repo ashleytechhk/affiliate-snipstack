@@ -159,7 +159,7 @@ The safest approach is to cancel Norton's auto-renewal rather than canceling the
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s antivirus good enough to fully replace Norton?
 
-For most home users, yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) covers the threat categories that affect typical consumer use — malware, ransomware, adware, and phishing-linked executables — with competitive detection rates. Norton has a stronger independent testing track record built over decades. If you are running a high-risk machine or work environment, that difference is worth weighing. For everyday home use, Surfshark One covers the ground that matters.
+For most home users, yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) covers the threat categories that affect typical consumer use — malware, ransomware, adware, and phishing-linked executables — with competitive detection rates. Norton has a stronger independent testing track record built over decades. If you are running a high-risk machine or work environment, that difference is worth weighing. For everyday home use, [Surfshark One](https://snipstack.io/surfshark-one-for-solo-remote-workers-2026/) covers the ground that matters.
 
 ### Does the 30-day money-back apply to all plan lengths?
 
@@ -169,7 +169,7 @@ Yes. The 30-day money-back window applies to monthly, one-year, and two-year pla
 
 When you cancel and request a refund, your Surfshark account and associated data are removed. Any breach monitoring data stored against your email addresses in the Alert system is deleted. You will [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) breach notifications. If you switch back in the future, you set up monitoring from scratch — there is no data retention.
 
-### Does Surfshark One work on all my devices during the trial?
+### Does [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) work on all my devices during the trial?
 
 Yes. Surfshark One's unlimited simultaneous connections policy applies during the 30-day window exactly as it does for paying subscribers. Windows, macOS, iOS, Android, and Linux are supported. The antivirus scan engine is available on Windows and macOS; mobile devices use VPN and Alert features without a dedicated on-device antivirus scan engine, which is standard for iOS and Android security apps due to platform restrictions.
 

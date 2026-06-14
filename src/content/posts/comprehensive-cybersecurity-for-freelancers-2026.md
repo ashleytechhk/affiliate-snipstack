@@ -169,7 +169,7 @@ No security product eliminates breach liability — that is a legal and contract
 
 Alert's breach monitoring watches the email addresses you register with the service. You can add multiple addresses — your primary business email, any aliases you use for client correspondence, and personal addresses if relevant. Monitoring is continuous, not periodic. When a match appears in a newly indexed breach database, you receive an alert with the breach source and affected credentials.
 
-**[Is Surfshark One](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) worth it if I only work from home?**
+**[Is Surfshark One](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) worth it if I only [work from home](https://snipstack.io/work-from-home-job-scam-how-to-spot-2026/)?**
 
 Even without the public Wi-Fi use case, three elements of One remain relevant: antivirus coverage (malware arrives via email and downloads, not just network interception), breach monitoring (home network users' credentials are exposed in third-party breaches constantly), and private search (query tracking is not limited to public networks). The VPN also provides IP privacy for research purposes regardless of where you are working.
 

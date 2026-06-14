@@ -179,6 +179,6 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-2026/) cover
 
 If your Trend Micro subscription is current and working, you are protected against viruses. Consider whether the gaps — no VPN, no breach alerts — are things you need. If you decide to switch to [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/), uninstall Trend Micro first (via Control Panel on Windows, then follow the prompts) before installing the new software. Running two antivirus programs at the same time can cause conflicts.
 
-### Is there a free trial before I commit to Surfshark One?
+### Is there a free trial before I commit to [Surfshark One](https://snipstack.io/surfshark-one-for-solo-remote-workers-2026/)?
 
 Surfshark offers a 30-day money-back guarantee on its subscriptions. This effectively gives you a month to try the full product — antivirus, VPN, and breach alerts — with no risk. If it is not right for you, you can request a refund within 30 days. [Visit the Surfshark One page to see current plans and the guarantee terms.](/blog/antivirus?sub=trend-micro-vs-surfshark-antivirus-comparison-2026__faq)

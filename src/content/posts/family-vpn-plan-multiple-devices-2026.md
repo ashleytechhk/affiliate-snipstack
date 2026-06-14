@@ -108,7 +108,7 @@ You do not pay extra for CleanWeb — it is included. For households that would 
 
 ### One App, Every Platform
 
-Surfshark has native apps for iOS, Android, Windows, macOS, Linux, and Android TV. Browser extensions cover Chrome and Firefox. Smart DNS handles Apple TV, gaming consoles, and smart TVs that cannot run the full app. One account, one set of login credentials, every platform your family uses.
+Surfshark has native apps for iOS, Android, Windows, macOS, Linux, and Android TV. [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s cover Chrome and Firefox. Smart DNS handles Apple TV, gaming consoles, and smart TVs that cannot run the full app. One account, one set of login credentials, every platform your family uses.
 
 ### [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/): Optional Security Upgrade
 
