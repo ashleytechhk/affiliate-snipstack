@@ -161,7 +161,7 @@ Surfshark CleanWeb   | DNS/VPN layer   | Yes        | Yes     | Paid (bundle)
 
 Yes, but it looks different from the Chrome or Firefox version. The original legacy Safari extension stopped working after Apple deprecated that extension format in Safari 13 (2019). What exists today is an App Store app for macOS (requires macOS 11+) and a separate iOS app, both of which use Apple's Content Blocker API. They block standard display ads, but they cannot match the depth of blocking the old extension provided.
 
-### Why can't Safari [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/)s block ads in other apps?
+### Why can't Safari [ad blocker](https://snipstack.io/ad-blocker-chrome-2026/)s [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) other apps?
 
 Apple's Content Blocker API only applies inside Safari. Apps like YouTube, the News app, Instagram, or any third-party app run their own network stack independently of Safari, so Safari's content blocking rules have no effect on them. The only way to block ads across all apps is to use a network-layer tool — a [VPN with ad](https://snipstack.io/vpn-with-ad-blocker-built-in-2026/) blocking (like Surfshark CleanWeb) or a DNS blocker configured system-wide.
 

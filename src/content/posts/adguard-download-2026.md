@@ -82,7 +82,7 @@ This is a full desktop application that installs at the operating system level. 
 - Blocks ads in all desktop applications, not just browsers
 - Can filter encrypted HTTPS traffic
 - Includes parental controls and content category filtering
-- Provides app-level rules — you can tell AdGuard to block ads in one app but not another
+- Provides app-level rules — you can tell AdGuard to [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) one app but not another
 
 The free trial lasts 14 days. After that, you need to pay for a license. Pricing varies by how many devices you want to cover.
 

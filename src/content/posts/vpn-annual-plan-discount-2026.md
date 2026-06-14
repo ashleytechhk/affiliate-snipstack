@@ -196,7 +196,7 @@ Discount stacking refers to combining a promotional rate (like a Black Friday sa
 
 Surfshark does not typically apply annual plan promotional rates retroactively to active monthly subscriptions. The practical approach: let the monthly plan run until its end, then switch to an annual plan — ideally timed to coincide with a promotional period. Contact Surfshark support before switching; they can advise on current options.
 
-### What happens to my VPN access if I cancel mid-term?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my VPN access if I cancel mid-term?
 
 For most providers, canceling a subscription stops future renewals but your access continues until the end of the current paid term. After the term ends, access stops. Prorated refunds for unused months are not standard — the 30-day guarantee applies only to new purchases, not mid-term cancellations.
 

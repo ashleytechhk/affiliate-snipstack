@@ -151,7 +151,7 @@ Yes, for the vast majority of users. AdGuard operates a no-log DNS policy — qu
 
 Partially. YouTube serves ads from its own infrastructure domains, so blocking those domains would also break video playback. DNS blocking removes ads from third-party ad networks but not YouTube's native in-app ads. For better [YouTube ad](https://snipstack.io/youtube-ad-blocker-2026/) coverage, a VPN-layer blocker like [Surfshark CleanWeb](/blog/adblock?sub=dns-ad-blocker-no-root-android-2026__faq) reduces a larger share, though no method eliminates YouTube in-app ads entirely without using a modified client.
 
-### Do I need to root my Android phone to block ads in 2026?
+### Do I need to root my Android phone to [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) 2026?
 
 No. Root access was necessary years ago when the only system-wide method involved editing protected system files. Android 9 and later include a native Private DNS feature that lets you apply DNS-level filtering without any elevated permissions. For a deeper blocking layer, VPN-based solutions like [Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-ad-blocker-review-2026/) work without root as well — they install from the Play Store like any other app.
 

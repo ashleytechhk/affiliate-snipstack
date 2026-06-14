@@ -38,7 +38,7 @@ This is fundamentally different from Gmail's `+tag` trick, which spammers learne
 
 Firefox Relay is Mozilla's masked email product. It generates random forwarding addresses on the `mozmail.com` domain and forwards received email to your real inbox. The free tier gives you five masks — enough to get started, not enough to cover most people's full online footprint.
 
-The paid "Premium" tier (part of Mozilla's subscription bundle) unlocks unlimited masks, lets you reply to masked emails anonymously, removes email trackers before forwarding, and adds custom subdomain creation. Firefox Relay also has a browser extension that offers one-click mask generation when you encounter an email field.
+The paid "Premium" tier (part of Mozilla's subscription bundle) unlocks unlimited masks, lets you reply to masked emails anonymously, removes email trackers before forwarding, and adds custom subdomain creation. Firefox Relay also has a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) that offers one-click mask generation when you encounter an email field.
 
 What it does well: browser integration is clean, the interface is beginner-friendly, and Mozilla's privacy reputation is genuine.
 
@@ -70,7 +70,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate
 
 There is no mask limit, which matters when you start applying the one-alias-per-service approach (the most effective spam-control strategy). You can toggle aliases off without deleting them, or delete them permanently. It works on any device and any platform — there is no ecosystem lock.
 
-What it does well: unlimited aliases with no per-alias pricing; fake name generation included; platform-agnostic; included with a broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) (VPN, Antivirus, Alert).
+What it does well: unlimited aliases with no per-alias pricing; fake name generation included; platform-agnostic; included with a broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) (VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), Alert).
 
 What it does not do: requires an active Surfshark subscription; the Surfshark domain used for aliases is not as widely recognised as Mozilla or Apple (though it functions identically for forwarding purposes).
 

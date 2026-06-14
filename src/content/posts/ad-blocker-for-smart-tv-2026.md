@@ -30,7 +30,7 @@ Browser extensions don't work on smart TVs. The options that do work are: router
 
 This deserves to be said plainly, because most search results bury it: there is no [ad blocker](https://snipstack.io/ad-blocker-for-chromecast-streaming-device-2026/) extension for smart TVs.
 
-Samsung's Tizen OS, LG's webOS, Roku OS, and Amazon Fire OS are all closed platforms. They do not support browser extension APIs. The built-in browsers on these TVs — to the extent they exist — do not accept third-party plugins. You cannot install [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), AdBlock Plus, or any browser-based filter on a smart TV.
+Samsung's Tizen OS, LG's webOS, Roku OS, and Amazon Fire OS are all closed platforms. They do not support browser extension APIs. The built-in browsers on these TVs — to the extent they exist — do not accept third-party plugins. You cannot install [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), [AdBlock Plus](https://snipstack.io/adblock-plus-for-android-2026/), or any browser-based filter on a smart TV.
 
 This catches a lot of people off guard. The solution that works everywhere else simply doesn't apply here.
 
@@ -44,11 +44,11 @@ Every device on your home network — including your TV — makes DNS lookups be
 
 This works on every TV on your network simultaneously, including Samsung Tizen, LG webOS, Roku, and older dumb TVs connected via a streaming stick. It requires no changes to the TV itself.
 
-### How to Set It Up
+### [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) It Up
 
 The two most practical DNS-level options in 2026:
 
-**AdGuard DNS** — Point your router's DNS to `94.140.14.14` (primary) and `94.140.15.15` (secondary). Log into your router admin panel, find the DNS or DHCP settings, and enter those addresses. Every device on your network — including your TV — now routes through AdGuard's blocklist of over 1.2 million ad and tracker domains.
+**[AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/)** — Point your router's DNS to `94.140.14.14` (primary) and `94.140.15.15` (secondary). Log into your router admin panel, find the DNS or DHCP settings, and enter those addresses. Every device on your network — including your TV — now routes through AdGuard's blocklist of over 1.2 million ad and tracker domains.
 
 **NextDNS** — Create a free account at nextdns.io, get your personal DNS addresses, and configure your router the same way. NextDNS gives you per-device logs, custom blocklists, and 300,000 queries per month free.
 
@@ -113,7 +113,7 @@ For these platforms, the practical options are:
 
 **Virtual router / hotspot sharing** — Connect your Windows PC or Mac to Surfshark with CleanWeb enabled, then share that connection to your TV via a Wi-Fi hotspot. This works but requires keeping a laptop running whenever you want the TV protected.
 
-**Router-level DNS** — If a full VPN router setup sounds like too much, the simpler fallback is configuring AdGuard DNS or NextDNS at the router level as described in Option 1. No VPN overhead, still catches most ad-network traffic.
+**Router-level DNS** — If a full VPN router setup sounds like too much, the simpler fallback is configuring [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) or NextDNS at the router level as described in Option 1. No VPN overhead, still catches most ad-network traffic.
 
 ![CleanWeb enabled on Android TV — ad filtering active system-wide](/og/ad-blocker-for-smart-tv-2026-inline-2.png)
 
@@ -147,7 +147,7 @@ CleanWeb is included in every Surfshark plan — there's no add-on cost. If you 
 
 ## Frequently Asked Questions
 
-**Can I install uBlock Origin or AdBlock on a smart TV?**
+**Can I install [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/) or AdBlock on a smart TV?**
 
 No. uBlock Origin and AdBlock are browser extensions that require a browser extension API — Chrome, Firefox, or Edge. Smart TV operating systems (Tizen, webOS, Roku OS, Fire OS, Android TV) do not support browser extension APIs. There is no version of these tools that runs on a TV. The only functional alternatives are network-level approaches: router DNS filtering, Pi-hole, or a VPN with built-in blocking. **[See which network-level option fits your setup →](/blog/adblock?sub=ad-blocker-for-smart-tv-2026__faq)**
 

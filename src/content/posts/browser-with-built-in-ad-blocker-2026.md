@@ -240,7 +240,7 @@ The era of tolerating full-screen mobile ads is over. Setup takes five minutes e
       "name": "Does Brave Browser block YouTube ads on mobile?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Brave blocks YouTube ads when you watch YouTube through the Brave browser (at youtube.com). It does not block ads in the standalone YouTube app, which is outside Brave's scope. For YouTube app ad blocking, a DNS-level solution like Surfshark CleanWeb is more effective."
+        "text": "Brave blocks YouTube ads when you watch YouTube through the Brave browser (at youtube.com). It does not [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) the standalone YouTube app, which is outside Brave's scope. For YouTube app ad blocking, a DNS-level solution like Surfshark CleanWeb is more effective."
       }
     },
     {

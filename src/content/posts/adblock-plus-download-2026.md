@@ -108,7 +108,7 @@ This is where AdBlock Plus gets complicated, and where most users hit a wall.
 Understanding the limits is as important as knowing the features:
 
 - **Does not block in-app ads** — ads inside apps like free games, news apps, or Spotify are served through the app's own infrastructure, not your browser. ABP has no access to these.
-- **Does not block ads in mobile Chrome** — as covered above.
+- **Does not [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) mobile Chrome** — as covered above.
 - **Does not encrypt your traffic** — ABP is not a VPN. It doesn't hide your IP address or protect you on public Wi-Fi.
 - **Does not block all trackers** — some tracker scripts are hosted on the same domain as legitimate content and won't appear on filter lists.
 - **Allows some ads by default** — the Acceptable Ads program, unless you turn it off.

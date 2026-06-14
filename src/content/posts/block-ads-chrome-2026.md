@@ -187,7 +187,7 @@ The full uBlock Origin no longer runs on Chrome — Chrome's Manifest V3 policy 
 
 Google's Manifest V3 transition, completed in late 2025, deprecated the `webRequestBlocking` API that uBlock Origin used for real-time request interception. The new API (`declarativeNetRequest`) uses static rule lists with hard caps, which limits adaptive blocking. Raymond Hill, uBlock Origin's developer, published uBlock Origin Lite as the MV3-compliant version, but noted it cannot match the original's blocking power.
 
-### Can I block ads in Chrome on my phone?
+### Can I [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) Chrome on my phone?
 
 Chrome for Android and iOS does not support browser extensions, so standard [ad blocker](https://snipstack.io/ad-blocker-reddit-2026/) extensions won't work. Your options are: switch to Brave (which has native blocking), use Firefox for Android (which supports uBlock Origin), or use a VPN-layer blocker like Surfshark CleanWeb that works outside the browser. [CleanWeb covers mobile Chrome and every other app on your phone.](/blog/adblock?sub=block-ads-chrome-2026__faq)
 

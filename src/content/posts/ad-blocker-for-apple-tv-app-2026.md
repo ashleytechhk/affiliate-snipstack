@@ -175,7 +175,7 @@ What's not worth it: using a browser extension and expecting it to block Apple T
 
 ## FAQ
 
-### Can I block ads in the Apple TV app on iPhone?
+### Can I [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) the Apple TV app on iPhone?
 
 Yes, but not with a browser extension. You need a network-level solution — a VPN with DNS-based ad blocking like [Surfshark CleanWeb](/blog/adblock?sub=ad-blocker-for-apple-tv-app-2026__faq), or a DNS filtering service like AdGuard DNS or NextDNS configured in your iOS network settings. These work at the OS level and intercept ad requests from any app, including Apple TV.
 

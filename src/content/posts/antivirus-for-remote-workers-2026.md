@@ -14,7 +14,7 @@ Nobody had handled it.
 
 ![Why antivirus for remote workers is critical to protecting company and personal data in 2026](/og/antivirus-for-remote-workers-2026.png)
 
-If you work from home — even part of the week — your home computer is a door into your employer's systems. Criminals know this. They have spent the past five years learning exactly how to walk through it. This article explains the real threat, why home networks are uniquely vulnerable, and what you need to stay safe.
+If you [work from home](https://snipstack.io/work-from-home-job-scam-how-to-spot-2026/) — even part of the week — your home computer is a door into your employer's systems. Criminals know this. They have spent the past five years learning exactly how to walk through it. This article explains the real threat, why home networks are uniquely vulnerable, and what you need to stay safe.
 
 **[Protect your home office before hackers find the gap →](/blog/antivirus?sub=antivirus-for-remote-workers-2026__above-fold)**
 

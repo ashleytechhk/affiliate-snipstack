@@ -140,7 +140,7 @@ Yes, Adblock Plus works on Firefox for Android as a standard extension. It does 
 
 Both block ads using filter lists, but uBlock Origin uses less memory, has stricter defaults (no acceptable-ads whitelist), and provides more granular control. Adblock Plus is easier for non-technical users and has a more beginner-friendly interface. For raw blocking performance on Firefox Android, uBlock Origin is the stronger choice.
 
-**Can I block ads in apps like Instagram and TikTok on mobile?**
+**Can I [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) apps like Instagram and TikTok on mobile?**
 
 Browser extensions can't reach in-app ads — they only work inside the browser. To block ads inside other apps, you need system-level blocking: a VPN with CleanWeb like [Surfshark](/blog/surfshark?sub=adblock-plus-firefox-2026__faq), a local VPN tunnel like AdGuard for Android, or DNS-level blocking via NextDNS or AdGuard DNS.
 

@@ -235,7 +235,7 @@ NordVPN is a capable alternative and a genuinely good product. If you already ha
     },
     {
       "@type": "Question",
-      "name": "How does a VPN kill switch work for torrenting?",
+      "name": "How does a [VPN kill switch](https://snipstack.io/vpn-kill-switch-feature-explained-2026/) work for torrenting?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "A kill switch detects when the VPN tunnel drops and immediately blocks all network traffic until the tunnel reconnects. For torrenting, this prevents your real IP address from appearing to BitTorrent peers during a reconnection window. An OS-level kill switch is more reliable than an app-level one."
