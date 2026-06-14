@@ -89,7 +89,7 @@ The Burner app (iOS/Android) gives you [temporary number](https://snipstack.io/t
 - Paid service (not free)
 - Requires the Surfshark app
 
-**Verdict:** The cleanest solution for anyone who wants a credible, functional alternate number they can hand out freely and kill without consequence. Works whether you're in New York, London, or anywhere else.
+**Verdict:** The cleanest solution for anyone who wants a credible, functional [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/) they can hand out freely and kill without consequence. Works whether you're in New York, London, or anywhere else.
 
 ---
 

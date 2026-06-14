@@ -50,7 +50,7 @@ When any one of those contexts leaks your number — and PayPal has had data inc
 
 For online daters, this creates a specific and practical risk: the person you gave your PayPal handle to last week can now find your home neighborhood, your last name, and the social accounts you specifically chose not to link to your dating profile. That's information you didn't choose to share. It became accessible because you used the same [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) your payment account and your dating life.
 
-A [virtual number for](https://snipstack.io/virtual-number-for-google-account-verification-2026/) PayPal account setup addresses this directly. Your PayPal is verified with an alternate number. That alternate number, if searched, returns nothing useful. The thread between your payment identity and your dating identity doesn't exist.
+A [virtual number for](https://snipstack.io/virtual-number-for-google-account-verification-2026/) PayPal account setup addresses this directly. Your PayPal is verified with an [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/). That alternate number, if searched, returns nothing useful. The thread between your payment identity and your dating identity doesn't exist.
 
 **[Keep your payment identity and dating identity separate with Alt-Number](/blog/altnumber?sub=virtual-number-for-paypal-account-setup-2026__mid)**
 

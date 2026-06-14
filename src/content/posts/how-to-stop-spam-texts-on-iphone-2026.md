@@ -118,7 +118,7 @@ Truecaller is a caller-ID and spam-blocking app with over 350 million users. Its
 
 This one works differently. Alt-Number gives you a real mobile [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) — separate from your actual i[Phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) — that you use specifically for dating apps, signup forms, and anywhere you don't fully trust.
 
-**How it works:** You get an alternate number that forwards calls and texts to your device. You give the Alt-Number to Tinder, Hinge, Bumble, or any form asking for your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). Your real iPhone number never enters those systems. When spam starts flowing to the Alt-Number, you can replace it. Your real number stays untouched.
+**How it works:** You get an [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/) that forwards calls and texts to your device. You give the Alt-Number to Tinder, Hinge, Bumble, or any form asking for your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). Your real iPhone number never enters those systems. When spam starts flowing to the Alt-Number, you can replace it. Your real number stays untouched.
 
 **Ease of setup:** Download the Surfshark app, navigate to Alt-Number, pick your number and country. Under five minutes.
 

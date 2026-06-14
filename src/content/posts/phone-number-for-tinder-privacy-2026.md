@@ -29,7 +29,7 @@ When people search for a "phone number for Tinder privacy," they're usually aski
 
 Both are valid concerns, and the answer to both is the same: use a [second phone number](https://snipstack.io/second-phone-number-2026/) that you control independently of your primary line.
 
-A privacy phone number — sometimes called a [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/), alternate number, or [burner number](https://snipstack.io/burner-number-dating-apps-2026/) — is a real, working number that receives calls and texts normally. The difference is that it isn't tied to your carrier account, your home address, or your primary identity. You can hand it out freely. You can pause it, replace it, or disable it whenever you want. The person on the other end has no idea it isn't your regular number.
+A privacy phone number — sometimes called a [virtual phone number](https://snipstack.io/virtual-phone-number-google-voice-2026/), [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/), or [burner number](https://snipstack.io/burner-number-dating-apps-2026/) — is a real, working number that receives calls and texts normally. The difference is that it isn't tied to your carrier account, your home address, or your primary identity. You can hand it out freely. You can pause it, replace it, or disable it whenever you want. The person on the other end has no idea it isn't your regular number.
 
 ---
 

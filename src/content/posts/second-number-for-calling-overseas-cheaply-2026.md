@@ -72,7 +72,7 @@ This is the feature most people overlook until they need it. If a dating situati
 
 ### It Should Not Be Tied to Your Google Identity
 
-Google Voice provides a [second number](https://snipstack.io/second-number-for-discord-account-2026/), but it requires you to link your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) and your Google account during setup. Your alternate number is anonymous to the person on the other end — not to Google. For anyone who takes privacy seriously, that is a meaningful limitation. It is also US-only, which makes it irrelevant for users outside the United States.
+Google Voice provides a [second number](https://snipstack.io/second-number-for-discord-account-2026/), but it requires you to link your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) and your Google account during setup. Your [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/) is anonymous to the person on the other end — not to Google. For anyone who takes privacy seriously, that is a meaningful limitation. It is also US-only, which makes it irrelevant for users outside the United States.
 
 ---
 

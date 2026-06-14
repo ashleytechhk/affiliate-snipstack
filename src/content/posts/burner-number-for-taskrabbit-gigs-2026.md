@@ -114,7 +114,7 @@ The VoIP problem is worth emphasizing. Both Google Voice and the Burner app use 
 
 **Can I use a [burner number](https://snipstack.io/burner-number-online-2026/) as my TaskRabbit contact number for gigs?**
 
-Yes. TaskRabbit shares your number with clients so they can coordinate. There's nothing preventing you from providing an alternate number for this — the client just needs a working line to reach you. [Surfshark Alt-Number](/blog/altnumber?sub=burner-number-for-taskrabbit-gigs-2026__faq) receives real calls and texts, so coordination happens exactly as normal. The difference is that clients never have your primary number.
+Yes. TaskRabbit shares your number with clients so they can coordinate. There's nothing preventing you from providing an [alternate number for](https://snipstack.io/alternate-number-for-doordash-account-2026/) this — the client just needs a working line to reach you. [Surfshark Alt-Number](/blog/altnumber?sub=burner-number-for-taskrabbit-gigs-2026__faq) receives real calls and texts, so coordination happens exactly as normal. The difference is that clients never have your primary number.
 
 **If a client already has my [burner number](https://snipstack.io/burner-number-free-2026/), [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) I disable it?**
 

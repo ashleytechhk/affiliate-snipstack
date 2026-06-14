@@ -62,7 +62,7 @@ If you are not in the United States, most [free second](https://snipstack.io/fre
 
 ### No account linkage that defeats the purpose
 
-Some [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) services require you to sign up with a Google account. That creates a new problem: your alternate number is now connected to your primary Google identity, which a sufficiently motivated person can trace. True separation means the number is not tethered to another public identity.
+Some [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) services require you to sign up with a Google account. That creates a new problem: your [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/) is now connected to your primary Google identity, which a sufficiently motivated person can trace. True separation means the number is not tethered to another public identity.
 
 ![What separates the best second phone number apps from the rest — feature comparison 2026](/og/best-app-for-second-phone-number-2026-inline-1.png)
 

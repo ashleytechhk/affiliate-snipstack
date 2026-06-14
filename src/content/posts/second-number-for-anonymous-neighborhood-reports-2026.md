@@ -118,7 +118,7 @@ All calls and texts to that number arrive inside the Alt-Number inbox within the
 
 A [second number](https://snipstack.io/second-number-for-local-community-groups-2026/) addresses phone number exposure. It doesn't address everything.
 
-It won't prevent someone from recognizing you from your dating profile photos if they see you in person. It won't remove information that's already in people-search databases if it was entered before you started using an alternate number. It won't stop someone determined from using other means to find you.
+It won't prevent someone from recognizing you from your dating profile photos if they see you in person. It won't remove information that's already in people-search databases if it was entered before you started using an [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/). It won't stop someone determined from using other means to find you.
 
 What it does is close one specific, significant gap: your phone number is one of the primary lookup keys that connects your various identities across databases. Breaking that connection — using a different number for dating and reporting than the one tied to your bank, your employer, and your long-term contacts — removes one of the easiest paths from "stranger I met once" to "knows where I live."
 

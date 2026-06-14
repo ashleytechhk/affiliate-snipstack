@@ -142,7 +142,7 @@ Once the number is disabled, anyone who texts or calls it reaches nothing. Your 
 
 **Can I use the same Alt-Number for multiple dating apps?**
 
-Yes. One alternate number used across Tinder, Hinge, Bumble, and any other service creates a consistent buffer across all of them. If you decide to retire that number — say, after a bad experience or a period away from dating apps — all of those channels close simultaneously. One action, clean slate.
+Yes. One [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/) used across Tinder, Hinge, Bumble, and any other service creates a consistent buffer across all of them. If you decide to retire that number — say, after a bad experience or a period away from dating apps — all of those channels close simultaneously. One action, clean slate.
 
 **[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number available outside the US?**
 

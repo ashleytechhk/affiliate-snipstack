@@ -59,7 +59,7 @@ An anonymous number for medical appointments — or dating apps — isn't a fake
 When you sign up for a telehealth service with an anonymous number:
 - Your real number isn't in that company's database
 - A breach of that database doesn't expose your primary contact information
-- Spam calls and texts go to the alternate number, not your real phone
+- Spam calls and texts go to the [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/), not your real phone
 - You can disable it and get a new one if the number gets compromised
 
 When you use that same anonymous number on dating apps:

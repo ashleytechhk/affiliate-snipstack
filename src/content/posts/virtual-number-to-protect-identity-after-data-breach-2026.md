@@ -79,7 +79,7 @@ Three things make it specifically relevant to the post-breach dating scenario:
 
 **It uses real mobile number ranges, not VoIP blocks.** Dating apps, WhatsApp, and other services that use SMS verification increasingly flag and reject known VoIP number ranges during signup. Alt-Number uses legitimate mobile carrier number ranges that pass these checks. This matters because a [virtual number](https://snipstack.io/virtual-number-for-bank-account-verification-2026/) that cannot complete verification is useless for the scenario where you need it most.
 
-**You are not tethering your identity to a third platform.** Google Voice is the most common free alternative, but it requires a Google account — which means Google holds a record connecting your real identity to your alternate number. That is a limited form of separation. Alt-Number keeps the link inside Surfshark's ecosystem, not visible to every service that cross-references Google accounts.
+**You are not tethering your identity to a third platform.** Google Voice is the most common free alternative, but it requires a Google account — which means Google holds a record connecting your real identity to your [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/). That is a limited form of separation. Alt-Number keeps the link inside Surfshark's ecosystem, not visible to every service that cross-references Google accounts.
 
 **You control the number entirely, with no carrier involvement.** Pause it, replace it, or cancel it from inside the app. No waiting periods, no calling a carrier support line. The moment you decide you want a clean break from a number, you have it.
 

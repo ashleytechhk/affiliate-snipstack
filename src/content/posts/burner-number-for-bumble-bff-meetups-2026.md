@@ -72,7 +72,7 @@ Not all alternative number services are equal. For the Bumble BFF use case speci
 
 **Easy deactivation.** When you decide you're done with someone, you should be able to cut the connection in seconds. Not "unsubscribe from their texts" — fully remove the thread.
 
-**No Google account dependency.** Google Voice ties your alternate number to your Google identity. That's still an identity trail. It's also US-only and increasingly flagged by platforms as a VoIP line.
+**No Google account dependency.** Google Voice ties your [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/) to your Google identity. That's still an identity trail. It's also US-only and increasingly flagged by platforms as a VoIP line.
 
 ### Surfshark Alt-Number: How It Fits
 

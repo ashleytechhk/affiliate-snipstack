@@ -126,7 +126,7 @@ No. Once you disable or replace the number, calls and texts to it either bounce 
 
 For most people, using the [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) on dating apps is the right priority. Your rental applications need to be contactable and credible — landlords will call to verify and schedule viewings. Use your real number there, and keep a clean separation by using Alt-Number on the dating side only.
 
-**Is giving someone an alternate number considered dishonest?**
+**Is giving someone an [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/) considered dishonest?**
 
 No. The number is real and fully functional. The person can call and text you on it normally. You're using a number you control rather than your primary contact line — the same logic behind giving a business contact your work email rather than your personal one. It's sensible, not deceptive.
 

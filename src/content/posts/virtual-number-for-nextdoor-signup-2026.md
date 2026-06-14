@@ -162,7 +162,7 @@ Nextdoor uses phone verification as part of its local membership model. The plat
 
 **Is using a [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) on Nextdoor against their terms of service?**
 
-Nextdoor's terms prohibit creating accounts with false or misleading information. A [virtual number](https://snipstack.io/virtual-number-for-insurance-comparison-quote-2026/) is a real, working phone number — it is not false information. You are providing a number that genuinely receives SMS, not fabricating a number that does not exist. The distinction matters: what Nextdoor's terms target is fake accounts, not privacy-conscious sign-ups with alternate numbers.
+Nextdoor's terms prohibit creating accounts with false or misleading information. A [virtual number](https://snipstack.io/virtual-number-for-insurance-comparison-quote-2026/) is a real, working phone number — it is not false information. You are providing a number that genuinely receives SMS, not fabricating a number that does not exist. The distinction matters: what Nextdoor's terms target is fake accounts, not privacy-conscious sign-ups with [alternate number](https://snipstack.io/alternate-number-for-doordash-account-2026/)s.
 
 **How is Alt-Number different from a [burner number app](https://snipstack.io/free-burner-number-app-2026/)?**
 
