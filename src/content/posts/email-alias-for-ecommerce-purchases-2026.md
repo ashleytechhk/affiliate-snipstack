@@ -80,7 +80,7 @@ If you still need to shop at that store, you create a fresh alias for the next o
 
 ## Alt ID: The Right Tool for Ecommerce Shoppers
 
-[Alt ID](/blog/altid?sub=email-alias-for-ecommerce-purchases-2026__mid) is Surfshark's [email alias](https://snipstack.io/email-alias-for-ride-sharing-account-privacy-2026/) feature, included with all Surfshark subscription plans. It generates randomised alias addresses that forward to your real inbox, lets you label each one, and gives you a one-click delete when you're done with any of them.
+[Alt ID](/blog/altid?sub=email-alias-for-ecommerce-purchases-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s [email alias](https://snipstack.io/email-alias-for-ride-sharing-account-privacy-2026/) feature, included with all Surfshark subscription plans. It generates randomised alias addresses that forward to your real inbox, lets you label each one, and gives you a one-click delete when you're done with any of them.
 
 For ecommerce use specifically, it covers two things that matter:
 
@@ -114,7 +114,7 @@ SimpleLogin's free tier works for moderate shopping volume (up to 10 aliases). G
 
 ---
 
-## How to Set Up Alt ID for Online Shopping (Step-by-Step)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt ID for Online Shopping (Step-by-Step)
 
 **Step 1.** Get Alt ID through a Surfshark plan — [start here](/blog/altid?sub=email-alias-for-ecommerce-purchases-2026__mid). It's included with all plans at no extra cost.
 
@@ -164,7 +164,7 @@ You log in using the alias address, not your real one. The alias stays active un
 
 Some retailers check emails against known alias domains and may reject them at checkout. Alt ID uses its own domain rather than a widely-known disposable-email domain, which means it passes most standard form validation. If a specific store rejects it, you'd need to use your real address for that particular checkout.
 
-**Is using an [email alias](https://snipstack.io/email-alias-vs-forwarding-address-difference-2026/) dishonest?**
+**[Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) [email alias](https://snipstack.io/email-alias-vs-forwarding-address-difference-2026/) dishonest?**
 
 No. You're providing a real, functional email address — all emails reach you and replies work. An alias is a privacy tool, not a deception. It's equivalent to using a PO Box instead of your home address for mail, which is widely accepted practice. The retailer has a valid point of contact; you've simply chosen which address they can reach.
 

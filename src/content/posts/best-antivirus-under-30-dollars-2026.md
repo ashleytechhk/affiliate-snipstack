@@ -68,7 +68,7 @@ Ransomware attacks on individuals have surged. And older adults are frequently t
 
 A real-time antivirus scanner intercepts ransomware before it can encrypt a single file.
 
-### Risk 2: Phishing and Fake Websites
+### Risk 2: Phishing and [Fake Website](https://snipstack.io/fake-website-detector-tool-2026/)s
 
 You receive an email. It looks exactly like a message from your bank. The logo is right, the wording is right, even the layout matches what your bank normally sends. You click the link. You enter your password. Except that website was a perfect fake, and your password just went to a criminal.
 

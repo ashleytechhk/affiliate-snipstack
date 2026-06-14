@@ -128,14 +128,14 @@ Make sure the app is configured to alert you immediately when guests contact the
 
 ## What to Do When a Guest Becomes a Problem
 
-A second number makes the response protocol clean:
+A [second number](https://snipstack.io/second-number-for-instacart-shopper-account-2026/) makes the response protocol clean:
 
 1. **Document first.** Screenshot all communication in the app before you take any action.
 2. **Block on Airbnb.** Use the platform's block and report function.
-3. **Disable or replace the second number.** This cuts contact at the number level. They cannot call or text through that line.
+3. **Disable or replace the [second number](https://snipstack.io/second-number-for-whatsapp-business-account-2026/).** This cuts contact at the number level. They cannot call or text through that line.
 4. **Your real number remains untouched.** No number change, no carrier call, no explaining the situation to your bank because your 2FA line changed.
 
-If the situation escalates to a safety concern, contact local authorities with the documentation from Step 1. Your real address and personal details are not exposed through the second number — which is exactly where you want to be when reporting someone you've had in your property.
+If the situation escalates to a safety concern, contact local authorities with the documentation from Step 1. Your real address and personal details are not exposed through the [second number](https://snipstack.io/second-number-for-calling-overseas-cheaply-2026/) — which is exactly where you want to be when reporting someone you've had in your property.
 
 ---
 
@@ -145,7 +145,7 @@ If the situation escalates to a safety concern, contact local authorities with t
 
 No. Airbnb's terms govern how you communicate on their platform and how you represent your listing. Using a separate phone number for guest communication is standard practice among professional hosts. Alt Number and similar services are designed for exactly this type of business use.
 
-**Can guests tell my hosting number is a second number?**
+**Can guests tell my hosting number is a [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/)?**
 
 Not if you use a service with real number inventory, like [Alt Number](https://snipstack.io/blog/altnumber?sub=second-phone-number-for-airbnb-host-2026__faq). The number presents identically to a standard mobile number. Reverse-lookup tools will return limited or no results rather than your personal details — which is the outcome you want. VOIP-based options like TextNow are more likely to be flagged.
 
@@ -153,7 +153,7 @@ Not if you use a service with real number inventory, like [Alt Number](https://s
 
 Calls and texts to that number stop routing to you. Existing message history in the app remains accessible. If you're moving to a new number, update your Airbnb listing and any lockbox materials before your next check-in. Give active guests in the middle of a stay a heads-up via the Airbnb app so they're not stranded mid-booking.
 
-**Can I use one second number across multiple Airbnb properties?**
+**Can I use one [second number](https://snipstack.io/second-number-with-group-messaging-support-2026/) across multiple Airbnb properties?**
 
 Yes. A single hosting number works across any number of properties. Most hosts use one dedicated line for all guest communication regardless of how many listings they run. If you have a co-host, they can use the same second number's app login, or you can set up call forwarding through some services.
 

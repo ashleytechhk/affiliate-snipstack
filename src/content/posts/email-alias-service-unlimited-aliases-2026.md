@@ -18,7 +18,7 @@ That is what an **[email alias](https://snipstack.io/email-alias-for-privacy-wit
 
 An [email alias](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/) service creates forwarding addresses that sit in front of your real inbox. You give sites an alias instead of your real address, and all mail arrives in the same inbox you already use. When an alias attracts spam, you delete it — the spam stops permanently, and your real address is untouched.
 
-**Unlimited aliases** is the feature that makes this practical at scale. Without it, you run out of addresses, start reusing them, and lose the forensic power that makes the system work. [Alt ID](https://snipstack.io/blog/altid?sub=email-alias-service-unlimited-aliases-2026__above-fold) gives you that, bundled into Surfshark's broader privacy suite. If you are getting crushed by spam and want one change that actually works, this is it.
+**Unlimited aliases** is the feature that makes this practical at scale. Without it, you run out of addresses, start reusing them, and lose the forensic power that makes the system work. [Alt ID](https://snipstack.io/blog/altid?sub=email-alias-service-unlimited-aliases-2026__above-fold) gives you that, bundled into Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/). If you are getting crushed by spam and want one change that actually works, this is it.
 
 ---
 
@@ -104,13 +104,13 @@ Provider-specific alias features (Outlook's built-in aliases, iCloud Hide My Ema
 
 ### Reasonable Pricing
 
-Unlimited aliases should not cost more than a solid VPN subscription. Alt ID is bundled inside Surfshark's privacy suite, which means you get the alias service alongside a VPN and data removal tool at a combined price that undercuts buying each component separately.
+Unlimited aliases should not cost more than a solid VPN subscription. Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) inside Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which means you get the alias service alongside a VPN and data removal tool at a combined price that undercuts buying each component separately.
 
 ---
 
 ## Alt ID: Unlimited Aliases in Practice
 
-Alt ID is Surfshark's [email alias](https://snipstack.io/email-alias-for-crypto-exchange-registration-2026/) tool, part of their broader privacy package. Setting it up takes about three minutes: install the Surfshark app, go to the Alt ID section, set your forwarding inbox, and start generating aliases.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s [email alias](https://snipstack.io/email-alias-for-crypto-exchange-registration-2026/) tool, part of their broader privacy package. Setting it up takes about three minutes: install the Surfshark app, go to the Alt ID section, set your forwarding inbox, and start generating aliases.
 
 What makes it practical for high-volume aliasing:
 
