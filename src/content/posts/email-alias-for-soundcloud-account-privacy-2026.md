@@ -79,7 +79,7 @@ What makes it specifically right for SoundCloud accounts:
 
 **Fake identity generation.** SoundCloud's sign-up form asks for a name. Alt ID generates a plausible alternative identity to pair with the alias — protecting your name and other profile details alongside your email.
 
-**Limitation:** Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with a Surfshark subscription rather than sold as a standalone product. If you're already a Surfshark user, it costs nothing extra. If you're not, you're buying a privacy suite that includes VPN, antivirus, and identity monitoring alongside the alias feature — strong value if you'd use the broader toolkit, less efficient if you only want [email alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/)ing.
+**Limitation:** Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with a Surfshark subscription rather than sold as a standalone product. If you're already a Surfshark user, it costs nothing extra. If you're not, you're buying a [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) that includes VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity monitoring alongside the alias feature — strong value if you'd use the broader toolkit, less efficient if you only want [email alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/)ing.
 
 ---
 
@@ -119,7 +119,7 @@ The second problem: there is no kill-switch. You can create Gmail filters for se
 
 ---
 
-## How to Set Up an [Email Alias for](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) SoundCloud (Step-by-Step)
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias for](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) SoundCloud (Step-by-Step)
 
 The setup takes under five minutes and you only do it once per account.
 
