@@ -66,7 +66,7 @@ The result: **a streaming trial sign-up with your real address is a commitment t
 
 ### Alt ID — Best for Streaming Trials
 
-[Alt ID](/blog/altid?sub=email-alias-for-streaming-trial-accounts-2026__mid) is Surfshark's masked [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/) tool, included with all Surfshark plans. It generates a randomised forwarding address that routes all incoming email to your real Gmail, Outlook, or Apple Mail inbox. You see every trial confirmation, billing notice, and account alert in your normal inbox — the alias is invisible to you in use, visible only to the streaming service.
+[Alt ID](/blog/altid?sub=email-alias-for-streaming-trial-accounts-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s masked [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/) tool, included with all Surfshark plans. It generates a randomised forwarding address that routes all incoming email to your real Gmail, Outlook, or Apple Mail inbox. You see every trial confirmation, billing notice, and account alert in your normal inbox — the alias is invisible to you in use, visible only to the streaming service.
 
 What makes it the right fit for streaming trials specifically:
 
@@ -78,7 +78,7 @@ What makes it the right fit for streaming trials specifically:
 
 **Fake identity generation alongside the alias.** Some streaming platforms ask for your name alongside your email at the free trial stage. Alt ID generates plausible alternative name details to go with the alias, so you're protecting more than just your email address.
 
-**Limitation:** Alt ID is bundled with a Surfshark subscription, not sold standalone. If you're already a Surfshark user, it's included at no extra cost. If you're not, the subscription covers VPN access plus Alt ID and other privacy tools, which makes the value proposition good if you use the other features.
+**Limitation:** Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with a Surfshark subscription, not sold standalone. If you're already a Surfshark user, it's included at no extra cost. If you're not, the subscription covers VPN access plus Alt ID and other privacy tools, which makes the value proposition good if you use the other features.
 
 ---
 
@@ -118,7 +118,7 @@ There's also no kill-switch. You can filter or block senders, but you can't revo
 
 ---
 
-## How to Use Alt ID for a Streaming Trial (Step-by-Step)
+## [How to Use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) Alt ID for a Streaming Trial (Step-by-Step)
 
 **Step 1.** Get Alt ID through a Surfshark plan — [start here](/blog/altid?sub=email-alias-for-streaming-trial-accounts-2026__mid). Alt ID is included with all plans.
 

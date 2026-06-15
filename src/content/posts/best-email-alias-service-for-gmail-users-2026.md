@@ -47,14 +47,14 @@ Some users create separate Gmail accounts for different purposes — one for sho
 | Service | Alias limit | Gmail forwarding | Reply masking | Fake name gen | Price |
 |---|---|---|---|---|---|
 | Gmail "+" trick | Unlimited (tags) | Native | No | No | Free |
-| Apple Hide My Email | Unlimited | iCloud only | Yes | No | Apple One / iCloud+ |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited | iCloud only | Yes | No | Apple One / iCloud+ |
 | SimpleLogin (Proton) | 10 free / unlimited paid | Yes | Yes | No | Free / ~$4/mo |
 | AnonAddy | 5 shared free / unlimited paid | Yes | Yes | No | Free / ~$1/mo |
 | Surfshark Alt-ID | Unlimited | Yes | Yes | Yes | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) plan |
 
 ![Email alias service comparison for Gmail — feature breakdown](/og/best-email-alias-service-for-gmail-users-2026-inline-1.png)
 
-The table shows the core tension: free options either limit alias counts or come with restrictions (Apple's service is locked to iCloud as the destination). Alt-ID sits in the paid tier, but it is bundled with Surfshark's broader privacy suite — VPN, antivirus, and Alt-Number — making the per-feature cost competitive with standalone alias-only subscriptions.
+The table shows the core tension: free options either limit alias counts or come with restrictions (Apple's service is locked to iCloud as the destination). Alt-ID sits in the paid tier, but it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's broader privacy suite — VPN, antivirus, and Alt-Number — making the per-feature cost competitive with standalone alias-only subscriptions.
 
 ---
 
@@ -156,11 +156,11 @@ AnonAddy is worth considering if cost is the primary concern and you are comfort
 
 ### What Sets Alt-ID Apart
 
-**Fake name and profile generation.** Beyond the alias address, Alt-ID can generate a complete fake name, phone number placeholder, and identity details to pair with the alias. This matters for sign-up forms that ask for a full name — you can use a completely fictional identity rather than attaching your real name to an alias email.
+**Fake name and profile generation.** Beyond the alias address, Alt-ID can generate a complete fake name, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) placeholder, and identity details to pair with the alias. This matters for sign-up forms that ask for a full name — you can use a completely fictional identity rather than attaching your real name to an alias email.
 
 **One-click disable.** When an alias starts receiving spam, you toggle it off in the Alt-ID dashboard. The alias stops forwarding instantly. There is no equivalent for Gmail's plus trick — the underlying address is permanent.
 
-**Bundle value.** Alt-ID is included in Surfshark One and Surfshark One+ plans, which also include Surfshark VPN and antivirus. If you are already paying for a VPN separately, consolidating into Surfshark One often costs less than stacking subscriptions. For a Gmail user who cares about both inbox privacy and browsing privacy, this bundling is genuinely useful.
+**Bundle value.** Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) and Surfshark One+ plans, which also include Surfshark VPN and antivirus. If you are already paying for a VPN separately, consolidating into Surfshark One often costs less than stacking subscriptions. For a Gmail user who cares about both inbox privacy and browsing privacy, this bundling is genuinely useful.
 
 **No alias limit.** Unlike Apple's service (which is device-ecosystem-locked) or SimpleLogin's free tier (10 aliases), Alt-ID has no published cap. You can create one alias per service, per website, or per category without hitting a ceiling.
 
@@ -210,7 +210,7 @@ Many sign-up forms sanitize the email field before saving it to their database. 
 
 Yes, with a dedicated alias service that supports reply masking — which includes Alt-ID and SimpleLogin. When you reply to a forwarded email from your Gmail inbox, the outgoing message routes through the alias service so the recipient sees the alias address in the "From" field, not your real Gmail. The Gmail "+" trick has no equivalent feature: replies always show your real address.
 
-**What happens to existing emails if I disable an alias in Alt-ID?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to existing emails if I disable an alias in Alt-ID?**
 
 Emails already delivered to your Gmail inbox before you disabled the alias remain in your inbox untouched. Disabling the alias stops future forwarding — any new messages sent to that alias address are dropped or bounced depending on configuration. Emails already received are never affected.
 
