@@ -158,7 +158,7 @@ Surfshark Alt-Number does not expose your real phone number to the people who ca
 **What if a buyer needs to call me — will it work for voice calls?**
 Yes. Alt-Number handles both calls and texts. Incoming calls ring through the Surfshark app. You can answer or let it go to voicemail, exactly like a regular number.
 
-**Do I need to keep my phone connected to the internet for the burner number to work?**
+**Do I need to keep my phone connected to the internet for the [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/) to work?**
 Yes — [virtual numbers](https://snipstack.io/virtual-number-for-google-account-verification-2026/) require data or Wi-Fi to route messages through the app. If your phone is offline, texts are queued and delivered when you reconnect. For OfferUp use, where most communication happens through the app anyway, this is rarely a practical issue.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my OfferUp listings if I delete the burner number?**

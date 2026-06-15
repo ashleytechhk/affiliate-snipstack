@@ -213,7 +213,7 @@ If you are on a Norton or McAfee renewal you no longer feel good about, the swit
       "name": "How many email addresses can I monitor with Alert?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Surfshark One supports multiple email addresses in Alert. The exact number depends on the plan tier — check current plan details on the pricing page before purchasing."
+        "text": "[Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) supports multiple email addresses in Alert. The exact number depends on the plan tier — check current plan details on the pricing page before purchasing."
       }
     },
     {

@@ -128,7 +128,7 @@ You are now protected. From this point on, Surfshark works silently in the backg
 
 ## Recognising the Most Common Scams in 2026
 
-Even with antivirus software installed, it helps to know what to watch for. Here are the scams that target Windows 11 home users most frequently:
+Even with [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) installed, it helps to know what to watch for. Here are the scams that target Windows 11 home users most frequently:
 
 **The "Your computer has a virus" pop-up.** A large message appears on your screen, often with loud alarm sounds. It says to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) urgently. **This is always a scam.** Close the pop-up by pressing **Alt + F4** on your keyboard. Do not call the number. Your real antivirus software will never ask you to call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/).
 

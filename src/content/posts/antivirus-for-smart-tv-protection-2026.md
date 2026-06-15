@@ -157,7 +157,7 @@ Yes. Smart TVs running Android TV or Google TV use the same software platform as
 
 It helps. While sticking to official apps reduces risk, criminals create convincing fake versions of popular apps, and your TV browser can expose you to malicious websites. Real-time antivirus scanning catches threats that you would not spot on your own.
 
-**Will antivirus software slow down my TV?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my TV?**
 
 Surfshark Antivirus is designed to run quietly in the background with minimal impact on performance. Most users report no noticeable slowdown during normal use.
 

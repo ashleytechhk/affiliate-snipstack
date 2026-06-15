@@ -71,7 +71,7 @@ If you are currently paying for Norton plus a separate VPN subscription, that is
 
 ## Privacy Tooling: Beyond the Virus Scan
 
-Modern online threats are not just malware. Data brokers selling your home address. Leaked credentials on dark web forums. Fingerprinting scripts that follow you across every site you visit. Antivirus software alone does not solve any of those.
+Modern online threats are not just malware. Data brokers selling your home address. Leaked credentials on dark web forums. Fingerprinting scripts that follow you across every site you visit. [Antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) alone does not solve any of those.
 
 Norton has expanded in this direction with LifeLock (in the US) and dark web monitoring, but LifeLock tiers are priced separately and the upsell path is aggressive. You end up with a fragmented dashboard and multiple billing lines.
 

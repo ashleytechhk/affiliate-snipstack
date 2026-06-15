@@ -179,7 +179,7 @@ A computer virus is a small hidden program that gets onto your device — usuall
 
 **Q: Do I need antivirus software if I only use my computer for email and video calls?**
 
-Yes. Phishing emails — fake messages designed to steal your information — arrive through email. Antivirus software with phishing protection warns you before you can enter any personal details on a fake website. Even light internet use carries real risks in 2026.
+Yes. Phishing emails — fake messages designed to steal your information — arrive through email. [Antivirus software with](https://snipstack.io/antivirus-software-with-parental-controls-2026/) phishing protection warns you before you can enter any personal details on a fake website. Even light internet use carries real risks in 2026.
 
 **Q: Will antivirus software slow down my computer?**
 

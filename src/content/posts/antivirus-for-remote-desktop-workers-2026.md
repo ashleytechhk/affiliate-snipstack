@@ -129,7 +129,7 @@ Once installed, Surfshark runs its first scan automatically. After that, it prot
 ## Frequently Asked Questions
 
 **Do I really need antivirus if I already have a password on my remote desktop?**
-Yes. A password is a single lock on a single door. Antivirus software protects against threats that bypass your login entirely — including malware delivered through websites, email, and software vulnerabilities that have nothing to do with your password. Passwords and antivirus work together; neither replaces the other. [Start your protection here.](/blog/antivirus?sub=antivirus-for-remote-desktop-workers-2026__faq)
+Yes. A password is a single lock on a single door. [Antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) protects against threats that bypass your login entirely — including malware delivered through websites, email, and software vulnerabilities that have nothing to do with your password. Passwords and antivirus work together; neither replaces the other. [Start your protection here.](/blog/antivirus?sub=antivirus-for-remote-desktop-workers-2026__faq)
 
 **I am not very tech-savvy. Will I be able to manage antivirus software?**
 Surfshark Antivirus was designed specifically for people who are not technical. Once installed, it runs automatically without requiring any input from you. The dashboard uses plain language, not IT jargon. If you can use email and browse the internet, you can use Surfshark Antivirus.

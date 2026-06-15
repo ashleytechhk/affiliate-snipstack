@@ -67,7 +67,7 @@ These apps can read your messages, log your passwords as you type them, or quiet
 
 A pop-up appears telling you that your tablet's software is out of date and urging you to tap a link to update it immediately. This is not a real update from Apple or Google — it is a trick to get you to install malware.
 
-Real software updates come from your Settings app, not from a pop-up while you are browsing. Antivirus software flags these fake update prompts before they can cause harm.
+Real software updates come from your Settings app, not from a pop-up while you are browsing. [Antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) flags these fake update prompts before they can cause harm.
 
 ---
 

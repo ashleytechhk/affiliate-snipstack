@@ -155,7 +155,7 @@ A well-designed modern antivirus has no noticeable effect on your phone's speed 
 
 ### Do I need separate protection for my Wi-Fi router?
 
-Your home Wi-Fi router is a separate piece of equipment that antivirus software does not directly protect. The two most important steps for router security are: (1) make sure your Wi-Fi password is strong — at least twelve characters, not your address or birthday — and (2) check your router manufacturer's website occasionally for firmware updates. These two steps, combined with antivirus protection on your devices, cover the main ways criminals try to get into a home like yours.
+Your home Wi-Fi router is a separate piece of equipment that [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) does not directly protect. The two most important steps for router security are: (1) make sure your Wi-Fi password is strong — at least twelve characters, not your address or birthday — and (2) check your router manufacturer's website occasionally for firmware updates. These two steps, combined with antivirus protection on your devices, cover the main ways criminals try to get into a home like yours.
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) a legitimate company? How do I know it is not a scam itself?
 

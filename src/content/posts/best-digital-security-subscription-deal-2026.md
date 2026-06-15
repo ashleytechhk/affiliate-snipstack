@@ -167,7 +167,7 @@ Yes. The antivirus component includes ransomware detection as part of real-time 
 
 Export it before you cancel. Norton's password manager allows CSV export from within the settings. Import that file into Bitwarden (free) or another password manager before your subscription ends. Once the subscription lapses you lose access to the export function, so don't leave this step until the last minute.
 
-**Does Surfshark One work on Linux?**
+**Does [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) work on Linux?**
 
 Yes — it's one of the few all-in-one security subscriptions with full Linux support. Norton and McAfee both lack Linux clients. If you run Linux on any of your devices, [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) is effectively your only option in this comparison.
 

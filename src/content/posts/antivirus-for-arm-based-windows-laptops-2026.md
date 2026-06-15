@@ -146,7 +146,7 @@ The setup takes about five minutes. Surfshark walks you through every step on sc
 
 ## [How to Check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/) If Your Current Antivirus Is Running Natively
 
-If you already have antivirus software installed and want to know whether it is running natively or through emulation, here is a quick way to check:
+If you already have [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) installed and want to know whether it is running natively or through emulation, here is a quick way to check:
 
 1. Press **Ctrl + Shift + Esc** on your keyboard. This opens Task Manager.
 2. Click on the **Details** tab at the top.

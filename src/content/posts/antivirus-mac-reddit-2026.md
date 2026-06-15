@@ -51,7 +51,7 @@ More importantly for seniors: many of the biggest threats are not traditional "v
 - **Adware** — software that sneaks onto your Mac and floods your [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) fake ads or warnings
 - **[Tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s** — pop-ups that claim your computer is infected and tell you to call a number (the number connects you to a criminal)
 
-Your Mac's built-in protections cannot catch all of these. That is where antivirus software helps.
+Your Mac's built-in protections cannot catch all of these. That is where [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) helps.
 
 ---
 

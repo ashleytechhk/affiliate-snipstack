@@ -142,7 +142,7 @@ Bitdefender is the better fit for less tech-savvy users. Its Autopilot mode hand
 
 ### Is Kaspersky safe to use in 2026?
 
-Kaspersky's antivirus technology itself continues to earn top detection scores in independent testing. However, in 2024 the U.S. Department of Commerce restricted the sale of Kaspersky software citing national security concerns. The UK and several other governments issued similar advisories. For personal home use, the risk is not zero — antivirus software has deep access to your device, and the controversy around Kaspersky's country of origin is significant enough that alternatives with no such concerns are worth choosing instead.
+Kaspersky's antivirus technology itself continues to earn top detection scores in independent testing. However, in 2024 the U.S. Department of Commerce restricted the sale of Kaspersky software citing national security concerns. The UK and several other governments issued similar advisories. For personal home use, the risk is not zero — [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) has deep access to your device, and the controversy around Kaspersky's country of origin is significant enough that alternatives with no such concerns are worth choosing instead.
 
 ### Do I need to pay for antivirus, or is the free version good enough?
 

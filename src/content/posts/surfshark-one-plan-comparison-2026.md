@@ -220,7 +220,7 @@ Pick the tier. Make the switch. Stop paying more for less.
     },
     {
       "@type": "Question",
-      "name": "Is there a trial or refund period for Surfshark One?",
+      "name": "Is there a trial or refund period for [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/)?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Surfshark offers a refund window on paid plans. Check the current terms on the pricing page before purchasing, as these are subject to change. There is no permanent free tier."

@@ -91,7 +91,7 @@ iOS supports content blocker extensions for Safari. Apps like AdGuard for iOS in
 
 ### Option 3: Private DNS (Free, Partial)
 
-iOS supports custom DNS in Settings > Wi-Fi (per-network) or via a configuration profile. Pointing to a filtering resolver like AdGuard DNS (`94.140.14.14`) blocks known third-party ad domains. This is free and requires no app. Its ceiling: it cannot block LinkedIn first-party ad calls or the Insight Tag pixels that fire from linkedin.com directly.
+iOS supports custom DNS in Settings > Wi-Fi (per-network) or via a configuration profile. Pointing to a filtering resolver like [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) (`94.140.14.14`) blocks known third-party ad domains. This is free and requires no app. Its ceiling: it cannot block LinkedIn first-party ad calls or the Insight Tag pixels that fire from linkedin.com directly.
 
 ---
 
@@ -121,7 +121,7 @@ Android 9+ supports system-wide Private DNS (Settings > Network & Internet > Adv
 
 ## Why CleanWeb Works for LinkedIn Power Users
 
-Most ad blocking approaches on mobile require a trade-off: browser extensions miss the native app entirely, standalone [ad blocker](https://snipstack.io/ad-blocker-that-works-on-streaming-sites-2026/)s conflict with your VPN, and free DNS resolvers only partially cover the ad ecosystem. CleanWeb avoids these conflicts because it is part of Surfshark's VPN app — the ad blocking and the VPN tunnel share the same connection and the same VPN slot.
+Most ad blocking approaches on mobile require a trade-off: [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s miss the native app entirely, standalone [ad blocker](https://snipstack.io/ad-blocker-that-works-on-streaming-sites-2026/)s conflict with your VPN, and free DNS resolvers only partially cover the ad ecosystem. CleanWeb avoids these conflicts because it is part of Surfshark's VPN app — the ad blocking and the VPN tunnel share the same connection and the same VPN slot.
 
 For a mobile professional who uses LinkedIn throughout the day, this matters in practical terms:
 

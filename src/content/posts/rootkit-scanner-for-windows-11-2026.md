@@ -164,7 +164,7 @@ Yes, as long as you use a trusted link. Always check that the website address st
 
 During a full scan, you may notice your computer is slightly slower — this is normal and temporary. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is designed to be lightweight, so during everyday use (browsing, email, watching videos), you should notice no difference at all. The ongoing rootkit monitoring runs in the background using very little processing power. Once the initial full scan is complete, protection continues automatically without any impact on your daily activities.
 
-### I already have antivirus software. Do I still need a rootkit scanner?
+### I already have [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/). Do I still need a rootkit scanner?
 
 It depends on what your current antivirus includes. Many standard antivirus programs — including some paid ones — do not include deep rootkit scanning. Check your software's feature list and look specifically for "rootkit detection" or "deep scan." If those features are not listed, your computer may have gaps in its protection. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) includes rootkit scanning as a core feature, not an add-on.
 

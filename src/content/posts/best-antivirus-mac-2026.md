@@ -211,7 +211,7 @@ Yes — the old saying that Macs cannot get viruses is a myth. Macs are targeted
 
 For basic threats, Apple's tools (XProtect and Gatekeeper) do a solid job. But they do not protect you against scam websites in non-Safari browsers, phishing emails, tech-support scam pop-ups, or threats that have not yet been added to Apple's database. A dedicated antivirus app fills those gaps.
 
-**Will antivirus software slow down my Mac?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my Mac?**
 
 Modern antivirus apps are designed to be lightweight. Surfshark Antivirus runs quietly in the background and is built not to interrupt what you are doing. Scheduled scans (which you can set to run while you sleep) use the most processing power, but day-to-day use should feel exactly the same.
 

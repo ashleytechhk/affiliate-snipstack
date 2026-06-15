@@ -62,7 +62,7 @@ The only genuine exception is **VirusTotal**, which lets you upload a specific f
 
 ### ESET Online Scanner
 
-ESET is a well-established European cybersecurity company that has been building antivirus software since the 1990s. Their online scanner is free and scans your entire computer for malware, unwanted programs, and leftover infections.
+ESET is a well-established European cybersecurity company that has been building [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) since the 1990s. Their online scanner is free and scans your entire computer for malware, unwanted programs, and leftover infections.
 
 **What it requires:** A small launcher file that you run once. It is not a full app installation — it does not add itself to your programs list or run in the background after the scan. Once the scan is done and you close it, it stops.
 

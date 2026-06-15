@@ -49,7 +49,7 @@ Windows 11 comes with a built-in tool called [Windows Defender](https://snipstac
 
 ## Step 1 — Choose the Right Antivirus Plan
 
-Not all antivirus software is the same. Here is what to look for:
+Not all [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) is the same. Here is what to look for:
 
 **Easy to use:** The software should not require you to make complicated decisions every day. Good antivirus runs in the background automatically.
 

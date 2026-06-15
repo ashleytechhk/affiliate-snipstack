@@ -141,7 +141,7 @@ Yes. Apple's built-in security has improved over the years, but it is not design
 
 Tech support fraud. According to the FBI IC3 2023 Elder Fraud Report, it was the single most reported crime type targeting people over 60, with 17,696 complaints in that year. These scams typically start with a fake alarm on your screen or a phone call, not a traditional virus.
 
-**Will antivirus software slow down my MacBook Pro?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my MacBook Pro?**
 
 Not with a well-designed program. [Surfshark Antivirus](/blog/antivirus?sub=best-antivirus-for-macbook-pro-2026__faq) runs in the background without affecting your day-to-day use. Scans can be scheduled for times when you are not using the computer — overnight, or while you are having lunch.
 

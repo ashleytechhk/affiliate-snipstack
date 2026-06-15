@@ -178,7 +178,7 @@ For seniors who want peace of mind without becoming a technology expert, this is
 - You have been getting pop-ups, slow performance, or strange behavior
 - You want ongoing protection rather than one-time checks
 
-In those situations, a free online scan will not give you the answer you are looking for. That is when you need installed antivirus software doing regular, automatic scans.
+In those situations, a free online scan will not give you the answer you are looking for. That is when you need installed [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) doing regular, automatic scans.
 
 ---
 

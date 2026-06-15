@@ -158,7 +158,7 @@ The "Annoyed-by-Norton Upgrader" case for [Surfshark One](https://snipstack.io/s
 
 TotalAV isn't a bad antivirus. It's a well-established product with a long track record. But the business model — promotional pricing, separate VPN charges, upsell-heavy dashboard — is exactly what makes legacy [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)s frustrating to live with long-term.
 
-If you've already decided the current model isn't working for you, Surfshark One is the most complete alternative at this price point.
+If you've already decided the current model isn't working for you, [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) is the most complete alternative at this price point.
 
 **[Get Surfshark One — everything included, no surprises](/blog/one?sub=surfshark-one-vs-total-av-comparison-2026__cta)**
 

@@ -166,7 +166,7 @@ Windows Defender covers basic threats but has documented gaps with the specific 
 
 [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) is available for both Windows and Mac. Mac users are not immune from the threats described in this article. The phishing pages, sponsorship email scams, and fake software downloads that target YouTubers affect Mac users just as much as Windows users.
 
-**Q: Will antivirus software slow down my video editing?**
+**Q: Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my video editing?**
 
 Not noticeably with modern tools like Surfshark. The real-time scanner runs in the background using a small amount of system resources. During a heavy video export, you may want to schedule deep scans for overnight rather than running them at the same time. But day-to-day protection will not interfere with your editing work.
 

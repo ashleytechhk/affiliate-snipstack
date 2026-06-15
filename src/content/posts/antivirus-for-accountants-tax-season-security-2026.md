@@ -54,7 +54,7 @@ Understanding what you are protecting against makes it easier to appreciate why 
 
 **Phishing emails disguised as official notices** are the most common entry point. They look like they come from the IRS, the Social Security Administration, your bank, or your accountant. They carry a sense of urgency — a deadline, an error, a missing form — and they contain a link or attachment designed to steal your information or install malicious software.
 
-**Malicious PDF and document attachments** are especially dangerous during tax season because legitimate tax documents are always shared as PDFs. A fake PDF that appears to be a W-2 form, a tax summary, or an accountant's invoice can silently install spyware when opened. Without antivirus software scanning the file first, you would never know.
+**Malicious PDF and document attachments** are especially dangerous during tax season because legitimate tax documents are always shared as PDFs. A fake PDF that appears to be a W-2 form, a tax summary, or an accountant's invoice can silently install spyware when opened. Without [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) scanning the file first, you would never know.
 
 **Fake tax filing websites** mimic official government portals and popular tax preparation services. They collect everything you type — your Social Security number, bank routing number, income figures — and pass it directly to criminals. A good antivirus flags dangerous websites before the page even loads.
 

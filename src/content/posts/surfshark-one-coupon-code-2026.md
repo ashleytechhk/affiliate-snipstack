@@ -121,7 +121,7 @@ No codes, no gimmicks. Here is the actual process:
 2. **Select the longest plan you are comfortable with.** The per-month equivalent drops substantially on multi-year plans. If you are skeptical, remember the 30-day refund window: you can sign up, test it, and cancel if it does not work for you.
 3. **Verify your renewal price at checkout** before entering payment details. The checkout screen shows both the promotional rate and the renewal rate. Note both numbers.
 4. **Set a calendar reminder** for 30 days in. If you decide [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) is not the right fit, this is your window to request a full refund without any hassle.
-5. **Cancel your existing [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)** only after confirming Surfshark One is running correctly and covering your devices. Do not let Norton or McAfee auto-renew mid-switch.
+5. **Cancel your existing [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/)** only after confirming [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) is running correctly and covering your devices. Do not let Norton or McAfee auto-renew mid-switch.
 
 That is the complete deal-optimization process. There is no step six that involves finding a working coupon code, because the link already carries the best available rate.
 

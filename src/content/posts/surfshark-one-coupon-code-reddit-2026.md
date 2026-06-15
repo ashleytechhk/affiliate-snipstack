@@ -161,7 +161,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-
 
 ## The Bottom Line
 
-Reddit coupon codes for Surfshark One are mostly archaeology at this point — artifacts of promotions that ran months ago, preserved in threads that rank in search results long after the deal expired. The codes are not being maintained or updated. Most will do nothing at checkout.
+Reddit coupon codes for [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) are mostly archaeology at this point — artifacts of promotions that ran months ago, preserved in threads that rank in search results long after the deal expired. The codes are not being maintained or updated. Most will do nothing at checkout.
 
 The actual discount is where it has always been: on the two-year plan, on Surfshark's own site, sometimes amplified by seasonal sale periods that apply automatically without any code. If you found this page looking for a working Reddit code, the honest advice is to stop looking and check the current official pricing instead. The math is almost certainly already in your favor.
 

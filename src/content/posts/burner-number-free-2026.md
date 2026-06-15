@@ -148,7 +148,7 @@ Some dating apps accept VoIP numbers for SMS verification; others block them. Ap
 
 The number is released back into the pool and eventually reassigned to another user. Any existing threads where you shared that number go silent — the other person texts it, gets no response, and has no way to trace it to you. This is the core safety feature: burning the number severs the connection cleanly.
 
-### Do burner numbers work for WhatsApp and iMessage?
+### Do [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/)s work for WhatsApp and iMessage?
 
 WhatsApp requires a number that can receive SMS — most burner services qualify, though some VoIP ranges are blocked. iMessage works with any number that can receive a verification text. TextNow, Talkatone, and Alt-Number all pass WhatsApp verification in most regions. Test before you commit to a number for a specific platform.
 

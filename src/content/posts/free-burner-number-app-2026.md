@@ -109,7 +109,7 @@ With your [burner number](https://snipstack.io/burner-number-for-bumble-bff-meet
 Share your [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/) instead of your real one when a match asks to move off the app. They get a working number. You stay in control of the line.
 
 **For new account verification:**
-If you are creating a new dating app account, enter your burner number when the app asks for a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/). The app sends an SMS verification code. On Alt-Number, that code arrives in your **Alt-Number inbox** inside the app — not in your regular Messages app. Copy the code, paste it into the dating app, and verification is complete.
+If you are creating a new dating app account, enter your [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/) when the app asks for a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/). The app sends an SMS verification code. On Alt-Number, that code arrives in your **Alt-Number inbox** inside the app — not in your regular Messages app. Copy the code, paste it into the dating app, and verification is complete.
 
 **Setting up your profile:**
 Keep your second-number profile simple — first name only, no identifying photo if you are privacy-conscious. You can always upgrade to a fuller profile once you trust someone more.

@@ -149,7 +149,7 @@ Basic [free antivirus](https://snipstack.io/vs-free-antivirus-2026/) — like th
 
 ### How often does automatic backup run?
 
-In good antivirus software, backup runs continuously or at very short intervals — often every few hours or whenever you make changes to your important files. You do not need to set a schedule or remember to press a button. Once configured, it runs on its own.
+In good [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/), backup runs continuously or at very short intervals — often every few hours or whenever you make changes to your important files. You do not need to set a schedule or remember to press a button. Once configured, it runs on its own.
 
 ### Will antivirus slow down my computer?
 

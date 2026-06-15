@@ -232,7 +232,7 @@ If you are still paying for a bloated legacy suite out of inertia, this is a rea
     },
     {
       "@type": "Question",
-      "name": "Does Surfshark One include data broker removal?",
+      "name": "Does [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) include data broker removal?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "The base One plan includes breach alerts but not automatic data broker removal. Incogni — Surfshark's data removal service — is available as an add-on or included in higher-tier bundles. Incogni sends removal requests to hundreds of data brokers on your behalf and tracks completion."

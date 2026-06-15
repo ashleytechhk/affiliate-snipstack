@@ -161,7 +161,7 @@ No. Apple's built-in tools are free and already running. A free trial of [Surfsh
 
 Do not panic. Close the browser tab immediately by pressing Command and W at the same time. Do not enter any personal information, call any [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) shown on screen, or download anything the page prompts. If you think you may have already typed in a password, change that password on a different device (a smartphone works fine) and contact the real organization — your actual bank, for example — using a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) from a statement, not one found online. Then install [antivirus software](https://snipstack.io/antivirus-software-2026/) and run a full scan.
 
-**Will antivirus software slow down my Mac?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my Mac?**
 
 A well-designed antivirus app has minimal impact on day-to-day performance. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) is built to run quietly in the background. Scans use more processing power while they run — your Mac may feel slightly slower for five to ten minutes during a full scan — but this returns to normal immediately afterward. If your Mac is already running slowly, a scan may actually help by identifying and removing software that is consuming resources.
 

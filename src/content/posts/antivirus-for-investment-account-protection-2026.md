@@ -162,7 +162,7 @@ Your retirement savings represent a lifetime of work. Protecting them does not r
 
 Here is your action list:
 
-1. Install antivirus software with real-time web protection on every computer you use to access investment accounts.
+1. Install [antivirus software with](https://snipstack.io/antivirus-software-with-parental-controls-2026/) real-time web protection on every computer you use to access investment accounts.
 2. Enable two-factor authentication on your brokerage accounts.
 3. Use a unique, strong password for each financial account.
 4. Type brokerage addresses directly into your browser — never follow email links.

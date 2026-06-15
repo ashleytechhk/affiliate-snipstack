@@ -77,7 +77,7 @@ Ransomware is a type of malware that locks all your files — your photos, docum
 
 ### 4. Password Stealers
 
-Some malicious programs hide inside what look like normal downloads — a free game, a cute screensaver, a document attachment. Once installed, they quietly copy your passwords and send them to criminals. Antivirus software scans every download before it opens.
+Some malicious programs hide inside what look like normal downloads — a free game, a cute screensaver, a document attachment. Once installed, they quietly copy your passwords and send them to criminals. [Antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) scans every download before it opens.
 
 ### 5. Data Breach Exposure
 

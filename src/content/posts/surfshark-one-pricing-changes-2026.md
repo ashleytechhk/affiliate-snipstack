@@ -132,7 +132,7 @@ Yes. Unlike some competitor bundles that include a capped VPN (Norton's 50GB/mon
 **How does [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/)'s antivirus compare to Norton or McAfee?**
 All three cover the core threat categories: malware, ransomware, trojans, and spyware. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is lighter on system resources and does not bundle browser extensions. Norton and McAfee have longer track records and independent lab certifications from AV-TEST and AV-Comparatives. If third-party lab scores are a priority for you, Norton and McAfee currently have more published test history.
 
-**Can I use Surfshark One on all my devices?**
+**Can I use [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) on all my devices?**
 Yes. Surfshark One has no device limit. One subscription covers all your Windows, macOS, Android, and iOS devices simultaneously.
 
 **What is the difference between Surfshark One and Surfshark One+?**

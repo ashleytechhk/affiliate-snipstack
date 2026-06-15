@@ -175,7 +175,7 @@ A firewall controls which programs can send and receive data over the internet �
 
 ### What should I do if I get a scary popup while gaming?
 
-Do not click anything on the popup — not the "X" to close it, not any button it shows. Use keyboard shortcut Alt+F4 on Windows to force-close the popup, or right-click the program in your taskbar and choose "Close." Never call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown on a security popup — this is almost always a scam designed to connect you with a criminal. If you are unsure whether a warning was real, close the popup and open your antivirus software directly to run a scan from there.
+Do not click anything on the popup — not the "X" to close it, not any button it shows. Use keyboard shortcut Alt+F4 on Windows to force-close the popup, or right-click the program in your taskbar and choose "Close." Never call any [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) shown on a security popup — this is almost always a scam designed to connect you with a criminal. If you are unsure whether a warning was real, close the popup and open your [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) directly to run a scan from there.
 
 ### Will antivirus protect my gaming accounts and passwords?
 

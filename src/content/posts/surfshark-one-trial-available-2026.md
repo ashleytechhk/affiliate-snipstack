@@ -171,7 +171,7 @@ When you cancel and request a refund, your Surfshark account and associated data
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) work on all my devices during the trial?
 
-Yes. Surfshark One's unlimited simultaneous connections policy applies during the 30-day window exactly as it does for paying subscribers. Windows, macOS, iOS, Android, and Linux are supported. The antivirus scan engine is available on Windows and macOS; mobile devices use VPN and Alert features without a dedicated on-device antivirus scan engine, which is standard for iOS and Android security apps due to platform restrictions.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/)'s unlimited simultaneous connections policy applies during the 30-day window exactly as it does for paying subscribers. Windows, macOS, iOS, Android, and Linux are supported. The antivirus scan engine is available on Windows and macOS; mobile devices use VPN and Alert features without a dedicated on-device antivirus scan engine, which is standard for iOS and Android security apps due to platform restrictions.
 
 ---
 

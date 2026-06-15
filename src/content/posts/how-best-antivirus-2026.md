@@ -24,7 +24,7 @@ This guide walks you through exactly what [antivirus software](https://snipstack
 
 Scammers and hackers specifically target older adults. According to consumer protection agencies, people over 60 lose more money to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) each year than any other age group. Why? Because the tactics used — [fake phone](https://snipstack.io/fake-phone-number-for-2fa-2026/) calls pretending to be from Microsoft, emails claiming your bank account is frozen, pop-ups saying your computer has a virus — are designed to create panic and urgency.
 
-Good antivirus software acts as a filter. It checks everything coming into your device — emails, websites, downloads — and blocks the dangerous stuff before it can cause harm. Think of it like a security guard standing at your front door.
+Good [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) acts as a filter. It checks everything coming into your device — emails, websites, downloads — and blocks the dangerous stuff before it can cause harm. Think of it like a security guard standing at your front door.
 
 **What antivirus software protects you from:**
 - Viruses that can delete your files or slow your computer to a crawl

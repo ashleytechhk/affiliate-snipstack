@@ -116,7 +116,7 @@ Some [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) 
 
 ## What to Do Right Now
 
-If you work from home and do not currently have dedicated antivirus software running on your computer, these are the steps to take before your next working session.
+If you work from home and do not currently have dedicated [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) running on your computer, these are the steps to take before your next working session.
 
 **Step 1.** Click the link below to visit the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) page and review the available plans.
 

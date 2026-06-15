@@ -148,7 +148,7 @@ On most computers made in the last five years, a well-designed antivirus runs wi
 
 **What should I do if I think I have already been infected?**
 
-Run a full scan immediately using your antivirus software. If you do not have antivirus installed, download a reputable tool and run a scan before doing anything else online. Change the passwords on your most sensitive accounts (bank, email) from a different, clean device if possible. If you believe you have already lost money to a scam, contact your bank and report the incident to the FBI's Internet Crime Complaint Center at ic3.gov.
+Run a full scan immediately using your [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/). If you do not have antivirus installed, download a reputable tool and run a scan before doing anything else online. Change the passwords on your most sensitive accounts (bank, email) from a different, clean device if possible. If you believe you have already lost money to a scam, contact your bank and report the incident to the FBI's Internet Crime Complaint Center at ic3.gov.
 
 ---
 

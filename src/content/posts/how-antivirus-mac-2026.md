@@ -176,7 +176,7 @@ Yes. Surfshark is a legitimate, well-reviewed security company. Their [antivirus
 **Q: Do I need antivirus if I only use my Mac for email and browsing?**
 Yes. Email and web browsing are the two most common ways threats reach your computer. [Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s in emails and malicious websites do not require you to download anything to cause problems.
 
-**Q: Will antivirus software slow down my Mac?**
+**Q: Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my Mac?**
 Modern antivirus apps are designed to have minimal impact on performance. Surfshark uses very little memory and processor power during regular use. You are unlikely to notice any slowdown.
 
 **Q: [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) cost?**

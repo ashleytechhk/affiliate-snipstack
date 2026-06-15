@@ -48,7 +48,7 @@ The FBI's Internet Crime Report for 2024 found that adults over 60 reported **$3
 
 ## What "Scanning Browser Downloads" Actually Means
 
-When antivirus software scans browser downloads, it does two things:
+When [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) scans browser downloads, it does two things:
 
 **1. Checks the file before it opens**
 The moment your browser finishes downloading a file, antivirus software intercepts it. It checks the file's contents against a database of known threats and uses behavioral analysis to spot suspicious patterns — even in brand-new threats it has never seen before.

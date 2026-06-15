@@ -34,11 +34,11 @@ The specific risks that come back to bite hosts include:
 
 **Post-stay harassment.** A guest leaves a bad review. You respond professionally. They take it personally and start calling your personal number. Because you gave it to them.
 
-**Reverse-lookup exposure.** Your real phone number — entered into any of dozens of people-search sites — returns your full name, address, and sometimes family members' details. A motivated guest can find where you live. Hosts have reported guests showing up at their primary residence using information traced from a personal phone number.
+**Reverse-lookup exposure.** Your real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) — entered into any of dozens of people-search sites — returns your full name, address, and sometimes family members' details. A motivated guest can find where you live. Hosts have reported guests showing up at their primary residence using information traced from a personal [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/).
 
 **Spoofing and impersonation.** Bad actors use real host numbers to spoof guests, claiming there's a problem with the booking and requesting payment outside the platform. If your real number is already associated with your listing (guests have saved it, it appears on reviews or local listings), it becomes easier to impersonate you.
 
-**SIM-swapping.** A host's phone number, combined with other data found online, can be used to attempt a SIM-swap attack — where the attacker convinces your carrier to transfer your number to their SIM. From there, they can intercept two-factor authentication codes for your Airbnb account, your bank, and everything else tied to that number.
+**SIM-swapping.** A host's [phone number](https://snipstack.io/phone-number-alias-for-work-2026/), combined with other data found online, can be used to attempt a SIM-swap attack — where the attacker convinces your carrier to transfer your number to their SIM. From there, they can intercept two-factor authentication codes for your Airbnb account, your bank, and everything else tied to that number.
 
 None of these are hypothetical. All of them become substantially harder when your hosting number is separate from your personal number.
 
@@ -80,7 +80,7 @@ The limits matter for hosting at scale. Google Voice numbers are increasingly fl
 
 ### Hushed
 
-Hushed is a legitimate choice for hosts who want a temporary number for a specific period — say, while a problematic former guest is still active. Plans are available by the week, month, or as a longer subscription. The numbers are real and not flagged as obviously VOIP.
+Hushed is a legitimate choice for hosts who want a [temporary number for](https://snipstack.io/temporary-number-for-giveaway-entries-2026/) a specific period — say, while a problematic former guest is still active. Plans are available by the week, month, or as a longer subscription. The numbers are real and not flagged as obviously VOIP.
 
 The limitation: Hushed is better for short-term use than as a permanent hosting number. The cost structure adds up over time compared to Alt Number's bundled approach, and you lose continuity if you let a plan lapse.
 
@@ -141,7 +141,7 @@ If the situation escalates to a safety concern, contact local authorities with t
 
 ## FAQ
 
-**Is it against Airbnb's terms to use a second phone number?**
+**Is it against Airbnb's terms to use a [second phone number](https://snipstack.io/second-phone-number-for-ebay-selling-2026/)?**
 
 No. Airbnb's terms govern how you communicate on their platform and how you represent your listing. Using a separate [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) guest communication is standard practice among professional hosts. Alt Number and similar services are designed for exactly this type of business use.
 

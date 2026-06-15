@@ -220,7 +220,7 @@ Yes, as long as each app only verifies once per number. You'll use the number to
 
 ## Bottom Line
 
-Setting up a burner number on iPhone takes about five minutes and solves a real problem: handing out your personal number to people you've just met online is a privacy risk that's easy to eliminate.
+Setting up a [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/) on iPhone takes about five minutes and solves a real problem: handing out your personal number to people you've just met online is a privacy risk that's easy to eliminate.
 
 For free use with no dating app verification needed, Google Voice works. For active daters who need reliable SMS verification and want the option to fully dispose of a number, Hushed or Burner are solid. For the most reliable option — real mobile number, works globally, bundled with a VPN — Alt-Number is the one that keeps delivering without the VoIP rejection headaches.
 

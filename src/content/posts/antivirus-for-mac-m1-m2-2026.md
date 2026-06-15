@@ -166,7 +166,7 @@ Yes, though the nature of the threats has changed. Raw viruses that replicate an
 
 For light, careful use on familiar websites, XProtect plus Gatekeeper covers the basics. The significant gaps are real-time phishing protection (XProtect does not warn you about [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s before you visit them) and data breach monitoring. If you do online banking, click links in emails, or shop online, those gaps are worth closing with a dedicated antivirus.
 
-**Will antivirus software slow down my M1 or M2 Mac?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my M1 or M2 Mac?**
 
 Not noticeably with a well-designed app. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) is built natively for Apple Silicon, meaning it runs efficiently on M1 and M2 chips without the compatibility overhead of older software. Scheduled scans run in the background during quiet periods and are designed not to interrupt what you are doing.
 

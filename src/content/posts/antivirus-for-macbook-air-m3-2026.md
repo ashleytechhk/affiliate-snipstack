@@ -153,7 +153,7 @@ If you get stuck at any step, Surfshark offers 24/7 live chat support.
 
 Yes, particularly for seniors. The MacBook Air M3 has strong built-in security, but it cannot block phishing websites, scam pop-ups, or new malware that Apple has not yet catalogued. Seniors are the most targeted demographic for online fraud, losing billions of dollars each year. A dedicated antivirus adds the real-time web protection layer that Apple's tools do not include. [See the option we recommend](/blog/antivirus?sub=antivirus-for-macbook-air-m3-2026__faq).
 
-**Will antivirus software slow down my MacBook Air M3?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my MacBook Air M3?**
 
 A well-built antivirus designed for Apple Silicon will not slow your machine noticeably. The M3 chip is powerful, and modern security software is lightweight. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/), for example, is optimized for Apple Silicon and runs quietly in the background without affecting your battery life or browser speed.
 

@@ -157,7 +157,7 @@ Some free tools include basic spyware scanning, but they often rely on outdated 
 
 In many cases, you cannot tell without running a proper scan. Some signs include: your computer is suddenly slower than usual, programs open or close on their own, or you notice accounts being accessed from locations you do not recognize. But spyware can also be completely silent. Running a full scan with a dedicated [antivirus](https://snipstack.io/best-antivirus-free-2026/) is the only reliable way to find out.
 
-### Will antivirus software slow down my computer?
+### Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my computer?
 
 Modern antivirus tools are designed to run quietly in the background with very little impact on performance. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is lightweight and built for everyday computers — not just new, high-powered machines. You may notice a small slowdown during an occasional full scan, but during normal daily use, the difference is not noticeable.
 

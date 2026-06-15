@@ -176,7 +176,7 @@ Surfshark offers a standalone VPN plan (Surfshark Starter) at a lower price if y
 
 The monthly plan is the right entry point if you want to test before committing. Once you've verified it fits your workflow, switching to the annual plan cuts your cost by roughly two-thirds.
 
-For the frustrated Norton or McAfee customer who just wants security tools that get out of the way and do their job: Surfshark One is exactly that.
+For the frustrated Norton or McAfee customer who just wants security tools that get out of the way and do their job: [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) is exactly that.
 
 **[Get Surfshark One — No Bloatware, No Upsell Traps](/blog/one?sub=surfshark-one-monthly-plan-breakdown-2026__cta)**
 

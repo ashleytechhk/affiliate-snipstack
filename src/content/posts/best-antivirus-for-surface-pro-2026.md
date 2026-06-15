@@ -153,7 +153,7 @@ The honest verdict: Windows Defender is enough if you only use your Surface Pro 
 
 Yes. The Surface Pro runs Windows, and Windows is targeted more than any other operating system. Microsoft's built-in Defender handles basic threats, but it has documented gaps around browser protection, email scanning, and data breach monitoring. Seniors are specifically targeted because scammers know they are less likely to have additional protection in place. Adding a dedicated antivirus is one of the most effective things you can do to stay safe. [See Surfshark Antivirus plans for Surface Pro.](/blog/antivirus?sub=best-antivirus-for-surface-pro-2026__faq)
 
-### Will antivirus software slow down my Surface Pro?
+### Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my Surface Pro?
 
 Modern antivirus programs are built to run quietly with very little impact on performance. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) is specifically designed to be lightweight. You may notice a slight slowdown during the first full scan, but normal use — browsing, email, video calls — will feel completely unchanged after that.
 

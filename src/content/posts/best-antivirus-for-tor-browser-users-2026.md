@@ -62,7 +62,7 @@ You might be thinking: "My browser already warns me about dangerous sites. Isn't
 
 Browser warnings help, but they are only a first layer of defense — and a thin one. Browsers can only warn you about websites they already know are dangerous. New threats appear every single day, faster than any browser's list of blocked sites can keep up.
 
-Antivirus software works differently. It looks at the actual contents of files and programs on your computer, not just whether a website is on a list. It can catch threats that your browser never sees coming, including files you downloaded weeks ago that quietly activate later.
+[Antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) works differently. It looks at the actual contents of files and programs on your computer, not just whether a website is on a list. It can catch threats that your browser never sees coming, including files you downloaded weeks ago that quietly activate later.
 
 For seniors using Tor, this distinction matters even more. Tor sometimes routes traffic through unfamiliar servers and exit nodes. Some of those nodes can be compromised. Antivirus software adds a crucial safety net that catches anything suspicious before it reaches your files.
 

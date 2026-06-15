@@ -168,7 +168,7 @@ Yes, with the right precautions. Use your bank's official app downloaded from th
 
 Most keyloggers are designed to be completely invisible. You will not notice them simply by using your computer. The only reliable way to detect them is a security scan from a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) tool. If you have not run a scan recently — or ever — run one now. A clean scan gives you confidence; a scan that finds something gives you the chance to remove it before any more damage is done.
 
-### Will antivirus software slow down my computer?
+### Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my computer?
 
 Modern antivirus tools are designed to run efficiently in the background with minimal impact on everyday use. You may notice a slight slowdown during a full system scan, but real-time protection typically has no noticeable effect on browsing, email, or video calls. If your computer is very old, choose a tool with a lightweight mode — most offer one. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) is optimized for low resource usage and runs quietly without interrupting your normal activity.
 

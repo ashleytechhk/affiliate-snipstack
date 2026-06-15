@@ -94,7 +94,7 @@ The only way to close this gap is to run real-time antivirus protection on every
 
 ## What Antivirus Protection Actually Does
 
-Good antivirus software does several things that your NAS cannot do on its own:
+Good [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) does several things that your NAS cannot do on its own:
 
 **Real-time scanning.** Every file you download, every email attachment you open, every website you visit is checked automatically. If something dangerous appears, the antivirus stops it before it can reach your NAS.
 

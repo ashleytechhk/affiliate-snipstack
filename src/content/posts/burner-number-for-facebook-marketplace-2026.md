@@ -161,7 +161,7 @@ Yes. Alt-Number handles both calls and texts. Incoming calls ring through the Su
 **Do I need to keep my phone connected to the internet for the [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/) to receive texts?**
 Yes — [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/)s require data or Wi-Fi to route messages through the app. If your phone is offline, texts are queued and delivered when you reconnect. For Marketplace use, where most communication happens through the app anyway, this is rarely a practical issue.
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Marketplace listings if I delete the burner number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Marketplace listings if I delete the [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/)?**
 Your listings stay live — only the contact number changes. If you post a new number in the listing description, buyers use that. Existing conversations in Facebook Messenger are unaffected.
 
 ---

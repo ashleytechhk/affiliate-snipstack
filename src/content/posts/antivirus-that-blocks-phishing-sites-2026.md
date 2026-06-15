@@ -173,7 +173,7 @@ Common signs include a web address that looks slightly wrong (extra words, hyphe
 
 Real banks rarely ask you to log in by clicking an email link. If you receive an email saying there is a problem with your account, do not click. Instead, open a new browser tab, type your bank's web address yourself, and check your account directly. If there is a genuine issue, you will see it when you log in the normal way. This one habit eliminates a large proportion of phishing risk. Pair it with antivirus phishing protection for a complete defense. **[See how Surfshark adds an extra layer of protection here.](/blog/antivirus?sub=antivirus-that-blocks-phishing-sites-2026__faq)**
 
-### Will antivirus software protect my phone as well as my computer?
+### Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) protect my phone as well as my computer?
 
 Yes, if you choose a product that includes mobile apps. Phishing links arrive just as easily by text message, WhatsApp, or email on a phone as they do on a computer — and phone users are often less cautious about clicking. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) covers Android phones and iPhones under the same subscription as your computer, so you get consistent protection across all your devices without paying extra.
 

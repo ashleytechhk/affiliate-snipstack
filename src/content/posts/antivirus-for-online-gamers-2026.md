@@ -137,7 +137,7 @@ If you have children or grandchildren who help manage your devices, they can als
 
 Yes. Casual games are actually more frequently targeted because they attract a larger and broader audience, including many older adults who may be less familiar with online scams. The type of game does not determine the risk — the fact that you are online and interacting with content from external sources does. A single malicious pop-up or fake game download can affect any device regardless of what you were doing when it arrived. **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-online-gamers-2026__faq)** works the same way whether you are playing solitaire or any other online game.
 
-### Will antivirus software slow down my games?
+### Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my games?
 
 Modern antivirus tools are designed to use very little of your computer's resources. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) in particular is optimized to run without affecting the performance of other apps. You should not notice any difference in how your games play. If your device is already running slowly before you install antivirus, the software itself is rarely the cause — more often, old age of the device or a hidden malware infection is responsible.
 

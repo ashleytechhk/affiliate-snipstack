@@ -140,7 +140,7 @@ You unmatched someone on Hinge after a conversation that felt off. Three days la
 You sell a piece of furniture to someone who then decides you're friends. Persistent texts. Questions that have nothing to do with the original transaction. With your real number, blocking them means they still have it stored. With Alt-Number, you delete the number and the channel is permanently gone.
 
 **Scenario 3: The reverse phone lookup.**
-A buyer you spoke with briefly runs your number through Whitepages. Your name, city, and address history appear. He's not a criminal — he's just curious. But now a stranger knows where you live. With a burner number, the reverse lookup returns the service provider's registration details, not yours.
+A buyer you spoke with briefly runs your number through Whitepages. Your name, city, and address history appear. He's not a criminal — he's just curious. But now a stranger knows where you live. With a [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/), the reverse lookup returns the service provider's registration details, not yours.
 
 ---
 

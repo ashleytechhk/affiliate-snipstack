@@ -55,7 +55,7 @@ Phishing attacks targeting seniors are also becoming more personal. Scammers now
 
 ## What Antivirus Can Stop
 
-Modern antivirus software is more capable than most people realise. Here is what it genuinely protects you from:
+Modern [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) is more capable than most people realise. Here is what it genuinely protects you from:
 
 ### Malware downloaded through [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s
 

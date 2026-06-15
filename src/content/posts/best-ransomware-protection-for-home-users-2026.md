@@ -135,7 +135,7 @@ Many seniors also use tablets or a second laptop. [Surfshark Antivirus](https://
 
 ## Simple Habits That Make Ransomware Protection Even Stronger
 
-Even with great antivirus software running, a few simple habits dramatically reduce your risk:
+Even with great [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) running, a few simple habits dramatically reduce your risk:
 
 **Think before you click.** If an email arrives from your bank or a delivery company asking you to click a link urgently, stop. Call the company directly using the number on their official website — not any number in the email.
 

@@ -144,7 +144,7 @@ Windows Defender handles most common threats well. However, it lacks website-saf
 **Q: Can I install [antivirus software](https://snipstack.io/antivirus-software-2026/) myself, or do I need help?**
 All seven tools on this list are designed for non-technical users. Each installer walks you through setup with clear on-screen instructions. If you can download a file and follow a wizard, you can install any of these. When in doubt, ask a family member to sit with you the first time.
 
-**Q: Will free antivirus software slow down my Windows 10 computer?**
+**Q: Will free [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my Windows 10 computer?**
 Modern free antivirus tools are designed to run quietly and use minimal resources. Bitdefender Free and Microsoft Defender are particularly light. If your computer is more than five years old, avoid running multiple security programs simultaneously.
 
 **Q: What is the difference between antivirus and a VPN?**

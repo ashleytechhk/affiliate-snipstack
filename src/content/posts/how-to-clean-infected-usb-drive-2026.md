@@ -88,7 +88,7 @@ On a Mac, AutoPlay is not a concern — macOS does not run files automatically w
 
 This is the step that actually removes the malware. You need [antivirus software](https://snipstack.io/antivirus-software-2026/) installed on your computer to do this.
 
-**If you already have antivirus software:**
+**If you already have [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/):**
 1. Open your antivirus program.
 2. Look for an option called "Custom Scan," "Scan Specific Location," or "Scan Drive."
 3. Select your USB drive (usually labelled as drive "E:" or "F:" on Windows, or as a removable disk on Mac).
