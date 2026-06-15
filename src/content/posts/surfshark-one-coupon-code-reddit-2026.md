@@ -178,7 +178,7 @@ The actual discount is where it has always been: on the two-year plan, on Surfsh
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Do Surfshark One coupon codes from Reddit still work in 2026?",
+      "name": "Do [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/) coupon codes from Reddit still work in 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Most do not. Codes posted in Reddit threads are typically tied to promotions that have ended or affiliate partnerships that have expired. Before trying any code, check the date on the Reddit post — codes more than a few weeks old have a high probability of being dead at checkout."

@@ -214,7 +214,7 @@ If you are currently paying for Norton or McAfee and the renewal is coming up, [
 
 The pitch is not that [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) beats Norton at everything. It is that [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) does everything Norton does (and more), runs lighter, does not install browser toolbars, does not upsell you constantly, covers unlimited devices, and costs less at renewal. For the specific pain point this audience has — bloatware fatigue — that is a compelling case.
 
-> **Switch to Surfshark One — lighter, cheaper, more complete**
+> **Switch to [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/) — lighter, cheaper, more complete**
 > 30-day money-back guarantee. Unlimited devices. One subscription.
 > [Get Surfshark One](/blog/one?sub=surfshark-one-review-2026__cta)
 

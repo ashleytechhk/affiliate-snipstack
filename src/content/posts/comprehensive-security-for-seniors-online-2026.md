@@ -213,7 +213,7 @@ For everyone else — particularly anyone setting up or maintaining security for
       "name": "How does [Surfshark ONE](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) compare to Norton for older computers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "[Surfshark ONE](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) has a significantly lighter system footprint than Norton 360. Norton installs multiple background services simultaneously. For an older Windows laptop with modest RAM, Surfshark ONE is less likely to cause noticeable slowdowns."
+        "text": "[Surfshark ONE](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) has a significantly lighter system footprint than Norton 360. Norton installs multiple background services simultaneously. For an older Windows laptop with modest RAM, [Surfshark ONE](https://snipstack.io/surfshark-one-discount-code-2026/) is less likely to cause noticeable slowdowns."
       }
     },
     {

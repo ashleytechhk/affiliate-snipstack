@@ -221,7 +221,7 @@ If you are on a Norton or McAfee renewal you no longer feel good about, the swit
       "name": "Can I use Alt-ID aliases if I already have Gmail?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Gmail's own alias system (yourname+alias@gmail.com) is widely known and easily stripped by marketers. Surfshark One's Alt-ID generates a distinct forwarding address with no visible connection to your real inbox, which provides stronger separation."
+        "text": "Yes. Gmail's own alias system (yourname+alias@gmail.com) is widely known and easily stripped by marketers. [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/)'s Alt-ID generates a distinct forwarding address with no visible connection to your real inbox, which provides stronger separation."
       }
     },
     {

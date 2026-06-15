@@ -155,7 +155,7 @@ If you're leaving Norton or McAfee, both [Surfshark One](https://snipstack.io/su
 
 Avast One is a credible product with a mature antivirus engine. If you've done your research on the 2020 history and want the webcam/mic protection layer, it's a legitimate option. But at comparable price points with comparable features unlocked, [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) offers more for most switchers.
 
-**Done paying Norton's renewal price for software you barely wanted? Surfshark One is a better deal — and a quieter one.**
+**Done paying Norton's renewal price for software you barely wanted? [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/) is a better deal — and a quieter one.**
 
 **[Get Surfshark One — see current pricing and bundle details](/blog/one?sub=surfshark-one-vs-avast-one-review-2026__cta)**
 

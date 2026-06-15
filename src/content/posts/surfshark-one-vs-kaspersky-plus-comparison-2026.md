@@ -188,7 +188,7 @@ Kaspersky has a longer antivirus lab-test track record and historically stronger
 **Will switching from Norton or McAfee to [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) improve my computer's performance?**
 Most users who switch report measurable improvement in day-to-day performance. Surfshark's antivirus is lighter on CPU and memory than [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) or McAfee Total Protection. Scans run in the background without halting other tasks, and there are no bundled optimizer tools generating unnecessary load.
 
-**Does Surfshark One include a VPN for all devices?**
+**Does [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/) include a VPN for all devices?**
 Yes. Every Surfshark One subscription includes the full Surfshark VPN with no device cap. This is the same VPN sold as a standalone product — the same server network, protocols, and privacy audits — not a restricted bundle version. [Get Surfshark One here.](/blog/one?sub=surfshark-one-vs-kaspersky-plus-comparison-2026__faq)
 
 ---

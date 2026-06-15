@@ -240,7 +240,7 @@ If you are still paying for a bloated legacy suite out of inertia, this is a rea
     },
     {
       "@type": "Question",
-      "name": "Is a VPN included in Surfshark One?",
+      "name": "Is a VPN included in [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/)?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Surfshark's full VPN — no data cap, unlimited devices, 3,200+ servers, WireGuard protocol — is included in Surfshark One. This is not a limited VPN-lite product; it is the same standalone VPN Surfshark sells separately."

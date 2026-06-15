@@ -173,7 +173,7 @@ Yes. Surfshark Alert — included in the [Surfshark One Bundle](https://snipstac
 
 ### Is it safe to uninstall Norton or McAfee before installing Surfshark?
 
-Do not uninstall your existing antivirus before Surfshark One is installed and running an active scan. Install Surfshark first, let the initial scan complete, confirm the real-time protection is active — then remove Norton or McAfee. Most modern Windows systems handle the transition cleanly when done in this order.
+Do not uninstall your existing antivirus before [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/) is installed and running an active scan. Install Surfshark first, let the initial scan complete, confirm the real-time protection is active — then remove Norton or McAfee. Most modern Windows systems handle the transition cleanly when done in this order.
 
 ---
 

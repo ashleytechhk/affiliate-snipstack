@@ -78,7 +78,7 @@ It's a weaker fit if you want a free solution, are only dating casually for a sh
 
 ## Pricing — What You're Actually Paying
 
-Alt-Number is not available as a standalone subscription at a fixed per-month rate separate from [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/). Its pricing is tied to the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) bundle, which packages the VPN, Alt-Number, antivirus, [alert monitoring](https://snipstack.io/antivirus-with-breach-alert-notifications-2026/), and [ad blocking](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) together.
+Alt-Number is not available as a standalone subscription at a fixed per-month rate separate from [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/). Its pricing is tied to the [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) bundle, which packages the VPN, Alt-Number, [antivirus](https://snipstack.io/vs-antivirus-2026/), [alert monitoring](https://snipstack.io/antivirus-with-breach-alert-notifications-2026/), and [ad blocking](https://snipstack.io/ad-blocker-for-slow-internet-connections-2026/) together.
 
 This makes the value calculation context-dependent:
 
@@ -110,7 +110,7 @@ This is the section that matters for the persona reading this review.
 
 **Step 1:** Open the Surfshark app. Navigate to the "Alt-Number" section in the bottom menu or the features tab.
 
-**Step 2:** If you're on Surfshark One, activation is immediate. If not, you'll see a prompt to upgrade or add Alt-Number to your plan.
+**Step 2:** If you're on [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/), activation is immediate. If not, you'll see a prompt to upgrade or add Alt-Number to your plan.
 
 **Step 3:** Select your country (US or UK) and choose your area code from the available pool.
 
@@ -172,7 +172,7 @@ For online daters who want a [second number](https://snipstack.io/second-number-
 
 The free alternatives have real uses (Google Voice for US-based light users, TextNow for casual texting), but they fail at the exact moment that matters: when a dating app tries to verify your number during signup. That's the friction Alt-Number eliminates.
 
-If you're already a Surfshark One subscriber, using Alt-Number is a straightforward yes — it's included and it's better than the free options. If you're considering Surfshark specifically for Alt-Number, weigh the bundle cost against a Hushed monthly plan for a straight comparison.
+If you're already a [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) subscriber, using Alt-Number is a straightforward yes — it's included and it's better than the free options. If you're considering Surfshark specifically for Alt-Number, weigh the bundle cost against a Hushed monthly plan for a straight comparison.
 
 Either way: stop giving out your real number on dating apps. The five minutes it takes to set this up is worth it.
 

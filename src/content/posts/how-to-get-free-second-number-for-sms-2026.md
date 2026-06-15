@@ -155,7 +155,7 @@ No. The Alt-Number is tied to your Surfshark account, not to your real name, add
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I want to stop someone from contacting me?**
 
-You can block specific contacts inside the Alt-Number app, or replace your number entirely. Replacing the number generates a fresh second number — the previous one stops routing to you. The person retains the old number but all calls and texts to it go nowhere. Unlike blocking on your real SIM (which can be worked around with a different caller), this is a complete and clean termination of that contact channel.
+You can block specific contacts inside the Alt-Number app, or replace your number entirely. Replacing the number generates a fresh [second number](https://snipstack.io/second-number-for-gig-work-instacart-2026/) — the previous one stops routing to you. The person retains the old number but all calls and texts to it go nowhere. Unlike blocking on your real SIM (which can be worked around with a different caller), this is a complete and clean termination of that contact channel.
 
 **Is using a [second number for](https://snipstack.io/second-number-for-calling-overseas-cheaply-2026/) dating legal?**
 

@@ -167,7 +167,7 @@ If you are on Norton or McAfee and paying at renewal rates, there is a reasonabl
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) is the cleanest path out. One app, one subscription, one price tier that includes the full feature set — VPN, antivirus, breach monitoring, and Alternative ID. No upsells inside the product. No renewal shock built into the business model.
 
-For anyone looking for an identity protection VPN bundle that is actually affordable and actually complete, Surfshark One is the move in 2026.
+For anyone looking for an identity protection VPN bundle that is actually affordable and actually complete, [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/) is the move in 2026.
 
 **[Get Surfshark One — the affordable identity protection bundle](/blog/one?sub=identity-protection-vpn-bundle-affordable-2026__cta)**
 
