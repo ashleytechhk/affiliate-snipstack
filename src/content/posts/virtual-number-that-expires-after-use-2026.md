@@ -61,7 +61,7 @@ Blocking someone on a dating app does not block your phone number. If you alread
 
 ### Risk 2: SMS-Based Scams and Phishing
 
-Not every bad actor wants to stalk you. Some want your money. Fraudsters who obtain phone numbers from dating interactions run SMS phishing campaigns: fake package notifications, bank alerts, verification requests. A temporary number stops this cold — delete it and the attack surface disappears.
+Not every bad actor wants to stalk you. Some want your money. Fraudsters who obtain phone numbers from dating interactions run SMS phishing campaigns: fake package notifications, bank alerts, verification requests. A [temporary number](https://snipstack.io/temporary-number-for-tinder-verification-2026/) stops this cold — delete it and the attack surface disappears.
 
 ### Risk 3: Data Broker Exposure
 

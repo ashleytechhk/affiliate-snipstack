@@ -218,10 +218,10 @@ For everyone else — particularly anyone setting up or maintaining security for
     },
     {
       "@type": "Question",
-      "name": "Does Surfshark ONE protect against scam phone calls or text messages?",
+      "name": "Does [Surfshark ONE](https://snipstack.io/surfshark-one-for-couple-shared-plan-2026/) protect against scam phone calls or text messages?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Surfshark ONE's CleanWeb blocks known phishing URLs — if a scam text contains a link to a fake website, that site is blocked before it loads. Surfshark Alert monitors for personal data exposure. The protection is at the link and data level, not the phone call carrier level."
+        "text": "[Surfshark ONE](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/)'s CleanWeb blocks known phishing URLs — if a scam text contains a link to a fake website, that site is blocked before it loads. Surfshark Alert monitors for personal data exposure. The protection is at the link and data level, not the phone call carrier level."
       }
     },
     {

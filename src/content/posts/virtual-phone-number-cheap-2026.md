@@ -108,7 +108,7 @@ The downside: Hushed numbers are VoIP and get flagged by some verification syste
 
 **Best for US/Canada users who cycle through matches**
 
-The Burner app is one of the older players in this space and is built specifically for temporary numbers. The core concept: you get a number, use it, then "burn" it and get a new one. It's a clean mental model that fits dating well.
+The Burner app is one of the older players in this space and is built specifically for [temporary number](https://snipstack.io/temporary-number-for-tinder-verification-2026/)s. The core concept: you get a number, use it, then "burn" it and get a new one. It's a clean mental model that fits dating well.
 
 Burner supports US and Canadian numbers. Subscription starts at $4.99/month for one line. You can add more lines for additional cost. Numbers work for calls and texts through the app.
 
@@ -210,7 +210,7 @@ WhatsApp verification works well with real mobile numbers. iMessage ties to Appl
 
 ## Bottom Line
 
-Most of the "cheap" virtual phone number options on this list come with the same catch: they're VoIP lines that dating apps may reject at verification. If your goal is privacy without the gamble of failed SMS codes, the practical options narrow down quickly.
+Most of the "cheap" [virtual phone number](https://snipstack.io/virtual-phone-number-for-small-business-reception-2026/) options on this list come with the same catch: they're VoIP lines that dating apps may reject at verification. If your goal is privacy without the gamble of failed SMS codes, the practical options narrow down quickly.
 
 For US-only, zero-budget needs: try Google Voice and accept the occasional rejection. For everything else — especially if you want a number that reliably works across apps and countries — [Surfshark Alt-Number](/blog/surfshark?sub=virtual-phone-number-cheap-2026__cta) is the right call. Real number quality, full control, and you can cut it off the moment you want to.
 

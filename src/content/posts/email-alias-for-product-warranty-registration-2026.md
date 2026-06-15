@@ -65,7 +65,7 @@ The practical result: every new product you register is a new marketing channel 
 
 ### Alt-ID — Best Overall for Warranty Registration
 
-[Alt-ID](/blog/altid?sub=email-alias-for-product-warranty-registration-2026__mid) is Surfshark's masked [email alias](https://snipstack.io/email-alias-service-that-works-with-apple-mail-2026/) tool, included with all Surfshark subscription plans. It generates a randomised alias that forwards all incoming mail directly to your real inbox — you don't check a separate account, everything arrives as normal.
+[Alt-ID](/blog/altid?sub=email-alias-for-product-warranty-registration-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/)'s masked [email alias](https://snipstack.io/email-alias-service-that-works-with-apple-mail-2026/) tool, included with all Surfshark subscription plans. It generates a randomised alias that forwards all incoming mail directly to your real inbox — you don't check a separate account, everything arrives as normal.
 
 What makes Alt-ID specifically right for warranty registration:
 
@@ -73,11 +73,11 @@ What makes Alt-ID specifically right for warranty registration:
 
 **Disable without deleting.** This is the key feature for the warranty use case. When manufacturer promotional emails become unbearable, you don't have to destroy the alias. You toggle forwarding off in the Alt-ID dashboard. The alias address still exists — warranty claim emails from the manufacturer will still go to it — but no email forwards to your inbox until you re-enable it. This is fundamentally different from throwaway services or even SimpleLogin's free tier, where your choices are "receive everything" or "destroy the address."
 
-**Fake identity generation.** Warranty registration forms frequently ask for name, date of birth, address, and phone number alongside email. Alt-ID generates a plausible alternative identity that goes with the alias, so you can protect more than just your inbox from the manufacturer's database.
+**Fake identity generation.** Warranty registration forms frequently ask for name, date of birth, address, and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) alongside email. Alt-ID generates a plausible alternative identity that goes with the alias, so you can protect more than just your inbox from the manufacturer's database.
 
 **Rarely blocked.** Manufacturer warranty portals typically run basic email validation — they check that the address format is valid and occasionally that the domain resolves. Alt-ID uses its own domain infrastructure, which passes these checks consistently. Throwaway services like Guerrilla Mail use widely-known disposable domains that warranty portals may block outright.
 
-**Limitation:** Alt-ID is bundled with a Surfshark subscription, not sold standalone. If you're already a Surfshark user, it costs nothing extra. If you're not, the subscription covers VPN, Alt-ID, and other privacy tools — worthwhile if you use those features.
+**Limitation:** Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with a Surfshark subscription, not sold standalone. If you're already a Surfshark user, it costs nothing extra. If you're not, the subscription covers VPN, Alt-ID, and other privacy tools — worthwhile if you use those features.
 
 ---
 
@@ -119,7 +119,7 @@ There's also no kill-switch. You can build Gmail filters to archive or delete em
 
 ---
 
-## How to Use Alt-ID for Warranty Registration (Step-by-Step)
+## [How to Use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) Alt-ID for Warranty Registration (Step-by-Step)
 
 **Step 1.** Get Alt-ID via a Surfshark plan — [start here](/blog/altid?sub=email-alias-for-product-warranty-registration-2026__mid). Alt-ID is included with all plans.
 
@@ -133,7 +133,7 @@ There's also no kill-switch. You can build Gmail filters to archive or delete em
 
 **Step 6.** Warranty confirmation, recall notices, and legitimate service emails forward to your real inbox automatically. You don't need to check a separate account.
 
-**Step 7.** When the promotional emails become frequent, open the Alt-ID dashboard and toggle forwarding **off** for that alias. The alias still exists; the manufacturer can still receive warranty claims submitted through their portal. You just stop receiving their marketing.
+**Step 7.** When the promotional emails become frequent, open the Alt-ID dashboard and toggle forwarding **off** for that alias. The alias still exists; the manufacturer can still receive warranty claims submitted through their portal. You just [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) their marketing.
 
 **Step 8.** When the warranty period expires and you no longer need the channel, delete the alias entirely. From that point, any email sent to that address bounces. The marketing pipeline from that product ends permanently.
 

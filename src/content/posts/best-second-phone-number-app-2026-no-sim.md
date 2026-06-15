@@ -300,7 +300,7 @@ If you want a [second phone number](https://snipstack.io/second-phone-number-for
 
 If you want **free and permanent**, Google Voice is the answer for US users.
 
-If you want **truly disposable**, Hushed gives you the cleanest experience for temporary numbers.
+If you want **truly disposable**, Hushed gives you the cleanest experience for [temporary number](https://snipstack.io/temporary-number-for-tinder-verification-2026/)s.
 
 If you are building a comprehensive privacy setup across your phone, email, and internet activity, Surfshark's bundle (Alt-Number + Alt-ID + VPN + CleanWeb) closes more gaps than any single service.
 

@@ -189,12 +189,12 @@ The actual discount is where it has always been: on the two-year plan, on Surfsh
       "name": "Where is the best place to find a real Surfshark discount?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Directly on Surfshark's website. The two-year Surfshark One plan carries a significant per-month reduction versus the monthly rate, and during major sale periods that price may drop further or include bonus months. No code hunting required."
+        "text": "Directly on Surfshark's website. The two-year [Surfshark One](https://snipstack.io/surfshark-one-for-couple-shared-plan-2026/) plan carries a significant per-month reduction versus the monthly rate, and during major sale periods that price may drop further or include bonus months. No code hunting required."
       }
     },
     {
       "@type": "Question",
-      "name": "Is Surfshark One worth buying without a coupon code?",
+      "name": "Is [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) worth buying without a coupon code?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "For most people comparing it against a standalone antivirus subscription plus a separate VPN subscription, yes. The bundle price for VPN plus antivirus plus breach monitoring plus private search typically undercuts what those tools cost when purchased separately."

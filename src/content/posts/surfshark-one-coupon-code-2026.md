@@ -139,7 +139,7 @@ Surfshark does not publish rotating public coupon codes for [Surfshark One](http
 
 **[Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) worth it if I already have Norton?**
 
-For most users, yes — especially if your Norton subscription is at renewal pricing rather than the original introductory rate. Norton's renewal cost for a mid-tier plan with VPN is often comparable to or higher than Surfshark One's promotional rate, without Surfshark's device flexibility or breach monitoring quality. If you are on a Norton year-two renewal bill, the comparison is likely in Surfshark One's favor.
+For most users, yes — especially if your Norton subscription is at renewal pricing rather than the original introductory rate. Norton's renewal cost for a mid-tier plan with VPN is often comparable to or higher than [Surfshark One](https://snipstack.io/surfshark-one-for-couple-shared-plan-2026/)'s promotional rate, without Surfshark's device flexibility or breach monitoring quality. If you are on a Norton year-two renewal bill, the comparison is likely in [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/)'s favor.
 
 **Does Surfshark One work on unlimited devices?**
 

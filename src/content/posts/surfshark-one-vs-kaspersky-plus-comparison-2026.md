@@ -189,7 +189,7 @@ Kaspersky has a longer antivirus lab-test track record and historically stronger
 Most users who switch report measurable improvement in day-to-day performance. Surfshark's antivirus is lighter on CPU and memory than [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) or McAfee Total Protection. Scans run in the background without halting other tasks, and there are no bundled optimizer tools generating unnecessary load.
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-discount-code-2026/) include a VPN for all devices?**
-Yes. Every Surfshark One subscription includes the full Surfshark VPN with no device cap. This is the same VPN sold as a standalone product — the same server network, protocols, and privacy audits — not a restricted bundle version. [Get Surfshark One here.](/blog/one?sub=surfshark-one-vs-kaspersky-plus-comparison-2026__faq)
+Yes. Every [Surfshark One](https://snipstack.io/surfshark-one-for-couple-shared-plan-2026/) subscription includes the full Surfshark VPN with no device cap. This is the same VPN sold as a standalone product — the same server network, protocols, and privacy audits — not a restricted bundle version. [Get Surfshark One here.](/blog/one?sub=surfshark-one-vs-kaspersky-plus-comparison-2026__faq)
 
 ---
 
@@ -197,7 +197,7 @@ Yes. Every Surfshark One subscription includes the full Surfshark VPN with no de
 
 The [Surfshark One vs](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Kaspersky Plus comparison is not a close one for most readers landing on this page.
 
-If you are in the US, Kaspersky is not a live option — the ban makes the decision for you. If you are coming from Norton or McAfee and want something cleaner, faster, and more honest about renewal pricing, Surfshark One delivers that. The unlimited device coverage and full-strength VPN make the value case even more compelling if you are running multiple devices across a household.
+If you are in the US, Kaspersky is not a live option — the ban makes the decision for you. If you are coming from Norton or McAfee and want something cleaner, faster, and more honest about renewal pricing, [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) delivers that. The unlimited device coverage and full-strength VPN make the value case even more compelling if you are running multiple devices across a household.
 
 The one gap worth acknowledging: no bundled password manager. If that matters to you, pair Surfshark One with a free tool and the total cost still undercuts most alternatives.
 
