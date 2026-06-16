@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2024, a ransomware strain targeting creative professionals encrypted and destroyed over **18 months of project files** for a freelance design studio in under six minutes. The studio had no antivirus installed because the team worried any security software would throttle Photoshop and After Effects. They were unprotected. The attack cost them three client contracts and an estimated $47,000 in lost work.
+In 2024, a ransomware strain targeting creative professionals encrypted and destroyed over **18 months of project files** for a freelance design studio in under six minutes. The studio had no [antivirus](https://snipstack.io/vs-antivirus-2026/) installed because the team worried any security software would throttle Photoshop and After Effects. They were unprotected. The attack cost them three client contracts and an estimated $47,000 in lost work.
 
 This is not an isolated story. Creative professionals running Windows are among the most targeted — and least protected — groups online. The fonts, brushes, and plugin packs downloaded from community forums, the client-sourced files arriving via WeTransfer, the unlicensed asset packs passed around Slack channels — every single one of those files is a potential entry point for malware.
 
