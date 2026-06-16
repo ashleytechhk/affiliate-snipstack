@@ -54,7 +54,7 @@ Some users create separate Gmail accounts for different purposes — one for sho
 
 ![Email alias service comparison for Gmail — feature breakdown](/og/best-email-alias-service-for-gmail-users-2026-inline-1.png)
 
-The table shows the core tension: free options either limit alias counts or come with restrictions (Apple's service is locked to iCloud as the destination). Alt-ID sits in the paid tier, but it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's broader privacy suite — VPN, antivirus, and Alt-Number — making the per-feature cost competitive with standalone alias-only subscriptions.
+The table shows the core tension: free options either limit alias counts or come with restrictions (Apple's service is locked to iCloud as the destination). Alt-ID sits in the paid tier, but it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) — VPN, antivirus, and Alt-Number — making the per-feature cost competitive with standalone alias-only subscriptions.
 
 ---
 
@@ -120,7 +120,7 @@ SimpleLogin was acquired by Proton in 2022 and remains available as a standalone
 - Separate Proton account and subscription to manage
 - Less integrated with a broader privacy suite unless you use Proton VPN and Mail together
 
-SimpleLogin is a solid standalone alias service. It is a particularly good fit if you are already in the Proton ecosystem or want open-source transparency. If you are evaluating it against Alt-ID, the key differentiator is the bundle: Alt-ID is one feature in a package that also includes VPN and antivirus.
+SimpleLogin is a solid standalone alias service. It is a particularly good fit if you are already in the Proton ecosystem or want open-source transparency. If you are evaluating it against Alt-ID, the key differentiator is the bundle: Alt-ID is one feature in a package that also includes [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/).
 
 ---
 
@@ -160,7 +160,7 @@ AnonAddy is worth considering if cost is the primary concern and you are comfort
 
 **One-click disable.** When an alias starts receiving spam, you toggle it off in the Alt-ID dashboard. The alias stops forwarding instantly. There is no equivalent for Gmail's plus trick — the underlying address is permanent.
 
-**Bundle value.** Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) and Surfshark One+ plans, which also include Surfshark VPN and antivirus. If you are already paying for a VPN separately, consolidating into Surfshark One often costs less than stacking subscriptions. For a Gmail user who cares about both inbox privacy and browsing privacy, this bundling is genuinely useful.
+**Bundle value.** Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/)+ plans, which also include Surfshark VPN and antivirus. If you are already paying for a VPN separately, consolidating into [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) often costs less than stacking subscriptions. For a Gmail user who cares about both inbox privacy and browsing privacy, this bundling is genuinely useful.
 
 **No alias limit.** Unlike Apple's service (which is device-ecosystem-locked) or SimpleLogin's free tier (10 aliases), Alt-ID has no published cap. You can create one alias per service, per website, or per category without hitting a ceiling.
 
@@ -170,7 +170,7 @@ AnonAddy is worth considering if cost is the primary concern and you are comfort
 
 ## How to Set Up Alt-ID With Your Gmail Account
 
-1. Sign up for a Surfshark One plan and create your account
+1. Sign up for a [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) plan and create your account
 2. Navigate to the Alt-ID section inside the Surfshark app or web dashboard
 3. Click **Create new Alt-ID** — enter your real Gmail address as the forwarding destination
 4. Generate your first alias and give it a label (e.g., "Online shopping," "Newsletter signups")

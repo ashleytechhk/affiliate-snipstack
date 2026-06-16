@@ -146,7 +146,7 @@ A buyer you spoke with briefly runs your number through Whitepages. Your name, c
 
 ## FAQ
 
-**Is it legal to use a burner number on Craigslist, OfferUp, or other classified ad platforms?**
+**Is it legal to use a [burner number](https://snipstack.io/burner-number-for-bumble-and-hinge-matches-2026/) on Craigslist, OfferUp, or other classified ad platforms?**
 
 Yes. Using a [virtual phone number](https://snipstack.io/virtual-phone-number-2026/) to protect your privacy on classified ad platforms is entirely legal. You are choosing which contact number to share — the same reasonable choice as using a work email instead of a personal one. No major classified ad platform's terms of service require you to use your primary phone number.
 

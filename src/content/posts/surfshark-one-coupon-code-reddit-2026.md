@@ -210,7 +210,7 @@ The actual discount is where it has always been: on the two-year plan, on Surfsh
     },
     {
       "@type": "Question",
-      "name": "Does Surfshark One have a free trial?",
+      "name": "Does [Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/) have a free trial?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Surfshark does not offer a traditional free trial for Surfshark One. However, the 30-day money-back policy functions as a practical trial window — you can subscribe, use the full product, and request a refund within 30 days if it is not what you expected."

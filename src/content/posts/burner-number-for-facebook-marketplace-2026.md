@@ -170,7 +170,7 @@ Your listings stay live — only the contact number changes. If you post a new n
 
 Facebook Marketplace was not designed with your dating life in mind. But in 2026, those two worlds overlap constantly — same people, same phone numbers, same risks. Handing your real number to strangers on Marketplace is handing them a key that opens more doors than you intend.
 
-A burner number costs less than a Netflix subscription, takes five minutes to set up, and lets you delete any contact channel the moment it becomes a problem. That's not paranoia. That's just sensible.
+A [burner number](https://snipstack.io/burner-number-for-bumble-and-hinge-matches-2026/) costs less than a Netflix subscription, takes five minutes to set up, and lets you delete any contact channel the moment it becomes a problem. That's not paranoia. That's just sensible.
 
 **[Get a burner number for Facebook Marketplace with Surfshark Alt-Number →](/blog/altnumber?sub=burner-number-for-facebook-marketplace-2026__cta)**
 

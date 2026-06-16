@@ -167,7 +167,7 @@ Alt-ID generates an alternative name, email address, and profile that you use in
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) have a free trial or refund policy?
 
-Surfshark One does not offer a free trial on the standard annual plan, but it does include a [30-day money-back window](https://snipstack.io/surfshark-free-trial-how-to-get-2026/). You can use the full suite for up to 30 days and request a refund if it does not meet your needs. The refund process runs through live chat and is generally completed within a few business days.
+[Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/) does not offer a free trial on the standard annual plan, but it does include a [30-day money-back window](https://snipstack.io/surfshark-free-trial-how-to-get-2026/). You can use the full suite for up to 30 days and request a refund if it does not meet your needs. The refund process runs through live chat and is generally completed within a few business days.
 
 ### How many devices does Surfshark One cover?
 

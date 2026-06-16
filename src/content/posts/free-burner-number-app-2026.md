@@ -118,7 +118,7 @@ Keep your second-number profile simple — first name only, no identifying photo
 
 ### Step 5 — Manage Incoming Calls and Texts
 
-Your burner number is a fully working line. Here is what you can do with it once it is active:
+Your [burner number](https://snipstack.io/burner-number-for-bumble-and-hinge-matches-2026/) is a fully working line. Here is what you can do with it once it is active:
 
 - **Texts** arrive in the Alt-Number app (or Google Voice, TextNow inbox, depending on which you chose)
 - **Calls** ring through the app — answer or decline just like a normal call

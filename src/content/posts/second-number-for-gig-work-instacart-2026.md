@@ -159,7 +159,7 @@ If you deliver for multiple platforms, Alt-Number lets you use a different numbe
 
 ## Frequently Asked Questions
 
-**Does using a [second number for](https://snipstack.io/second-number-for-crypto-exchange-registration-2026/) Instacart violate the platform's terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a [second number for](https://snipstack.io/second-number-for-crypto-exchange-registration-2026/) Instacart violate the platform's terms of service?**
 
 Instacart requires shoppers to provide a valid, working [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification and communications. It does not require that number to be your personal primary line. A carrier-backed number from [Alt-Number](/blog/altnumber?sub=second-number-for-gig-work-instacart-2026__faq) satisfies Instacart's account requirements — it receives SMS verification codes, handles call routing, and passes the platform's number-type checks. What Instacart prohibits is account fraud and identity misrepresentation; using a legitimate secondary number for privacy reasons is entirely separate from that.
 

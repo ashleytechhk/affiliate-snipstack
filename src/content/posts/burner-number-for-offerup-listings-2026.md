@@ -161,7 +161,7 @@ Yes. Alt-Number handles both calls and texts. Incoming calls ring through the Su
 **Do I need to keep my phone connected to the internet for the [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/) to work?**
 Yes — [virtual numbers](https://snipstack.io/virtual-number-for-google-account-verification-2026/) require data or Wi-Fi to route messages through the app. If your phone is offline, texts are queued and delivered when you reconnect. For OfferUp use, where most communication happens through the app anyway, this is rarely a practical issue.
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my OfferUp listings if I delete the burner number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my OfferUp listings if I delete the [burner number](https://snipstack.io/burner-number-for-bumble-and-hinge-matches-2026/)?**
 Your listings stay live — only the contact number in the description changes. Update the description with a new number or remove it entirely. Existing conversations inside OfferUp's in-app messaging are unaffected.
 
 **Can I use the same [burner number for](https://snipstack.io/burner-number-for-online-classified-ads-2026/) both OfferUp and my dating apps?**

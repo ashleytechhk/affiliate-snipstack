@@ -154,7 +154,7 @@ It depends on the service. Google Voice and TextNow numbers show up clearly as V
 
 ### [Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) verification codes on a [burner number](https://snipstack.io/burner-number-for-selling-on-vinted-2026/)?
 
-Most burner numbers can receive SMS verification codes, including two-factor authentication texts. This works well for dating apps. Where it sometimes fails is with banks and financial services, which specifically block VoIP numbers. For those use cases, you still need your real number.
+Most [burner number](https://snipstack.io/burner-number-for-bumble-and-hinge-matches-2026/)s can receive SMS verification codes, including two-factor authentication texts. This works well for dating apps. Where it sometimes fails is with banks and financial services, which specifically block VoIP numbers. For those use cases, you still need your real number.
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my messages if I cancel the number?
 
