@@ -194,7 +194,7 @@ If you are still on Norton or McAfee, the comparison is even more direct. You ar
     },
     {
       "@type": "Question",
-      "name": "Does Surfshark One include a full VPN, not a limited one?",
+      "name": "Does [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-smart-security-premium-2026/) include a full VPN, not a limited one?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. The VPN inside Surfshark One is the same product as the standalone Surfshark VPN — same server network, same protocols (WireGuard, OpenVPN, IKEv2), same kill switch, same CleanWeb ad blocking. There is no data cap, no speed restriction, and no device limit."

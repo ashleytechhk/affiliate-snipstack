@@ -54,7 +54,7 @@ Some users create separate Gmail accounts for different purposes — one for sho
 
 ![Email alias service comparison for Gmail — feature breakdown](/og/best-email-alias-service-for-gmail-users-2026-inline-1.png)
 
-The table shows the core tension: free options either limit alias counts or come with restrictions (Apple's service is locked to iCloud as the destination). Alt-ID sits in the paid tier, but it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) — VPN, antivirus, and Alt-Number — making the per-feature cost competitive with standalone alias-only subscriptions.
+The table shows the core tension: free options either limit alias counts or come with restrictions (Apple's service is locked to iCloud as the destination). Alt-ID sits in the paid tier, but it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) — VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and Alt-Number — making the per-feature cost competitive with standalone alias-only subscriptions.
 
 ---
 

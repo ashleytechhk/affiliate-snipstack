@@ -151,7 +151,7 @@ Not if you use a quality [virtual number](https://snipstack.io/virtual-number-fo
 No — and that's the point. DoorDash masks all driver numbers through its relay system. The [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) adds a second layer: even if that relay ever breaks down, what the customer would see is your [virtual number](https://snipstack.io/virtual-number-to-receive-sms-online-2026/), not your real one. The [virtual number](https://snipstack.io/virtual-number-for-instagram-signup-2026/) is also disposable without affecting your personal life.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my DoorDash account if I cancel my [virtual number](https://snipstack.io/virtual-number-for-nextdoor-signup-2026/) subscription?**
-If you cancel before updating your account contact number to something else, you'll lose SMS access to that account. Before canceling, update your DoorDash contact info to a new number or a different virtual number. Don't cancel first and update later — update first, then cancel.
+If you cancel before updating your account contact number to something else, you'll lose SMS access to that account. Before canceling, update your DoorDash contact info to a new number or a different [virtual number](https://snipstack.io/virtual-number-that-receives-sms-online-2026/). Don't cancel first and update later — update first, then cancel.
 
 **Does the virtual number need to match the state I drive in?**
 No. DoorDash doesn't cross-check your phone area code against your driver location. Pick any US area code. For credibility if customers ever see the number, a metro code that matches your general region (or a neutral big-city code) looks the most natural.

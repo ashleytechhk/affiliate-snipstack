@@ -147,7 +147,7 @@ Yes. Unlike Norton (which caps devices by plan tier) and many competitors, [Surf
 
 **How does the 30-day money-back window work?**
 
-If you subscribe to Surfshark One and decide within 30 days that it does not meet your needs, you can contact Surfshark's support and request a full refund. The refund process is straightforward — no deductions for days used, no lengthy justification required. This is the [best way to](https://snipstack.io/best-way-to-secure-home-computer-2026/) evaluate whether Surfshark One is the right replacement for your current setup without financial risk.
+If you subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-smart-security-premium-2026/) and decide within 30 days that it does not meet your needs, you can contact Surfshark's support and request a full refund. The refund process is straightforward — no deductions for days used, no lengthy justification required. This is the [best way to](https://snipstack.io/best-way-to-secure-home-computer-2026/) evaluate whether Surfshark One is the right replacement for your current setup without financial risk.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton or McAfee subscription if I switch?**
 
