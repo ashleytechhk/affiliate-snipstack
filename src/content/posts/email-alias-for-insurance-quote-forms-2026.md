@@ -32,7 +32,7 @@ Surfshark Alt ID is the strongest option here: it generates a persistent forward
 
 | Tool | Alias Type | Lifespan | Kill Switch | Custom Identity | Price |
 |---|---|---|---|---|---|
-| **Surfshark Alt ID** | Forwarding | Permanent | Yes | Yes (name + DOB) | Bundled with Surfshark One |
+| **Surfshark Alt ID** | Forwarding | Permanent | Yes | Yes (name + DOB) | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) |
 | **SimpleLogin** | Forwarding | Permanent | Yes | No | Free (15 aliases) / $30/yr |
 | **DuckDuckGo Email Protection** | Forwarding | Permanent | Yes | No | Free |
 | **Temp-mail.org** | Disposable | ~10 min | Auto-expires | No | Free |
@@ -58,7 +58,7 @@ Most alias guides lump all use cases together. Insurance is different for three 
 
 **[Get Alt ID with Surfshark One](/blog/altid?sub=email-alias-for-insurance-quote-forms-2026__mid)**
 
-Alt ID is Surfshark's identity-shielding tool, bundled into the Surfshark One subscription alongside the VPN, Antivirus, and data-breach alerts.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s identity-shielding tool, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) subscription alongside the VPN, Antivirus, and data-breach alerts.
 
 **What it does well:**
 
@@ -70,7 +70,7 @@ Alt ID is Surfshark's identity-shielding tool, bundled into the Surfshark One su
 
 **What to watch for:**
 
-- Alt ID requires a Surfshark One subscription — it is not available as a standalone free tool
+- Alt ID requires a [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) subscription — it is not available as a standalone free tool
 - The alias domain is managed by Surfshark; if you cancel your subscription you lose access to forwarding
 
 **Best fit:** Anyone who already uses Surfshark for VPN, or anyone doing multiple insurance comparisons across different providers and wanting a unique alias per site.
@@ -159,7 +159,7 @@ Create one alias per site or provider you contact. This lets you pinpoint which 
 
 **Do [email alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/)es protect against phone spam too?**
 
-No. [Email alias](https://snipstack.io/email-alias-for-grubhub-and-food-delivery-signups-2026/)es only protect your email address. Insurance forms typically also collect your phone number, which is a separate data point that can be sold independently. Consider a [second phone number](https://snipstack.io/second-phone-number-for-medical-office-after-hours-2026/) service if phone spam is also a concern.
+No. [Email alias](https://snipstack.io/email-alias-for-grubhub-and-food-delivery-signups-2026/)es only protect your email address. Insurance forms typically also collect your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), which is a separate data point that can be sold independently. Consider a [second phone number](https://snipstack.io/second-phone-number-for-medical-office-after-hours-2026/) service if phone spam is also a concern.
 
 ---
 

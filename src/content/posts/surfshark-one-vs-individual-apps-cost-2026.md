@@ -202,7 +202,7 @@ If you are still on Norton or McAfee, the comparison is even more direct. You ar
     },
     {
       "@type": "Question",
-      "name": "Can Surfshark One replace my current Norton or McAfee subscription entirely?",
+      "name": "Can [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) replace my current Norton or McAfee subscription entirely?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "For most home users, yes. It covers the same core functions — antivirus, VPN, and breach monitoring — with the addition of private search and Alt-ID. The only significant gap for US users is LifeLock's identity theft insurance, which is exclusive to Norton's upper tiers."

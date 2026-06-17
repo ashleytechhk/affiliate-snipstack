@@ -135,7 +135,7 @@ No. Alt-Number runs entirely on your existing iPhone or Android device. There is
 
 ### Is a [second number](https://snipstack.io/second-number-with-group-messaging-support-2026/) useful beyond dating?
 
-Absolutely. Remote workers use secondary numbers for freelance client contacts, marketplace transactions (selling items on Facebook Marketplace or Craigslist), short-term rental hosting, and any situation where sharing your primary number creates unnecessary exposure. The use case is broader than dating — but dating is one of the highest-risk scenarios because the relationship with the other person is genuinely unknown at the start.
+Absolutely. Remote workers use secondary numbers for freelance client contacts, marketplace transactions (selling items on [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/) or Craigslist), short-term rental hosting, and any situation where sharing your primary number creates unnecessary exposure. The use case is broader than dating — but dating is one of the highest-risk scenarios because the relationship with the other person is genuinely unknown at the start.
 
 ---
 

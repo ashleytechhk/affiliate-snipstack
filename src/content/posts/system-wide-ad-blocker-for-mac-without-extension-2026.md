@@ -64,7 +64,7 @@ There is also a maintenance angle. Managing extensions across multiple browsers 
 3. **Known ad, tracker, and malware domains are dropped.** Instead of resolving "tracking.example.com" to a real server, CleanWeb returns nothing. The requesting app gets silence.
 4. **Everything else passes through normally.** Real content loads at full speed. You never see the network impact.
 
-Because the filtering happens inside the VPN connection, there is no browser extension to install, no hosts file to edit, and no DNS server to configure manually. You download Surfshark, enable CleanWeb in settings, and connect.
+Because the filtering happens inside the VPN connection, there is no [browser extension to](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) install, no hosts file to edit, and no DNS server to configure manually. You download Surfshark, enable CleanWeb in settings, and connect.
 
 **[Activate CleanWeb system-wide blocking today](/blog/adblock?sub=system-wide-ad-blocker-for-mac-without-extension-2026__mid)**
 

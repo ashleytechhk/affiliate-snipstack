@@ -148,7 +148,7 @@ No. Caller ID blocking (*67) hides your number on the recipient's screen, but yo
 
 Online dating puts you in contact with strangers. That is the point. But those strangers do not need access to your real identity — not your home address, not your linked accounts, not your carrier history. A [virtual number](https://snipstack.io/virtual-number-that-receives-sms-online-2026/) is a simple, inexpensive way to draw that line.
 
-Yes, you can receive calls on a virtual number. You can text, call back, and have a perfectly normal phone relationship — all without ever exposing your real number.
+Yes, you can receive calls on a [virtual number](https://snipstack.io/virtual-number-for-whatsapp-business-account-2026/). You can text, call back, and have a perfectly normal phone relationship — all without ever exposing your real number.
 
 The question is not whether it works. The question is whether you want to keep using your real number with everyone you match with, and living with the consequences if one of them turns out to be a problem.
 

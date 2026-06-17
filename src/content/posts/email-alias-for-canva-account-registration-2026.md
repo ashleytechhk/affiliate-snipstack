@@ -36,7 +36,7 @@ For Canva specifically, you need an alias that works long-term, not a temporary 
 | Kill switch (deactivate) | Yes | Yes | Yes | N/A |
 | Works with Canva password reset | Yes | Yes | Yes | No |
 | Dashboard to manage aliases | Yes | Yes | Limited | No |
-| Bundled with other privacy tools | VPN + Antivirus | No | Apple ecosystem only | No |
+| Bundled with other privacy tools | VPN + [Antivirus](https://snipstack.io/vs-antivirus-2026/) | No | Apple ecosystem only | No |
 | Price | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) | Free tier / $4/mo | Free (Apple ID required) | Free |
 
 ---
@@ -165,7 +165,7 @@ Deactivating an alias means no more emails from Canva reach you. This is useful 
 
 No. Canva's terms require a valid email address you control. An alias that forwards to a real inbox meets that requirement. You are still verifiable and reachable — the only difference is the layer of privacy between Canva and your actual address.
 
-### Does Surfshark Alt ID work on both free and paid Canva plans?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt ID work on both free and paid Canva plans?
 
 Yes. Alt ID is an [email alias](https://snipstack.io/email-alias-for-product-warranty-registration-2026/) tool that is completely separate from Canva's own tier structure. Whether you use Canva Free or Canva Pro, you can register with an Alt ID alias. The alias works the same way regardless of your Canva subscription.
 
@@ -177,7 +177,7 @@ Each email address can only be tied to one Canva account. If you manage multiple
 
 ## Final Recommendation
 
-For most users, **Surfshark Alt ID** is the right call for Canva alias registration. It handles everything Canva needs — verification, password resets, team invites — while giving you a clean kill switch if the inbox relationship sours. The bundled VPN and Antivirus make it a stronger value proposition than a standalone alias tool, especially if you care about online privacy beyond just your inbox.
+For most users, **Surfshark Alt ID** is the right call for Canva alias registration. It handles everything Canva needs — verification, password resets, team invites — while giving you a clean kill switch if the inbox relationship sours. The bundled [VPN and Antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/) make it a stronger value proposition than a standalone alias tool, especially if you care about online privacy beyond just your inbox.
 
 SimpleLogin is a credible free alternative if you want to stay alias-only and have fewer than 10 accounts to protect. Apple Hide My Email works well inside the Apple ecosystem but is limiting if you need cross-platform flexibility or custom alias names.
 

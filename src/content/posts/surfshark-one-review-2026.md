@@ -253,7 +253,7 @@ The pitch is not that [Surfshark One](https://snipstack.io/surfshark-one-annual-
     },
     {
       "@type": "Question",
-      "name": "Does Surfshark One work on Mac, iPhone, and Android?",
+      "name": "Does [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) work on Mac, iPhone, and Android?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. One subscription covers unlimited simultaneous devices across Windows, Mac, iOS, Android, and additional platforms including Android TV and Fire TV. Download the Surfshark app on each device and log in with the same account."

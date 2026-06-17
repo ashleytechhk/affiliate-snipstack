@@ -229,7 +229,7 @@ The actual discount is where it has always been: on the two-year plan, on Surfsh
       "name": "Can I use one [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) subscription on multiple devices?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Surfshark One covers unlimited simultaneous device connections under a single subscription. The VPN and Alert features work across Windows, macOS, iOS, Android, Linux, and browser extensions. The antivirus component covers Windows and macOS."
+        "text": "Yes. [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) covers unlimited simultaneous device connections under a single subscription. The VPN and Alert features work across Windows, macOS, iOS, Android, Linux, and browser extensions. The antivirus component covers Windows and macOS."
       }
     }
   ]

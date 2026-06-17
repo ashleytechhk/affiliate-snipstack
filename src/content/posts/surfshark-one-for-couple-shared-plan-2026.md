@@ -36,7 +36,7 @@ Before comparing anything, it's worth being precise about what the subscription 
 
 **Surfshark Search** — A private search tool that doesn't build a profile based on your query history. Useful for anyone who'd rather not have their research habits logged and sold.
 
-**CleanWeb** — Blocks ads, trackers, and malicious URLs at the network level before they load. Faster browsing and a reduced attack surface from malvertising.
+**CleanWeb** — Blocks ads, trackers, and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s at the network level before they load. Faster browsing and a reduced attack surface from malvertising.
 
 All of this, on unlimited devices, under one subscription that two people share.
 
