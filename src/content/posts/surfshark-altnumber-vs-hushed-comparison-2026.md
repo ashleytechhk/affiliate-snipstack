@@ -143,7 +143,7 @@ You should use Alt Number if:
 - You plan to also use a VPN and/or an [email alias for](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/) complete protection
 - You want one app, one subscription, and no juggling
 
-The online dating world rewards people who are proactive about their privacy. Giving a stranger your real phone number in 2026 is the equivalent of handing them your address book. You deserve a smarter option.
+The online dating world rewards people who are proactive about their privacy. Giving a stranger your real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) in 2026 is the equivalent of handing them your address book. You deserve a smarter option.
 
 [Start protecting your number with Surfshark Alt Number](/blog/altnumber?sub=surfshark-altnumber-vs-hushed-comparison-2026__cta)
 

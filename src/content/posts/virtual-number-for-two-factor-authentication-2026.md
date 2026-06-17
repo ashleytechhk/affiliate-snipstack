@@ -28,7 +28,7 @@ Each of those locations is a separate exposure vector.
 
 **Two-factor authentication interception.** Here is the specific risk that most people miss: if your 2FA is tied to your real number and someone gets hold of that number — through a breach, a SIM swap, or social engineering — they can receive your authentication codes and take over your account. Your security layer becomes their entry point.
 
-**Reverse lookup and doxing.** A phone number is a unique identifier that chains into your real identity. A motivated bad actor with your number can run it through reverse-lookup services and surface your name, home address, and linked accounts within minutes. This is not theoretical — it is a documented tactic in dating-context harassment cases.
+**Reverse lookup and doxing.** A [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is a unique identifier that chains into your real identity. A motivated bad actor with your number can run it through reverse-lookup services and surface your name, home address, and linked accounts within minutes. This is not theoretical — it is a documented tactic in dating-context harassment cases.
 
 **Direct harassment.** Once someone has your real number, blocking them on the app accomplishes nothing. They text, they call, they find ways to make the harassment continue outside the platform's control.
 

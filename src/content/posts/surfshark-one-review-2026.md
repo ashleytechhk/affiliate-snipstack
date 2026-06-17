@@ -248,7 +248,7 @@ The pitch is not that [Surfshark One](https://snipstack.io/surfshark-one-annual-
       "name": "How does [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-smart-security-premium-2026/) compare to Norton 360?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Norton 360 has a strong antivirus engine. Its VPN is data-capped on lower tiers. Surfshark One's antivirus detection rates are slightly lower than Norton's in independent lab tests, but the VPN is full-featured, Alt-ID and private search are included, unlimited devices are supported, and the renewal price is significantly lower."
+        "text": "Norton 360 has a strong antivirus engine. Its VPN is data-capped on lower tiers. [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/)'s antivirus detection rates are slightly lower than Norton's in independent lab tests, but the VPN is full-featured, Alt-ID and private search are included, unlimited devices are supported, and the renewal price is significantly lower."
       }
     },
     {

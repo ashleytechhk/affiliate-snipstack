@@ -42,7 +42,7 @@ The reverse also happens. Someone you matched with becomes a passenger specifica
 
 ### Lyft account verification is tied to your real identity
 
-To drive for Lyft, you submit your real name, address, driver's license, and vehicle registration. Your account phone number is the authentication layer for all of that. It is not a display field — passengers do not see your number directly — but it is the recovery and verification anchor for an account that is deeply tied to your real-world identity.
+To drive for Lyft, you submit your real name, address, driver's license, and vehicle registration. Your account [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is the authentication layer for all of that. It is not a display field — passengers do not see your number directly — but it is the recovery and verification anchor for an account that is deeply tied to your real-world identity.
 
 If someone compromises your Lyft account — through a [phishing link](https://snipstack.io/phishing-link-checker-free-2026/) sent as a "fare update" SMS, a spoofed Lyft support email, or a session token grab — your real number is inside that account.
 

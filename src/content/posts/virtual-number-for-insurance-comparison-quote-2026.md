@@ -34,7 +34,7 @@ Here is what makes this specifically dangerous for online daters:
 
 1. **Your dating profile** may display your first name, age, approximate location, and sometimes your workplace or social media handle.
 2. **Your insurance quote request** captures your full name, exact address, date of birth, and [phone number](https://snipstack.io/phone-number-alias-for-work-2026/).
-3. **Lead brokers** cross-reference phone numbers against social media, reverse-lookup services, and public records to build richer profiles.
+3. **Lead brokers** cross-reference [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s against social media, reverse-lookup services, and public records to build richer profiles.
 
 When your real number appears in both your dating life and a lead database, those two worlds can collide. A determined bad actor — or even just a persistent ex-match — needs only your phone number to find far more than you intended to share.
 

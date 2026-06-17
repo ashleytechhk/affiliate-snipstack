@@ -32,7 +32,7 @@ When you list an item on Facebook Marketplace, Craigslist, or OfferUp, you typic
 
 When you match with someone on Tinder, Bumble, or Hinge, the same transition happens. You move from the app to "real" texting. You share your number. The stranger now has a thread that leads directly back to your identity.
 
-### What Your Phone Number Actually Exposes
+### What Your [Phone Number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) Actually Exposes
 
 **Reverse lookup databases** — Spokeo, Whitepages, BeenVerified, and dozens of others — aggregate public records and data broker compilations. A free search on your number can return your full legal name, current and previous addresses, age, and the names of relatives. This is legal, instant, and requires no technical skill.
 

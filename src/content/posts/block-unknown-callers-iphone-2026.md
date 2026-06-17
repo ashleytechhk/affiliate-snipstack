@@ -98,7 +98,7 @@ Here's how the approach changes the dynamic:
 | Scenario | With your real number | With Alt-Number |
 |---|---|---|
 | Match goes bad | They have your number forever | Stop using the Alt-Number |
-| Someone becomes harassing | Change your phone number (major hassle) | Let the [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) go quiet |
+| Someone becomes harassing | Change your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) (major hassle) | Let the [second number](https://snipstack.io/second-number-for-lyft-driver-account-2026/) go quiet |
 | You want to date casually | Your real number is attached to everything | Alt-Number stays separate |
 | You travel and date | Real number tied to your home carrier | Alt-Number works independently |
 

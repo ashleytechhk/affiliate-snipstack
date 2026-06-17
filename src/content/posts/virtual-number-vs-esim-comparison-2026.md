@@ -42,7 +42,7 @@ Neither of these use cases overlaps with "I want a number I can give to a strang
 
 ![eSIM vs virtual number — why eSIM misses for dating privacy](/og/virtual-number-vs-esim-comparison-2026-inline-1.png)
 
-### Most consumer eSIMs have no phone number at all
+### Most consumer eSIMs have no [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) at all
 
 If you purchase a travel eSIM from any of the major providers, you are buying data connectivity, not a phone line. You cannot receive calls or texts on it. If a match asks for your number and you hand over an eSIM number, you mean the carrier number on your regular SIM — which is your real number.
 

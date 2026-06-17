@@ -101,7 +101,7 @@ Repeat this for every email address you actively use. Most people have two to fo
 
 ### Step 3 — Add [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s and Other Personal Data
 
-In the same Alert section, you can also add [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s and, in some regions, additional personal identifiers. These get cross-referenced against breach databases the same way email addresses do. If your phone number shows up in a leaked marketing database or a phishing list, you'll get an alert.
+In the same Alert section, you can also add [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s and, in some regions, additional personal identifiers. These get cross-referenced against breach databases the same way email addresses do. If your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) shows up in a leaked marketing database or a phishing list, you'll get an alert.
 
 ### Step 4 — Review Your Initial Scan Results
 

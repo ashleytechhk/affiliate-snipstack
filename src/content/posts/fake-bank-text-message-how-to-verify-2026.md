@@ -146,7 +146,7 @@ Acting quickly matters. If payment details were entered, most banks have a short
 
 ### How can I tell if a text message is really from my bank?
 
-The most reliable method is to not act on the text at all, then contact your bank directly using the phone number on your card or the official website you normally use. If you want to check the link or sender before calling, Surfshark's Scam Checker gives you a fast, plain-language verdict. [Run a free check here.](/blog/scamcheck?sub=fake-bank-text-message-how-to-verify-2026__faq)
+The most reliable method is to not act on the text at all, then contact your bank directly using the [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) on your card or the official website you normally use. If you want to check the link or sender before calling, Surfshark's Scam Checker gives you a fast, plain-language verdict. [Run a free check here.](/blog/scamcheck?sub=fake-bank-text-message-how-to-verify-2026__faq)
 
 ### Do banks send text messages with links?
 

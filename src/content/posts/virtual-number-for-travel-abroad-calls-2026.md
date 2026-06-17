@@ -70,7 +70,7 @@ The threat does not have to come from the match directly. A device that has your
 
 **[See how Surfshark Alt-Number works for travellers](/blog/altnumber?sub=virtual-number-for-travel-abroad-calls-2026__mid)**
 
-The mechanism is straightforward. Instead of sharing your real mobile number when you move a dating conversation off the app, you share a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) — a working phone number that routes over the internet, receives calls and texts normally, and presents no connection to your real identity in any public database.
+The mechanism is straightforward. Instead of sharing your real mobile number when you move a dating conversation off the app, you share a [virtual number](https://snipstack.io/virtual-number-that-forwards-to-cell-2026/) — a working [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) that routes over the internet, receives calls and texts normally, and presents no connection to your real identity in any public database.
 
 From the other person's perspective, they have a normal phone number. They call it; the call connects. They text it; the message arrives. Nothing signals that it is virtual. The privacy is entirely on your side.
 

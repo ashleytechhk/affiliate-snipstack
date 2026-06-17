@@ -29,7 +29,7 @@ The process of arranging a car test drive is almost comically dangerous from a p
 1. You see a listing — on [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), Craigslist, AutoTrader, or a private-party site.
 2. You reach out by message. The seller immediately asks for your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to "coordinate."
 3. You meet a stranger at their home, their workplace, or a parking lot.
-4. You hand over your ID (sometimes a copy) and your phone number, and then you sit in a metal box with that stranger and drive somewhere.
+4. You hand over your ID (sometimes a copy) and your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), and then you sit in a metal box with that stranger and drive somewhere.
 
 Step 3 alone would give any security professional pause. But step 2 is the one that keeps haunting people long after the transaction ends.
 

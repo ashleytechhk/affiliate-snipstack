@@ -175,7 +175,7 @@ Blocking stops future contact — but the person already has your real number st
 
 **Does the other person know they're texting a [virtual number](https://snipstack.io/virtual-number-for-vrbo-property-listing-2026/)?**
 
-No. From the recipient's perspective, it's a normal phone number. Their texts arrive, their calls ring through, and your replies come from that same number. There's no indicator that it's a virtual line unless you tell them.
+No. From the recipient's perspective, it's a normal [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). Their texts arrive, their calls ring through, and your replies come from that same number. There's no indicator that it's a virtual line unless you tell them.
 
 **[Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Alt-Number available outside the US?**
 

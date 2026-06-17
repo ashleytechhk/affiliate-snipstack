@@ -125,7 +125,7 @@ You do not need to understand how any of this works technically. You just need t
 
 1. **Install a trusted antivirus** — [Surfshark Antivirus](/blog/antivirus?sub=best-antivirus-for-macbook-pro-2026__cta) takes five minutes to set up and runs in the background from then on.
 2. **Keep macOS updated** — Click the Apple logo, then System Settings, then General, then Software Update. Turn on automatic updates.
-3. **Never call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) shown in a pop-up** — Apple and Microsoft do not show [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s in browser alerts. Any pop-up with a phone number is a scam. Close the browser tab (press Command + W) and do nothing else.
+3. **Never call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) shown in a pop-up** — Apple and Microsoft do not show [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s in browser alerts. Any pop-up with a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is a scam. Close the browser tab (press Command + W) and do nothing else.
 4. **Check website addresses carefully** — Fake sites use addresses like "apple-support-help.com" or "applle.com" instead of apple.com. Look at the address bar before typing any password.
 5. **Tell someone before you pay** — If anyone contacts you about a computer problem and asks for money or remote access, talk to a family member or trusted friend first. No real company will pressure you to decide on the spot.
 

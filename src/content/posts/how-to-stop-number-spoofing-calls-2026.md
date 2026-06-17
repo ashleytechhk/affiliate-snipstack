@@ -155,7 +155,7 @@ Surfshark Alt-Number uses real mobile numbers rather than VoIP lines. Most apps 
 
 STIR/SHAKEN is a carrier-level protocol that cryptographically verifies caller ID information. Major US carriers have implemented it as of 2021. Your carrier may or may not surface its results visibly — enabling tools like AT&T ActiveArmor, Verizon Call Filter, or T-Mobile Scam Shield brings those results to your screen as call labels or automatic blocks. You do need to enable those apps; the underlying protocol is automatic.
 
-**Is it illegal for someone to spoof a phone number?**
+**Is it illegal for someone to spoof a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)?**
 
 Under the Truth in Caller ID Act, it is illegal to transmit false caller ID information with the intent to defraud, cause harm, or wrongly obtain anything of value. Legitimate uses — like a business calling from its general number instead of an employee's direct line — are permitted. Spoofing with fraudulent intent carries FCC fines up to $10,000 per violation. Enforcement exists but is difficult when spoofing operations run from outside US jurisdiction.
 

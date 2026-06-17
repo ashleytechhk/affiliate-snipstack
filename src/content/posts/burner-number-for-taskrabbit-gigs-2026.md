@@ -40,7 +40,7 @@ When that contact information is a [phone number](https://snipstack.io/phone-num
 
 Most people think about phone privacy in terms of spam calls or telemarketers. The TaskRabbit problem is different in three specific ways.
 
-**Your profile already does half the stalker's work.** A bad actor doesn't need to do any detective work. Your face, approximate neighborhood, service area, and availability are laid out on your public profile. Add a phone number and they have a complete dossier built for them.
+**Your profile already does half the stalker's work.** A bad actor doesn't need to do any detective work. Your face, approximate neighborhood, service area, and availability are laid out on your public profile. Add a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) and they have a complete dossier built for them.
 
 **The handoff is built into the platform.** You can't opt out of sharing a number with clients and still take gigs. The number exchange is baked into how TaskRabbit coordinates jobs. This isn't a case of oversharing — it's a structural feature of the service.
 

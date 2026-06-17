@@ -79,7 +79,7 @@ Before the comparison, here's the honest map of who this actually helps:
 
 **Number quality:** VoIP. This is the key limitation — Google Voice numbers are well-known to spam filters, SMS verification services, and dating platforms. Some apps (WhatsApp, certain dating apps, two-factor authentication systems) will flag or reject these numbers during setup.
 
-**Global reach:** US only. You need a US phone number to sign up, and you can only receive calls and texts while the app is functioning. No support for international numbers.
+**Global reach:** US only. You need a US [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to sign up, and you can only receive calls and texts while the app is functioning. No support for international numbers.
 
 **Cost:** Free for personal use. Calls within the US are free. International calling costs extra.
 

@@ -155,7 +155,7 @@ Modern antivirus tools, including Surfshark, are designed to be lightweight. The
 
 That is precisely the use case this type of protection is built for. The antivirus does not care what network you are on — it protects at the device level, not the network level. Whether you are on your hotel's Wi-Fi, a coworking space LAN, a mobile hotspot, or a cafe network with a password written on a napkin, the protection runs identically.
 
-### Can I use one Surfshark Antivirus subscription for my laptop and phone?
+### Can I use one Surfshark [Antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) for my laptop and phone?
 
 Yes. One subscription covers multiple devices. You log in with the same account on each device. This is one of the practical advantages over some competitors, which charge per device.
 

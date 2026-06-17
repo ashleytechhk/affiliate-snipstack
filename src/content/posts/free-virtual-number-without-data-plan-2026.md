@@ -30,7 +30,7 @@ With your 10-digit number, anyone willing to spend a few minutes online can find
 
 - **Your full name** via carrier look-up tools and people-search databases
 - **Your home address**, especially if you are registered to vote or own property
-- **Your social media profiles**, because most platforms let you search by phone number
+- **Your social media profiles**, because most platforms let you search by [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)
 - **Your workplace**, through LinkedIn or Facebook cross-referencing
 
 Dating apps have improved their in-app messaging. Many discourage moving to personal texts. But the pressure to "just text me" comes early, and most people comply. Once your real number is out, you cannot take it back.

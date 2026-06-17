@@ -90,7 +90,7 @@ Most people who have had a bad date on a dating app have had the experience of b
 - Video you may have shared showing your home environment
 - A mental map of your routines from conversation before the number exchange
 
-Your real phone number, entered into a free data broker search, adds a name, a street address, and a workplace to that existing picture. The block on Hinge stops them from sending you roses through the app. It does nothing to the information they already have.
+Your real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), entered into a free data broker search, adds a name, a street address, and a workplace to that existing picture. The block on Hinge stops them from sending you roses through the app. It does nothing to the information they already have.
 
 With an alias number, the reverse-lookup on your Hinge-registered number returns data associated with the alias, not your real identity. If you retire the number, even that stops being useful. The picture they assembled inside Hinge becomes much harder to connect to your physical location.
 

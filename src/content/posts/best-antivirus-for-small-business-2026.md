@@ -198,7 +198,7 @@ A few things help contain the damage. First, regular backups stored somewhere se
 
 ### Is [free antivirus](https://snipstack.io/free-antivirus-vs-paid-antivirus-2026/) enough for a small business?
 
-Free tools are better than nothing, but they are rarely suitable for a business. Most [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) products offer scan-on-demand protection, not real-time scanning — meaning they only protect you when you remember to run them. They typically exclude web protection, phishing blocking, and data breach monitoring. For personal use, combining a free tool with built-in OS protection is a reasonable baseline. For a business, the cost of one month's data breach or ransomware recovery is almost always more than a year's antivirus subscription. Paid protection is worth the cost.
+Free tools are better than nothing, but they are rarely suitable for a business. Most [free antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/) products offer scan-on-demand protection, not real-time scanning — meaning they only protect you when you remember to run them. They typically exclude web protection, phishing blocking, and data breach monitoring. For personal use, combining a free tool with built-in OS protection is a reasonable baseline. For a business, the cost of one month's data breach or ransomware recovery is almost always more than a year's [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/). Paid protection is worth the cost.
 
 ### How much should a small business spend on antivirus?
 

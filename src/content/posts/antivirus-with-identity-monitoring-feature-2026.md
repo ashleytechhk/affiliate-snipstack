@@ -110,7 +110,7 @@ The design is straightforward. You install one app, and it takes care of multipl
 
 For seniors, the breach alert feature is particularly valuable. Once you add your email address to the monitoring list, the system works silently in the background. If anything concerning surfaces, you receive a clear notification telling you exactly what was found and [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/).
 
-The annual cost is lower than most individual antivirus subscriptions, and significantly lower than buying a VPN and an identity monitoring service separately. For what it covers — malware protection, breach alerts, VPN, private search — it is difficult to beat on price.
+The annual cost is lower than most individual [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/)s, and significantly lower than buying a VPN and an identity monitoring service separately. For what it covers — malware protection, breach alerts, VPN, private search — it is difficult to beat on price.
 
 ![A device mockup showing the Surfshark One dashboard with an active VPN connection and a breach alert notification visible](/og/antivirus-with-identity-monitoring-feature-2026-inline-2.png)
 

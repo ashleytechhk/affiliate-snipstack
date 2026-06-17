@@ -151,7 +151,7 @@ It will not replace your judgment entirely — no software can — but it dramat
 ## Frequently Asked Questions
 
 **Q: Can I check if my PC is hacked for free?**
-Yes. Windows includes Task Manager and Windows Defender at no cost. The `netstat` command is also built into Windows and free to use. These tools catch many common threats. For ongoing, automatic protection, a paid antivirus subscription adds a layer those built-in tools miss. [Compare options here →](/blog/antivirus?sub=how-to-check-if-your-pc-is-hacked-2026__faq)
+Yes. Windows includes Task Manager and Windows Defender at no cost. The `netstat` command is also built into Windows and free to use. These tools catch many common threats. For ongoing, automatic protection, a paid [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) adds a layer those built-in tools miss. [Compare options here →](/blog/antivirus?sub=how-to-check-if-your-pc-is-hacked-2026__faq)
 
 **Q: What is the fastest sign that my PC has been hacked?**
 Unexpected cursor movement, webcam light turning on unprompted, or receiving password reset emails you did not request are the clearest and fastest signs. Any one of these warrants immediate action.

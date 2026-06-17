@@ -26,7 +26,7 @@ The moment you verify Tinder with your personal [phone number](https://snipstack
 
 ## Why Your [Phone Number](https://snipstack.io/phone-number-alias-for-work-2026/) Is More Exposed Than You Think
 
-Most people hand out their phone number without thinking about what someone motivated enough could do with it. On a dating app, that "motivated enough" person could be a bad match, a stalker, or someone who feels wronged after a conversation that didn't go well.
+Most people hand out their [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) without thinking about what someone motivated enough could do with it. On a dating app, that "motivated enough" person could be a bad match, a stalker, or someone who feels wronged after a conversation that didn't go well.
 
 Here is what your phone number can unlock for someone who knows where to look:
 

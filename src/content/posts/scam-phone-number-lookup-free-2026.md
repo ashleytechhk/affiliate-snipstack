@@ -150,7 +150,7 @@ If a lookup confirms — or strongly suggests — the number or email is a scam:
 
 ## Frequently Asked Questions
 
-**Is there a completely free scam phone number lookup with no signup?**
+**Is there a completely free scam [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) lookup with no signup?**
 
 Yes. Google Search is the fastest no-signup option — paste the number plus the word "scam" into the search bar. It works well for high-volume robocaller numbers. For a more detailed result including likely owner name and scam history, Truecaller's free tier requires a sign-up but provides a much richer database. [If a suspicious email followed the call, check that here.](/blog/scamcheck?sub=scam-phone-number-lookup-free-2026__faq)
 

@@ -22,7 +22,7 @@ This guide explains why a **best [antivirus for](https://snipstack.io/antivirus-
 
 If someone in your family is over 60 and uses a phone, tablet, or computer, they need real-time [antivirus](https://snipstack.io/vs-antivirus-2026/) protection running quietly in the background. The problem with protecting seniors individually is that they often do not notice when something is wrong — until it is too late.
 
-A **family plan antivirus subscription** solves this in one move: one account, multiple devices, managed by whoever in the family is most comfortable with technology. [Surfshark Antivirus](/blog/antivirus?sub=best-antivirus-for-family-plan-2026__above-fold) covers unlimited devices, blocks malware before it runs, and warns users when they are about to visit a scam website. It is one of the most senior-friendly options available in 2026 — plain-language alerts, no confusing jargon, easy setup.
+A **family plan [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/)** solves this in one move: one account, multiple devices, managed by whoever in the family is most comfortable with technology. [Surfshark Antivirus](/blog/antivirus?sub=best-antivirus-for-family-plan-2026__above-fold) covers unlimited devices, blocks malware before it runs, and warns users when they are about to visit a scam website. It is one of the most senior-friendly options available in 2026 — plain-language alerts, no confusing jargon, easy setup.
 
 ---
 

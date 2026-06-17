@@ -160,7 +160,7 @@ For most UK online daters, protecting the [phone number](https://snipstack.io/ph
 
 ## Frequently Asked Questions
 
-**Can I get a genuine US phone number from the UK without a US SIM?**
+**Can I get a genuine US [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) from the UK without a US SIM?**
 Yes, with Alt-Number. You sign up from any country, select the United States as your number region, and the number is provisioned immediately. No US SIM, no US address, no US bank account required.
 
 [**Get your US number from the UK today →**](/blog/altnumber?sub=virtual-us-phone-number-from-uk-2026__faq)

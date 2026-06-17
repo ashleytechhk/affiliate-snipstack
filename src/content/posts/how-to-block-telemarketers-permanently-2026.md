@@ -106,7 +106,7 @@ This is the step that actually solves the problem for dating app users. Instead 
 
 **4b.** Navigate to **Alt-Number** in the app menu.
 
-**4c.** Select your preferred area code and tap **Get Number**. Surfshark assigns you a real phone number — not a fake or VoIP-only number, but a working number that can send and receive calls and texts.
+**4c.** Select your preferred area code and tap **Get Number**. Surfshark assigns you a real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) — not a fake or VoIP-only number, but a working number that can send and receive calls and texts.
 
 **4d.** You'll see your new number displayed in the app. This is the number you share on dating apps and with new matches.
 

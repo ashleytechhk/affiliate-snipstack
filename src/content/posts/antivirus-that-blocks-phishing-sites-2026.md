@@ -183,7 +183,7 @@ Do not panic, but act quickly. If you entered your username or password on the s
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) phishing protection cost?
 
-A full antivirus subscription with phishing protection typically costs between $30 and $50 per year when billed annually — roughly the price of a meal out. That covers all your devices under one plan. Given that a single successful phishing attack can drain a bank account or compromise years of savings, the annual cost of protection is a very small price. Most providers, including Surfshark, offer a money-back period so you can try the service without risk.
+A full [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) with phishing protection typically costs between $30 and $50 per year when billed annually — roughly the price of a meal out. That covers all your devices under one plan. Given that a single successful phishing attack can drain a bank account or compromise years of savings, the annual cost of protection is a very small price. Most providers, including Surfshark, offer a money-back period so you can try the service without risk.
 
 ---
 

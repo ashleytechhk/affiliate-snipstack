@@ -42,7 +42,7 @@ General dating-app privacy advice treats all apps the same. Tinder has specific 
 
 ### Tinder Pushes You to Connect Instagram
 
-Tinder's profile setup actively prompts you to link your Instagram. If you do, your Instagram photos appear on your profile and your Instagram handle can be visible. Your Instagram was registered with your real phone number. That registration number has likely been scraped by data brokers at some point in the last several years — even if you later changed your account's privacy settings.
+Tinder's profile setup actively prompts you to link your Instagram. If you do, your Instagram photos appear on your profile and your Instagram handle can be visible. Your Instagram was registered with your real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). That registration number has likely been scraped by data brokers at some point in the last several years — even if you later changed your account's privacy settings.
 
 The chain: Tinder profile → Instagram handle → Instagram account → phone number used to register → reverse lookup → your address.
 

@@ -184,7 +184,7 @@ Google Voice is US-only and does not help here. TextNow is primarily US and Cana
 
 ### Can I use my [second number for](https://snipstack.io/second-number-for-lyft-driver-account-2026/) WhatsApp as well?
 
-Yes. The process is exactly what you would expect: enter the Alt-Number when WhatsApp asks for a phone number during setup, retrieve the 6-digit SMS code from the Alt-Number inbox, paste it in. WhatsApp will use carrier-backed numbers without issue. You get a separate WhatsApp account tied to your [private number](https://snipstack.io/private-number-for-garage-sale-listings-2026/), which keeps your dating conversations completely separate from your primary WhatsApp.
+Yes. The process is exactly what you would expect: enter the Alt-Number when WhatsApp asks for a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) during setup, retrieve the 6-digit SMS code from the Alt-Number inbox, paste it in. WhatsApp will use carrier-backed numbers without issue. You get a separate WhatsApp account tied to your [private number](https://snipstack.io/private-number-for-garage-sale-listings-2026/), which keeps your dating conversations completely separate from your primary WhatsApp.
 
 ---
 

@@ -46,7 +46,7 @@ Most people who use Discord for dating are thinking about vibes and profile pict
 
 ### [Phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s are not as hidden as Discord implies
 
-Discord does not display your phone number to other users by default. But "not displayed" is not the same as "not accessible." Your number is stored in Discord's account settings, referenced in account recovery flows, and — if you have ever verified your number for a specific server feature — can be surfaced in ways you did not intend.
+Discord does not display your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to other users by default. But "not displayed" is not the same as "not accessible." Your number is stored in Discord's account settings, referenced in account recovery flows, and — if you have ever verified your number for a specific server feature — can be surfaced in ways you did not intend.
 
 If someone ever gets access to your account — through a [phishing link](https://snipstack.io/phishing-link-checker-free-2026/) shared in a DM, a session token exploit, or a social engineering attempt that is embarrassingly easy on a platform built around informal chat — your real number is in there.
 

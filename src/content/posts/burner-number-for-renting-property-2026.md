@@ -38,7 +38,7 @@ Here's where it lands when you apply for a rental:
 
 **Co-signers and guarantors.** If your application involved a guarantor or roommate matching service, additional parties may have received your number as part of the process.
 
-By the time you sign a lease, your phone number has touched at least four or five systems that you don't control and cannot audit. Most renters have no idea.
+By the time you sign a lease, your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) has touched at least four or five systems that you don't control and cannot audit. Most renters have no idea.
 
 ---
 

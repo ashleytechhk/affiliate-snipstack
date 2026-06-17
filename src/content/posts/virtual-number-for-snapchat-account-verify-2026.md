@@ -28,7 +28,7 @@ A [virtual number for Snapchat account verify](https://snipstack.io/virtual-numb
 
 ## What Snapchat Does With Your [Phone Number](https://snipstack.io/phone-number-alias-for-work-2026/) by Default
 
-Most users think the phone number they enter during Snapchat signup is just for receiving a verification code. It is not. Snap's own privacy policy states it plainly: "By default you are findable to others through your phone number."
+Most users think the [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) they enter during Snapchat signup is just for receiving a verification code. It is not. Snap's own privacy policy states it plainly: "By default you are findable to others through your phone number."
 
 This means the following happens automatically, before you post a single snap:
 

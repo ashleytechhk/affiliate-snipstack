@@ -32,7 +32,7 @@ The problem is that your number does not stay inside that app's walled garden.
 
 ### The data broker pipeline
 
-Dating apps frequently share — or sell — user data to third-party advertising and analytics companies. Your phone number, combined with your age, location, and relationship preferences, becomes a marketable data point. Data brokers aggregate this across dozens of sources. Once your number appears in a broker's database, it is searchable by anyone willing to pay a few dollars for a people-search lookup.
+Dating apps frequently share — or sell — user data to third-party advertising and analytics companies. Your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), combined with your age, location, and relationship preferences, becomes a marketable data point. Data brokers aggregate this across dozens of sources. Once your number appears in a broker's database, it is searchable by anyone willing to pay a few dollars for a people-search lookup.
 
 This means someone you briefly matched with, or even someone who never matched you at all, could potentially locate your number and cross-reference it with your real name, home address, and workplace.
 

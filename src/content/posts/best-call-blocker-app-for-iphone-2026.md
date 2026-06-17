@@ -126,7 +126,7 @@ The privacy-relevant downside: to use Truecaller, you grant it access to your co
 
 Nomorobo was originally built for landline robocall blocking and has expanded to mobile. On iPhone, it works via the CallKit API the same way Hiya does — flagging or blocking calls from its robocall database before your phone rings. It charges a subscription fee (around $2/month for mobile), which is on the lower end for dedicated blocking apps.
 
-For pure robocall volume on your iPhone number, Nomorobo is competent and inexpensive. It is less focused on the dating-specific scenario than any of the other tools here, and it has no text message blocking capability.
+For pure robocall volume on your i[Phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), Nomorobo is competent and inexpensive. It is less focused on the dating-specific scenario than any of the other tools here, and it has no text message blocking capability.
 
 ---
 

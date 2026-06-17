@@ -30,7 +30,7 @@ If you want the full picture, read on.
 
 ## Why a US [Phone Number](https://snipstack.io/phone-number-alias-for-work-2026/) Still Matters When You Live Abroad
 
-Moving or traveling abroad does not suspend your ties to US systems. It often makes them more complicated. Here are the most common situations where a US phone number becomes urgent:
+Moving or traveling abroad does not suspend your ties to US systems. It often makes them more complicated. Here are the most common situations where a US [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) becomes urgent:
 
 **Banking and financial accounts.** US banks — Chase, Bank of America, Wells Fargo, and most credit unions — use SMS-based two-factor authentication by default. Without a number that can receive US SMS, you can find yourself locked out of accounts or unable to complete wire transfers at the worst possible moment.
 

@@ -30,7 +30,7 @@ This guide explains what separates the [best app for](https://snipstack.io/best-
 
 Most people think their privacy risk on dating apps is limited to their profile — the photos they post, the bio they write. That risk is real, but it is bounded. You control what goes on the profile.
 
-The phone number is different.
+The [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is different.
 
 The moment you share your real number with a match — in a DM, via WhatsApp, over text — you hand them a lookup key that connects to information you never chose to share. Within seconds, anyone with your number can search it on a people-finder site and get back your full name, your general location, your age range, and links to your social media profiles. Some services return this for free.
 

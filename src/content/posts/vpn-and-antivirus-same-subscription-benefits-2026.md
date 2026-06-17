@@ -33,7 +33,7 @@ When you add a standalone VPN on top — because the bundled one has a data cap 
 - Two support queues if something breaks
 - A combined monthly cost that surprises you every time
 
-This is the exact friction a combined VPN and antivirus subscription is designed to eliminate.
+This is the exact friction a combined VPN and [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) is designed to eliminate.
 
 ---
 

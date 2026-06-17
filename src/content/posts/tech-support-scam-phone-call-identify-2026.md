@@ -135,7 +135,7 @@ Many people feel more comfortable acting on written communication than on a verb
 
 Others feel reassured by a written record. The email makes the interaction feel more official, which overcomes the hesitation that ended the call.
 
-**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):** If you receive a suspicious email after a suspicious call, treat them as connected. Do not call the phone number in the email — it routes back to the same operation. Check the email with Surfshark's Email Scam Checker, then delete both the email and the call log.
+**[What to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):** If you receive a suspicious email after a suspicious call, treat them as connected. Do not call the [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) in the email — it routes back to the same operation. Check the email with Surfshark's Email Scam Checker, then delete both the email and the call log.
 
 ---
 

@@ -54,7 +54,7 @@ For dating, Google Voice works well as a "middle layer" number — you can answe
 
 ## TextNow — Free but With Asterisks
 
-TextNow is popular because it's free and doesn't require an existing phone number to sign up. You pick a number from their pool and start texting immediately. On paper, great for verification.
+TextNow is popular because it's free and doesn't require an existing [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to sign up. You pick a number from their pool and start texting immediately. On paper, great for verification.
 
 The problem is the recycled number pool. TextNow reuses numbers — the number you get today probably belonged to someone else last month. If that previous owner used it to create accounts on dating apps, those platforms may still associate the number with an existing (possibly banned or flagged) profile. This can cause verification failures or, worse, accidentally give you access to fragments of someone else's account history.
 

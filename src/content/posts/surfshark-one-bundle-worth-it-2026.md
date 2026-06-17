@@ -132,7 +132,7 @@ There is no onboarding nag to upgrade your plan. There is no dashboard module pr
 
 **Is the [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) bundle actually worth it if I already have antivirus?**
 
-If your current antivirus subscription does not include an unrestricted VPN and breach monitoring, you are likely paying for those gaps separately — or going without them. The One bundle combines all three under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) at a price that typically comes in below what you would pay buying a standalone VPN plus a quality antivirus separately. For most current Norton or McAfee subscribers, the math favors the switch. [See current One pricing &rarr;](/blog/one?sub=surfshark-one-bundle-worth-it-2026__faq)
+If your current [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) does not include an unrestricted VPN and breach monitoring, you are likely paying for those gaps separately — or going without them. The One bundle combines all three under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) at a price that typically comes in below what you would pay buying a standalone VPN plus a quality antivirus separately. For most current Norton or McAfee subscribers, the math favors the switch. [See current One pricing &rarr;](/blog/one?sub=surfshark-one-bundle-worth-it-2026__faq)
 
 **[Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) include a full VPN with no data cap?**
 

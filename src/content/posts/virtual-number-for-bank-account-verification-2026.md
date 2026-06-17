@@ -12,7 +12,7 @@ In 2023, SIM-swap fraud cost Americans over $68 million — and the FBI's Intern
 
 This isn't a fringe threat. It's a documented, growing attack surface — and almost nobody using dating apps in 2026 is thinking about it.
 
-Your phone number isn't just a way for dates to reach you. It's the verification key for your bank account, your email, your investment accounts, and every other service that uses SMS two-factor authentication. When that number leaks through a dating app — through a breach, a data broker, or an over-eager match who looked you up — every financial account tied to it becomes a potential target.
+Your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) isn't just a way for dates to reach you. It's the verification key for your bank account, your email, your investment accounts, and every other service that uses SMS two-factor authentication. When that number leaks through a dating app — through a breach, a data broker, or an over-eager match who looked you up — every financial account tied to it becomes a potential target.
 
 The fix isn't complicated. But it requires understanding what's actually at risk before you'll bother.
 

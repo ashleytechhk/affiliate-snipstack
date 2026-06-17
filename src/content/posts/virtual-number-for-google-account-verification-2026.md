@@ -46,7 +46,7 @@ When you type your real number into that verification field, Google links it to 
 
 Here is why that bridge matters:
 
-**Your number is your identity anchor.** Data broker sites — the ones that compile and sell personal information — index phone numbers against names, home addresses, social profiles, and associated email accounts. A number you consider a minor detail can return your full name, approximate neighborhood, and every other platform where you used the same number for sign-up. This lookup takes under a minute on a free site and requires no technical skill.
+**Your number is your identity anchor.** Data broker sites — the ones that compile and sell personal information — index [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s against names, home addresses, social profiles, and associated email accounts. A number you consider a minor detail can return your full name, approximate neighborhood, and every other platform where you used the same number for sign-up. This lookup takes under a minute on a free site and requires no technical skill.
 
 **A linked number connects your dating account to everything else.** If someone has your Google account email and the phone number tied to it is your real one, the reverse lookup leads directly to your real identity. The silo you built is not separate anymore.
 

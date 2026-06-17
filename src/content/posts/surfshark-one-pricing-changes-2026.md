@@ -147,6 +147,6 @@ Surfshark offers a 30-day money-back period on its plans. You can try the full b
 
 If your Norton or McAfee subscription is coming up for renewal and the quoted price is making you wince, [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-smart-security-premium-2026/) is worth a direct comparison. The 2026 pricing update made the long-term cost more transparent, the feature set covers everything a typical household needs, and the experience of actually using it is cleaner than either legacy suite.
 
-The unlimited device coverage alone often tips the math for households with more than five devices. Add in the included VPN — no data cap, full feature set — and the gap between what you are paying now and what Surfshark One costs becomes difficult to justify.
+The unlimited device coverage alone often tips the math for households with more than five devices. Add in the included VPN — no data cap, full feature set — and the gap between what you are paying now and what [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) costs becomes difficult to justify.
 
 [**See current Surfshark One pricing and grab your deal →**](/blog/one?sub=surfshark-one-pricing-changes-2026__cta)

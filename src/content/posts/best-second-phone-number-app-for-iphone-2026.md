@@ -31,7 +31,7 @@ Most people treat a [phone number](https://snipstack.io/phone-number-for-tinder-
 When you text someone your i[Phone number](https://snipstack.io/phone-number-alias-for-work-2026/), you are not just giving them a way to call you. You are handing over:
 
 - **Carrier identity** — easily looked up via free number lookup tools, which can suggest your billing region
-- **Social media cross-reference** — WhatsApp, Telegram, Signal, and Instagram all allow search by phone number unless you manually disable this in settings (most people never do)
+- **Social media cross-reference** — WhatsApp, Telegram, Signal, and Instagram all allow search by [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) unless you manually disable this in settings (most people never do)
 - **Spam verification** — your number gets entered into data-broker sites that aggregate public records, and it can resurface linked to your name, past addresses, and relatives
 
 A 2025 Consumer Reports investigation found that over 80% of tested data-broker sites returned accurate name-plus-address results when given only a mobile phone number. The lookup takes under 30 seconds.

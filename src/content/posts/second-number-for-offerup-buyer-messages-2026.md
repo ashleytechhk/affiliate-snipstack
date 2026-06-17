@@ -42,7 +42,7 @@ This is where the risk compounds in a way that marketplaces-only users do not fa
 
 ### Your OfferUp Profile and Your Dating Profile Share the Same Thread
 
-If you use the same [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) OfferUp and for Hinge, Bumble, or any other dating app, a determined buyer who finds your real number has a starting point for tracing your dating presence. Data brokers index phone numbers against linked accounts. A search that starts with your OfferUp seller activity can surface your dating profile photos if they have been indexed, your display name, your general location, and in some cases your linked social accounts.
+If you use the same [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) OfferUp and for Hinge, Bumble, or any other dating app, a determined buyer who finds your real number has a starting point for tracing your dating presence. Data brokers index [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s against linked accounts. A search that starts with your OfferUp seller activity can surface your dating profile photos if they have been indexed, your display name, your general location, and in some cases your linked social accounts.
 
 You are not just an OfferUp seller to that buyer. You are a person with a romantic life, a face, and a home address. The apps feel separate. The phone number ties them together.
 

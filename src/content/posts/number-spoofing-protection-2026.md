@@ -117,7 +117,7 @@ Useful as a secondary layer. Not a substitute for preventing your number from be
 
 ## Who Is Most Exposed: The Online Dater's Specific Risk
 
-Dating app users face a distinct version of this problem. The social dynamic of early dating involves a gradual exchange of personal information — and for most people, a phone number feels like a natural, low-stakes next step after a week of good messages.
+Dating app users face a distinct version of this problem. The social dynamic of early dating involves a gradual exchange of personal information — and for most people, a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) feels like a natural, low-stakes next step after a week of good messages.
 
 It is not low stakes. You are giving a stranger, whom you have not yet met in person, direct access to a number tied to your full identity. If that person turns out to be a scammer, an abuser, or someone who sells contact lists, the damage is not theoretical.
 

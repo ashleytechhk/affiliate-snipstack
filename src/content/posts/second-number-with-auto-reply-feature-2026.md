@@ -26,7 +26,7 @@ If you are dating online and handing out your real [phone number](https://snipst
 
 ## The Threat That Dating Apps Don't Warn You About
 
-Dating apps ask for your phone number during signup. The framing is always "account security" or "identity verification." What the signup screen doesn't explain is where that number goes next.
+Dating apps ask for your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) during signup. The framing is always "account security" or "identity verification." What the signup screen doesn't explain is where that number goes next.
 
 Major dating platforms operate within advertising ecosystems. Your phone number is a high-value persistent identifier — it links your dating profile to your payment records, your social accounts, and your physical address through data broker databases. Phone number hashing lets ad networks track you across platforms even when you use different usernames. Your number enters that system the moment you type it into a signup form.
 

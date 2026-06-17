@@ -46,7 +46,7 @@ A mobile number links to:
 
 **Your carrier account.** Your carrier ties your number to your legal name and billing address. That relationship is the foundation of SIM swap fraud — where an attacker convinces your carrier to transfer your number to their device, then uses account recovery flows to take over your email, bank accounts, and social profiles. SIM swap attacks have surged because mobile numbers became the universal second factor for authentication.
 
-**Reverse-lookup databases.** Dozens of services aggregate public records, data-broker files, and social platform data into searchable profiles accessible by phone number. Many are free. A reverse lookup on your number can surface your full name, current and historical addresses, family members, and in some cases workplace information — in under a minute, with no account required.
+**Reverse-lookup databases.** Dozens of services aggregate public records, data-broker files, and social platform data into searchable profiles accessible by [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). Many are free. A reverse lookup on your number can surface your full name, current and historical addresses, family members, and in some cases workplace information — in under a minute, with no account required.
 
 **Every service using SMS for two-factor authentication.** Your phone number is the recovery mechanism for most of your important accounts. Control over it is effectively control over your digital identity.
 

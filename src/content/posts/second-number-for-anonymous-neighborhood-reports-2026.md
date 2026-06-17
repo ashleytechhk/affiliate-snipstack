@@ -106,7 +106,7 @@ All calls and texts to that number arrive inside the Alt-Number inbox within the
 
 **Filing a report about a match.** If a match becomes threatening, reporting them to the app or local authorities requires contact information. Filing with your Alt-Number keeps the report credible and actionable — you're reachable for follow-up — but the number doesn't trace back to your home address.
 
-**Community platform signups.** Nextdoor, neighborhood watch groups, local safety apps — these store your phone number from the moment you register. Using your Alt-Number for these platforms keeps your primary number out of their databases.
+**Community platform signups.** Nextdoor, neighborhood watch groups, local safety apps — these store your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) from the moment you register. Using your Alt-Number for these platforms keeps your primary number out of their databases.
 
 **Non-emergency tip lines.** These lines log the caller's number. Using your Alt-Number means you can report freely without your real contact information entering the logging system.
 

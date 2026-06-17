@@ -81,7 +81,7 @@ Alt Number assigns numbers from standard mobile carrier allocations. When Tinder
 
 ### No Real Number Required at Setup
 
-Activating Alt Number does not require you to link your real iPhone number. There is no forwarding step that creates a record connecting your new number to your actual identity. The number is issued independently.
+Activating Alt Number does not require you to link your real i[Phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). There is no forwarding step that creates a record connecting your new number to your actual identity. The number is issued independently.
 
 ### Reverse Lookups Return Nothing Actionable
 

@@ -30,7 +30,7 @@ When you set up a VRBO listing, the platform encourages you to provide a [phone 
 
 What VRBO does not explain is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to that number after a booking ends.
 
-Your phone number does not disappear from a guest's contacts when checkout happens. It does not expire when you mark a booking complete. It stays in their phone, accessible forever, with no mechanism for you to revoke it. And it is not just the number itself that persists — it is everything that number connects to.
+Your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) does not disappear from a guest's contacts when checkout happens. It does not expire when you mark a booking complete. It stays in their phone, accessible forever, with no mechanism for you to revoke it. And it is not just the number itself that persists — it is everything that number connects to.
 
 A mobile [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) is one of the most identity-rich data points you own. Reverse-lookup services — many of them free and requiring no account — can resolve a phone number to a full name, current and historical home addresses, family member names, and in some cases workplace details. The gap between "a recent guest has my number" and "a recent guest can find my home address" is not a gap at all. It is a single free search.
 

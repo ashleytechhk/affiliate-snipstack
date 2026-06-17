@@ -123,7 +123,7 @@ Surfshark Alt Number is built specifically for this use case. Here is the setup 
 4. Receive texts and calls through the app as normal
 5. Delete the number instantly if you need a clean break
 
-The number looks and behaves like any other phone number to the recipient. There is no visible indication it is virtual.
+The number looks and behaves like any other [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to the recipient. There is no visible indication it is virtual.
 
 ![Surfshark Alt Number app interface showing number management](/og/virtual-number-monthly-vs-yearly-plan-cost-2026-inline-2.png)
 

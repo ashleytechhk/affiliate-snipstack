@@ -124,7 +124,7 @@ Avast overhauled its data practices after the controversy and the resulting regu
 In common usage, the performance impact is minimal. Surfshark's antivirus module is designed to run alongside the VPN client without stacking resource overhead. It is considerably lighter than full Norton or McAfee suites.
 
 **Can I cancel Norton mid-subscription and switch?**
-Yes. Most antivirus subscriptions can be cancelled at any time, though refund eligibility depends on how recently you renewed. Check your current billing date before switching — if renewal is imminent, it may be worth waiting until just after the charge clears (then cancelling before the next cycle) to get full value from the paid period before moving to [Surfshark One](/blog/surfshark?sub=vs-free-antivirus-2026__faq).
+Yes. Most [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/)s can be cancelled at any time, though refund eligibility depends on how recently you renewed. Check your current billing date before switching — if renewal is imminent, it may be worth waiting until just after the charge clears (then cancelling before the next cycle) to get full value from the paid period before moving to [Surfshark One](/blog/surfshark?sub=vs-free-antivirus-2026__faq).
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) cover mobile devices?**
 Yes. A single [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/) covers unlimited devices across Windows, macOS, Android, and iOS — so your phone and tablet are protected alongside your laptop.

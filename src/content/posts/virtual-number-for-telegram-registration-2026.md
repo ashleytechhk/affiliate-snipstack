@@ -57,7 +57,7 @@ A bad actor who learns your Telegram registration number now has a useful piece 
 
 ### 3. Telegram Now Shares [Phone Number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)s With Authorities — and Telegram Itself Holds Them
 
-In September 2024, Telegram updated its privacy policy to confirm it would hand over users' IP addresses and [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s to authorities who present valid legal requests. This is not a critique of the policy — law enforcement access exists on most major platforms. The relevant point is simpler: Telegram stores your real phone number, and that number is now formally part of the data picture associated with your account.
+In September 2024, Telegram updated its privacy policy to confirm it would hand over users' IP addresses and [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s to authorities who present valid legal requests. This is not a critique of the policy — law enforcement access exists on most major platforms. The relevant point is simpler: Telegram stores your real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), and that number is now formally part of the data picture associated with your account.
 
 If your account is ever flagged, reported, or involved in any legal process — even incorrectly — your real number is in the record. For someone using Telegram specifically for dating privacy, that is worth knowing.
 

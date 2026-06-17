@@ -102,7 +102,7 @@ The quality of the number itself is the main limitation. TextNow numbers are VoI
 
 **The privacy maximalist's choice.**
 
-MySudo goes further than any other app on this list. Instead of just a [second number](https://snipstack.io/second-number-for-freelance-clients-2026/), you get a full secondary identity — phone number, email address, and browsing profile bundled together. The idea is that you can create a completely separate persona for dating that shares nothing with your real life.
+MySudo goes further than any other app on this list. Instead of just a [second number](https://snipstack.io/second-number-for-freelance-clients-2026/), you get a full secondary identity — [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), email address, and browsing profile bundled together. The idea is that you can create a completely separate persona for dating that shares nothing with your real life.
 
 It is the most thorough option available, but also the most complex. Setting up and maintaining a MySudo identity takes more effort than downloading a burner app, and the pricing reflects the broader feature set. For daters who have had serious privacy incidents in the past, or who simply want the maximum possible separation, it is worth the investment.
 

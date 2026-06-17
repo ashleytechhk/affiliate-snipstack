@@ -32,7 +32,7 @@ Most Airbnb hosts do not think of themselves as people with a privacy problem. T
 
 Here is the structural problem: hosting on Airbnb requires you to publish your approximate location publicly, share your real name on a verified account, allow strangers into your physical property, and maintain an ongoing communication channel with those strangers through a platform that has documented security weaknesses in its messaging system.
 
-Each of those things is necessary for the hosting model to work. But together they create a profile that is far more exposed than most hosts recognize. You are not just listing an apartment. You are publishing an identity — attached to a real place and a real phone number — to an audience of strangers who have already decided they want to visit.
+Each of those things is necessary for the hosting model to work. But together they create a profile that is far more exposed than most hosts recognize. You are not just listing an apartment. You are publishing an identity — attached to a real place and a real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) — to an audience of strangers who have already decided they want to visit.
 
 According to Airbnb's own transparency reports, the platform processes hundreds of millions of nights per year. A small percentage of those interactions involve a guest who behaves inappropriately, crosses boundaries, or becomes a safety concern. At that scale, a small percentage is a very large number of incidents.
 

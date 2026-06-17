@@ -106,7 +106,7 @@ A [second number](https://snipstack.io/second-number-for-receiving-verification-
 
 A [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) that works for Instacart gig use has specific requirements that eliminate most free options immediately.
 
-**It must pass Instacart's phone verification.** Instacart, like most gig platforms, checks phone numbers against known VoIP ranges during account verification. Free services like Google Voice and TextNow are flagged by these checks and rejected. A number needs to behave like a real mobile carrier line — not an internet-relay number — to clear Instacart's account setup.
+**It must pass Instacart's phone verification.** Instacart, like most gig platforms, checks [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s against known VoIP ranges during account verification. Free services like Google Voice and TextNow are flagged by these checks and rejected. A number needs to behave like a real mobile carrier line — not an internet-relay number — to clear Instacart's account setup.
 
 **It must receive SMS reliably.** Your Instacart account depends on SMS for two-factor login, order notifications, and support contact. A number that delays texts or drops messages is a liability during a shift, not a safety tool.
 

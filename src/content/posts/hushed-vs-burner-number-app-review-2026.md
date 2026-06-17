@@ -37,7 +37,7 @@ That is where Hushed and Burner come in. But before you subscribe to either, her
 
 ![Hushed app interface showing a secondary number for dating privacy](/og/hushed-vs-burner-number-app-review-2026-inline-1.png)
 
-Hushed is a VoIP phone number app that has been around since 2013. It gives you a secondary number for calls and texts, accessible from the app on any internet-connected device.
+Hushed is a VoIP [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) app that has been around since 2013. It gives you a secondary number for calls and texts, accessible from the app on any internet-connected device.
 
 ### What Works
 

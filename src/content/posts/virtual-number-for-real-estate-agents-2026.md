@@ -30,7 +30,7 @@ Most people treat their [phone number](https://snipstack.io/phone-number-for-tin
 
 That is a mistake.
 
-A mobile phone number is one of the most identity-linked data points you own. It connects to:
+A mobile [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is one of the most identity-linked data points you own. It connects to:
 
 - **Your carrier account**, which is tied to your legal name and billing address
 - **Every two-factor authentication setup** you have ever done — banking, social media, email

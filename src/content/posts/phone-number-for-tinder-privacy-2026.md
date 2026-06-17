@@ -52,7 +52,7 @@ This isn't a hypothetical edge case. It's a common situation for anyone who date
 
 ## The Two Layers of Tinder [Phone Number Privacy](https://snipstack.io/phone-number-privacy-for-social-media-2026/)
 
-There are actually two separate moments where phone number privacy matters on Tinder, and most guides only address one of them.
+There are actually two separate moments where [phone number privacy](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) matters on Tinder, and most guides only address one of them.
 
 ### Layer 1: Signing Up for Tinder
 

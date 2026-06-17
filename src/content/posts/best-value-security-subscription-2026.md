@@ -38,7 +38,7 @@ The problem is not only the price. It is what you are getting for it.
 
 ### What Legacy Suites Do Not Cover
 
-A traditional antivirus subscription scans your device for malware. That is important, but it is only one layer of a modern threat landscape that has expanded significantly:
+A traditional [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) scans your device for malware. That is important, but it is only one layer of a modern threat landscape that has expanded significantly:
 
 **Public Wi-Fi interception** — When you connect to hotel, airport, or cafe Wi-Fi, your traffic is visible to anyone else on that network. An antivirus does nothing about this. You need an encrypted VPN tunnel.
 

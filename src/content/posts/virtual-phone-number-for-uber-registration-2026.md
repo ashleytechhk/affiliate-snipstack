@@ -40,7 +40,7 @@ For most people, this risk sits at a low-grade background level. For someone who
 
 Dating apps and rideshare apps share a structural problem: both require a real [phone number for](https://snipstack.io/phone-number-for-tinder-privacy-2026/) registration, and both create situations where a stranger may be motivated to find out more about you.
 
-On a dating app, you meet someone, exchange a few messages, and eventually — if things are going well — you consider moving to a real conversation. The moment you share your number, you are no longer just a profile. You are findable. Reverse phone lookup services can attach your number to a full name in seconds. Social platforms linked to a phone number become discoverable. Location data from apps that sync contacts can surface your profile in people you might know.
+On a dating app, you meet someone, exchange a few messages, and eventually — if things are going well — you consider moving to a real conversation. The moment you share your number, you are no longer just a profile. You are findable. Reverse phone lookup services can attach your number to a full name in seconds. Social platforms linked to a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) become discoverable. Location data from apps that sync contacts can surface your profile in people you might know.
 
 When the person on the other end of that number is someone you have matched with online and never met, this is a meaningful exposure. Most matches are fine. Some are not.
 

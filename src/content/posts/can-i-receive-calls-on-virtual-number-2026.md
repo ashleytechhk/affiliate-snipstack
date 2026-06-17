@@ -44,7 +44,7 @@ Here is what can go wrong:
 
 **Caller ID and location inference.** Your number's area code signals roughly where you live. In smaller cities or regions, that narrows it down significantly.
 
-**Carrier records and account links.** Your phone number is often tied to Apple ID, Google accounts, WhatsApp, and banking apps. A person who knows your number can attempt account recovery attacks on those services.
+**Carrier records and account links.** Your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is often tied to Apple ID, Google accounts, WhatsApp, and banking apps. A person who knows your number can attempt account recovery attacks on those services.
 
 **No clean exit.** Once you share your number, you cannot un-share it. Blocking works, but your number is still out there, potentially shared with others or sold to data brokers.
 

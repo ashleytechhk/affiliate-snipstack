@@ -30,7 +30,7 @@ X requires a [phone number](https://snipstack.io/phone-number-privacy-for-social
 
 X frames [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) collection as a security feature. The signup flow positions it as two-factor authentication, account recovery, and identity verification rolled into one. That framing is partly true. It is also incomplete.
 
-Your phone number on X serves several functions that have nothing to do with protecting you:
+Your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) on X serves several functions that have nothing to do with protecting you:
 
 **Advertising targeting.** X's ad system can match your phone number against advertiser databases — a practice called custom audience matching. Brands upload lists of phone numbers; X matches them to accounts; you see targeted ads based on your offline identity. You opted into this the moment you typed your real number into the signup form.
 

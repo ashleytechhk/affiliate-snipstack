@@ -125,7 +125,7 @@ Consider what is actually at stake. A child's device typically contains:
 
 A single successful malware infection can expose all of that. Account recovery takes hours. Identity-related fraud involving a minor's details can take years to fully resolve. The emotional impact on a child who loses a gaming account they have spent two years building, or whose private photos are accessed, is real and lasting.
 
-The cost of a family antivirus subscription is a fraction of any of those outcomes.
+The cost of a family [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) is a fraction of any of those outcomes.
 
 [Get Surfshark Antivirus — protect your family's devices today](/blog/antivirus?sub=antivirus-for-kids-devices-parental-peace-2026__cta)
 

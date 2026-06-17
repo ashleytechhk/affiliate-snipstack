@@ -46,7 +46,7 @@ Online dating safety researchers have consistently documented patterns of harass
 
 ## [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) a Date Has Your Real Number
 
-The risk is not hypothetical and it is not rare. Here is what becomes possible once a match has your real phone number:
+The risk is not hypothetical and it is not rare. Here is what becomes possible once a match has your real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/):
 
 ### Reverse phone lookup
 

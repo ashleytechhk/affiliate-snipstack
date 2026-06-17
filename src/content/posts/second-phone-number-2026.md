@@ -52,7 +52,7 @@ Setup takes under two minutes. Pick a number with your preferred area code, and 
 
 **Best free option for low-volume daters.**
 
-Google Voice gives you a real US phone number at no cost, and it integrates cleanly with Android and works decently on iOS. For someone who wants a casual buffer number — not a daily driver — it gets the job done.
+Google Voice gives you a real US [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) at no cost, and it integrates cleanly with Android and works decently on iOS. For someone who wants a casual buffer number — not a daily driver — it gets the job done.
 
 The catch is Google. If you use Google Voice, Google has access to your call history and message content, and that data feeds into the same advertising ecosystem that powers the rest of their products. For privacy-conscious users, that trade-off is significant. It also requires a US number to sign up, which locks out international daters.
 

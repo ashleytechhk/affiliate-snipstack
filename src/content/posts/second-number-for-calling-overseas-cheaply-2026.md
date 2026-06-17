@@ -98,7 +98,7 @@ Unlike Google Voice (US-only) or Burner (US and Canada only), Alt-Number offers 
 
 ### No Real Number Required at Setup
 
-Alt-Number does not ask you to link your primary phone number to activate the service. The setup process does not create a data trail back to your actual SIM in the way that Google Voice's verification step does. Your alternate number has no technical connection to your real identity.
+Alt-Number does not ask you to link your primary [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to activate the service. The setup process does not create a data trail back to your actual SIM in the way that Google Voice's verification step does. Your alternate number has no technical connection to your real identity.
 
 ### Full Control Over the Number's Lifespan
 

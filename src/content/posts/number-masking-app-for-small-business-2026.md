@@ -54,7 +54,7 @@ When you share your real number with a date — during a match, at the end of a 
 - Banking and financial apps that use SMS two-factor authentication
 - Any social platform where you registered with that number
 
-Blocking someone on a dating app does not block them from your phone number. If they already have it, they still have it. Every text, every call, every SIM-swap attempt becomes possible from that point forward.
+Blocking someone on a dating app does not block them from your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). If they already have it, they still have it. Every text, every call, every SIM-swap attempt becomes possible from that point forward.
 
 ### SIM-Swap: The Risk Most Daters Ignore
 

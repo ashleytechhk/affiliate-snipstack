@@ -149,7 +149,7 @@ Yes. Services like Surfshark Alt Number provide real, local [virtual number](htt
 
 ### Is Truecaller safe to use? Does it share my data?
 
-Truecaller's spam-blocking relies on a crowdsourced database built from users' contact lists. When you install Truecaller and grant contacts permission, your contacts' phone numbers may be uploaded to Truecaller's servers to populate their database. This is a documented trade-off worth being aware of before installing.
+Truecaller's spam-blocking relies on a crowdsourced database built from users' contact lists. When you install Truecaller and grant contacts permission, your contacts' [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s may be uploaded to Truecaller's servers to populate their database. This is a documented trade-off worth being aware of before installing.
 
 ### How [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alternative Number work?
 

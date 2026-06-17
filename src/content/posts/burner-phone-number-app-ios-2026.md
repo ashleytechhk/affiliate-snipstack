@@ -198,7 +198,7 @@ A [burner number](https://snipstack.io/burner-number-for-contractor-work-2026/) 
 
 **Is it legal to use a burner [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)?**
 
-Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) privacy is legal. The only issues arise if you use it for fraud, harassment, or impersonation — which applies to any phone number, not specifically burner ones. Using a separate number for dating or marketplace listings is straightforwardly legal.
+Yes. Using a secondary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) privacy is legal. The only issues arise if you use it for fraud, harassment, or impersonation — which applies to any [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), not specifically burner ones. Using a separate number for dating or marketplace listings is straightforwardly legal.
 
 **Can I keep my [burner number](https://snipstack.io/burner-number-for-online-classified-ads-2026/) long-term, or does it expire?**
 

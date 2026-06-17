@@ -99,7 +99,7 @@ For people who need a one-off number for a specific task (a Craigslist listing, 
 
 **Quick, app-only [burner number](https://snipstack.io/burner-number-free-2026/)s with auto-destruction.**
 
-Burner is the app that popularized the concept of a disposable phone number, and it's still one of the better options for US users who want fast, throwaway numbers. The name says it all: you get a number, use it, and burn it — the number disappears along with all associated messages and call history. Privacy by design.
+Burner is the app that popularized the concept of a disposable [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), and it's still one of the better options for US users who want fast, throwaway numbers. The name says it all: you get a number, use it, and burn it — the number disappears along with all associated messages and call history. Privacy by design.
 
 The auto-destruction feature is genuinely useful if you're dating online and want to give out a number that you can cut off cleanly without awkward explanations. You don't block the person — the number just stops existing. That said, Burner is US-only and VoIP-based, which limits its utility for SMS verification on major platforms. It's also more expensive than Hushed for equivalent usage.
 

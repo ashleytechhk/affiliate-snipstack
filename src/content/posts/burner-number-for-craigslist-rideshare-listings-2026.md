@@ -28,7 +28,7 @@ Using a [burner number](https://snipstack.io/second-phone-number-2026/) for Crai
 
 Most privacy advice focuses on dating apps themselves. But for a significant number of online daters, the exposure happens one step upstream — in the classifieds and gig platforms where real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s are essentially required.
 
-When you post a Craigslist listing to sell a couch, find a roommate, or offer a freelance service, your phone number is the contact point. Craigslist does provide an email relay that masks your address, but the moment a serious buyer or tenant wants to talk, the number exchange happens. The same is true for rideshare drivers — passengers see a masked contact number during the ride, but the ratings, reviews, and associated contact history create a trail that is not always as anonymous as people assume.
+When you post a Craigslist listing to sell a couch, find a roommate, or offer a freelance service, your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is the contact point. Craigslist does provide an email relay that masks your address, but the moment a serious buyer or tenant wants to talk, the number exchange happens. The same is true for rideshare drivers — passengers see a masked contact number during the ride, but the ratings, reviews, and associated contact history create a trail that is not always as anonymous as people assume.
 
 Here is why this matters specifically for online daters:
 

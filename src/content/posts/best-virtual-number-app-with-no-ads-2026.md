@@ -44,7 +44,7 @@ When you use a dating app, you're generating a specific type of behavioural data
 
 ### Your Number Is a Reverse-Lookup Key
 
-This is the core risk that makes [phone number privacy](https://snipstack.io/phone-number-privacy-for-social-media-2026/) non-negotiable for anyone active on dating apps. Unlike an email address, a phone number connects to a carrier record that links to your real name. People-search sites — Spokeo, WhitePages, BeenVerified — aggregate this data and make it searchable for free or near-free.
+This is the core risk that makes [phone number privacy](https://snipstack.io/phone-number-privacy-for-social-media-2026/) non-negotiable for anyone active on dating apps. Unlike an email address, a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) connects to a carrier record that links to your real name. People-search sites — Spokeo, WhitePages, BeenVerified — aggregate this data and make it searchable for free or near-free.
 
 Hand your real number to a match you met on Bumble and they have a direct path to your full name, general location, and often your social media profiles. Hand your [virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/) from a free, ad-supported app and you've given yourself a partial layer — but that [virtual number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/) still appears in call logs and possibly ad-targeting databases connected back to your account profile.
 

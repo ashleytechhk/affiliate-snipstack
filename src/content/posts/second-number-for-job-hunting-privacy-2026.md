@@ -28,7 +28,7 @@ Handing your real [phone number](https://snipstack.io/phone-number-alias-for-wor
 
 Dating apps ask for your [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) "account security." That framing implies the number stays between you and the app. It rarely does.
 
-Most major dating platforms have advertising relationships with third-party data vendors. When you sign up, your number becomes a data point that travels through that ecosystem. Ad-tech networks use phone numbers as persistent identifiers — a practice called phone number hashing — that lets advertisers and data brokers track you across platforms even when you use different usernames or email addresses.
+Most major dating platforms have advertising relationships with third-party data vendors. When you sign up, your number becomes a data point that travels through that ecosystem. Ad-tech networks use [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s as persistent identifiers — a practice called phone number hashing — that lets advertisers and data brokers track you across platforms even when you use different usernames or email addresses.
 
 The downstream consequences are predictable: your number ends up on people-search sites like Spokeo, WhitePages, or BeenVerified within weeks of a new signup. These sites openly sell reverse-phone lookups. Anyone — a match who turned hostile, an obsessive ex, someone you unmatched — can pay a few dollars and go from your phone number to your full name, city, and in many cases your home address or workplace.
 

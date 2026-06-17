@@ -30,7 +30,7 @@ Most people treat Facebook Marketplace and their dating life as separate. They'r
 
 When you post a listing, Marketplace attaches your Facebook profile — including your name, profile photo, and mutual friends — to every buyer inquiry. Many sellers also share a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) directly in the listing description to make communication easier. That's where the problem compounds.
 
-Dating app users frequently experience what researchers call "cross-platform identification": someone you matched with (or unmatched with) finds your real identity by searching your phone number across platforms. Your phone number is the thread that connects everything. Your Marketplace listings reveal your neighborhood. Your listing history reveals your schedule. Your Facebook profile reveals your face, your friends, and sometimes your employer.
+Dating app users frequently experience what researchers call "cross-platform identification": someone you matched with (or unmatched with) finds your real identity by searching your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) across platforms. Your phone number is the thread that connects everything. Your Marketplace listings reveal your neighborhood. Your listing history reveals your schedule. Your Facebook profile reveals your face, your friends, and sometimes your employer.
 
 For women especially, the risk is acute. A 2024 report by the Cyber Civil Rights Initiative found that 78% of online harassment victims who were physically tracked were located through contact information shared on e-commerce or marketplace platforms — not dating apps directly.
 

@@ -10,7 +10,7 @@ In 2023, a woman in Texas matched with someone on Hinge. She never gave him her 
 
 One number. One person who decided not to stop. A trail that led straight to her front door.
 
-This is not an edge case. Researchers at NortonLifeLock found that 1 in 4 dating app users has experienced some form of stalking or unwanted contact originating from their online dating activity. The common denominator in the most severe cases is almost always the same: a real phone number that connected a dating profile to a findable real-world identity.
+This is not an edge case. Researchers at NortonLifeLock found that 1 in 4 dating app users has experienced some form of stalking or unwanted contact originating from their online dating activity. The common denominator in the most severe cases is almost always the same: a real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) that connected a dating profile to a findable real-world identity.
 
 ![Why a second number for social media privacy is critical for online daters in 2026](/og/second-number-for-social-media-privacy-2026.png)
 

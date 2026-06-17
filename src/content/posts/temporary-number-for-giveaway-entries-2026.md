@@ -34,7 +34,7 @@ Quite a lot, as it turns out.
 
 Most giveaway organizers — particularly brand-run promotions on social media — are not running their own database. They use third-party contest platforms: Gleam, Woobox, Rafflecopter, Vyper. These platforms aggregate entries across thousands of campaigns run by different brands. Your entry does not stay with the brand that ran the giveaway. It sits in a shared platform database, often with terms of service that allow the platform to use your contact details for its own marketing purposes or share them with partners.
 
-This is legal. It is disclosed in terms that essentially no one reads. And it is the mechanism by which a single giveaway entry can result in your phone number appearing in six different marketing lists within a week.
+This is legal. It is disclosed in terms that essentially no one reads. And it is the mechanism by which a single giveaway entry can result in your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) appearing in six different marketing lists within a week.
 
 **Data brokers are downstream of every one of these platforms.** Companies like Spokeo, BeenVerified, and Whitepages continuously purchase data from marketing platforms and aggregators. Once your number hits one of these databases, it is matched against public records, social profiles, and other purchased datasets to build a comprehensive profile: your name, your address, your age range, your relatives, and sometimes your employer.
 

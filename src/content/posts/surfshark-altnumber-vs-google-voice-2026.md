@@ -60,7 +60,7 @@ Google Voice has existed since 2009 and remains one of the most widely used free
 
 **Spam filtering eats your messages.** Google Voice's automated spam detection is aggressive. Messages from numbers you have not interacted with before — which includes most new dating matches who text you for the first time — are frequently filtered. You may not realise you missed a message until the conversation has already gone cold.
 
-**US-only, full stop.** Google Voice personal accounts are not available outside the United States. You need a US phone number to complete setup. If you are anywhere else, this tool is simply unavailable.
+**US-only, full stop.** Google Voice personal accounts are not available outside the United States. You need a US [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to complete setup. If you are anywhere else, this tool is simply unavailable.
 
 ---
 

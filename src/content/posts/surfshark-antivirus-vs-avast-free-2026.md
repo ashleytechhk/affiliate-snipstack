@@ -140,7 +140,7 @@ Avast Free still detects and blocks malware effectively — its core scanning en
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Antivirus cost?
 
-Surfshark Antivirus is typically available as part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) bundle. Introductory pricing is usually in the range of $3–4 per month when billed annually. Renewal pricing may differ — always check the current rate before purchasing. Even at renewal rates, it compares favorably against standalone antivirus subscriptions from large brands.
+Surfshark Antivirus is typically available as part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) bundle. Introductory pricing is usually in the range of $3–4 per month when billed annually. Renewal pricing may differ — always check the current rate before purchasing. Even at renewal rates, it compares favorably against standalone [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/)s from large brands.
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus work on Windows and Mac?
 

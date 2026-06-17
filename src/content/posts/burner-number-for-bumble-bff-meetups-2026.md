@@ -42,7 +42,7 @@ This matters because Bumble BFF connections can turn uncomfortable just as quick
 
 The risk isn't just harassment from the person you gave it to. Your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is increasingly a skeleton key to your digital life.
 
-**Reverse lookup.** Free and paid people-search sites (Whitepages, Spokeo, BeenVerified) can cross-reference a phone number against public records, previous addresses, associated names, and relatives. Handing someone your mobile number can, in a few clicks, give them your full name, approximate address, and household members — information you never intended to share.
+**Reverse lookup.** Free and paid people-search sites (Whitepages, Spokeo, BeenVerified) can cross-reference a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) against public records, previous addresses, associated names, and relatives. Handing someone your mobile number can, in a few clicks, give them your full name, approximate address, and household members — information you never intended to share.
 
 **SIM swapping.** A bad actor with enough personal information can contact your carrier, claim to be you, and transfer your number to a new SIM. Once they control your number, they can reset passwords on accounts that use SMS two-factor authentication. This is not theoretical — the FBI issued a warning about SIM swap fraud in 2022 highlighting thousands of reported cases.
 

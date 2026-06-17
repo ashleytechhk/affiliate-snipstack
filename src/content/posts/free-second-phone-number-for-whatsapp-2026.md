@@ -111,7 +111,7 @@ Alt-Number uses real carrier-backed numbers. WhatsApp treats them exactly like a
 
 ## Troubleshooting
 
-### WhatsApp says "This phone number is not allowed"
+### WhatsApp says "This [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is not allowed"
 
 This usually means the number was previously associated with a banned account. In Alt-Number, request a different number and try again. The app makes swapping numbers straightforward.
 

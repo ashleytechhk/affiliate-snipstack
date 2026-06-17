@@ -30,7 +30,7 @@ Most Etsy sellers understand their shop is public. That is the product's design:
 
 Your Etsy shop profile includes your seller name, your location at the city or region level, your product photos, your customer reviews, your response rate, and often a shop bio that further narrows who you are. Search engines index all of it. Data aggregators scrape it. The result is a detailed, publicly accessible identity document attached to your name — and to your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/).
 
-When you register an Etsy account with your real mobile number, that number becomes the thread connecting your shop to every other account, directory, and database that uses the same number. Reverse-lookup services like Spokeo and BeenVerified cross-reference phone numbers across platforms continuously. Enter a number and they return the name, linked social profiles, address history, and employer attached to it across dozens of platforms.
+When you register an Etsy account with your real mobile number, that number becomes the thread connecting your shop to every other account, directory, and database that uses the same number. Reverse-lookup services like Spokeo and BeenVerified cross-reference [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s across platforms continuously. Enter a number and they return the name, linked social profiles, address history, and employer attached to it across dozens of platforms.
 
 You do not have to list your number in your shop description for this exposure to exist. The number in your account record is enough.
 

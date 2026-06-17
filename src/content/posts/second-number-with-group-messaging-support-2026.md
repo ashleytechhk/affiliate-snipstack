@@ -36,7 +36,7 @@ Your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) is m
 4. Blocking helps, but they can call from new numbers or message on WhatsApp.
 5. If they run a reverse lookup, they may find your home neighborhood or employer.
 
-This is not hypothetical. Cyberstalking complaints related to online dating have risen sharply in recent years, and the pattern almost always starts with a phone number exchange that felt harmless at the time.
+This is not hypothetical. Cyberstalking complaints related to online dating have risen sharply in recent years, and the pattern almost always starts with a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) exchange that felt harmless at the time.
 
 ---
 

@@ -36,7 +36,7 @@ Then the lead goes "cold" in the contractor's system. At that point, many lead m
 
 ### How Many Buyers Get Your Number?
 
-Studies of home improvement lead platforms have found that a single quote request can result in your phone number being shared with 10 to 15 separate entities within 48 hours of submission — including the original contractors, their affiliated vendors, the lead platform itself, and downstream broker networks. This is not a privacy breach in the traditional sense. It's the business model you consented to in the fine print.
+Studies of home improvement lead platforms have found that a single quote request can result in your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) being shared with 10 to 15 separate entities within 48 hours of submission — including the original contractors, their affiliated vendors, the lead platform itself, and downstream broker networks. This is not a privacy breach in the traditional sense. It's the business model you consented to in the fine print.
 
 The volume of calls that follows is not random. It's the predictable output of a system designed to extract maximum value from your contact information.
 

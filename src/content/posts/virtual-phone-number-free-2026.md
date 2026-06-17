@@ -57,7 +57,7 @@ The catch for online daters: Google Voice numbers are increasingly flagged by da
 
 **Free US number, ad-supported, decent for light use.**
 
-TextNow gives you a free US phone number with unlimited texts and calls over WiFi. The app is available on iOS and Android, setup is instant, and there's no credit card required. For someone who just wants to hand out a number for initial contact and switch to another platform once trust is established, TextNow covers the basics.
+TextNow gives you a free US [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) with unlimited texts and calls over WiFi. The app is available on iOS and Android, setup is instant, and there's no credit card required. For someone who just wants to hand out a number for initial contact and switch to another platform once trust is established, TextNow covers the basics.
 
 The downsides accumulate quickly for active users. The app is ad-heavy on the free tier, which gets annoying fast. The number gets recycled if you don't use the app regularly — so if you take a break from dating for a month and come back, your "private" number may now belong to someone else. SMS delivery can also be slow, which matters when dating apps send time-sensitive verification codes.
 

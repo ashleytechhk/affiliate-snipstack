@@ -61,7 +61,7 @@ What it is not: a number that makes you invisible or untraceable by law enforcem
 Online daters are a specific, higher-risk subset of OfferUp users. Here's why.
 
 **1. Dating apps normalize sharing your number early.**
-Matches frequently ask to "move to texts" within days — it feels natural, like progression. But your phone number is a master key. Anyone holding it can run a reverse lookup and find your full name, address history, and linked social profiles in under 60 seconds using free tools like Whitepages or BeenVerified.
+Matches frequently ask to "move to texts" within days — it feels natural, like progression. But your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is a master key. Anyone holding it can run a reverse lookup and find your full name, address history, and linked social profiles in under 60 seconds using free tools like Whitepages or BeenVerified.
 
 **2. Rejection triggers disproportionate responses in some people.**
 Dating involves rejection. Most people handle it without incident. A small percentage do not. When someone you unmatched, ghosted, or declined can find your active OfferUp listings and your general location from the delivery area you listed, the gap between "uncomfortable situation" and "physical safety risk" closes fast.

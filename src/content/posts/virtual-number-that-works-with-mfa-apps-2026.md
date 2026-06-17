@@ -30,7 +30,7 @@ Most online dating advice focuses on obvious threats: catfishing, financial scam
 
 The moment you share your real mobile number, you give someone the ability to:
 
-**Reverse-lookup your address.** People-finder sites like BeenVerified, Spokeo, and Whitepages index phone numbers alongside home addresses. A motivated person can pay a few dollars and get your street address within minutes of receiving your number.
+**Reverse-lookup your address.** People-finder sites like BeenVerified, Spokeo, and Whitepages index [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s alongside home addresses. A motivated person can pay a few dollars and get your street address within minutes of receiving your number.
 
 **Link your number to your other accounts.** Most social platforms — Instagram, Facebook, WhatsApp, LinkedIn — let users search by phone number unless you manually disable it. Many people never do. Your dating match types your number into the search bar and suddenly sees your full name, employer, and every photo you have ever posted publicly.
 

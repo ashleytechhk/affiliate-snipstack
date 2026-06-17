@@ -28,7 +28,7 @@ Surfshark Alt-Number is the fastest and most practical way to get an internation
 
 ## Why Your Real Number Is the Biggest Risk You're Taking on Dating Apps
 
-Most people think about dating safety in terms of who they meet in person. The phone number risk is less visible but just as real.
+Most people think about dating safety in terms of who they meet in person. The [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) risk is less visible but just as real.
 
 Here's what actually happens when you share your number with a Tinder or Hinge match:
 
