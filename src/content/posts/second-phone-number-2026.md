@@ -180,7 +180,7 @@ Yes, in virtually every jurisdiction. Using a second [phone number for](https://
 
 **Will the person I'm talking to know it's not my real number?**
 
-No. A proper second phone number — as opposed to a short code or a text app username — appears as a regular phone number to the recipient. They will see the number, not the name of the app. They have no way to distinguish it from a regular phone number unless you tell them.
+No. A proper [second phone number](https://snipstack.io/second-phone-number-for-medical-office-after-hours-2026/) — as opposed to a short code or a text app username — appears as a regular phone number to the recipient. They will see the number, not the name of the app. They have no way to distinguish it from a regular phone number unless you tell them.
 
 **[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) a second phone number cost?**
 

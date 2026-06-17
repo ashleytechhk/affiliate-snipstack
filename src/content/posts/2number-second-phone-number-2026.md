@@ -120,7 +120,7 @@ Now use your Alt-Number as your contact number on dating apps. How you deploy it
 
 ![Alt-Number inbox view inside Surfshark app showing incoming messages with call and text history](/og/2number-second-phone-number-2026-inline-2.png)
 
-Texts and calls to your Alt-Number appear inside the Surfshark app. You can reply to texts and take calls directly within the app. The interface is straightforward — think of it as a second phone inbox inside your existing phone.
+Texts and calls to your Alt-Number appear inside the Surfshark app. You can reply to texts and take calls directly within the app. The interface is straightforward — think of it as a [second phone](https://snipstack.io/second-phone-number-for-medical-office-after-hours-2026/) inbox inside your existing phone.
 
 You don't need to carry the app open constantly. Notifications work the same as any messaging app — you'll get a push notification when a message arrives.
 

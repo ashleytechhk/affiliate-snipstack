@@ -123,7 +123,7 @@ Enabling IP Rotator takes about thirty seconds once your account is set up:
 
 ### What [is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Nexus?
 
-Nexus is Surfshark's proprietary SDN (Software-Defined Networking) technology that connects your device to Surfshark's entire server network rather than a single server. This architecture enables features like IP Rotator (automatic IP cycling), Dynamic MultiHop (separate entry and exit locations), and improved session stability during server-side network changes. It is Surfshark-exclusive — no other major consumer VPN operates this type of network-layer architecture.
+Nexus [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s proprietary SDN (Software-Defined Networking) technology that connects your device to Surfshark's entire server network rather than a single server. This architecture enables features like IP Rotator (automatic IP cycling), Dynamic MultiHop (separate entry and exit locations), and improved session stability during server-side network changes. It is Surfshark-exclusive — no other major consumer VPN operates this type of network-layer architecture.
 
 [Get Surfshark with Nexus IP rotation](/blog/vpn?sub=vpn-with-nexus-ip-rotation-feature-2026__faq)
 
