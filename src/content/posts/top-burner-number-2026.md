@@ -158,7 +158,7 @@ Most [burner number](https://snipstack.io/burner-number-for-bumble-and-hinge-mat
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my messages if I cancel the number?
 
-Once you cancel a burner number, incoming calls and texts to that number go nowhere — the person on the other end gets a disconnected message. Your conversation history inside the app may or may not persist depending on the service. If you need to keep records of a conversation before canceling, screenshot or export them first.
+Once you cancel a [burner number](https://snipstack.io/burner-number-for-nextdoor-listings-2026/), incoming calls and texts to that number go nowhere — the person on the other end gets a disconnected message. Your conversation history inside the app may or may not persist depending on the service. If you need to keep records of a conversation before canceling, screenshot or export them first.
 
 ### Is Alt-Number worth it if I already have a VPN?
 

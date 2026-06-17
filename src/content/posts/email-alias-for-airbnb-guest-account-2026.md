@@ -43,7 +43,7 @@ Surfshark Alt ID is the best [email alias for](https://snipstack.io/email-alias-
 
 ## Why You Need an [Email Alias for](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/) Your Airbnb Guest Account
 
-Airbnb's privacy policy allows them to share data with "affiliates, business partners, and third-party service providers." That clause is standard for booking platforms and it is the reason a single hotel or rental booking can result in emails from travel insurance companies, car rental aggregators, and local experience operators you have never interacted with.
+Airbnb's privacy policy allows them to share data with "affiliates, business partners, and third-party service providers." That clause is standard for booking platforms and it is the reason a single hotel or rental booking can result in emails from [travel insurance](https://snipstack.io/travel-insurance-scam-warning-signs-2026/) companies, car rental aggregators, and local experience operators you have never interacted with.
 
 An [email alias](https://snipstack.io/email-alias-for-product-warranty-registration-2026/) intercepts that data flow at the source. Airbnb stores the alias address, not your real one. When you are done with the account — or when the spam volume crosses your tolerance — you delete the alias and every company holding it loses the ability to reach you.
 
@@ -68,7 +68,7 @@ The combination matters. If you use your real name with a [fake email](https://s
 
 The process takes under three minutes:
 
-1. Open Surfshark Alt ID from the Surfshark app or browser extension
+1. Open Surfshark Alt ID from the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)
 2. Generate a new [email alias](https://snipstack.io/email-alias-for-crypto-exchange-registration-2026/) and copy the associated fake name
 3. Navigate to Airbnb's sign-up page and enter the alias email and generated name
 4. Check the forwarding inbox (your real email) for the Airbnb verification code

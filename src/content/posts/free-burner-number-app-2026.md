@@ -134,7 +134,7 @@ For Alt-Number, you can also set custom voicemail and notification preferences. 
 
 This is the whole point.
 
-Unlike your real number, a burner number is replaceable. When a match stops being someone you want in your life:
+Unlike your real number, a [burner number](https://snipstack.io/burner-number-for-nextdoor-listings-2026/) is replaceable. When a match stops being someone you want in your life:
 
 1. **Block** — prevents that contact from reaching the number, but keeps the number active for other matches
 2. **Mute** — silences notifications from the number without deleting history

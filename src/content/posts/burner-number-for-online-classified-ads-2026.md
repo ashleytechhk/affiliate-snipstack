@@ -154,7 +154,7 @@ Yes. Using a [virtual phone number](https://snipstack.io/virtual-phone-number-20
 
 No. A Surfshark Alt-Number is a standard-format US mobile number. There is nothing about it that signals "virtual" or "temporary" to someone calling or texting it. It rings, receives texts, and goes to voicemail exactly like a regular mobile number. The only people who become suspicious when you use a contact number you control are people whose interest goes beyond the transaction.
 
-**Can someone trace a burner number back to my real phone number?**
+**Can someone trace a [burner number](https://snipstack.io/burner-number-for-nextdoor-listings-2026/) back to my real phone number?**
 
 Surfshark Alt-Number does not expose your personal phone number to anyone who calls or texts it. The number is registered through Surfshark's service infrastructure, not your personal identity. [See exactly how Alt-Number handles your data here.](/blog/altnumber?sub=burner-number-for-online-classified-ads-2026__faq)
 

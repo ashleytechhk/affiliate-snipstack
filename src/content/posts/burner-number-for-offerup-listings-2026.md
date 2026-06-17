@@ -173,7 +173,7 @@ You can, but it's not recommended. Using [separate number](https://snipstack.io/
 
 OfferUp was not designed with your dating life in mind. But in 2026, those two worlds overlap constantly — same people, same phone numbers, same risks. Sharing your real number with strangers on OfferUp is handing them a key that opens more doors than you intend.
 
-A burner number costs less than a streaming subscription, takes five minutes to set up, and lets you cut off any contact the moment it becomes a problem. That's not paranoia. That's just sensible.
+A [burner number](https://snipstack.io/burner-number-for-nextdoor-listings-2026/) costs less than a streaming subscription, takes five minutes to set up, and lets you cut off any contact the moment it becomes a problem. That's not paranoia. That's just sensible.
 
 **[Get a burner number for OfferUp listings with Surfshark Alt-Number →](/blog/altnumber?sub=burner-number-for-offerup-listings-2026__cta)**
 

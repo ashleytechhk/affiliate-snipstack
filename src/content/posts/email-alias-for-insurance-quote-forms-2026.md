@@ -58,14 +58,14 @@ Most alias guides lump all use cases together. Insurance is different for three 
 
 **[Get Alt ID with Surfshark One](/blog/altid?sub=email-alias-for-insurance-quote-forms-2026__mid)**
 
-Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s identity-shielding tool, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) subscription alongside the VPN, Antivirus, and data-breach alerts.
+Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s identity-shielding tool, bundled into the [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) subscription alongside the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and data-breach alerts.
 
 **What it does well:**
 
 - Generates a forwarding alias that delivers real email to your inbox — you do not miss policy documents or agent replies
 - Creates a paired fake name and date of birth so your quote form submission is internally consistent (same alias email, same alt name, same alt DOB)
 - Lets you disable the alias instantly from the dashboard when you want to [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) communications
-- Works across desktop and mobile — no browser extension required
+- Works across desktop and mobile — no [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) required
 - No limit on how many aliases you generate
 
 **What to watch for:**
@@ -167,7 +167,7 @@ No. [Email alias](https://snipstack.io/email-alias-for-grubhub-and-food-delivery
 
 Insurance quote forms are among the highest-risk form types for inbox pollution. The data you enter is actively traded, legally, between brokers and comparison platforms. A permanent forwarding alias with a kill switch is the cleanest defence.
 
-Surfshark Alt ID gives you the most complete solution: a persistent alias, a matching fake identity to pair with it, and instant kill-switch control — all manageable from one dashboard. If you are already a Surfshark user, you likely have access to it today. If not, the Surfshark One bundle is worth evaluating on the combined value of VPN, Alt ID, and breach monitoring together.
+Surfshark Alt ID gives you the most complete solution: a persistent alias, a matching fake identity to pair with it, and instant kill-switch control — all manageable from one dashboard. If you are already a Surfshark user, you likely have access to it today. If not, the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundle is worth evaluating on the combined value of VPN, Alt ID, and breach monitoring together.
 
 SimpleLogin is a strong free alternative if you want open-source forwarding with no subscription. DuckDuckGo Email Protection is the zero-friction option if tracker stripping matters more than per-site attribution.
 
