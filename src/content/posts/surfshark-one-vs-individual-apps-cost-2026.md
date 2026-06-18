@@ -210,7 +210,7 @@ If you are still on Norton or McAfee, the comparison is even more direct. You ar
     },
     {
       "@type": "Question",
-      "name": "How many devices does Surfshark One cover?",
+      "name": "How many devices does [Surfshark One](https://snipstack.io/surfshark-one-bundle-christmas-deal-2026/) cover?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Unlimited devices on one subscription. Windows, Mac, iOS, Android, Linux, Android TV, and Fire TV are all supported. Norton 360 Deluxe covers five devices; McAfee Total Protection covers up to ten depending on the plan. Surfshark One has no ceiling."

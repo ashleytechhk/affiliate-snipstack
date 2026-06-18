@@ -264,7 +264,7 @@ The pitch is not that [Surfshark One](https://snipstack.io/surfshark-one-annual-
       "name": "Is there a money-back guarantee?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Surfshark offers a refund period on paid plans — check the current terms on the pricing page, as these are subject to change. There is no free tier for Surfshark One."
+        "text": "Surfshark offers a refund period on paid plans — check the current terms on the pricing page, as these are subject to change. There is no free tier for [Surfshark One](https://snipstack.io/surfshark-one-bundle-christmas-deal-2026/)."
       }
     },
     {
