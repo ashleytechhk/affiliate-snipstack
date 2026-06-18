@@ -182,7 +182,7 @@ Yes, in virtually every jurisdiction. Using a second [phone number for](https://
 
 No. A proper [second phone number](https://snipstack.io/second-phone-number-for-medical-office-after-hours-2026/) — as opposed to a short code or a text app username — appears as a regular phone number to the recipient. They will see the number, not the name of the app. They have no way to distinguish it from a regular phone number unless you tell them.
 
-**[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) a second phone number cost?**
+**[How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) a [second phone number](https://snipstack.io/second-phone-number-app-with-call-forwarding-2026/) cost?**
 
 Prices range from free (Google Voice, TextNow with ads) to around $3–8 per month for paid services. Hushed offers single-number plans starting under $2 per month when billed annually. Surfshark Alt-Number is priced in line with the rest of Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which makes it reasonable if you already use or plan to use their other tools.
 

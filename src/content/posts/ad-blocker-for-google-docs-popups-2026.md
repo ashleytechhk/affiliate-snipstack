@@ -10,7 +10,7 @@ tags: ["ad blocker", "privacy", "review"]
 
 You are editing a shared doc on your phone, mid-thought, and a popup hijacks the screen. It is not a Google popup. It is not from the document owner. It appeared because the browser or another app slipped an overlay, notification prompt, or redirect in between you and your work. If you have ever hunted for an **[ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/) for Google Docs popups**, you already know the frustration. This guide explains exactly what is happening, whether a traditional [ad blocker](https://snipstack.io/ad-blocker-for-older-adults-simple-setup-2026/) can fix it, and what actually works on mobile in 2026.
 
-> **Quick shortcut:** If you just want the fastest fix and no long read, [try Surfshark CleanWeb now](/blog/adblock?sub=ad-blocker-for-google-docs-popups-2026__above-fold) — it runs at the network level on iOS and Android without browser extensions.
+> **Quick shortcut:** If you just want the fastest fix and no long read, [try Surfshark CleanWeb now](/blog/adblock?sub=ad-blocker-for-google-docs-popups-2026__above-fold) — it runs at the network level on iOS and Android without [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 
 ---
 
@@ -124,13 +124,13 @@ This distinction matters. If you are seeing a banner asking you to accept cookie
 
 ## Is CleanWeb Worth It If You Only Want Popup Blocking?
 
-CleanWeb is bundled with every Surfshark subscription, so you are not paying a standalone fee for ad blocking. A Surfshark subscription also gives you:
+CleanWeb [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with every Surfshark subscription, so you are not paying a standalone fee for ad blocking. A Surfshark subscription also gives you:
 
 - VPN privacy across all your devices simultaneously (no device cap)
 - Protection on public Wi-Fi networks (airports, cafes, hotels)
 - Access to content libraries in Japan, Brazil, the UK, Argentina, Turkey, Canada, and dozens of other regions
 - Surfshark Alert for data breach monitoring
-- Surfshark Antivirus on supported platforms
+- Surfshark [Antivirus](https://snipstack.io/vs-antivirus-2026/) on supported platforms
 
 If the only thing you need is popup blocking inside Google Docs, the honest answer is: a network-level [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) is the right tool for the job, and CleanWeb is the fastest way to get one on mobile. The VPN capabilities are an additional benefit, not a requirement you are forced to use.
 
