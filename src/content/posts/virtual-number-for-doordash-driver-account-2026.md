@@ -160,7 +160,7 @@ No. DoorDash doesn't cross-check your phone area code against your driver locati
 Yes. Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) for an account is legal. It's the same thing businesses do when they use VOIP lines for customer contact. The number is real and functional — you're just not using your personal carrier number. The only concern would be misrepresenting identity during a background check, which isn't what this is.
 
 **What if I already have an active DoorDash account with my real number? Can I switch?**
-Yes. Go to your Dasher profile and update the phone number. DoorDash will send a verification code to the new number to confirm the change. Get your virtual number set up and verified first, then initiate the switch in your profile settings. Your account history and earnings are not affected by the number change.
+Yes. Go to your Dasher profile and update the phone number. DoorDash will send a verification code to the new number to confirm the change. Get your [virtual number](https://snipstack.io/virtual-number-for-telegram-account-signup-2026/) set up and verified first, then initiate the switch in your profile settings. Your account history and earnings are not affected by the number change.
 
 ---
 

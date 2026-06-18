@@ -43,7 +43,7 @@ On desktop, the most popular [ad blocker](https://snipstack.io/ad-blocker-for-li
 
 On mobile, that model breaks down for two reasons.
 
-**First, the Google Docs app is not a browser.** When you open docs.google.com in the standalone iOS or Android Docs app, it is running inside a native shell with no support for browser extensions. The extension-based ad blocker you rely on in Chrome desktop simply does not exist inside that environment.
+**First, the Google Docs app is not a browser.** When you open docs.google.com in the standalone iOS or Android Docs app, it is running inside a native shell with no support for browser extensions. The extension-based [ad blocker](https://snipstack.io/ad-blocker-for-parental-control-devices-2026/) you rely on in Chrome desktop simply does not exist inside that environment.
 
 **Second, mobile browsers have limited extension support.** Safari on iOS only recently added extension support, and the ecosystem is much thinner than desktop. Firefox for Android supports extensions (including [uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/)), which is worth knowing, but the moment you switch to the native Docs app, coverage disappears again.
 
@@ -55,7 +55,7 @@ On mobile, that model breaks down for two reasons.
 
 ## How Network-Level Ad Blocking Works (And Why It Covers Everything)
 
-A network-level ad blocker operates below the application layer. Instead of hooking into a single browser, it sits between your device and the internet — inspecting DNS queries and connection requests before any app even loads a response.
+A network-level [ad blocker](https://snipstack.io/ad-blocker-for-samsung-internet-browser-2026/) operates below the application layer. Instead of hooking into a single browser, it sits between your device and the internet — inspecting DNS queries and connection requests before any app even loads a response.
 
 Here is the simplified flow:
 
@@ -100,7 +100,7 @@ One important note for Android users: CleanWeb will not block overlays drawn by 
 
 ## What CleanWeb Blocks (and What It Does Not)
 
-Understanding the scope of any ad blocker helps set honest expectations.
+Understanding the scope of any [ad blocker](https://snipstack.io/ad-blocker-vs-privacy-badger-comparison-2026/) helps set honest expectations.
 
 **CleanWeb blocks:**
 - Ad network scripts that trigger popup overlays in browsers
@@ -114,7 +114,7 @@ Understanding the scope of any ad blocker helps set honest expectations.
 - Overlays from apps that have explicit "draw over other apps" permission (handle those in device settings)
 - Cookie consent banners — these are served directly from the website's own domain
 
-This distinction matters. If you are seeing a banner asking you to accept cookies on docs.google.com, that is a first-party element from Google. It is not an ad injection, and no ad blocker can suppress it without potentially breaking the functionality of the page.
+This distinction matters. If you are seeing a banner asking you to accept cookies on docs.google.com, that is a first-party element from Google. It is not an ad injection, and no [ad blocker](https://snipstack.io/ad-blocker-for-edge-browser-windows-11-2026/) can suppress it without potentially breaking the functionality of the page.
 
 ![CleanWeb features comparison on iOS and Android](/og/ad-blocker-for-google-docs-popups-2026-inline-2.png)
 
@@ -132,7 +132,7 @@ CleanWeb is bundled with every Surfshark subscription, so you are not paying a s
 - Surfshark Alert for data breach monitoring
 - Surfshark Antivirus on supported platforms
 
-If the only thing you need is popup blocking inside Google Docs, the honest answer is: a network-level ad blocker is the right tool for the job, and CleanWeb is the fastest way to get one on mobile. The VPN capabilities are an additional benefit, not a requirement you are forced to use.
+If the only thing you need is popup blocking inside Google Docs, the honest answer is: a network-level [ad blocker](https://snipstack.io/ad-blocker-for-nintendo-switch-browser-2026/) is the right tool for the job, and CleanWeb is the fastest way to get one on mobile. The VPN capabilities are an additional benefit, not a requirement you are forced to use.
 
 ---
 

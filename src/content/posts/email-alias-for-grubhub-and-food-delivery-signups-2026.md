@@ -60,7 +60,7 @@ Here is how the main options stack up.
 
 ## Surfshark Alt-ID: The Full Picture
 
-Surfshark Alt-ID sits inside the [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) suite alongside a VPN, antivirus, and a data-breach alert tool called Alert. For users who already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/), Alt-ID costs nothing extra. For everyone else, the pricing is comparable to a standalone alias service once you factor in the other tools included.
+Surfshark Alt-ID sits inside the [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) suite alongside a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and a data-breach alert tool called Alert. For users who already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/), Alt-ID costs nothing extra. For everyone else, the pricing is comparable to a standalone alias service once you factor in the other tools included.
 
 **How it works for food delivery:**
 

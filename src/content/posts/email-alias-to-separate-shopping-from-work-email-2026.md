@@ -77,7 +77,7 @@ When an alias starts forwarding junk you no longer want, you delete it in the da
 
 Unlimited aliases means you can go granular if you want: one alias per major retailer, so when spam arrives you know exactly which store leaked or sold your data.
 
-**Limitations to know:** Alt ID does not currently support custom domains, so you can't build aliases off a domain you own. It also requires a [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) subscription rather than being available as a standalone free product. If you're already paying for a VPN or antivirus bundle, the pricing is competitive — but if you only want alias functionality, factor in the bundled cost.
+**Limitations to know:** Alt ID does not currently support custom domains, so you can't build aliases off a domain you own. It also requires a [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) subscription rather than being available as a standalone free product. If you're already paying for a VPN or [antivirus](https://snipstack.io/vs-antivirus-2026/) bundle, the pricing is competitive — but if you only want alias functionality, factor in the bundled cost.
 
 [Try Alt ID for shopping/work inbox separation](https://snipstack.io/blog/altid?sub=email-alias-to-separate-shopping-from-work-email-2026__mid)
 
