@@ -43,7 +43,7 @@ A typical self-assembled security stack in 2026 looks something like this:
 
 That is before you factor in the mental overhead: five separate renewal dates, five different apps running in your system tray, and five support teams to contact when something breaks.
 
-A mid-tier bundled security suite — covering antivirus, VPN, password manager, ad blocking, and breach alerts — typically runs $60–$100 per year for unlimited devices.
+A mid-tier [bundled security suite](https://snipstack.io/bundled-security-suite-no-separate-app-installs-2026/) — covering antivirus, VPN, password manager, ad blocking, and breach alerts — typically runs $60–$100 per year for unlimited devices.
 
 The math is not subtle.
 

@@ -30,7 +30,7 @@ The term covers any software that defends your personal data and online activity
 
 **Antivirus / malware protection:** The original layer. Scans files and processes for malicious code, stops it before it runs, and removes it if it already has. Every major [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) includes this.
 
-**VPN (Virtual Private Network):** Encrypts your internet connection and masks your IP address from websites, advertisers, and your internet provider. Essential for public Wi-Fi, and increasingly standard in bundled security products.
+**VPN (Virtual Private Network):** Encrypts your internet connection and masks your IP address from websites, advertisers, and your internet provider. Essential for public Wi-Fi, and increasingly standard in [bundled security](https://snipstack.io/bundled-security-suite-no-separate-app-installs-2026/) products.
 
 **Data breach monitoring:** Watches for your email addresses, passwords, credit card numbers, and personal IDs appearing in leaked databases. Notifies you when something surfaces so you can act quickly.
 

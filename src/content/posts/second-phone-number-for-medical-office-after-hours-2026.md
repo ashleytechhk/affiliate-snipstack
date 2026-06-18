@@ -8,13 +8,13 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Second phone number for after-hours calls and dating privacy 2026](/og/second-phone-number-for-medical-office-after-hours-2026.png)
 
-A woman in Toronto matched with someone on Bumble in early 2025. Within a week she had given him her real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). Three weeks later the date went badly. She blocked him everywhere — but he still had her number. The calls came at midnight. Then 2 a.m. Then her workplace got an anonymous tip about her from someone who had done just enough digging from that one phone number to find out where she worked.
+A woman in Toronto matched with someone on Bumble in early 2025. Within a week she had given him her real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). Three weeks later the date went badly. She blocked him everywhere — but he still had her number. The calls came at midnight. Then 2 a.m. Then her workplace got an anonymous tip about her from someone who had done just enough digging from that one [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) to find out where she worked.
 
 Her real number was the thread that unraveled everything.
 
 This is not a rare story. A 2024 survey by the dating safety nonprofit Match Group Impact found that nearly 1 in 3 dating app users reported unwanted contact from a match after things ended — and in the majority of those cases, a real phone number was the attack surface. Once someone has your digits, blocking on the app does nothing. Your number is in their contacts, their voicemail history, and potentially searchable reverse-lookup tools.
 
-A second phone number breaks that link. And in 2026, there is no good reason not to have one.
+A [second phone number](https://snipstack.io/second-phone-number-for-ebay-selling-2026/) breaks that link. And in 2026, there is no good reason not to have one.
 
 ---
 
@@ -51,7 +51,7 @@ This is the friction a second phone number eliminates. When you have a dedicated
 
 ![How a second phone number separates your contexts for privacy and peace of mind](/og/second-phone-number-for-medical-office-after-hours-2026-inline-1.png)
 
-A **second phone number for medical office after hours** calls serves the same purpose as a dating [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/): it keeps a specific channel open without bleeding into the rest of your life. You can have a number that you give to the doctor's office, that you keep on ring even when your main line is silenced, and that is never the number sitting in a stranger's contacts.
+A **second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) medical office after hours** calls serves the same purpose as a dating [burner number](https://snipstack.io/burner-number-for-craigslist-rideshare-listings-2026/): it keeps a specific channel open without bleeding into the rest of your life. You can have a number that you give to the doctor's office, that you keep on ring even when your main line is silenced, and that is never the number sitting in a stranger's contacts.
 
 ---
 
@@ -140,7 +140,7 @@ A [second number](https://snipstack.io/second-number-with-group-messaging-suppor
 
 You do not need to explain it. Just use the [second number](https://snipstack.io/second-number-for-local-community-groups-2026/) as your normal contact number from the start. Share it when they ask for your number — it works for calls and texts exactly like a regular mobile number. The other person has no way to tell it is a [second number](https://snipstack.io/second-number-for-offerup-buyer-messages-2026/) unless you tell them.
 
-**What happens if I cancel my second number while a medical office still has it on file?**
+**What happens if I cancel my [second number](https://snipstack.io/second-number-app-with-voicemail-transcription-2026/) while a medical office still has it on file?**
 
 Callbacks to a cancelled number will not reach you. Before cancelling, update your contact number with any offices or services that have it on file. With Alt-Number, you can also replace a number rather than cancel it — keeping the number active with a new value, so existing entries in your contacts still reach you while the old number is retired.
 
@@ -154,6 +154,6 @@ Yes. Alt-Number provides a real mobile number that handles both inbound and outb
 
 Your real phone number does more damage when it lands in the wrong hands than most people account for. It is the anchor for reverse-lookup searches, the persistent contact method that survives blocking on every app, and in bad situations, the thread that gets pulled until something serious happens.
 
-A second number is not a complicated solution. It is a five-minute setup that separates one context — dating, after-hours medical callbacks, marketplace listings, anything outside your real life — from your actual identity. If things go fine, it costs you nothing except a few dollars a month. If things go wrong, it is the difference between a situation you can close and one that follows you.
+A [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) is not a complicated solution. It is a five-minute setup that separates one context — dating, after-hours medical callbacks, marketplace listings, anything outside your real life — from your actual identity. If things go fine, it costs you nothing except a few dollars a month. If things go wrong, it is the difference between a situation you can close and one that follows you.
 
 [Get Surfshark Alt-Number and set up your second number today](/blog/altnumber?sub=second-phone-number-for-medical-office-after-hours-2026__cta)

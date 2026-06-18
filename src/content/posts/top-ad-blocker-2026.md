@@ -96,7 +96,7 @@ The ceiling is Safari. 1Blocker cannot [block ads in](https://snipstack.io/block
 
 ---
 
-### 7. DNS Filtering Services — Best Lightweight Network-Level Option
+### 7. DNS Filtering Services — [Best Lightweight](https://snipstack.io/best-lightweight-ad-blocker-for-old-laptop-2026/) Network-Level Option
 
 **Why it's on the list:** DNS-level filtering services — including NextDNS, ControlD, and [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) — offer Pi-hole-style network blocking without the hardware requirement. You configure your device or router to use a custom DNS server, and the service filters ad and tracker domains before your connection resolves them.
 

@@ -38,7 +38,7 @@ Open your bank or card statement and search for any of these charges:
 - Norton 360 / LifeLock
 - McAfee Total Protection
 - NordVPN / ExpressVPN / Bitdefender
-- Any ISP-bundled security add-on
+- Any ISP-[bundled security](https://snipstack.io/bundled-security-suite-no-separate-app-installs-2026/) add-on
 
 Write down the annual total. Most people land between $80 and $160 when they add it all up. This number is your baseline — the bundle you choose needs to beat it.
 

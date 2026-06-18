@@ -16,7 +16,7 @@ If your laptop is more than five years old, runs Windows 7, 8, 10, or 11 on agei
 
 ## Quick Verdict
 
-The best lightweight [antivirus for](https://snipstack.io/antivirus-for-windows-arm-snapdragon-laptop-2026/) an older Windows laptop in 2026 is **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)**. It uses very little memory, will not slow down an older machine, and its clean dashboard is designed to be understood at a glance — even if you have never used security software before. It blocks viruses, dangerous websites, and scam alerts in real time, all running quietly in the background while you read emails or video-call your grandchildren. **[Start protecting your laptop today](/blog/antivirus?sub=lightweight-antivirus-for-older-windows-laptop-2026__above-fold)** — plans cost less than a cup of coffee a week.
+The [best lightweight](https://snipstack.io/best-lightweight-ad-blocker-for-old-laptop-2026/) [antivirus for](https://snipstack.io/antivirus-for-windows-arm-snapdragon-laptop-2026/) an older Windows laptop in 2026 is **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/)**. It uses very little memory, will not slow down an older machine, and its clean dashboard is designed to be understood at a glance — even if you have never used security software before. It blocks viruses, dangerous websites, and scam alerts in real time, all running quietly in the background while you read emails or video-call your grandchildren. **[Start protecting your laptop today](/blog/antivirus?sub=lightweight-antivirus-for-older-windows-laptop-2026__above-fold)** — plans cost less than a cup of coffee a week.
 
 ---
 

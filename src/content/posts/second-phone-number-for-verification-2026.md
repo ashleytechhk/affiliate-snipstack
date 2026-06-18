@@ -178,7 +178,7 @@ A [burner number](https://snipstack.io/burner-number-free-2026/) is designed to 
 
 It depends on the number type. Banks use verification providers that check carrier type before sending a code. VoIP numbers — Google Voice, TextNow, most free apps — are rejected by an increasing number of banks in 2026. Carrier-backed numbers (like those from Alt-Number) are not in these blocked ranges and pass bank-level 2FA reliably. If your [second number](https://snipstack.io/second-number-for-work-life-balance-remote-job-2026/) is specifically for banking or financial app verification, start with a carrier-backed service and skip the trial-and-error with VoIP alternatives. [Alt-Number is the recommended option here](/blog/altnumber?sub=second-phone-number-for-verification-2026__faq).
 
-### Can I port my second number if I switch services?
+### Can I port my [second number](https://snipstack.io/second-number-app-with-voicemail-transcription-2026/) if I switch services?
 
 Number portability varies. OpenPhone and Sideline support inbound and outbound number porting on request. Google Voice supports outbound porting (you can take your number out, for a small fee). Surfshark Alt-Number's portability depends on the country and plan — check their current terms. MySudo and Line2 have limited portability. If you plan to keep this number for years and might switch providers, confirm portability terms before committing.
 
