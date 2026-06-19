@@ -173,7 +173,7 @@ WireGuard works natively on Windows, macOS, Linux, iOS, Android, and most modern
 
 ### What VPN speed do I actually need for streaming?
 
-Netflix recommends 25 Mbps for 4K Ultra HD. Standard HD (1080p) needs around 5 Mbps. Amazon Prime Video and Disney+ have similar requirements. On a 100 Mbps home connection, even a VPN that reduces speed by 20% leaves you with 80 Mbps — well above the 4K threshold. Only if your base connection is under 40 Mbps does VPN overhead become a practical concern for 4K.
+Netflix recommends 25 Mbps for 4K Ultra HD. Standard HD (1080p) needs around 5 Mbps. Amazon Prime Video and Disney+ have similar requirements. On a 100 Mbps home connection, even a [VPN that reduces](https://snipstack.io/vpn-that-reduces-ping-for-mobile-gaming-2026/) speed by 20% leaves you with 80 Mbps — well above the 4K threshold. Only if your base connection is under 40 Mbps does VPN overhead become a practical concern for 4K.
 
 ### Why is my WireGuard speed test slower than expected?
 

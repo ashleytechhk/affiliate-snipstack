@@ -151,7 +151,7 @@ If you are reading this and you do not currently have antivirus protection on yo
 
 1. **Do not wait.** Every day without protection is a day you are exposed. Ransomware attacks happen without warning.
 
-2. **Install antivirus software.** [Surfshark Antivirus](/blog/antivirus?sub=ransomware-protection-for-small-business-2026__cta) is a straightforward choice that requires no technical expertise to set up.
+2. **Install [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/).** [Surfshark Antivirus](/blog/antivirus?sub=ransomware-protection-for-small-business-2026__cta) is a straightforward choice that requires no technical expertise to set up.
 
 3. **Back up your important files.** An external hard drive or a cloud backup service gives you a copy of your files that ransomware cannot reach. Even a basic external drive from a local electronics store is better than no backup.
 

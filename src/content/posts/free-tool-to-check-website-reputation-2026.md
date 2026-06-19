@@ -12,7 +12,7 @@ You receive an email. It says your bank account needs verification. Or there is 
 
 That moment of doubt is worth paying attention to. [Fake website](https://snipstack.io/fake-website-detector-tool-2026/)s designed to steal passwords and personal details have never been more convincing than they are in 2026. But the good news is that checking a website's reputation before you visit it takes under a minute, costs nothing, and does not require any technical background.
 
-This guide explains what website reputation means, why it matters, and [how to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) a free tool to check it — with a recommendation on the best option for everyday email users.
+This guide explains what website reputation means, why it matters, and [how to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) a free [tool to check](https://snipstack.io/tool-to-check-if-website-is-real-or-fake-2026/) it — with a recommendation on the best option for everyday email users.
 
 > **Want to check a website right now?** [Try Surfshark's free Email Scam Checker here](/blog/scamcheck?sub=free-tool-to-check-website-reputation-2026__above-fold) — then read on to understand what it is checking and why it works.
 

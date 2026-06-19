@@ -140,7 +140,7 @@ For everyday protection — which covers the vast majority of threats real peopl
 Yes. Macs are harder to infect than they used to be, but they are not immune. Phishing websites work on any browser, on any computer. Scam software targeting Mac users has increased significantly in recent years. A Mac running without antivirus is not fully protected.
 
 **Will the [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my computer?**
-Modern antivirus software is designed to run quietly in the background without affecting your computer's speed. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) in particular is known for a light system footprint. If you schedule scans for overnight or early morning hours, you will likely never notice it running.
+Modern [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) is designed to run quietly in the background without affecting your computer's speed. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) in particular is known for a light system footprint. If you schedule scans for overnight or early morning hours, you will likely never notice it running.
 
 **What if I am not comfortable with technology — can I still install it?**
 Yes. The steps above are designed for people who do not consider themselves tech-savvy. If you get stuck, Surfshark has 24/7 customer support via live chat — real people, available any time of day. You can also ask a family member to help with the initial setup, then the software runs automatically from that point.

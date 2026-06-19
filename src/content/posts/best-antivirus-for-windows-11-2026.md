@@ -121,7 +121,7 @@ Once both are on, you are protected around the clock without having to do anythi
 
 ## Step 6 — Update the Software Regularly
 
-Antivirus software needs regular updates to recognize the newest threats. Surfshark updates automatically, but here is [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/):
+[Antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) needs regular updates to recognize the newest threats. Surfshark updates automatically, but here is [how to check](https://snipstack.io/how-to-check-if-your-pc-is-hacked-2026/):
 
 1. Open the app.
 2. Look for an **Update** notice or go to **Settings** and find **App Version**.

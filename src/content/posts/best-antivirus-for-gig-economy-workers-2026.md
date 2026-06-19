@@ -113,7 +113,7 @@ From that point on, the software works in the background. You will receive a not
 
 ## How to Stay Even Safer: Five Quick Habits
 
-Antivirus software does the heavy lifting, but a few simple habits strengthen your protection further.
+[Antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) does the heavy lifting, but a few simple habits strengthen your protection further.
 
 **Use strong, unique passwords.** Each app and account should have a different password. A password manager app makes this easy — you only need to remember one master password.
 

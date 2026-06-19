@@ -46,7 +46,7 @@ A VPN — short for Virtual Private Network — does one main thing: it hides yo
 - Malware already installed on your device
 - Ransomware that locks your files and demands payment
 
-This is not a flaw in any particular VPN. It is simply not what VPNs are built to do. A VPN secures your connection. Antivirus software secures your device. They protect against different threats.
+This is not a flaw in any particular VPN. It is simply not what VPNs are built to do. A VPN secures your connection. [Antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) secures your device. They protect against different threats.
 
 ---
 

@@ -146,7 +146,7 @@ Your laptop comes with Windows Defender, which provides basic protection. Howeve
 **What is ARM and why does it affect which antivirus I can use?**
 ARM is a type of computer chip architecture — it is how the processor inside your laptop is designed and built. Snapdragon processors use ARM, while most older laptops use Intel or AMD chips. Software written for Intel chips does not always work correctly on ARM chips. Surfshark Antivirus supports ARM natively, which is why it is recommended for Snapdragon laptops.
 
-**Will antivirus software slow down my new Snapdragon laptop?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) slow down my new Snapdragon laptop?**
 A natively built antivirus like Surfshark will not noticeably slow your machine. The problem arises only with products that were not updated for ARM — those run through an emulation layer that does consume extra power and performance. Surfshark avoids this entirely by running in its native ARM version.
 
 **Can I protect more than one device with the same subscription?**

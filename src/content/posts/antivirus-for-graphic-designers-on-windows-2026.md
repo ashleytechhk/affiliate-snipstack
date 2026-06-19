@@ -123,7 +123,7 @@ After this five-minute setup, you will not need to interact with the antivirus a
 
 ## Frequently Asked Questions
 
-**Will antivirus software actually slow down Photoshop or Illustrator on Windows?**
+**Will [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) actually slow down Photoshop or Illustrator on Windows?**
 
 Poorly designed antivirus can cause noticeable slowdowns in CPU and RAM-heavy applications. Modern tools built with low-priority scanning — like [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) — are engineered specifically to avoid this. The software detects when a resource-intensive app is running and throttles its own activity accordingly. Most graphic designers using Surfshark report no perceptible performance change during active design work. [See how Surfshark handles background scanning &rarr;](/blog/antivirus?sub=antivirus-for-graphic-designers-on-windows-2026__faq)
 

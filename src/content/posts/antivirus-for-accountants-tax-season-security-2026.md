@@ -66,7 +66,7 @@ The average cost of resolving identity theft — including lost time, legal fees
 
 ---
 
-## How Antivirus Software Stops These Attacks
+## How [Antivirus Software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) Stops These Attacks
 
 A modern [antivirus](https://snipstack.io/vs-antivirus-2026/) does not just scan your hard drive for viruses. It works on multiple layers at once to keep you safe throughout every tax season interaction.
 

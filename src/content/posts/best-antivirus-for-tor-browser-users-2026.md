@@ -64,7 +64,7 @@ Browser warnings help, but they are only a first layer of defense — and a thin
 
 [Antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) works differently. It looks at the actual contents of files and programs on your computer, not just whether a website is on a list. It can catch threats that your browser never sees coming, including files you downloaded weeks ago that quietly activate later.
 
-For seniors using Tor, this distinction matters even more. Tor sometimes routes traffic through unfamiliar servers and exit nodes. Some of those nodes can be compromised. Antivirus software adds a crucial safety net that catches anything suspicious before it reaches your files.
+For seniors using Tor, this distinction matters even more. Tor sometimes routes traffic through unfamiliar servers and exit nodes. Some of those nodes can be compromised. [Antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) adds a crucial safety net that catches anything suspicious before it reaches your files.
 
 [Add antivirus protection to your Tor setup today](/blog/antivirus?sub=best-antivirus-for-tor-browser-users-2026__mid)
 

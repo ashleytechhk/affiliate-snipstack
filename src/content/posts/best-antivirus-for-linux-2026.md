@@ -145,7 +145,7 @@ Setting up antivirus protection for a loved one is one of the most practical gif
 
 ### Do I really need [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) on Linux?
 
-Yes. While Linux has a strong security foundation, it is not immune to threats. Malware, ransomware, phishing scripts, and cryptominers all exist for Linux. Running antivirus software adds an essential layer of protection that the operating system alone does not provide. [Learn more about what Surfshark Antivirus includes](/blog/antivirus?sub=best-antivirus-for-linux-2026__faq)
+Yes. While Linux has a strong security foundation, it is not immune to threats. Malware, ransomware, phishing scripts, and cryptominers all exist for Linux. Running [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) adds an essential layer of protection that the operating system alone does not provide. [Learn more about what Surfshark Antivirus includes](/blog/antivirus?sub=best-antivirus-for-linux-2026__faq)
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Antivirus compatible with my version of Linux?
 

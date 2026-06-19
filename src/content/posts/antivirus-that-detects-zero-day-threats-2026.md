@@ -194,7 +194,7 @@ Windows 11 includes [Microsoft Defender](https://snipstack.io/windows-defender-v
 
 ### How do I know if my computer has already been infected?
 
-Common warning signs include: your computer running much slower than usual, programs opening or closing by themselves, new toolbars or programs appearing that you did not install, your browser homepage changing without your permission, and unexpected pop-ups appearing frequently. If you notice any of these, install antivirus software immediately and run a full scan. Many infections are completely silent, which is why having real-time protection running at all times is so important.
+Common warning signs include: your computer running much slower than usual, programs opening or closing by themselves, new toolbars or programs appearing that you did not install, your browser homepage changing without your permission, and unexpected pop-ups appearing frequently. If you notice any of these, install [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) immediately and run a full scan. Many infections are completely silent, which is why having real-time protection running at all times is so important.
 
 ### Do I need to be tech-savvy to install and use antivirus software?
 

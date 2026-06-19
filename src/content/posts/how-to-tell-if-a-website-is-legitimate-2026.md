@@ -156,7 +156,7 @@ No. HTTPS means the connection between your browser and the site is encrypted â€
 
 **Q: How do I check if a website is legitimate for free?**
 
-Start with ScamAdviser (free tier at scamadviser.com) for a legitimacy score, then use a WHOIS lookup tool to check the domain's age and registrant details. Cross-reference with Google Safe Browsing if you suspect active malware. For free ongoing protection, [Surfshark Scamcheck](/blog/scamcheck?sub=how-to-tell-if-a-website-is-legitimate-2026__faq) offers a free tier that covers basic link scanning.
+Start with ScamAdviser (free tier at scamadviser.com) for a legitimacy score, then use a WHOIS lookup [tool to check](https://snipstack.io/tool-to-check-if-website-is-real-or-fake-2026/) the domain's age and registrant details. Cross-reference with Google Safe Browsing if you suspect active malware. For free ongoing protection, [Surfshark Scamcheck](/blog/scamcheck?sub=how-to-tell-if-a-website-is-legitimate-2026__faq) offers a free tier that covers basic link scanning.
 
 **Q: What makes a website look fake?**
 

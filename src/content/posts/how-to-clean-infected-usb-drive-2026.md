@@ -95,7 +95,7 @@ This is the step that actually removes the malware. You need [antivirus software
 4. Click Scan and wait for it to finish.
 5. If threats are found, follow the prompts to quarantine or delete them.
 
-**If you do not have antivirus software:**
+**If you do not have [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/):**
 This is the moment to get one. A real-time antivirus tool like [Surfshark Antivirus](/blog/antivirus?sub=how-to-clean-infected-usb-drive-2026__mid) scans USB drives automatically the moment they are plugged in — you do not have to remember to start a scan manually. It also blocks the most common USB-based threats before they can run. Setup takes about five minutes, and the interface uses plain English throughout, with no technical knowledge required.
 
 ### Step 4 — Check for Hidden Files

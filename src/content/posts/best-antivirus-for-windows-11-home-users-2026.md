@@ -130,7 +130,7 @@ You are now protected. From this point on, Surfshark works silently in the backg
 
 Even with [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) installed, it helps to know what to watch for. Here are the scams that target Windows 11 home users most frequently:
 
-**The "Your computer has a virus" pop-up.** A large message appears on your screen, often with loud alarm sounds. It says to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) urgently. **This is always a scam.** Close the pop-up by pressing **Alt + F4** on your keyboard. Do not call the number. Your real antivirus software will never ask you to call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/).
+**The "Your computer has a virus" pop-up.** A large message appears on your screen, often with loud alarm sounds. It says to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) urgently. **This is always a scam.** Close the pop-up by pressing **Alt + F4** on your keyboard. Do not call the number. Your real [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) will never ask you to call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/).
 
 **The fake bank email.** An email arrives that looks exactly like your bank's usual messages. It says there is a problem with your account and asks you to click a link to verify your details. **Never click links in emails claiming to be from your bank.** Instead, open a new browser tab and go to your bank's website by typing the address yourself.
 

@@ -198,7 +198,7 @@ Mostly, but not with absolute certainty. VirusTotal checks against known threats
 
 **Q: How do I know if my computer already has a virus?**
 
-Warning signs include: the computer running much slower than usual, programs opening or closing on their own, unusual pop-ups, your browser going to websites you did not choose, or files you cannot account for. If you notice these, an online scanner is not the right tool — you need installed antivirus software that can scan your full system.
+Warning signs include: the computer running much slower than usual, programs opening or closing on their own, unusual pop-ups, your browser going to websites you did not choose, or files you cannot account for. If you notice these, an online scanner is not the right tool — you need installed [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) that can scan your full system.
 
 **Q: [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Antivirus conflict with [Windows Defender](https://snipstack.io/windows-defender-download-2026/)?**
 

@@ -199,7 +199,7 @@ When you open the Surfshark app, you will see a large green shield and a message
 
 **Q: Can I get scammed even with antivirus software installed?**
 
-Antivirus software is a very strong layer of protection, but no software removes all risk. The best protection combines antivirus software with good habits: do not give out your Social Security number, banking details, or passwords over the phone or email, even if the caller sounds official. If something feels wrong, hang up or close the window and call the company directly using a number from their official website.
+Antivirus software is a very strong layer of protection, but no software removes all risk. The best protection combines [antivirus software with](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) good habits: do not give out your Social Security number, banking details, or passwords over the phone or email, even if the caller sounds official. If something feels wrong, hang up or close the window and call the company directly using a number from their official website.
 
 ---
 

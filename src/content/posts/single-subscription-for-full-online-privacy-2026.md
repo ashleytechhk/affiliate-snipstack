@@ -70,7 +70,7 @@ Surfshark started as a VPN company — not an antivirus company that added a VPN
 
 **Alert:** This is the feature most directly relevant to the breach problem. Alert monitors dark web databases for your email addresses, credit card numbers, [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)s, and ID documents. When your data appears in a newly leaked dataset, you get a notification with specifics on what was exposed and where. You can act on that — change the password, freeze the card — rather than finding out from a fraud charge six months later.
 
-**Search:** Surfshark Search is a private search engine that doesn't log queries or serve targeted ads. It's a smaller feature but it closes a surveillance gap that antivirus software never touches.
+**Search:** Surfshark Search is a private search engine that doesn't log queries or serve targeted ads. It's a smaller feature but it closes a surveillance gap that [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) never touches.
 
 **Unlimited simultaneous devices.** One subscription. Every phone, laptop, tablet, and desktop in your household. [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe covers five devices. McAfee requires their most expensive plan for unlimited. If you have a family or more than five devices, the per-device math on [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) is substantially better.
 

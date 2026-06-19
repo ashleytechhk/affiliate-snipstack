@@ -84,7 +84,7 @@ Getting protected does not take technical skill. Here is a simple checklist any 
 
 ### Step 1 — Install [Antivirus Software](https://snipstack.io/antivirus-software-2026/)
 
-If you do not have antivirus software running on the computer you use for online banking and investing, start here. **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-investment-account-protection-2026__cta)** takes less than five minutes to install, costs less than a cup of coffee per week, and requires no technical knowledge to set up or use. Once installed, it runs automatically in the background.
+If you do not have [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) running on the computer you use for online banking and investing, start here. **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-investment-account-protection-2026__cta)** takes less than five minutes to install, costs less than a cup of coffee per week, and requires no technical knowledge to set up or use. Once installed, it runs automatically in the background.
 
 ### Step 2 — Check Your Passwords
 

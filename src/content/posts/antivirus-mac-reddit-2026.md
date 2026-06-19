@@ -87,7 +87,7 @@ Scammers are not random. They specifically target older adults for several reaso
 
 4. **More time online** — Retirement often means more time on the computer — browsing news, video calling family, online shopping. More time online means more exposure.
 
-None of this is your fault. These are engineered traps designed by professionals. Good antivirus software acts as a safety net, catching threats before they reach you.
+None of this is your fault. These are engineered traps designed by professionals. Good [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) acts as a safety net, catching threats before they reach you.
 
 ---
 

@@ -128,7 +128,7 @@ It does not have to be. [Surfshark Antivirus](https://snipstack.io/surfshark-ant
 
 ### Can I get viruses just by browsing the internet on Ubuntu?
 
-Yes. Visiting a compromised website, clicking a link in a phishing email, or downloading a file can all introduce malware to your system. Your browser and Ubuntu's own defenses help, but they do not catch everything. Antivirus software adds an important extra layer of protection.
+Yes. Visiting a compromised website, clicking a link in a phishing email, or downloading a file can all introduce malware to your system. Your browser and Ubuntu's own defenses help, but they do not catch everything. [Antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) adds an important extra layer of protection.
 
 ### What if I am not very technical — can I still use this?
 

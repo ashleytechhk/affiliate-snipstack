@@ -163,7 +163,7 @@ For basic virus blocking, Defender works. But it does not protect your other bro
 
 ### What should I do if I think I have already been scammed?
 
-Act quickly. If money has left your bank account, call your bank immediately using the number on the back of your card — not a number from any email or pop-up. If you think your email password has been stolen, change it right away from a different device if possible. Then install antivirus software and run a full scan to remove anything harmful from your Surface Pro. Surfshark's 24/7 live chat support can walk you through the process step by step.
+Act quickly. If money has left your bank account, call your bank immediately using the number on the back of your card — not a number from any email or pop-up. If you think your email password has been stolen, change it right away from a different device if possible. Then install [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) and run a full scan to remove anything harmful from your Surface Pro. Surfshark's 24/7 live chat support can walk you through the process step by step.
 
 ### Can I use Surfshark Antivirus on my phone as well as my Surface Pro?
 

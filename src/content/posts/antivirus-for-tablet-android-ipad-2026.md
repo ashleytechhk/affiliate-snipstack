@@ -165,7 +165,7 @@ A well-designed modern antivirus has very little performance impact. [Surfshark 
 
 **Can scammers really steal my bank details through a tablet?**
 
-Yes, and it is more common than most people realize. The two most frequent methods are phishing websites (fake pages that look identical to your bank's real website) and keylogging malware (apps that record what you type). Antivirus software blocks both of these attack routes before any information can be stolen.
+Yes, and it is more common than most people realize. The two most frequent methods are phishing websites (fake pages that look identical to your bank's real website) and keylogging malware (apps that record what you type). [Antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) blocks both of these attack routes before any information can be stolen.
 
 **What if I already clicked a suspicious link — is it too late?**
 

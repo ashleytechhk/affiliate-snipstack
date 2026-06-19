@@ -98,7 +98,7 @@ Good [antivirus software](https://snipstack.io/antivirus-software-with-parental-
 
 **Real-time scanning.** Every file you download, every email attachment you open, every website you visit is checked automatically. If something dangerous appears, the antivirus stops it before it can reach your NAS.
 
-**Malware removal.** If a threat is already on your device, antivirus software finds it and removes it before it spreads.
+**Malware removal.** If a threat is already on your device, [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) finds it and removes it before it spreads.
 
 **Web protection.** Many antivirus programs include tools that warn you before you visit a dangerous website — blocking the most common way ransomware enters a home network.
 

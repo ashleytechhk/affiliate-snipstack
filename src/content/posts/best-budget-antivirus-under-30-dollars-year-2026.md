@@ -180,7 +180,7 @@ Modern [antivirus software](https://snipstack.io/antivirus-software-with-parenta
 
 ### What is the difference between a virus and a scam?
 
-A virus is software designed to damage your computer or steal information once it gets inside. A scam is an attempt to trick you into handing over information or money voluntarily — like clicking a fake bank link and typing in your password. Good antivirus software protects against both: it blocks viruses from entering and warns you before you land on a scam page.
+A virus is software designed to damage your computer or steal information once it gets inside. A scam is an attempt to trick you into handing over information or money voluntarily — like clicking a fake bank link and typing in your password. Good [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) protects against both: it blocks viruses from entering and warns you before you land on a scam page.
 
 ### How do I know if my computer already has a virus?
 

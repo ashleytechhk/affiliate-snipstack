@@ -45,7 +45,7 @@ Think of [antivirus software](https://snipstack.io/antivirus-software-2026/) as 
 
 ### It Blocks Viruses and Malware Before They Get In
 
-Every time you open a file, download a photo, or click a link, antivirus software checks it against a constantly updated list of known threats. If something looks dangerous, it stops it before it can cause harm.
+Every time you open a file, download a photo, or click a link, [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) checks it against a constantly updated list of known threats. If something looks dangerous, it stops it before it can cause harm.
 
 ### It Catches Phishing Attempts
 

@@ -26,7 +26,7 @@ Let's start at the beginning. A **virus** in computing terms is a hidden program
 
 **[Antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/)** is a program that watches over your computer and catches these threats before they cause harm. It works a bit like the smoke detectors in your home — you install it once, and it works quietly in the background every hour of every day. You do not have to check it constantly. When something dangerous shows up, it alerts you and deals with it.
 
-On a Windows computer specifically, antivirus software monitors three main areas:
+On a Windows computer specifically, [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) monitors three main areas:
 
 - **Files you download or open** — it scans anything new that arrives on your computer
 - **Websites you visit** — it warns you if a site is known to be dangerous or fake

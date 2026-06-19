@@ -110,7 +110,7 @@ VirusTotal is owned by Google and works differently from the others. Instead of 
 
 **What it does well:** Outstanding for checking a specific file you received by email and are not sure about, or a link that arrived in a suspicious message. Free, trustworthy, operated by Google.
 
-**What it does not do:** Does not scan your computer. Cannot find infections already installed. Not a substitute for antivirus software.
+**What it does not do:** Does not scan your computer. Cannot find infections already installed. Not a substitute for [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/).
 
 **Best for:** "I got this attachment in an email — is it safe?" Upload the file to VirusTotal before you open it.
 

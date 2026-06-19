@@ -51,7 +51,7 @@ This is exactly why the **rollback feature** exists, and why it changes everythi
 
 Think of rollback like the "undo" button in a word processor — but for your entire computer.
 
-When you have antivirus software with rollback protection active, it quietly monitors your files in the background. It keeps snapshots of your documents, photos, and important folders at regular intervals. The moment the software detects ransomware-like behaviour — for example, a program suddenly trying to encrypt hundreds of files at once — it does two things simultaneously:
+When you have [antivirus software with](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) rollback protection active, it quietly monitors your files in the background. It keeps snapshots of your documents, photos, and important folders at regular intervals. The moment the software detects ransomware-like behaviour — for example, a program suddenly trying to encrypt hundreds of files at once — it does two things simultaneously:
 
 1. **Stops the attack** by blocking the ransomware process.
 2. **Restores your files** from the most recent clean snapshot, undoing any damage the ransomware managed to cause before being caught.

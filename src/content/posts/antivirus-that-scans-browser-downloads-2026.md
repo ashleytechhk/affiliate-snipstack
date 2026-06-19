@@ -51,7 +51,7 @@ The FBI's Internet Crime Report for 2024 found that adults over 60 reported **$3
 When [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) scans browser downloads, it does two things:
 
 **1. Checks the file before it opens**
-The moment your browser finishes downloading a file, antivirus software intercepts it. It checks the file's contents against a database of known threats and uses behavioral analysis to spot suspicious patterns — even in brand-new threats it has never seen before.
+The moment your browser finishes downloading a file, [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) intercepts it. It checks the file's contents against a database of known threats and uses behavioral analysis to spot suspicious patterns — even in brand-new threats it has never seen before.
 
 **2. Blocks or quarantines threats automatically**
 If the scan finds anything dangerous, it stops the file from opening and moves it somewhere safe (a "quarantine" folder) where it cannot harm your system. You get a clear notification explaining what happened.

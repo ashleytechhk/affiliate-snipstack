@@ -129,7 +129,7 @@ After that, you are protected. The software handles everything from that point f
 **Does Windows Server 2022 already have antivirus built in?**
 Windows Server 2022 includes a version of Windows Defender, but it is significantly more limited than the consumer-grade protection on Windows 11. It lacks the real-time behavioral monitoring, advanced cloud-based threat detection, and user-friendly alerts that a dedicated antivirus product provides. Relying on it alone leaves meaningful gaps in your protection. [Adding Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-windows-server-2022-2026__faq) closes those gaps.
 
-**I am not technical. Can I still set up antivirus software on my server?**
+**I am not technical. Can I still set up [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) on my server?**
 Yes, absolutely. Surfshark Antivirus is designed for everyday users, not IT professionals. The installation is guided step-by-step with no technical decisions required. If you can install an app on your phone, you can install Surfshark Antivirus on your server.
 
 **What is ransomware and how does it get onto a server?**

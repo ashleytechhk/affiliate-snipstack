@@ -59,7 +59,7 @@ Modern [antivirus software](https://snipstack.io/antivirus-software-with-parenta
 
 ### Malware downloaded through [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s
 
-If you click a link in a phishing email and it tries to install malicious software on your computer — a keylogger that records your passwords, or ransomware that locks your files — antivirus software can stop that software from running. This is the core job antivirus was built to do, and it does it well.
+If you click a link in a phishing email and it tries to install malicious software on your computer — a keylogger that records your passwords, or ransomware that locks your files — [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) can stop that software from running. This is the core job antivirus was built to do, and it does it well.
 
 ### Known phishing websites
 

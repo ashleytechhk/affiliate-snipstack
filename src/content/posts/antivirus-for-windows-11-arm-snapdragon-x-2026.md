@@ -133,7 +133,7 @@ The FBI and FTC publish data on this every year. The pattern is consistent: adul
 
 It is not because older adults are less intelligent. It is because scammers have refined their tactics specifically to target this group. The fake tech-support call sounds professional and frightening. The phishing email uses official logos and urgent language. The fake shopping website looks identical to a real one.
 
-Good antivirus software blocks many of these attacks automatically, before you ever see them. A phishing filter stops a fake bank website before it loads. Web protection blocks the page that generates the fake virus alert. Real-time scanning catches a malicious email attachment before you can accidentally open it.
+Good [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) blocks many of these attacks automatically, before you ever see them. A phishing filter stops a fake bank website before it loads. Web protection blocks the page that generates the fake virus alert. Real-time scanning catches a malicious email attachment before you can accidentally open it.
 
 But that protection only works if the antivirus is running properly — natively, at the system level, on your actual chip. On a Snapdragon X laptop, that means ARM64.
 

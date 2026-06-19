@@ -143,7 +143,7 @@ Even with great [antivirus software](https://snipstack.io/antivirus-software-wit
 
 **Keep Windows or macOS updated.** Software updates often fix security holes that ransomware exploits. Turn on automatic updates if you have not already.
 
-**Back up important files.** An external hard drive or a simple cloud storage account (like iCloud Photos for your pictures) means that even if ransomware strikes, you have copies. Your antivirus software is your first line of defense; a backup is your safety net.
+**Back up important files.** An external hard drive or a simple cloud storage account (like iCloud Photos for your pictures) means that even if ransomware strikes, you have copies. Your [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) is your first line of defense; a backup is your safety net.
 
 **Do not pay ransom.** If the worst happens and ransomware locks your files, do not pay. Contact a local computer technician or call your country's cybercrime reporting line first. Paying does not guarantee file recovery and encourages further attacks.
 

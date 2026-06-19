@@ -153,7 +153,7 @@ In good [antivirus software](https://snipstack.io/antivirus-software-with-parent
 
 ### Will antivirus slow down my computer?
 
-Modern antivirus software is designed to run quietly without affecting your computer's speed during normal use. You may notice a slight slowdown during an initial full scan, but day-to-day browsing, email, and video calls should feel unchanged.
+Modern [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) is designed to run quietly without affecting your computer's speed during normal use. You may notice a slight slowdown during an initial full scan, but day-to-day browsing, email, and video calls should feel unchanged.
 
 ### What happens if ransomware already encrypted my files before I installed antivirus?
 
