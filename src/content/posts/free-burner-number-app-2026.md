@@ -142,7 +142,7 @@ Unlike your real number, a [burner number](https://snipstack.io/burner-number-fo
 
 With Alt-Number, requesting a new number takes seconds in the app. Your real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/), your real identity, your regular contacts — none of it was ever involved.
 
-This is the practical difference between a burner number and blocking someone on your real number. Blocking leaves your real number in their contacts. Burning a number removes the line entirely.
+This is the practical difference between a [burner number](https://snipstack.io/burner-number-for-garage-sale-listings-2026/) and blocking someone on your real number. Blocking leaves your real number in their contacts. Burning a number removes the line entirely.
 
 [**Get Alt-Number and keep your real number out of it →**](/blog/altnumber?sub=free-burner-number-app-2026__mid)
 

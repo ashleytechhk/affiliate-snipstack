@@ -272,7 +272,7 @@ The pitch is not that [Surfshark One](https://snipstack.io/surfshark-one-annual-
       "name": "Will switching away from Norton slow down my security coverage?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "There is a brief window between uninstalling Norton and completing the Surfshark One antivirus activation where your device runs without real-time antivirus. Keep your browser closed and avoid downloading files during that window. Following the setup steps keeps that gap to under five minutes."
+        "text": "There is a brief window between uninstalling Norton and completing the [Surfshark One](https://snipstack.io/surfshark-one-vs-intego-mac-security-bundle-2026/) antivirus activation where your device runs without real-time antivirus. Keep your browser closed and avoid downloading files during that window. Following the setup steps keeps that gap to under five minutes."
       }
     },
     {

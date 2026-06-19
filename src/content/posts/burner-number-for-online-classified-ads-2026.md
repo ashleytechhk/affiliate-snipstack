@@ -158,7 +158,7 @@ No. A Surfshark Alt-Number is a standard-format US mobile number. There is nothi
 
 Surfshark Alt-Number does not expose your personal phone number to anyone who calls or texts it. The number is registered through Surfshark's service infrastructure, not your personal identity. [See exactly how Alt-Number handles your data here.](/blog/altnumber?sub=burner-number-for-online-classified-ads-2026__faq)
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my classified ad listings if I delete the burner number?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my classified ad listings if I delete the [burner number](https://snipstack.io/burner-number-for-garage-sale-listings-2026/)?**
 
 Your listings remain live — only the contact number changes. If you re-post with a new Alt-Number, buyers use that going forward. Existing conversations in the platform's messaging system are unaffected.
 
