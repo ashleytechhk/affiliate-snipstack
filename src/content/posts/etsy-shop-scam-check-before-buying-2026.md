@@ -144,7 +144,7 @@ Not without checking first. Legitimate emails from Etsy will come from an @etsy.
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on mobile for Etsy shopping?
 
-Yes. Surfshark Alert, including Scamcheck, is available as a mobile app on both iOS and Android. The background scam detection works on mobile browsers the same way it does on desktop, which matters because a significant share of Etsy browsing and email checking happens on phones — often in situations where you are distracted and less likely to run a manual check.
+Yes. Surfshark Alert, including Scamcheck, is available as a mobile app on both iOS and Android. The background [scam detection](https://snipstack.io/scam-detection-tool-for-seniors-online-2026/) works on mobile browsers the same way it does on desktop, which matters because a significant share of Etsy browsing and email checking happens on phones — often in situations where you are distracted and less likely to run a manual check.
 
 ---
 

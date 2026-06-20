@@ -50,7 +50,7 @@ The math compounds across services:
 - YouTube Premium (Portugal vs US): ~$8/month potential saving
 - Disney+ (Turkey vs US): ~$7/month potential saving
 
-Stack two of those and you are looking at $15+ monthly in subscription savings — well above the cost of a VPN subscription.
+Stack two of those and you are looking at $15+ monthly in subscription savings — well above the cost of a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 ![Subscription price comparison table: Netflix, Spotify, YouTube Premium across US, Portugal, Turkey, and Argentina markets](/og/vpn-for-expats-working-remotely-2026-inline-1.png)
 

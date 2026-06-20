@@ -107,7 +107,7 @@ A rough two-year comparison for a single WFH user:
 - **McAfee Total Protection:** ~$25 year one + ~$120–$130 year two = **~$145–$155 total**, no private search, breach monitoring US-centric
 - **[Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle (2-year plan):** ~$55–$65 total across two years at multi-year pricing, unlimited devices, full VPN, breach monitoring, CleanWeb included
 
-The entry price on Norton looks lower until you account for the year-two cliff, the missing LifeLock, and the fact that a standalone VPN subscription (if you were replacing Norton's capped one) costs $40–$80 per year by itself.
+The entry price on Norton looks lower until you account for the year-two cliff, the missing LifeLock, and the fact that a standalone [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) (if you were replacing Norton's capped one) costs $40–$80 per year by itself.
 
 ---
 

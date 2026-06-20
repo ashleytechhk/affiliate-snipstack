@@ -50,7 +50,7 @@ Setup is straightforward: install Surfshark, toggle CleanWeb on in the settings,
 
 AdGuard's filter library is exceptional. You get standard ad and tracker lists plus custom DNS filtering, HTTPS filtering, and the ability to add community-maintained lists. Advanced users can write their own rules. The free tier covers basic blocking in Safari on iOS and partial blocking on Android; the paid Pro version unlocks system-wide filtering on both platforms.
 
-The tradeoff versus CleanWeb is that AdGuard does not route your traffic through a privacy-protecting server — it protects your device locally, but your ISP and network operators still see your DNS queries unless you configure DNS-over-HTTPS manually. For users who want pure ad blocking without a VPN subscription, AdGuard is the most powerful standalone option available.
+The tradeoff versus CleanWeb is that AdGuard does not route your traffic through a privacy-protecting server — it protects your device locally, but your ISP and network operators still see your DNS queries unless you configure DNS-over-HTTPS manually. For users who want pure ad blocking without a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), AdGuard is the most powerful standalone option available.
 
 ---
 

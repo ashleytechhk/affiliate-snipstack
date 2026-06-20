@@ -70,7 +70,7 @@ Surfshark's Alt ID hits all three criteria: unlimited aliases, no per-alias cost
 
 **[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/).** Surfshark's browser extension detects email fields on sign-up forms and suggests inserting an alias automatically. This removes the friction that causes people to give up on alias discipline after a few days.
 
-**Bundled value.** Alt ID comes with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which also includes a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). If you are paying for those services separately, the bundle makes the alias tool effectively free. If you were not using any of them, the combined package costs less than most standalone VPN subscriptions.
+**Bundled value.** Alt ID comes with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/), which also includes a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-bundle-2026/). If you are paying for those services separately, the bundle makes the alias tool effectively free. If you were not using any of them, the combined package costs less than most standalone [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)s.
 
 ![Alt ID dashboard showing alias creation and management panel](/og/best-service-to-create-email-aliases-free-2026-inline-2.png)
 

@@ -143,7 +143,7 @@ For most people dealing with a spam-choked inbox in 2026, Alt ID covers more gro
 
 ## FAQ
 
-**Q: Can I use Surfshark Alt ID if I don't have a Surfshark VPN subscription?**
+**Q: Can I use Surfshark Alt ID if I don't have a Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)?**
 Alt ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/)+ plans. It is not available as a completely standalone product. Check the current plan tiers at [snipstack.io/blog/altid](/blog/altid?sub=surfshark-altid-vs-apple-hide-my-email-2026__faq) for the latest bundle options.
 
 **Q: Does Apple Hide My Email work on Android or Windows?**

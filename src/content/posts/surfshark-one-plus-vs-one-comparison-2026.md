@@ -101,7 +101,7 @@ If none of those scenarios apply to you, One is genuinely sufficient. The breach
 
 ## Price: What's the Actual Gap?
 
-Surfshark doesn't publish static prices — they run frequent promotions and pricing varies by region and billing cycle. What the company and independent reviewers consistently note is that One Plus costs a modest amount more per month than One on long-term plans, and both plans represent significant savings compared to running separate antivirus and VPN subscriptions.
+Surfshark doesn't publish static prices — they run frequent promotions and pricing varies by region and billing cycle. What the company and independent reviewers consistently note is that One Plus costs a modest amount more per month than One on long-term plans, and both plans represent significant savings compared to running separate antivirus and [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)s.
 
 The cleanest way to see the current gap is to open the pricing page directly.
 

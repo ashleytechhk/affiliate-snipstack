@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Norton Antivirus for Mac 2026 setup guide](/og/norton-antivirus-for-mac-2026.png)
 
-Worried about viruses, scammers, and suspicious emails on your Mac? You are not alone. Every day, thousands of people over 60 fall victim to online scams — and most of them never saw it coming. The good news: protecting your Mac does not have to be complicated.
+Worried about viruses, scammers, and suspicious emails on your Mac? You are not alone. Every day, thousands of people over 60 fall victim to [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s — and most of them never saw it coming. The good news: protecting your Mac does not have to be complicated.
 
 This guide walks you through everything step by step, using plain language. No tech jargon. No confusing menus. Just simple instructions you can follow at your own pace.
 

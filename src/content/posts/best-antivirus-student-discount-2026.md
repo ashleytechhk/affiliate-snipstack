@@ -24,7 +24,7 @@ If you read nothing else on this page, read this: scammers are specifically targ
 
 ## The Threat Is Real — and It Is Getting Worse
 
-You may have heard stories about people losing their savings to an online scam. Those stories are not exaggerated. According to fraud watchdogs, older adults lose billions of dollars each year to cybercrime — and the number keeps climbing.
+You may have heard stories about people losing their savings to an [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/). Those stories are not exaggerated. According to fraud watchdogs, older adults lose billions of dollars each year to cybercrime — and the number keeps climbing.
 
 Here is what is happening on computers right now, including possibly yours:
 

@@ -77,7 +77,7 @@ With a VPN, you can:
 
 This is a grey area in some terms of service, so read vendor policies before doing it on a school-managed account. For personal professional tools you pay for yourself, though, it is a straightforward way to stretch a limited budget.
 
-The math can be significant. If you subscribe to three or four classroom tools annually and each one offers a 50% lower price in another region, the VPN subscription pays for itself many times over in the first year.
+The math can be significant. If you subscribe to three or four classroom tools annually and each one offers a 50% lower price in another region, the [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) pays for itself many times over in the first year.
 
 ---
 

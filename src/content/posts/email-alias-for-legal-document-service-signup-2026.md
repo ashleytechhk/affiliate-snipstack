@@ -65,7 +65,7 @@ Alt ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitd
 
 **Seamless forwarding.** Legitimate emails — confirmation codes, document ready notifications, e-signature requests — still land in your real inbox. The alias is invisible to the sending service.
 
-**Bundled value.** If you are already paying for a Surfshark VPN subscription, Alt ID costs nothing extra. That shifts the calculus significantly versus paying a separate subscription for a standalone alias tool.
+**Bundled value.** If you are already paying for a Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), Alt ID costs nothing extra. That shifts the calculus significantly versus paying a separate subscription for a standalone alias tool.
 
 **Limitations.** Alt ID does not support custom domains, so you cannot use it for anything requiring a professional email. The alias addresses are Surfshark-hosted, which means you are trusting Surfshark's infrastructure. For users who want full self-hosting, SimpleLogin is the better fit.
 

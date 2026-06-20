@@ -149,7 +149,7 @@ Any email sent to a deleted alias bounces back to the sender. If you are still i
 **[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias](https://snipstack.io/email-alias-for-newsletter-subscriptions-2026/) help with data broker removal?**
 It reduces future exposure but does not remove data already held by brokers. If your real email is already in broker databases, aliases will not change that. What they do is prevent new platforms from adding your real address to additional data-sharing pipelines. Combined with a data broker opt-out process, aliases stop the bleeding at the source.
 
-**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt ID worth it if I already have a VPN subscription?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-better-than-separate-apps-2026/) Alt ID worth it if I already have a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)?**
 If your VPN subscription is already with Surfshark, yes — Alt ID is included at no extra cost. If you are with a different VPN provider, the decision depends on how seriously you want to tackle inbox privacy. Alt ID is available as a standalone feature, and the unlimited alias count makes it practical for anyone doing an active job search. [Check current Alt ID pricing.](/blog/altid?sub=email-alias-for-recruitment-agency-privacy-2026__faq)
 
 ---

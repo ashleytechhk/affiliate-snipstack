@@ -81,7 +81,7 @@ Several free websites let you enter a domain and receive a detailed SSL certific
 
 These tools are useful for IT professionals troubleshooting a business website. For an ordinary user trying to decide if an email link is safe, they return more technical detail than is practical to interpret — and they only check the SSL certificate, not whether the site is associated with phishing or fraud.
 
-**When this is useful:** If you manage a website yourself and want to verify your SSL setup is correct. Not ideal for quick scam detection on an unfamiliar link.
+**When this is useful:** If you manage a website yourself and want to verify your SSL setup is correct. Not ideal for quick [scam detection](https://snipstack.io/scam-detection-tool-for-seniors-online-2026/) on an unfamiliar link.
 
 **[Check a suspicious email or link in seconds →](/blog/scamcheck?sub=website-ssl-certificate-checker-guide-2026__mid)**
 

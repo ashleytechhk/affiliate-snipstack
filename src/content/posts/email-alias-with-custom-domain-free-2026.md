@@ -180,7 +180,7 @@ Alt-ID aliases are tied to your Surfshark account. If you cancel your subscripti
 
 **Which service is best if I already have a VPN and just want a standalone alias tool?**
 
-If you're not adding a VPN subscription, addy.io is the strongest free standalone option — unlimited standard aliases at no cost, with custom domain available for $1/month if you need it. SimpleLogin is the better choice if you want custom domain support with a more polished interface and don't mind $36/year.
+If you're not adding a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), addy.io is the strongest free standalone option — unlimited standard aliases at no cost, with custom domain available for $1/month if you need it. SimpleLogin is the better choice if you want custom domain support with a more polished interface and don't mind $36/year.
 
 **Will [email alias](https://snipstack.io/email-alias-for-real-estate-inquiries-2026/)es stop all spam?**
 

@@ -90,7 +90,7 @@ Brave Shields blocks ads, third-party trackers, and cross-site cookies. It won't
 
 ### 6. DNS-based Blocking via NextDNS or [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/)
 
-**For power-users who want whole-device filtering without a VPN subscription.**
+**For power-users who want whole-device filtering without a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).**
 
 Both NextDNS and [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) let you configure a custom DNS resolver on your device that blocks ad and tracking domains at the query level. On iOS, you set this up via a configuration profile (a `.mobileconfig` file). On Android, you use the Private DNS setting (Android 9+).
 

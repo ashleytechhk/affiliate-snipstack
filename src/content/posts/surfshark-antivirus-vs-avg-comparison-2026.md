@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-One in three adults over the age of 60 was targeted by an online scam or virus attack last year. Many lost money — some lost thousands of dollars — simply because their security software was not good enough to stop the threat in time.
+One in three adults over the age of 60 was targeted by an [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/) or virus attack last year. Many lost money — some lost thousands of dollars — simply because their security software was not good enough to stop the threat in time.
 
 If you are running [AVG Antivirus](https://snipstack.io/vs-avg-antivirus-2026/) right now, you may think you are covered. But AVG's free tier has shrunk considerably. Pop-up upgrade prompts appear every few days. Features that used to be free now sit behind a paywall. And the interface — designed for IT professionals, not retired teachers or grandparents — can feel overwhelming and confusing.
 

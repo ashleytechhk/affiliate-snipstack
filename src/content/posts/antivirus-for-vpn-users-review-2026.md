@@ -90,7 +90,7 @@ For seniors who already have a VPN — or who want to add both protections at on
 
 ### [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/): The Bundled Option Reviewed
 
-Surfshark is widely known as a VPN provider, but its current offering includes a full antivirus suite that can be added to any VPN subscription — or purchased together as a bundle. Here is how it performs across the criteria that matter for seniors.
+Surfshark is widely known as a VPN provider, but its current offering includes a full antivirus suite that can be added to any [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) — or purchased together as a bundle. Here is how it performs across the criteria that matter for seniors.
 
 **Real-time protection:** [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) includes always-on real-time malware scanning. It monitors files as they are downloaded or opened, and flags threats immediately rather than waiting for you to initiate a scan.
 

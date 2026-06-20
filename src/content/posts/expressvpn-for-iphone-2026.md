@@ -95,7 +95,7 @@ Surfshark launched in 2018 and positioned itself as the budget-smart alternative
 - ExpressVPN's MediaStreamer (Smart DNS) feature works on devices that cannot run a VPN app at all — smart TVs, certain routers
 - Brand longevity: ExpressVPN has been audited and scrutinized for longer
 
-For the subscription arbitrageur specifically, Surfshark's unlimited devices and lower cost make a direct difference. You are not just saving on the VPN subscription itself — you are saving compared to paying for multiple VPN seats across a household.
+For the subscription arbitrageur specifically, Surfshark's unlimited devices and lower cost make a direct difference. You are not just saving on the [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) itself — you are saving compared to paying for multiple VPN seats across a household.
 
 **[See Surfshark's current pricing for iPhone](/blog/surfshark?sub=expressvpn-for-iphone-2026__mid)**
 

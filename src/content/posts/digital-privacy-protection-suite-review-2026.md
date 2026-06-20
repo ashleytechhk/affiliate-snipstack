@@ -169,7 +169,7 @@ The base One plan includes breach alerts but not automatic data broker removal. 
 
 ### Is a VPN included in [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/)?
 
-Yes. Surfshark's full VPN — no data cap, unlimited devices, 3,200+ servers, WireGuard protocol — is included in [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/). This is not the neutered VPN-lite that Norton and McAfee bundle. It is the same product Surfshark sells as a standalone VPN subscription.
+Yes. Surfshark's full VPN — no data cap, unlimited devices, 3,200+ servers, WireGuard protocol — is included in [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/). This is not the neutered VPN-lite that Norton and McAfee bundle. It is the same product Surfshark sells as a standalone [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 ### How many devices does [Surfshark One](https://snipstack.io/surfshark-one-vs-nordvpn-complete-2026/) cover?
 

@@ -169,7 +169,7 @@ CleanWeb is active as long as the VPN connection is running. Fire TV Cube's pers
 
 The same Surfshark subscription covers unlimited devices. On your phone, CleanWeb works identically — it blocks ad-network DNS requests across every app on your iOS or Android device, not just in a browser. You enable it once in the Surfshark app and it runs silently in the background across every app and browser simultaneously.
 
-If you're already paying for a VPN subscription for streaming or privacy, CleanWeb is included — there's no additional cost to enable it.
+If you're already paying for a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) for streaming or privacy, CleanWeb is included — there's no additional cost to enable it.
 
 **[See how CleanWeb works across your phone and Fire TV Cube in one subscription.](/blog/adblock?sub=how-to-block-ads-on-firetv-cube-2026__mid)**
 

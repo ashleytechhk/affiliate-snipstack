@@ -102,7 +102,7 @@ On Android, **Firefox for Android** supports full browser extensions — includi
 
 **On iOS:** Safari on iOS supports content blockers (not full extensions), and the Spotify mobile web player works in Safari. Install an ad-blocking content blocker like [AdGuard](https://snipstack.io/adguard-extension-2026/) from the App Store, enable it in Settings → Safari → Content Blockers, and use open.spotify.com in Safari instead of the app.
 
-This is a meaningful partial improvement for iOS users without a VPN subscription.
+This is a meaningful partial improvement for iOS users without a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 ---
 

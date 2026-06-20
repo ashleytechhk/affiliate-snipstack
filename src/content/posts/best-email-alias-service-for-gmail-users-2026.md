@@ -228,7 +228,7 @@ A second Gmail account is still a Google-hosted address linked to a real identit
 
 The Gmail plus trick is a partial solution at best — transparent to anyone who receives it, stripped by most forms that generate spam, and impossible to revoke. For Gmail power users who genuinely want their real address kept private, a dedicated alias service is the correct tool.
 
-In 2026, Surfshark Alt-ID is the most practical option for most Gmail users: unlimited aliases, Gmail-compatible forwarding, reply masking, fake identity generation for forms that ask for names, and one-click disable when an alias turns noisy. The bundle pricing makes it competitive against stacking a standalone alias service on top of a separate VPN subscription.
+In 2026, Surfshark Alt-ID is the most practical option for most Gmail users: unlimited aliases, Gmail-compatible forwarding, reply masking, fake identity generation for forms that ask for names, and one-click disable when an alias turns noisy. The bundle pricing makes it competitive against stacking a standalone alias service on top of a separate [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 Your real Gmail address has served you well. Keep it that way by keeping it private.
 

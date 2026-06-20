@@ -101,7 +101,7 @@ A few practical notes:
 
 - **Payment method matters.** When subscribing at a lower regional price, you typically need a payment method that works in that region (such as a prepaid card, certain international cards, or a gift card from that market). This is an extra step but manageable for motivated savers.
 - **Account terms of service vary.** Review the terms for each platform you plan to use this way. Enforcement varies considerably by platform.
-- **VPN cost offsets the math.** At roughly $3-4/month for a long-term Surfshark plan, the VPN subscription needs to save you at least that much to break even — which it typically does after just one streaming service.
+- **VPN cost offsets the math.** At roughly $3-4/month for a long-term Surfshark plan, the [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) needs to save you at least that much to break even — which it typically does after just one streaming service.
 
 ---
 

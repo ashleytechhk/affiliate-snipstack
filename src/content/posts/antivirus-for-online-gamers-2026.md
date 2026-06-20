@@ -135,7 +135,7 @@ If you have children or grandchildren who help manage your devices, they can als
 
 ### Do I really need antivirus if I only play casual games like solitaire or word games?
 
-Yes. Casual games are actually more frequently targeted because they attract a larger and broader audience, including many older adults who may be less familiar with online scams. The type of game does not determine the risk — the fact that you are online and interacting with content from external sources does. A single malicious pop-up or fake game download can affect any device regardless of what you were doing when it arrived. **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-online-gamers-2026__faq)** works the same way whether you are playing solitaire or any other online game.
+Yes. Casual games are actually more frequently targeted because they attract a larger and broader audience, including many older adults who may be less familiar with [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s. The type of game does not determine the risk — the fact that you are online and interacting with content from external sources does. A single malicious pop-up or fake game download can affect any device regardless of what you were doing when it arrived. **[Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-online-gamers-2026__faq)** works the same way whether you are playing solitaire or any other online game.
 
 ### Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my games?
 

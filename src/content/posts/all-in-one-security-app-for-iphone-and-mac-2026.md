@@ -35,7 +35,7 @@ We evaluated [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pr
 | VPN included | Yes (unlimited) | Yes (limited†) | Yes (limited†) | Yes (200MB/day free) |
 | Antivirus (Mac) | Yes | Yes | Yes | Yes |
 | iPhone antivirus | Web/phishing shield | Web/phishing shield | Web/phishing shield | Web/phishing shield |
-| Ad & tracker blocker | Yes (CleanWeb) | No | No | Yes |
+| Ad & [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | Yes (CleanWeb) | No | No | Yes |
 | Data breach alerts | Yes (real-time) | Yes | Yes | Yes |
 | Private search engine | Yes (included) | No | No | No |
 | Data broker removal | Add-on | Add-on (expensive) | Add-on | No |
@@ -69,7 +69,7 @@ The threats you are most likely to face in 2026 are not executable viruses. They
 - **Tracking across websites** that builds advertising profiles without your knowledge
 - **Unsafe public Wi-Fi** at airports, hotels, and coffee shops
 
-A legacy antivirus subscription addresses the last item on that list moderately well. [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) is built around all five.
+A legacy [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) addresses the last item on that list moderately well. [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) is built around all five.
 
 ---
 
@@ -83,11 +83,11 @@ A legacy antivirus subscription addresses the last item on that list moderately 
 
 The VPN is the anchor. Unlimited simultaneous connections, servers in 100+ countries, WireGuard protocol on Mac and iPhone for fast, low-latency performance. On Mac, it runs as a lightweight menu bar app — not a heavyweight dashboard. Split tunneling lets you route only specific apps through the VPN, which is useful when you want local services (like bank apps that geo-restrict) to work normally.
 
-On iPhone, the Surfshark VPN app handles iOS correctly: it uses the native VPN framework, does not drain the battery aggressively, and the CleanWeb [ad blocker](https://snipstack.io/ad-blocker-that-removes-sponsored-search-results-2026/) works at the DNS level — blocking ads and trackers across every app, not just Safari.
+On iPhone, the Surfshark VPN app handles iOS correctly: it uses the native VPN framework, does not drain the battery aggressively, and the CleanWeb [ad blocker](https://snipstack.io/ad-blocker-that-removes-sponsored-search-results-2026/) works at the DNS level — [blocking ads](https://snipstack.io/blocking-ads-on-spotify-mobile-2026/) and trackers across every app, not just Safari.
 
-### Antivirus (Surfshark Antivirus)
+### Antivirus ([Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/))
 
-The Mac antivirus component is scheduled rather than always-on, which is the right call for Apple hardware. It layers on top of macOS's built-in protections rather than competing with them. Real-world detection rates from AV-TEST (2025 data) put Surfshark in the competent midfield — not at the very top, but well above "false sense of security" territory.
+The [Mac antivirus](https://snipstack.io/mac-antivirus-free-2026/) component is scheduled rather than always-on, which is the right call for Apple hardware. It layers on top of macOS's built-in protections rather than competing with them. Real-world detection rates from AV-TEST (2025 data) put Surfshark in the competent midfield — not at the very top, but well above "false sense of security" territory.
 
 On iPhone, antivirus cannot scan apps by design (iOS restriction). What the app provides instead is real-time phishing link detection in Safari and other browsers, and Wi-Fi security checks that warn you if a network is using weak encryption.
 

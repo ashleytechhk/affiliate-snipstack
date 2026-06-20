@@ -115,7 +115,7 @@ It is the right starting point if your target region is one of those three count
 
 Here is the general approach, without recommending specific platforms or specific pricing gaps (which change):
 
-**Step 1: Research the price gap.** Streaming services display different prices based on IP location. Before connecting, confirm through public reporting or community resources that a meaningful gap exists for the region you're targeting. The gap needs to cover the cost of your VPN subscription and then some.
+**Step 1: Research the price gap.** Streaming services display different prices based on IP location. Before connecting, confirm through public reporting or community resources that a meaningful gap exists for the region you're targeting. The gap needs to cover the cost of your [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) and then some.
 
 **Step 2: Connect through the target region's server.** In Surfshark's Brave extension, select the country, confirm the IP has changed using the extension's IP display, and verify with a quick IP lookup.
 

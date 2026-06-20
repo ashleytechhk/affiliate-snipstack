@@ -52,7 +52,7 @@ Here is the full process from zero to connected:
 
 Not every VPN has a Fire TV app. You need one that is available directly in the Amazon Appstore, or the install process becomes unnecessarily complicated. Surfshark publishes a dedicated Fire TV app, which makes this straightforward.
 
-### Step 2 — Get your VPN subscription
+### Step 2 — Get your [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)
 
 Sign up on a desktop or mobile browser before you touch the Fire TV. Having the account ready saves time.
 

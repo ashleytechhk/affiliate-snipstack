@@ -108,7 +108,7 @@ DNS-level blocking drops the request before the ad loads — but it does not rem
 
 ### Requires an Active VPN Connection
 
-CleanWeb is part of the Surfshark VPN profile. It works when the VPN is connected and stops when you disconnect. You cannot run CleanWeb independently of the VPN tunnel. For most use cases this is fine — you leave the VPN connected continuously and CleanWeb runs quietly in the background. But it is worth knowing that CleanWeb is not a standalone [ad blocker](https://snipstack.io/ad-blocker-that-works-on-streaming-sites-2026/); it is a feature of an always-on VPN subscription.
+CleanWeb is part of the Surfshark VPN profile. It works when the VPN is connected and stops when you disconnect. You cannot run CleanWeb independently of the VPN tunnel. For most use cases this is fine — you leave the VPN connected continuously and CleanWeb runs quietly in the background. But it is worth knowing that CleanWeb is not a standalone [ad blocker](https://snipstack.io/ad-blocker-that-works-on-streaming-sites-2026/); it is a feature of an always-on [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 ![CleanWeb toggle in Surfshark app on iOS — active while VPN is connected](/og/cleanweb-ad-blocker-surfshark-2026-inline-2.png)
 

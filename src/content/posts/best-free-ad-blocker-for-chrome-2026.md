@@ -106,7 +106,7 @@ The free tier covers basic ad and tracker blocking. Advanced features (custom DN
 - The local VPN method means you cannot simultaneously use a real VPN for privacy
 - iOS version is more restricted than Android
 
-**Best for:** Android users who want free, app-level blocking without a VPN subscription.
+**Best for:** Android users who want free, app-level blocking without a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 ---
 

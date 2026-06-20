@@ -124,7 +124,7 @@ Setting up Surfshark at the router level is the step that unlocks whole-home sma
 3. **Enable Clean Web at the account level.** This activates the malware-domain and tracker-blocking DNS filter across the connection.
 4. **Connect your smart devices as normal.** Because the protection runs at the router, Alexa, Ring, Google Nest, and your smart TV are covered automatically — no app install required on the device.
 
-If your current router does not support VPN client mode, a common workaround is to purchase a mid-range router (ASUS RT-AX series, GL.iNet travel routers) that does. The one-time hardware cost is often far less than the Bitdefender Box, and it works with any VPN subscription going forward.
+If your current router does not support VPN client mode, a common workaround is to purchase a mid-range router (ASUS RT-AX series, GL.iNet travel routers) that does. The one-time hardware cost is often far less than the Bitdefender Box, and it works with any [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) going forward.
 
 ---
 

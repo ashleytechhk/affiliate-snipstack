@@ -72,7 +72,7 @@ The catch is the same as Brave: it's not Chrome. Firefox renders pages slightly 
 
 **Why it stands out:** AdGuard publishes a standalone Android app (outside the Play Store, sideloaded from their site) that acts as a local VPN to intercept and filter traffic from every app on your phone. Unlike the Play Store version (which is limited to a content blocker for Samsung Internet), the full AdGuard app covers system-wide filtering including in-app ads.
 
-The filter lists are extensive, regularly updated, and configurable. You can add custom lists, whitelist specific apps, and log everything that gets blocked or passed through. For users who want deep control without committing to a commercial VPN subscription, AdGuard's app is a serious option.
+The filter lists are extensive, regularly updated, and configurable. You can add custom lists, whitelist specific apps, and log everything that gets blocked or passed through. For users who want deep control without committing to a commercial [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), AdGuard's app is a serious option.
 
 The friction points: sideloading requires enabling "Install unknown apps" in Android settings, which some users aren't comfortable with. The local VPN approach also means you can't run AdGuard simultaneously with another VPN. If you're already on a VPN for privacy, you'll need to choose one or combine them carefully.
 

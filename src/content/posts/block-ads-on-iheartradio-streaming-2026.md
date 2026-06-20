@@ -98,7 +98,7 @@ If ads are your primary complaint and you listen daily, the subscription cost ma
 
 ## Method 3 — DNS-Only Filtering (Free Tier Options)
 
-If you want ad filtering without a VPN subscription, free DNS services like NextDNS or [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) can be configured as your device's Private DNS provider. This gives you system-wide filtering without routing traffic through a VPN server.
+If you want ad filtering without a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), free DNS services like NextDNS or [AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/) can be configured as your device's Private DNS provider. This gives you system-wide filtering without routing traffic through a VPN server.
 
 **On Android:** Go to Settings > Network & Internet > Private DNS > enter a custom hostname (NextDNS or [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) provide these).
 

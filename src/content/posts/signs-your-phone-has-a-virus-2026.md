@@ -185,7 +185,7 @@ Always connect through a VPN before using café, hotel, or airport Wi-Fi. Withou
 
 If your phone shows even two of the warning signs listed above, act now rather than waiting. Start with a security scan. Change your most important passwords. If you use public Wi-Fi regularly, add a VPN.
 
-For seniors who want one simple tool that handles both threats — malicious apps and unsafe connections — a combined antivirus and VPN subscription is the most practical choice. It requires almost no technical knowledge to use, and it runs quietly without interrupting your day.
+For seniors who want one simple tool that handles both threats — malicious apps and unsafe connections — a combined antivirus and [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) is the most practical choice. It requires almost no technical knowledge to use, and it runs quietly without interrupting your day.
 
 **[Get Surfshark Antivirus + VPN — Simple Protection for Your Phone](/blog/antivirus?sub=signs-your-phone-has-a-virus-2026__cta)**
 

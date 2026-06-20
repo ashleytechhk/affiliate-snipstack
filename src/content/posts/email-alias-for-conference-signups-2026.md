@@ -55,7 +55,7 @@ Alt ID generates aliases under a domain that does not flag itself as obviously d
 
 Aliases are unlimited, creation is instant, and the delete flow is a single toggle. If you attend five events a year, you can create five separate aliases — one per event — and kill each one after the follow-up cycle burns out. Since Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with Surfshark VPN, it costs nothing extra if you already subscribe.
 
-**Best for:** Regular conference-goers who want realistic-looking aliases that survive enterprise event-platform validation, without paying more than their existing VPN subscription.
+**Best for:** Regular conference-goers who want realistic-looking aliases that survive enterprise event-platform validation, without paying more than their existing [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 [Start using Alt ID for your next event registration.](/blog/altid?sub=email-alias-for-conference-signups-2026__mid)
 

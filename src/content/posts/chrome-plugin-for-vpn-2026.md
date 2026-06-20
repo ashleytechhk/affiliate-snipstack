@@ -12,7 +12,7 @@ tags: ["vpn", "privacy", "review"]
 
 If you searched "Chrome plugin for VPN," you're most likely one of two people: someone who already pays for a VPN service and wants to know whether there's a companion extension worth installing, or someone who heard that VPNs have a Chrome "plugin" and isn't sure what that means.
 
-This guide is primarily for the first group. If you already have a NordVPN, Surfshark, or ExpressVPN subscription — or you're about to buy one — here is exactly what the Chrome extension companion does, how it differs from your desktop app, and whether it's worth adding to your browser.
+This guide is primarily for the first group. If you already have a NordVPN, Surfshark, or Express[VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) — or you're about to buy one — here is exactly what the Chrome extension companion does, how it differs from your desktop app, and whether it's worth adding to your browser.
 
 (If you're still on the "what is a [VPN extension](https://snipstack.io/vpn-extension-for-brave-browser-2026/)" basics, the [Chrome VPN add-ons guide](https://snipstack.io/chrome-vpn-add-ons-2026/) has you covered. If you're confused about the "plugin vs extension" terminology, [this article](https://snipstack.io/vpn-browser-plugin-chrome-2026/) explains why Chrome doesn't have plugins anymore.)
 

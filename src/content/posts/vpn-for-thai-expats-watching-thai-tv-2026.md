@@ -140,7 +140,7 @@ The maths are clear. A two-year Surfshark plan works out to under $2.50 per mont
 
 If you're missing Workpoint game shows, Channel 3 dramas, Thai news, or just want to feel connected to home, the cost is negligible compared to the value. Many expats also find that a VPN removes the frustrating experience of having content randomly block or lag depending on your hotel or office network.
 
-The alternative — paying for a separate Thai satellite service abroad, or relying on pirated streams — is either expensive or unreliable. A VPN subscription that covers everything is the cleaner option.
+The alternative — paying for a separate Thai satellite service abroad, or relying on pirated streams — is either expensive or unreliable. A [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) that covers everything is the cleaner option.
 
 ---
 

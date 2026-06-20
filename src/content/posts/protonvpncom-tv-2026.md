@@ -99,7 +99,7 @@ If privacy is your primary driver and streaming is incidental, ProtonVPN deserve
 
 For readers newer to this approach: streaming services price their subscriptions differently by country. A Netflix or Disney+ subscription in certain markets can cost 40–70% less than the same subscription in the US or UK. By connecting your VPN to a server in a lower-cost region, then signing up (or renewing) from that region, you pay the local rate.
 
-The savings are real. The approach is used by hundreds of thousands of subscribers globally. A VPN subscription that costs $2–3/month can offset itself many times over against a single year of discounted streaming.
+The savings are real. The approach is used by hundreds of thousands of subscribers globally. A [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) that costs $2–3/month can offset itself many times over against a single year of discounted streaming.
 
 Key points to be aware of:
 

@@ -116,7 +116,7 @@ The practical advantages that Reddit technical users note:
 - **No commercial whitelist** — CleanWeb blocks based on domain blocklists with no advertiser payment tier
 - **Invisible to ad-detection** — DNS blocking leaves no browser fingerprint
 
-The trade-off: CleanWeb is paid (bundled with Surfshark's VPN subscription) and doesn't do cosmetic filtering or per-site rule control. For users who want that level of granularity, uBlock Origin on Firefox is still the answer. For users who want clean browsing across all devices without configuring multiple tools, CleanWeb is the practical solution.
+The trade-off: CleanWeb is paid (bundled with Surfshark's [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)) and doesn't do cosmetic filtering or per-site rule control. For users who want that level of granularity, uBlock Origin on Firefox is still the answer. For users who want clean browsing across all devices without configuring multiple tools, CleanWeb is the practical solution.
 
 ---
 

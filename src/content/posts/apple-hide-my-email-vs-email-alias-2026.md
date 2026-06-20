@@ -160,7 +160,7 @@ No. Both tools prevent *future* exposure by substituting the alias going forward
 
 High-security services — banks, government portals, healthcare providers — sometimes reject addresses from known alias domains. This affects both Hide My Email's `@privaterelay.appleid.com` domains and Alt-ID's assigned domains. For these sensitive accounts, use your real email address directly. Reserve aliases for commercial sign-ups, newsletters, trials, and any service you'd be comfortable losing access to if the alias were deleted.
 
-**Does Alt-ID work without a Surfshark VPN subscription?**
+**Does Alt-ID work without a Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)?**
 
 Alt-ID is included as part of Surfshark's subscription plans — it's not sold separately. If you subscribe to Surfshark for the VPN, Alt-ID is included in your plan at no additional cost. If you want Alt-ID but have no interest in a VPN, the math may favor a standalone alias service. If you'd benefit from both [email alias](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/) and VPN protection — which most people who are serious about spam prevention eventually want — Surfshark's bundle is the more cost-effective path.
 

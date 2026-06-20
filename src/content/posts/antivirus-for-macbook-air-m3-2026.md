@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2025, Americans over the age of 60 lost **$4.8 billion** to online scams — more than any other age group. The FBI's Internet Crime Complaint Center published that number, and every cybersecurity researcher says 2026 is on track to be worse.
+In 2025, Americans over the age of 60 lost **$4.8 billion** to [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s — more than any other age group. The FBI's Internet Crime Complaint Center published that number, and every cybersecurity researcher says 2026 is on track to be worse.
 
 If you are using a MacBook Air M3, you may have heard that Macs do not get viruses. That is a dangerous half-truth. What it actually means is that Macs are less targeted than Windows computers — not that they are immune. And in 2026, with AI-powered scam emails that read like messages from your bank, fake tech-support pop-ups that look completely real, and phishing sites that clone your credit union's website pixel for pixel, "less targeted" is cold comfort.
 

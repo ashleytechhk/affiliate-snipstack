@@ -141,7 +141,7 @@ You are also asking people to switch their default mobile browser, which is a me
 
 ### 5. Surfshark CleanWeb — System-Wide Mobile Coverage
 
-CleanWeb is included with Surfshark's VPN subscription and activates as a toggle inside the Surfshark app. When the VPN connection is active, CleanWeb intercepts DNS requests and network traffic for known ad servers, trackers, and malware domains — across every app on the device.
+CleanWeb is included with Surfshark's [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) and activates as a toggle inside the Surfshark app. When the VPN connection is active, CleanWeb intercepts DNS requests and network traffic for known ad servers, trackers, and malware domains — across every app on the device.
 
 This architecture is the key differentiator for mobile users. Because CleanWeb operates via a VPN profile at the OS level, the YouTube app's traffic passes through it the same way any other app's traffic does. There is no browser restriction, no per-app configuration, no root access required.
 

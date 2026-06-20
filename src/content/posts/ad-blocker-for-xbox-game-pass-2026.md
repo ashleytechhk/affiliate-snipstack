@@ -123,7 +123,7 @@ There are other ways to add ad blocking on mobile. Here is how they compare for 
 
 **Firefox for Android with [uBlock Origin](https://snipstack.io/ublock-origin-mobile-2026/):** Highly effective for browser-based content, including the Xbox Game Pass website in a browser. Irrelevant for in-app content. If you primarily access Game Pass through mobile Firefox rather than the app, this combination is strong and free.
 
-**AdGuard for Android (paid app):** AdGuard's standalone Android app provides DNS-level filtering similar to CleanWeb, plus the ability to use the Android VPN slot for local filtering without a remote server. The paid version ($2-3/month or one-time license) is a legitimate alternative if you want ad blocking without a VPN subscription. Compared to CleanWeb, AdGuard offers more granular per-app and per-site control.
+**AdGuard for Android (paid app):** AdGuard's standalone Android app provides DNS-level filtering similar to CleanWeb, plus the ability to use the Android VPN slot for local filtering without a remote server. The paid version ($2-3/month or one-time license) is a legitimate alternative if you want ad blocking without a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/). Compared to CleanWeb, AdGuard offers more granular per-app and per-site control.
 
 **Surfshark CleanWeb:** Included with a VPN subscription, covers all apps and browsers, works identically on iOS and Android, zero configuration beyond enabling a toggle. Best choice if you want both a VPN and mobile ad blocking under one subscription.
 

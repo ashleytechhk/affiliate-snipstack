@@ -94,7 +94,7 @@ The subscription arbitrageur persona is not just looking for access — they are
 
 ![Comparison: VPN subscription cost vs. multiple regional streaming subscriptions](/og/vpn-for-watching-irish-tv-abroad-2026-inline-2.png)
 
-**RTE Player is free.** It is a public broadcaster funded by the Irish licence fee. If you are outside Ireland without a VPN, you cannot access it. With a VPN, you can access it for zero additional streaming cost beyond the VPN subscription itself.
+**RTE Player is free.** It is a public broadcaster funded by the Irish licence fee. If you are outside Ireland without a VPN, you cannot access it. With a VPN, you can access it for zero additional streaming cost beyond the [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) itself.
 
 **TG4 Beo is also free.** Same principle applies.
 

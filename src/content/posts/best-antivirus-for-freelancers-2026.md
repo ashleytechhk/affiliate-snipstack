@@ -29,7 +29,7 @@ It is not random. Cybercriminals pick their targets carefully, and senior freela
 
 You work independently, which means there is no company IT department watching out for you. You handle real money — client invoices, PayPal transfers, bank details. You communicate by email dozens of times a day, which gives criminals many chances to slip a fake message through. And statistically, people who did not grow up with the internet are more likely to trust a convincing-looking email or website that a younger person might immediately recognise as fake.
 
-A 2024 survey by the AARP found that 1 in 3 adults over 60 had experienced an attempted online scam in the previous twelve months. For those who also do freelance work, the number is higher — because more online activity means more exposure.
+A 2024 survey by the AARP found that 1 in 3 adults over 60 had experienced an attempted [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/) in the previous twelve months. For those who also do freelance work, the number is higher — because more online activity means more exposure.
 
 The threats you face as a freelancer are specific:
 

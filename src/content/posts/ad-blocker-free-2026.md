@@ -86,7 +86,7 @@ The limitation is that DNS blocking is less precise than a VPN filter. It blocks
 
 Blokada uses Android's local VPN feature to intercept traffic and filter ad domains — no root required. The free tier includes Blokada 5, which runs locally on your device with no cloud dependency. All filtering happens on the device itself, which is a genuine privacy advantage.
 
-It supports multiple filter lists, a customizable allowlist and blocklist, and a DNS-over-HTTPS option. The UI is simple enough for non-technical users. For Android users who are not ready to commit to a paid VPN subscription, Blokada 5 is the best free system-wide option.
+It supports multiple filter lists, a customizable allowlist and blocklist, and a DNS-over-HTTPS option. The UI is simple enough for non-technical users. For Android users who are not ready to commit to a paid [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), Blokada 5 is the best free system-wide option.
 
 The iOS version works differently — it uses a custom browser rather than a system-wide VPN filter. Android users get the better deal here.
 

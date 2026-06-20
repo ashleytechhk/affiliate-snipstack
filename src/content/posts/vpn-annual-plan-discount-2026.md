@@ -118,7 +118,7 @@ Surfshark's plan structure follows the standard tiered model but positions compe
 
 ### Base VPN Plans
 
-The core Surfshark VPN subscription is available monthly, annually, and on a 2-year term. The 2-year plan offers the lowest effective per-month rate — well below the monthly equivalent from most competitors. Unlimited simultaneous connections is included on all plans, which is a meaningful differentiator: covering a household of devices does not require a per-device upgrade.
+The core Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) is available monthly, annually, and on a 2-year term. The 2-year plan offers the lowest effective per-month rate — well below the monthly equivalent from most competitors. Unlimited simultaneous connections is included on all plans, which is a meaningful differentiator: covering a household of devices does not require a per-device upgrade.
 
 ### [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) (Bundled)
 

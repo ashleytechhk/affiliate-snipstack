@@ -100,7 +100,7 @@ There are dozens of VPN services out there, but not all of them are practical fo
 
 **24/7 live support.** If your connection drops or you need help with the router setup, support is available around the clock via live chat — no waiting for email responses.
 
-**Competitive pricing.** The irony is that a VPN subscription pays for itself quickly if you're moving even one streaming service to a lower-cost region. [See current Surfshark plans here](/blog/vpn?sub=vpn-for-samsung-smart-tv-apps-2026__mid) and compare the math against your current streaming bill.
+**Competitive pricing.** The irony is that a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) pays for itself quickly if you're moving even one streaming service to a lower-cost region. [See current Surfshark plans here](/blog/vpn?sub=vpn-for-samsung-smart-tv-apps-2026__mid) and compare the math against your current streaming bill.
 
 ![Surfshark device mockup showing Samsung Smart TV connection and region selector](/og/vpn-for-samsung-smart-tv-apps-2026-inline-2.png)
 

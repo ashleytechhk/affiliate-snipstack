@@ -128,7 +128,7 @@ Most people run 15–30 aliases actively. The whole system takes ten minutes to 
 
 **Use provider aliases if:** You're deeply embedded in a single provider's ecosystem (Apple users with iCloud+ get strong functionality here).
 
-**Use Alt ID if:** You want a real security layer across all your online accounts, regardless of which email provider you use. Especially relevant if you're already paying for a Surfshark VPN subscription — Alt ID is included.
+**Use Alt ID if:** You want a real security layer across all your online accounts, regardless of which email provider you use. Especially relevant if you're already paying for a Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) — Alt ID is included.
 
 ---
 

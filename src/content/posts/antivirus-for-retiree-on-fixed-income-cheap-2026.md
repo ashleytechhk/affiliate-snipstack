@@ -27,7 +27,7 @@ Seniors on fixed incomes do not need to spend a fortune to stay safe online. **[
 Cybercriminals are not random. They are strategic. They target retirees because:
 
 - **Seniors tend to have savings.** A lifetime of work means more money in the bank — and that makes you a more attractive target.
-- **Many retirees are less familiar with how online scams work.** Fraudsters exploit that unfamiliarity.
+- **Many retirees are less familiar with how [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s work.** Fraudsters exploit that unfamiliarity.
 - **Retirees are often home alone** and may spend more time browsing, clicking links, and opening emails than younger people.
 - **There is less oversight.** Younger family members are not always around to flag suspicious behavior.
 

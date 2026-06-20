@@ -156,7 +156,7 @@ Hotspot Shield isn't without legitimate uses. Here's where it makes sense:
 - Anyone who wants to use a VPN on more than 5 devices
 - Streaming access across multiple regional libraries
 - Privacy-focused users uncomfortable with US jurisdiction and unaudited policies
-- Anyone planning a long-term VPN subscription (the value case for Surfshark is stronger at multi-year pricing)
+- Anyone planning a long-term [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) (the value case for Surfshark is stronger at multi-year pricing)
 
 ---
 

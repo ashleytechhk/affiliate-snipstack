@@ -73,7 +73,7 @@ Where NordVPN's speed advantage becomes meaningful is large file downloads, gami
 
 This is the factor most reviews underweight. NordVPN's 10-device limit is generous. Surfshark's unlimited-device policy is in a different category.
 
-If you share a VPN subscription with a partner, roommates, or family members, NordVPN's limit is unlikely to be hit. But consider the math if you are running VPNs on:
+If you share a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) with a partner, roommates, or family members, NordVPN's limit is unlikely to be hit. But consider the math if you are running VPNs on:
 
 - Two phones
 - Two laptops

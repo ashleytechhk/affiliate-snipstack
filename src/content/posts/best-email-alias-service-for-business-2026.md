@@ -142,7 +142,7 @@ Forwarding adds a negligible delay — typically under a second. In practice it'
 
 **Is Alt-ID worth it if I already pay for a VPN separately?**
 
-If you're paying for a VPN subscription and want alias functionality, it depends on what you're paying. Surfshark's plan includes VPN, Alt-ID aliases, antivirus, and data removal at a competitive price. If switching to Surfshark from your current VPN saves money or breaks even, the alias tool comes effectively for free.
+If you're paying for a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) and want alias functionality, it depends on what you're paying. Surfshark's plan includes VPN, Alt-ID aliases, antivirus, and data removal at a competitive price. If switching to Surfshark from your current VPN saves money or breaks even, the alias tool comes effectively for free.
 
 ---
 

@@ -163,7 +163,7 @@ For the purposes of this article, the focus is the Apple TV *app* on mobile — 
 
 If you're already a Surfshark subscriber for VPN reasons (streaming geo-unlocking, privacy on public Wi-Fi), CleanWeb is included — enabling it takes 30 seconds and costs nothing extra.
 
-If you're considering Surfshark specifically for ad blocking: the VPN subscription also gives you streaming access (bypassing geo-restrictions on Apple TV+, Netflix, and other services), which for many users makes the bundle justifiable on its own.
+If you're considering Surfshark specifically for ad blocking: the [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) also gives you streaming access (bypassing geo-restrictions on Apple TV+, Netflix, and other services), which for many users makes the bundle justifiable on its own.
 
 If you want ad blocking only and no VPN features, the free AdGuard DNS or NextDNS approach is worth trying first — it covers the Apple TV app and requires no subscription.
 

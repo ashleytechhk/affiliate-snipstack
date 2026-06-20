@@ -109,7 +109,7 @@ For a straightforward, beginner-friendly experience, Surfshark's checker is the 
 
 ### What your email app does automatically
 
-Gmail, Outlook, and most major email apps already have basic scam detection built in. They automatically move obvious spam to a junk folder, and sometimes display a warning banner if they detect a suspicious link.
+Gmail, Outlook, and most major email apps already have basic [scam detection](https://snipstack.io/scam-detection-tool-for-seniors-online-2026/) built in. They automatically move obvious spam to a junk folder, and sometimes display a warning banner if they detect a suspicious link.
 
 The problem is that this protection is not perfect. New scam sites get created every day, and freshly registered phishing domains often pass through these automatic filters until enough people have reported them. Dedicated checking tools use more up-to-date databases and catch things that automatic filters miss.
 

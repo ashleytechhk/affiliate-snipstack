@@ -30,7 +30,7 @@ Ransomware attacks on seniors are rising sharply, and the consequences are sever
 
 Cybercriminals are not random. They target people they believe will pay — and they have studied the numbers carefully.
 
-Older adults are targeted for several reasons. First, they are more likely to have savings and retirement accounts worth stealing. Second, they grew up before computers were common, which means they are statistically less familiar with how online scams work. Third, many seniors spend more time at home and online than younger adults, increasing their exposure. Fourth — and most importantly — they are more likely to panic when something goes wrong, and more likely to pay a ransom to get their files back.
+Older adults are targeted for several reasons. First, they are more likely to have savings and retirement accounts worth stealing. Second, they grew up before computers were common, which means they are statistically less familiar with how [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s work. Third, many seniors spend more time at home and online than younger adults, increasing their exposure. Fourth — and most importantly — they are more likely to panic when something goes wrong, and more likely to pay a ransom to get their files back.
 
 There is nothing shameful about any of this. Scammers are professionals who practice their methods every single day. Their job is to trick people, and they are very good at it.
 

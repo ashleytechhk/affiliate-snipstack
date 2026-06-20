@@ -86,7 +86,7 @@ A kill switch automatically pauses your internet connection if the VPN drops une
 
 ### Unlimited Devices
 
-Many seniors have a phone, a tablet, and a laptop. A VPN subscription that covers unlimited devices means you protect all three with one low monthly fee.
+Many seniors have a phone, a tablet, and a laptop. A [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) that covers unlimited devices means you protect all three with one low monthly fee.
 
 ---
 

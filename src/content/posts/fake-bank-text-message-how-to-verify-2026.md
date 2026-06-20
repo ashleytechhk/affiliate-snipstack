@@ -92,7 +92,7 @@ Mobile carriers (AT&T, Verizon, EE, Vodafone, and others) operate background spa
 
 Surfshark's Email Scam Checker is designed for exactly this type of situation: a suspicious message has arrived, you have a link or a sender to verify, and you want a fast, plain-language answer without needing to understand technical security concepts.
 
-Despite the name, the tool checks both email and text message links — the underlying scam detection works on any URL or sender address regardless of how it reached you.
+Despite the name, the tool checks both email and text message links — the underlying [scam detection](https://snipstack.io/scam-detection-tool-for-seniors-online-2026/) works on any URL or sender address regardless of how it reached you.
 
 **What it does well:** Paste the link from the suspicious text into the checker and it cross-references multiple threat intelligence databases simultaneously. The result is a straightforward verdict — safe or suspicious — with a plain explanation. No jargon. No interpreting raw technical data. The whole check takes under a minute on a phone browser.
 

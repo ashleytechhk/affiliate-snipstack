@@ -200,7 +200,7 @@ Most modern routers have a VPN section in the admin panel. Surfshark provides mo
 
 Getting a VPN onto your smart TV is not as complicated as it sounds — it's a matter of matching your TV's operating system to the right setup method. Android TV users have the simplest path. Samsung and LG users have two solid alternatives in router-level VPN and SmartDNS.
 
-The reason it's worth the one-time setup effort is straightforward: streaming subscription prices vary significantly by region, and a VPN lets you appear to be in a region where the same service costs less. For viewers who pay for two or more streaming subscriptions, the annual savings typically far outweigh the cost of a VPN subscription.
+The reason it's worth the one-time setup effort is straightforward: streaming subscription prices vary significantly by region, and a VPN lets you appear to be in a region where the same service costs less. For viewers who pay for two or more streaming subscriptions, the annual savings typically far outweigh the cost of a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 Surfshark supports all three setup methods under one account, with unlimited devices and no-logs privacy protection built in.
 

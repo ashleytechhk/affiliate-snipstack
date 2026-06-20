@@ -129,7 +129,7 @@ Getting a [virtual number](https://snipstack.io/virtual-number-for-travel-abroad
 
 No data plan setup. No hardware. No waiting for a SIM card in the mail.
 
-If you already have a Surfshark VPN subscription, Alt-Number is available as an add-on at a significantly reduced rate. The bundled pricing makes it one of the most cost-effective privacy solutions available for anyone who dates online.
+If you already have a Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), Alt-Number is available as an add-on at a significantly reduced rate. The bundled pricing makes it one of the most cost-effective privacy solutions available for anyone who dates online.
 
 ---
 

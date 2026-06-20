@@ -133,7 +133,7 @@ Do this after you have confirmed the new setup is working — not before.
 1. Log in to your Norton or McAfee account portal
 2. Navigate to **My Subscriptions** → **Cancel auto-renewal**
 3. Do not request a refund mid-term if you have months remaining; let it expire naturally
-4. Repeat for any standalone VPN subscriptions
+4. Repeat for any standalone [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)s
 
 **Tip:** Set a calendar reminder one week before the old subscription's next billing date as a safety net.
 

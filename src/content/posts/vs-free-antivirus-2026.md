@@ -41,7 +41,7 @@ Microsoft quietly turned Windows Defender into a genuinely capable antivirus. In
 
 The problem is everything it does *not* do. There is no VPN. There is no identity monitoring beyond the basic Microsoft Account breach alerts (which most users never check). It covers one Windows device. If you use a Mac, Android phone, or a work laptop alongside your home PC, you are on your own.
 
-For the former Norton or McAfee customer, the real comparison is not "Defender vs. paid antivirus" — it is "Defender + a VPN subscription + a breach monitoring service vs. a bundle." Once you add those up, free stops being free.
+For the former Norton or McAfee customer, the real comparison is not "Defender vs. paid antivirus" — it is "Defender + a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) + a breach monitoring service vs. a bundle." Once you add those up, free stops being free.
 
 ---
 

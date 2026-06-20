@@ -47,7 +47,7 @@ Hong Kong has a media ecosystem that punches above its weight. TVB alone has bee
 
 For Hong Kong expats, the content gap is immediate and practical. Local news, live sports coverage, drama serials, and the shows your family back home are watching — all of it sits behind a Hong Kong IP address requirement. A VPN collapses that geographic barrier without requiring you to wait for international distribution deals that may never happen.
 
-RTHK is a particularly strong case on its own: it's public broadcasting, entirely free to access, but geo-locked to Hong Kong. Connecting via a VPN costs you nothing beyond the VPN subscription and unlocks a full archive of news, documentaries, and radio programming.
+RTHK is a particularly strong case on its own: it's public broadcasting, entirely free to access, but geo-locked to Hong Kong. Connecting via a VPN costs you nothing beyond the [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) and unlocks a full archive of news, documentaries, and radio programming.
 
 ### The Subscription Arbitrage Angle
 

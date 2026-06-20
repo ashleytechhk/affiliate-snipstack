@@ -168,7 +168,7 @@ You do not have to choose one method. The most effective configuration uses two 
 
 **Layer 1 — Private DNS (free, 2 minutes):** Set AdGuard DNS as your Private DNS provider. This baseline blocks the majority of ad and tracker domains at no cost and with no ongoing maintenance.
 
-**Layer 2 — VPN with CleanWeb:** Adds portable protection that follows you off your home network, a continuously updated blocklist, malware and phishing domain blocking, and encrypted traffic on public Wi-Fi. The VPN subscription also covers privacy beyond ad blocking.
+**Layer 2 — VPN with CleanWeb:** Adds portable protection that follows you off your home network, a continuously updated blocklist, malware and phishing domain blocking, and encrypted traffic on public Wi-Fi. The [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) also covers privacy beyond ad blocking.
 
 **Optional browser layer:** Switch to Brave or install Firefox with uBlock Origin for the strongest in-browser experience, particularly for news sites and web apps with aggressive ad formats.
 

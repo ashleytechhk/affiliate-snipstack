@@ -154,7 +154,7 @@ This is not an argument that NordVPN is bad. Choose NordVPN if:
 - You specifically need **Double VPN or obfuscated servers** for high-risk environments. Surfshark has multi-hop but NordVPN's obfuscated server network is larger.
 - You are a **heavy P2P user** and want dedicated P2P servers with an established community reputation.
 - You need a **dedicated IP address** — NordVPN offers static IP add-ons. Surfshark does too, but NordVPN's dedicated IP pool is larger.
-- You already have a **NordVPN subscription at a locked renewal price** that is competitive.
+- You already have a **Nord[VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) at a locked renewal price** that is competitive.
 
 For everyone else evaluating a first download: Surfshark and NordVPN come from the same corporate family, use the same auditing standards, and serve the same use cases. The price difference is real and recurring.
 

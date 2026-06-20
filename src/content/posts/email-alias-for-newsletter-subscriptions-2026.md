@@ -68,7 +68,7 @@ Newsletters you want keep arriving normally, forwarded in real time. The moment 
 
 **Realistic domain.** The `@altid.surfshark.net` domain doesn't read as obviously disposable the way `@duck.com` or `@privaterelay.appleid.com` does. Some newsletter platforms reject addresses that pattern-match against known alias domains at signup. Alt ID is less likely to trigger those blocks.
 
-**Limitation:** Alt ID is not a standalone product — it comes with a Surfshark subscription. If you already use Surfshark for VPN, it costs you nothing extra. If you don't, you're buying a VPN subscription primarily for the alias tool, which may or may not make sense depending on your needs.
+**Limitation:** Alt ID is not a standalone product — it comes with a Surfshark subscription. If you already use Surfshark for VPN, it costs you nothing extra. If you don't, you're buying a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) primarily for the alias tool, which may or may not make sense depending on your needs.
 
 **[Get Alt ID included with Surfshark — unlimited aliases for newsletter subscriptions →](/blog/altid?sub=email-alias-for-newsletter-subscriptions-2026__mid)**
 

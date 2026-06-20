@@ -88,7 +88,7 @@ URLVoid checks a domain against more than 30 security databases simultaneously �
 
 ## Trend Micro QR Scanner — Purpose-Built for QR Codes
 
-Trend Micro QR Scanner is a dedicated app (iOS and Android) that functions as a QR code reader with built-in scam detection. Instead of scanning a QR code with your phone's standard camera app, you scan it within Trend Micro's app. The app decodes the URL and immediately evaluates it against Trend Micro's threat database before asking whether you want to visit the page.
+Trend Micro QR Scanner is a dedicated app (iOS and Android) that functions as a QR code reader with built-in [scam detection](https://snipstack.io/scam-detection-tool-for-seniors-online-2026/). Instead of scanning a QR code with your phone's standard camera app, you scan it within Trend Micro's app. The app decodes the URL and immediately evaluates it against Trend Micro's threat database before asking whether you want to visit the page.
 
 **What it does well:** The integration is clean for the QR-specific use case. You do not need to copy a URL manually — the check happens in the same action as the scan. Trend Micro's threat database draws on its established reputation in the antivirus industry. For someone whose primary concern is physical-world QR codes, this is a purpose-built solution.
 

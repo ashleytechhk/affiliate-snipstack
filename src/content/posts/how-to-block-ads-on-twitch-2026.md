@@ -138,7 +138,7 @@ The more significant benefit is platform-wide: CleanWeb blocks ads in every othe
 
 **Cons:**
 - Doesn't fully block Twitch SSAI mid-rolls and pre-rolls (no DNS tool does)
-- Requires a VPN subscription
+- Requires a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)
 - Not a standalone Twitch ad solution — works best as a complement
 
 **Mobile verdict:** Best used alongside another method (Turbo or TTV Ad Block on desktop, VLC on mobile) as a hardened layer. Standalone, it reduces Twitch tracking without eliminating all ads.

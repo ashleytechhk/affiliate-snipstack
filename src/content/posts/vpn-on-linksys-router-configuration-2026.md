@@ -213,7 +213,7 @@ Most Linksys models running firmware version 3.x or later include VPN client fun
 
 ## The Bottom Line
 
-VPN on Linksys router configuration is the most efficient way to extend a single VPN subscription across an entire household, including devices that cannot run VPN apps on their own. For anyone paying full subscription rates for streaming services, the router setup pays for itself quickly.
+VPN on Linksys router configuration is the most efficient way to extend a single [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) across an entire household, including devices that cannot run VPN apps on their own. For anyone paying full subscription rates for streaming services, the router setup pays for itself quickly.
 
 Surfshark earns the recommendation for Linksys routers because it provides ready-to-use configuration files, maintains servers in the regions where pricing arbitrage matters most, and covers unlimited devices on a single affordable plan. The setup takes under thirty minutes for most routers with native VPN client support, and the ongoing maintenance is minimal.
 

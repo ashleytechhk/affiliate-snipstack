@@ -34,7 +34,7 @@ You do not need to understand how it works on the inside. You just need it runni
 
 The short answer is yes. Here is why.
 
-**Scammers specifically target people over 60.** This is not a guess — it is well-documented by organizations like the FBI and AARP. According to the FBI's Internet Crime Report, older adults lose more money to online scams than any other age group. In 2023, Americans over 60 reported losses of over $3.4 billion to internet crime.
+**Scammers specifically target people over 60.** This is not a guess — it is well-documented by organizations like the FBI and AARP. According to the FBI's Internet Crime Report, older adults lose more money to [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s than any other age group. In 2023, Americans over 60 reported losses of over $3.4 billion to internet crime.
 
 Why seniors? Because scammers know that many older adults:
 - Are less familiar with how online tricks work

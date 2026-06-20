@@ -107,7 +107,7 @@ If you are in Europe for three weeks and your main goals are:
 2. Staying reasonably secure on hotel WiFi
 3. Not babysitting which devices are connected
 
-Then the math favors Surfshark. A single month of Surfshark costs less than a single month of ExpressVPN, covers more devices, and handles both use cases above. If you already have a NordVPN subscription, it will serve you well — you may not need to switch. But if you are starting from scratch for a trip, Surfshark's combination of price and unlimited devices is a strong argument.
+Then the math favors Surfshark. A single month of Surfshark costs less than a single month of ExpressVPN, covers more devices, and handles both use cases above. If you already have a Nord[VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), it will serve you well — you may not need to switch. But if you are starting from scratch for a trip, Surfshark's combination of price and unlimited devices is a strong argument.
 
 The broader point: you do not need to commit to a year-long plan for a three-week trip. Monthly plans exist. Use one, cancel when you return, subscribe again the next time you travel.
 

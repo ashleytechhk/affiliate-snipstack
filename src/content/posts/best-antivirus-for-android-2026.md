@@ -27,7 +27,7 @@ This article is written for people who:
 
 - Are 60 years old or older
 - Use an Android phone or tablet day to day
-- Feel nervous about online scams, fake links, or "virus warning" pop-ups
+- Feel nervous about [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s, fake links, or "virus warning" pop-ups
 - Have never installed an antivirus before, or tried one and found it too complicated
 
 You do not need any prior tech experience. Every step uses simple language and tells you exactly what to tap.

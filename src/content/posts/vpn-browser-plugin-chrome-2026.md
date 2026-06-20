@@ -152,7 +152,7 @@ Now that the terminology is clear, the choice is straightforward:
 
 **Chrome plugin:** Does not exist. Was deprecated 2015–2020.
 
-**Chrome extension:** Exists and works. Protects your browser session only. Best option for browser-specific protection or as a companion to a full VPN subscription.
+**Chrome extension:** Exists and works. Protects your browser session only. Best option for browser-specific protection or as a companion to a full [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 **Full VPN app:** Installs at the OS level. Protects all traffic from all apps on your device. Required for anything beyond browser sessions.
 

@@ -87,7 +87,7 @@ Apple added support for custom DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT) confi
 
 AdGuard offers a free iOS configuration profile at `adguard-dns.io`. Installing it routes your DNS queries through their resolver, which blocks known ad domains.
 
-This method is free and doesn't require a VPN subscription. The trade-offs:
+This method is free and doesn't require a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/). The trade-offs:
 
 - **Doesn't encrypt your traffic.** A configuration profile only changes DNS resolution — it doesn't create an encrypted tunnel. Your actual traffic is still visible to your ISP and any network you're on.
 - **Can be overridden on certain networks.** Some enterprise Wi-Fi networks force their own DNS, which overrides your profile.

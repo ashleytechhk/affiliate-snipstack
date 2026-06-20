@@ -90,7 +90,7 @@ For this specific use case — Portuguese content access plus subscription price
 
 **Server locations.** Surfshark has servers in both Portugal and Brazil, which means you can switch between the two depending on whether you want RTP Play or Globoplay access.
 
-**Unlimited devices.** Unlike some competitors that cap you at five or six devices, Surfshark lets you use a single subscription on an unlimited number of devices simultaneously. If you want to cover your laptop, phone, tablet, and smart TV, one subscription handles all of them.
+**Unlimited devices.** Unlike some competitors that cap you at five or six devices, Surfshark lets you use a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) on an unlimited number of devices simultaneously. If you want to cover your laptop, phone, tablet, and smart TV, one subscription handles all of them.
 
 **Streaming performance.** Surfshark maintains dedicated streaming-optimized servers that are specifically configured to bypass the detection measures that major platforms use to identify VPN traffic. This matters because platforms do actively try to detect and block VPNs — and not all providers keep up with those countermeasures.
 
@@ -146,7 +146,7 @@ For most Portuguese expats, yes — especially if you are subscribing to multipl
 Surfshark consistently performs well in both countries. It offers dedicated streaming-optimized servers, unlimited device connections, and competitive pricing that makes the value equation simple. [See current plans here.](/blog/vpn?sub=vpn-for-portuguese-speakers-abroad-2026__faq)
 
 **Do I need a VPN if I already have a Portuguese IP address?**
-If you are currently in Portugal or Brazil with a local IP, you probably do not need a VPN for content access. The use case here is specifically for people who have moved abroad and lost their local IP address as a result.
+If you are currently in Portugal or Brazil with a local IP, you probably do not need a [VPN for content](https://snipstack.io/vpn-for-content-creators-geo-testing-2026/) access. The use case here is specifically for people who have moved abroad and lost their local IP address as a result.
 
 ---
 

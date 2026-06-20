@@ -111,7 +111,7 @@ The distinction that matters for mobile power users: when you open a Forbes link
 **Cons:**
 - Cannot remove cosmetic ad placeholders that Forbes renders without loading ad content
 - Reader Mode still produces a cleaner visual result for just reading Forbes
-- Requires a VPN subscription
+- Requires a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)
 - A VPN tunnel adds a minimal latency overhead (imperceptible for reading articles)
 
 **Mobile verdict:** The only method that covers Forbes links opened from any app on your phone. If you share articles, read from your feed reader, or follow Forbes links from social apps, CleanWeb is the layer that makes blocking consistent across your entire mobile workflow.

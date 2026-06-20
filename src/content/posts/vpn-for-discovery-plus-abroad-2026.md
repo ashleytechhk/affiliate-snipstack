@@ -102,7 +102,7 @@ Surfshark has maintained consistent Discovery+ unblocking across the US, UK, Ger
 
 Specific features relevant to Discovery+ users:
 
-**Unlimited simultaneous connections.** One Surfshark account covers every device in your household. Phone, laptop, tablet, smart TV, Fire Stick — all connected at the same time with no slot juggling. For travelers with multiple devices or households sharing one VPN subscription, this is the standout feature.
+**Unlimited simultaneous connections.** One Surfshark account covers every device in your household. Phone, laptop, tablet, smart TV, Fire Stick — all connected at the same time with no slot juggling. For travelers with multiple devices or households sharing one [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), this is the standout feature.
 
 **WireGuard protocol.** Surfshark defaults to WireGuard, which is the current speed-performance benchmark in commercial VPN protocols. On a standard broadband connection, Surfshark typically retains 70–85% of base speed — comfortably above the 25 Mbps threshold for Discovery+ 4K.
 

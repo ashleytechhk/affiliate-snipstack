@@ -76,7 +76,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-20
 
 **Alternative identity generator.** Alt-ID goes beyond the [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/). It generates a fake name, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/), and address for use on sign-up forms that ask for more than just an email. When a tool's registration page asks for a first name, last name, or company, you do not have to hand over real details.
 
-**Bundled value.** If you already pay for Surfshark — or were weighing a VPN subscription — Alt-ID adds zero cost. It is included in all Surfshark plans. Two tools for the price of one.
+**Bundled value.** If you already pay for Surfshark — or were weighing a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) — Alt-ID adds zero cost. It is included in all Surfshark plans. Two tools for the price of one.
 
 **The trade-off:** Alt-ID is not sold as a standalone product. It requires a Surfshark subscription. If you want only [email alias](https://snipstack.io/email-alias-generator-2026/)es with no interest in VPN, the other options below are priced more appropriately for that specific need.
 

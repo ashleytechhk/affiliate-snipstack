@@ -97,7 +97,7 @@ That is the entire setup. No browser extension, no manual blocklist, no technica
 
 ## Comparing Your Options for Ad Blocking on WhatsApp Web
 
-Not every user needs or wants a VPN subscription. Here is an honest comparison of the available approaches:
+Not every user needs or wants a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/). Here is an honest comparison of the available approaches:
 
 ### Browser-level extensions (desktop only)
 

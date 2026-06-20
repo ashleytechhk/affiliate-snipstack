@@ -113,7 +113,7 @@ If you held a UK TV licence while living in the UK and have since moved abroad, 
 
 A mid-tier VPN on an annual plan typically costs between £2 and £5 per month. BBC iPlayer itself is free for UK licence holders. So the maths for expats who watch a lot of British content is fairly clear — the VPN pays for itself in entertainment value within weeks.
 
-Where it gets interesting is the broader value proposition. A VPN subscription also unlocks access to other region-locked services, protects your connection on public Wi-Fi (common when travelling), and gives you privacy across all your browsing. For many users, iPlayer is just one reason among several to subscribe.
+Where it gets interesting is the broader value proposition. A [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) also unlocks access to other region-locked services, protects your connection on public Wi-Fi (common when travelling), and gives you privacy across all your browsing. For many users, iPlayer is just one reason among several to subscribe.
 
 ![Feature comparison: ExpressVPN vs NordVPN vs Surfshark for BBC iPlayer overseas](/og/vpn-for-bbc-iplayer-overseas-2026-inline-2.png)
 

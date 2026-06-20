@@ -85,7 +85,7 @@ Apple's Hide My Email is the most frictionless option for iPhone and Mac users. 
 
 ## Option 2: Surfshark Alt-ID
 
-Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/) feature, included with their VPN subscription plans. It generates a randomized forwarding address — something like `cloudpine.lamp4291@surfshark.id` — that you use anywhere an email is required. All mail forwards to your real inbox.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/) feature, included with their [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) plans. It generates a randomized forwarding address — something like `cloudpine.lamp4291@surfshark.id` — that you use anywhere an email is required. All mail forwards to your real inbox.
 
 **What it does well:**
 

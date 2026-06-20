@@ -65,7 +65,7 @@ Surfshark's VPN is the company's flagship product — it is not an afterthought 
 - NoBorders mode for networks with restrictive firewalls
 - CleanWeb to block ads and trackers at the DNS level before they even load
 
-If you are currently paying for Norton plus a separate VPN subscription, that is two bills you are paying instead of one. **[Surfshark One Bundle covers both — see current pricing here](/blog/surfshark?sub=norton-antivirus-software-2026__mid)**
+If you are currently paying for Norton plus a separate [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), that is two bills you are paying instead of one. **[Surfshark One Bundle covers both — see current pricing here](/blog/surfshark?sub=norton-antivirus-software-2026__mid)**
 
 ---
 

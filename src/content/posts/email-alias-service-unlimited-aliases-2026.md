@@ -104,7 +104,7 @@ Provider-specific alias features (Outlook's built-in aliases, iCloud Hide My Ema
 
 ### Reasonable Pricing
 
-Unlimited aliases should not cost more than a solid VPN subscription. Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) inside Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which means you get the alias service alongside a VPN and data removal tool at a combined price that undercuts buying each component separately.
+Unlimited aliases should not cost more than a solid [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/). Alt ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) inside Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/), which means you get the alias service alongside a VPN and data removal tool at a combined price that undercuts buying each component separately.
 
 ---
 

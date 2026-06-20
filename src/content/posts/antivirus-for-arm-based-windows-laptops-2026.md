@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-In 2025, the FBI reported that Americans over 60 lost more than **$4.8 billion** to online scams and fraud — more than any other age group. And a growing number of those victims had one thing in common: they thought they were protected.
+In 2025, the FBI reported that Americans over 60 lost more than **$4.8 billion** to [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s and fraud — more than any other age group. And a growing number of those victims had one thing in common: they thought they were protected.
 
 They had [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) installed. But it wasn't actually running properly.
 

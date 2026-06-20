@@ -6,7 +6,7 @@ heroImage: "/og/windows-defender-download-2026.png"
 tags: ["antivirus", "privacy", "review"]
 ---
 
-If you are worried about viruses and online scams, you are not alone. The good news is that your Windows computer already comes with a free security program called **Windows Defender** — and it is already built right in. You do not need to download anything extra. You just need to make sure it is switched on.
+If you are worried about viruses and [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s, you are not alone. The good news is that your Windows computer already comes with a free security program called **Windows Defender** — and it is already built right in. You do not need to download anything extra. You just need to make sure it is switched on.
 
 This plain-English guide walks you through every step. No confusing jargon, no rushing.
 

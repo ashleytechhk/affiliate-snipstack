@@ -84,7 +84,7 @@ If you're playing from a university network, corporate Wi-Fi, or another managed
 
 ## How to Test Whether a VPN Helps Your Ping
 
-Do not commit to a VPN subscription based on what you read here or anywhere else. Test it on your specific connection, to your specific game server region. Here is the procedure:
+Do not commit to a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) based on what you read here or anywhere else. Test it on your specific connection, to your specific game server region. Here is the procedure:
 
 1. **Open Valorant and note your baseline ping** — check the top-right corner of the in-client interface. Play several matches and take an average, not a single number. One good match can be variance; a consistent figure is signal.
 

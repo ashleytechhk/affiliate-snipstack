@@ -168,7 +168,7 @@ Using a privacy alias for contact purposes is not a legal issue in most jurisdic
 
 Disposable email services typically delete the inbox after minutes or hours and do not allow replies. Alt-ID is a persistent forwarding alias that you control — you decide when it is active and when it is deleted. You can also reply from the alias address so landlords see a consistent contact throughout your search. Disposable addresses break the conversation thread entirely.
 
-### Do I need a VPN subscription to use Alt-ID?
+### Do I need a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) to use Alt-ID?
 
 Alt-ID is included in the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) plan, which bundles the VPN alongside the alias and identity tools. If you are comparing the total monthly cost against standalone alias tools, [Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/) covers considerably more ground for a comparable price.
 

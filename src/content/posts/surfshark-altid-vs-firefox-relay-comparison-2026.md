@@ -156,7 +156,7 @@ Surfshark Alt ID solves the whole problem. Unlimited aliases, a generated identi
 
 ## Frequently Asked Questions
 
-**Can I use Surfshark Alt ID without a Surfshark VPN subscription?**
+**Can I use Surfshark Alt ID without a Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)?**
 Alt ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plan, which bundles VPN, antivirus, and identity tools together. You cannot purchase Alt ID as a standalone product separately from the broader plan. For users who want or already use a VPN, this bundling typically represents good value. [Learn more about Surfshark Alt ID](/blog/altid?sub=surfshark-altid-vs-firefox-relay-comparison-2026__faq)
 
 **Does Firefox Relay work in Chrome or Safari?**

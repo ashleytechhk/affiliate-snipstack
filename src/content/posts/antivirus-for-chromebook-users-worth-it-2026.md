@@ -63,7 +63,7 @@ Every week, companies suffer data breaches — their customer databases are stol
 This is not a comfortable fact, but it is an important one. Cybercriminals specifically target people over 60 because:
 
 - Older adults are statistically more likely to own property and have savings
-- Many seniors are less familiar with how online scams are designed to look legitimate
+- Many seniors are less familiar with how [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s are designed to look legitimate
 - Seniors are more likely to answer calls from unknown numbers and engage politely
 - Retirees spend more time online during the day — and more time means more exposure
 

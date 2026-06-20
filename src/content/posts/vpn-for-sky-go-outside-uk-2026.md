@@ -117,7 +117,7 @@ Before you travel, it's worth checking your registered devices in your Sky accou
 
 The maths are fairly simple. A reliable VPN on a long-term plan costs somewhere between £2 and £5 per month, depending on the provider and plan length. Sky subscriptions typically run at £25 to £50 per month or more depending on your package. If you're already paying for Sky and temporarily can't use it because you're abroad, the VPN cost is a small fraction of what you're already spending.
 
-Beyond Sky Go, the same subscription covers other UK services — [BBC iPlayer](https://snipstack.io/vpn-for-bbc-iplayer-overseas-2026/), ITV Hub, Channel 4 All 4, and more — plus the general privacy and security benefits of encrypting your connection when travelling. For frequent travellers, the value-per-pound calculation is clearly in favour of a VPN subscription.
+Beyond Sky Go, the same subscription covers other UK services — [BBC iPlayer](https://snipstack.io/vpn-for-bbc-iplayer-overseas-2026/), ITV Hub, Channel 4 All 4, and more — plus the general privacy and security benefits of encrypting your connection when travelling. For frequent travellers, the value-per-pound calculation is clearly in favour of a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
 ![Pricing comparison: Surfshark vs NordVPN vs ExpressVPN for Sky Go outside the UK](/og/vpn-for-sky-go-outside-uk-2026-inline-2.png)
 

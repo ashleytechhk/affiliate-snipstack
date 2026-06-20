@@ -117,7 +117,7 @@ One plan covers unlimited devices — so your tablet, a family member's phone, a
 
 **If you want zero-cost, no-app protection right now:** Set `dns.adguard-dns.com` as your Private DNS. Takes two minutes, costs nothing, covers the majority of mobile ads.
 
-**If you want the most thorough ad blocking available without rooting:** Combine Private DNS with [Surfshark CleanWeb](/blog/adblock?sub=dns-ad-blocker-no-root-android-2026__cta). The VPN subscription adds privacy, security on public Wi-Fi, and a second blocking layer that handles what DNS cannot. For heavy mobile users who find ads genuinely disruptive, this combination is the most practical solution in 2026.
+**If you want the most thorough ad blocking available without rooting:** Combine Private DNS with [Surfshark CleanWeb](/blog/adblock?sub=dns-ad-blocker-no-root-android-2026__cta). The [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) adds privacy, security on public Wi-Fi, and a second blocking layer that handles what DNS cannot. For heavy mobile users who find ads genuinely disruptive, this combination is the most practical solution in 2026.
 
 **If you're on Android 12 or later:** The Private DNS implementation is particularly robust — it retries encrypted connections aggressively and handles network switches (Wi-Fi to cellular) without resetting. You may notice fewer instances where filtering temporarily drops compared to older Android versions.
 

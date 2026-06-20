@@ -152,7 +152,7 @@ The browser extension is a proxy, not a full VPN. It encrypts only traffic from 
 
 ### Is Meshnet free?
 
-Meshnet is included with a NordVPN subscription at no additional cost. It is not a separate add-on. You activate it from the Meshnet tab in the Windows or macOS desktop app.
+Meshnet is included with a Nord[VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) at no additional cost. It is not a separate add-on. You activate it from the Meshnet tab in the Windows or macOS desktop app.
 
 ### Does Threat Protection work without the VPN connected?
 

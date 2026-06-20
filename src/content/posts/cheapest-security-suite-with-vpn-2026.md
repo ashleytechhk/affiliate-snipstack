@@ -151,7 +151,7 @@ Yes, for most users. The key variable is renewal pricing. Norton 360 Deluxe and 
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/)'s VPN work for streaming?
 
-Yes. The Surfshark VPN included in the One bundle is the same full-featured product as the standalone VPN subscription. It works with major streaming platforms and supports servers across 100+ countries. There are no artificial speed caps or bandwidth limits.
+Yes. The Surfshark VPN included in the One bundle is the same full-featured product as the standalone [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/). It works with major streaming platforms and supports servers across 100+ countries. There are no artificial speed caps or bandwidth limits.
 
 ### How many devices can I use with [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)?
 

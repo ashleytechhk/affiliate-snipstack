@@ -134,7 +134,7 @@ Yes. Twitch accepts any valid email address for account registration and login. 
 
 No. An [email alias for](https://snipstack.io/email-alias-for-pinterest-signup-2026/)wards all incoming messages to your real inbox. You'll receive every notification, subscription confirmation, and security alert exactly as before. The only difference is that Twitch has an alias address on file instead of your real one.
 
-### Can I use Surfshark Alt-ID without a Surfshark VPN subscription?
+### Can I use Surfshark Alt-ID without a Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)?
 
 Alt-ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/), which includes VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), Alert, and Alt-ID together. You need a [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) subscription to access it. For many users, the bundle pricing makes this better value than paying for a standalone alias service separately. **[See current Surfshark One pricing here](/blog/altid?sub=email-alias-for-twitch-account-privacy-2026__faq)**.
 

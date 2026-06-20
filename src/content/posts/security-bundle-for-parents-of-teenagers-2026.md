@@ -102,7 +102,7 @@ Bitdefender consistently scores at or near the top in independent antivirus dete
 
 Parental controls are included via the Parental Advisor module: content filtering, screen time limits, location tracking, and app blocking. The interface requires some setup, but it is functional.
 
-The gaps: Bitdefender's bundled VPN is capped at 200 MB per day on Total Security — effectively useless for a teenager's actual browsing habits. An unlimited VPN requires a separate Bitdefender Premium VPN subscription, adding cost. The five-device limit applies here too.
+The gaps: Bitdefender's bundled VPN is capped at 200 MB per day on Total Security — effectively useless for a teenager's actual browsing habits. An unlimited VPN requires a separate Bitdefender Premium [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), adding cost. The five-device limit applies here too.
 
 Breach monitoring is covered by Bitdefender's Digital Identity Protection add-on, though this is typically an upsell rather than included in the base Total Security plan.
 

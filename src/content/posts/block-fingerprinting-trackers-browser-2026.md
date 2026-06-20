@@ -143,7 +143,7 @@ Install Surfshark and enable CleanWeb — this provides DNS-level blocking acros
 **Desktop-first users:**
 Enable CleanWeb through Surfshark on desktop. Use Brave as your primary [browser with](https://snipstack.io/browser-with-built-in-ad-blocker-2026/) Fingerprinting Blocking set to Strict, or Firefox with `resistFingerprinting` enabled. This is the configuration privacy researchers run.
 
-**Users who want browser-only blocking without a VPN subscription:**
+**Users who want browser-only blocking without a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/):**
 Brave alone with Shields set to Aggressive handles a significant portion of fingerprinting scripts. You lose the DNS-level coverage that CleanWeb provides for non-browser apps, but for browser-only use, Brave Shields is the most effective free single tool available.
 
 For a deeper look at how CleanWeb performs in testing — including which tracker domains it catches that standalone [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s miss — see the [Surfshark CleanWeb review](/surfshark-cleanweb-review-2026/).
