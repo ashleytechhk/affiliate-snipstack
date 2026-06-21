@@ -63,8 +63,8 @@ On iPhone, the situation is even more stark. iOS's sandboxing model means no thi
 
 The threats you are most likely to face in 2026 are not executable viruses. They are:
 
-- **Phishing links** sent via email, SMS, and social media
-- **Data broker databases** that expose your home address, phone number, and email to marketers and scammers
+- **[Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s** sent via email, SMS, and social media
+- **Data broker databases** that expose your home address, [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), and email to marketers and scammers
 - **Credential leaks** from breached services — your old password from a 2019 breach showing up in a credential-stuffing attack today
 - **Tracking across websites** that builds advertising profiles without your knowledge
 - **Unsafe public Wi-Fi** at airports, hotels, and coffee shops
@@ -93,7 +93,7 @@ On iPhone, antivirus cannot scan apps by design (iOS restriction). What the app 
 
 ### Alert (Data Breach Monitoring)
 
-Surfshark Alert monitors your email addresses, credit card numbers, ID documents, and phone numbers against known breach databases. Alerts arrive in real time when your data surfaces in a new leak. This is functionally equivalent to Norton's LifeLock alerts at the base tier, without the upsell to a higher plan.
+Surfshark Alert monitors your email addresses, credit card numbers, ID documents, and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s against known breach databases. Alerts arrive in real time when your data surfaces in a new leak. This is functionally equivalent to Norton's LifeLock alerts at the base tier, without the upsell to a higher plan.
 
 ### Search (Private Search)
 

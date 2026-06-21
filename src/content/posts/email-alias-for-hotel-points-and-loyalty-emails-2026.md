@@ -20,7 +20,7 @@ This comparison breaks down the top options in 2026, with Surfshark Alt ID as th
 
 ## Quick Verdict
 
-If you want a purpose-built privacy alias that generates a full alternate identity — not just a forwarding address — **Surfshark Alt ID** is the strongest pick in 2026. It is paired with Surfshark One, giving you VPN, antivirus, and data-breach monitoring in one subscription. For travelers juggling multiple loyalty programs, that bundle is hard to beat. Free alternatives like SimpleLogin cover basic forwarding but require more DIY configuration and lack the bundled security suite that frequent travelers actually need.
+If you want a purpose-built privacy alias that generates a full alternate identity — not just a forwarding address — **Surfshark Alt ID** is the strongest pick in 2026. It is paired with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/), giving you VPN, antivirus, and data-breach monitoring in one subscription. For travelers juggling multiple loyalty programs, that bundle is hard to beat. Free alternatives like SimpleLogin cover basic forwarding but require more DIY configuration and lack the bundled [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/) that frequent travelers actually need.
 
 ---
 
@@ -171,7 +171,7 @@ There is no published hard cap. Surfshark describes alias creation as unlimited 
 
 ### Does Alt ID work with programs that send SMS verification codes?
 
-Alt ID handles [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/)ing only, not phone number masking. For programs that require SMS verification, you would need a separate virtual number service. Surfshark's own virtual phone number feature (available in some markets) can complement Alt ID for this use case.
+Alt ID handles [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/)ing only, not [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) masking. For programs that require SMS verification, you would need a separate [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) service. Surfshark's own [virtual phone number](https://snipstack.io/virtual-phone-number-for-small-business-reception-2026/) feature (available in some markets) can complement Alt ID for this use case.
 
 ---
 

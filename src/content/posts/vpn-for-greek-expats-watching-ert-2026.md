@@ -79,7 +79,7 @@ Surfshark has servers in 100+ countries, making it one of the more versatile too
 
 ---
 
-## How to Set Up a VPN to Watch ERT
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a VPN to Watch ERT
 
 Setup is straightforward. Here is the process in plain terms:
 
@@ -89,7 +89,7 @@ Pick a VPN with confirmed Greek servers and a track record of working with strea
 
 ### Step 2: Download the App
 
-Surfshark has native apps for Windows, macOS, iOS, Android, and browser extensions for Chrome and Firefox. It also supports smart TV platforms and routers — useful if you want ERT on the living room TV without going through a phone or laptop.
+Surfshark has native apps for Windows, macOS, iOS, Android, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox. It also supports smart TV platforms and routers — useful if you want ERT on the living room TV without going through a phone or laptop.
 
 ### Step 3: Connect to a Greek Server
 
@@ -141,7 +141,7 @@ Using a VPN is legal in most Western countries. Whether using one to access geo-
 
 ### Will a free VPN work for ERT?
 
-Free VPNs typically have very limited server options, low speed caps, and no dedicated streaming infrastructure. Most free VPN providers do not maintain Greek servers, and the ones that do tend to get blocked quickly. For reliable ERT access, a paid VPN is the practical choice. [Surfshark's entry-level plan](/blog/vpn?sub=vpn-for-greek-expats-watching-ert-2026__faq) costs less per month than a single coffee.
+[Free VPNs](https://snipstack.io/vs-free-vpns-2026/) typically have very limited server options, low speed caps, and no dedicated streaming infrastructure. Most free [VPN providers](https://snipstack.io/vpn-providers-best-2026/) do not maintain Greek servers, and the ones that do tend to get blocked quickly. For reliable ERT access, a paid VPN is the practical choice. [Surfshark's entry-level plan](/blog/vpn?sub=vpn-for-greek-expats-watching-ert-2026__faq) costs less per month than a single coffee.
 
 ### Do I need an ERT account to watch ERT Play?
 
@@ -151,7 +151,7 @@ ERT Play requires registration. The free tier is intended for viewers in Greece,
 
 Yes. Surfshark supports Android TV natively, and for other smart TV platforms (Samsung Tizen, LG webOS), you can install the VPN on your router so all home devices benefit automatically. Alternatively, you can use a streaming stick (Fire TV, Chromecast with Google TV) that runs the Surfshark app.
 
-### Does using a VPN slow down my internet enough to affect streaming?
+### [Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) a VPN slow down my internet enough to affect streaming?
 
 On a modern paid VPN with nearby servers, the impact is minimal — typically under 10-15% speed reduction. If your base connection is above 20 Mbps, you will not notice the difference for standard HD streaming. ERT's streams are not especially bandwidth-heavy, so even modest home broadband handles it fine through a VPN.
 

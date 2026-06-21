@@ -184,7 +184,7 @@ Number portability varies. OpenPhone and Sideline support inbound and outbound n
 
 ### How do I keep a [second number](https://snipstack.io/second-number-for-dating-safety-women-2026/) active permanently without losing it?
 
-The primary risk for permanent second numbers is subscription lapse — if your payment fails or you cancel, most services will eventually reclaim the number. Set the subscription to auto-renew and keep a valid payment method on file. Google Voice is different: the free account persists as long as you log in occasionally and the underlying Google account stays active. For paid services, your number is active as long as you pay. Activity-based expiry (the kind that kills free VoIP numbers after 30 days of silence) generally does not apply to paid subscription plans from the services on this list.
+The primary risk for permanent [second number](https://snipstack.io/second-number-app-that-works-on-tablet-2026/)s is subscription lapse — if your payment fails or you cancel, most services will eventually reclaim the number. Set the subscription to auto-renew and keep a valid payment method on file. Google Voice is different: the free account persists as long as you log in occasionally and the underlying Google account stays active. For paid services, your number is active as long as you pay. Activity-based expiry (the kind that kills free VoIP numbers after 30 days of silence) generally does not apply to paid subscription plans from the services on this list.
 
 ### Is a second [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) verification legal?
 

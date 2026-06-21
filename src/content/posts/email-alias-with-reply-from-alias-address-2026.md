@@ -38,7 +38,7 @@ The third scenario is what this article is about. Most free alias tools stop at 
 
 | Tool | Reply from alias | Unlimited aliases | Catch-all domain | Custom domain | Bundled privacy extras | Price |
 |---|---|---|---|---|---|---|
-| **Surfshark Alt-ID** | Yes | Yes | Yes | No | VPN, Antivirus, Data Leak Alerts | From ~$2.49/mo (bundle) |
+| **Surfshark Alt-ID** | Yes | Yes | Yes | No | VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), Data Leak Alerts | From ~$2.49/mo (bundle) |
 | **SimpleLogin** | Yes | Yes (paid) | Yes | Yes (paid) | None | Free tier / $4/mo paid |
 | **Apple Hide My Email** | Yes | Yes | No | No | iCloud+ privacy features | From $0.99/mo (iCloud+) |
 | **Bitwarden + Fastmail** | Yes (via Fastmail) | Yes | Yes | Yes | Password manager | $3/mo+ combined |

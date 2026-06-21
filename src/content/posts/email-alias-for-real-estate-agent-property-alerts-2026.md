@@ -59,7 +59,7 @@ Alt-ID goes a step further than a plain alias. It creates an alternative digital
 
 - **Instant alias generation.** You can spin up a new alias per portal — one for Zillow, one for your local agency, one for a developer's project site — in under thirty seconds.
 - **One-tap deactivation.** When a particular agent or portal becomes a nuisance, you hit deactivate. Emails stop forwarding. No unsubscribe loops, no GDPR requests, no waiting.
-- **Breach monitoring.** Alt-ID is part of Surfshark One, which includes real-time alerts if any of your data surfaces in known breaches. Useful when portals do get compromised.
+- **Breach monitoring.** Alt-ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/), which includes real-time alerts if any of your data surfaces in known breaches. Useful when portals do get compromised.
 - **Works on every device.** Whether you check property alerts on an iPhone, an Android, or a Windows desktop, the alias inbox behaves consistently.
 
 **Limitations to know:**
@@ -121,7 +121,7 @@ This structure takes about ten minutes to set up with Alt-ID. Review it every ni
 
 Yes. Most portals accept alias addresses the same as any other email address. You receive the alerts you want, and if the portal starts sending unwanted marketing you deactivate the alias rather than unsubscribing repeatedly.
 
-### Does Surfshark Alt-ID work with Australian, UK, and US property portals?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-ID work with Australian, UK, and US property portals?
 
 Alt-ID generates a standard email address that any portal can send to. It works with Domain, REA, Rightmove, Zoopla, Zillow, Realtor.com, and other portals regardless of their country of operation.
 
@@ -131,7 +131,7 @@ The alias looks like an ordinary email address to the recipient. Agents and port
 
 ### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my property alerts if I cancel Surfshark?
 
-If you cancel the Surfshark One plan that includes Alt-ID, your aliases stop forwarding. Before cancelling, update any alert subscriptions you want to keep to your real or alternative address. This is standard for any subscription alias service.
+If you cancel the [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) plan that includes Alt-ID, your aliases stop forwarding. Before cancelling, update any alert subscriptions you want to keep to your real or alternative address. This is standard for any subscription alias service.
 
 ### Is an [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/) the same as a temporary or [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/)?
 
@@ -143,7 +143,7 @@ With Alt-ID, replies are not sent from the alias — it is designed for receivin
 
 ### How many aliases can I create with Surfshark Alt-ID?
 
-Alt-ID supports unlimited alias creation on the Surfshark One and Surfshark One+ plans. The exact cap may vary by plan tier — check current plan details before subscribing.
+Alt-ID supports unlimited alias creation on the [Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-smart-security-premium-2026/)+ plans. The exact cap may vary by plan tier — check current plan details before subscribing.
 
 ---
 
