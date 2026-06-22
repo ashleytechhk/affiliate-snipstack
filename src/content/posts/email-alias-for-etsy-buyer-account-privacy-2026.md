@@ -89,7 +89,7 @@ Some platforms screen submitted email addresses against blocklists of known disp
 
 ---
 
-## How to Set Up an [Email Alias for](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) Your Etsy Buyer Account
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias for](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) Your Etsy Buyer Account
 
 The setup takes under ten minutes and covers both new and existing Etsy accounts.
 

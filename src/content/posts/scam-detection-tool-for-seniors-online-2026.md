@@ -20,7 +20,7 @@ The good news: there are tools built specifically to catch these threats before 
 
 ## Quick Verdict
 
-If you only want the short answer: **Surfshark's Email Scam Checker is the strongest dedicated tool for seniors** because it requires no installation, no account, and gives an instant plain-English verdict on any suspicious email or link. You paste the content, press a button, and get a clear answer. For people who want broader device-level protection alongside scam detection, a combination approach (scam checker plus antivirus) covers more ground. Everything else is explained below.
+If you only want the short answer: **Surfshark's Email Scam Checker is the strongest dedicated tool for seniors** because it requires no installation, no account, and gives an instant plain-English verdict on any suspicious email or link. You paste the content, press a button, and get a clear answer. For people who want broader device-level protection alongside scam detection, a combination approach (scam checker plus [antivirus](https://snipstack.io/vs-antivirus-2026/)) covers more ground. Everything else is explained below.
 
 ---
 
@@ -50,7 +50,7 @@ The comparison below covers the tools most commonly recommended for seniors in 2
 |---|---|---|---|---|---|---|
 | Surfshark Email Scam Checker | Paste email text or URL, AI analyzes instantly | Very Easy | Free | Yes | Yes | Yes |
 | Google Safe Browsing | Built into Chrome; flags known bad links automatically | Easy | Free | Partial | Yes | Yes (browser-based) |
-| Norton 360 | Full antivirus suite with email scanning | Moderate | Paid subscription | Yes (via suite) | Yes | No (requires install) |
+| [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) | Full antivirus suite with email scanning | Moderate | Paid subscription | Yes (via suite) | Yes | No (requires install) |
 | Malwarebytes | Malware scanner with [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Moderate | Free / Paid | No (malware focus) | Partial | No |
 | Built-in email spam filters | Automatic folder sorting by provider | Very Easy | Free | Partial | No | Yes |
 
@@ -102,7 +102,7 @@ It also does not analyze the text content of an email itself, only the links you
 
 ### Norton 360 and Full Antivirus Suites
 
-Norton, McAfee, and similar products offer broader device security: real-time malware detection, firewall protection, password managers, and email scanning. For seniors who want one comprehensive solution covering everything, a reputable antivirus suite is worth considering.
+Norton, McAfee, and similar products offer broader device security: real-time malware detection, firewall protection, password managers, and email scanning. For seniors who want one comprehensive solution covering everything, a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) suite is worth considering.
 
 The trade-offs are cost (typically $40 to $100 per year), required installation, and periodic update prompts. Some seniors find these tools confusing to navigate or intrusive in their notifications.
 

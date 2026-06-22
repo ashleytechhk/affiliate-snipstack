@@ -54,10 +54,10 @@ The key features to evaluate when choosing a tool for this use case:
 
 | Tool | Free Aliases | Browser Extension | Instant Creation | Disable Alias | Price (paid) |
 |---|---|---|---|---|---|
-| **Surfshark Alt-ID** | Yes (bundled) | Yes | Yes | Yes | Bundled with Surfshark One |
+| **Surfshark Alt-ID** | Yes (bundled) | Yes | Yes | Yes | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) |
 | SimpleLogin | 15 (free) | Yes | Yes | Yes | ~$4/mo |
 | AnonAddy | 20 (free) | Yes | Yes | Yes | ~$1/mo |
-| Apple Hide My Email | Unlimited (iCloud+) | Safari only | Yes | Yes | $0.99+/mo |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited (iCloud+) | Safari only | Yes | Yes | $0.99+/mo |
 | Firefox Relay | 5 (free) | Firefox only | Yes | Yes | $1.99/mo |
 | Fastmail Masked Email | Bundled | Yes | Yes | Yes | ~$3/mo |
 
@@ -65,7 +65,7 @@ The key features to evaluate when choosing a tool for this use case:
 
 ## Surfshark Alt-ID — Best Overall for Medium Signup Privacy
 
-Alt-ID is Surfshark's [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/) and personal identity layer, included inside the **Surfshark One** package. Where most standalone alias tools focus narrowly on forwarding, Alt-ID pairs your alias with a matching synthetic identity profile — a fake name, fake date of birth, and so on — that you can use to fill out registration forms without exposing any real personal data.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/) and personal identity layer, included inside the **[Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/)** package. Where most standalone alias tools focus narrowly on forwarding, Alt-ID pairs your alias with a matching synthetic identity profile — a fake name, fake date of birth, and so on — that you can use to fill out registration forms without exposing any real personal data.
 
 For Medium publication signups specifically this is genuinely useful, because many publications ask for more than just an email: they want a display name, sometimes a country or zip code. With Alt-ID you can populate all of those fields with generated data that has no connection to you.
 
@@ -76,7 +76,7 @@ For Medium publication signups specifically this is genuinely useful, because ma
 - Comes bundled with Surfshark's VPN and data breach alerts, so it fits into a broader privacy stack without adding another subscription line to your billing.
 
 **Where it is weaker:**
-- You need a Surfshark One subscription — it is not available as a standalone free product.
+- You need a [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) subscription — it is not available as a standalone free product.
 - The alias customisation options are more limited than SimpleLogin's advanced routing rules.
 
 [See what Alt-ID includes and start your trial](/blog/altid?sub=email-alias-for-medium-publication-signup-2026__mid)

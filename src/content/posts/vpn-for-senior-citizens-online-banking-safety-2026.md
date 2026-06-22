@@ -142,7 +142,7 @@ A small speed reduction is possible, but with a quality VPN like Surfshark the d
 
 ## Frequently Asked Questions
 
-**Q: Is using a VPN for online banking legal?**
+**Q: Is using a [VPN for online](https://snipstack.io/vpn-for-online-poker-privacy-and-security-2026/) banking legal?**
 A: Yes, in most countries using a VPN is completely legal. You are simply encrypting your own internet connection. Check the laws in your specific country if you are unsure.
 
 **Q: Does a VPN protect me from phishing scams?**

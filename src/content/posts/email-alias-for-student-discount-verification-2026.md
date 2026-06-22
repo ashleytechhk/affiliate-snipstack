@@ -53,7 +53,7 @@ A good [email alias for](https://snipstack.io/email-alias-for-grubhub-and-food-d
 
 ![How Alt-ID alias forwarding works for student discount verification](/og/email-alias-for-student-discount-verification-2026-inline-1.png)
 
-Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s [email alias](https://snipstack.io/email-alias-service-that-works-with-apple-mail-2026/) feature, bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) (which also includes a VPN, antivirus, and data breach alerts). For students who already use Surfshark — or who want to bundle privacy tools at student pricing — it's the most convenient entry point.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s [email alias](https://snipstack.io/email-alias-service-that-works-with-apple-mail-2026/) feature, bundled inside [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) (which also includes a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts). For students who already use Surfshark — or who want to bundle privacy tools at student pricing — it's the most convenient entry point.
 
 ### Why Alt-ID Works for Student Discount Verification
 

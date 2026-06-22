@@ -113,7 +113,7 @@ For these platforms, the practical options are:
 
 **Virtual router / hotspot sharing** — Connect your Windows PC or Mac to Surfshark with CleanWeb enabled, then share that connection to your TV via a Wi-Fi hotspot. This works but requires keeping a laptop running whenever you want the TV protected.
 
-**Router-level DNS** — If a full VPN router setup sounds like too much, the simpler fallback is configuring [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) or NextDNS at the router level as described in Option 1. No VPN overhead, still catches most ad-network traffic.
+**Router-level DNS** — If a full [VPN router](https://snipstack.io/vpn-router-for-vacation-rental-airbnb-host-2026/) setup sounds like too much, the simpler fallback is configuring [AdGuard DNS](https://snipstack.io/top-adguard-dns-2026/) or NextDNS at the router level as described in Option 1. No VPN overhead, still catches most ad-network traffic.
 
 ![CleanWeb enabled on Android TV — ad filtering active system-wide](/og/ad-blocker-for-smart-tv-2026-inline-2.png)
 

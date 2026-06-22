@@ -129,7 +129,7 @@ If you're a mobile power-user who's tired of ads on your phone *and* your LG TV,
 
 **How CleanWeb handles LG TV ads:**
 
-When your TV connects through a VPN router or when CleanWeb is active on your phone/tablet, it blocks requests to known ad-serving domains before they load. For LG TV system ads, this is effective — those domains are known and maintained in CleanWeb's block lists.
+When your TV connects through a [VPN router](https://snipstack.io/vpn-router-for-vacation-rental-airbnb-host-2026/) or when CleanWeb is active on your phone/tablet, it blocks requests to known ad-serving domains before they load. For LG TV system ads, this is effective — those domains are known and maintained in CleanWeb's block lists.
 
 **For mobile users specifically:**
 

@@ -51,7 +51,7 @@ None of these are the emails you actually care about: booking confirmations, poi
 | Data breach monitoring | Yes | No | No | No |
 | Alternate identity (name, DOB) | Yes | No | No | No |
 | Works on Android + iOS | Yes | Yes | No (Apple only) | Yes |
-| Monthly cost (standalone) | Bundled with Surfshark One | Free / $4 | $0.99 (iCloud+) | Free |
+| Monthly cost (standalone) | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) | Free / $4 | $0.99 (iCloud+) | Free |
 
 **Key insight:** Gmail's `+tag` trick (e.g., `yourname+hilton@gmail.com`) is free but provides zero actual protection — the loyalty program still receives your real address. Apple Hide My Email is excellent but locks you into the Apple ecosystem. SimpleLogin free tier caps you at ten aliases, which fills up faster than you expect once you start separating airlines, hotels, rental cars, and cruise lines.
 
@@ -69,7 +69,7 @@ The crucial difference versus a basic forwarder: you can give each loyalty progr
 
 ### How to Set It Up in Under Five Minutes
 
-1. Subscribe to Surfshark One (Alt ID is included — not a separate product).
+1. Subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) (Alt ID is included — not a separate product).
 2. Open the Alt ID section in the Surfshark app or web dashboard.
 3. Click "Generate new identity" — you get an alias address immediately.
 4. Name the alias something memorable (e.g., "Marriott Bonvoy").
@@ -96,7 +96,7 @@ Where it falls short for frequent travelers:
 - **No alternate identity generation.** You get a forwarding address, not a fake name or DOB. Some programs require a legal-sounding name to match a credit card — SimpleLogin does not assist with that.
 - **Free tier cap.** Ten aliases disappear quickly when you count hotel chains, airline programs, rental car clubs, cruise lines, and the occasional casino rewards program.
 
-SimpleLogin paid ($4/month) removes the alias cap and is a credible alternative if you already have a VPN you trust and want an open-source forwarder. For anyone who wants a single privacy subscription that handles VPN, aliasing, and data monitoring together, Alt ID inside Surfshark One wins on value per dollar.
+SimpleLogin paid ($4/month) removes the alias cap and is a credible alternative if you already have a VPN you trust and want an open-source forwarder. For anyone who wants a single privacy subscription that handles VPN, aliasing, and data monitoring together, Alt ID inside [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) wins on value per dollar.
 
 ---
 
@@ -167,7 +167,7 @@ Loyalty program terms vary. Using an alias email address is universally accepted
 
 ### How many loyalty programs can I alias with Surfshark Alt ID?
 
-There is no published hard cap. Surfshark describes alias creation as unlimited within the Surfshark One subscription. In practice, most travelers manage between five and twenty active loyalty program aliases with no issues.
+There is no published hard cap. Surfshark describes alias creation as unlimited within the [Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/) subscription. In practice, most travelers manage between five and twenty active loyalty program aliases with no issues.
 
 ### Does Alt ID work with programs that send SMS verification codes?
 
@@ -179,7 +179,7 @@ Alt ID handles [email alias](https://snipstack.io/email-alias-for-real-estate-ag
 
 Loyalty programs are not going to stop competing for inbox space — that is the nature of points-based retention marketing. The smart move is to route all of that mail through a controlled alias layer from the very first sign-up, not after your inbox is already overrun.
 
-Surfshark Alt ID solves this cleanly. You get unlimited aliases, a full alternate identity for each, and the ability to cut off any single program that oversteps — all without sacrificing the reward emails that actually matter. Add VPN protection for when you are checking your points balance on hotel Wi-Fi, and data breach alerts to know if any program leaks your information, and the Surfshark One bundle is a straightforward yes for frequent travelers in 2026.
+Surfshark Alt ID solves this cleanly. You get unlimited aliases, a full alternate identity for each, and the ability to cut off any single program that oversteps — all without sacrificing the reward emails that actually matter. Add VPN protection for when you are checking your points balance on hotel Wi-Fi, and data breach alerts to know if any program leaks your information, and the [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-smart-security-premium-2026/) bundle is a straightforward yes for frequent travelers in 2026.
 
 [Start using Surfshark Alt ID for your loyalty programs](/blog/altid?sub=email-alias-for-hotel-points-and-loyalty-emails-2026__cta)
 
