@@ -229,7 +229,7 @@ If you are still on Norton or McAfee, the comparison is even more direct. You ar
       "name": "What happens to my Norton or McAfee protection while I'm switching?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "There is a short window between uninstalling your existing suite and completing Surfshark One's antivirus activation. Keep your browser closed and avoid downloading files during this gap. Using the dedicated removal tools from Norton or McAfee before installing Surfshark One typically keeps that window under five minutes."
+        "text": "There is a short window between uninstalling your existing suite and completing [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/)'s antivirus activation. Keep your browser closed and avoid downloading files during this gap. Using the dedicated removal tools from Norton or McAfee before installing Surfshark One typically keeps that window under five minutes."
       }
     },
     {

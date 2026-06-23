@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Why dental practices need antivirus protection for patient data in 2026](/og/antivirus-for-dental-practice-patient-data-2026.png)
 
-In 2023, a dental group serving over 9 million patients across the United States suffered a ransomware attack that exposed Social Security numbers, insurance details, and full treatment histories. The attackers did not need a sophisticated operation. They walked in through a gap that a basic [antivirus](https://snipstack.io/vs-antivirus-2026/) program would have caught.
+In 2023, a dental group serving over 9 million patients across the United States suffered a ransomware attack that exposed [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) numbers, insurance details, and full treatment histories. The attackers did not need a sophisticated operation. They walked in through a gap that a basic [antivirus](https://snipstack.io/vs-antivirus-2026/) program would have caught.
 
 If you run or work at a dental practice, or if you are a senior patient who trusts a dentist with your most personal health records, this should make you stop and think. Your dental file holds far more than a record of your last cleaning. It contains your date of birth, address, insurance ID, payment card details, and a complete picture of your health. That combination is worth more to identity thieves than a stolen credit card number alone.
 
@@ -84,7 +84,7 @@ Here is what matters most:
 
 ## The Senior Patient Perspective: Your Data, Your Rights
 
-If you are a patient rather than a practice owner, you still have a direct stake in this. Federal rules require dental offices to protect your health information, but those rules do not prevent breaches from happening. They determine what happens after — and after is too late.
+If you are a patient rather than a practice owner, you still have a direct stake in this. Federal rules require dental offices to protect your health information, but those rules do not prevent breaches from happening. They determine [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after — and after is too late.
 
 As a senior, here is what a breach of your dental records could set in motion:
 

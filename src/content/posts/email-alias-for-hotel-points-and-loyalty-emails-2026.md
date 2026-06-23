@@ -12,7 +12,7 @@ You signed up for a hotel rewards program to earn free nights. Three weeks later
 
 The fix is simple in theory — use a dedicated [email alias for](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) hotel points and loyalty program sign-ups. The tricky part is choosing the right tool. Burn the wrong one and you miss award night confirmations, points expiry warnings, or the one legitimately useful promo email buried under forty pieces of junk.
 
-This comparison breaks down the top options in 2026, with Surfshark Alt ID as the lead recommendation, and explains exactly how to set up a clean loyalty-mail workflow that keeps your main inbox pristine.
+This comparison breaks down the top options in 2026, with Surfshark Alt ID as the lead recommendation, and explains exactly [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) up a clean loyalty-mail workflow that keeps your main inbox pristine.
 
 [Get Surfshark Alt ID and protect your inbox today](/blog/altid?sub=email-alias-for-hotel-points-and-loyalty-emails-2026__above-fold)
 
@@ -20,7 +20,7 @@ This comparison breaks down the top options in 2026, with Surfshark Alt ID as th
 
 ## Quick Verdict
 
-If you want a purpose-built privacy alias that generates a full alternate identity — not just a forwarding address — **Surfshark Alt ID** is the strongest pick in 2026. It is paired with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/), giving you VPN, antivirus, and data-breach monitoring in one subscription. For travelers juggling multiple loyalty programs, that bundle is hard to beat. Free alternatives like SimpleLogin cover basic forwarding but require more DIY configuration and lack the bundled [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/) that frequent travelers actually need.
+If you want a purpose-built privacy alias that generates a full alternate identity — not just a forwarding address — **Surfshark Alt ID** is the strongest pick in 2026. It is paired with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/), giving you VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data-breach monitoring in one subscription. For travelers juggling multiple loyalty programs, that bundle is hard to beat. Free alternatives like SimpleLogin cover basic forwarding but require more DIY configuration and lack the bundled [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/) that frequent travelers actually need.
 
 ---
 
