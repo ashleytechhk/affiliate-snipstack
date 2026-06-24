@@ -54,7 +54,7 @@ An alias breaks this link cleanly. You still get the neighborhood value (forward
 
 **How it works for Nextdoor:**
 
-1. Open Alt ID in your Surfshark app or browser extension
+1. Open Alt ID in your Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)
 2. Generate a new identity — you get an alias address like `random.word123@surfsharkalt.com` plus a suggested name
 3. Use those details during Nextdoor's account creation
 4. Nextdoor sends verification email to the alias; Alt ID forwards it to your real inbox
@@ -154,7 +154,7 @@ Definitely. The same alias-plus-identity workflow applies to any site where you 
 
 ### Do I need a VPN to use Alt ID?
 
-No. Alt ID is a standalone feature within the Surfshark One plan. You do not need the VPN active to generate aliases or receive forwarded email. The VPN and Alt ID are separate tools that happen to share the same subscription.
+No. Alt ID is a standalone feature within the [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) plan. You do not need the VPN active to generate aliases or receive forwarded email. The VPN and Alt ID are separate tools that happen to share the same subscription.
 
 ---
 

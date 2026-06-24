@@ -80,7 +80,7 @@ Not all VPNs unblock streaming. You need one that maintains fast, dedicated serv
 **[Get Surfshark and connect to Mexico >](/blog/vpn?sub=vpn-for-expats-watching-mexican-tv-abroad-2026__mid)**
 
 **Step 2 — Install the VPN on your device**
-Download the app for your operating system (Windows, macOS, Android, iOS, or a browser extension). Surfshark also supports router-level installation, which means every device on your home Wi-Fi is automatically covered.
+Download the app for your operating system (Windows, macOS, Android, iOS, or a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)). Surfshark also supports router-level installation, which means every device on your home Wi-Fi is automatically covered.
 
 **Step 3 — Connect to a Mexico server**
 Open the app, search for "Mexico" in the server list, and tap Connect. Your IP address is now Mexican.

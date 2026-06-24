@@ -190,7 +190,7 @@ WhatsApp is particularly strict about VoIP numbers. Free apps like TextNow and G
 
 ## Frequently Asked Questions
 
-**Is there actually a free burner number app that works?**
+**Is there actually a free [burner number](https://snipstack.io/burner-number-for-car-selling-on-autotrader-2026/) app that works?**
 
 Yes — Google Voice is genuinely free for US residents and works for texting. TextNow and TextFree are also free with ads. The caveat is that all three use VoIP number ranges, which some dating apps reject during verification. For a free trial of a carrier-backed number that works more broadly, Alt-Number includes a trial period when you sign up. Free starts you off; ongoing service requires a subscription.
 
