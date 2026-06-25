@@ -145,7 +145,7 @@ For most home office workers, yes. Norton 360 is better known and has a longer t
 
 Yes. The subscription covers unlimited devices including iOS and Android. The Surfshark app on mobile handles VPN, [CleanWeb ad](https://snipstack.io/cleanweb-ad-blocker-surfshark-2026/) blocking, and integrates with the Alert monitoring service. Real-time AV scanning on mobile uses the operating system's sandboxing model rather than a separate AV app, which is standard across the industry for iOS and Android.
 
-**Q: Can I use the VPN for accessing overseas streaming services while traveling?**
+**Q: Can I use the [VPN for accessing](https://snipstack.io/vpn-for-accessing-bbc-iplayer-outside-uk-2026/) overseas streaming services while traveling?**
 
 Yes, within the terms of service of the streaming platform you are accessing. Surfshark maintains servers in over 100 countries including Japan, the UK, Canada, Brazil, Turkey, and Argentina, and streaming performance on those servers is generally reliable. Check the streaming platform's own terms to understand what is permitted in your jurisdiction.
 

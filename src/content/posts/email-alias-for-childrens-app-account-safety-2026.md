@@ -62,7 +62,7 @@ The goal is one alias per risk category, managed by a parent, with a centralized
 
 ### Step 1 — Set Up a Dedicated Parent-Managed Forwarding Inbox
 
-Before creating any aliases, decide where children's app emails will land. This should not be your primary work inbox. A free email account you check regularly works well — call it the "family apps" inbox. The separation means you can filter and monitor it without kids' app spam competing with your actual email.
+Before creating any aliases, decide where children's app emails will land. This should not be your primary work inbox. A [free email](https://snipstack.io/free-email-alias-2026/) account you check regularly works well — call it the "family apps" inbox. The separation means you can filter and monitor it without kids' app spam competing with your actual email.
 
 Configure [Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-childrens-app-account-safety-2026__mid) to forward all aliases to this inbox. Every alias you create routes there automatically.
 

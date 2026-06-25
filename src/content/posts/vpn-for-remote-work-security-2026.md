@@ -91,7 +91,7 @@ It is worth being precise about scope so you can set appropriate expectations.
 - It does not prevent phishing attacks or malware that you download directly
 - It does not substitute for your employer's enterprise VPN or security policies if your organization requires one
 
-If your employer provides a corporate VPN for accessing internal systems, use that for work traffic as directed by your IT team. A consumer VPN like Surfshark works alongside it — protecting your personal traffic, securing non-work sessions, and giving you the streaming savings benefit on top.
+If your employer provides a corporate [VPN for accessing](https://snipstack.io/vpn-for-accessing-bbc-iplayer-outside-uk-2026/) internal systems, use that for work traffic as directed by your IT team. A consumer VPN like Surfshark works alongside it — protecting your personal traffic, securing non-work sessions, and giving you the streaming savings benefit on top.
 
 [**Try Surfshark — 30-Day Money-Back Guarantee**](/blog/vpn?sub=vpn-for-remote-work-security-2026__mid)
 

@@ -158,7 +158,7 @@ No security software eliminates all risk. What a good bundle does is close the g
 
 ## Who Should Consider Switching to a Bundle
 
-A security bundle makes sense if any of the following apply:
+A [security bundle](https://snipstack.io/security-bundle-that-doesnt-require-tech-knowledge-2026/) makes sense if any of the following apply:
 
 - You are currently paying $80–150/year for a Norton or McAfee renewal and resent the bloat
 - You are running a standalone [antivirus with](https://snipstack.io/antivirus-with-best-malware-removal-rate-2026/) no VPN and connecting to public Wi-Fi regularly

@@ -30,7 +30,7 @@ Here is what most people do not realize: the breach does not always start at the
 
 Each of those moments is a door. Without [antivirus](https://snipstack.io/vs-antivirus-2026/) protection on the home device, that door is wide open.
 
-Criminals use a tactic called "spear phishing" — targeted fake messages designed to look like something you already trust. Healthcare workers are among the most targeted groups because they are known to have access to sensitive systems and often use the same personal device for both work and home tasks.
+Criminals use a tactic called "[spear phishing](https://snipstack.io/spear-phishing-email-how-to-identify-2026/)" — targeted fake messages designed to look like something you already trust. Healthcare workers are among the most targeted groups because they are known to have access to sensitive systems and often use the same personal device for both work and home tasks.
 
 ---
 
@@ -48,7 +48,7 @@ Here are the most common ways malware gets onto a healthcare worker's home devic
 
 **Outdated software.** Old versions of Windows, outdated browsers, or apps that have not been updated in months all carry known security holes. Criminals exploit these holes within hours of them becoming public knowledge.
 
-**Fake antivirus popups.** A frightening warning appears on your screen: "Your computer is infected! Call this number now!" This is a scam. Real [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) does not ask you to call a phone number. These fake alerts are designed to get you to either pay money or hand over remote access to your device.
+**Fake antivirus popups.** A frightening warning appears on your screen: "Your computer is infected! Call this number now!" This is a scam. Real [antivirus software](https://snipstack.io/antivirus-software-with-browser-history-protection-2026/) does not ask you to call a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). These fake alerts are designed to get you to either pay money or hand over remote access to your device.
 
 A proper antivirus program handles all of these threats automatically. It scans incoming emails, checks files before they open, monitors links before you click, and updates itself so you are always protected against the newest attacks.
 
@@ -114,11 +114,11 @@ If you ever see a red alert on screen, click it. Surfshark will tell you exactly
 
 Knowing what to watch for is half the battle. These are the scams currently circulating most aggressively:
 
-**Medicare and insurance fraud calls.** A caller claims there is a problem with your Medicare account and asks for your Social Security number or bank details to "fix it." Medicare never calls unsolicited about account issues.
+**Medicare and insurance fraud calls.** A caller claims there is a problem with your Medicare account and asks for your [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number or bank details to "fix it." Medicare never calls unsolicited about account issues.
 
 **Fake agency login pages.** An email appears to come from your staffing agency or employer. It asks you to log in to confirm your schedule. The link goes to a fake site designed to steal your credentials.
 
-**Tech support scams.** A popup claims your computer has a virus and instructs you to call a toll-free number. The "technician" then asks for remote access to your computer and may install malware or demand payment.
+**[Tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)s.** A popup claims your computer has a virus and instructs you to call a toll-free number. The "technician" then asks for remote access to your computer and may install malware or demand payment.
 
 **Pharmacy and prescription fraud.** Messages claiming you have uncollected prescriptions or drug plan changes, asking you to click a link or provide personal information.
 
