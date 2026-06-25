@@ -12,7 +12,7 @@ tags: ["one", "privacy", "review"]
 
 Your Norton or McAfee renewal email just landed. You glance at the price. It is significantly higher than the deal you signed up for last year — because the introductory discount has expired and the standard annual rate has kicked in. Norton's own pricing page openly states that "renewal prices may be higher than the initial price." McAfee runs the same playbook. You are now paying close to $100 a year — sometimes more — for a product that slows your machine on startup, nags you with upsell pop-ups, and does not include a VPN or any privacy layer beyond basic malware scanning.
 
-You are not getting the **[best value](https://snipstack.io/best-value-antivirus-subscription-2026/) security subscription** for that money. You are paying a legacy premium for bloatware.
+You are not getting the **[best value](https://snipstack.io/best-value-antivirus-subscription-2026/) [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/)** for that money. You are paying a legacy premium for bloatware.
 
 This article explains why 2026 is the year to stop renewing Norton or McAfee on autopilot — and what a genuinely comprehensive, lower-cost alternative looks like.
 

@@ -51,7 +51,7 @@ There are other threats too:
 - **Keyloggers** are tiny programs that install silently on your device and record every keystroke — including your bank password as you type it.
 - **Fake banking apps** mimic legitimate apps but funnel your login details directly to criminals.
 - **Man-in-the-browser attacks** intercept your banking session in real time, changing payment details after you have already confirmed a transfer.
-- **Malicious pop-ups** warn you that your computer is infected (it is not) and prompt you to call a fake "tech support" number that charges hundreds of dollars to "fix" a non-existent problem.
+- **Malicious pop-ups** warn you that your computer is infected (it is not) and prompt you to call a fake "[tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)" number that charges hundreds of dollars to "fix" a non-existent problem.
 
 These are not theoretical dangers. They happen to real people every single day. The Federal Trade Commission receives hundreds of thousands of fraud reports from seniors annually, and online banking fraud represents one of the fastest-growing categories.
 
@@ -164,7 +164,7 @@ Yes, even if someone set up your device for you. Unless they specifically instal
 
 ### What if I get a pop-up saying my computer is already infected?
 
-Close it immediately without clicking anything inside the pop-up window. Do not call any phone number displayed. Legitimate antivirus software never uses alarming browser pop-ups to notify you — it communicates through its own app on your desktop. If you are concerned, run a scan directly from your antivirus software's main dashboard.
+Close it immediately without clicking anything inside the pop-up window. Do not call any [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) displayed. Legitimate antivirus software never uses alarming browser pop-ups to notify you — it communicates through its own app on your desktop. If you are concerned, run a scan directly from your antivirus software's main dashboard.
 
 ---
 

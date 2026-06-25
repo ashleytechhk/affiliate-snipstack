@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ## The Statistic That Should Make Every Chromebook Owner Pause
 
-In 2024, adults over 60 lost more than $3.4 billion to online fraud in the United States alone — a figure that rose for the fifth consecutive year, according to FBI Internet Crime Complaint Center data. Many of those victims believed their devices were safe. Some were using Chromebooks — a laptop widely marketed as secure, low-maintenance, and ideal for everyday browsing.
+In 2024, adults over 60 lost more than $3.4 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in the United States alone — a figure that rose for the fifth consecutive year, according to FBI Internet Crime Complaint Center data. Many of those victims believed their devices were safe. Some were using Chromebooks — a laptop widely marketed as secure, low-maintenance, and ideal for everyday browsing.
 
 They were not wrong about the basics. A standard Chromebook does carry meaningful built-in protections. But the moment you turn on **Linux Beta** (now called the Linux development environment), the rules change. A door opens. And if you do not know what walked in, you are at risk.
 

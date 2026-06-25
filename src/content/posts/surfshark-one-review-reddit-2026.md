@@ -86,7 +86,7 @@ This is the identity monitoring component. Alert watches for your email addresse
 
 ### Surfshark Search
 
-A private search engine that returns organic results without tracking your queries or building an ad profile. This is not a feature Norton or McAfee offer at all. For privacy-focused users who have been running DuckDuckGo or Brave Search as a workaround, having this integrated into your security subscription is a genuine addition.
+A private search engine that returns organic results without tracking your queries or building an ad profile. This is not a feature Norton or McAfee offer at all. For privacy-focused users who have been running DuckDuckGo or Brave Search as a workaround, having this integrated into your [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/) is a genuine addition.
 
 ---
 

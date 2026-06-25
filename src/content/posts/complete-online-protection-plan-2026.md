@@ -146,7 +146,7 @@ Norton has historically scored at or near the top in third-party malware detecti
 
 ### Why does Norton/McAfee cost more at renewal?
 
-Both providers use a first-year promotional pricing model, which is common in the subscription software industry. The promotional rate is the acquisition price; the renewal price is the standard rate. Users who set automatic renewal without reviewing the price change often pay significantly more from year two onward. Always check the renewal terms before confirming any security subscription, including [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/). Verify current renewal pricing on the provider's site before purchasing.
+Both providers use a first-year promotional pricing model, which is common in the subscription software industry. The promotional rate is the acquisition price; the renewal price is the standard rate. Users who set automatic renewal without reviewing the price change often pay significantly more from year two onward. Always check the renewal terms before confirming any [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/), including [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/). Verify current renewal pricing on the provider's site before purchasing.
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) slow down my computer?
 

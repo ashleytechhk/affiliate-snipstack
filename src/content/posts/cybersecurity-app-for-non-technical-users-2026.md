@@ -94,7 +94,7 @@ All four live inside one app. One login. No sub-accounts, no separate installers
 
 It would not be a fair comparison to dismiss Norton entirely. The detection rates are among the highest in independent testing by AV-TEST and AV-Comparatives. If you or someone in your household regularly downloads files from unfamiliar sources, runs software from unofficial sites, or works in an environment where targeted attacks are a real concern, Norton's detection edge is worth acknowledging.
 
-The honest problem is the experience around the security itself. Norton installs browser extensions across Chrome, Firefox, and Edge during setup — some of which require a separate opt-out. The password manager requires a Norton account separate from your security subscription. The cloud backup feature occupies storage for a plan most home users never activate. The VPN component requires a separate interaction to enable.
+The honest problem is the experience around the security itself. Norton installs browser extensions across Chrome, Firefox, and Edge during setup — some of which require a separate opt-out. The password manager requires a Norton account separate from your [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/). The cloud backup feature occupies storage for a plan most home users never activate. The VPN component requires a separate interaction to enable.
 
 ### Who Norton 360 Is Still Right For
 

@@ -60,7 +60,7 @@ The key variables between alias tools are:
 | Bundled with VPN | Yes ([Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/)) | No | No | No |
 | Reply from alias | Yes | Yes | Yes | Yes |
 | Price | From ~$3.99/mo (One) | Free / $4/mo | Free with Apple ID | Free / $4/mo |
-| Extra privacy features | Alt ID + VPN + antivirus | Email only | Email only | Email only |
+| Extra privacy features | Alt ID + VPN + [antivirus](https://snipstack.io/vs-antivirus-2026/) | Email only | Email only | Email only |
 
 ![Email alias comparison tool dashboard view](/og/email-alias-to-stop-spam-after-store-purchase-2026-inline-1.png)
 
@@ -94,7 +94,7 @@ SimpleLogin (now part of Proton) offers a solid free tier with 10 aliases — en
 
 ### What It Does Well
 
-The browser extension makes alias creation frictionless: right-click a form field, generate an alias, and it auto-fills. For desktop shoppers, this is the smoothest checkout flow of any tool tested.
+The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) makes alias creation frictionless: right-click a form field, generate an alias, and it auto-fills. For desktop shoppers, this is the smoothest checkout flow of any tool tested.
 
 SimpleLogin is also open-source, which matters for privacy-conscious users who want to audit the code or self-host.
 

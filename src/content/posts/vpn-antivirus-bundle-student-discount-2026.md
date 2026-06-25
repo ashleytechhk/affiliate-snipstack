@@ -177,7 +177,7 @@ The "student discount" framing is partly a myth in this category — but the und
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) covers it all without a device cap, without renewal pricing designed to catch you off guard, and with a 30-day refund window that functions as a no-cost trial. For students comparing this against Norton's renewal trap or Bitdefender's VPN that caps at 200 MB per day, the math tends to be straightforward.
 
-If you are done managing three separate security subscriptions — or wondering why your antivirus renewal just hit your card for twice what you expected — One is the consolidation move that actually makes financial sense on a student budget.
+If you are done managing three separate [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/)s — or wondering why your antivirus renewal just hit your card for twice what you expected — One is the consolidation move that actually makes financial sense on a student budget.
 
 **[Get Surfshark One — one price, unlimited devices, full protection](/blog/one?sub=vpn-antivirus-bundle-student-discount-2026__cta)**
 

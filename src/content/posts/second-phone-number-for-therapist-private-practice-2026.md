@@ -12,7 +12,7 @@ A woman matched with someone on a popular dating app, exchanged numbers after a 
 
 This is not a rare edge case. It is the kind of incident that privacy researchers say is happening with increasing frequency as dating apps push users toward off-platform communication before trust is established.
 
-If you run a therapist private practice, you face a specific version of this risk that most people do not think about until it is too late: your phone number is often already semi-public for professional reasons, which means giving it to a dating match does not just expose a personal line — it can expose your business, your clients' context, and your physical location all at once.
+If you run a therapist private practice, you face a specific version of this risk that most people do not think about until it is too late: your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is often already semi-public for professional reasons, which means giving it to a dating match does not just expose a personal line — it can expose your business, your clients' context, and your physical location all at once.
 
 **The fix is straightforward: use a [second phone number](https://snipstack.io/second-phone-number-for-medical-office-after-hours-2026/) for dating that has nothing to do with your practice.**
 
@@ -28,7 +28,7 @@ Surfshark's Alt-Number gives you a real, functional [second phone number](https:
 
 Most professionals can give a stranger their personal number and, worst case, deal with an awkward follow-up text. Therapists carry a different exposure profile.
 
-Your office address is typically listed on Psychology Today, your state licensing board, and your own website. Reverse-lookup services can connect a phone number to a name, and a name to a location, in under two minutes. A bad actor who receives your real number on a dating app now has a thread that pulls straight to your practice address, your session schedule, and in some cases the general neighborhood where you live if you work from home.
+Your office address is typically listed on Psychology Today, your state licensing board, and your own website. Reverse-lookup services can connect a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to a name, and a name to a location, in under two minutes. A bad actor who receives your real number on a dating app now has a thread that pulls straight to your practice address, your session schedule, and in some cases the general neighborhood where you live if you work from home.
 
 There is also a professional dimension. If a former client recognizes your number, or if a current client happens to see your dating profile because the apps serve you to nearby users, having the same phone number on both contexts creates an uncomfortable overlap that most ethics guidelines advise against.
 
@@ -117,7 +117,7 @@ That is the full setup. From that point, your dating activity runs through the A
 
 ## FAQ
 
-**Does a second phone number actually stop stalking?**
+**Does a [second phone number](https://snipstack.io/second-phone-number-for-handyman-contractor-quotes-2026/) actually stop stalking?**
 A [second number](https://snipstack.io/second-number-app-with-voicemail-transcription-2026/) significantly reduces the information a bad actor can extract from your contact details. It does not guarantee that a determined person cannot find you through other means — photos, location metadata, or information you share in conversation — but it removes the most common and direct link: the phone number reverse lookup. Combined with other privacy habits, it meaningfully reduces risk.
 
 **Will my matches know I am using a [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/)?**
@@ -132,7 +132,7 @@ You can delete or change the Alt-Number at any point. Anyone who had that number
 **Is a [virtual number](https://snipstack.io/virtual-number-for-discord-server-verification-2026/) the same as a VoIP number that gets flagged as spam?**
 Not necessarily. Free consumer VOIP numbers are more likely to trigger spam filters on carrier networks. Alt-Number, as a paid Surfshark product, uses infrastructure that aims for normal carrier behavior. That said, no number is immune to spam filtering in every situation, and your experience may vary by carrier and region.
 
-**Can I receive verification texts from dating apps on an Alt-Number?**
+**[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) verification texts from dating apps on an Alt-Number?**
 In most cases, yes. Alt-Number receives SMS like a standard number. Dating apps that require a [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) account verification should be able to send codes to your Alt-Number. It is worth confirming this works for your specific apps during setup before fully switching over.
 
 ---
@@ -141,6 +141,6 @@ In most cases, yes. Alt-Number receives SMS like a standard number. Dating apps 
 
 Dating online as a therapist with a private practice is not inherently risky. Handing out your real phone number — the one tied to your professional identity, your office location, and your client relationships — to people you have not yet met is where the risk enters.
 
-A second phone number for your dating life costs less than a single therapy session co-pay, installs in ten minutes, and puts a meaningful layer between your personal life and your practice. If a match turns out to be everything you hoped, you can always share the real number later. If something feels wrong, you can close the loop cleanly with no residual exposure.
+A [second phone number](https://snipstack.io/second-phone-number-for-ebay-selling-2026/) for your dating life costs less than a single therapy session co-pay, installs in ten minutes, and puts a meaningful layer between your personal life and your practice. If a match turns out to be everything you hoped, you can always share the real number later. If something feels wrong, you can close the loop cleanly with no residual exposure.
 
 [Get Alt-Number today and date online with a boundary that actually holds.](/blog/altnumber?sub=second-phone-number-for-therapist-private-practice-2026__cta)

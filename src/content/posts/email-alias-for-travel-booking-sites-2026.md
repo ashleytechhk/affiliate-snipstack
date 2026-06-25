@@ -100,7 +100,7 @@ Free, standalone, works on any browser and device. DuckDuckGo gives you a person
 **Weaknesses for travel booking:**
 - The `@duck.com` domain is recognizable as a privacy tool — some travel booking forms reject it
 - No reply-from-alias
-- Less integrated than Alt-ID; you are managing aliases separately from any VPN or security subscription
+- Less integrated than Alt-ID; you are managing aliases separately from any VPN or [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/)
 
 **Best for:** Privacy-focused travelers who want a free option and do not need VPN coverage.
 

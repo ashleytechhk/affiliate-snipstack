@@ -71,7 +71,7 @@ The key difference between tools is how many aliases you can create, whether you
 
 ## Surfshark Alt-ID — The Full-Picture Option
 
-Alt-ID takes a different angle from standalone alias tools. Instead of just masking your email, it creates a complete alternate identity — a different name, a different [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/), and optionally a different phone number. When you fill out a store's registration form, you're not just protecting your inbox, you're keeping your actual identity out of that retailer's database entirely.
+Alt-ID takes a different angle from standalone alias tools. Instead of just masking your email, it creates a complete alternate identity — a different name, a different [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/), and optionally a different [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/). When you fill out a store's registration form, you're not just protecting your inbox, you're keeping your actual identity out of that retailer's database entirely.
 
 **What works well:**
 
@@ -161,7 +161,7 @@ For the typical spam-exhausted inbox owner who shops on multiple devices, across
 
 **Can I use an [email alias](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/) at a physical store checkout?**
 
-Yes. Most in-store receipt requests let you type or verbally spell out an email. You can give the alias address the same way you would your real one. Some stores send receipts via SMS instead — for those cases, an alias service with a masked phone number option (like Alt-ID) covers you.
+Yes. Most in-store receipt requests let you type or verbally spell out an email. You can give the alias address the same way you would your real one. Some stores send receipts via SMS instead — for those cases, an alias service with a masked [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) option (like Alt-ID) covers you.
 
 **Will stores reject alias email addresses?**
 

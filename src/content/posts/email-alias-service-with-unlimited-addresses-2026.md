@@ -43,10 +43,10 @@ The table below scores each service across these factors.
 
 | Service | Alias Limit | Custom Domain | Reply From Alias | One-Click Deactivate | Free Tier |
 |---|---|---|---|---|---|
-| Alt ID | Unlimited | No (uses Alt ID domain) | Yes | Yes | Included in Surfshark One |
+| Alt ID | Unlimited | No (uses Alt ID domain) | Yes | Yes | Included in [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) |
 | SimpleLogin | Unlimited (paid) / 10 free | Yes | Yes | Yes | Yes (10 aliases) |
 | Firefox Relay | 5 free / unlimited paid | No | Limited | Yes | Yes (5 aliases) |
-| Apple Hide My Email | Unlimited (iCloud+) | No | Yes | Yes | iCloud+ subscription |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Unlimited (iCloud+) | No | Yes | Yes | iCloud+ subscription |
 | DuckDuckGo Email Protection | Unlimited | No | No (receive only) | Yes | Free |
 | Fastmail | Unlimited (paid) | Yes | Yes | Yes | No free tier |
 
@@ -58,7 +58,7 @@ Key takeaway: the only services offering genuinely unlimited aliases without hit
 
 ### Alt ID
 
-[Alt ID](https://snipstack.io/blog/altid?sub=email-alias-service-with-unlimited-addresses-2026__mid) is Surfshark's [email alias](https://snipstack.io/email-alias-for-veteran-benefit-portal-registration-2026/) and identity feature. It comes bundled with Surfshark One, meaning if you already use Surfshark for privacy, you likely already have access.
+[Alt ID](https://snipstack.io/blog/altid?sub=email-alias-service-with-unlimited-addresses-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s [email alias](https://snipstack.io/email-alias-for-veteran-benefit-portal-registration-2026/) and identity feature. It comes bundled with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/), meaning if you already use Surfshark for privacy, you likely already have access.
 
 **What it does well:**
 
@@ -71,7 +71,7 @@ Key takeaway: the only services offering genuinely unlimited aliases without hit
 **Limitations:**
 
 - Aliases use Alt ID's own domain — you cannot bring a custom domain
-- Requires a Surfshark One subscription (not a standalone free tool)
+- Requires a [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) subscription (not a standalone free tool)
 - No self-hosting option for privacy-maximalist users
 
 **Best for:** Anyone who wants unlimited aliases with zero setup friction and does not need custom domain support. Particularly strong value if you already use Surfshark for VPN.

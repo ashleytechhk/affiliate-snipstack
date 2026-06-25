@@ -134,7 +134,7 @@ McAfee+ Premium also offers unlimited devices, but its VPN has faced criticism o
 **Consider alternatives if:**
 - Your employer mandates a specific [antivirus for](https://snipstack.io/antivirus-for-content-creators-youtube-channels-2026/) work devices — don't try to manage that with a personal subscription
 - You need enterprise-grade endpoint logging or compliance tools — this isn't built for that
-- One partner already has a paid security subscription with a multi-year term — wait for the renewal before switching
+- One partner already has a paid [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/) with a multi-year term — wait for the renewal before switching
 
 ![Surfshark One value comparison for two people sharing one subscription 2026](/og/surfshark-one-for-couple-shared-plan-2026-inline-2.png)
 

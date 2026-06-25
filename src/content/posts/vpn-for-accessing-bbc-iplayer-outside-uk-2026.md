@@ -62,7 +62,7 @@ Getting started is simpler than most people expect. Here is the general flow wit
 
 **Step 1 — Sign up for a VPN plan.** Choose a provider with proven UK server performance. Longer plans (1–2 years) almost always offer the steepest discounts — often 80% or more off the monthly price.
 
-**Step 2 — Download and install the app.** Most VPNs support Windows, macOS, iOS, Android, Fire TV, and browser extensions. Installation takes under two minutes.
+**Step 2 — Download and install the app.** Most VPNs support Windows, macOS, iOS, Android, Fire TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Installation takes under two minutes.
 
 **Step 3 — Connect to a UK server.** Open the app, search for "United Kingdom" in the server list, and tap Connect.
 

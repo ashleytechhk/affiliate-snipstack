@@ -49,7 +49,7 @@ Using an alias for each portal login means you can instantly identify which serv
 | Replies from alias | No | Yes | No | No | No |
 | Number of aliases | Unlimited* | 10 free / Unlimited paid | Unlimited | 5 free / Unlimited paid | Unlimited (paid) |
 | Open source | No | Yes | No | Yes | No |
-| Bundled with other tools | VPN + antivirus bundle | Standalone | Apple ecosystem | Firefox account | Standalone |
+| Bundled with other tools | VPN + [antivirus](https://snipstack.io/vs-antivirus-2026/) bundle | Standalone | Apple ecosystem | Firefox account | Standalone |
 | Pricing (alias feature) | Included in [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) | Free tier / ~$30/yr paid | Free with Apple ID | Free tier / $1.99/mo | From $39/yr |
 | Works on all platforms | Yes | Yes | Apple devices only | All browsers | Yes |
 

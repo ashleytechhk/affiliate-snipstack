@@ -74,7 +74,7 @@ This is fundamentally different from using a throwaway Gmail or a [temporary ema
 
 Here is how the workflow looks for a Twitch Prime gaming signup:
 
-1. Open the Surfshark app or browser extension
+1. Open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)
 2. Navigate to Alt-ID and generate a new alias (you can label it "Twitch Prime" for your own reference)
 3. Copy the alias address
 4. Enter it as your email when connecting a game to Prime Gaming, or when creating accounts for individual developers in the loot library

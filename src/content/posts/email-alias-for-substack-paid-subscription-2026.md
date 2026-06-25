@@ -64,7 +64,7 @@ When you create an Alt ID, you get a randomly generated name, a date of birth, a
 
 Messages sent to your Alt ID email forward straight to your real inbox, so you do not miss a post. If the alias starts attracting spam, you delete it in one tap. No spam ever reaches your real address, and no data broker can link the alias back to your real name.
 
-**What makes it better than a bare email alias:**
+**What makes it better than a bare [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/):**
 
 - Most alias tools only mask your email. Alt ID masks your name and identity details too, which matters because Substack collects name data and that can surface in writer dashboards or exported subscriber lists.
 - Alt ID is included in Surfshark One — a bundle that also covers VPN access (useful when reading Substack on public Wi-Fi or if a writer geo-restricts content), antivirus, and breach alerts.
@@ -78,7 +78,7 @@ The main tradeoff is that Alt ID does not support custom domains. If you run a n
 
 ## SimpleLogin — Best for Power Users
 
-SimpleLogin is an open-source email alias service owned by Proton. The free tier gives you 10 aliases, which is enough for most people who only manage a handful of subscriptions. The paid tier (around $4/month) lifts the limit and adds custom domain support.
+SimpleLogin is an open-source [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/) service owned by Proton. The free tier gives you 10 aliases, which is enough for most people who only manage a handful of subscriptions. The paid tier (around $4/month) lifts the limit and adds custom domain support.
 
 Where SimpleLogin shines is **granular control**. You can see exactly how many emails each alias has received, which sender addresses are hitting it, and toggle spam filtering on a per-alias basis. It also supports two-way replies — you can email someone back from the alias address and your real email stays hidden throughout.
 
@@ -127,7 +127,7 @@ From this point forward, everything Substack sends hits the alias first. If you 
 
 ## FAQ
 
-### Does using an email alias break my Substack paid subscription?
+### Does using an [email alias](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/) break my Substack paid subscription?
 
 No. Substack only needs a working email address to deliver content and receipts. As long as the alias forwards to an inbox you check, everything works normally. You can still access paywalled posts, manage your account, and cancel anytime.
 
@@ -141,13 +141,13 @@ Alt ID is included in Surfshark One and Surfshark One+ subscription tiers. It is
 
 ### Will Substack suspend my account for using an alias?
 
-No. Substack does not prohibit email aliases in its terms of service. Many privacy-conscious readers use them without issue. The platform simply needs a deliverable email — it does not verify whether the address is an alias or a primary inbox.
+No. Substack does not prohibit [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/)es in its terms of service. Many privacy-conscious readers use them without issue. The platform simply needs a deliverable email — it does not verify whether the address is an alias or a primary inbox.
 
 ### Can I reply to Substack writers without revealing my real email?
 
 Yes, if you use Alt ID or SimpleLogin (both support two-way replies). With Apple Hide My Email, replies reveal a different masked address rather than your real one, but the experience is less seamless. If replying to writers is important to you, Alt ID or SimpleLogin Pro are the better fits.
 
-### What happens if I delete my alias?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete my alias?
 
 Any future emails to that alias will bounce or disappear, depending on the service. Substack will eventually flag the subscription as having a bad email address. You can always add a new alias to your Substack account before deleting the old one to avoid any gap in service.
 

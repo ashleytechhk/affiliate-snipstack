@@ -43,7 +43,7 @@ The same dynamic plays out for families coordinating international calls. A seni
 
 Dating app culture has shifted. Users are more privacy-aware than they were five years ago, and yet the pressure to "move things off the app" and onto a personal number still comes early in most conversations. That gap between awareness and behavior is where the risk lives.
 
-**What happens when you give out your real number too soon:**
+**[What happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) you give out your real number too soon:**
 
 - A match who turns out to be a scammer now has a persistent contact point
 - Unwanted contact continues long after you have unmatched or blocked them on the platform
@@ -82,7 +82,7 @@ Surfshark's Alt Number product is designed for exactly this kind of everyday pri
 
 **Core features:**
 
-- **Real phone number, different digits** — you get an actual number that rings on your device, not a VOIP workaround that drops calls unpredictably
+- **Real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/), different digits** — you get an actual number that rings on your device, not a VOIP workaround that drops calls unpredictably
 - **No second SIM required** — everything runs through the app, so there is no hardware to manage
 - **Calls and texts work normally** — anyone who has the number can call or text it just like any other number
 - **You control it** — if the number gets compromised or starts attracting spam, you can replace it without affecting your primary line

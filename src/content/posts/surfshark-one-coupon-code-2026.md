@@ -151,7 +151,7 @@ If you subscribe to [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-s
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Norton or McAfee subscription if I switch?**
 
-Switching does not automatically cancel your existing security subscription. Once you have confirmed [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) is installed and running cleanly on your devices, manually cancel your Norton or McAfee subscription to avoid being charged on the next renewal date. Set a calendar reminder before the next billing date if your current subscription is mid-cycle.
+Switching does not automatically cancel your existing [security subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/). Once you have confirmed [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) is installed and running cleanly on your devices, manually cancel your Norton or McAfee subscription to avoid being charged on the next renewal date. Set a calendar reminder before the next billing date if your current subscription is mid-cycle.
 
 ---
 

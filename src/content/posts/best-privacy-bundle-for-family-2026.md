@@ -49,7 +49,7 @@ Norton and McAfee both disable Windows Defender when installed. Once you uninsta
 
 ---
 
-## Step 1 — Cancel Your Existing Security Subscription
+## Step 1 — Cancel Your Existing [Security Subscription](https://snipstack.io/security-subscription-for-household-with-mixed-devices-2026/)
 
 Do not wait until the last minute. Norton and McAfee both auto-renew aggressively and some plans are difficult to cancel through the app — you often have to log in to the vendor website directly.
 

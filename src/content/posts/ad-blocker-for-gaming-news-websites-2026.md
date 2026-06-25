@@ -56,7 +56,7 @@ This is where a VPN-level [ad blocker](https://snipstack.io/ad-blocker-that-hide
 
 When CleanWeb is active, all traffic from your phone — regardless of which app or browser generated it — passes through Surfshark's encrypted tunnel. Before any response comes back, the DNS filtering layer checks the destination against a blocklist of millions of known ad servers, malware hosts, and tracker domains. If there is a match, the request is dropped. The article text loads; the ad never does.
 
-**Step-by-step, here is what happens when you open a gaming news page with CleanWeb on:**
+**Step-by-step, here is [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) you open a gaming news page with CleanWeb on:**
 
 1. You tap a link in your Reddit or Twitter app.
 2. Your phone sends the DNS lookup through the Surfshark tunnel.
@@ -126,7 +126,7 @@ Setting up takes under two minutes.
 4. Connect to any Surfshark server.
 5. Open your gaming news site of choice.
 
-That is the entire setup. No browser extension to install, no manual DNS configuration, no root access required. CleanWeb works inside Chrome, Safari, Firefox, your Reddit app, Twitter, and any other app that makes network requests.
+That is the entire setup. No [browser extension to](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) install, no manual DNS configuration, no root access required. CleanWeb works inside Chrome, Safari, Firefox, your Reddit app, Twitter, and any other app that makes network requests.
 
 ![Mobile screenshot showing Surfshark CleanWeb toggle in settings and a clean gaming news article](/og/ad-blocker-for-gaming-news-websites-2026-inline-2.png)
 

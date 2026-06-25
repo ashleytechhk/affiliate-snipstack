@@ -97,7 +97,7 @@ It is worth being direct about the limits.
 
 Alt-Number does not make you invisible. It does not encrypt your messages in transit (use Signal for that). It does not hide your IP address (use a VPN for that). It is not a substitute for general digital hygiene.
 
-What it does is simple and specific: it gives you a functional, real secondary phone number so that your permanent number stays out of contexts where you cannot control what happens to it next. That is a narrow, useful thing to have — and it is the right tool for this particular risk.
+What it does is simple and specific: it gives you a functional, real secondary phone number so that your permanent number stays out of contexts where you cannot control [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to it next. That is a narrow, useful thing to have — and it is the right tool for this particular risk.
 
 ---
 
