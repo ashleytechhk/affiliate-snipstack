@@ -28,9 +28,9 @@ Surfshark's Alt-Number gives you a real, functional [second phone number](https:
 
 Most professionals can give a stranger their personal number and, worst case, deal with an awkward follow-up text. Therapists carry a different exposure profile.
 
-Your office address is typically listed on Psychology Today, your state licensing board, and your own website. Reverse-lookup services can connect a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to a name, and a name to a location, in under two minutes. A bad actor who receives your real number on a dating app now has a thread that pulls straight to your practice address, your session schedule, and in some cases the general neighborhood where you live if you work from home.
+Your office address is typically listed on Psychology Today, your state licensing board, and your own website. Reverse-lookup services can connect a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to a name, and a name to a location, in under two minutes. A bad actor who receives your real number on a dating app now has a thread that pulls straight to your practice address, your session schedule, and in some cases the general neighborhood where you live if you [work from home](https://snipstack.io/work-from-home-job-scam-how-to-spot-2026/).
 
-There is also a professional dimension. If a former client recognizes your number, or if a current client happens to see your dating profile because the apps serve you to nearby users, having the same phone number on both contexts creates an uncomfortable overlap that most ethics guidelines advise against.
+There is also a professional dimension. If a former client recognizes your number, or if a current client happens to see your dating profile because the apps serve you to nearby users, having the same [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) on both contexts creates an uncomfortable overlap that most ethics guidelines advise against.
 
 None of this means therapists should not date online. It means they should date online with the same boundary-setting they apply professionally.
 
@@ -84,7 +84,7 @@ There are a few ways to get a [second number](https://snipstack.io/second-number
 
 A [second number](https://snipstack.io/second-number-to-avoid-spam-after-renovation-quote-2026/) is a technical tool, but it supports something larger: the ability to set clear communication boundaries without the social awkwardness of refusing to share a number at all.
 
-When a match asks for your number, sharing an Alt-Number feels completely natural. You are sharing a working phone number. Calls and texts go through. You are fully reachable. The only thing that changes is what happens if something goes wrong.
+When a match asks for your number, sharing an Alt-Number feels completely natural. You are sharing a working phone number. Calls and texts go through. You are fully reachable. The only thing that changes is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if something goes wrong.
 
 Therapists understand boundary-setting conceptually better than most people. Applying that same logic to personal privacy online is a direct extension of the professional values already shaping your practice.
 
@@ -124,7 +124,7 @@ A [second number](https://snipstack.io/second-number-app-with-voicemail-transcri
 No. When you share an Alt-Number, it looks like any other phone number. Calls and texts go through normally. There is no indication that it is a [virtual number](https://snipstack.io/virtual-number-to-stop-spam-calls-after-free-trial-2026/) rather than a standard carrier line.
 
 **Can I use the same Alt-Number for my practice directory listings?**
-Yes. Many solo therapists use a [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) precisely for professional directories, so their personal mobile stays private from clients as well. Alt-Number works for both purposes, though you may want to think through whether you want the same number serving both contexts or separate numbers for each use case. [Learn more about Alt-Number's features here.](/blog/altnumber?sub=second-phone-number-for-therapist-private-practice-2026__faq)
+Yes. Many solo therapists use a [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) precisely for professional directories, so their personal mobile stays private from clients as well. Alt-Number works for both purposes, though you may want to think through whether you want the same number serving both contexts or [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/)s for each use case. [Learn more about Alt-Number's features here.](/blog/altnumber?sub=second-phone-number-for-therapist-private-practice-2026__faq)
 
 **What happens if I want to stop using the number?**
 You can delete or change the Alt-Number at any point. Anyone who had that number will no longer be able to reach you through it. This is the core advantage over a real number: the connection is severable.

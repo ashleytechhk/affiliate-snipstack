@@ -129,7 +129,7 @@ The savings over three years on unlimited devices often exceed $300. Even if you
 
 ## FAQ
 
-**Does a combined VPN and antivirus subscription actually save money?**
+**Does a combined VPN and [antivirus subscription](https://snipstack.io/antivirus-subscription-with-monthly-cancel-option-2026/) actually save money?**
 For most people, yes. Once your legacy suite renews at full price and you factor in a separate [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/), the combined cost usually exceeds what [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) charges for unlimited devices. [Check current Surfshark One pricing here](/blog/one?sub=vpn-and-antivirus-same-subscription-benefits-2026__faq).
 
 **Is the antivirus in [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) good enough to replace Norton?**

@@ -47,7 +47,7 @@ Key capabilities to evaluate:
 | Reply masking | Yes | Yes | No | No |
 | Catch-all mode | No | Yes (paid) | No | No |
 | Unlimited aliases | Yes | Yes (paid) | Yes (Apple One) | Yes (free) |
-| Bundled with VPN/privacy suite | Yes | No | Partial (iCloud+) | No |
+| Bundled with VPN/[privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) | Yes | No | Partial (iCloud+) | No |
 | Open source | No | Yes | No | Partial |
 | Self-hostable | No | Yes | No | No |
 | Price (standalone) | Included in [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) | Free / $4/mo paid | Included in iCloud+ | Free |
@@ -56,7 +56,7 @@ Key capabilities to evaluate:
 
 ## Alt-ID: Best for Integrated Inbox Privacy
 
-Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s [email alias](https://snipstack.io/email-alias-that-blocks-promotional-emails-instantly-2026/) feature, bundled inside the [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) privacy suite. You generate masked aliases that forward to your real inbox, and you manage them from a single dashboard alongside other Surfshark privacy tools.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s [email alias](https://snipstack.io/email-alias-that-blocks-promotional-emails-instantly-2026/) feature, bundled inside the [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/). You generate masked aliases that forward to your real inbox, and you manage them from a single dashboard alongside other Surfshark privacy tools.
 
 ![Alt-ID alias dashboard showing masked forwarding and alias management](/og/email-alias-with-disposable-subdomain-support-2026-inline-1.png)
 
@@ -84,7 +84,7 @@ SimpleLogin is the most technically complete standalone alias service available.
 
 The subdomain implementation is thorough. You get a dedicated subdomain on SimpleLogin's shared domain or your own domain. Catch-all mode means any address at `*@yoursubdomain.slmail.me` routes to your inbox automatically — useful when signing up to services that generate confirmation links to addresses you did not create in advance.
 
-PGP encryption is supported end-to-end. The browser extension integrates alias creation directly into signup forms. The API is documented and usable.
+PGP encryption is supported end-to-end. The [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) integrates alias creation directly into signup forms. The API is documented and usable.
 
 **Limitations:**
 
@@ -138,7 +138,7 @@ No subdomain structure. No reply masking. No custom domains. Alias management is
 
 **You want free tracker-stripping forwarding with no commitment** → DuckDuckGo Email Protection.
 
-**You want alias protection bundled with VPN, breach alerts, and other privacy tools in one subscription** → Alt-ID inside Surfshark One.
+**You want alias protection bundled with VPN, breach alerts, and other privacy tools in one subscription** → Alt-ID inside [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/).
 
 ![Comparison breakdown: Alt-ID vs SimpleLogin vs Apple vs DuckDuckGo for email alias subdomain support](/og/email-alias-with-disposable-subdomain-support-2026-inline-2.png)
 
@@ -192,7 +192,7 @@ For most spam-exhausted inbox owners in 2026, the [best email alias](https://sni
 
 If standalone, **SimpleLogin** is the most complete option — subdomain routing, catch-all, custom domains, open source.
 
-If integrated — meaning you want alias protection as part of a broader privacy layer alongside VPN, breach alerts, and tracker blocking — **Alt-ID** inside Surfshark One is the strongest single-subscription answer. The alias management is clean, reply masking works, and you are not bouncing between three separate dashboards to protect one inbox.
+If integrated — meaning you want alias protection as part of a broader privacy layer alongside VPN, breach alerts, and tracker blocking — **Alt-ID** inside [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) is the strongest single-subscription answer. The alias management is clean, reply masking works, and you are not bouncing between three separate dashboards to protect one inbox.
 
 The spam you stopped giving your real address to cannot reach you. The aliases you burned cannot be traced back to where you actually receive mail.
 

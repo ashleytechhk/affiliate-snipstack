@@ -73,7 +73,7 @@ A subscription that covers one device is less useful than one that covers severa
 
 ### 3. Honest Renewal Pricing
 
-Many antivirus companies offer a very low introductory price — sometimes $20 or $30 for the first year — and then quietly double or triple the bill at renewal. This is one of the most common complaints seniors have about antivirus subscriptions.
+Many antivirus companies offer a very low introductory price — sometimes $20 or $30 for the first year — and then quietly double or triple the bill at renewal. This is one of the most common complaints seniors have about [antivirus subscription](https://snipstack.io/antivirus-subscription-with-monthly-cancel-option-2026/)s.
 
 Good value means the renewal price is reasonable and clearly stated before you sign up. Check the renewal rate, not just the headline price.
 

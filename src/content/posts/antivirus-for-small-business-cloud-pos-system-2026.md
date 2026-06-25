@@ -125,7 +125,7 @@ Let us be direct about the financial reality.
 
 The average cost of a data breach for a small business in the United States now exceeds $120,000 when you add up the direct losses, the cost of notifying customers, regulatory fines, and the damage to your reputation. Many small businesses do not survive a serious breach. They close within two years of the incident.
 
-A full antivirus subscription for five devices costs roughly $30 to $80 per year depending on the provider.
+A full [antivirus subscription](https://snipstack.io/antivirus-subscription-with-monthly-cancel-option-2026/) for five devices costs roughly $30 to $80 per year depending on the provider.
 
 That is the comparison you are making: $80 a year versus a potential six-figure loss.
 

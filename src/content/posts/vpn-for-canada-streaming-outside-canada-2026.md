@@ -138,7 +138,7 @@ If you are in a jurisdiction where VPN use is restricted or regulated, check loc
 
 ## Frequently Asked Questions
 
-### Is a VPN for Canadian streaming legal?
+### Is a [VPN for Canadian](https://snipstack.io/vpn-for-canadian-expats-watching-hockey-abroad-2026/) streaming legal?
 
 Yes, in Canada and in most countries travelers commonly visit. VPN use is legal in Canada, the United States, the EU, Australia, and most other major destinations. Using a VPN to maintain access to a service you subscribe to is not a criminal matter. Whether it conflicts with a specific platform's terms of service is a separate question — and most services enforce those terms technically (by blocking VPN IPs) rather than legally against individual users.
 

@@ -66,7 +66,7 @@ Key takeaway: the only services offering genuinely unlimited aliases without hit
 - Clean dashboard: create, pause, and delete aliases in seconds
 - Forwards to any inbox provider — Gmail, Outlook, Proton, your own domain inbox, anything
 - Reply from the alias so your real address stays hidden in outbound mail too
-- Pairs with Surfshark's other privacy tools (VPN, Antivirus, data breach alerts) in one subscription
+- Pairs with Surfshark's other privacy tools (VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), data breach alerts) in one subscription
 
 **Limitations:**
 
@@ -89,7 +89,7 @@ SimpleLogin is an open-source alias service acquired by Proton in 2022. The free
 - Fully open source — the code is auditable and self-hostable
 - Custom domain support on paid plans (you can alias from your own domain)
 - Strong Proton integration if you use Proton Mail
-- Browser extension for auto-generating aliases at sign-up
+- [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for auto-generating aliases at sign-up
 
 **Limitations:**
 
@@ -197,7 +197,7 @@ These two are the most direct competitors for users who want unlimited aliases w
 | Custom domain | No | Yes |
 | Reply from alias | Yes | Yes |
 | One-click deactivate | Yes | Yes |
-| Bundled with other tools | Yes (Surfshark One) | Yes (Proton Unlimited) |
+| Bundled with other tools | Yes ([Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/)) | Yes (Proton Unlimited) |
 | Self-hostable | No | Yes |
 | Setup complexity | Low | Medium |
 

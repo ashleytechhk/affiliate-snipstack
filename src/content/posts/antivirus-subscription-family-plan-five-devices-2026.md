@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 **Seniors lost over $3.4 billion to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in 2023 alone** — more than any other age group, according to the FBI's Internet Crime Complaint Center. Many of those losses came from a simple, preventable cause: no [antivirus](https://snipstack.io/vs-antivirus-2026/) protection on their devices.
 
-If you are 60 or older, or if you have a parent or grandparent who uses a phone, tablet, or laptop, this article is for you. We will walk through exactly why an **antivirus subscription [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) five devices** is the smartest, most affordable way to protect everyone you love — without making anyone's life complicated.
+If you are 60 or older, or if you have a parent or grandparent who uses a phone, tablet, or laptop, this article is for you. We will walk through exactly why an **[antivirus subscription](https://snipstack.io/antivirus-subscription-with-monthly-cancel-option-2026/) [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) five devices** is the smartest, most affordable way to protect everyone you love — without making anyone's life complicated.
 
 **[Protect your family now with Surfshark Antivirus](/blog/antivirus?sub=antivirus-subscription-family-plan-five-devices-2026__above-fold)**
 

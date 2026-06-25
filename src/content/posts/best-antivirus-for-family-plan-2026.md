@@ -44,7 +44,7 @@ All three of these attacks work by bypassing the human's natural skepticism thro
 
 ## What a Family Plan Actually Gives You
 
-A family plan antivirus subscription is not complicated. Think of it like a phone plan: one account, multiple slots for devices, one monthly or annual payment. The adult who sets it up manages everything from a single dashboard.
+A family plan [antivirus subscription](https://snipstack.io/antivirus-subscription-with-monthly-cancel-option-2026/) is not complicated. Think of it like a phone plan: one account, multiple slots for devices, one monthly or annual payment. The adult who sets it up manages everything from a single dashboard.
 
 Here is what that looks like in practice for a typical family:
 
