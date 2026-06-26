@@ -69,11 +69,11 @@ In technical terms: Alt-ID generates a randomly named email address (something l
 
 ## Step-by-Step Setup Guide for Non-Technical Users
 
-Getting started with Alt-ID takes about three minutes. Here is exactly what to do, written for someone who has never used a privacy tool before.
+Getting started with Alt-ID takes about three minutes. Here is exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/), written for someone who has never used a privacy tool before.
 
 ### Step 1: Get [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/)
 
-Alt-ID is included with the [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) subscription (which also includes the VPN, Antivirus, and Search). If you already subscribe, skip to Step 2.
+Alt-ID is included with the [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) subscription (which also includes the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and Search). If you already subscribe, skip to Step 2.
 
 [**Start your Surfshark One subscription**](/blog/altid?sub=surfshark-altid-for-non-technical-users-setup-guide-2026__mid)
 
@@ -101,7 +101,7 @@ If an alias starts receiving junk, return to the dashboard and delete it. The sp
 
 ## What Makes This Easy for Non-Technical Users
 
-Most privacy tools require some degree of configuration — setting up DNS records, understanding encryption keys, or managing browser extensions. Alt-ID has none of that.
+Most privacy tools require some degree of configuration — setting up DNS records, understanding encryption keys, or managing [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Alt-ID has none of that.
 
 The entire workflow is:
 1. Open the dashboard
@@ -150,7 +150,7 @@ Once you delete an alias in the Alt-ID dashboard, any emails sent to that addres
 
 ### Is Alt-ID included in all Surfshark plans?
 
-Alt-ID is part of the Surfshark One package, which bundles the VPN, Antivirus, Search, and Alt-ID under one subscription. It is not available as a standalone product. If you are comparing costs, Surfshark One is priced competitively given how many tools it includes.
+Alt-ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) package, which bundles the VPN, Antivirus, Search, and Alt-ID under one subscription. It is not available as a standalone product. If you are comparing costs, [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) is priced competitively given how many tools it includes.
 
 [**Check current Surfshark One pricing**](/blog/altid?sub=surfshark-altid-for-non-technical-users-setup-guide-2026__faq)
 

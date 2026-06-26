@@ -196,7 +196,7 @@ Yes — Google Voice is genuinely free for US residents and works for texting. T
 
 [**Start your free trial with Alt-Number →**](/blog/altnumber?sub=free-burner-number-app-2026__faq)
 
-**Will dating apps know I am using a burner number?**
+**Will dating apps know I am using a [burner number](https://snipstack.io/burner-number-for-craigslist-roommate-ads-2026/)?**
 
 Dating apps verify that you received an SMS code — they do not check whether the number is your "primary" line. As long as verification completes successfully, the app has no way to distinguish your burner from a regular SIM number. This applies to Tinder, Hinge, Bumble, and most other platforms.
 

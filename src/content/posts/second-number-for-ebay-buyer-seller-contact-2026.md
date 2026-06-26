@@ -109,7 +109,7 @@ For online daters especially, this matters because the filtering stage of dating
 
 **Q: Can I use Alt-Number as the contact number in my eBay seller profile?**
 
-Yes. You can list your Alt-Number anywhere a contact number is requested — eBay listings, Facebook Marketplace, Craigslist, or any platform that facilitates buyer-seller contact. The number functions normally for inbound calls and texts. [Get your Alt-Number here](/blog/altnumber?sub=second-number-for-ebay-buyer-seller-contact-2026__faq)
+Yes. You can list your Alt-Number anywhere a contact number is requested — eBay listings, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/), Craigslist, or any platform that facilitates buyer-seller contact. The number functions normally for inbound calls and texts. [Get your Alt-Number here](/blog/altnumber?sub=second-number-for-ebay-buyer-seller-contact-2026__faq)
 
 **Q: Will buyers be suspicious if the number looks different from a standard carrier number?**
 

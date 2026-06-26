@@ -28,7 +28,7 @@ Surfshark Alt-Number gives you a real, functional [phone number](https://snipsta
 
 Most people focus on avoiding dangerous in-person meetups. That caution is right, but the threat often starts much earlier — the moment you hand over your digits.
 
-Here is what happens when a bad actor has your real number:
+Here is [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) a bad actor has your real number:
 
 - **Reverse phone lookups** can surface your full name, address, and employer within seconds using free tools.
 - **Social media cross-referencing** — your number is likely attached to your Facebook, Instagram, or WhatsApp account. One search and your entire profile is visible.
@@ -51,7 +51,7 @@ Many people use the same [phone number for](https://snipstack.io/phone-number-fo
 
 Health providers send SMS reminders. Those reminders often include clinic names, appointment times, and sometimes the nature of the visit. If someone you met on a dating app has your real number and is monitoring your texts (via stalkerware, for instance), your medical schedule becomes visible to them.
 
-This is not a hypothetical. Domestic abuse researchers have documented cases where abusers tracked victims through SMS notifications from healthcare providers. Using a separate number for contexts where you want privacy — whether that is dating, healthcare, or any other sensitive category — creates meaningful separation between your social and private life.
+This is not a hypothetical. Domestic abuse researchers have documented cases where abusers tracked victims through SMS notifications from healthcare providers. Using a [separate number for](https://snipstack.io/separate-number-for-dating-apps-2026/) contexts where you want privacy — whether that is dating, healthcare, or any other sensitive category — creates meaningful separation between your social and private life.
 
 ![Diagram showing how one phone number connects to dating apps, health portals, banking, and social media — all exposed together](/og/second-number-for-medical-appointments-privacy-2026-inline-1.png)
 
@@ -63,7 +63,7 @@ A [second number](https://snipstack.io/second-number-for-work-life-balance-remot
 
 With **Surfshark Alt-Number**, the mechanics are straightforward:
 
-1. You get a real phone number in your chosen country or region.
+1. You get a real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) in your chosen country or region.
 2. Calls and texts sent to that number are forwarded to your actual device.
 3. When you call or text back through the app, the recipient sees the Alt-Number — not your real one.
 4. If someone becomes a problem, you stop forwarding or change the number entirely.
@@ -102,7 +102,7 @@ The market for [virtual phone number](https://snipstack.io/virtual-phone-number-
 
 - **Works in multiple countries** — useful if you travel overseas or want to appear local to a specific region
 - **No hardware required** — everything runs through the Surfshark app you may already have
-- **Bundled with Surfshark One** — if you use Surfshark VPN, Alt-Number can be part of your existing plan, meaning your internet traffic and your phone identity are both protected under one subscription
+- **Bundled with [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/)** — if you use Surfshark VPN, Alt-Number can be part of your existing plan, meaning your internet traffic and your phone identity are both protected under one subscription
 - **Instant deactivation** — if the number gets compromised or handed to someone you no longer trust, you deal with it immediately without involving your carrier
 - **Real SMS delivery** — unlike some [virtual number](https://snipstack.io/virtual-number-for-freelance-photographer-client-calls-2026/) services that filter texts aggressively, Alt-Number passes through the messages you actually need, including verification codes from apps
 

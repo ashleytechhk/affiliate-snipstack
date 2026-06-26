@@ -57,7 +57,7 @@ Alt ID is the [email alias](https://snipstack.io/email-alias-for-veteran-benefit
 
 The identity generator is the killer feature for subscription management. Newsletters, trials, and loyalty programs often collect more than an email. Alt ID lets you fill those fields with generated details — keeping your real name and address out of yet another database.
 
-**Best for:** people who want one tool to handle [email privacy](https://snipstack.io/email-privacy-after-facebook-data-leak-2026/), VPN, antivirus, and identity at once.
+**Best for:** people who want one tool to handle [email privacy](https://snipstack.io/email-privacy-after-facebook-data-leak-2026/), VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and identity at once.
 
 **[Get Alt ID and stop spam at the source](/blog/altid?sub=email-alias-for-managing-subscriptions-one-inbox-2026__mid)**
 
@@ -67,7 +67,7 @@ The identity generator is the killer feature for subscription management. Newsle
 
 ### SimpleLogin
 
-SimpleLogin (now owned by Proton) is the power-user's choice. It supports custom domains, PGP encryption of forwarded emails, and a clean browser extension for generating aliases on the fly. The free tier gives you ten aliases — enough to test the concept. The paid plan unlocks unlimited aliases and custom domains, useful if you want aliases like `newsletters@yourowndomain.com`.
+SimpleLogin (now owned by Proton) is the power-user's choice. It supports custom domains, PGP encryption of forwarded emails, and a clean [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for generating aliases on the fly. The free tier gives you ten aliases — enough to test the concept. The paid plan unlocks unlimited aliases and custom domains, useful if you want aliases like `newsletters@yourowndomain.com`.
 
 **Limitation:** no identity generator, and the UI has more friction than Alt ID. It is a better fit for technically comfortable users who want granular control.
 
@@ -101,7 +101,7 @@ Neither tool includes an identity generator or a VPN bundle, so they work best a
 
 ---
 
-## How to Set Up Surfshark Alt ID for Subscription Management
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Surfshark Alt ID for Subscription Management
 
 The process takes under five minutes:
 

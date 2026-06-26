@@ -76,7 +76,7 @@ No carrier call. No number change. Your real number stays clean.
 - **Real SMS verification** — Dating apps check for real carrier numbers, not VoIP. Alt-Number passes these checks, so you can complete sign-up and get your verification code without issues.
 - **Works on your existing phone** — No second handset needed. The number routes to your current device.
 - **Simple on/off control** — If a number starts getting spam calls, you handle it from the app. No need to call anyone.
-- **No long-term contract** — Month-to-month billing means you can get a number for a free trial period, then decide what to do after.
+- **No long-term contract** — Month-to-month billing means you can get a number for a free trial period, then decide [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/) after.
 - **Privacy by design** — The service does not sell your data to marketing partners. Your usage stays between you and the provider.
 
 For someone who goes through dating app free trials a few times a year, this is a natural fit. You get a fresh number for each trial, keep your real number invisible, and never spend another morning clearing out robocall voicemails.
@@ -140,7 +140,7 @@ Not exactly. VoIP numbers are delivered entirely over the internet and often fai
 **Do I need a [second phone](https://snipstack.io/second-phone-number-app-with-call-forwarding-2026/) or SIM card?**
 No. The [virtual number](https://snipstack.io/virtual-number-for-telegram-account-signup-2026/) routes to your existing phone. You receive calls and texts through the Alt-Number app or via call forwarding, all on the device you already use.
 
-**What happens to my real number if I keep using it for app sign-ups?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my real number if I keep using it for app sign-ups?**
 Over time, your real number accumulates in more databases, more marketing lists, and more breach exposures. Spam volume tends to increase, not decrease. Switching to a [virtual number for](https://snipstack.io/virtual-number-for-international-business-calls-2026/) new sign-ups stops the accumulation at its source. It does not clean up your real number from lists it is already on — that requires a longer process — but it prevents new exposure going forward.
 
 ---

@@ -67,7 +67,7 @@ Messages sent to your Alt ID email forward straight to your real inbox, so you d
 **What makes it better than a bare [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/):**
 
 - Most alias tools only mask your email. Alt ID masks your name and identity details too, which matters because Substack collects name data and that can surface in writer dashboards or exported subscriber lists.
-- Alt ID is included in Surfshark One — a bundle that also covers VPN access (useful when reading Substack on public Wi-Fi or if a writer geo-restricts content), antivirus, and breach alerts.
+- Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) — a bundle that also covers VPN access (useful when reading Substack on public Wi-Fi or if a writer geo-restricts content), antivirus, and breach alerts.
 - The interface is simple enough that you do not need to manage a separate service. Everything lives inside the Surfshark app you may already be using.
 
 **[Try Surfshark Alt ID &rarr;](/blog/altid?sub=email-alias-for-substack-paid-subscription-2026__mid)**
@@ -108,7 +108,7 @@ The catch is the Apple lock-in. Hide My Email only works cleanly on Apple device
 
 ---
 
-## How to Set Up an [Email Alias for](https://snipstack.io/email-alias-for-booking-cheap-flights-and-travel-deals-2026/) Your Substack Subscription
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an [Email Alias for](https://snipstack.io/email-alias-for-booking-cheap-flights-and-travel-deals-2026/) Your Substack Subscription
 
 The process is roughly the same regardless of which tool you pick:
 
@@ -137,7 +137,7 @@ Yes. Go to your Substack account settings, update the email field with your new 
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/) Alt ID free?
 
-Alt ID is included in Surfshark One and Surfshark One+ subscription tiers. It is not available as a standalone free product, but it is bundled with VPN, antivirus, and breach alerts — making the per-feature cost competitive with standalone alias tools. [Check current pricing here.](/blog/altid?sub=email-alias-for-substack-paid-subscription-2026__faq)
+Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)+ subscription tiers. It is not available as a standalone free product, but it [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with VPN, antivirus, and breach alerts — making the per-feature cost competitive with standalone alias tools. [Check current pricing here.](/blog/altid?sub=email-alias-for-substack-paid-subscription-2026__faq)
 
 ### Will Substack suspend my account for using an alias?
 
