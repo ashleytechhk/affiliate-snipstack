@@ -48,7 +48,7 @@ Modern antivirus tools handle threats you have probably heard of:
 - **Viruses** — programs that damage your files or slow your computer to a crawl
 - **Malware** — broad term for any malicious software, including spyware that watches your screen
 - **Ransomware** — software that locks your files and demands payment to unlock them
-- **Phishing attempts** — fake websites that mimic your bank or email provider to steal your login details
+- **Phishing attempts** — [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s that mimic your bank or email provider to steal your login details
 
 The key point: once it is installed, good [antivirus software](https://snipstack.io/antivirus-software-for-iphone-2026/) works automatically. You do not have to remember to run a scan. You do not need to understand how it works. It just protects you.
 

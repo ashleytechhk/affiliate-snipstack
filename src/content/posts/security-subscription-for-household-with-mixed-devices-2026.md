@@ -96,7 +96,7 @@ All three services offer some form of breach monitoring. What varies is depth an
 
 Norton Dark Web Monitoring scans for email addresses and personal data across leaked databases. McAfee does something similar with identity score features. Both can feel overwhelming — Norton in particular tends to surface old, already-resolved breaches repeatedly.
 
-Surfshark Alert monitors email addresses, credit card numbers, ID numbers, and phone numbers. Alerts are clear and actionable, with guidance on what to change. The alert frequency is sensible rather than alarmist, which matters in a household where non-technical family members will also see notifications.
+Surfshark Alert monitors email addresses, credit card numbers, ID numbers, and [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s. Alerts are clear and actionable, with guidance on what to change. The alert frequency is sensible rather than alarmist, which matters in a household where non-technical family members will also see notifications.
 
 ---
 
@@ -106,7 +106,7 @@ This is where bloatware becomes a real-life problem. When your partner calls you
 
 Surfshark's apps are consistent across platforms, organized by feature (VPN, Antivirus, Alert, Search), and do not use scare-tactic notifications to push upgrades. The single account covers all household devices — you share the login, not individual sub-licenses.
 
-Norton's family account management has improved but still requires navigating multiple dashboard sections for device management. McAfee's upsell prompts for LifeLock and identity theft insurance appear frequently enough to frustrate less technical users.
+Norton's family account management has improved but still requires navigating multiple dashboard sections for device management. McAfee's upsell prompts for LifeLock and [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) insurance appear frequently enough to frustrate less technical users.
 
 ![Feature comparison cards for Surfshark One vs Norton vs McAfee](/og/security-subscription-for-household-with-mixed-devices-2026-inline-2.png)
 
@@ -152,7 +152,7 @@ Yes. The Surfshark app is available on iOS, Android, Windows, macOS, Linux, and 
 
 ### What does Surfshark Alert actually monitor?
 
-Surfshark Alert scans for breached email addresses, passwords, credit card numbers, ID numbers, and phone numbers. When a match appears in a known data leak, you receive a notification with specific guidance — which password to change, which account was exposed. It is included in the One Bundle at no extra cost.
+Surfshark Alert scans for breached email addresses, passwords, credit card numbers, ID numbers, and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s. When a match appears in a known data leak, you receive a notification with specific guidance — which password to change, which account was exposed. It is included in the One Bundle at no extra cost.
 
 **[Learn more about Surfshark One's features →](/blog/one?sub=security-subscription-for-household-with-mixed-devices-2026__faq)**
 
