@@ -33,7 +33,7 @@ Norton and McAfee are not bad products — but they have a packaging problem. Bo
 Here is what users report most often:
 
 - **Aggressive upsells.** Every login surfaces another tier upgrade or add-on pitch.
-- **Bloatware installs.** Browser extensions, toolbars, and "optimizer" tools arrive alongside the core security scan.
+- **Bloatware installs.** [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s, toolbars, and "optimizer" tools arrive alongside the core security scan.
 - **Confusing renewal pricing.** First-year discounts sometimes drop to a quarter of the renewal rate, catching users off-guard.
 - **The VPN is an afterthought.** Norton's bundled VPN has a data cap on some plans. McAfee's VPN is usable but lags behind dedicated [VPN providers](https://snipstack.io/vpn-providers-best-2026/) on server count and speeds.
 

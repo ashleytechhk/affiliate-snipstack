@@ -30,15 +30,15 @@ Discord introduced phone verification as an anti-spam and anti-bot measure. Serv
 
 The problem is what happens after you verify.
 
-Your phone number is now tied to your Discord account. If a server is ever breached, if someone gains access to the server's member data, or if Discord itself experiences a data exposure event, that number is part of the record. More immediately, if someone you meet in a dating server already knows your Discord username, they may find ways to cross-reference that number with other platforms, social media accounts, or reverse-lookup databases.
+Your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is now tied to your Discord account. If a server is ever breached, if someone gains access to the server's member data, or if Discord itself experiences a data exposure event, that number is part of the record. More immediately, if someone you meet in a dating server already knows your Discord username, they may find ways to cross-reference that number with other platforms, social media accounts, or reverse-lookup databases.
 
 For online daters especially, this is a significant risk. You are meeting strangers. Some of them will be fine. Some will not.
 
 ---
 
-## The Real Risk: What Happens When Someone Has Your Number
+## The Real Risk: [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) Someone Has Your Number
 
-Let us be direct about what a phone number enables in 2026.
+Let us be direct about what a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) enables in 2026.
 
 **Reverse lookup services** can connect a mobile number to a full name, approximate address, and social media profiles within seconds. These services are legal, inexpensive, and widely used — by both curious individuals and people with worse intentions.
 
@@ -64,7 +64,7 @@ If you later want to leave the server, change your number, or stop using a parti
 
 ### Why Alt-Number Specifically?
 
-Alt-Number is Surfshark's dedicated [virtual phone number](https://snipstack.io/virtual-phone-number-for-small-business-reception-2026/) product. A few things make it stand out for this use case:
+Alt-Number [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s dedicated [virtual phone number](https://snipstack.io/virtual-phone-number-for-small-business-reception-2026/) product. A few things make it stand out for this use case:
 
 - **Multiple numbers available across different regions** — useful if a Discord server restricts certain country codes
 - **Dedicated to receiving SMS** — built specifically for verification scenarios, not a general VoIP service that may get flagged
@@ -101,7 +101,7 @@ The entire process takes under five minutes, even on a first attempt.
 
 A [virtual number](https://snipstack.io/virtual-number-for-freelance-writing-clients-2026/) is one layer of protection, not a complete privacy strategy on its own. If you are serious about keeping your real identity separate from your online dating activity, pair it with a few additional habits.
 
-**Use a separate email address for Discord.** Free email services let you create multiple accounts. Use one email exclusively for dating-adjacent platforms and communities. That way, if your email is ever exposed, it does not lead back to your primary inbox or identity.
+**Use a separate email address for Discord.** [Free email](https://snipstack.io/free-email-alias-2026/) services let you create multiple accounts. Use one email exclusively for dating-adjacent platforms and communities. That way, if your email is ever exposed, it does not lead back to your primary inbox or identity.
 
 **Set a Discord username that does not match other handles.** If your Instagram, Twitter, or LinkedIn username is the same as your Discord name, a search connects them instantly. Use something distinct for dating communities.
 

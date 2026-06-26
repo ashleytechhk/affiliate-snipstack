@@ -67,7 +67,7 @@ Messages sent to your Alt ID email forward straight to your real inbox, so you d
 **What makes it better than a bare [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/):**
 
 - Most alias tools only mask your email. Alt ID masks your name and identity details too, which matters because Substack collects name data and that can surface in writer dashboards or exported subscriber lists.
-- Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) — a bundle that also covers VPN access (useful when reading Substack on public Wi-Fi or if a writer geo-restricts content), antivirus, and breach alerts.
+- Alt ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) — a bundle that also covers VPN access (useful when reading Substack on public Wi-Fi or if a writer geo-restricts content), [antivirus](https://snipstack.io/vs-antivirus-2026/), and breach alerts.
 - The interface is simple enough that you do not need to manage a separate service. Everything lives inside the Surfshark app you may already be using.
 
 **[Try Surfshark Alt ID &rarr;](/blog/altid?sub=email-alias-for-substack-paid-subscription-2026__mid)**

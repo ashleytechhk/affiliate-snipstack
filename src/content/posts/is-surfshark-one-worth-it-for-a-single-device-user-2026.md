@@ -161,7 +161,7 @@ Norton has a longer history with AV-Test and AV-Comparatives and has consistentl
 
 Surfshark offers a 30-day money-back guarantee rather than a traditional free trial. You can use the full product for 30 days and request a refund if it does not suit you.
 
-### What happens if I cancel [Surfshark One](https://snipstack.io/surfshark-one-cheapest-price-strategy-2026/) — am I locked in?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I cancel [Surfshark One](https://snipstack.io/surfshark-one-cheapest-price-strategy-2026/) — am I locked in?
 
 No lock-in. Surfshark offers month-to-month plans (at a higher per-month cost) and annual or two-year plans. You can cancel before renewal and retain access until the end of your paid period.
 

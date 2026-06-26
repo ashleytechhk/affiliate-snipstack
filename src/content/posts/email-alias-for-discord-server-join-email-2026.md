@@ -66,7 +66,7 @@ For the Discord use case, this matters because:
 2. **The alternative identity makes sign-ups feel natural** — you're not obviously using a temp email that might trigger Discord's spam filters
 3. **You can spin up new aliases quickly** — useful if you create multiple Discord accounts for different communities
 
-One meaningful limitation: Alt-ID is bundled into Surfshark One, so you're paying for a privacy suite, not just an alias tool. If all you want is [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/)ing with no VPN, it may be more than you need. But if you're already a Surfshark user or were considering the VPN anyway, the alias feature adds significant value at no extra cost.
+One meaningful limitation: Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) into [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/), so you're paying for a privacy suite, not just an alias tool. If all you want is [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/)ing with no VPN, it may be more than you need. But if you're already a Surfshark user or were considering the VPN anyway, the alias feature adds significant value at no extra cost.
 
 ![Surfshark Alt-ID alternative identity setup flow for Discord sign-ups](/og/email-alias-for-discord-server-join-email-2026-inline-1.png)
 
@@ -162,9 +162,9 @@ No. 2FA on Discord is tied to your authenticator app (Google Authenticator, Auth
 
 If you delete the alias and later need to recover your Discord account via email, the recovery email will bounce. Before deleting any alias tied to an active Discord account, either update your Discord email to a different address first or make sure you have other recovery options (backup codes, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)) in place.
 
-**Is Surfshark Alt-ID available as a standalone product without the VPN?**
+**[Is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/) Alt-ID available as a standalone product without the VPN?**
 
-Alt-ID is included in the Surfshark One bundle, which also includes the VPN, Antivirus, Alert (data breach monitor), and Search. It's not sold as a standalone alias product. If you only need aliasing and don't want the broader suite, SimpleLogin or AnonAddy are better value. But if you were already evaluating a privacy suite, the Alt-ID inclusion makes Surfshark One a strong all-in-one option.
+Alt-ID is included in the [Surfshark One](https://snipstack.io/surfshark-one-for-small-business-three-employees-2026/) bundle, which also includes the VPN, Antivirus, Alert (data breach monitor), and Search. It's not sold as a standalone alias product. If you only need aliasing and don't want the broader suite, SimpleLogin or AnonAddy are better value. But if you were already evaluating a privacy suite, the Alt-ID inclusion makes [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) a strong all-in-one option.
 
 ---
 

@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Why a burner number protects online daters and marketplace buyers in 2026](/og/burner-number-for-anonymous-marketplace-buyer-2026.png)
 
-Every year, hundreds of thousands of people hand strangers their real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) without thinking twice — through dating apps, Facebook Marketplace listings, and Craigslist deals. Then they spend weeks trying to make it stop.
+Every year, hundreds of thousands of people hand strangers their real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) without thinking twice — through dating apps, [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/) listings, and Craigslist deals. Then they spend weeks trying to make it stop.
 
 In 2025, the FTC received over 2.6 million reports of fraud and harassment, with phone-based contact accounting for a significant share of those incidents. Romance scammers alone stole more than $1.14 billion from victims in a single year. The pattern is always the same: someone seems trustworthy, you share a way to reach you, and the problems start.
 
