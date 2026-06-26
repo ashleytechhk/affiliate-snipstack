@@ -89,7 +89,7 @@ An agency you worked with two years ago gets breached. Your number is in their C
 
 ---
 
-## How to Set It Up in Under Five Minutes
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) It Up in Under Five Minutes
 
 1. Download the Surfshark app and navigate to the Alt-Number section.
 2. Choose a number from available local or international options.
@@ -133,7 +133,7 @@ It removes your phone number as an identity pivot point, which closes one of the
 
 Alt-Number is available in multiple regions. Check the Alt-Number section of the Surfshark app for current country availability. International numbers are particularly useful if you work with global brands who request a local contact number.
 
-**What happens to my number if I cancel my subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my number if I cancel my subscription?**
 
 The number becomes inactive. Anyone who calls or texts it will get no response. You can reactivate by resuming a subscription, though number availability may vary after a gap.
 

@@ -12,7 +12,7 @@ tags: ["altnumber", "privacy", "review"]
 
 Imagine matching with someone on a dating app, sharing your number after a few good conversations, and then — three weeks later — watching that same number flood with unsolicited calls, strange texts, and one very angry message from someone who found your home address through a reverse-phone lookup.
 
-It happens more than people admit. A 2023 survey by the Identity Theft Resource Center found that **1 in 5 online dating users** reported being stalked or harassed after sharing personal contact details with a match. That is not a fringe scenario. That is a real and growing risk for anyone who dates online in 2026.
+It happens more than people admit. A 2023 survey by the [Identity Theft](https://snipstack.io/identity-theft-protection-software-2026/) Resource Center found that **1 in 5 online dating users** reported being stalked or harassed after sharing personal contact details with a match. That is not a fringe scenario. That is a real and growing risk for anyone who dates online in 2026.
 
 The good news: there is a simple, affordable fix that millions of people are still not using. A [virtual phone number](https://snipstack.io/virtual-phone-number-for-small-business-reception-2026/) — one that forwards calls and texts to your real device but never reveals your actual number.
 

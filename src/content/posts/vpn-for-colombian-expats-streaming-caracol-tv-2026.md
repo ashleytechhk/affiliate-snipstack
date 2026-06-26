@@ -40,7 +40,7 @@ A VPN, or Virtual Private Network, is software that creates an encrypted tunnel 
 
 From Caracol TV's perspective, you look like a Colombian user. Your IP address is Colombian. Access is granted.
 
-Here is what happens step by step:
+Here is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) step by step:
 
 1. You open the VPN app and select a Colombian server.
 2. The VPN app connects you to that server and encrypts your traffic.

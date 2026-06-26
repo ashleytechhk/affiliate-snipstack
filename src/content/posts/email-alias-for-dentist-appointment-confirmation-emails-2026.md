@@ -44,7 +44,7 @@ An alias acts as a buffer. The confirmation lands in your real inbox (forwarded 
 |------|-----------|-------------------|------------|-------------------|----------|
 | **Surfshark Alt-ID** | With Surfshark plan | Unlimited | Yes | Yes | Surfshark subscribers |
 | **SimpleLogin** | Yes | 10 aliases | Yes | Yes | Free, privacy-focused |
-| **Apple Hide My Email** | With iCloud+ ($0.99/mo) | Unlimited | Yes | Yes | Apple users |
+| **[Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email** | With iCloud+ ($0.99/mo) | Unlimited | Yes | Yes | Apple users |
 | **Firefox Relay** | Yes | 5 masks | Yes | Yes | Firefox users |
 | **DuckDuckGo Email Protection** | Yes | Unlimited | Yes | Yes | Duck.com users |
 | **Fastmail** | Paid only | Unlimited | Yes | Yes | Power email users |
@@ -57,7 +57,7 @@ An alias acts as a buffer. The confirmation lands in your real inbox (forwarded 
 
 ### Surfshark Alt-ID
 
-Alt-ID is Surfshark's [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/) and identity masking tool. If you already subscribe to Surfshark One or Surfshark One+ for the VPN, Alt-ID is bundled in at no extra cost.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/) and identity masking tool. If you already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) or Surfshark One+ for the VPN, Alt-ID is bundled in at no extra cost.
 
 **How it works for a dentist appointment:** Open the Surfshark app, go to Alt-ID, generate a new alias (takes about 10 seconds), and paste it into the booking form. Any email sent to that alias forwards to your real inbox. If the practice starts sending promotional emails, you disable the alias in one tap — no more forwarding.
 
@@ -121,7 +121,7 @@ Built into iOS 15+ and macOS Monterey+, Hide My Email is available to anyone wit
 
 ### Firefox Relay
 
-Mozilla's privacy-focused email masking tool. The free tier gives you 5 masks, which covers most casual use cases. A premium tier ($1.99/month) adds phone number masking and unlimited masks.
+Mozilla's privacy-focused [email masking](https://snipstack.io/email-masking-service-review-2026/) tool. The free tier gives you 5 masks, which covers most casual use cases. A premium tier ($1.99/month) adds [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) masking and unlimited masks.
 
 **Strengths:**
 - Free tier available

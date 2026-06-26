@@ -35,7 +35,7 @@ When you give a match your real number, you hand them:
 - A permanent way to contact you even after you unmatch, block, or delete the app
 - A searchable identifier that can cross-reference your other social profiles
 
-For a freelance photographer, this is compounded. Your business profile, portfolio site, and booking email are already public. Your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) is often on there too, because clients need it. If a dating app match is also a client — or finds your portfolio — they now have your name, face, location patterns, and personal number all in one.
+For a freelance photographer, this is compounded. Your business profile, portfolio site, and booking email are already public. Your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) is often on there too, because clients need it. If a dating app match is also a client — or finds your portfolio — they now have your name, face, location patterns, and personal number [all in one](https://snipstack.io/all-in-one-security-app-that-covers-mac-and-iphone-2026/).
 
 This is not hypothetical. Reports from the UK, Canada, and Australia consistently show that dating app harassment escalates fastest when the target's real [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is involved. Blocking on the app does nothing once someone has your digits.
 
