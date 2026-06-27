@@ -16,7 +16,7 @@ This guide answers that question in plain English. We will explain what [antivir
 
 ## Quick Verdict
 
-For most seniors, the **best value [antivirus](https://snipstack.io/vs-antivirus-2026/) subscription** is one that covers multiple devices, renews at a price you can predict, and does not require any technical knowledge to use. Based on those criteria, [Surfshark Antivirus](/blog/antivirus?sub=best-value-antivirus-subscription-2026__above-fold) stands out in 2026 — straightforward interface, honest pricing, and real-time protection that works quietly in the background without interrupting your day.
+For most seniors, the **[best value](https://snipstack.io/best-value-cybersecurity-bundle-under-100-dollars-a-year-2026/) [antivirus](https://snipstack.io/vs-antivirus-2026/) subscription** is one that covers multiple devices, renews at a price you can predict, and does not require any technical knowledge to use. Based on those criteria, [Surfshark Antivirus](/blog/antivirus?sub=best-value-antivirus-subscription-2026__above-fold) stands out in 2026 — straightforward interface, honest pricing, and real-time protection that works quietly in the background without interrupting your day.
 
 If you are not sure whether you need antivirus at all, keep reading. The next few sections will give you a clear picture.
 

@@ -35,7 +35,7 @@ Your will, trust documents, and financial records contain exactly what identity 
 
 A scammer who gains access to a scanned will does not need to be a sophisticated hacker. Many use off-the-shelf tools that scan thousands of PCs automatically, looking for files with names like "will," "trust," "deed," or "beneficiary." Your PC could be targeted within minutes of connecting to an unsecured network.
 
-The unfortunate truth is that most seniors are running older Windows versions, may have never installed dedicated antivirus software beyond the built-in Windows Defender, and may not recognize warning signs like a suddenly slow computer or unexpected pop-ups. That combination is exactly what cybercriminals count on.
+The unfortunate truth is that most seniors are running older Windows versions, may have never installed dedicated [antivirus software](https://snipstack.io/antivirus-software-2026/) beyond the built-in [Windows Defender](https://snipstack.io/windows-defender-download-2026/), and may not recognize warning signs like a suddenly slow computer or unexpected pop-ups. That combination is exactly what cybercriminals count on.
 
 ---
 
@@ -61,7 +61,7 @@ Phishing is when criminals send emails or create websites designed to look exact
 
 ![Step-by-step guide showing how antivirus works alongside Windows Defender](/og/antivirus-for-estate-planning-documents-storage-pc-2026-inline-1.png)
 
-Windows Defender, the built-in security tool that comes with [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and 11, provides a basic level of protection. But "basic" is the key word. Independent security tests consistently show that Defender's detection rates for new, emerging threats lag behind dedicated antivirus products.
+Windows Defender, the built-in security tool that comes with [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and 11, provides a basic level of protection. But "basic" is the key word. Independent security tests consistently show that Defender's detection rates for new, emerging threats lag behind dedicated [antivirus](https://snipstack.io/vs-antivirus-2026/) products.
 
 Here is what Defender typically cannot do well:
 
@@ -76,7 +76,7 @@ For someone storing a copy of their will, financial power of attorney, or accoun
 
 ---
 
-## What to Look for in Antivirus Software for Seniors
+## What to Look for in [Antivirus Software for](https://snipstack.io/antivirus-software-for-iphone-2026/) Seniors
 
 Not all antivirus software is created equal, and some products marketed aggressively at older adults are themselves problematic — full of pop-ups demanding upgrades, confusing dashboards, and auto-renewal traps. Here is what actually matters:
 
@@ -131,7 +131,7 @@ Beyond installing antivirus software, a few simple habits dramatically reduce yo
 3. **Use strong, unique passwords** for your email and any accounts where you store or share documents. A password manager can help you keep track of these.
 4. **Back up your estate documents** to an external hard drive that is stored offline, and ideally to a secure cloud storage service as well. If ransomware strikes, you will have copies that were not affected.
 5. **Lock your documents folder** with a password if your operating system allows it, so that even if malware gets onto your PC, it faces an additional barrier before accessing your most sensitive files.
-6. **Install and run a reputable antivirus** — ideally one that is always running in the background rather than one you have to remember to launch.
+6. **Install and run a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/)** — ideally one that is always running in the background rather than one you have to remember to launch.
 
 Following this checklist alongside a running antivirus product gives your estate documents strong, layered protection.
 

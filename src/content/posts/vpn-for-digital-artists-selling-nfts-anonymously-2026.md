@@ -130,7 +130,7 @@ Getting started takes less than ten minutes.
 
 ### "A VPN makes my transactions untraceable on the blockchain."
 
-No. A VPN protects your IP address and the metadata surrounding your marketplace activity. It does not alter or obscure what happens on-chain. Your wallet address, your minting transactions, and your sale history remain visible on the blockchain regardless of whether you use a VPN. For blockchain-level privacy, separate tools (like privacy-focused wallets or mixing services) are different discussions entirely.
+No. A VPN protects your IP address and the metadata surrounding your marketplace activity. It does not alter or obscure [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) on-chain. Your wallet address, your minting transactions, and your sale history remain visible on the blockchain regardless of whether you use a VPN. For blockchain-level privacy, separate tools (like privacy-focused wallets or mixing services) are different discussions entirely.
 
 ### "I need a VPN to stay legal when selling NFTs."
 
