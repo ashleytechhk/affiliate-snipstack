@@ -28,7 +28,7 @@ Before diving into solutions, it helps to understand what you are up against.
 
 Promoted tweets (labeled "Ad" or "Promoted" in your X feed) are paid placements purchased by advertisers through X's ad platform. They are injected into your timeline by X's own servers alongside organic posts. Because they are served from X's own infrastructure — the same servers that deliver your real timeline — simple browser-level blockers often struggle to filter them cleanly without breaking the app.
 
-This is why users searching for an **[ad blocker that](https://snipstack.io/ad-blocker-that-stops-notification-permission-popups-2026/) blocks promoted tweets on X** often find browser extensions useless on mobile: the X app on iOS and Android does not run inside a browser, and extensions have no reach into native apps.
+This is why users searching for an **[ad blocker that](https://snipstack.io/ad-blocker-that-stops-notification-permission-popups-2026/) blocks promoted tweets on X** often find [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s useless on mobile: the X app on iOS and Android does not run inside a browser, and extensions have no reach into native apps.
 
 ---
 
@@ -154,7 +154,7 @@ An [ad blocker that](https://snipstack.io/ad-blocker-that-blocks-sponsored-pins-
 
 ## FAQ
 
-### Does Surfshark CleanWeb work on the X app for iPhone?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) CleanWeb work on the X app for iPhone?
 
 Yes. CleanWeb operates as a network-level filter through a VPN profile on iOS, which means it intercepts traffic from all apps including the native X app on iPhone. It does not require any Safari extension or special iOS permission beyond the standard VPN profile installation.
 
@@ -168,7 +168,7 @@ Minor latency is possible when connecting to a VPN server for the first time, bu
 
 ### Can I use CleanWeb without turning on the VPN?
 
-CleanWeb's filtering requires the VPN tunnel to be active, since that is the mechanism it uses to intercept and filter traffic. You cannot use CleanWeb in isolation without also using the VPN. If you want VPN-free ad blocking, a DNS-based solution (AdGuard DNS, NextDNS) is an alternative — though setup is more involved.
+CleanWeb's filtering requires the VPN tunnel to be active, since that is the mechanism it uses to intercept and filter traffic. You cannot use CleanWeb in isolation without also using the VPN. If you want VPN-free ad blocking, a DNS-based solution ([AdGuard DNS](https://snipstack.io/adguard-dns-hostname-2026/), NextDNS) is an alternative — though setup is more involved.
 
 ### Does it [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) X video or Spaces?
 
