@@ -166,7 +166,7 @@ VPNs are legal in most countries. Using one to compare or access regional pricin
 
 ### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) work on all my real estate devices?
 
-Surfshark has native apps for Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. A [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers unlimited simultaneous connections, so you can protect your laptop, phone, tablet, and any other device without additional cost.
+Surfshark has native apps for Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s for Chrome and Firefox. A [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) covers unlimited simultaneous connections, so you can protect your laptop, phone, tablet, and any other device without additional cost.
 
 ---
 

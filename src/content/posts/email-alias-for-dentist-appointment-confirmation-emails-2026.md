@@ -57,7 +57,7 @@ An alias acts as a buffer. The confirmation lands in your real inbox (forwarded 
 
 ### Surfshark Alt-ID
 
-Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/) and identity masking tool. If you already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) or Surfshark One+ for the VPN, Alt-ID is bundled in at no extra cost.
+Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/) and identity masking tool. If you already subscribe to [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) or [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/)+ for the VPN, Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) in at no extra cost.
 
 **How it works for a dentist appointment:** Open the Surfshark app, go to Alt-ID, generate a new alias (takes about 10 seconds), and paste it into the booking form. Any email sent to that alias forwards to your real inbox. If the practice starts sending promotional emails, you disable the alias in one tap — no more forwarding.
 
@@ -196,9 +196,9 @@ Probably not, unless they inspect the full email header — which front-desk sta
 
 As long as you keep the alias active, any future emails from the practice will forward to your real inbox. Only disable the alias when you want to [stop receiving](https://snipstack.io/stop-receiving-spam-from-unsubscribe-forms-2026/) emails from them entirely — for example, after you've switched practices or you're done with their marketing.
 
-### Is Surfshark Alt-ID free?
+### [Is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/) Alt-ID free?
 
-Alt-ID is included with Surfshark One and Surfshark One+ subscription plans. It is not available as a standalone free product. If you don't currently subscribe to Surfshark, you'd need to start a subscription — though the VPN, breach monitoring, and antivirus tools bundled with those plans often make it worth the cost.
+Alt-ID is included with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-for-small-business-three-employees-2026/)+ subscription plans. It is not available as a standalone free product. If you don't currently subscribe to Surfshark, you'd need to start a subscription — though the VPN, breach monitoring, and antivirus tools bundled with those plans often make it worth the cost.
 
 **[Check current Surfshark Alt-ID pricing →](/blog/altid?sub=email-alias-for-dentist-appointment-confirmation-emails-2026__faq)**
 

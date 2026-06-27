@@ -36,7 +36,7 @@ In 2026, Craigslist's housing section also pulls up in Google search results alm
 
 ### The Dating Overlap Nobody Talks About
 
-Here is the uncomfortable reality: if you have a dating profile anywhere online, there is a reasonable chance a match or an ex can cross-reference your Craigslist post. Your dating app bio says you live in Brooklyn and work in tech. Your Craigslist ad says you are looking for a roommate in Williamsburg and lists your phone number. Those two data points together create a profile detailed enough to track you down.
+Here is the uncomfortable reality: if you have a dating profile anywhere online, there is a reasonable chance a match or an ex can cross-reference your Craigslist post. Your dating app bio says you live in Brooklyn and work in tech. Your Craigslist ad says you are looking for a roommate in Williamsburg and lists your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/). Those two data points together create a profile detailed enough to track you down.
 
 This is not a hypothetical. Privacy researchers call it "data mosaic" — the way individually harmless details combine into a full picture. Your real number is the thread that ties the mosaic together.
 
@@ -76,7 +76,7 @@ Surfshark's Alt Number is the product that fits this use case cleanly. Here is w
 
 ---
 
-## How to Set Up a [Burner Number](https://snipstack.io/burner-number-for-online-classified-ads-2026/) Before Your Next Craigslist Post
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a [Burner Number](https://snipstack.io/burner-number-for-online-classified-ads-2026/) Before Your Next Craigslist Post
 
 The process is short enough to complete before you finish writing your listing.
 
@@ -132,7 +132,7 @@ Yes. Surfshark Alt Number runs on iOS and Android. As long as your phone support
 **Will my [burner number](https://snipstack.io/burner-number-for-garage-sale-listings-2026/) work for two-factor authentication on Craigslist?**
 Alt Number receives SMS messages, so it can receive verification codes. Use it as your contact number in the listing rather than for your Craigslist account registration itself, since account 2FA should use a number you can reliably access long-term.
 
-**What happens if I cancel Alt Number — can people still reach me?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I cancel Alt Number — can people still reach me?**
 Once you cancel or retire the number, calls and texts to it simply do not connect. You do not receive them, and your real number is never exposed. This is the clean break that makes Alt Number useful for temporary listings.
 
 **Is a [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) the same as being completely untraceable?**

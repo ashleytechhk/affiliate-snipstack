@@ -45,7 +45,7 @@ An [email alias](https://snipstack.io/email-alias-for-grubhub-and-food-delivery-
 | Bundled with VPN | Yes | No | No | No |
 | Free tier | No (VPN bundle) | Yes (10 aliases) | Yes (Apple ID) | Yes |
 | Open source | No | Yes | No | Partial |
-| Platform support | All | All | Apple only | Browser extension |
+| Platform support | All | All | Apple only | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) |
 | Best for | Gamers, casual users | Power users | Apple users | Lightweight use |
 
 ---

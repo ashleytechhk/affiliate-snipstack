@@ -64,16 +64,16 @@ This approach works on any app on your phone, not just X. The same filter catche
 
 Not all [ad blocker](https://snipstack.io/ad-blocker-for-fire-tv-stick-without-side-load-2026/)s are created equal. Here is a quick breakdown of the common options and how they fare against promoted tweets on X:
 
-**Browser extensions (uBlock Origin, AdGuard for browser)**
+**Browser extensions ([uBlock Origin](https://snipstack.io/ublock-origin-vs-adguard-which-is-better-2026/), AdGuard for browser)**
 Work well on desktop browsers visiting x.com, but have zero reach into the native X iOS/Android app.
 
-**DNS-based blockers (Pi-hole, AdGuard Home)**
+**DNS-based blockers (Pi-hole, [AdGuard Home](https://snipstack.io/adguard-home-setup-on-raspberry-pi-2026/))**
 Effective, but require you to run your own server or configure a custom DNS on your phone. Setup is technically involved and not beginner-friendly.
 
 **iOS Content Blockers (1Blocker, AdGuard for Safari)**
-Block ads in Safari only. No effect on the X app.
+[Block ads in](https://snipstack.io/block-ads-in-free-games-ios-2026/) Safari only. No effect on the X app.
 
-**VPN-integrated [ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/)s (Surfshark CleanWeb)**
+**VPN-integrated [ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/)s ([Surfshark CleanWeb](https://snipstack.io/surfshark-cleanweb-review-2026/))**
 Run a local VPN profile on your phone that filters all app traffic at the network level. No technical setup needed — toggle on inside the app and every app on your phone is covered, including X.
 
 For most mobile users, the VPN-integrated approach delivers the best mix of coverage, ease of setup, and reliability.
@@ -170,7 +170,7 @@ Minor latency is possible when connecting to a VPN server for the first time, bu
 
 CleanWeb's filtering requires the VPN tunnel to be active, since that is the mechanism it uses to intercept and filter traffic. You cannot use CleanWeb in isolation without also using the VPN. If you want VPN-free ad blocking, a DNS-based solution (AdGuard DNS, NextDNS) is an alternative — though setup is more involved.
 
-### Does it block ads in X video or Spaces?
+### Does it [block ads in](https://snipstack.io/block-ads-in-games-android-2026/) X video or Spaces?
 
 CleanWeb blocks network requests to known ad-serving domains, which covers pre-roll and mid-roll video ads embedded via third-party ad networks. Ads served natively from X's own video infrastructure are harder to block without also blocking the video content itself. Results vary, but most users see noticeably fewer video ads.
 
