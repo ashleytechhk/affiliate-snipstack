@@ -80,7 +80,7 @@ For prize draw use, this is meaningful. Some competitions require your full name
 
 You can toggle each alias on and off from a dashboard. When a competition-related alias starts flooding your inbox, you kill it with one click. The forwarding stops instantly. Your real inbox stays clean without any unsubscribe process.
 
-Alt-ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) bundle, which also includes VPN, antivirus, and data breach alerts. If you already use or plan to use any of those, Alt-ID adds essentially no marginal cost.
+Alt-ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) bundle, which also includes VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts. If you already use or plan to use any of those, Alt-ID adds essentially no marginal cost.
 
 **Strengths:** Deepest [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) of any tool on this list. Clean dashboard. Pairs well with Surfshark's other privacy tools.
 
@@ -118,7 +118,7 @@ The limitation is platform lock-in. Your aliases are tied to your Apple ID and o
 
 ### Firefox Relay
 
-Firefox Relay offers five free aliases with forwarding. Paid tiers unlock unlimited aliases plus a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) masking feature. It works as a browser extension, making alias generation fast during the competition entry process.
+Firefox Relay offers five free aliases with forwarding. Paid tiers unlock unlimited aliases plus a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) masking feature. It works as a [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), making alias generation fast during the competition entry process.
 
 The free tier is enough for casual use — if you enter a handful of competitions per year. Heavy competition entrants will hit the five-alias ceiling quickly, and the paid plan at $1.99/month is competitive but lacks the breadth of Alt-ID.
 
