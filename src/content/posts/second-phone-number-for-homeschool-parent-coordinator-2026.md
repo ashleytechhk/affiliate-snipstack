@@ -46,7 +46,7 @@ The average dating app user shares a number they mostly keep private. But homesc
 
 **Your number is embedded across platforms.** It may appear in shared Google Drive folders, Slack workspaces, email chains, and community Facebook pages — all of which are indexed or accessible beyond your immediate network.
 
-**Your family context is visible.** The same platforms where your number lives also contain posts about your kids' curriculum, photos from homeschool events, and discussions about your local area. A stranger who gets your phone number gets a trail of breadcrumbs that leads directly to your family life.
+**Your family context is visible.** The same platforms where your number lives also contain posts about your kids' curriculum, photos from homeschool events, and discussions about your local area. A stranger who gets your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) gets a trail of breadcrumbs that leads directly to your family life.
 
 Combine this with the reality that dating involves meeting strangers, and the risk of a number leak becomes much more concrete.
 
@@ -121,7 +121,7 @@ A dedicated [second number](https://snipstack.io/second-number-to-keep-work-cont
 **Do I need a [second phone](https://snipstack.io/second-phone-number-for-airbnb-host-2026/) or SIM card?**
 No. Everything runs through an app on your existing phone. You manage both numbers from one device without any hardware changes.
 
-**What happens if I want to stop using the [second number](https://snipstack.io/second-number-for-ebay-buyer-seller-contact-2026/)?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I want to stop using the [second number](https://snipstack.io/second-number-for-ebay-buyer-seller-contact-2026/)?**
 You can remove or replace the number through the app. Anyone who had the old number simply cannot reach you anymore, which is exactly what you want if a situation turns uncomfortable.
 
 **Is this only useful for dating, or can I use it for other things too?**

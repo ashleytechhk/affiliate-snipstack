@@ -12,7 +12,7 @@ This is not a fringe scenario. It happens to expats, long-term travelers, remote
 
 The fix is simpler than most people realize. You do not need a new physical SIM, a US forwarding service, or a US-address mail drop. You need a **US [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/)** — a real +1 number that lives in an app on your existing phone, receives calls and SMS anywhere in the world, and passes the same carrier verification checks as a standard US mobile number.
 
-This guide explains how virtual US numbers work, what to look for when choosing one, and which solution gets you set up fastest in 2026.
+This guide explains how [virtual US number](https://snipstack.io/virtual-us-number-for-canadian-shopper-verification-2026/)s work, what to look for when choosing one, and which solution gets you set up fastest in 2026.
 
 ![How to get a US phone number abroad — virtual number guide 2026](/og/how-to-get-us-phone-number-abroad-2026.png)
 

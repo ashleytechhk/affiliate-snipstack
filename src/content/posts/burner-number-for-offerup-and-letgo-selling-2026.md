@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Burner number for OfferUp and Letgo selling — stay private while selling online](/og/burner-number-for-offerup-and-letgo-selling-2026.png)
 
-Every week, people hand their real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s to complete strangers on OfferUp and Letgo. They think it's just a transaction. Sometimes it is. But sometimes that stranger starts texting at midnight, shows up unannounced, or sells your number to a scam list. In 2025, the FTC received over 2.6 million fraud reports, and peer-to-peer marketplace scams ranked among the fastest-growing categories. Your phone number is the thread that unravels everything.
+Every week, people hand their real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s to complete strangers on OfferUp and Letgo. They think it's just a transaction. Sometimes it is. But sometimes that stranger starts texting at midnight, shows up unannounced, or sells your number to a scam list. In 2025, the FTC received over 2.6 million fraud reports, and peer-to-peer marketplace scams ranked among the fastest-growing categories. Your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) is the thread that unravels everything.
 
 A [burner number](https://snipstack.io/burner-number-for-anonymous-marketplace-buyer-2026/) cuts that thread before anything goes wrong.
 
@@ -28,7 +28,7 @@ OfferUp and Letgo (now merged under OfferUp) are genuinely useful apps for flipp
 
 Here is where the risk compounds fast:
 
-**Scammers use your number as a pivot point.** A Google Voice verification scam — where a buyer asks you to confirm a code they "accidentally" sent to your number — is one of the most documented marketplace cons running right now. The FBI's Internet Crime Complaint Center flagged it repeatedly. The goal is to hijack your phone number and use it to create fraudulent accounts elsewhere.
+**Scammers use your number as a pivot point.** A Google Voice verification scam — where a buyer asks you to confirm a code they "accidentally" sent to your number — is one of the most documented marketplace cons running right now. The FBI's Internet Crime Complaint Center flagged it repeatedly. The goal is to hijack your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) and use it to create fraudulent accounts elsewhere.
 
 **Stalkers use meetups as reconnaissance.** You agree to meet at a coffee shop parking lot. The buyer notes your car. You exchange numbers beforehand. Now they have your plate, your face, your number, and your general neighborhood. For women selling on marketplaces, this is not a hypothetical. Safety blogs run by domestic violence organizations specifically warn about marketplace meetup tactics used to locate people who have moved.
 
@@ -119,16 +119,16 @@ If you are also using dating apps, create a second Alt Number for that context. 
 
 ## Frequently Asked Questions
 
-**Is a burner number legal to use on OfferUp and Letgo?**
+**Is a [burner number](https://snipstack.io/burner-number-for-garage-sale-listings-2026/) legal to use on OfferUp and Letgo?**
 Yes, completely. Using a secondary phone number is not deceptive — you are still reachable, and buyers can contact you normally. The number routes to your real phone. You are simply protecting your primary line from exposure to strangers. Platforms like OfferUp do not prohibit the use of secondary numbers for contact.
 
-**Will buyers know it is a burner number?**
+**Will buyers know it is a [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/)?**
 No. The number looks like any standard US phone number. Calls and texts work exactly as they would from a real mobile line. There is no "VoIP" label or unusual area code behavior that would flag it as secondary. [Learn more about how Alt Number works.](/blog/altnumber?sub=burner-number-for-offerup-and-letgo-selling-2026__faq)
 
 **Can I use one number for both OfferUp selling and dating apps?**
 You could, but keeping them separate is smarter. If you delete the number after one context, you lose the other. Using distinct numbers for distinct contexts gives you precise control over what you expose in each situation.
 
-**What happens to my conversations if I delete the burner number?**
+**What happens to my conversations if I delete the [burner number](https://snipstack.io/burner-number-for-nextdoor-listings-2026/)?**
 Once you retire the number, new calls and texts to it stop routing to you. Your existing message history in the Alt Number app may still be accessible depending on your settings, but the channel goes dark for the other person. This is the intended outcome — clean separation when you are done.
 
 **Does this work for receiving verification codes (2FA) on new accounts?**
