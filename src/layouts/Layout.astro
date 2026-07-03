@@ -53,17 +53,33 @@ const {
         if (!a) return;
         var href = a.getAttribute('href') || '';
         // Match all snipstack cloaker paths
-        if (!/^\/(blog|go|sk|vp|ab|pn|id|av)(\/|$|\?)/.test(href)) return;
+        if (!/^\/(blog|go|yt|sk|vp|ab|pn|id|av)(\/|$|\?)/.test(href)) return;
         try {
           var url = new URL(href, location.origin);
           var parts = url.pathname.replace(/^\//, '').split('/');
           var product = parts[1] || parts[0] || 'unknown';
           var sub = url.searchParams.get('sub') || '';
-          gtag('event', 'affiliate_click', {
+          var params = {
             product: product,
             sub_id: sub,
             link_url: href,
+            outbound: 'true',
             transport_type: 'beacon',
+          };
+          // Keep legacy detail event, but also emit the dashboard event name.
+          gtag('event', 'affiliate_click', {
+            product: params.product,
+            sub_id: params.sub_id,
+            link_url: params.link_url,
+            outbound: params.outbound,
+            transport_type: params.transport_type,
+          });
+          gtag('event', 'outbound_click', {
+            product: params.product,
+            sub_id: params.sub_id,
+            link_url: params.link_url,
+            outbound: params.outbound,
+            transport_type: params.transport_type,
           });
         } catch(err) {}
       });
