@@ -170,7 +170,7 @@ The "detection" caveat is worth understanding: when a VPN server's IP is flagged
 
 ## FAQ
 
-### Is using a VPN to access Kayo or 7plus abroad legal?
+### Is using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) Kayo or 7plus abroad legal?
 
 Using a VPN is legal in the vast majority of countries. The relevant question is whether doing so complies with the streaming platform's terms of service, which is a civil matter between you and the provider — not a criminal one. In practice, the risk to individual subscribers is extremely low.
 

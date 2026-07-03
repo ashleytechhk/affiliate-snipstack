@@ -134,7 +134,7 @@ Surfshark Alert includes a scam URL checker that cross-references links against 
 **[How to use](https://snipstack.io/how-to-use-email-aliases-for-security-2026/) it:**
 
 1. Copy the suspicious link (right-click → Copy Link Address, or press and hold on mobile).
-2. Open the scam checker tool.
+2. Open the [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) tool.
 3. Paste the link and run the check.
 4. If it comes back flagged, delete the message.
 

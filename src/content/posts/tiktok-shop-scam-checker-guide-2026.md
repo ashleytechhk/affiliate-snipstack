@@ -121,7 +121,7 @@ Surfshark Alert layers on top of this: it monitors whether your email address, c
 
 **What it does well:** Always-on coverage means you are protected during the moments of distraction when manual checking is least likely to happen. The combination of real-time link scanning and breach monitoring covers both the immediate threat (clicking a dangerous link) and the downstream risk (credentials already compromised from a previous breach).
 
-**Where it falls short:** It requires a Surfshark subscription. If you already use Surfshark for VPN or other privacy features, Scamcheck is included. If your only need is a scam checker, the free tools above are a reasonable starting point — with the understanding that they require you to use them consistently.
+**Where it falls short:** It requires a Surfshark subscription. If you already use Surfshark for VPN or other privacy features, Scamcheck is included. If your only need is a [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/), the free tools above are a reasonable starting point — with the understanding that they require you to use them consistently.
 
 **Best for:** Anyone who wants protection that works even when they are distracted, moving quickly, or reading email on a phone — which describes most real-world email reading.
 

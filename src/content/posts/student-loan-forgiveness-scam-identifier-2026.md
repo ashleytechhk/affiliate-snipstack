@@ -18,7 +18,7 @@ If you have student loans — or know someone who does — you need a reliable w
 
 ## Quick Verdict
 
-Student loan forgiveness scams are among the most effective phishing attacks targeting seniors and first-time borrowers because they mimic real government programs. The fastest way to stop them is to run suspicious emails through an automated scam checker before clicking anything. Surfshark's Scam Checker analyzes sender reputation, domain authenticity, and message content in seconds — giving you a clear scam/legitimate verdict without requiring any technical knowledge. It is our top pick for seniors and everyday email users who want protection without complexity.
+Student loan forgiveness scams are among the most effective phishing attacks targeting seniors and first-time borrowers because they mimic real government programs. The fastest way to stop them is to run suspicious emails through an automated [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) before clicking anything. Surfshark's Scam Checker analyzes sender reputation, domain authenticity, and message content in seconds — giving you a clear scam/legitimate verdict without requiring any technical knowledge. It is our top pick for seniors and everyday email users who want protection without complexity.
 
 ---
 

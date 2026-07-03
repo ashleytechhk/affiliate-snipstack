@@ -18,7 +18,7 @@ Not necessarily. That padlock — the SSL certificate — is widely misunderstoo
 
 ## Quick Verdict
 
-SSL certificates do not mean a website is trustworthy — they only mean your connection to that website is encrypted. Scammers can and do obtain valid certificates for fake sites. The best approach combines a fast automated checker with a few manual signals. For most people, Surfshark's Email Scam Checker is the quickest way to get a reliable safety verdict without needing any technical knowledge. Manual methods work but require patience and some familiarity with what to look for.
+SSL certificates do not mean a website is trustworthy — they only mean your connection to that website is encrypted. Scammers can and do obtain valid certificates for fake sites. The best approach combines a fast automated checker with a few manual signals. For most people, Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) is the quickest way to get a reliable safety verdict without needing any technical knowledge. Manual methods work but require patience and some familiarity with what to look for.
 
 ---
 

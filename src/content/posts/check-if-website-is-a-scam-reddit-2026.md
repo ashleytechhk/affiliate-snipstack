@@ -50,7 +50,7 @@ If the link is already visible as plain text (not embedded in anchor text), simp
 
 ---
 
-## Step 2: Run the URL Through an Automated Scam Checker
+## Step 2: Run the URL Through an Automated [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/)
 
 Before searching Reddit, run the URL through an automated tool. This takes about 30 seconds and often gives you a definitive answer immediately.
 

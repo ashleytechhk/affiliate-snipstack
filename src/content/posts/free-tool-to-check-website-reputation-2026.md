@@ -20,7 +20,7 @@ This guide explains what website reputation means, why it matters, and [how to u
 
 ## Quick Verdict
 
-A website's reputation tells you whether it has a history of scamming, phishing, or spreading malware — before you click and find out the hard way. For most people who receive suspicious emails with unfamiliar links, Surfshark's Email Scam Checker is the most accessible free tool in 2026. It gives you a plain-language answer in seconds, checks the sender and the destination link together, and requires no technical knowledge to use. If you regularly receive emails from banks, government offices, or delivery companies — and are not always sure which ones are genuine — this kind of check is worth building into your routine.
+A website's reputation tells you whether it has a history of scamming, phishing, or spreading malware — before you click and find out the hard way. For most people who receive suspicious emails with unfamiliar links, Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) is the most accessible free tool in 2026. It gives you a plain-language answer in seconds, checks the sender and the destination link together, and requires no technical knowledge to use. If you regularly receive emails from banks, government offices, or delivery companies — and are not always sure which ones are genuine — this kind of check is worth building into your routine.
 
 ---
 

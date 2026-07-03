@@ -83,7 +83,7 @@ Some regions require a local payment method, which is the practical friction poi
 
 Once the subscription is active, you do not necessarily need the VPN running for every gaming session — the subscription tier is tied to the account. But for any store browsing or renewal in that regional account, reconnect to the VPN first.
 
-**Important caveat:** Microsoft's terms of service prohibit using a VPN to access pricing not intended for your region. Enforcement has historically been account-level: Microsoft may prompt for account verification or, in flagrant cases, reset subscriptions. This is a terms-of-service risk rather than a legal issue in most countries — but understand it before proceeding.
+**Important caveat:** Microsoft's terms of service prohibit using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) pricing not intended for your region. Enforcement has historically been account-level: Microsoft may prompt for account verification or, in flagrant cases, reset subscriptions. This is a terms-of-service risk rather than a legal issue in most countries — but understand it before proceeding.
 
 ---
 

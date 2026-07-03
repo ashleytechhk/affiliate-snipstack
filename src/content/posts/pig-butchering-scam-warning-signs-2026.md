@@ -133,7 +133,7 @@ The people who fall victim are not naive or careless. They are people who respon
 
 ---
 
-## How Surfshark's Email Scam Checker Fits In
+## How Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) Fits In
 
 Pig butchering scams often begin with an email or proceed through email at key stages — sending you a link to the investment platform, sharing "documentation" to prove legitimacy, or requesting fees via an email thread. These communications contain the kinds of signals that a scam checker can flag.
 

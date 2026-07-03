@@ -133,7 +133,7 @@ In most countries, using a VPN is entirely legal. What matters is whether online
 
 ### Will a VPN get my poker account banned?
 
-It depends on the platform. Some operators explicitly prohibit VPN use in their terms of service. Others have no such restriction. Read the terms before connecting. Using a VPN to access a site from a jurisdiction where that site is not licensed to operate carries a different risk than simply using it for privacy while playing from an eligible location.
+It depends on the platform. Some operators explicitly prohibit VPN use in their terms of service. Others have no such restriction. Read the terms before connecting. Using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) a site from a jurisdiction where that site is not licensed to operate carries a different risk than simply using it for privacy while playing from an eligible location.
 
 ### Does a VPN slow down my poker connection?
 

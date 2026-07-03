@@ -20,7 +20,7 @@ This guide explains exactly how to identify a spear phishing email, why these at
 
 ## Quick Verdict
 
-Spear phishing emails are not the obvious scams most people have learned to ignore. They use personal details about you — your name, your bank, your relationships — to appear completely legitimate. The warning signs are subtle, and missing them can cost you money, your account, or your identity. The fastest protection is a two-step habit: know the signals, and check anything suspicious with a dedicated tool before you act on it. Surfshark's Email Scam Checker is built for exactly this — no technical knowledge required.
+Spear phishing emails are not the obvious scams most people have learned to ignore. They use personal details about you — your name, your bank, your relationships — to appear completely legitimate. The warning signs are subtle, and missing them can cost you money, your account, or your identity. The fastest protection is a two-step habit: know the signals, and check anything suspicious with a dedicated tool before you act on it. Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) is built for exactly this — no technical knowledge required.
 
 ---
 

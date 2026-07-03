@@ -18,7 +18,7 @@ If that story sounds familiar, you are not alone. Rental listing scams are one o
 
 ## Quick Verdict
 
-Rental listing scams rely on urgency and trust — they push you to act before you have time to verify. Eight specific warning signs expose them, and most can be checked in a few minutes without any technical skills. For the email phase of the scam — where the "landlord" contacts you with payment instructions — Surfshark's Email Scam Checker adds a quick automated layer, verifying whether the sender's email domain is legitimate. Manual checks ([reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/), phone verification, local market pricing) cover the rest. Together, they are the practical toolkit every rental searcher should use.
+Rental listing scams rely on urgency and trust — they push you to act before you have time to verify. Eight specific warning signs expose them, and most can be checked in a few minutes without any technical skills. For the email phase of the scam — where the "landlord" contacts you with payment instructions — Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) adds a quick automated layer, verifying whether the sender's email domain is legitimate. Manual checks ([reverse image search](https://snipstack.io/reverse-image-search-to-spot-fake-profiles-2026/), phone verification, local market pricing) cover the rest. Together, they are the practical toolkit every rental searcher should use.
 
 ---
 

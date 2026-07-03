@@ -12,7 +12,7 @@ Your phone rings. The caller says they are from Microsoft, Apple, or your intern
 
 This is a tech support scam — and it is one of the most common ways people lose thousands of dollars in a single phone call.
 
-The trick is knowing how to identify these calls before you hand over anything. This guide compares the main methods for spotting tech support scam calls, shows you which tools work best for different situations, and explains why pairing caller identification with an email scam checker gives you the most complete protection.
+The trick is knowing how to identify these calls before you hand over anything. This guide compares the main methods for spotting tech support scam calls, shows you which tools work best for different situations, and explains why pairing caller identification with an email [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) gives you the most complete protection.
 
 **[Check suspicious messages and links for free with Surfshark →](/blog/scamcheck?sub=tech-support-scam-phone-call-identify-2026__above-fold)**
 

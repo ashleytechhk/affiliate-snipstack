@@ -24,7 +24,7 @@ This guide walks you through exactly [how to verify](https://snipstack.io/how-to
 
 The Social Security Administration will almost never call you out of the blue to report a problem. If they do send a notice, it arrives by postal mail — not a robocall, not an email with an urgent link. Any call threatening arrest, demanding you confirm your SSN, or asking for payment by gift card is a scam without exception.
 
-For the follow-up emails these scammers send — fake SSA letterheads, urgent "case number" links, "verify your identity here" buttons — Surfshark's Email Scam Checker is the fastest way to confirm whether the message is legitimate before you click anything. The manual verification steps below cover the phone call itself.
+For the follow-up emails these scammers send — fake SSA letterheads, urgent "case number" links, "verify your identity here" buttons — Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) is the fastest way to confirm whether the message is legitimate before you click anything. The manual verification steps below cover the phone call itself.
 
 Used together, these two approaches — manual call verification and automated email scanning — close the two main attack vectors the SSA impersonation scam relies on.
 

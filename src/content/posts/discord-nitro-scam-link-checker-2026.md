@@ -12,7 +12,7 @@ Discord Nitro phishing is no longer just a gamer problem. These fake giveaway li
 
 A scam link checker catches that link before damage is done. This guide compares the five most practical options available in 2026 and tells you which one holds up for everyday email users who just want a fast, honest answer.
 
-**Recommended pick: Surfshark Email Scam Checker — [Check a suspicious link now](/blog/scamcheck?sub=discord-nitro-scam-link-checker-2026__above-fold)**
+**Recommended pick: Surfshark Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) — [Check a suspicious link now](/blog/scamcheck?sub=discord-nitro-scam-link-checker-2026__above-fold)**
 
 ---
 

@@ -18,7 +18,7 @@ That instinct is worth listening to. Crypto airdrop scams are one of the fastest
 
 ## Quick Verdict
 
-Crypto airdrop scam emails follow predictable patterns: fake free token offers, urgent deadlines, and links to pages that steal your personal details or wallet credentials. The tell-tale signs are detectable before you click anything. Surfshark's Email Scam Checker is the most straightforward tool for checking a suspicious email or link — it gives you a clear result without any technical knowledge required. If you regularly receive emails about prizes, free offers, or financial accounts, this kind of check should become a habit.
+Crypto airdrop scam emails follow predictable patterns: fake free token offers, urgent deadlines, and links to pages that steal your personal details or wallet credentials. The tell-tale signs are detectable before you click anything. Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) is the most straightforward tool for checking a suspicious email or link — it gives you a clear result without any technical knowledge required. If you regularly receive emails about prizes, free offers, or financial accounts, this kind of check should become a habit.
 
 ---
 

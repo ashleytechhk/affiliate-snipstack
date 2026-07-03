@@ -145,7 +145,7 @@ For users who already own a McAfee subscription and are satisfied, there is no p
 
 [Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/) is a strong fit if you:
 
-- Are currently paying for a separate VPN and antivirus and want to consolidate
+- Are currently paying for a separate [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-cost-saving-2026/) and want to consolidate
 - Have more than five devices across your household
 - Want a VPN that is genuinely fast, not a checkbox feature
 - Are tired of bloated interfaces and upsell prompts

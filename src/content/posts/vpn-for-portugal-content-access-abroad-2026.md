@@ -149,7 +149,7 @@ RTP Play deserves special mention: it is entirely free — no subscription requi
 
 ## Frequently Asked Questions
 
-### Is using a VPN to access Portuguese content legal?
+### Is using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) Portuguese content legal?
 
 Using a VPN is legal in most countries, including Portugal and the EU. Accessing geo-restricted content may technically breach a streaming platform's terms of service, but it is not a criminal matter. Platforms can detect and block VPN traffic — that is their enforcement mechanism, not legal action against individual users. VPN use for personal purposes carries no legal risk in the overwhelming majority of jurisdictions.
 

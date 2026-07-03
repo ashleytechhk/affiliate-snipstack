@@ -18,7 +18,7 @@ This guide walks you through [how to spot](https://snipstack.io/how-to-spot-onli
 
 ## Quick Verdict
 
-Vacation rental scams are getting harder to detect because scammers now clone real listings, fake reviews, and impersonate legitimate platforms. The safest approach in 2026 is a layered defense: verify the host independently, pay only through official booking platforms, and run suspicious links or emails through a dedicated scam checker. Surfshark's Scam Checker stands out for ease of use, covering both URLs and email content without requiring technical knowledge.
+Vacation rental scams are getting harder to detect because scammers now clone real listings, fake reviews, and impersonate legitimate platforms. The safest approach in 2026 is a layered defense: verify the host independently, pay only through official booking platforms, and run suspicious links or emails through a dedicated [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/). Surfshark's Scam Checker stands out for ease of use, covering both URLs and email content without requiring technical knowledge.
 
 ---
 

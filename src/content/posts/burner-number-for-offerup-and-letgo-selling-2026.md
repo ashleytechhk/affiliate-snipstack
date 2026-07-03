@@ -96,13 +96,13 @@ If you are currently listing on OfferUp with your real number, here is the pract
 
 **Persistent harassment.** OfferUp deals go wrong. Buyers demand refunds. Sellers get angry about lowball offers. What starts as a routine negotiation can turn hostile, and once someone has your real number, blocking them on the app does not stop the texts.
 
-**Spam and scam escalation.** Once your number lands on a scam list, the volume accelerates. You will get calls about extended car warranties, IRS impersonations, and crypto investment opportunities for as long as you keep the number.
+**Spam and scam escalation.** Once your number lands on a scam list, the volume accelerates. You will get calls about extended car warranties, IRS impersonations, and [crypto investment](https://snipstack.io/crypto-investment-scam-warning-signs-2026/) opportunities for as long as you keep the number.
 
 ![Surfshark Alt Number app interface showing call and text routing](/og/burner-number-for-offerup-and-letgo-selling-2026-inline-2.png)
 
 ---
 
-## How to Set Up Your [Burner Number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) Before Your Next Listing
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Your [Burner Number](https://snipstack.io/burner-number-for-facebook-marketplace-2026/) Before Your Next Listing
 
 The setup takes under five minutes:
 

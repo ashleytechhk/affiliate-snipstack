@@ -20,7 +20,7 @@ This guide explains what a malicious URL scanner actually does, why it matters i
 
 ## Quick Verdict
 
-For most people, the fastest and most reliable free option [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Email Scam Checker. You paste in a suspicious link or email address, and it tells you in plain language whether it looks safe or dangerous — no technical knowledge required, no downloads needed. Malicious URL scanners are not just for IT professionals anymore. In 2026, with scam emails more convincing than ever, using one is simply good practice for anyone who uses email regularly.
+For most people, the fastest and most reliable free option [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/). You paste in a suspicious link or email address, and it tells you in plain language whether it looks safe or dangerous — no technical knowledge required, no downloads needed. Malicious URL scanners are not just for IT professionals anymore. In 2026, with scam emails more convincing than ever, using one is simply good practice for anyone who uses email regularly.
 
 ---
 

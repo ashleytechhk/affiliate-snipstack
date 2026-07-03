@@ -32,7 +32,7 @@ An HOA portal alias has to survive a long relationship — dues reminders, ballo
 |------|----------------------|---------------------|----------------|---------------------------|-------------------|-------|
 | **Surfshark Alt-ID** | Yes | Yes | Yes | Yes | Yes | Included with Surfshark |
 | Gmail `+tag` trick | Yes | Yes | No | Often stripped | No | Free |
-| Apple Hide My Email | Yes | Yes | Yes | Usually | No | iCloud+ ($0.99/mo+) |
+| [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | Yes | Yes | Yes | Usually | No | iCloud+ ($0.99/mo+) |
 | SimpleLogin | Yes | Yes | Yes | Usually | No | Free / $4/mo |
 | Firefox Relay | Yes | Yes | Yes | Usually | No | Free (5 aliases) / $1.99/mo |
 | Guerrilla Mail | No (separate inbox) | ~1 hour | N/A | Often blocked | No | Free |
@@ -140,7 +140,7 @@ Delete it. Every mailing list that vendor sold or shared your address into stops
 
 **Does an [email alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/) also stop the [phone calls and texts](https://snipstack.io/how-to-stop-spam-email-after-data-breach-2026/) from HOA vendors?**
 
-No. An [email alias](/blog/altid?sub=email-alias-for-homeowners-association-portal-2026__faq) only controls the email channel. If your real phone number was collected during registration or a maintenance request, calls and texts from vendors continue on their own track. A separate approach — like keeping your number off optional portal fields — is needed alongside the alias.
+No. An [email alias](/blog/altid?sub=email-alias-for-homeowners-association-portal-2026__faq) only controls the email channel. If your real [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) was collected during registration or a maintenance request, calls and texts from vendors continue on their own track. A separate approach — like keeping your number off optional portal fields — is needed alongside the alias.
 
 **Is Alt-ID included with my Surfshark subscription, or is it a separate purchase?**
 

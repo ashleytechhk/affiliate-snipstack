@@ -20,7 +20,7 @@ Job offer scams are one of the fastest-growing types of email fraud. Scammers im
 
 ## Quick Verdict
 
-Most job offer scams can be caught with three checks: verify the sender's email domain against the company's real website, search the company name plus "scam" in Google, and run the sender's address through a scam checker tool. Surfshark Scam Checker handles the third step automatically — paste in a suspicious email address or link and it cross-references known scam databases in seconds. Manual checks cover what your eyes can see; automated tools cover what's happening beneath the surface. For anyone who receives cold job emails regularly, layering both is the practical approach.
+Most job offer scams can be caught with three checks: verify the sender's email domain against the company's real website, search the company name plus "scam" in Google, and run the sender's address through a [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) tool. Surfshark Scam Checker handles the third step automatically — paste in a suspicious email address or link and it cross-references known scam databases in seconds. Manual checks cover what your eyes can see; automated tools cover what's happening beneath the surface. For anyone who receives cold job emails regularly, layering both is the practical approach.
 
 ---
 

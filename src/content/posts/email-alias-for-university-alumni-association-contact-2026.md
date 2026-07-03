@@ -98,7 +98,7 @@ Free services that spin up a random inbox for a few minutes to an hour, no accou
 
 ## Option 5: Alt-ID Masked Alias (Recommended)
 
-[Alt-ID](/blog/altid?sub=email-alias-for-university-alumni-association-contact-2026__mid) is a masked email alias service included with Surfshark subscriptions. You generate an alias that looks and behaves like a normal address — something like `k3v9pmz2@surfshark.id` — and use it wherever the alumni office asks for contact information. Every email sent to that alias forwards straight to your real inbox, no second inbox required.
+[Alt-ID](/blog/altid?sub=email-alias-for-university-alumni-association-contact-2026__mid) is a masked [email alias](https://snipstack.io/email-alias-for-avoiding-re-marketing-after-cart-abandonment-2026/) service included with Surfshark subscriptions. You generate an alias that looks and behaves like a normal address — something like `k3v9pmz2@surfshark.id` — and use it wherever the alumni office asks for contact information. Every email sent to that alias forwards straight to your real inbox, no second inbox required.
 
 When annual-giving appeals get relentless, or a credit-card pitch shows up next to your class notes digest, open the Alt-ID dashboard and delete that alias. One click. The address stops existing, so any list it's on — including any third-party vendor that bought it — stops being able to reach you.
 
@@ -110,7 +110,7 @@ Alt-ID also generates alternative profile details alongside the alias, useful if
 
 ---
 
-## How to Use Alt-ID for Alumni Association Contact
+## [How to Use](https://snipstack.io/how-to-use-email-alias-to-filter-spam-2026/) Alt-ID for Alumni Association Contact
 
 Before your next reunion form, career-center registration, or giving-day donation, create a fresh Alt-ID alias and label it by school and class year — something like "State-U-Class-2014" — so it's easy to find later.
 

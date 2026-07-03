@@ -185,7 +185,7 @@ Report it to your country's financial regulator and to your bank immediately. In
 
 Fake investment app scams are effective because they are designed to look convincing — and because the promise of financial gain can override caution, especially when urgency is added. The good news is that checking takes under two minutes and requires no technical knowledge.
 
-Start with the manual red flags: suspicious sender domain, guaranteed returns, pressure to act immediately, app delivered by email link. Then paste the link or sender address into Surfshark's Email Scam Checker for a plain-language verdict. Use VirusTotal if you want a second, more detailed opinion.
+Start with the manual red flags: suspicious sender domain, guaranteed returns, pressure to act immediately, app delivered by email link. Then paste the link or sender address into Surfshark's Email [Scam Checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) a plain-language verdict. Use VirusTotal if you want a second, more detailed opinion.
 
 No tool works in every case. But the habit of checking before you click is the single most effective thing you can do to avoid becoming a victim.
 

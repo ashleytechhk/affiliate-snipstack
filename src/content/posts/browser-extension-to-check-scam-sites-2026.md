@@ -212,7 +212,7 @@ There is a free tier that covers individual manual link and email checks with no
 
 A browser extension to check scam sites helps — but it is not a complete solution on its own. Extensions are strongest against known threats. The scam links arriving in your inbox today are often unknown threats: new domains created specifically for today's campaign, not yet on any public list.
 
-The practical approach for 2026 is layered: let your browser's built-in protection (Safe Browsing) handle passive coverage while you browse, and use a dedicated checker like Surfshark Scam Checker for any link that arrives unexpectedly by email. The manual check takes under 60 seconds and covers both the link and the sender — the two things you actually need to verify before clicking.
+The practical approach for 2026 is layered: let your browser's built-in protection (Safe Browsing) handle passive coverage while you browse, and use a dedicated checker like Surfshark [Scam Checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) any link that arrives unexpectedly by email. The manual check takes under 60 seconds and covers both the link and the sender — the two things you actually need to verify before clicking.
 
 **[Check a suspicious link with Surfshark Scam Checker — free to start](/blog/scamcheck?sub=browser-extension-to-check-scam-sites-2026__cta)**
 

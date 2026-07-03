@@ -24,7 +24,7 @@ This guide covers the seven most reliable red flags, shows you how manual checks
 
 Lottery scam emails follow a predictable formula that has not changed much in twenty years — even if the production quality has improved dramatically. The core promise is always the same: you have won something you never entered, and you need to act fast to claim it. Any email matching that description is a scam, without exception. No legitimate lottery contacts winners by unsolicited email, requests upfront fees, or asks you to keep your win secret.
 
-Spotting these emails manually is straightforward once you know what to look for. Automated protection adds a second layer: Surfshark's Email Scam Checker can verify whether a sender's domain is legitimate and flag known phishing infrastructure before you even read the message closely.
+Spotting these emails manually is straightforward once you know what to look for. Automated protection adds a second layer: Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) can verify whether a sender's domain is legitimate and flag known phishing infrastructure before you even read the message closely.
 
 ---
 

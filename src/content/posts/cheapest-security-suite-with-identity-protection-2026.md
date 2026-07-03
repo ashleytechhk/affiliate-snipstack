@@ -158,7 +158,7 @@ Both companies offer 30-day refund windows on new purchases. Refund requests on 
 
 ## Final Verdict
 
-If you are paying more than $5/month (on a long-term plan rate) for a security suite and it does not include a full VPN, you are likely overpaying.
+If you are paying more than $5/month (on a long-term plan rate) for a [security suite](https://snipstack.io/security-suite-with-identity-alert-at-no-extra-cost-2026/) and it does not include a full VPN, you are likely overpaying.
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) bundles antivirus, breach monitoring, VPN, private search, and alternative identity in a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) at a price that stays consistent beyond the first year. For Norton and McAfee users who are primarily frustrated by renewal costs and bloat rather than missing specific LifeLock insurance features, it is a straightforward upgrade.
 

@@ -182,6 +182,6 @@ A suspicious bank text deserves a moment of deliberate thought before you do any
 2. Copy the link and check it with [Surfshark's Scam Checker](/blog/scamcheck?sub=fake-bank-text-message-how-to-verify-2026__cta) — under one minute, no technical knowledge needed.
 3. If still unsure, call your bank on the number from your card.
 
-The manual methods — Googling, previewing the link, relying on your carrier's filter — are useful layers, but none of them alone is fast and reliable. The combination of an automated scam checker for the link and a direct call to your bank for anything serious gives you the best of both: speed and certainty.
+The manual methods — Googling, previewing the link, relying on your carrier's filter — are useful layers, but none of them alone is fast and reliable. The combination of an automated [scam checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) the link and a direct call to your bank for anything serious gives you the best of both: speed and certainty.
 
 **[Check a suspicious bank text link now — free with Surfshark →](/blog/scamcheck?sub=fake-bank-text-message-how-to-verify-2026__cta)**

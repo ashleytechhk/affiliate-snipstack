@@ -121,7 +121,7 @@ Households that stream across multiple devices â€” a TV, two phones, a laptop â€
 
 ### Kill Switch
 
-If a VPN connection drops mid-stream, a kill switch cuts internet traffic entirely rather than silently reverting to your real IP. For subscribers using a VPN to access regional libraries, a connection drop without a kill switch briefly exposes your actual location to the streaming platform. Surfshark's kill switch prevents this.
+If a VPN connection drops mid-stream, a kill switch cuts internet traffic entirely rather than silently reverting to your real IP. For subscribers using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) regional libraries, a connection drop without a kill switch briefly exposes your actual location to the streaming platform. Surfshark's kill switch prevents this.
 
 ### Speed and Streaming Servers
 

@@ -114,7 +114,7 @@ Key features relevant to travel insurance scam checking:
 ## Step-by-Step: [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/) When You Receive a Suspicious Travel Insurance Email
 
 1. **Do not click any links or open any attachments.** Even previewing a PDF from an unknown sender can sometimes execute malicious code.
-2. **Copy the email or the suspicious link** and paste it into Surfshark Scam Checker for an instant verdict.
+2. **Copy the email or the suspicious link** and paste it into Surfshark [Scam Checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) an instant verdict.
 3. **Check the sender's actual email address**, not just the display name. Hover over the "from" name to reveal the real address.
 4. **Search the company name** on your country's insurance regulator website to confirm it holds a valid license.
 5. **Never pay by wire transfer or gift card.** Legitimate insurers accept credit cards and provide secure payment portals.

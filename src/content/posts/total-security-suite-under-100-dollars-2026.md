@@ -155,7 +155,7 @@ For users coming from a legacy Norton or McAfee subscription who want fewer rest
 
 ## Frequently Asked Questions
 
-### What do you actually get in a total security suite under $100?
+### What do you actually get in a total [security suite](https://snipstack.io/security-suite-with-identity-alert-at-no-extra-cost-2026/) under $100?
 
 At minimum, you should expect real-time antivirus, a VPN with practical data limits, and some form of breach or identity monitoring. In 2026, the better sub-$100 suites — [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) specifically — also add network-level ad blocking and masked [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/)es. What you often do not get at this price: password managers (varies by suite), parental controls, and identity theft insurance. The checklist above covers what to look for before you renew.
 

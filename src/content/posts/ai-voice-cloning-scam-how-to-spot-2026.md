@@ -12,7 +12,7 @@ You get an email. The subject line says your son or daughter called from oversea
 
 This is the AI voice cloning scam — one of the fastest-growing fraud tactics in 2026. Criminals use artificial intelligence to generate a convincing copy of a real person's voice from as little as three seconds of audio, then build an entire deception around it. The email arrives first, setting the scene. The "voicemail" or "voice note" link follows.
 
-This guide explains exactly how these scams work, what signals to look for, and how a tool like Surfshark's Email Scam Checker helps you stop them before they cause damage.
+This guide explains exactly how these scams work, what signals to look for, and how a tool like Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) helps you stop them before they cause damage.
 
 **[Check a suspicious email or link right now — Surfshark's Scam Checker is free to use →](/blog/scamcheck?sub=ai-voice-cloning-scam-how-to-spot-2026__above-fold)**
 

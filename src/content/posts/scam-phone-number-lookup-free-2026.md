@@ -32,7 +32,7 @@ For a genuinely free reverse phone lookup, **Truecaller** (free tier) and **Goog
 | Spokeo | No (paid only) | Yes | US | Yes | Yes | Yes |
 | FTC Do Not Call Registry | Yes | No | US | No (register only) | No | No |
 | Carrier Spam Labels | Yes | No (built-in) | Varies by carrier | No | Yes (carrier data) | Built-in |
-| Surfshark Email Scam Checker | Yes | Yes (Surfshark acct) | Global | No (email focused) | Yes (breach + scam) | No |
+| Surfshark Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) | Yes | Yes (Surfshark acct) | Global | No (email focused) | Yes (breach + scam) | No |
 
 **Note on Surfshark:** The Email Scam Checker is not a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) reverse lookup. It is included here because scam callers often follow up with phishing emails — checking that email is a distinct but important step in the same security workflow.
 

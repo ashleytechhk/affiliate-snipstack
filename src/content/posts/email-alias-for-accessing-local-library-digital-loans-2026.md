@@ -20,7 +20,7 @@ The fix isn't avoiding digital loans. It's giving the library system an address 
 
 ## Quick Verdict
 
-Library digital lending has one requirement that rules out most throwaway tools: the alias needs to keep working for as long as you're an active patron, because holds can take weeks to clear and due-date reminders arrive on a rolling schedule. Guerrilla Mail and 10 Minute Mail expire long before your hold comes in. Gmail's `+tag` trick gets stripped by many library platforms and can't be revoked once it's on file. Apple Hide My Email works, but only if your whole household is on iCloud.
+Library digital lending has one requirement that rules out most throwaway tools: the alias needs to keep working for as long as you're an active patron, because holds can take weeks to clear and due-date reminders arrive on a rolling schedule. Guerrilla Mail and 10 Minute Mail expire long before your hold comes in. Gmail's `+tag` trick gets stripped by many library platforms and can't be revoked once it's on file. [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email works, but only if your whole household is on iCloud.
 
 **[Alt-ID](/blog/altid?sub=email-alias-for-accessing-local-library-digital-loans-2026__above-fold)** handles this cleanly — a persistent forwarding alias that delivers hold notifications, due-date reminders, and renewal confirmations to your real inbox indefinitely, and that you can delete in one click the moment a branch's newsletter list or a reading-app partner starts spamming you.
 
@@ -95,7 +95,7 @@ Public libraries are nonprofits, which makes the spam volume feel counterintuiti
 
 Add reciprocal borrowing agreements — common in county and regional consortiums — and a single card can technically register you across a dozen branch systems, each running its own newsletter and fundraising list. "Friends of the Library" groups, which are separate nonprofits from the library itself, often maintain their own donor-solicitation mailing lists built from patron sign-up data.
 
-None of this is malicious. It's what happens when a public service runs on private vendor infrastructure. An alias built for this situation needs to:
+None of this is malicious. It's [what happens when](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) a public service runs on private vendor infrastructure. An alias built for this situation needs to:
 
 - **Keep forwarding for weeks or months**, matching how long holds actually take
 - **Pass ILS domain validation** instead of getting flagged as disposable
@@ -128,7 +128,7 @@ Keep it active for as long as you're using that card or platform regularly. If y
 
 **Does an alias stop physical mail or phone reminders from the library?**
 
-No. An alias only controls the email channel. If you provided a mailing address or phone number at registration, overdue notices and reminder calls through those channels continue independently of your email alias.
+No. An alias only controls the email channel. If you provided a mailing address or [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) at registration, overdue notices and reminder calls through those channels continue independently of your [email alias](https://snipstack.io/email-alias-for-avoiding-re-marketing-after-cart-abandonment-2026/).
 
 **Is Alt-ID included with my existing Surfshark subscription?**
 

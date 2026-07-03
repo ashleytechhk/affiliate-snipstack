@@ -161,7 +161,7 @@ Surfshark's combination of unlimited devices, router compatibility, and broad se
 
 **Can I get banned for using a VPN on Nintendo Switch?**
 
-Nintendo has not publicly banned accounts solely for using a VPN to access regional eShops. The risk is considered low by most in the gaming community, but using a dedicated regional account (separate from your main account) is the safer approach. [Learn more about Surfshark's VPN features](/blog/vpn?sub=vpn-for-nintendo-switch-online-access-2026__faq)
+Nintendo has not publicly banned accounts solely for using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) regional eShops. The risk is considered low by most in the gaming community, but using a dedicated regional account (separate from your main account) is the safer approach. [Learn more about Surfshark's VPN features](/blog/vpn?sub=vpn-for-nintendo-switch-online-access-2026__faq)
 
 **Does the Nintendo Switch have a built-in VPN?**
 

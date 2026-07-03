@@ -148,7 +148,7 @@ That's it. The app handles everything else automatically.
 
 ### Is using a VPN legal in Poland?
 
-Yes. VPN use is legal in Poland and across the European Union. VPNs are widely used by businesses for remote work and by individuals for privacy. Using a VPN to access geo-restricted content sits in a legal grey area in terms of terms of service for some platforms, but it is not a criminal matter.
+Yes. VPN use is legal in Poland and across the European Union. VPNs are widely used by businesses for remote work and by individuals for privacy. Using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) geo-restricted content sits in a legal grey area in terms of terms of service for some platforms, but it is not a criminal matter.
 
 ### Will a VPN slow down my internet connection?
 

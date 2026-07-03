@@ -137,7 +137,7 @@ The practical steps are straightforward:
 4. **Enable real-time protection and Clean Web** — these are off by default and worth switching on in settings.
 5. **Set up Alert** with your primary email addresses so breach monitoring is active from day one.
 
-There's no overlap period needed. Security suites don't leave gaps when you switch; the new software begins protecting immediately on install.
+There's no overlap period needed. [Security suite](https://snipstack.io/security-suite-with-identity-alert-at-no-extra-cost-2026/)s don't leave gaps when you switch; the new software begins protecting immediately on install.
 
 **[Switch to Surfshark One — see current pricing](/blog/one?sub=best-security-suite-for-mixed-device-household-2026__cta)**
 

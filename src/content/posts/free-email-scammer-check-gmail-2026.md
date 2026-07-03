@@ -32,7 +32,7 @@ The limitation: Gmail's warnings only appear for emails that have already been c
 
 ---
 
-## 2. Surfshark Email Scam Checker
+## 2. Surfshark Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/)
 
 **The most complete free-tier scam-check tool for Gmail users who want real verification, not just guesses.**
 

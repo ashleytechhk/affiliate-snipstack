@@ -145,7 +145,7 @@ Setup is quick. The Swedish server selection is reliable. And the unlimited devi
 
 **Is using a VPN to watch SVT Play outside Sweden legal?**
 
-Using a VPN is legal in Sweden and in the vast majority of countries where Swedish travelers and expats typically live or work — including all EU member states, the UK, the US, Canada, and Australia. SVT Play's terms of service restrict access to Sweden, so using a VPN to bypass that restriction may conflict with those terms. This is a civil matter between you and the service, not a criminal issue. SVT targets VPN server IP addresses in its blocking systems rather than taking action against individual viewers.
+Using a VPN is legal in Sweden and in the vast majority of countries where Swedish travelers and expats typically live or work — including all EU member states, the UK, the US, Canada, and Australia. SVT Play's terms of service restrict access to Sweden, so using a [VPN to bypass](https://snipstack.io/vpn-to-bypass-sports-blackout-restrictions-2026/) that restriction may conflict with those terms. This is a civil matter between you and the service, not a criminal issue. SVT targets VPN server IP addresses in its blocking systems rather than taking action against individual viewers.
 
 **Does a VPN work for SVT Play on mobile data, not just Wi-Fi?**
 

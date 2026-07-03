@@ -187,7 +187,7 @@ The case comes down to three factors:
 
 ## FAQ
 
-**Is a VPN and antivirus bundle worth it compared to buying each separately?**
+**Is a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-cost-saving-2026/) bundle worth it compared to buying each separately?**
 
 For most home users and families, yes. Bundles eliminate the coordination cost of managing two subscriptions, two apps, and two sets of renewal dates. The savings are real after year one when renewal pricing on standalone products spikes. [Surfshark One covers all four pillars in one plan.](/blog/one?sub=vpn-and-antivirus-bundle-2026__faq)
 

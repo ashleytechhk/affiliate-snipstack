@@ -104,7 +104,7 @@ If the listing claims to be in a trendy downtown area but the address drops you 
 
 ---
 
-## Method 5: Use a Dedicated Scam Checker for Emails and Links
+## Method 5: Use a Dedicated [Scam Checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) Emails and Links
 
 The four methods above catch fraudulent listings. But if you received an email about a listing, you also need to check the email itself.
 

@@ -12,7 +12,7 @@ You open your email and there it is: a message telling you that a famous doctor,
 
 Something feels off, but you are not sure what. Is this real?
 
-It is almost certainly a scam. Fake celebrity endorsement emails are one of the most common phishing tactics in 2026, and they are designed specifically to lower your guard by borrowing a face you trust. This guide explains how these scams work, what warning signs to look for, and [how to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) a scam checker tool to confirm your suspicions before you click anything — or send anyone any money.
+It is almost certainly a scam. Fake celebrity endorsement emails are one of the most common phishing tactics in 2026, and they are designed specifically to lower your guard by borrowing a face you trust. This guide explains how these scams work, what warning signs to look for, and [how to use](https://snipstack.io/how-to-use-virtual-number-without-sim-card-2026/) a [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) tool to confirm your suspicions before you click anything — or send anyone any money.
 
 **[Check a suspicious email right now with Surfshark's Email Scam Checker →](/blog/scamcheck?sub=fake-celebrity-endorsement-scam-checker-2026__above-fold)**
 

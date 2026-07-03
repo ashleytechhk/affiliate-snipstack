@@ -114,7 +114,7 @@ Scamcheck also ties into Surfshark Alert, which monitors whether your personal d
 
 The threat intelligence Scamcheck uses includes proprietary and partner feeds that are updated faster than public blocklists. New phishing domains — the kind deployed on physical QR posters and used for days before being taken down — get flagged faster than they would through Google Safe Browsing's cached list.
 
-**Where it falls short:** Surfshark Scamcheck requires a subscription. It is not a free standalone tool. If you already use Surfshark for VPN, alternative ID, or breach monitoring, the scam checker is included at no extra cost. If scam checking is your only need and you do not mind manual lookups, the free tools above are a reasonable starting point.
+**Where it falls short:** Surfshark Scamcheck requires a subscription. It is not a free standalone tool. If you already use Surfshark for VPN, alternative ID, or breach monitoring, the [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) is included at no extra cost. If scam checking is your only need and you do not mind manual lookups, the free tools above are a reasonable starting point.
 
 **Best for:** Anyone who wants protection that works without changing their habits — including users who scan QR codes regularly in the physical world, or anyone less likely to remember a manual check in the moment.
 

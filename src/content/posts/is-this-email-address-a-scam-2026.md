@@ -14,7 +14,7 @@ You are asking exactly the right question. In 2026, email scammers are more soph
 
 ## Quick Verdict
 
-The fastest, most reliable way to answer "is this email address a scam" is to run it through a dedicated checker. **Surfshark's Email Scam Checker** lets you paste any sender address and get a plain-language result in seconds — no account required, no jargon. If you have a suspicious email in front of you right now, start there.
+The fastest, most reliable way to answer "is this email address a scam" is to run it through a dedicated checker. **Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/)** lets you paste any sender address and get a plain-language result in seconds — no account required, no jargon. If you have a suspicious email in front of you right now, start there.
 
 **[Check a suspicious email address now](/blog/scamcheck?sub=is-this-email-address-a-scam-2026__above-fold)**
 

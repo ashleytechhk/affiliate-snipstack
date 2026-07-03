@@ -20,7 +20,7 @@ Deepfake video scams have moved from headline curiosity to everyday inbox threat
 
 ## Quick Verdict
 
-For most people receiving suspicious emails with video links, **Surfshark's Email Scam Checker** is the most practical line of defence in 2026. It assesses the email sender and embedded links before you click — which matters because deepfake scams rely on you acting before you think. Manual detection methods (visual tells, reverse video search, dedicated deepfake detectors) are useful backup skills, but they require the video to already be open in front of you. The better approach is catching the scam at the email stage, before the fake video even loads.
+For most people receiving suspicious emails with video links, **Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/)** is the most practical line of defence in 2026. It assesses the email sender and embedded links before you click — which matters because deepfake scams rely on you acting before you think. Manual detection methods (visual tells, reverse video search, dedicated deepfake detectors) are useful backup skills, but they require the video to already be open in front of you. The better approach is catching the scam at the email stage, before the fake video even loads.
 
 ---
 

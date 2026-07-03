@@ -147,7 +147,7 @@ Surfshark includes all of the above. The kill switch is particularly important: 
 
 A small overhead is unavoidable because encryption adds processing. With a modern protocol like WireGuard and a nearby server, the difference in practice is minimal — typically a few percent of total bandwidth. For very large transfers over a fast connection, you are unlikely to notice it.
 
-**Can I use a VPN to access my firm's internal server remotely?**
+**Can I use a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) my firm's internal server remotely?**
 
 Yes, but this depends on how your firm's server is configured. A VPN protects the connection from your device to the internet, but your firm's server still needs to be accessible remotely. Many practices set up their own VPN gateway (on a router or server) for internal access — a personal VPN service like Surfshark handles the client-side encryption for public networks, not the server-side access control.
 

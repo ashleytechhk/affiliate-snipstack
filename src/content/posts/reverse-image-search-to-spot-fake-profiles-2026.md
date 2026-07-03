@@ -20,7 +20,7 @@ This guide explains what reverse image search is, why it matters, and [how to us
 
 ## Quick Verdict
 
-Reverse image search is a free, beginner-friendly technique that exposes stolen profile photos in minutes. If a scammer has lifted someone else's photo to build a fake identity, a reverse image search will often show you where that photo actually came from — exposing the deception before you engage further. For suspicious emails from unknown contacts, Surfshark's Email Scam Checker adds a second layer of protection, checking sender authenticity and known scam indicators without any technical knowledge required. Using both together gives you strong, practical defences against fake-profile scams.
+Reverse image search is a free, beginner-friendly technique that exposes stolen profile photos in minutes. If a scammer has lifted someone else's photo to build a fake identity, a reverse image search will often show you where that photo actually came from — exposing the deception before you engage further. For suspicious emails from unknown contacts, Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) adds a second layer of protection, checking sender authenticity and known scam indicators without any technical knowledge required. Using both together gives you strong, practical defences against fake-profile scams.
 
 ---
 

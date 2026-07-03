@@ -89,7 +89,7 @@ NordVPN's audit track record is slightly longer — it has been independently ve
 
 ![Surfshark vs NordVPN security and privacy features](/og/nordvpn-netflix-2026-inline-2.png)
 
-For streaming arbitrage, the privacy features matter primarily in protecting your connection from your ISP — not for anonymity in a legal sense. Using a VPN to access lower-priced regional content sits in a grey area of terms of service for most streaming platforms, but is not illegal in the vast majority of jurisdictions.
+For streaming arbitrage, the privacy features matter primarily in protecting your connection from your ISP — not for anonymity in a legal sense. Using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) lower-priced regional content sits in a grey area of terms of service for most streaming platforms, but is not illegal in the vast majority of jurisdictions.
 
 ---
 

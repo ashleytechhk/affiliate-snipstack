@@ -20,7 +20,7 @@ This guide explains what a phishing link checker actually does, why it matters e
 
 ## Quick Verdict
 
-For most people, the fastest and most reliable free option [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Email Scam Checker. You paste in a suspicious link or email address, and it tells you in plain language whether it looks safe or dangerous. No technical knowledge required. No downloads needed.
+For most people, the fastest and most reliable free option [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/)'s Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/). You paste in a suspicious link or email address, and it tells you in plain language whether it looks safe or dangerous. No technical knowledge required. No downloads needed.
 
 > **Want to check a suspicious link right now?** [Try the Email Scam Checker free here](/blog/scamcheck?sub=phishing-link-checker-free-2026__above-fold) — then come back to understand how it all works.
 

@@ -12,7 +12,7 @@ You receive an email. It says it is from a well-known children's hospital, a dis
 
 Before you click that button or enter your card details — pause. Charity donation scams are one of the most common ways fraudsters target people by email, and they spike every time there is a natural disaster, a health crisis, or a major news event. Criminals know that generous instincts can override caution.
 
-The good news is that verifying a charity before you donate is straightforward once you know which tool handles which part of the check. This guide breaks down the two layers of verification you need — and shows you exactly where Surfshark's Email Scam Checker fits in.
+The good news is that verifying a charity before you donate is straightforward once you know which tool handles which part of the check. This guide breaks down the two layers of verification you need — and shows you exactly where Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) fits in.
 
 > **Have a suspicious charity email in front of you right now?** [Check the sender and donation link here — free](/blog/scamcheck?sub=charity-scam-verification-before-donating-2026__above-fold) — then read on for the full picture.
 

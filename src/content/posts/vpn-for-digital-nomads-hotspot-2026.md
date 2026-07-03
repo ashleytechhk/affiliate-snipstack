@@ -165,7 +165,7 @@ There is a small overhead from encryption — typically 5–15% in ideal conditi
 
 Some routers and dedicated hotspot devices support running a VPN directly on the device, which would encrypt traffic for everything connected through it. This requires router-level VPN configuration, which varies by device and is more technical than installing an app. The simpler approach for most nomads: install Surfshark on each device individually. With Surfshark's unlimited device policy, there is no cost penalty for covering every device separately.
 
-### Is using a VPN to access cheaper streaming prices allowed?
+### Is using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) cheaper streaming prices allowed?
 
 This sits in a legal grey area in most jurisdictions — VPN use itself is legal in most countries. Whether accessing regional streaming pricing complies with a platform's terms of service is a separate question, and terms vary by platform. Review each service's current terms before proceeding. This article is informational and does not constitute legal advice.
 

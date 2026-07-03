@@ -20,7 +20,7 @@ This guide walks through eight specific warning signs, shows you how spotting th
 
 ## Quick Verdict
 
-LinkedIn job scams are more convincing than most phishing attempts because they borrow real context — your industry, your job title, companies you might actually want to work for. Manual checking works if you slow down and know what to look for. Automated tools like Surfshark's Email Scam Checker close the gap when you miss a subtle spoofed domain or a fake sender address. If you are actively job hunting and receiving unsolicited recruiter emails, layering both approaches is the sensible move.
+LinkedIn job scams are more convincing than most phishing attempts because they borrow real context — your industry, your job title, companies you might actually want to work for. Manual checking works if you slow down and know what to look for. Automated tools like Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) close the gap when you miss a subtle spoofed domain or a fake sender address. If you are actively job hunting and receiving unsolicited recruiter emails, layering both approaches is the sensible move.
 
 ---
 

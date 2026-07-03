@@ -22,7 +22,7 @@ This guide explains [how to verify](https://snipstack.io/how-to-verify-airbnb-li
 
 ## Quick Verdict
 
-For most people who receive suspicious NFT-related emails, **Surfshark's Email Scam Checker** is the fastest and most practical way to verify legitimacy. Paste the link or sender address from the email, and you get a plain-language verdict without needing any technical knowledge. Manual verification methods — checking the project's official channels, looking up the [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), and reviewing the sender's email headers — are solid complements when you want to dig deeper. The combination of a quick automated check plus a few manual signals covers the vast majority of NFT scam attempts that arrive by email.
+For most people who receive suspicious NFT-related emails, **Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/)** is the fastest and most practical way to verify legitimacy. Paste the link or sender address from the email, and you get a plain-language verdict without needing any technical knowledge. Manual verification methods — checking the project's official channels, looking up the [domain age](https://snipstack.io/domain-age-checker-scam-prevention-2026/), and reviewing the sender's email headers — are solid complements when you want to dig deeper. The combination of a quick automated check plus a few manual signals covers the vast majority of NFT scam attempts that arrive by email.
 
 ---
 

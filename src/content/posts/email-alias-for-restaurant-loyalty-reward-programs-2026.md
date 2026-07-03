@@ -94,11 +94,11 @@ The catches: iCloud Hide My Email only works cleanly inside the Apple ecosystem.
 
 ### Surfshark Alt-ID (Recommended)
 
-[Alt-ID](/blog/altid?sub=email-alias-for-restaurant-loyalty-reward-programs-2026__mid) is Surfshark's masked email feature, included with every Surfshark plan.
+[Alt-ID](/blog/altid?sub=email-alias-for-restaurant-loyalty-reward-programs-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s masked email feature, included with every Surfshark plan.
 
 **How it works for restaurant loyalty apps:**
 
-1. Before signing up (or before your next app update), open the Surfshark app or browser extension and generate a new alias.
+1. Before signing up (or before your next app update), open the Surfshark app or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) and generate a new alias.
 2. Use the alias as the email on the rewards app sign-up screen.
 3. Points confirmations, birthday reward codes, and redemption receipts forward automatically to your real inbox — the account works exactly like it would with your real address.
 4. When the promotional volume from that chain becomes unbearable, delete the alias in the Alt-ID dashboard. Every stream tied to that address — loyalty marketing, delivery cross-promo, reactivation campaigns — loses its path to you in one action.
@@ -147,7 +147,7 @@ Rarely. Most restaurant loyalty apps accept any properly formatted email and are
 
 No. Points, punch-card progress, and tier status are stored on the account record, not on the email address. Deleting an alias only cuts off future email delivery to that address. If you still want to use the account, create a new alias and update the account's registered email before you delete the old one — otherwise you will lock yourself out of account recovery and email-based confirmations.
 
-**Does using an alias stop the restaurant chain from sharing my data with delivery partners?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias stop the restaurant chain from sharing my data with delivery partners?**
 
 It stops those partners from reaching your real inbox by email, which is the immediate spam problem. It does not change what the loyalty program discloses about you internally under its own privacy policy — that is governed separately by the terms you agreed to at sign-up. For the specific problem of unwanted promotional email, a masked alias is the most direct fix available.
 

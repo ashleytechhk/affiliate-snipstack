@@ -18,7 +18,7 @@ Facebook Marketplace fraud has grown sharply as the platform has expanded. The s
 
 ## Quick Verdict
 
-Facebook Marketplace scams almost always involve email at some stage — a fake payment confirmation, a [phishing link](https://snipstack.io/phishing-link-checker-free-2026/), or a spoofed notification asking for your details. Manual checks (reading the sender address, searching the message text) catch many of them, but they require you to slow down at exactly the moment scammers want you to act fast. Surfshark's Email Scam Checker scans suspicious messages automatically and flags deceptive content, spoofed senders, and malicious links before you do anything irreversible. For anyone who buys or sells on Marketplace regularly, combining both approaches is the practical answer.
+Facebook Marketplace scams almost always involve email at some stage — a fake payment confirmation, a [phishing link](https://snipstack.io/phishing-link-checker-free-2026/), or a spoofed notification asking for your details. Manual checks (reading the sender address, searching the message text) catch many of them, but they require you to slow down at exactly the moment scammers want you to act fast. Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) scans suspicious messages automatically and flags deceptive content, spoofed senders, and malicious links before you do anything irreversible. For anyone who buys or sells on Marketplace regularly, combining both approaches is the practical answer.
 
 ---
 

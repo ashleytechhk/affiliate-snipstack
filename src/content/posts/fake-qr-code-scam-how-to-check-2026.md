@@ -20,7 +20,7 @@ That is exactly the gap scammers exploit. Knowing [how to check](https://snipsta
 
 ## Quick Verdict
 
-Fake QR code scams work because people scan first and think second. Your phone's camera shows you the destination web address before you open it — that preview moment is your only window to check. For QR codes that arrive by email (the most common delivery method), Surfshark's Email Scam Checker lets you run the destination address through a safety database in seconds and get a plain-language verdict. No technical knowledge required.
+Fake QR code scams work because people scan first and think second. Your phone's camera shows you the destination web address before you open it — that preview moment is your only window to check. For QR codes that arrive by email (the most common delivery method), Surfshark's Email [Scam Checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) lets you run the destination address through a safety database in seconds and get a plain-language verdict. No technical knowledge required.
 
 ---
 

@@ -133,7 +133,7 @@ Here is the honest breakdown:
 - **Your main concern is spam phone calls and you have an Android** → Hiya is the most polished option.
 - **You own a Google Pixel** → Google Call Screen is excellent and free.
 - **You want call ID recognition globally** → Truecaller, with awareness of its data practices.
-- **You want to cover both email and calls** → Combine Surfshark Scam Checker for email with Hiya or Truecaller for calls.
+- **You want to cover both email and calls** → Combine Surfshark [Scam Checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) email with Hiya or Truecaller for calls.
 
 There is no single app that handles both vectors perfectly in 2026. The good news is that combining a [free email](https://snipstack.io/free-email-scammer-check-gmail-2026/) checker with a free call-screening tier costs nothing.
 

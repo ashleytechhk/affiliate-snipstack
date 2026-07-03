@@ -146,7 +146,7 @@ Download from the VPN provider's website or the Mac App Store, run the installer
 
 ### Are VPNs legal on Mac?
 
-VPNs are legal software in most countries and widely used for privacy, security, and regional access. Using a VPN to access lower-cost regional pricing on streaming services is a terms-of-service question, not a legal one — enforcement by platforms is typically limited to service restrictions rather than legal action. Review each platform's terms before use.
+VPNs are legal software in most countries and widely used for privacy, security, and regional access. Using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) lower-cost regional pricing on streaming services is a terms-of-service question, not a legal one — enforcement by platforms is typically limited to service restrictions rather than legal action. Review each platform's terms before use.
 
 **[Check current Surfshark pricing for Mac](/blog/vpn?sub=top-nordvpn-mac-2026__faq)**
 

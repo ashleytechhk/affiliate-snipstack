@@ -200,7 +200,7 @@ There is a free tier that covers essential lookups. For ongoing monitoring — s
 
 A two-minute check before entering your card details is a far better use of your time than disputing a fraudulent charge after the fact.
 
-The combination that catches most scams: check the URL, look up the domain age, and run the address or email through a scam checker. You can do all three in the time it takes to find your wallet.
+The combination that catches most scams: check the URL, look up the domain age, and run the address or email through a [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/). You can do all three in the time it takes to find your wallet.
 
 **[Run a website check with Surfshark's Scam Detector — free to start →](/blog/scamcheck?sub=how-to-verify-a-website-before-buying-2026__cta)**
 

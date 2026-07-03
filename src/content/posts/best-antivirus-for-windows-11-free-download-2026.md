@@ -253,7 +253,7 @@ Stay calm. Open your antivirus program and run a **Full Scan** right away. Follo
 
 ### Is it safe to enter my credit card details to sign up for a free trial?
 
-Reputable companies like Surfshark use secure, encrypted payment pages (look for the padlock icon in your browser address bar). They clearly state what you are agreeing to and how to cancel. That said, if you would prefer to avoid entering card details, ask a family member to sit with you and help review the terms before you proceed.
+Reputable companies like Surfshark use secure, encrypted payment pages (look for the padlock icon in your browser address bar). They clearly state what you are agreeing to and [how to cancel](https://snipstack.io/how-to-cancel-norton-and-get-better-security-2026/). That said, if you would prefer to avoid entering card details, ask a family member to sit with you and help review the terms before you proceed.
 
 ---
 

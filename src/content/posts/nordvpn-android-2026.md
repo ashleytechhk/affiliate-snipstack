@@ -154,7 +154,7 @@ Surfshark allows unlimited simultaneous device connections on a [single subscrip
 Yes. Surfshark's Android app includes a kill switch that cuts your internet connection if the VPN drops, preventing your real IP from being exposed. The feature is available in the app settings under Connectivity.
 
 **Is it legal to use a [VPN for streaming](https://snipstack.io/vpn-for-streaming-on-firestick-2026/)?**
-VPN use is legal in most countries. Using a VPN to access streaming content may violate the terms of service of individual streaming platforms. This article does not constitute legal advice. Review the terms of any service you access.
+VPN use is legal in most countries. Using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) streaming content may violate the terms of service of individual streaming platforms. This article does not constitute legal advice. Review the terms of any service you access.
 
 ---
 

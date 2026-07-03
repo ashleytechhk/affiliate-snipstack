@@ -157,7 +157,7 @@ Acting quickly gives you the best chance of recovering your money.
 
 **Q: How do I know if a hotel booking site is legitimate?**
 
-Check the web address carefully for typos or unusual words. Search for the hotel independently. Look for a physical address and refund policy at the bottom of the site. Run the URL through a scam-checking tool like Surfshark's scam checker for a fast, plain-language result. [Check a site now.](/blog/scamcheck?sub=fake-hotel-booking-site-how-to-check-2026__faq)
+Check the web address carefully for typos or unusual words. Search for the hotel independently. Look for a physical address and refund policy at the bottom of the site. Run the URL through a scam-checking tool like Surfshark's [scam checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) a fast, plain-language result. [Check a site now.](/blog/scamcheck?sub=fake-hotel-booking-site-how-to-check-2026__faq)
 
 **Q: Can a site with HTTPS and a padlock still be fake?**
 

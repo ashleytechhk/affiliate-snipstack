@@ -113,7 +113,7 @@ This is not a marginal difference in user experience — it is the core reason t
 
 ### Uninstall First
 
-Running two real-time antivirus scanners simultaneously creates conflicts, false positives, and genuine performance problems. Before you install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/), uninstall your existing security suite completely.
+Running two real-time antivirus scanners simultaneously creates conflicts, false positives, and genuine performance problems. Before you install [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/), uninstall your existing [security suite](https://snipstack.io/security-suite-with-identity-alert-at-no-extra-cost-2026/) completely.
 
 **For Norton:** Use the Norton Remove and Reinstall tool (available from Norton's support site) rather than standard Add/Remove Programs. It clears the full installation including background services that a standard uninstall leaves behind.
 

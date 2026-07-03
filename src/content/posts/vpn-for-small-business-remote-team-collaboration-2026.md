@@ -135,7 +135,7 @@ For a subscription-conscious small business owner, that combination is hard to b
 
 With Surfshark, one account covers unlimited simultaneous connections. Your whole team can be online at the same time under a single subscription. [See pricing here](/blog/vpn?sub=vpn-for-small-business-remote-team-collaboration-2026__faq).
 
-**Q: Is using a VPN to access regional software pricing legal?**
+**Q: Is using a [VPN to access](https://snipstack.io/vpn-to-access-work-server-while-traveling-abroad-2026/) regional software pricing legal?**
 
 In most jurisdictions, yes — you're accessing publicly available regional storefronts at their listed prices. That said, software terms of service vary. Check the specific publisher's ToS if you're unsure, and use common sense about which tools and regions you're working with.
 

@@ -42,9 +42,9 @@ An alias breaks this at the point of contact, giving each channel an address unr
 
 ---
 
-## The Comparison: Email Alias Options for Refund Correspondence
+## The Comparison: [Email Alias](https://snipstack.io/email-alias-for-avoiding-re-marketing-after-cart-abandonment-2026/) Options for Refund Correspondence
 
-| Feature | Gmail `+tag` | Throwaway (Temp Mail) | Apple Hide My Email | **Surfshark Alt-ID** |
+| Feature | Gmail `+tag` | Throwaway (Temp Mail) | [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email | **Surfshark Alt-ID** |
 |---|---|---|---|---|
 | Survives multi-day refund back-and-forth | Yes | No — expires within hours | Yes | Yes |
 | Safe to use on developer refund-request forms | Yes | Partially | Yes | Yes |
@@ -93,7 +93,7 @@ Where an alias earns its keep is everything downstream: a developer's own refund
 
 ---
 
-## How to Set Up an Alias for Refund Correspondence
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an Alias for Refund Correspondence
 
 **Step 1.** Get [Alt-ID via Surfshark](/blog/altid?sub=email-alias-for-app-store-refund-request-correspondence-2026__mid) — included with all Surfshark plans, no separate purchase needed.
 

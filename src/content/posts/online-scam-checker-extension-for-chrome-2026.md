@@ -142,7 +142,7 @@ For most users, one well-chosen, actively maintained scam checker is more effect
 
 ## Final Recommendation
 
-The right scam checker for Chrome in 2026 depends on what you are protecting. If email phishing is your main concern — and for most people over 50, it is — then a dedicated tool with real-time email scanning and plain-language alerts is the clear choice over patched-together free alternatives.
+The right [scam checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) Chrome in 2026 depends on what you are protecting. If email phishing is your main concern — and for most people over 50, it is — then a dedicated tool with real-time email scanning and plain-language alerts is the clear choice over patched-together free alternatives.
 
 Surfshark's scam checking tool is designed specifically for this use case: catching phishing emails before you click, flagging suspicious senders, and presenting results in language that makes sense without a security background. It is the option we recommend to anyone who has ever felt that moment of uncertainty holding over a suspicious link.
 

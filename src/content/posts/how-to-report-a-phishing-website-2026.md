@@ -200,7 +200,7 @@ Yes. In the US, forward suspicious SMS messages to 7726 (SPAM) — this works on
 
 If you want to do this right without spending more than five minutes, here is the order that covers the most ground:
 
-1. **Verify first** — paste the link into a scam checker to confirm it is malicious.
+1. **Verify first** — paste the link into a [scam checker](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) to confirm it is malicious.
 2. **Report in your email app** — one click, instant improvement to your own inbox and platform-wide filters.
 3. **Forward to APWG** — `reportphishing@apwg.org` — one forward that reaches ten-plus security vendors.
 4. **Submit the URL to Google Safe Browsing** — protects three billion browsers.

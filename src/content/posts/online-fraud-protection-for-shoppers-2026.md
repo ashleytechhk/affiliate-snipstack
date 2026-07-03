@@ -168,7 +168,7 @@ Online fraud targeting shoppers has reached a scale that makes casual vigilance 
 
 The good news is that the technical signals that expose these scams — sender domain mismatches, link redirects to unknown domains, phishing database matches — are consistent and detectable. You do not need to be able to read them yourself. Surfshark's Email Scam Checker reads them for you.
 
-The combination of a scam checker for suspicious emails, direct verification through official apps and websites, and basic account security hygiene covers the overwhelming majority of the risk. It takes about two minutes to set up and less than one minute to use on any email you are unsure about.
+The combination of a [scam checker for](https://snipstack.io/scam-checker-for-text-messages-with-unknown-links-2026/) suspicious emails, direct verification through official apps and websites, and basic account security hygiene covers the overwhelming majority of the risk. It takes about two minutes to set up and less than one minute to use on any email you are unsure about.
 
 **[Start checking suspicious emails now — free with Surfshark's Email Scam Checker →](/blog/scamcheck?sub=online-fraud-protection-for-shoppers-2026__cta)**
 
