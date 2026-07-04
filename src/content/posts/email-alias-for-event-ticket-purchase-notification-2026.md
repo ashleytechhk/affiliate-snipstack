@@ -102,7 +102,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-singl
 
 **Cross-platform availability.** Alt-ID works through a browser extension on Chrome, Firefox, and Safari, plus a mobile app on iOS and Android. It is not tied to a single operating system or device family.
 
-**Bundled value with [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/).** If you are already evaluating a VPN for broader privacy, the [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) bundle brings the per-feature cost down significantly compared to purchasing alias, VPN, and antivirus tools separately from different providers.
+**Bundled value with [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/).** If you are already evaluating a VPN for broader privacy, the [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) bundle brings the per-feature cost down significantly compared to purchasing alias, VPN, and [antivirus](https://snipstack.io/vs-antivirus-2026/) tools separately from different providers.
 
 ![Surfshark Alt-ID alias management dashboard for event ticket accounts](/og/email-alias-for-event-ticket-purchase-notification-2026-inline-2.png)
 

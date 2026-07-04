@@ -166,7 +166,7 @@ The window between uninstalling Norton/McAfee and completing [Surfshark antiviru
 
 ## FAQ
 
-### Is there a VPN plus antivirus bundle genuinely under $5 a month?
+### Is there a VPN plus [antivirus bundle](https://snipstack.io/antivirus-bundle-that-includes-email-alias-feature-2026/) genuinely under $5 a month?
 
 Yes. [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) on a two-year plan comes in at approximately $3.19/month and includes a full VPN, real-time antivirus, breach monitoring, and private search. Norton 360 and McAfee can match that first-year price, but their renewal rates typically push the two-year average above five dollars, and their bundled VPNs are significantly more limited. **[Check current Surfshark One pricing here](/blog/one?sub=best-vpn-plus-antivirus-bundle-under-5-dollars-month-2026__faq)**
 

@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ## One Data Breach Can Cost an Insurance Agent Everything
 
-In 2023, a small insurance agency in Ohio lost over $400,000 after a single infected email attachment let hackers into their computer system. Within 48 hours, the names, Social Security numbers, and bank details of more than 800 clients were stolen and sold on the dark web. The agency faced regulatory fines, client lawsuits, and eventually closed its doors.
+In 2023, a small insurance agency in Ohio lost over $400,000 after a single infected email attachment let hackers into their computer system. Within 48 hours, the names, [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) numbers, and bank details of more than 800 clients were stolen and sold on the dark web. The agency faced regulatory fines, client lawsuits, and eventually closed its doors.
 
 That story is not unusual. According to the FBI's Internet Crime Report, financial and insurance sector businesses reported over $2.7 billion in cybercrime losses in a single year. And independent insurance agents — the kind who handle client files on a home office laptop or shared family computer — are among the most targeted.
 
@@ -32,7 +32,7 @@ PII stands for personally identifiable information. It is any data that can be u
 
 - Full legal names and dates of birth
 - Social Security numbers or tax ID numbers
-- Home addresses and phone numbers
+- Home addresses and [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s
 - Bank account or credit card information
 - Medical history or health-related details (for life or health insurance policies)
 - Driver's license numbers

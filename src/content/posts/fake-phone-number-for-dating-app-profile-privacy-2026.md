@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 Pew Research has tracked this for years, and the number that should stop you mid-swipe is this one: **19% of female online daters between 18 and 34 say someone threatened them with physical harm** after meeting through a dating app — roughly double the rate reported by men the same age. Add in the 37% of all online daters who say someone kept contacting them after being told no, and the picture is clear. A dating profile is not a neutral space. It is the one place online where you hand a stranger your name, your photo, your location radius, and — if you are not careful — a direct line to reach you off the app entirely.
 
-That direct line is your phone number. And once it leaves the app, you cannot take it back.
+That direct line is your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). And once it leaves the app, you cannot take it back.
 
 **[See how Alt-Number keeps your real number off your dating profile →](/blog/altnumber?sub=fake-phone-number-for-dating-app-profile-privacy-2026__above-fold)**
 
@@ -112,15 +112,15 @@ The number you share through Alt-Number is not linked to your personal carrier a
 
 ### What if I already gave a match my real number?
 
-You cannot un-share a number once it is out. What you can do going forward: avoid giving your real line to future matches, be cautious about what that person can now find using the number they already have, and consider a [spam call blocker](https://snipstack.io/best-spam-call-blocker-2026/) if the contact turns unwanted. For new matches, start using a second number from this point forward.
+You cannot un-share a number once it is out. What you can do going forward: avoid giving your real line to future matches, be cautious about what that person can now find using the number they already have, and consider a [spam call blocker](https://snipstack.io/best-spam-call-blocker-2026/) if the contact turns unwanted. For new matches, start using a [second number](https://snipstack.io/second-number-for-senior-parents-calling-from-abroad-2026/) from this point forward.
 
 ### Does using a fake number make me seem untrustworthy?
 
 Most matches never know or ask. The number behaves normally — it rings, it receives texts, it works. If someone specifically pressures you to prove a number is your "real" one within the first few messages, that pressure itself is worth noticing, independent of which number you are using.
 
-### Is a second number enough on its own, or do I need other privacy tools too?
+### Is a [second number](https://snipstack.io/second-number-for-wedding-photographer-client-intake-2026/) enough on its own, or do I need other privacy tools too?
 
-Treat it as one layer, not the whole strategy. Many people pair a second number with a [dating-app-specific email alias](https://snipstack.io/email-alias-for-dating-app-registration-2026/) so that neither their real number nor their real email is discoverable from their profile. Combined with basic vigilance — video calls before meeting, public first dates — a second number closes the most exploitable gap without requiring you to overhaul how you use dating apps.
+Treat it as one layer, not the whole strategy. Many people pair a [second number](https://snipstack.io/second-number-to-avoid-spam-after-renovation-quote-2026/) with a [dating-app-specific email alias](https://snipstack.io/email-alias-for-dating-app-registration-2026/) so that neither their real number nor their real email is discoverable from their profile. Combined with basic vigilance — video calls before meeting, public first dates — a [second number](https://snipstack.io/second-number-for-anonymous-neighborhood-reports-2026/) closes the most exploitable gap without requiring you to overhaul how you use dating apps.
 
 **[Start using Alt-Number for dating app privacy →](/blog/altnumber?sub=fake-phone-number-for-dating-app-profile-privacy-2026__faq)**
 

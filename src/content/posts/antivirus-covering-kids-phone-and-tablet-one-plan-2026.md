@@ -48,7 +48,7 @@ Some game apps are built specifically to trick children into tapping "buy now" b
 
 When a grandchild's tablet connects to your home Wi-Fi, it becomes part of your network. If that tablet is infected, it can act as a stepping stone for an attacker trying to reach your computer, your smart TV, or any other device sharing that same connection.
 
-### Phishing links sent through messaging apps
+### [Phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s sent through messaging apps
 
 Kids and teens exchange links constantly — most harmless, but some lead to [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s designed to steal information or install malware. Without protection on every device, one tap on the wrong link can affect the entire home network.
 

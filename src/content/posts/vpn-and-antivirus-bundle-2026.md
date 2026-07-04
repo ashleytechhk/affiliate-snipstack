@@ -46,7 +46,7 @@ Write down the annual total. Most people land between $80 and $160 when they add
 
 ---
 
-## Step 2 — Understand What a VPN + Antivirus Bundle Includes
+## Step 2 — Understand What a VPN + [Antivirus Bundle](https://snipstack.io/antivirus-bundle-that-includes-email-alias-feature-2026/) Includes
 
 A proper bundle should cover four pillars:
 

@@ -125,7 +125,7 @@ Yes, meaningfully so. [Surfshark One](https://snipstack.io/surfshark-one-vs-indi
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/)'s VPN actually work, or is it a watered-down bundle VPN?
 
-Surfshark's VPN is the core product — it predates the antivirus bundle by years. It is the same VPN available as a standalone subscription, with 3,200+ servers, WireGuard and OpenVPN support, kill switch, no-logs policy (audited by Cure53), and no data caps. It is not a stripped-down version bundled in to fill a checkbox on a comparison table.
+Surfshark's VPN is the core product — it predates the [antivirus bundle](https://snipstack.io/antivirus-bundle-that-includes-email-alias-feature-2026/) by years. It is the same VPN available as a standalone subscription, with 3,200+ servers, WireGuard and OpenVPN support, kill switch, no-logs policy (audited by Cure53), and no data caps. It is not a stripped-down version bundled in to fill a checkbox on a comparison table.
 
 ### How many devices can I use with [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)?
 

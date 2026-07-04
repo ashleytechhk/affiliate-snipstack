@@ -104,7 +104,7 @@ For users who actually check their bills and cancel-and-re-subscribe to grab the
 
 Norton's bundled VPN is powered by technology licensed from a third party. McAfee's VPN uses Safe Connect, also third-party licensed. Neither publishes an independent security audit of their VPN's no-logs claims. Both enforce a simultaneous connection limit tied to the number of licensed devices (5 for most plans).
 
-Surfshark's VPN is their core product — it existed before the antivirus bundle and receives active development investment. The WireGuard protocol delivers fast, stable connections. The no-logs policy has been verified by Cure53. Unlimited simultaneous connections means every device in a household runs under one plan.
+Surfshark's VPN is their core product — it existed before the [antivirus bundle](https://snipstack.io/antivirus-bundle-that-includes-email-alias-feature-2026/) and receives active development investment. The WireGuard protocol delivers fast, stable connections. The no-logs policy has been verified by Cure53. Unlimited simultaneous connections means every device in a household runs under one plan.
 
 ### Practical Impact
 

@@ -50,7 +50,7 @@ If your NAS admin password is the same one you use for email or online banking, 
 
 This is the one most people never think about, and it is the most common. Your home office computer maps a drive letter or folder straight to the NAS so you can save files there easily. If that computer gets infected with ransomware — usually through a phishing email or a bad download — the malware does not stop at your desktop. It reaches out across the network and encrypts everything it can find, including your NAS shares and every backup stored on them.
 
-This is the piece that makes antivirus on your computer, not just settings on the NAS box, the most important layer of protection.
+This is the piece that makes [antivirus](https://snipstack.io/vs-antivirus-2026/) on your computer, not just settings on the NAS box, the most important layer of protection.
 
 ---
 
@@ -78,7 +78,7 @@ The real solution is protecting every computer that touches your NAS drive, beca
 **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/)** does this by running quietly on your home office computer and:
 
 - Scanning files in real time, before they can execute and spread across your network
-- Blocking phishing links and malicious websites before the page even loads
+- Blocking [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s and malicious websites before the page even loads
 - Watching for your email address and passwords appearing in known data breaches, so you can change a NAS or router password before a criminal tries it
 - Running in the background with no complicated settings to manage
 

@@ -42,7 +42,7 @@ That's it. One row changes. Everything else is the same product.
 
 ## What You Get With Both Plans
 
-Before getting into what One Plus adds, it's worth being clear about what One already delivers — because it's a lot more than most people expect from an antivirus bundle.
+Before getting into what One Plus adds, it's worth being clear about what One already delivers — because it's a lot more than most people expect from an [antivirus bundle](https://snipstack.io/antivirus-bundle-that-includes-email-alias-feature-2026/).
 
 ### VPN: Unlimited Devices, 100+ Countries
 

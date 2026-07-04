@@ -200,7 +200,7 @@ Yes. Free antivirus scans for known virus files but typically does not block phi
 
 ### Do I need antivirus on my phone as well as my computer?
 
-While iPhones are generally harder to infect with traditional viruses, both Android phones and iPhones are equally vulnerable to phishing scams delivered via email, text message, or fake apps. A paid antivirus bundle that covers unlimited devices — including your phone — means you are protected on every screen you use, not just your desktop.
+While iPhones are generally harder to infect with traditional viruses, both Android phones and iPhones are equally vulnerable to phishing scams delivered via email, text message, or fake apps. A paid [antivirus bundle that](https://snipstack.io/antivirus-bundle-that-includes-email-alias-feature-2026/) covers unlimited devices — including your phone — means you are protected on every screen you use, not just your desktop.
 
 ### What should I do if I see a scary popup saying my computer is infected?
 
