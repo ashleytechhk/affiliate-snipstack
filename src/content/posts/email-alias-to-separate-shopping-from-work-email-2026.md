@@ -165,7 +165,7 @@ Create a dedicated [email alias for](https://snipstack.io/email-alias-for-privac
 
 This depends on the alias tool and your email client configuration. Some services support reply-from-alias so the retailer sees only the alias address. Alt ID, SimpleLogin, and Firefox Relay all handle inbound forwarding; reply-from-alias support varies by plan and setup. Check the documentation of whichever service you choose before relying on it for outbound replies.
 
-**Do I need a separate email account for shopping, or will an alias do the job?**
+**Do I need a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) account for shopping, or will an alias do the job?**
 
 An alias is almost always better than a second account. With a second account you have to log in and out constantly, you'll miss emails, and the inbox becomes orphaned. An alias forwards to your existing personal inbox, so you see everything in one place but shopping mail is clearly separated from your work traffic. No inbox management overhead.
 

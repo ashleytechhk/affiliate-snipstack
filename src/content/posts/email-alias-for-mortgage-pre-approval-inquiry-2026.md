@@ -159,7 +159,7 @@ Emails sent to that alias will bounce. If there are outstanding lender communica
 
 ### Is this legal?
 
-Yes. Using an [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/) is entirely legal. It is functionally the same as setting up a separate email account for a specific purpose — something people have done for decades. You are not misrepresenting your identity in any legally relevant sense by using a forwarding alias for contact.
+Yes. Using an [email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/) is entirely legal. It is functionally the same as setting up a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) account for a specific purpose — something people have done for decades. You are not misrepresenting your identity in any legally relevant sense by using a forwarding alias for contact.
 
 ### Do I need to pay to get a useful [email alias](https://snipstack.io/email-alias-for-receiving-payslips-and-hr-notices-2026/)?
 

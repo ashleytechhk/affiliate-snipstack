@@ -26,7 +26,7 @@ Surfshark's Alt-Number gives you a fully working [second phone number](https://s
 
 ## The Real Risk Nobody Talks About
 
-Most people assume the danger of dating apps is a bad date. The quieter, bigger risk is what happens to your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) after the conversation ends.
+Most people assume the danger of dating apps is a bad date. The quieter, bigger risk is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to your [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) after the conversation ends.
 
 Hand a match your real number and you also hand over:
 

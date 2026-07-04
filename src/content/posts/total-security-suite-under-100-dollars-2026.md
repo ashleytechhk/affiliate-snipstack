@@ -165,7 +165,7 @@ At minimum, you should expect real-time antivirus, a VPN with practical data lim
 
 For most users: no, unless you specifically need LifeLock and you are based in the US. The first-year promotional rate is often competitive. The renewal rate — without hunting for a coupon code — typically lands significantly higher, often in the range where [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) covers more devices with a less capped VPN for less money. Run the comparison before you hit auto-renew.
 
-### Can a VPN with a data cap really count as part of a "total" security suite?
+### Can a VPN with a data cap really count as part of a "total" [security suite](https://snipstack.io/security-suite-with-dark-web-scan-and-vpn-bundled-2026/)?
 
 Not practically. A 50 GB per day cap sounds generous on paper. A 200 MB per day cap does not even pretend to be usable. A VPN that you have to switch off to avoid hitting a ceiling is not a VPN you will use consistently — which defeats the point of encrypting your traffic on public Wi-Fi. For a suite that bills itself as total protection, the VPN should have no data ceiling.
 

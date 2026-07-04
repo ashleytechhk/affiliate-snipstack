@@ -101,7 +101,7 @@ Key features worth knowing:
 - Available in multiple countries, so you can choose a local-looking number
 - Not linked to your real name or home address in any reverse-lookup database
 - Cancel and replace the number anytime without carrier involvement
-- Bundled with Surfshark's broader privacy suite if you choose the One package
+- Bundled with Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) if you choose the One package
 
 For online dating, you give this number to matches at the natural exchange-numbers moment. For podcast guest intake, it goes on every form without hesitation. Your real number never enters either of those contexts in the first place.
 
@@ -109,7 +109,7 @@ For online dating, you give this number to matches at the natural exchange-numbe
 
 ---
 
-## How to Set Up Your [Second Number](https://snipstack.io/second-number-for-night-shift-nurse-personal-privacy-2026/) in Under Five Minutes
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Your [Second Number](https://snipstack.io/second-number-for-night-shift-nurse-personal-privacy-2026/) in Under Five Minutes
 
 1. Sign up for Surfshark Alt-Number through [this link](/blog/altnumber?sub=second-number-for-podcast-guest-booking-intake-2026__cta)
 2. Download the Alt-Number app on your iOS or Android device

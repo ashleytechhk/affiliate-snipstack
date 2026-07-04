@@ -170,4 +170,4 @@ The only reason to stay on Norton is if you specifically need the LifeLock insur
 
 ---
 
-*Pricing reflects publicly available rates as of May 2026. Security suite features and lab test scores change with software updates — verify current independent test results at AV-TEST.org or AV-Comparatives.org before purchasing. This article contains affiliate links.*
+*Pricing reflects publicly available rates as of May 2026. [Security suite](https://snipstack.io/security-suite-with-dark-web-scan-and-vpn-bundled-2026/) features and lab test scores change with software updates — verify current independent test results at AV-TEST.org or AV-Comparatives.org before purchasing. This article contains affiliate links.*

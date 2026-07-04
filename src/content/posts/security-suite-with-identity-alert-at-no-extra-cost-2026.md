@@ -28,7 +28,7 @@ Identity monitoring — sometimes called dark web monitoring, breach alerts, or 
 
 So naturally, that's the feature big antivirus brands moved behind their most expensive tiers. Norton's baseline plans include limited monitoring, but the fuller identity restoration and monitoring package (often bundled with LifeLock in the US) sits in a separate, pricier product line. McAfee follows a similar pattern — identity monitoring shows up in "Plus" or "Advanced" naming, while the entry-level plan leaves you with antivirus and not much else.
 
-The result: people paying for a "security suite" who assume [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) is included, only to find out at the worst possible moment — after a breach notification — that they need to upgrade first.
+The result: people paying for a "[security suite](https://snipstack.io/security-suite-with-dark-web-scan-and-vpn-bundled-2026/)" who assume [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) is included, only to find out at the worst possible moment — after a breach notification — that they need to upgrade first.
 
 ---
 

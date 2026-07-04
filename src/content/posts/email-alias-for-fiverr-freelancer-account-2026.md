@@ -116,7 +116,7 @@ For most freelancers who are not already paying for Apple or Google services spe
 
 ## FAQ
 
-### Do I need a separate email account, or is an alias different?
+### Do I need a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) account, or is an alias different?
 
 An alias is different from a separate email account. You do not create a new inbox — you create a forwarding address that delivers mail to your existing inbox. You manage everything in one place. The alias is just the address the outside world sees.
 

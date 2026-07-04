@@ -102,7 +102,7 @@ Yes. [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-feature-co
 
 ### Does each partner get their own data breach alerts, or just one shared alert?
 
-Surfshark Alert can monitor multiple email addresses, phone numbers, and payment cards independently within the same account, so each partner can track their own exposure rather than sharing a single identity's monitoring. [See what's included in breach monitoring →](/blog/one?sub=security-bundle-for-couple-with-phones-and-laptops-2026__faq)
+Surfshark Alert can monitor multiple email addresses, [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s, and payment cards independently within the same account, so each partner can track their own exposure rather than sharing a single identity's monitoring. [See what's included in breach monitoring →](/blog/one?sub=security-bundle-for-couple-with-phones-and-laptops-2026__faq)
 
 ### Is it cheaper to keep two separate Norton accounts or switch to one [Surfshark One](https://snipstack.io/surfshark-one-honest-review-for-everyday-user-2026/) plan?
 

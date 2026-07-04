@@ -43,7 +43,7 @@ The strongest option for Figma account registration is **[Surfshark Alt-ID](http
 
 Figma is not just a design tool — it is a platform with an ecosystem, and that ecosystem is what feeds your inbox.
 
-**Plugin and resource marketplaces.** The Figma Community hosts thousands of plugins, UI kits, and templates. Many require you to provide an email to download, unlock a premium version, or access a creator's asset library. Each of those is a separate email list with its own policies.
+**Plugin and resource marketplaces.** The Figma Community hosts thousands of plugins, UI kits, and templates. Many require you to provide an email to download, unlock a premium version, or access a creator's asset library. Each of those is a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) list with its own policies.
 
 **Team and organization invites.** When you are added to a Figma team or organization, your email is shared with workspace administrators and potentially with any third-party integrations the team has enabled — Slack, Jira, Notion, and others. The chain of exposure grows with each integration.
 

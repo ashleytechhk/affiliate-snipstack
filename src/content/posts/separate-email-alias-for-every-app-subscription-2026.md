@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 Fifty-plus emails a day. That's the number a lot of people quietly deal with once their inbox has been handed out to every app, trial, and subscription they've ever signed up for. Some of it is legitimate billing mail. Most of it is re-engagement nagging, "we miss you" bait, and marketing that keeps arriving long after you cancelled. The root problem isn't spam filters — it's that one single address is tied to every subscription you've ever created, so there's no way to shut off one leaky app without touching everything else.
 
-The fix that actually works is giving **every app subscription its own email alias** — a unique forwarding address per service, so you can kill one without losing the rest. Several tools claim to do this. They don't all do it the same way, and the differences matter a lot once you're managing 20+ recurring subscriptions instead of two.
+The fix that actually works is giving **every app subscription its own [email alias](https://snipstack.io/email-alias-for-avoiding-re-marketing-after-cart-abandonment-2026/)** — a unique forwarding address per service, so you can kill one without losing the rest. Several tools claim to do this. They don't all do it the same way, and the differences matter a lot once you're managing 20+ recurring subscriptions instead of two.
 
 ![Comparison of email alias options for app subscriptions](/og/separate-email-alias-for-every-app-subscription-2026.png)
 
@@ -42,7 +42,7 @@ A separate alias per subscription solves all three at once: attribution, revocat
 
 Adding `+appname` before the `@` (like `you+netflix@gmail.com`) is free and requires no setup. It's a reasonable starting point, but it has two structural weaknesses for subscription management: marketers routinely strip everything after the `+` before storing your address, and there's no way to "delete" a plus-tag — it's just a variation of your one real address, so a leak still exposes your actual account.
 
-### Apple Hide My Email
+### [Apple Hide My](https://snipstack.io/apple-hide-my-email-vs-email-alias-2026/) Email
 
 Built into iCloud+, Hide My Email generates a random forwarding address per app or signup, and you can deactivate any one of them from Settings. It's genuinely solid — but it only works cleanly inside the Apple ecosystem. Managing dozens of subscription aliases through iCloud settings gets clunky fast, and there's no cross-platform dashboard if you also use Android or a Windows machine for some of your subscriptions.
 
@@ -104,13 +104,13 @@ This is where Alt ID's naming and dashboard structure earns its keep: you can se
 
 Ideally every one. The value of the system is attribution — if you only alias the "risky" ones, you lose the ability to identify exactly which trusted service leaked or over-marketed you when it happens.
 
-**What happens to my billing if I delete an alias tied to an active subscription?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my billing if I delete an alias tied to an active subscription?**
 
 If you're still an active customer, pause forwarding rather than deleting outright, so billing receipts still reach you. Delete only after you've actually cancelled the subscription and no longer need mail from that service.
 
-**Can a subscription still charge my card if I delete the email alias tied to it?**
+**Can a subscription still charge my card if I delete the [email alias](https://snipstack.io/email-alias-for-receiving-government-benefit-update-notices-2026/) tied to it?**
 
-Deleting an email alias has no effect on payment processing — billing runs through your card details, not your email. The alias only controls what mail reaches you, so cancel the subscription itself through the app or provider, then clean up the alias.
+Deleting an [email alias](https://snipstack.io/email-alias-for-app-store-refund-request-correspondence-2026/) has no effect on payment processing — billing runs through your card details, not your email. The alias only controls what mail reaches you, so cancel the subscription itself through the app or provider, then clean up the alias.
 
 **Is this different from using a single "junk" email for every subscription?**
 

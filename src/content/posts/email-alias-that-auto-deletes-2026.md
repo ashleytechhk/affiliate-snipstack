@@ -20,7 +20,7 @@ There are two ways an alias can "go away": it self-destructs on a timer (10 Minu
 
 ## What Is an [Email Alias](https://snipstack.io/email-alias-for-healthcare-appointment-reminders-2026/)?
 
-An [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/) is a forwarding address — a separate email address that sends everything it receives directly to your real inbox. When you sign up for a website, you give them the alias, not your actual address. To the website, the alias looks like any normal email. To you, the emails appear in your existing Gmail, Outlook, or Apple Mail as usual.
+An [email alias](https://snipstack.io/email-alias-for-investment-account-notifications-2026/) is a forwarding address — a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) address that sends everything it receives directly to your real inbox. When you sign up for a website, you give them the alias, not your actual address. To the website, the alias looks like any normal email. To you, the emails appear in your existing Gmail, Outlook, or Apple Mail as usual.
 
 The critical property is control. Because the alias is not your real address, you can delete or deactivate it at any time. When you do, the channel is closed. Any sender — including every spammer who bought the list your alias ended up on — gets a permanent bounce. Your real inbox is untouched.
 

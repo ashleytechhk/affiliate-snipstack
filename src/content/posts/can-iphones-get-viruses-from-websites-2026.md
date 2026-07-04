@@ -72,7 +72,7 @@ Surfshark positions its iOS security as a layered tool, not a traditional virus 
 
 **Real-time web protection.** When you tap a link — in a text message, email, or website — Surfshark checks it against a constantly updated list of known phishing and scam pages. If something looks dangerous, you get a warning before the page loads.
 
-**Alternative ID.** This feature lets you create a separate email address for online sign-ups, so your real inbox stays clean and scammers cannot link your accounts together.
+**Alternative ID.** This feature lets you create a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) address for online sign-ups, so your real inbox stays clean and scammers cannot link your accounts together.
 
 **Alert for data breaches.** If your email address appears in a leaked database, Surfshark notifies you so you can change your passwords before someone misuses them.
 

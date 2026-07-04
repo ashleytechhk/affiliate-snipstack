@@ -176,7 +176,7 @@ Yes. The goal is to prevent cross-platform identification — the linking of you
 
 Classified ad platforms were built to connect buyers with sellers. They were not built with your dating life in mind. In 2026, those two worlds share the same people, the same devices, and increasingly the same risks. Using your real phone number across both is leaving a trail that anyone motivated enough can follow.
 
-A [burner number for](https://snipstack.io/burner-number-for-depop-seller-account-2026/) online classified ads is not a paranoid measure. It's the same logic as using a P.O. box for business mail, or a separate email for signups you don't fully trust. You're still reachable. You're still functional. You're just not handing strangers a key to every other part of your life.
+A [burner number for](https://snipstack.io/burner-number-for-depop-seller-account-2026/) online classified ads is not a paranoid measure. It's the same logic as using a P.O. box for business mail, or a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) for signups you don't fully trust. You're still reachable. You're still functional. You're just not handing strangers a key to every other part of your life.
 
 Surfshark Alt-Number costs less than a streaming subscription, takes five minutes to set up, and can be deleted the instant any contact becomes a problem. For anyone who dates online and posts on classified platforms, that combination is hard to argue against.
 

@@ -122,7 +122,7 @@ Acting fast limits the damage significantly.
 
 Reacting to a suspicious email is one thing. Building habits that reduce your exposure over time is more effective.
 
-**Use a dedicated email address for shopping.** Create a separate email account to use exclusively for online shopping sign-ups. This keeps your main inbox cleaner and means that if a retailer's database is breached and your address is sold to scammers, it does not expose the primary email address tied to your banking or social accounts.
+**Use a dedicated email address for shopping.** Create a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) account to use exclusively for online shopping sign-ups. This keeps your main inbox cleaner and means that if a retailer's database is breached and your address is sold to scammers, it does not expose the primary email address tied to your banking or social accounts.
 
 **Monitor your email for breach exposure.** Data breaches are the primary way scammers obtain real email addresses tied to real shopping accounts. When a retailer's database is hacked, the email addresses — along with partial or full order histories — get sold on fraud marketplaces. Surfshark's Email Scam Checker includes monitoring that alerts you when your address appears in newly discovered breaches, so you know to be on heightened alert before scam emails start arriving.
 

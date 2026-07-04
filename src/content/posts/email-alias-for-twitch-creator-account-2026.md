@@ -82,7 +82,7 @@ Separating aliases by purpose means you instantly know which surface got leaked 
 
 ### What it does not do
 
-Alt-ID is not a full email provider. It cannot send outbound mail using the alias as the From address without some configuration workarounds. If you need to initiate sponsor conversations from a masked identity, you would need to combine it with a separate email hosting service.
+Alt-ID is not a full email provider. It cannot send outbound mail using the alias as the From address without some configuration workarounds. If you need to initiate sponsor conversations from a masked identity, you would need to combine it with a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) hosting service.
 
 It also does not offer a custom domain — if you want aliases at `@yourbrand.com`, SimpleLogin's paid tier is a better fit.
 

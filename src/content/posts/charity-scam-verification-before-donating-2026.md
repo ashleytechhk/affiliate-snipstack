@@ -136,7 +136,7 @@ Start with a register lookup. Search the charity's exact name on Charity Navigat
 
 ### Can a charity be registered but the email still be a scam?
 
-Yes — this is one of the most important things to understand. Scammers frequently impersonate real, registered charities. They create a similar domain name, copy the branding, and send emails that look identical to the genuine article. A register check only confirms the organisation exists. A separate email and link check is always necessary.
+Yes — this is one of the most important things to understand. Scammers frequently impersonate real, registered charities. They create a similar domain name, copy the branding, and send emails that look identical to the genuine article. A register check only confirms the organisation exists. A [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) and link check is always necessary.
 
 ### What payment methods are safe to use when donating?
 

@@ -137,7 +137,7 @@ Here is what it covers, specifically for phishing protection:
 
 **Web protection.** Known phishing and scam websites are blocked automatically. If you click a suspicious link, the page does not load — you see a clear warning instead.
 
-**Alternative ID.** You can create a separate email address and identity for online accounts. This means phishing emails sent to your main address drop dramatically — because the main address is not shared with websites that could be breached.
+**Alternative ID.** You can create a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) address and identity for online accounts. This means phishing emails sent to your main address drop dramatically — because the main address is not shared with websites that could be breached.
 
 **Breach alerts.** Surfshark monitors whether your email address appears in data breaches and notifies you immediately so you can act before a criminal does.
 

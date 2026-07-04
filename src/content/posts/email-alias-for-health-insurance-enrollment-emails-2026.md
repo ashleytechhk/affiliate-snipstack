@@ -88,7 +88,7 @@ Alt-ID suits anyone who:
 
 ### The Trade-off
 
-Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)+, not sold as a standalone product. If you already use Surfshark for VPN, you likely have access at no extra cost. If you're new to Surfshark, you're paying for a broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/). That may be more than you need if inbox protection is your only goal — though the VPN, antivirus, and data breach monitoring tools in the bundle add genuine value for most users.
+Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)+, not sold as a standalone product. If you already use Surfshark for VPN, you likely have access at no extra cost. If you're new to Surfshark, you're paying for a broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/). That may be more than you need if inbox protection is your only goal — though the VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach monitoring tools in the bundle add genuine value for most users.
 
 ---
 
@@ -122,7 +122,7 @@ The limitations: some insurance carrier systems reject `@privaterelay.appleid.co
 
 ---
 
-## How to Set Up an Alt-ID Alias for Open Enrollment
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an Alt-ID Alias for Open Enrollment
 
 ![Surfshark Alt-ID dashboard showing alias creation and identity details](/og/email-alias-for-health-insurance-enrollment-emails-2026-inline-2.png)
 

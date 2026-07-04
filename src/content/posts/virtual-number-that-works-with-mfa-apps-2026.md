@@ -96,7 +96,7 @@ This flow works for Tinder, Bumble, Hinge, and other major dating platforms. It 
 
 A [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) is one layer. Used alone it handles the phone number risk well. But the threat model for online dating is broader, and it is worth understanding what else belongs in a solid privacy setup.
 
-**Use a separate email address for dating apps.** Do not use the same email you use for work or banking. A match who knows your email can search for it across data breach databases and see what else you have registered with it.
+**Use a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) address for dating apps.** Do not use the same email you use for work or banking. A match who knows your email can search for it across data breach databases and see what else you have registered with it.
 
 **Do not use Facebook login.** Connecting your dating profile to Facebook creates a visible link between your dating activity and your social graph. Use email signup instead.
 

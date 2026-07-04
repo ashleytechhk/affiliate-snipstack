@@ -121,7 +121,7 @@ Using a [virtual number for](https://snipstack.io/virtual-number-for-home-servic
 
 **Separate phone numbers per context.** One number for dating apps. A different number for local platforms like Nextdoor. Your real number reserved for people you have actually met and trust. This is sometimes called [burner number](https://snipstack.io/burner-number-dating-apps-2026/) hygiene — each number serves a specific context and can be replaced without disrupting the others.
 
-**Separate email addresses.** The same principle applies to email. Using a masked alias for Nextdoor signup means the platform's email address is not the same one tied to your dating profiles or your bank. If one service leaks data, it does not cascade.
+**[Separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) addresses.** The same principle applies to email. Using a masked alias for Nextdoor signup means the platform's email address is not the same one tied to your dating profiles or your bank. If one service leaks data, it does not cascade.
 
 **[Virtual number](https://snipstack.io/virtual-number-for-upwork-freelancer-profile-2026/)s for other verifications.** The same Alt-Number that works for Nextdoor works for [Google account verification](https://snipstack.io/virtual-number-for-google-account-verification-2026/), messaging apps, and other platforms where SMS confirmation is required. One subscription covers multiple contexts.
 

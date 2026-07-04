@@ -138,7 +138,7 @@ You are done. From this point forward, Surfshark works automatically.
 
 Antivirus is the foundation, but here are three additional habits that cost nothing and significantly reduce your risk.
 
-**Use a separate email for client work.** If your personal email is compromised, your client communication stays clean — and vice versa.
+**Use a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) for client work.** If your personal email is compromised, your client communication stays clean — and vice versa.
 
 **Never open email attachments you were not expecting.** Even if the email appears to come from a known client, call them quickly to confirm before opening anything unusual. Criminals can fake the "from" address.
 

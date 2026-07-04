@@ -101,7 +101,7 @@ The entire process takes under five minutes, even on a first attempt.
 
 A [virtual number](https://snipstack.io/virtual-number-for-freelance-writing-clients-2026/) is one layer of protection, not a complete privacy strategy on its own. If you are serious about keeping your real identity separate from your online dating activity, pair it with a few additional habits.
 
-**Use a separate email address for Discord.** [Free email](https://snipstack.io/free-email-alias-2026/) services let you create multiple accounts. Use one email exclusively for dating-adjacent platforms and communities. That way, if your email is ever exposed, it does not lead back to your primary inbox or identity.
+**Use a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) address for Discord.** [Free email](https://snipstack.io/free-email-alias-2026/) services let you create multiple accounts. Use one email exclusively for dating-adjacent platforms and communities. That way, if your email is ever exposed, it does not lead back to your primary inbox or identity.
 
 **Set a Discord username that does not match other handles.** If your Instagram, Twitter, or LinkedIn username is the same as your Discord name, a search connects them instantly. Use something distinct for dating communities.
 

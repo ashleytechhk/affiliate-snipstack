@@ -148,7 +148,7 @@ Alt-ID prevents future spam by shielding your real address from new signups. Spa
 
 Even at minimal platform exposure, your address gets scraped from public profiles, harvested from data broker lists, and sold through ad partnerships. The value of Alt-ID scales with the number of places your address exists — but even one alias protecting your public portfolio email is enough to notice the difference in spam volume.
 
-**How is Alt-ID different from just using a separate email provider like ProtonMail?**
+**How is Alt-ID different from just using a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) provider like ProtonMail?**
 
 A separate inbox requires you to monitor it separately and creates context-switching friction. Alt-ID forwards everything to your existing inbox, so your workflow doesn't change. It's a privacy layer on top of how you already work, not a parallel system you have to maintain.
 

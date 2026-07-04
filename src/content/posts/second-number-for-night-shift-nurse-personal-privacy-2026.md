@@ -122,7 +122,7 @@ That is it. Your real number stays where it belongs: with people you already tru
 
 A [second number](https://snipstack.io/second-number-for-wedding-photographer-client-intake-2026/) is the most important single step, but a few additional habits make the setup more effective:
 
-- **Use a separate email address for dating apps.** Most apps tie your real identity to your email. A Surfshark Alt-ID masked email keeps that layer separate too.
+- **Use a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) address for dating apps.** Most apps tie your real identity to your email. A Surfshark Alt-ID masked email keeps that layer separate too.
 - **Turn off location sharing on dating apps when not actively swiping.** Background location access gives apps — and data brokers who buy that data — a running log of your movements.
 - **Avoid using your full real name on dating profiles** until you are comfortable with someone. First name only is standard and expected.
 - **Do not post photos that show your hospital, badge, or workplace** in your dating profile images. Healthcare workers are particularly identifiable through uniform and facility details.

@@ -69,7 +69,7 @@ For online banking, the recommended workflow is straightforward: create one alia
 
 The dashboard is the part that makes this genuinely senior-friendly. All your active aliases appear in a single clean list. Disabling any alias is one click. There is no hunting through account settings, no phone call to customer service.
 
-Beyond aliases, [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) also includes a VPN, antivirus protection, and data breach alerts — so you are getting a complete privacy package, not just an alias tool.
+Beyond aliases, [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) also includes a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/) protection, and data breach alerts — so you are getting a complete privacy package, not just an alias tool.
 
 **Verdict:** Easiest setup, most complete package, best fit for seniors with no technical background.
 

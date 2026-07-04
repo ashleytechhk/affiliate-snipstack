@@ -161,7 +161,7 @@ They share the alias address, not your real one. If that alias ends up in a data
 
 **Is it deceptive to use an alias on a survey site?**
 
-No. An alias is a real, functional email address that receives and forwards messages. Survey emails reach you; replies work. You're making a privacy choice about which address to expose — the same way you might use a separate email account for marketing signups. The alias is not a fake address; it's a privacy layer over your real one.
+No. An alias is a real, functional email address that receives and forwards messages. Survey emails reach you; replies work. You're making a privacy choice about which address to expose — the same way you might use a [separate email](https://snipstack.io/separate-email-alias-for-every-app-subscription-2026/) account for marketing signups. The alias is not a fake address; it's a privacy layer over your real one.
 
 **Can I reply to survey emails from my alias address?**
 
