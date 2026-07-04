@@ -115,7 +115,7 @@ It's a [single subscription](https://snipstack.io/single-subscription-for-full-o
 
 ### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s antivirus as good as Norton's?
 
-For everyday threats — malware, ransomware, phishing links, malicious downloads — yes, it covers the ground that matters and runs lighter on system resources. Norton has a longer track record and a deeper feature set for power users who want granular controls, but for most people the day-to-day protection is comparably solid.
+For everyday threats — malware, ransomware, [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, malicious downloads — yes, it covers the ground that matters and runs lighter on system resources. Norton has a longer track record and a deeper feature set for power users who want granular controls, but for most people the day-to-day protection is comparably solid.
 
 ### Does "unlimited devices" really mean unlimited, or is there a catch?
 

@@ -117,7 +117,7 @@ For veterans who primarily use Firefox as their browser, Relay integrates smooth
 
 Blur has been in the [email masking](https://snipstack.io/email-masking-service-review-2026/) space for longer than most competitors. It offers unlimited masked email addresses, masked card numbers (for US users), and masked [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s — making it a broader privacy toolkit rather than an alias-specific tool.
 
-**What works well:** If you want a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) that covers email masking, payment masking, and password management, Blur offers real value in that bundled form.
+**What works well:** If you want a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) that covers [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)ing, payment masking, and password management, Blur offers real value in that bundled form.
 
 **What to know:** The interface feels dated compared to newer tools. Pricing starts around $39/year, which is competitive but not as bundled as Alt-ID for users who also need VPN coverage.
 

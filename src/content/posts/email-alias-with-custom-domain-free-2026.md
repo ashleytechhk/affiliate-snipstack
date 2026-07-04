@@ -114,7 +114,7 @@ addy.io offers unlimited standard aliases on its free tier — the most generous
 
 **Best for:** Firefox users who want a lightweight, browser-native solution.
 
-Firefox Relay caps the free tier at 5 email masks — enough to test the concept, too few for a real category-alias system. Custom domain (one domain) unlocks on the paid plan alongside unlimited masks. It's deeply integrated into Firefox's autofill, which is convenient, but it lacks the alias management depth of dedicated tools.
+Firefox Relay caps the free tier at 5 [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)s — enough to test the concept, too few for a real category-alias system. Custom domain (one domain) unlocks on the paid plan alongside unlimited masks. It's deeply integrated into Firefox's autofill, which is convenient, but it lacks the alias management depth of dedicated tools.
 
 **Free-tier reality:** 5 masks is a hard ceiling. If you're generating spam from 10+ services, you'll exhaust the free tier fast. The browser integration is the main differentiator.
 

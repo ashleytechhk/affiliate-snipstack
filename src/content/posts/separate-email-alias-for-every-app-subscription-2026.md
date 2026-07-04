@@ -48,7 +48,7 @@ Built into iCloud+, Hide My Email generates a random forwarding address per app 
 
 ### DuckDuckGo Email Protection
 
-DuckDuckGo's service strips trackers from forwarded mail and generates a random `@duck.com` alias per site. It's a genuinely privacy-forward option, but the alias-per-subscription workflow is tied to their browser extension, and organizing large numbers of aliases by category or subscription name isn't really the product's focus.
+DuckDuckGo's service strips trackers from forwarded mail and generates a random `@duck.com` alias per site. It's a genuinely privacy-forward option, but the alias-per-subscription workflow is tied to their [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), and organizing large numbers of aliases by category or subscription name isn't really the product's focus.
 
 ### Alt ID
 

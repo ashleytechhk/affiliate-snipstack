@@ -53,7 +53,7 @@ Custom domain support narrows the field quickly. Apple Hide My Email and Fastmai
 
 ## Surfshark Alt-ID: The Full Picture
 
-Surfshark Alt-ID is the email masking component of the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) privacy bundle. It generates aliases on demand, supports custom domains, and routes mail through Surfshark's privacy infrastructure rather than advertising-supported servers.
+Surfshark Alt-ID is the [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)ing component of the [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) privacy bundle. It generates aliases on demand, supports custom domains, and routes mail through Surfshark's privacy infrastructure rather than advertising-supported servers.
 
 ![Alt-ID setup and dashboard overview](/og/best-email-alias-service-with-custom-domain-2026-inline-1.png)
 

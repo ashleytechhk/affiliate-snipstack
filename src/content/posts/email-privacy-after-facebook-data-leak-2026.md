@@ -122,7 +122,7 @@ The right fix is upstream: stop your real address from being useful to the next 
 
 **Where it has limits:** Requires a Surfshark subscription. Not suitable for accounts requiring verified legal identity (banking, government services).
 
-**Verdict:** The strongest option for spam-exhausted inbox owners dealing with the aftermath of a data breach. The combination of email masking plus identity masking is a meaningful step beyond plain alias tools.
+**Verdict:** The strongest option for spam-exhausted inbox owners dealing with the aftermath of a data breach. The combination of [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)ing plus identity masking is a meaningful step beyond plain alias tools.
 
 **[Try Surfshark Alt ID and protect your inbox going forward](/blog/altid?sub=email-privacy-after-facebook-data-leak-2026__mid)**
 

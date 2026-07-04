@@ -84,7 +84,7 @@ Being able to name an alias — for example, `ticketmaster-june@youralias.altid.
 
 ### Reply Capability
 
-Some venues send follow-up emails requiring a response: seat upgrade requests, accessibility arrangements, or order corrections. Alt-ID and Apple Hide My Email allow replies that appear to come from the alias address, keeping your real email masked throughout the exchange. Firefox Relay's free tier does not support outbound replies, which creates a gap in this specific use case.
+Some venues send follow-up emails requiring a response: seat upgrade requests, accessibility arrangements, or order corrections. Alt-ID and Apple Hide My Email allow replies that appear to come from the alias address, keeping your real [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)ed throughout the exchange. Firefox Relay's free tier does not support outbound replies, which creates a gap in this specific use case.
 
 ---
 

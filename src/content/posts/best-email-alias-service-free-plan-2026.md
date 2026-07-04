@@ -29,7 +29,7 @@ If you're drowning in spam and want a free plan with no-nonsense setup, **Surfsh
 | **Surfshark Alt-ID** | Included with subscription | Yes | Yes | No | Yes |
 | **SimpleLogin** | 10 aliases | Yes | Yes | Yes | Yes |
 | **Apple Hide My Email** | Unlimited | Yes | Yes (iCloud+) | No | Apple devices only |
-| **Firefox Relay** | 5 email masks | No (free) | Yes (Premium) | No | Yes |
+| **Firefox Relay** | 5 [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)s | No (free) | Yes (Premium) | No | Yes |
 | **DuckDuckGo Email** | Unlimited | No | Unlimited | No | Yes (browser-based) |
 | **Addy.io (AnonAddy)** | 10 shared subdomains | Yes | Yes | Yes | Yes |
 

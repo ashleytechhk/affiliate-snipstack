@@ -35,7 +35,7 @@ Before you start, have the following ready:
 
 ---
 
-## How Email Masking Works
+## How [Email Mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)ing Works
 
 Every tool in this guide does the same thing at a mechanical level: it creates a forwarding address that sits between you and the website. When a site sends email to your masked address, the service forwards it to your real inbox. The site never learns your actual address.
 

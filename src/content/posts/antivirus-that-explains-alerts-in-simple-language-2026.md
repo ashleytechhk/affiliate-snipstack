@@ -52,7 +52,7 @@ Sometimes [antivirus software](https://snipstack.io/antivirus-software-for-iphon
 
 ### "Phishing Attempt Blocked"
 
-This means the software stopped you from visiting a fake website designed to steal your login details or personal information — often one disguised to look like your bank or another company you trust.
+This means the software stopped you from visiting a [fake website](https://snipstack.io/fake-website-detector-tool-2026/) designed to steal your login details or personal information — often one disguised to look like your bank or another company you trust.
 
 ![Plain-language antivirus alert explained step by step](/og/antivirus-that-explains-alerts-in-simple-language-2026-inline-1.png)
 

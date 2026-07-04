@@ -108,7 +108,7 @@ SimpleLogin is an open-source alias service that Mozilla (Firefox) acquired in 2
 
 **Limitations:**
 
-- No identity layer — just email masking
+- No identity layer — just [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)ing
 - Free tier has some bandwidth and sending limits
 - Interface is more technical than Surfshark's consumer-friendly approach
 - No bundled VPN or other privacy tools

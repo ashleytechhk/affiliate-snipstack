@@ -22,7 +22,7 @@ Split tunneling is worth setting up if you freelance and use more than one clien
 
 ---
 
-## What Is Split Tunneling, and Why Does It Matter for Freelancers?
+## [What Is Split](https://snipstack.io/what-is-split-tunneling-vpn-2026/) Tunneling, and Why Does It Matter for Freelancers?
 
 A standard VPN connection routes 100% of your device's internet traffic through an encrypted server. That's fine for a single-purpose laptop, but freelancers rarely have that luxury. You might need:
 
@@ -90,11 +90,11 @@ Surfshark places no limit on simultaneous connections, so split tunneling rules 
 
 ### Reliability and a Kill Switch
 
-A VPN kill switch cuts your internet if the tunnel drops unexpectedly, so a client portal session never falls back to an unencrypted connection without you noticing. For freelancers handling sensitive client data, this is a non-negotiable safety net alongside split tunneling.
+A [VPN kill switch](https://snipstack.io/vpn-kill-switch-feature-explained-2026/) cuts your internet if the tunnel drops unexpectedly, so a client portal session never falls back to an unencrypted connection without you noticing. For freelancers handling sensitive client data, this is a non-negotiable safety net alongside split tunneling.
 
 ---
 
-## How to Set Up Split Tunneling for Your Freelance Workflow
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Split Tunneling for Your Freelance Workflow
 
 ![Surfshark split tunneling setup on laptop for freelancers](/og/vpn-with-split-tunneling-for-freelancer-workflow-2026-inline-2.png)
 

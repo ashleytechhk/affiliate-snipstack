@@ -98,7 +98,7 @@ Alt-ID doesn't interfere with Google Workspace's routing, MX records, or admin s
 
 ## [SimpleLogin vs](https://snipstack.io/simplelogin-vs-altid-comparison-2026/). Alt-ID for Workspace Users
 
-SimpleLogin is the other serious contender. It is open-source, has a free tier, and provides genuine email masking. If you need the base functionality at no cost, SimpleLogin's free plan works.
+SimpleLogin is the other serious contender. It is open-source, has a free tier, and provides genuine [email mask](https://snipstack.io/email-mask-for-promo-codes-without-being-tracked-2026/)ing. If you need the base functionality at no cost, SimpleLogin's free plan works.
 
 Where Alt-ID pulls ahead:
 
