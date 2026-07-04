@@ -90,7 +90,7 @@ Waiting until something goes wrong means waiting until the money is already gone
 
 ### Can one antivirus plan really cover my phone, my computer, and my grandchild's tablet at the same time?
 
-Yes. Modern security plans are built for multi-device households. You install the same subscription on your phone, tablet, and computer, and you can add your grandchild's phone and tablet under the same account. Everything is protected under one login instead of separate purchases for each device.
+Yes. Modern [security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/)s are built for multi-device households. You install the same subscription on your phone, tablet, and computer, and you can add your grandchild's phone and tablet under the same account. Everything is protected under one login instead of separate purchases for each device.
 
 ### Is it hard to set up if I am not good with technology?
 

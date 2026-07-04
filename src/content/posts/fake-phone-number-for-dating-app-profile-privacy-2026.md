@@ -66,11 +66,11 @@ This matters specifically for dating because the exposure window is unusually lo
 
 ---
 
-## How to Set Up Alt-Number for a Dating Profile
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up Alt-Number for a Dating Profile
 
 Setup takes a few minutes and does not require explaining yourself to anyone:
 
-1. **Subscribe to Surfshark One** (or check if you already have it — Alt-Number is bundled, not a separate purchase).
+1. **Subscribe to [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/)** (or check if you already have it — Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/), not a separate purchase).
 2. **Open the Alt-Number section** inside the Surfshark app and choose a number.
 3. **Use that number for dating app verification** and for any match who asks to "just text me" before you have met in person.
 4. **Keep messaging inside the dating app itself** as long as possible — moving too fast off-platform is one of the [warning signs of a scam](https://snipstack.io/how-to-spot-romance-scam-online-2026/) worth watching for regardless of which number you use.

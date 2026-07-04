@@ -146,7 +146,7 @@ Bitdefender's antivirus engine has a longer track record in independent lab test
 
 ### Does Bitdefender Total Security include a VPN?
 
-Not in any practical sense. The included Bitdefender VPN is capped at 200MB per day on the Total Security plan — enough to verify a public WiFi connection once, not enough for ongoing browsing or streaming privacy. Unlimited Bitdefender VPN requires a separate paid subscription on top of Total Security, which changes the cost comparison significantly.
+Not in any practical sense. The included Bitdefender VPN is capped at 200MB per day on the Total [Security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/) — enough to verify a public WiFi connection once, not enough for ongoing browsing or streaming privacy. Unlimited Bitdefender VPN requires a separate paid subscription on top of Total Security, which changes the cost comparison significantly.
 
 ### Can [Surfshark One](https://snipstack.io/surfshark-one-vs-f-secure-total-security-2026/) fully replace my Norton or McAfee subscription?
 

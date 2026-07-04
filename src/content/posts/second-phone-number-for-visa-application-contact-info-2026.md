@@ -41,7 +41,7 @@ The fallout isn't hypothetical, and it isn't limited to one bad phone call. Once
 - **Impersonation calls.** Someone claiming to represent an immigration office or a "visa fee" department calls or texts, using just enough real detail — your name, your application timing — to sound credible.
 - **Smishing links.** A text arrives with a link to "check your visa status," designed to harvest login credentials or card details on a fake but convincing page.
 - **Permanent spam enrollment.** Your number gets folded into telemarketing and robocall lists that have nothing to do with immigration — a side effect of simply existing in a leaked or sold dataset.
-- **Cross-referencing.** Combined with your name and date of birth, both on the same visa form, your number becomes one more data point that makes identity theft easier to pull off.
+- **Cross-referencing.** Combined with your name and date of birth, both on the same visa form, your number becomes one more data point that makes [identity theft](https://snipstack.io/identity-theft-protection-software-2026/) easier to pull off.
 
 None of this requires a dramatic hack. It just requires your number sitting in one database that eventually gets mishandled — and with enough forms asking for it, the odds compound.
 
@@ -69,11 +69,11 @@ The realistic fix isn't avoiding forms or dating apps — both are unavoidable. 
 
 Because it's a [separate number](https://snipstack.io/separate-number-for-dating-apps-2026/), you decide how exposed it gets. Give it to a visa processing center, a dating match, or a marketplace buyer — if it ends up in a spam list or a scam script, your actual phone keeps working as usual. Retire it and start fresh without touching your SIM or any account tied to your real line.
 
-Alt-Number is bundled inside [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) alongside a VPN and data breach monitoring — a genuinely useful pairing here, since breach monitoring is what tells you if a number or account has surfaced in a leak, rather than finding out from a scam call six months later.
+Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) inside [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) alongside a VPN and data breach monitoring — a genuinely useful pairing here, since breach monitoring is what tells you if a number or account has surfaced in a leak, rather than finding out from a scam call six months later.
 
 ![Surfshark Alt-Number second phone number setup for visa forms and dating apps](/og/second-phone-number-for-visa-application-contact-info-2026-inline-2.png)
 
-### How to Set It Up in a Few Minutes
+### [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) It Up in a Few Minutes
 
 1. Subscribe to [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) — Alt-Number is included, not a separate purchase.
 2. Open the app and select Alt-Number.

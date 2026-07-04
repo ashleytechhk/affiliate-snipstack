@@ -37,14 +37,14 @@ Here's how the main options stack up against each other for this exact use case.
 | Surfshark Alternative ID | Included in Alternative ID / [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) plans | Under 2 minutes | Yes, instantly | Yes, any signup form |
 | Gmail plus-addressing | Free | Instant | No (same inbox, just a filter) | Yes, but easy to detect |
 | Apple Hide My Email | Included with iCloud+ | A few taps | Yes | Mostly Apple devices / Safari |
-| SimpleLogin / addy.io | Free tier + paid tiers | 5-10 minutes | Yes | Yes, browser extension helps |
+| SimpleLogin / addy.io | Free tier + paid tiers | 5-10 minutes | Yes | Yes, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) helps |
 | Disposable temp-mail sites | Free | Instant | Address expires on its own | Yes, but no reply capability |
 
 ![Comparison of email alias tools and their features](/og/email-alias-for-free-trial-signups-without-spam-2026-inline-3.png)
 
 ### Surfshark Alternative ID
 
-Alternative ID generates a masked email (and, if you want, a masked name and phone-style identity) that you use specifically for signups you don't fully trust yet -- free trials being the obvious case. Mail sent to the alias forwards straight to your normal inbox, so you never have to check a separate account. If a free trial starts selling your alias to spam lists, you turn that one alias off and the rest of your identity stays untouched. It's bundled with the broader Surfshark One privacy suite, so if you already use Surfshark for a VPN or antivirus, this slots in without a new account to manage.
+Alternative ID generates a masked email (and, if you want, a masked name and phone-style identity) that you use specifically for signups you don't fully trust yet -- free trials being the obvious case. Mail sent to the alias forwards straight to your normal inbox, so you never have to check a separate account. If a free trial starts selling your alias to spam lists, you turn that one alias off and the rest of your identity stays untouched. It's bundled with the broader [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/), so if you already use Surfshark for a VPN or [antivirus](https://snipstack.io/vs-antivirus-2026/), this slots in without a new account to manage.
 
 ### Gmail Plus-Addressing / Dot Trick
 
@@ -70,7 +70,7 @@ For the specific job of surviving free trial signups without wrecking your inbox
 
 ![Step-by-step guide to setting up an email alias](/og/email-alias-for-free-trial-signups-without-spam-2026-inline-1.png)
 
-## How to Set Up an Alias for Your Next Free Trial
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up an Alias for Your Next Free Trial
 
 1. Open Alternative ID and generate a new masked email address.
 2. Copy that address into the signup form for the free trial instead of your real one.

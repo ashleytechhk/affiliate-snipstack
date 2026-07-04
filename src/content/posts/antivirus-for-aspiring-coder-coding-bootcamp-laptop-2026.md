@@ -30,9 +30,9 @@ A coding bootcamp laptop downloads software, runs scripts, and connects to share
 
 When most people think about getting a virus, they picture clicking a suspicious link in an email. That is a real risk. But a coding laptop faces threats from an entirely different angle.
 
-Here is what happens at a typical coding bootcamp:
+Here is [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) at a typical coding bootcamp:
 
-- **You install tools constantly.** Node.js, Python, Git, code editors, browser extensions — the list of software you download in week one alone is longer than most people install in a year. Any of these downloads, from a slightly wrong source, can carry hidden malware.
+- **You install tools constantly.** Node.js, Python, Git, code editors, [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s — the list of software you download in week one alone is longer than most people install in a year. Any of these downloads, from a slightly wrong source, can carry hidden malware.
 - **You use public or shared Wi-Fi.** Bootcamp classrooms, libraries, and co-working spaces have networks that could be monitored by anyone else connected to them. Attackers use this access to intercept data traveling over the connection.
 - **You follow tutorials from strangers online.** A video tutorial or blog post might instruct you to paste a command into your computer's terminal. That command, if it comes from a compromised or malicious source, could install software you never agreed to.
 - **You work on projects that have real value.** Your portfolio code, your login credentials for learning platforms, your saved payment information — all of it sits on that laptop.

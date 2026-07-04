@@ -50,7 +50,7 @@ This is precisely the coordination problem a dedicated [second phone number](htt
 
 ## The Risk Explained: When a Date Gets the Same Number as Your Child's School
 
-Most dating safety advice covers physical precautions — meet in public, tell a friend where you are going. Far fewer people talk about what happens after the date when someone you barely know has the same number saved in their phone as your child's school has on file.
+Most dating safety advice covers physical precautions — meet in public, tell a friend where you are going. Far fewer people talk about [what happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) after the date when someone you barely know has the same number saved in their phone as your child's school has on file.
 
 Consider how easily these scenarios unfold:
 

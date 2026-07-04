@@ -94,7 +94,7 @@ Here is a straightforward side-by-side on the things that matter most if you are
 
 **Surfshark:** Included in the standard plan. Before you can land on a phishing page — a fake bank login, a fake Medicare site, a fake delivery notification — Surfshark blocks it and shows you a warning.
 
-**AVG:** Phishing and scam website protection is locked behind the paid AVG Internet Security plan. The free version does not warn you about dangerous websites.
+**AVG:** Phishing and scam website protection is locked behind the paid AVG Internet [Security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/). The free version does not warn you about dangerous websites.
 
 **Winner: Surfshark**
 

@@ -36,7 +36,7 @@ The result is that most people end up with:
 
 Three separate bills. Three separate apps. Three separate renewal dates to remember.
 
-The bundled security plan approach solves this structurally. One provider, one price, one renewal, one app ecosystem.
+The bundled [security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/) approach solves this structurally. One provider, one price, one renewal, one app ecosystem.
 
 ---
 

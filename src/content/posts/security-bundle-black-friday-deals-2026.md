@@ -73,7 +73,7 @@ Black Friday multi-yr deals  | Yes — deep discount    | Promotional pricing   
 
 ### The renewal pricing difference
 
-This is where [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)'s Black Friday case is strongest. Norton 360 Deluxe promotional pricing often doubles or triples at year-two renewal. McAfee follows a similar pattern. Surfshark's renewal pricing does not carry the same dramatic jump. For a household committing to a two- or three-year security plan, the total cost of ownership on [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) is typically lower even if the November headline prices look comparable.
+This is where [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/)'s Black Friday case is strongest. Norton 360 Deluxe promotional pricing often doubles or triples at year-two renewal. McAfee follows a similar pattern. Surfshark's renewal pricing does not carry the same dramatic jump. For a household committing to a two- or three-year [security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/), the total cost of ownership on [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) is typically lower even if the November headline prices look comparable.
 
 Multi-year Black Friday plans lock in the promotional rate for the full term. That is the deal worth targeting.
 

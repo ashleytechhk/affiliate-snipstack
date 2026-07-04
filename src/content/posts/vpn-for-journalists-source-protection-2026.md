@@ -184,7 +184,7 @@ Three things matter most for this use case: an audited no-logs policy (Deloitte-
 
 ### Is it legal to use a VPN for journalism work?
 
-Using a VPN is legal in most countries and is standard practice for journalists, security professionals, and businesses worldwide. Press freedom organizations including Reporters Without Borders and the Committee to Protect Journalists routinely recommend VPNs as part of digital safety guidance. In a small number of jurisdictions, VPN use itself is restricted — if you are reporting from or traveling to such an environment, the legal landscape is part of your operational security planning.
+Using a VPN is legal in most countries and is standard practice for journalists, security professionals, and businesses worldwide. Press freedom organizations including Reporters Without Borders and the Committee to Protect Journalists routinely recommend VPNs as part of digital safety guidance. In a small number of jurisdictions, VPN use itself is restricted — if you are reporting from or traveling to such an environment, the legal landscape is part of your operational [security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/)ning.
 
 ---
 

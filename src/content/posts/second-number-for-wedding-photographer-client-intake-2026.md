@@ -52,7 +52,7 @@ None of this requires the other person to be a criminal mastermind. Most stalkin
 
 Go back to the wedding photographer for a second, because the parallel is worth sitting with.
 
-A photographer's intake form exists to convert a stranger into a paying client. The photographer has zero relationship history with that person — just an inquiry, maybe a few Instagram DMs. Handing out a personal cell number at that stage means every future client, including the ones who ghost after the deposit or dispute the invoice, has permanent access to the photographer's actual life.
+A photographer's intake form exists to convert a stranger into a paying client. The photographer has zero relationship history with that person — just an inquiry, maybe a few [Instagram DM](https://snipstack.io/instagram-dm-link-scam-checker-2026/)s. Handing out a personal cell number at that stage means every future client, including the ones who ghost after the deposit or dispute the invoice, has permanent access to the photographer's actual life.
 
 The fix professionals use: a dedicated business number, kept completely separate from the personal line. Clients get a number that works exactly like a real phone number — it rings, it texts, it takes voicemail — but it isn't wired into anything personal. If a client relationship turns sour, the business number gets managed (blocked, filtered, eventually retired) without touching the number every friend and family member already has.
 

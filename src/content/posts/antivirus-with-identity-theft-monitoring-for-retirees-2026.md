@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Retiree checking phone for identity theft monitoring alert](/og/antivirus-with-identity-theft-monitoring-for-retirees-2026.png)
 
-**A retiree in Ohio picked up the phone last year, believing it was Medicare calling about her benefits.** Twenty minutes later, she had read her Social Security number, her date of birth, and her bank account details out loud to a stranger. By the time her son found out, the damage was already spreading — new credit lines, a drained checking account, months of cleanup ahead.
+**A retiree in Ohio picked up the phone last year, believing it was Medicare calling about her benefits.** Twenty minutes later, she had read her [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number, her date of birth, and her bank account details out loud to a stranger. By the time her son found out, the damage was already spreading — new credit lines, a drained checking account, months of cleanup ahead.
 
 Stories like this are not rare. The FTC's Consumer Sentinel Network consistently shows that people over 60 report the highest median dollar losses of any age group when fraud happens to them. Younger victims lose money too, but retirees tend to lose more per incident — often because scammers specifically target pensions, retirement accounts, and home equity built over a lifetime.
 
@@ -99,7 +99,7 @@ Most of this takes under fifteen minutes once you know the steps.
 No single product — from Surfshark or anyone else — fully replaces good habits. A realistic, retiree-friendly plan looks like this:
 
 - **Breach alert monitoring** (Surfshark Alert) to catch leaked credentials early
-- **Real-time antivirus** to block malicious downloads and phishing links before they run
+- **Real-time antivirus** to [block malicious](https://snipstack.io/block-malicious-ads-before-they-load-2026/) downloads and [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s before they run
 - **A free credit freeze** with Equifax, Experian, and TransUnion, which blocks new accounts from being opened in your name
 - **Unique passwords** for financial accounts, ideally stored in a password manager instead of a notebook by the phone
 - **A standing rule to hang up and call back** any organization that contacts you asking to "verify" personal information

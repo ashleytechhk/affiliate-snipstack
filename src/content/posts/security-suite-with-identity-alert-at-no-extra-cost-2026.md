@@ -113,7 +113,7 @@ Norton and McAfee both offer some breach or dark web scanning in their base plan
 
 ### What exactly does Identity Alert monitor?
 
-It checks your email addresses, phone numbers, credit card numbers, and ID document numbers against known data breach records, then notifies you if your information appears in a new breach.
+It checks your email addresses, [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s, credit card numbers, and ID document numbers against known data breach records, then notifies you if your information appears in a new breach.
 
 ### Will switching slow down my devices?
 

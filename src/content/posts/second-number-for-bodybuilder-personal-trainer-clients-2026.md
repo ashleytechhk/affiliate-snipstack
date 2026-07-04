@@ -71,7 +71,7 @@ Surfshark Alt-Number works on both iOS and Android through the main Surfshark ap
 - **Real US number.** Not a VOIP shortcode that recipients recognize as suspicious — a proper [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) that passes as normal to anyone calling or texting it.
 - **No secondary SIM required.** Everything runs through the app. No hardware changes, no visiting a carrier store.
 - **Instant deactivation.** If a client or match becomes a problem, you cut the number off in seconds from the app interface.
-- **Integrates with existing Surfshark plans.** If you already use Surfshark VPN or the Surfshark One bundle, Alt-Number fits into the same ecosystem.
+- **Integrates with existing Surfshark plans.** If you already use Surfshark VPN or the [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) bundle, Alt-Number fits into the same ecosystem.
 
 ![Surfshark Alt-Number app interface showing second number management for personal trainers and dating app users](/og/second-number-for-bodybuilder-personal-trainer-clients-2026-inline-2.png)
 

@@ -26,7 +26,7 @@ Handing your real [phone number](https://snipstack.io/phone-number-for-tinder-pr
 
 ## Why Your Number Is More Exposed on a Trip Than at Home
 
-At home, your phone number circulates through a fairly predictable set of contacts. On a trip, it goes to people and systems you will likely never interact with again — which is exactly the profile of exposure that is hardest to walk back.
+At home, your [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) circulates through a fairly predictable set of contacts. On a trip, it goes to people and systems you will likely never interact with again — which is exactly the profile of exposure that is hardest to walk back.
 
 ### Hotel Text Concierge Platforms Hold More Than You Think
 
@@ -38,7 +38,7 @@ Dating apps are built around in-app messaging at first, but nearly every match c
 
 ---
 
-## The Risk Explained: What Happens When Your Real Number Leaks
+## The Risk Explained: [What Happens When](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) Your Real Number Leaks
 
 ### Reverse Lookup Turns a Digit String Into a Person
 

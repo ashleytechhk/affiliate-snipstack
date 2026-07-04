@@ -121,7 +121,7 @@ A VPN keeps your internet connection private — especially important on public 
 - **Bitdefender's base plan:** 200 MB per day. That's roughly a few minutes of browsing — not enough for real daily use.
 - **Surfshark's plan:** Unlimited VPN data, servers in 100+ countries, with one-tap connection.
 
-To get unlimited VPN from Bitdefender, you need to upgrade to their Premium Security plan, which costs significantly more.
+To get unlimited VPN from Bitdefender, you need to upgrade to their Premium [Security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/), which costs significantly more.
 
 ### Data Breach Alerts
 

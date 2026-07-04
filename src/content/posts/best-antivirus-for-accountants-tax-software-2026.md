@@ -50,7 +50,7 @@ If you are an accountant or tax preparer, your risk is multiplied. You are not j
 
 ![How tax software threats reach accountants' computers](/og/best-antivirus-for-accountants-tax-software-2026-inline-1.png)
 
-Regulators are paying attention. The IRS requires tax preparers to have a written data security plan under the Gramm-Leach-Bliley Act. Part of fulfilling that requirement means having active, up-to-date security software on every device that touches client data. Using antivirus is not just smart — for professional tax preparers, it may be legally required.
+Regulators are paying attention. The IRS requires tax preparers to have a written data [security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/) under the Gramm-Leach-Bliley Act. Part of fulfilling that requirement means having active, up-to-date security software on every device that touches client data. Using antivirus is not just smart — for professional tax preparers, it may be legally required.
 
 ### Common Threats Targeting Tax Professionals
 

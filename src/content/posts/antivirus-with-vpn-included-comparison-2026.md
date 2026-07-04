@@ -97,7 +97,7 @@ Norton has been a trusted name in security for decades. Norton 360 includes anti
 
 ### Bitdefender Total Security (with VPN)
 
-Bitdefender consistently scores at the top of independent antivirus testing. The Total Security plan includes a VPN, though with a daily data cap unless you pay for the full VPN add-on.
+Bitdefender consistently scores at the top of independent antivirus testing. The Total [Security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/) includes a VPN, though with a daily data cap unless you pay for the full VPN add-on.
 
 **What it includes:** Excellent antivirus detection, parental controls, [ransomware protection](https://snipstack.io/ransomware-protection-for-small-business-2026/), and a limited VPN (200MB per day free, more requires additional cost).
 

@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Best antivirus student discount guide for seniors 2026](/og/best-antivirus-student-discount-2026.png)
 
-There is a quiet secret about [antivirus](https://snipstack.io/vs-antivirus-2026/) student discounts that most people over 60 never hear: **you do not have to be a student to use them.** The same discounted security plans that universities recommend to their students are available to everyone — including you. And right now, seniors are at far greater risk online than most students ever will be.
+There is a quiet secret about [antivirus](https://snipstack.io/vs-antivirus-2026/) student discounts that most people over 60 never hear: **you do not have to be a student to use them.** The same discounted [security plan](https://snipstack.io/security-plan-covering-iphone-android-mac-windows-2026/)s that universities recommend to their students are available to everyone — including you. And right now, seniors are at far greater risk online than most students ever will be.
 
 This guide explains the danger in plain language, shows you how to claim the [best antivirus](https://snipstack.io/best-antivirus-for-windows-11-home-users-2026/) deal available in 2026, and walks you through setup step by step — no technical knowledge required.
 

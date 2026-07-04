@@ -147,7 +147,7 @@ Muting your phone stops the sound but does not stop the video from loading, cons
 
 **Does Chrome for Android support ad-blocking extensions to stop these ads?**
 
-No — Chrome for Android does not support third-party browser extensions the way desktop Chrome or Firefox for Android do, which means there is no native way to install a content blocker inside Chrome on Android. This is one of the strongest arguments for a network-level solution like CleanWeb, which does not depend on browser extension support at all.
+No — Chrome for Android does not support third-party [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s the way desktop Chrome or Firefox for Android do, which means there is no native way to install a content blocker inside Chrome on Android. This is one of the strongest arguments for a network-level solution like CleanWeb, which does not depend on browser extension support at all.
 
 **Is CleanWeb only useful for autoplay video ads?**
 
