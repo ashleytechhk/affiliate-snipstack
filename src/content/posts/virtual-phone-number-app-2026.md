@@ -76,7 +76,7 @@ Call quality is solid, and Hushed uses end-to-end encryption for in-app messagin
 
 The catch is that Hushed numbers can occasionally hit VoIP filters on Tinder. Not always, not even usually — but it happens. The company has improved this over the past year, so your mileage may vary depending on your region and which dating app you're using.
 
-**Best for:** Daters who want a disposable number with flexible pricing and do not mind occasional verification hiccups.
+**Best for:** Daters who want a [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/) with flexible pricing and do not mind occasional verification hiccups.
 
 ---
 

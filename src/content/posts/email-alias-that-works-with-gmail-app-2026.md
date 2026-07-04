@@ -131,7 +131,7 @@ That is the full setup. One alias per website or service category, managed from 
 
 It works with both. Forwarding is not specific to the Gmail interface — emails arrive at your Gmail account and the app displays them like any other incoming message. The setup steps are the same whether you primarily use Gmail on a browser or the mobile app.
 
-**Will forwarded alias emails end up in my Gmail Spam folder?**
+**Will forwarded [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/)s end up in my Gmail Spam folder?**
 
 They can, initially, depending on the alias service's domain reputation. The fix is simple: find the forwarded email in Spam, mark it "Not spam," and optionally add the alias domain to Gmail's safe-senders list. After one or two of these corrections, Gmail adjusts and forwards from that domain land in Primary reliably. Alt-ID's domain reputation tends to skip this issue compared to newer or less-established services.
 

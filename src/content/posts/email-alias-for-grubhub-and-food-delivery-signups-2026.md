@@ -164,7 +164,7 @@ Yes. Alt-ID is accessible through the Surfshark app on both Android and iOS, as 
 
 An [email alias](https://snipstack.io/email-alias-for-crypto-exchange-registration-2026/) protects only your email address. Food delivery apps also collect your [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/), delivery address, and payment details. For broader privacy coverage, consider pairing an alias with a virtual card service for payments. Alt-ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), which bundles additional privacy tools alongside the alias feature.
 
-**Q: Will Grubhub ban accounts using alias email addresses?**
+**Q: Will Grubhub ban accounts using [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 Grubhub's terms of service do not prohibit alias addresses, and aliases from reputable services (Alt-ID, SimpleLogin, Apple Hide My Email) are not distinguishable from regular email addresses at the platform level. There is no widespread report of accounts being banned for using an alias.
 

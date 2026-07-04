@@ -86,7 +86,7 @@ Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-review-
 
 After subscribing, log in to the Surfshark app or go to the Alt-ID section on the Surfshark website. Click **Create new Alt-ID**. Surfshark generates:
 
-- A random alias email address (e.g., `greentide.maple447@surfsharkmail.net`)
+- A random [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address (e.g., `greentide.maple447@surfsharkmail.net`)
 - An optional fake name and profile details to pair with it (useful for sites that ask for a full name)
 
 ### Step 3 — Label Your Alias

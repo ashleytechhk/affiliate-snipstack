@@ -149,7 +149,7 @@ The entire process takes less than five minutes. From that point, every payslip,
 
 Yes. An [email alias](https://snipstack.io/email-alias-for-veteran-benefit-portal-registration-2026/) is a real, deliverable email address that forwards to your inbox. Your employer sends to the alias; you receive the email exactly as sent, including attachments. There is no legal or practical barrier to using one for payslips, P60s, or any other employment document.
 
-**Will HR systems accept alias email addresses?**
+**Will HR systems accept [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 In the vast majority of cases, yes. Payroll and HR platforms simply send an email to whatever address you provide. They do not verify whether it is a primary address or a forwarding alias. The only scenario where this could be an issue is if a system sends a verification link during setup — in which case, you click that link as normal when it arrives forwarded in your inbox. [Learn more about Alt ID here.](/blog/altid?sub=email-alias-for-receiving-payslips-and-hr-notices-2026__faq)
 

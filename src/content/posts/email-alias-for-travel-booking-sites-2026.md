@@ -172,7 +172,7 @@ When a platform gets noisy, open the Alt-ID dashboard and delete the alias. Ever
 
 An [email alias](https://snipstack.io/how-email-alias-2026/) is a forwarding address that routes incoming email to your real inbox without revealing your real address. You give the alias to a booking platform at sign-up. You still receive all legitimate emails — booking confirmations, check-in links, itinerary updates — but the platform and its partners only know the alias. If the alias starts generating spam, you delete it and the channel is gone. [Alt-ID handles this with one click.](/blog/altid?sub=email-alias-for-travel-booking-sites-2026__faq)
 
-**Will travel booking sites accept an alias email address?**
+**Will travel booking sites accept an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address?**
 
 Most do. Booking.com, Expedia, Airbnb, and most airline booking portals accept any standard-format email address. The only consistent exception is sites that block domains known to be associated with [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) services. Surfshark Alt-ID uses a realistic domain that is not on common blocklists, which makes it more reliable at check-in than `@duck.com` or `@mozmail.com` addresses.
 

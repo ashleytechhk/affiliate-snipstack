@@ -80,7 +80,7 @@ Quora, like many platforms, checks registered email addresses against lists of k
 
 ### Alternate Identity Bundle
 
-This is where Alt-ID differentiates from pure alias tools. When creating an alias, Alt-ID can generate a full alternate identity — a name, date of birth, and address — to pair with the alias email. For a Quora account where you want to participate without that activity being linked back to your real identity, this is a meaningful addition. SimpleLogin and AnonAddy don't offer this; they're email-forwarding tools only.
+This is where Alt-ID differentiates from pure alias tools. When creating an alias, Alt-ID can generate a full alternate identity — a name, date of birth, and address — to pair with the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/). For a Quora account where you want to participate without that activity being linked back to your real identity, this is a meaningful addition. SimpleLogin and AnonAddy don't offer this; they're email-forwarding tools only.
 
 ### Reply-From Support
 

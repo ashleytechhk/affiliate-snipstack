@@ -85,7 +85,7 @@ Free [virtual number](https://snipstack.io/virtual-number-for-doordash-driver-si
 
 **Number recycling.** You get a number someone else used before you. That number may already be associated with another Nextdoor account, flagged as suspicious, or linked to prior sign-ups that affect how platforms respond to it.
 
-**No control.** A disposable number you used to grab a verification code is already gone — it was never yours. If you later need to receive account recovery messages or prove account ownership, you have no way to do it.
+**No control.** A [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/) you used to grab a verification code is already gone — it was never yours. If you later need to receive account recovery messages or prove account ownership, you have no way to do it.
 
 **No replacement mechanic.** If things go sideways with someone and you need to cut contact, a throwaway number you do not control offers no protection going forward.
 

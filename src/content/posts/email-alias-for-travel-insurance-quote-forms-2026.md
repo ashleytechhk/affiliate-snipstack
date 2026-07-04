@@ -167,7 +167,7 @@ This process takes about 20 seconds per alias once you are set up. The payoff is
 
 ## Frequently Asked Questions
 
-### Will the insurer reject an alias email address?
+### Will the insurer reject an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address?
 
 Rarely. [Email alias](https://snipstack.io/email-alias-for-real-estate-agent-property-alerts-2026/) services use standard domain formats and the addresses pass all typical email validation checks (format, MX record lookup). Insurers validate that the address is real and reachable, not that it is a personal address. Aliases pass both tests. The only edge case is a site that explicitly blocks [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) domains — but this is uncommon with travel insurers.
 

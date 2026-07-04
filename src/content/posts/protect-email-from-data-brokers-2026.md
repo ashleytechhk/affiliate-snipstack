@@ -105,7 +105,7 @@ Data brokers acquire and sell the email address that was given to a form. If you
 
 **What Alt-ID adds beyond just a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) address:**
 
-Alt-ID also generates an alternative identity — a fake name and profile you can use alongside the alias email. This prevents data brokers from linking multiple data points into a profile that connects back to you. Using a different name with each alias breaks the identity-graph connections that make data-broker profiles valuable.
+Alt-ID also generates an alternative identity — a fake name and profile you can use alongside the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/). This prevents data brokers from linking multiple data points into a profile that connects back to you. Using a different name with each alias breaks the identity-graph connections that make data-broker profiles valuable.
 
 ---
 

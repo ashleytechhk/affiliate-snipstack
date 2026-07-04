@@ -129,7 +129,7 @@ Yes. Alias tools forward incoming emails to your real inbox, so you will receive
 
 ### [Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) [email alias for](https://snipstack.io/email-alias-for-ride-sharing-account-privacy-2026/) legal signups legal?
 
-Using an alias email address is legal and widely practiced. You are not misrepresenting your identity for the legal transaction itself — the alias is a forwarding address, not a false identity. The legal document you sign or file still carries your real legal name and credentials.
+Using an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address is legal and widely practiced. You are not misrepresenting your identity for the legal transaction itself — the alias is a forwarding address, not a false identity. The legal document you sign or file still carries your real legal name and credentials.
 
 ### Will the legal service find out I used an alias?
 

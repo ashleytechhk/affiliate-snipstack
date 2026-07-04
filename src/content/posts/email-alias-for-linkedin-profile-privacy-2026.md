@@ -125,7 +125,7 @@ If you're already dealing with spam sourced from past LinkedIn exposure (your re
 
 ## FAQ
 
-**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias email on LinkedIn violate their terms of service?**
+**[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) on LinkedIn violate their terms of service?**
 
 No. LinkedIn requires that your contact information is functional — meaning messages sent to it reach you. A forwarding alias meets that requirement. LinkedIn cannot distinguish a forwarding alias from a standard email address. The fact that your mail routes through a forwarding service is transparent to LinkedIn and to anyone who contacts you.
 

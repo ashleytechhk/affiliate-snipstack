@@ -65,7 +65,7 @@ The downsides accumulate quickly for active users. The app is ad-heavy on the fr
 
 ## 4. Hushed
 
-**Disposable numbers done right — but the free tier is stingy.**
+**[Disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/)s done right — but the free tier is stingy.**
 
 Hushed markets itself specifically as a [burner phone](https://snipstack.io/burner-phone-number-app-ios-2026/) app, which makes it a natural fit for online dating privacy. You can get a number from hundreds of area codes, set an automatic expiry date, and the app doesn't require any real identity verification to sign up. That's a stronger privacy posture than Google Voice by design.
 

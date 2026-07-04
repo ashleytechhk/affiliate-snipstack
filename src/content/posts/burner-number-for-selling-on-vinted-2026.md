@@ -151,6 +151,6 @@ No. Alt Number runs entirely through the Surfshark app on your existing phone. N
 
 Vinted is a genuinely good marketplace — but it attracts the same bad actors that any peer-to-peer platform does, and the attack surface is your [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/). Handing that out to every stranger who messages about your listings is a habit worth breaking.
 
-A [burner number for](https://snipstack.io/burner-number-for-depop-seller-account-2026/) selling on Vinted costs almost nothing if you are already on [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/), and it takes five minutes to set up. Every listing you post after that, every buyer who asks to "sort things out off-app" — they get the disposable number, not the real you.
+A [burner number for](https://snipstack.io/burner-number-for-depop-seller-account-2026/) selling on Vinted costs almost nothing if you are already on [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/), and it takes five minutes to set up. Every listing you post after that, every buyer who asks to "sort things out off-app" — they get the [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/), not the real you.
 
 **[Get Surfshark Alt Number and protect your number while selling on Vinted](https://snipstack.io/blog/altnumber?sub=burner-number-for-selling-on-vinted-2026__cta)** — your real SIM stays yours.

@@ -122,7 +122,7 @@ No. To a recruiter, an alias looks like any other email address. They have no wa
 
 You can, but it requires more manual configuration and you give up some compartmentalization benefits. Gmail's "plus addressing" (yourname+jobs@gmail.com) is easy to strip and still exposes your base email. A purpose-built alias service like **[Surfshark Alt-ID](/blog/altid?sub=email-alias-for-job-hunt-while-still-employed-2026__faq)** generates a genuinely separate address with proper forwarding and easy management from a single dashboard.
 
-### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if a recruiter tries to look up my alias email?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if a recruiter tries to look up my [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/)?
 
 A properly generated alias from a dedicated service will not surface your real identity through a reverse email lookup. The alias is not tied to your name, social profiles, or purchase history — unlike your personal Gmail, which may appear in various public and semi-public contexts.
 

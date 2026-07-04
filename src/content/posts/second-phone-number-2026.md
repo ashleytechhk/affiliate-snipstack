@@ -88,7 +88,7 @@ The downside is the same as Google Voice: the free model means your usage data h
 
 **Best for creating and destroying numbers fast.**
 
-The name says it all. Burner is built around the concept of disposable numbers — create one for a specific conversation, burn it when you're done. It's popular with people who date on multiple apps simultaneously and want to compartmentalize conversations.
+The name says it all. Burner is built around the concept of [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/)s — create one for a specific conversation, burn it when you're done. It's popular with people who date on multiple apps simultaneously and want to compartmentalize conversations.
 
 Auto-Burn is a standout feature: set a time limit or a usage threshold, and the number self-destructs automatically. No manual cleanup required. This is genuinely useful for online dating, where you might exchange numbers before you're confident about a match.
 

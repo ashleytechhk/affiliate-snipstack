@@ -120,7 +120,7 @@ SimpleLogin's free tier is a practical pick if you only need a handful of aliase
 
 Yes. Go to account.microsoft.com, sign in, navigate to "Your info," then "Manage how you sign in to Microsoft." You can change your primary sign-in address to an alias from any of the services in this comparison. Microsoft will send a verification email to the new address. [Alt-ID](/blog/altid?sub=email-alias-for-microsoft-account-setup-2026__faq) supports this — the alias receives the verification code, forwards it to your real inbox, and you confirm it normally.
 
-**Will Microsoft reject alias email addresses at signup?**
+**Will Microsoft reject [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses at signup?**
 
 Microsoft does not block established alias domains used by Alt-ID or SimpleLogin. Disposable-mail domains (Guerrilla Mail, Temp Mail) are sometimes blocked because they appear on spam detection lists. Persistent alias services use clean domains that pass Microsoft's validation without issue.
 

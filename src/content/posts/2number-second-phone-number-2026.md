@@ -171,7 +171,7 @@ There are several ways to get a [second phone number](https://snipstack.io/secon
 
 **Google Voice** is free but US-only, tied to your Google account, and increasingly rejected by dating apps for verification. Your [second number](https://snipstack.io/second-number-with-auto-reply-feature-2026/) is still linked to your real Google identity.
 
-**Burner app** is purpose-built for disposable numbers but costs around $5/month, is US and Canada only, and has variable acceptance rates on dating app SMS verification.
+**Burner app** is purpose-built for [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/)s but costs around $5/month, is US and Canada only, and has variable acceptance rates on dating app SMS verification.
 
 **Prepaid SIM** works, but requires a second device or a dual-SIM phone, upfront hardware cost, and manual cancellation. It's the old-school approach.
 

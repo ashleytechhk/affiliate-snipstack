@@ -110,7 +110,7 @@ It is not a replacement for Google's raw breadth, but for everyday research wher
 Alternative ID lets you generate a fictitious online persona to use on sites you do not fully trust.
 
 - **Fake name and profile data** — generates a complete identity: name, birth date, gender, country — all configurable
-- **Alias email address** — forwards to your real inbox so you still receive messages, but the sender never sees your actual address
+- **[Alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address** — forwards to your real inbox so you still receive messages, but the sender never sees your actual address
 - **Auto-fill support** — one-click population of sign-up forms with your alternative persona
 - **Separate add-on: Alternative Number** — a US [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) for SMS verification codes; sold separately, not included in base [Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/)
 

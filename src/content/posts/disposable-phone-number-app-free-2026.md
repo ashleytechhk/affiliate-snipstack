@@ -50,7 +50,7 @@ The worst-case scenarios get the most coverage — stalking, harassment, threats
 
 **Data broker aggregation.** Every time you give your number to a service — a dating app, a delivery platform, a restaurant loyalty program — it potentially ends up in a data broker's database. Brokers sell these records in bulk. Your number becomes part of a profile assembled from dozens of sources, increasingly detailed over time.
 
-**Carrier record persistence.** Your real phone number is tied to your carrier account, which is tied to your government ID. It does not go away. A disposable number you control can disappear whenever you want it to. Your real number cannot.
+**Carrier record persistence.** Your real phone number is tied to your carrier account, which is tied to your government ID. It does not go away. A [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/) you control can disappear whenever you want it to. Your real number cannot.
 
 ![How a real phone number exposes your identity on dating apps and people-search databases](/og/disposable-phone-number-app-free-2026-inline-1.png)
 

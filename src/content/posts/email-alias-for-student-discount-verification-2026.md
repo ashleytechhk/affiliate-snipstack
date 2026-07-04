@@ -133,7 +133,7 @@ Most student verification platforms (UNiDAYS, Student Beans, SheerID) work with 
 ## FAQ
 
 **[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an [email alias for](https://snipstack.io/email-alias-for-investment-account-notifications-2026/) student discount verification break the terms of service?**
-Using an alias email that forwards to your real address is functionally the same as using any other email address — you're still receiving emails and proving ownership of the inbox. You're not misrepresenting your enrollment status; the alias is just a privacy layer on top of your real identity. That said, review the specific platform's terms if you're unsure. Most don't prohibit alias email addresses.
+Using an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) that forwards to your real address is functionally the same as using any other email address — you're still receiving emails and proving ownership of the inbox. You're not misrepresenting your enrollment status; the alias is just a privacy layer on top of your real identity. That said, review the specific platform's terms if you're unsure. Most don't prohibit alias email addresses.
 
 **Will student discount platforms accept [email alias](https://snipstack.io/email-alias-for-product-warranty-registration-2026/)es from Alt-ID or SimpleLogin?**
 Most do. Platforms like UNiDAYS and Student Beans verify enrollment through document upload or institution login — the email address is just used to send a confirmation link. Aliases that forward reliably will pass this step. Platforms that specifically require a `.edu` domain for the email address itself are the exception.

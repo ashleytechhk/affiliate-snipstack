@@ -131,7 +131,7 @@ Alt-ID protects your real address going forward. Spam arriving on your existing 
 
 No. You are providing a functional email address — mail sent to it is delivered. The fact that it routes through a forwarding service is invisible to the sender and is not prohibited by standard terms of service. You can receive confirmation emails, account notifications, and marketing at the alias address exactly as intended.
 
-**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my alias emails if I cancel Surfshark?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/)s if I cancel Surfshark?**
 
 Forwarding would stop when the subscription ends, since Alt-ID is tied to the Surfshark service. If you cancel, update important accounts to a new alias or your real address before doing so. For most users, the cost of a Surfshark subscription is easily justified by the privacy and inbox benefit — and the VPN, [Antivirus](https://snipstack.io/vs-antivirus-2026/), and other included tools add further value.
 

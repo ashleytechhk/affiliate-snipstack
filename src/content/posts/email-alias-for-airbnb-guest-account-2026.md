@@ -62,7 +62,7 @@ Alt ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-a
 1. Generates a forwarding email address (e.g., `k7.maplewood@surfsharkmail.com`)
 2. Generates a matching fake identity — name, date of birth, and optionally a profile — that you can use when filling out the Airbnb registration form
 
-The combination matters. If you use your real name with a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/), Airbnb's data still contains your real identity and can be cross-referenced with other databases. Using both the alias email and the generated name keeps the account isolated from your real-world identity.
+The combination matters. If you use your real name with a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/), Airbnb's data still contains your real identity and can be cross-referenced with other databases. Using both the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) and the generated name keeps the account isolated from your real-world identity.
 
 ### Creating an Airbnb Account with Alt ID
 

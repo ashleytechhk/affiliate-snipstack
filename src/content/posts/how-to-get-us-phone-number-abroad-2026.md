@@ -56,7 +56,7 @@ A [virtual phone number](https://snipstack.io/virtual-phone-number-for-uber-regi
 
 **You can make outbound calls with a US caller ID.** This matters for banking callbacks, IRS helplines, and US employer contacts who need to see a +1 before they pick up.
 
-**The number persists for the life of your subscription.** Unlike free disposable numbers, a subscription-backed number does not expire from inactivity. Your bank's 2FA system sends a code in six months — your number is still there.
+**The number persists for the life of your subscription.** Unlike free [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/)s, a subscription-backed number does not expire from inactivity. Your bank's 2FA system sends a code in six months — your number is still there.
 
 ![How virtual US phone numbers route calls and SMS to your device abroad](/og/how-to-get-us-phone-number-abroad-2026-inline-1.png)
 

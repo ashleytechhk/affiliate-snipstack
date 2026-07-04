@@ -116,7 +116,7 @@ Here is the full flow from scratch:
 
 **Step 1: Get Alt ID.** Subscribe to [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) if you are not already a subscriber. Install the Surfshark browser extension on Chrome, Firefox, or Edge.
 
-**Step 2: Generate your alias identity.** Open the extension, go to Alt ID, and click "Generate." Copy the alias email address and the suggested alternate name.
+**Step 2: Generate your alias identity.** Open the extension, go to Alt ID, and click "Generate." Copy the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address and the suggested alternate name.
 
 **Step 3: Start Nextdoor signup.** Go to nextdoor.com and begin account creation. When prompted for your name, use the Alt ID suggested name. When prompted for your email, paste your Alt ID alias address.
 

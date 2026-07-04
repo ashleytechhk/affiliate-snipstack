@@ -139,7 +139,7 @@ Setup takes under three minutes. After that, survey emails arrive as normal — 
 
 ## FAQ
 
-**Will survey sites reject an alias email address at signup?**
+**Will survey sites reject an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address at signup?**
 
 Most won't. Alt ID uses its own domain, which looks like a standard email address to sign-up forms. Free throwaway services like Guerrilla Mail are more commonly blocked because their domains appear on known disposable-address lists. [Alt ID](/blog/altid?sub=email-alias-for-survey-sites-signup-2026__faq) is designed to pass standard form validation.
 

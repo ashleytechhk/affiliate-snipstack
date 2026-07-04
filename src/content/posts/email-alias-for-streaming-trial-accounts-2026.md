@@ -140,7 +140,7 @@ Total setup time: under three minutes. Zero change to your viewing experience du
 
 ## FAQ
 
-**Will streaming platforms accept an alias email address at sign-up?**
+**Will streaming platforms accept an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address at sign-up?**
 
 Most major streaming platforms — Netflix, Disney+, Max, Hulu, Paramount+, Apple TV+ — validate email addresses on format only, not by checking whether the domain is a forwarding service. Alt ID uses its own domain rather than a well-known disposable service domain, which means it passes standard format validation. [Alt ID](/blog/altid?sub=email-alias-for-streaming-trial-accounts-2026__faq) is designed to look like a standard email address to sign-up forms. Guerrilla Mail and similar services are often blocked because their domains are on rejection lists — Alt ID avoids that problem.
 

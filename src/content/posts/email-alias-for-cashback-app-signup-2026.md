@@ -122,7 +122,7 @@ The workflow is the same regardless of which tool you choose.
 **What is an [email alias for](https://snipstack.io/email-alias-for-pharmacy-prescription-alerts-2026/) cashback app signup?**
 An [email alias](https://snipstack.io/email-alias-for-recruitment-agency-privacy-2026/) is a forwarding address that delivers mail to your real inbox without revealing your real email address. When you use one for cashback app signups, the app gets a working address, you still receive confirmations and offers, but the app cannot connect that address to your identity across other services.
 
-**Will cashback apps reject alias email addresses?**
+**Will cashback apps reject [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 Most do not. Cashback apps want as many signups as possible, so they rarely block alias services. If an app specifically blocks known alias domains, try a service that allows custom domain aliases like SimpleLogin's paid plan.
 
 **Can I still earn cashback and receive payout emails through an alias?**

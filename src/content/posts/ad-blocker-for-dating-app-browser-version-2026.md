@@ -30,7 +30,7 @@ When you tap a link inside Tinder, Hinge, Bumble, or most other dating apps, the
 
 Here is why that matters for ad blocking:
 
-- **Browser extensions do not apply.** Extensions like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) only run inside the browser they are installed in. They have no visibility into a WebView launched by a third-party app.
+- **[Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s do not apply.** Extensions like [uBlock Origin](https://snipstack.io/ublock-origin-not-working-chrome-alternatives-2026/) only run inside the browser they are installed in. They have no visibility into a WebView launched by a third-party app.
 - **Safari's content blockers are partially blind.** On iOS, Safari content blockers work inside Safari but do not automatically extend to every WebView every app creates.
 - **The dating app controls the environment.** The app developer decides what scripts run in their WebView, which means ad networks can load freely without interception.
 
@@ -92,7 +92,7 @@ DNS-based solutions sometimes break when you switch networks or connect to a Wi-
 
 ### Blocks Ads and Malicious Links
 
-CleanWeb does not just filter ad domains. It also checks links against databases of known phishing and malware sites. Dating app browsers are a common delivery vector for phishing links — someone sends you a "profile verification" link that is actually a credential-harvesting page. CleanWeb drops those requests before the page loads.
+CleanWeb does not just filter ad domains. It also checks links against databases of known phishing and malware sites. Dating app browsers are a common delivery vector for [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s — someone sends you a "profile verification" link that is actually a credential-harvesting page. CleanWeb drops those requests before the page loads.
 
 ### Lightweight Mobile App
 

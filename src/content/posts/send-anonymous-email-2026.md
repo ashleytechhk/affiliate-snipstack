@@ -150,7 +150,7 @@ If you want to go further:
 Add your Alt ID forwarding domain to your real email's allowlist/safe senders list. In Gmail: Settings > Filters > Create a new filter > From: the Alt ID forwarding domain > Never send to spam.
 
 **A service is not accepting the alias address.**
-Some services blocklist free or alias email domains. If rejected, try generating a new alias with a different pattern, or for services you genuinely trust, use your real address and accept the tradeoff.
+Some services blocklist free or [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) domains. If rejected, try generating a new alias with a different pattern, or for services you genuinely trust, use your real address and accept the tradeoff.
 
 **I want to send email with no identity at all (not just an alias).**
 This is possible but more involved: use ProtonMail or Tutanota over the Tor network, creating an account without any real identity attached. Note that even these approaches have limits — no email system offers 100% anonymity, and the recipient's email server logs metadata regardless of what you do on your end.

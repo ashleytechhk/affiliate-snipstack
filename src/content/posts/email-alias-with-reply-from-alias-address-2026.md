@@ -58,7 +58,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-a
 **What sets Alt-ID apart:**
 
 - **No alias limit.** Create a different alias per service. Spot spam from a specific merchant the moment their domain shows up in your inbox.
-- **Identity profile generator.** Alt-ID can generate a full fake identity (name, date of birth, address) to use alongside the alias email. Useful for sites that demand more than just an email.
+- **Identity profile generator.** Alt-ID can generate a full fake identity (name, date of birth, address) to use alongside the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/). Useful for sites that demand more than just an email.
 - **Data breach monitoring.** If your alias (or any email you register) appears in a known data breach, Surfshark's monitoring flags it.
 - **Bundle value.** For users who already want a [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-benefits-2026/), the Alt-ID feature comes along for the ride. Paying for three separate tools individually would cost significantly more.
 

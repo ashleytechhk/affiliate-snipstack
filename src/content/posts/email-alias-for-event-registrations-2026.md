@@ -122,7 +122,7 @@ Try a different alias tool — Apple's domain (`@privaterelay.appleid.com`) is w
 Check that the alias is active and forwarding is enabled in your alias tool's dashboard. Also check your real inbox's spam folder — forwarded confirmations occasionally land there. Add your alias tool's domain to your safe-senders list to prevent this.
 
 **Sponsor emails are arriving at my real inbox, not the alias.**
-Your real address may have been collected separately — via badge scanning at a physical event or through a session platform that stored your actual profile. The alias only protects the email field in the registration form. For in-person events, consider using your alias email address on your badge profile as well.
+Your real address may have been collected separately — via badge scanning at a physical event or through a session platform that stored your actual profile. The alias only protects the email field in the registration form. For in-person events, consider using your [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address on your badge profile as well.
 
 **I forgot which alias I used for which event.**
 Most alias tools show the creation date and a label field. In Alt ID, aliases are listed in the dashboard with their label and last-used date. Going forward, label each alias with the event name when you create it.

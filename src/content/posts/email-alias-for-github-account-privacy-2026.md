@@ -135,7 +135,7 @@ One GitHub alias covers your account — that's the minimum. For full incident-r
 
 **[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias affect GitHub two-factor authentication?**
 
-No. GitHub's 2FA (authenticator app, hardware key, or SMS) is tied to your account, not your email format. Email-based verification codes sent to your alias forward instantly to your real inbox. If you're using an authenticator app (which you should be), your alias email is only used for account recovery — which still works normally through forwarding.
+No. GitHub's 2FA (authenticator app, hardware key, or SMS) is tied to your account, not your email format. Email-based verification codes sent to your alias forward instantly to your real inbox. If you're using an authenticator app (which you should be), your [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) is only used for account recovery — which still works normally through forwarding.
 
 ---
 

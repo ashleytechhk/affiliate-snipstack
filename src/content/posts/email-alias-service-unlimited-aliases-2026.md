@@ -143,7 +143,7 @@ A throwaway address is typically temporary and expires. An alias from a dedicate
 
 Potentially, if you later delete the alias. Before deleting a compromised alias, update the email on file for any accounts you want to keep. If you delete an alias tied to an active account and then get locked out, you may lose access to that account's recovery flow. The fix is to migrate the account to a fresh alias before deleting the old one.
 
-**Do alias emails look different in my inbox?**
+**Do [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/)s look different in my inbox?**
 
 No. Forwarded alias emails appear in your inbox exactly like direct emails. The only difference you see is in the "To:" field — instead of your real address, it shows the alias. This is also how you identify which alias an email arrived on, which is how you trace spam back to its source.
 

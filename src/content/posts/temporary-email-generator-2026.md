@@ -121,7 +121,7 @@ Click **Generate Alt ID**. Surfshark creates:
 
 You can customize any field before saving.
 
-**Step 4: Copy the alias email and use it on any signup form.**
+**Step 4: Copy the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) and use it on any signup form.**
 Paste the Alt ID email into the registration field. All mail sent to that alias forwards directly to your real inbox — silently, without exposing your actual address.
 
 **Step 5: Manage your aliases any time.**

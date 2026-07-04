@@ -68,7 +68,7 @@ That means no roaming dependency, no second SIM tray, and no risk of your bank's
 
 ---
 
-## How to Set It Up From Ireland
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) It Up From Ireland
 
 1. **Open the Surfshark app** on iOS or Android and activate [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) (or add Alt-Number to an existing plan).
 2. **Tap the Alt-Number tab** in the app menu.

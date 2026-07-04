@@ -163,7 +163,7 @@ For the typical spam-exhausted inbox owner who shops on multiple devices, across
 
 Yes. Most in-store receipt requests let you type or verbally spell out an email. You can give the alias address the same way you would your real one. Some stores send receipts via SMS instead — for those cases, an alias service with a masked [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) option (like Alt-ID) covers you.
 
-**Will stores reject alias email addresses?**
+**Will stores reject [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 Occasionally. Some retailers flag certain alias domains as suspicious, particularly auto-generated Apple Private Relay addresses. Alt-ID and SimpleLogin aliases tend to pass more reliably because they use less obviously generic domain patterns. If a specific store rejects your alias, the fallback is to use a dedicated secondary real inbox just for that retailer.
 

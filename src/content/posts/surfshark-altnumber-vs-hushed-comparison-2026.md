@@ -128,7 +128,7 @@ Hushed is not a bad product. It earns a mention in this comparison because:
 
 - You specifically need a less common North American area code
 - You want a standalone app with no subscription to a broader [security suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/)
-- You are a light user who rarely calls or texts and just wants a one-off disposable number
+- You are a light user who rarely calls or texts and just wants a one-off [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/)
 
 If those situations describe you, Hushed works. Just use a paid tier if privacy is actually important to you.
 

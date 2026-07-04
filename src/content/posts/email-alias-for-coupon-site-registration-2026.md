@@ -149,7 +149,7 @@ Generally no. Coupon sites require a working email address for verification, and
 
 **Can I still receive cashback payments if I use an alias?**
 
-Yes. Cashback platforms like Rakuten pay out to your account, which is linked to your alias email. As long as the alias stays active and forwarding, you receive payment notifications and can log in normally. If you disable the alias, remember to re-enable it before any payout period.
+Yes. Cashback platforms like Rakuten pay out to your account, which is linked to your [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/). As long as the alias stays active and forwarding, you receive payment notifications and can log in normally. If you disable the alias, remember to re-enable it before any payout period.
 
 **Will the coupon site notice I am using an alias?**
 

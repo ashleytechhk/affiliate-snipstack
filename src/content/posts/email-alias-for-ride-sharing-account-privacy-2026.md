@@ -114,7 +114,7 @@ Not sustainably. Disposable addresses that expire will lock you out of your acco
 
 No. Both platforms treat alias addresses identically to any other email. Trip receipts, safety notifications, and password reset links all forward normally to your real inbox. The only difference is that your real address is no longer in their database.
 
-**Does Uber or Lyft block alias email addresses?**
+**Does Uber or Lyft block [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 Neither platform currently blocks known alias domains the way some e-commerce sites do. Alt-ID uses a realistic-looking domain that doesn't appear on standard alias blocklists, making it more likely to clear any domain validation checks. If a future update blocks a specific domain, you can generate a fresh alias and update your account email — a two-minute fix.
 

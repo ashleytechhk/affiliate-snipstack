@@ -62,7 +62,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-singl
 
 For the Discord use case, this matters because:
 
-1. **Alias email forwards to your real inbox** — you still receive Discord verification and DM notifications without exposing your actual address
+1. **[Alias email for](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/)wards to your real inbox** — you still receive Discord verification and DM notifications without exposing your actual address
 2. **The alternative identity makes sign-ups feel natural** — you're not obviously using a temp email that might trigger Discord's spam filters
 3. **You can spin up new aliases quickly** — useful if you create multiple Discord accounts for different communities
 

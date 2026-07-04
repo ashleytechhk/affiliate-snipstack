@@ -172,7 +172,7 @@ Alt-ID supports reply masking — replies sent from your real inbox via the alia
 
 **[Does using](https://snipstack.io/does-using-email-alias-protect-from-spam-2026/) an alias protect my investment accounts from phishing?**
 
-It reduces one attack surface. If your alias email appears in a data breach, attackers get a forwarding address rather than your real email. Phishing emails sent to a deleted alias bounce. Combined with a unique password per platform and two-factor authentication, alias-per-platform significantly narrows the exposure of any single account compromise. **[Start using Alt-ID for your investment accounts →](/blog/altid?sub=email-alias-for-investment-account-notifications-2026__faq)**
+It reduces one attack surface. If your [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) appears in a data breach, attackers get a forwarding address rather than your real email. Phishing emails sent to a deleted alias bounce. Combined with a unique password per platform and two-factor authentication, alias-per-platform significantly narrows the exposure of any single account compromise. **[Start using Alt-ID for your investment accounts →](/blog/altid?sub=email-alias-for-investment-account-notifications-2026__faq)**
 
 **Is Alt-ID included with my existing Surfshark subscription?**
 

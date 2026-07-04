@@ -115,7 +115,7 @@ That said, [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-trave
 
 TotalAV does include a password manager on some tiers, which [Surfshark One](https://snipstack.io/surfshark-one-cheapest-price-strategy-2026/) does not. If a password manager is a priority for you, factor that into the comparison — though standalone password managers like Bitwarden offer free tiers that close that gap.
 
-**[Check current Surfshark One pricing here](/blog/one?sub=surfshark-one-vs-total-av-internet-security-2026__mid)** — the bundle deal is typically available at a significant discount off the regular rate.
+**[Check current Surfshark One pricing here](/blog/one?sub=surfshark-one-vs-total-av-internet-security-2026__mid)** — the [bundle deal](https://snipstack.io/bundle-deal-for-vpn-and-malware-protection-upgrade-2026/) is typically available at a significant discount off the regular rate.
 
 ---
 

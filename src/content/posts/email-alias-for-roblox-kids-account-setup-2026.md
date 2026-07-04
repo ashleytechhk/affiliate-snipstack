@@ -165,7 +165,7 @@ Here is the full setup flow from scratch.
 
 Roblox blocks some well-known temporary mail domains (Guerrilla Mail, Mailinator, and similar). Established alias providers like Surfshark Alt-ID, SimpleLogin, Apple Hide My Email, and DuckDuckGo Email Protection use custom domains that pass Roblox's checks without issue.
 
-### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I lose access to the alias email?
+### [What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I lose access to the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/)?
 
 If the alias is paused or deleted and Roblox needs to send a verification or password reset, the email will not reach you. Always keep the alias active for any account your child actively uses. With Alt-ID, you can re-activate forwarding instantly from the dashboard. **[Manage your aliases with Alt-ID](/blog/altid?sub=email-alias-for-roblox-kids-account-setup-2026__faq)**
 

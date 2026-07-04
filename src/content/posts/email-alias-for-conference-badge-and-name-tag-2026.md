@@ -64,7 +64,7 @@ Pricing based on publicly listed plans as of early 2026. Always verify current p
 
 Most alias tools give you a forwarding address. Surfshark Alt-ID gives you a forwarding address **plus a complete alternate identity** — a different first name, last name, and date of birth that you can use consistently across sign-up forms, badge registrations, and follow-up emails.
 
-This matters at conferences more than almost anywhere else because event registration often asks for your full name alongside your email. When you fill a registration form with your real name and a fake alias email, the data broker still knows who you are — they just mail you at a different address. Alt-ID lets you register with both a different name and a different email, breaking the link between the "conference you" and your real identity.
+This matters at conferences more than almost anywhere else because event registration often asks for your full name alongside your email. When you fill a registration form with your real name and a fake [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/), the data broker still knows who you are — they just mail you at a different address. Alt-ID lets you register with both a different name and a different email, breaking the link between the "conference you" and your real identity.
 
 ### Setting Up Alt-ID for a Conference
 

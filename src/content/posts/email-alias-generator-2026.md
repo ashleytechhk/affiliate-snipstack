@@ -101,7 +101,7 @@ Click the Surfshark extension icon in your browser toolbar. Navigate to the **Al
 
 Click **Generate new identity**. Surfshark creates:
 
-- A unique alias email address (e.g., `quietriver.hawk193@surfshark.id`)
+- A unique [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address (e.g., `quietriver.hawk193@surfshark.id`)
 - An optional alternative name and date of birth you can use on sign-up forms that ask for personal details
 
 The alias address is generated instantly. No waiting, no CAPTCHA, no confirmation step.

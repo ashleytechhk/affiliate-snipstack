@@ -94,7 +94,7 @@ Alt-ID is part of the [Surfshark One](https://snipstack.io/surfshark-one-for-col
 
 SimpleLogin is an open-source alias service with a generous free tier (10 aliases) and a paid plan for unlimited aliases. It is straightforward: create an alias, forward to your real address, disable it when the spam starts. The interface is clean and the service is reliable.
 
-It does not generate a full alternative identity — you still submit your real name alongside the alias email. But for users whose main concern is inbox hygiene rather than full identity masking, that is an acceptable trade-off.
+It does not generate a full alternative identity — you still submit your real name alongside the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/). But for users whose main concern is inbox hygiene rather than full identity masking, that is an acceptable trade-off.
 
 SimpleLogin was acquired by Proton (the company behind ProtonMail), which adds credibility to its privacy posture. The code is auditable and the service does not monetize your data.
 

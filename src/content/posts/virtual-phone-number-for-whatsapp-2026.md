@@ -74,7 +74,7 @@ The interface is slightly dated compared to newer competitors, and their interna
 
 ### **5. Burner — Best UX for Quickly Retiring Numbers**
 
-Burner pioneered the disposable number concept and the name tells you everything about the philosophy. You get a number, you use it, you retire it. The app is US and Canada focused but it has the best UX of any disposable number service.
+Burner pioneered the [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/) concept and the name tells you everything about the philosophy. You get a number, you use it, you retire it. The app is US and Canada focused but it has the best UX of any disposable number service.
 
 For dating specifically, the "burn" workflow maps perfectly to how you want to handle a match that goes sideways. One tap, the number is gone, the WhatsApp account linked to it effectively disconnects. New number when you need it.
 

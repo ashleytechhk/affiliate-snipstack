@@ -156,7 +156,7 @@ AnonAddy is worth considering if cost is the primary concern and you are comfort
 
 ### What Sets Alt-ID Apart
 
-**Fake name and profile generation.** Beyond the alias address, Alt-ID can generate a complete fake name, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) placeholder, and identity details to pair with the alias. This matters for sign-up forms that ask for a full name — you can use a completely fictional identity rather than attaching your real name to an alias email.
+**Fake name and profile generation.** Beyond the alias address, Alt-ID can generate a complete fake name, [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) placeholder, and identity details to pair with the alias. This matters for sign-up forms that ask for a full name — you can use a completely fictional identity rather than attaching your real name to an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/).
 
 **One-click disable.** When an alias starts receiving spam, you toggle it off in the Alt-ID dashboard. The alias stops forwarding instantly. There is no equivalent for Gmail's plus trick — the underlying address is permanent.
 

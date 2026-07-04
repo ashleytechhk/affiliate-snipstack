@@ -146,7 +146,7 @@ Using an alias tool is only half the system. The other half is how you manage al
 
 Yes. Register your LinkedIn account with an alias address, and LinkedIn communications will forward to your real inbox. There is a nuance: LinkedIn's messaging system operates inside the platform rather than through email for most recruiter contact, so the alias primarily filters LinkedIn's own marketing emails. For apply-via-LinkedIn flows that send your email to the employer directly, your alias address goes with your application — which is useful for reducing post-application contact you did not ask for. [Alt-ID handles LinkedIn registrations without compatibility issues.](/blog/altid?sub=email-alias-for-job-board-applications-2026__faq)
 
-**Will job boards reject alias email addresses?**
+**Will job boards reject [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 Most major job boards — Indeed, LinkedIn, Glassdoor, ZipRecruiter — accept alias addresses at registration without issue. The more relevant concern is downstream: applicant tracking systems used by employers occasionally flag or filter emails from known alias domains like `@duck.com` or `@privaterelay.appleid.com`. Using a tool like Alt-ID with a less-recognisable domain reduces but does not eliminate this risk.
 

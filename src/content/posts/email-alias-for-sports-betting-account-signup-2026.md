@@ -62,7 +62,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-singl
 
 - The browser extension integrates natively into form fields, so alias generation adds roughly five seconds to a signup flow.
 - Unlimited aliases mean you can create one per sportsbook, one per promotion, or one per referral campaign without hitting a wall.
-- The dashboard gives a per-alias email count, so you can see exactly which sportsbook is the worst offender before you decide to kill it.
+- The dashboard gives a per-[alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) count, so you can see exactly which sportsbook is the worst offender before you decide to kill it.
 - Bundling saves money. If you are already paying for a VPN, [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) costs only marginally more than the VPN alone, and you get Alt-ID, antivirus, and Surfshark Search included.
 
 **Limitations to know:**

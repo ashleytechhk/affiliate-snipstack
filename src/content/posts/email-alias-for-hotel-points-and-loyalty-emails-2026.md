@@ -161,7 +161,7 @@ No. Your booking confirmation arrives in your real inbox via forwarding. You can
 
 ### Is it legal to use a different name when signing up for loyalty programs?
 
-Loyalty program terms vary. Using an alias email address is universally accepted. Using an alternate name that does not match your ID is more nuanced — some elite tier programs require name-matching for award redemptions, particularly for flights. Use your real name on programs that tie awards to ID documents, and use Alt ID for the email field only.
+Loyalty program terms vary. Using an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address is universally accepted. Using an alternate name that does not match your ID is more nuanced — some elite tier programs require name-matching for award redemptions, particularly for flights. Use your real name on programs that tie awards to ID documents, and use Alt ID for the email field only.
 
 [See how Alt ID handles real-name requirements](/blog/altid?sub=email-alias-for-hotel-points-and-loyalty-emails-2026__faq)
 

@@ -55,7 +55,7 @@ That last point matters more than people realize. If someone gets your real numb
 
 Yes, with one important caveat: DoorDash verifies phone numbers during signup and occasionally at other points. This means you need a [virtual number](https://snipstack.io/virtual-number-monthly-vs-yearly-plan-cost-2026/) that passes verification — not a recycled VOIP line that gets flagged before you even finish the application.
 
-Free-tier services like TextNow hand out numbers that have been through dozens of previous accounts. Those numbers accumulate a flagged reputation. DoorDash's verification system (which uses carrier-level lookups to screen for disposable numbers) is increasingly good at catching them.
+Free-tier services like TextNow hand out numbers that have been through dozens of previous accounts. Those numbers accumulate a flagged reputation. DoorDash's verification system (which uses carrier-level lookups to screen for [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/)s) is increasingly good at catching them.
 
 **What works:**
 

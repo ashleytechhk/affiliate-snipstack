@@ -146,7 +146,7 @@ The setup takes under five minutes. Your store operations are unaffected. You ju
 
 ## FAQ
 
-**Will Shopify reject an alias email address during account registration?**
+**Will Shopify reject an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address during account registration?**
 
 No. Alt-ID aliases are real, formatted email addresses on a legitimate domain. Shopify's account registration validates that the email address is correctly formatted and reachable — the verification email forwards to your real inbox, you click the link, and the account is verified. There is no additional check that would flag an alias. [Alt-ID](https://snipstack.io/blog/altid?sub=email-alias-for-shopify-store-account-2026__faq) is designed to look indistinguishable from a standard address to sign-up forms and verification systems.
 

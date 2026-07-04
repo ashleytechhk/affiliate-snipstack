@@ -10,7 +10,7 @@ tags: ["altid", "privacy", "review"]
 
 You book a dentist appointment. You hand over your email for the confirmation. Three weeks later, you're drowning in newsletters about whitening kits, "loyalty reward" promotions, and appointment reminder sequences you never opted into. Sound familiar?
 
-Dental practices — like most small businesses — often feed your real email into CRM systems, bulk email platforms, and third-party booking tools the moment you hand it over. The confirmation email is just the beginning. If you use a disposable or alias email address instead of your real one, you get the confirmation, stay reachable for cancellations, and cut off the spam at the source.
+Dental practices — like most small businesses — often feed your real email into CRM systems, bulk email platforms, and third-party booking tools the moment you hand it over. The confirmation email is just the beginning. If you use a disposable or [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address instead of your real one, you get the confirmation, stay reachable for cancellations, and cut off the spam at the source.
 
 This guide compares the best [email alias](https://snipstack.io/email-alias-that-blocks-promotional-emails-instantly-2026/) tools specifically for this use case: low-friction, works for a one-time confirmation, and doesn't require you to maintain a separate inbox forever.
 

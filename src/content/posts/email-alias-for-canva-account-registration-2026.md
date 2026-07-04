@@ -161,7 +161,7 @@ Yes, as long as you use a permanent forwarding alias — not a disposable temp-m
 
 Deactivating an alias means no more emails from Canva reach you. This is useful for stopping spam, but it also blocks password resets and team invites. Only deactivate if you are done with the account or want to switch to a new alias — which you can do by updating the email in Canva's account settings first.
 
-### Is it against Canva's terms of service to use an alias email?
+### Is it against Canva's terms of service to use an [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/)?
 
 No. Canva's terms require a valid email address you control. An alias that forwards to a real inbox meets that requirement. You are still verifiable and reachable — the only difference is the layer of privacy between Canva and your actual address.
 

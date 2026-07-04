@@ -156,7 +156,7 @@ By default, replies from your email client use your real address. Some configura
 
 They bounce. A deleted alias address simply stops existing — mail delivered to it returns to the sender with a delivery failure notice. There is no way for a spammer to "follow" a deleted alias to your real address.
 
-### Does Alt ID work if a site rejects alias email domains?
+### Does Alt ID work if a site rejects [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) domains?
 
 Some services block known alias domains at sign-up. Alt ID may offer alternative domain options — check alias settings within your Surfshark account. If a service is incompatible, a secondary personal email (not your primary) is the practical fallback.
 

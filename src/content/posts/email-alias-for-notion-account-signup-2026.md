@@ -156,7 +156,7 @@ Yes. In Notion, go to **Settings → My account** and update your email address 
 
 Not as long as the alias is active and forwarding. Password reset emails, 2FA backup codes, and workspace re-invitation emails all arrive through the alias to your real inbox. The only risk is if you delete the alias without first updating your Notion account email — handle the alias like you would handle any email address change: update the account first, then retire the old address.
 
-**Does Notion block forwarding or alias email domains?**
+**Does Notion block forwarding or [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) domains?**
 
 Notion does not currently block major alias providers like Alt-ID or SimpleLogin. Services that block alias domains typically target known disposable-mail domains (Guerrilla Mail, Temp Mail, and similar). Established alias providers use domains that are not on common blocklists, so Notion account creation and email verification succeed normally.
 

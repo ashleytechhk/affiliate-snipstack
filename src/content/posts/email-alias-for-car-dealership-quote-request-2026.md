@@ -74,7 +74,7 @@ Key strengths for the car dealership use case:
 - **Reply capability.** If a salesperson emails your alias and you want to respond — to ask a follow-up question or request a revised quote — you can reply and it appears to come from the alias address. Your real email stays hidden throughout the negotiation.
 - **One-click deletion.** When you have made your decision and no longer need the alias, delete it from the Alt-ID dashboard. Incoming emails to that address bounce immediately.
 - **Device agnostic.** Manage aliases via the Surfshark app or web dashboard. Works on Android, Windows, macOS, iOS, and any browser.
-- **Bundled value.** Alt-ID is included in Surfshark One and Surfshark One+ plans. If you already subscribe for the VPN or antivirus, the identity aliasing costs nothing extra.
+- **Bundled value.** Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)+ plans. If you already subscribe for the VPN or antivirus, the identity aliasing costs nothing extra.
 
 The only meaningful downside: Alt-ID requires a Surfshark subscription. It is not available as a free standalone tool.
 
@@ -114,7 +114,7 @@ The workflow takes under two minutes from start to finish.
 
 1. Open the Surfshark app or web dashboard and navigate to Alt-ID.
 2. Create a new alias. The tool generates a random email address and a complete fake profile alongside it.
-3. On the dealership's quote form, enter the alias email address and use the generated name, address, and other profile details for any additional required fields.
+3. On the dealership's quote form, enter the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address and use the generated name, address, and other profile details for any additional required fields.
 4. The dealership's reply and any follow-up emails forward to your real inbox automatically.
 5. If you want to respond to a specific message, reply normally from your mail client — the outgoing message will appear to come from the alias address.
 6. Once the purchase is complete (or you have decided to move on), delete the alias from the Alt-ID dashboard.
@@ -141,9 +141,9 @@ If you are genuinely only looking for [email alias](https://snipstack.io/email-a
 
 Yes, if you use Alt-ID or SimpleLogin. Both route outgoing replies through the alias address, so the salesperson sees the alias — not your real inbox. Apple Hide My Email and Gmail + addressing do not support outbound replies from the alias.
 
-### What if the quote form also asks for my phone number?
+### What if the quote form also asks for my [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/)?
 
-Alt-ID's identity generator includes a phone number in the dummy profile. For situations where the dealership needs to reach you by phone or SMS, consider pairing Alt-ID with Surfshark Alt-Number, which provides a functional [virtual number](https://snipstack.io/virtual-number-for-interior-designer-client-project-calls-2026/) you can disable after the purchase process ends. [See how Alt-ID and Alt-Number work together](/blog/altid?sub=email-alias-for-car-dealership-quote-request-2026__faq)
+Alt-ID's identity generator includes a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) in the dummy profile. For situations where the dealership needs to reach you by phone or SMS, consider pairing Alt-ID with Surfshark Alt-Number, which provides a functional [virtual number](https://snipstack.io/virtual-number-for-interior-designer-client-project-calls-2026/) you can disable after the purchase process ends. [See how Alt-ID and Alt-Number work together](/blog/altid?sub=email-alias-for-car-dealership-quote-request-2026__faq)
 
 ### Is it legal to use a fake name on a dealership quote form?
 

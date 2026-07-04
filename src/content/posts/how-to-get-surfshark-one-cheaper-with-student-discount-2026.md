@@ -96,7 +96,7 @@ Most students end up with Norton or McAfee because it came bundled with a new la
 
 **No real VPN.** The "VPN" included in lower Norton tiers has data caps. McAfee's Safe Connect VPN has been criticized for limited server options. Surfshark's VPN is unrestricted — unlimited data, 100+ countries, and no speed throttling.
 
-**Price after year one.** Campus bundle deals often cover year one only. Renewals can be $60–$100+ annually for Norton 360 Deluxe once the promotional period ends.
+**Price after year one.** Campus [bundle deal](https://snipstack.io/bundle-deal-for-vpn-and-malware-protection-upgrade-2026/)s often cover year one only. Renewals can be $60–$100+ annually for Norton 360 Deluxe once the promotional period ends.
 
 **[Surfshark One](https://snipstack.io/surfshark-one-for-digital-nomad-travel-setup-2026/) covers unlimited devices.** If you're a student sharing a [family plan](https://snipstack.io/family-plan-security-suite-comparison-2026/) or using multiple devices (laptop, phone, tablet), unlimited simultaneous connections is a genuine advantage. Norton 360 Deluxe caps at 5 devices.
 

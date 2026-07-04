@@ -147,7 +147,7 @@ If an alias starts receiving suspicious phishing emails, that's your signal: tha
 Yes, in nearly all cases. Exchanges only check that you can receive email at the address you provide — they don't verify whether it's a forwarding alias or a direct inbox. As long as OTPs and verification emails land in your real inbox (which they will with forwarding aliases), the exchange has no issue with it.
 
 **Can I use an [email alias for](https://snipstack.io/email-alias-for-legal-document-service-signup-2026/) KYC verification?**
-KYC (Know Your Customer) verification is about identity documents — your ID, passport, or selfie — not your email address format. Your alias email is used only for communication; it doesn't affect the KYC process. Exchanges that require KYC will still accept alias emails.
+KYC (Know Your Customer) verification is about identity documents — your ID, passport, or selfie — not your email address format. Your [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) is used only for communication; it doesn't affect the KYC process. Exchanges that require KYC will still accept alias emails.
 
 **What happens if an exchange flags my alias email as suspicious?**
 Rare, but possible. Some exchanges run checks that flag [disposable email](https://snipstack.io/disposable-email-that-receives-messages-2026/) providers. If this happens, use a custom-domain alias (SimpleLogin and AnonAddy both support custom domains on paid tiers) which looks identical to a normal email address. [Surfshark Alt-ID](/blog/altid?sub=email-alias-for-crypto-exchange-registration-2026__faq) generates addresses that are not on public blocklists.

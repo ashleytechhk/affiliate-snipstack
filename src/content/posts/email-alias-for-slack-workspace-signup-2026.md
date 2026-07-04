@@ -128,7 +128,7 @@ If you're only protecting one or two Slack workspaces and want something free, S
 
 Yes. In Slack, go to your profile, navigate to **Account Settings**, and update the email address to your alias. Slack will send a verification email to the alias, which forwards to your real inbox. Confirm it and the alias becomes your active Slack email. [Alt-ID](/blog/altid?sub=email-alias-for-slack-workspace-signup-2026__faq) supports this — the alias is a full permanent forwarding address, not a temporary inbox.
 
-**Will Slack block alias email domains?**
+**Will Slack block [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) domains?**
 
 Slack does not currently block major alias providers like Alt-ID or SimpleLogin. Some platforms maintain blocklists of known disposable-mail domains (Temp Mail, Guerrilla Mail, and similar). Established alias services use domains that don't appear on common blocklists, so workspace invites and signups succeed normally.
 

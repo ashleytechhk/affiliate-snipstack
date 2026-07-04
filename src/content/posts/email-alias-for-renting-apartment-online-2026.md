@@ -71,7 +71,7 @@ Alt-ID sits inside the [Surfshark One](https://snipstack.io/surfshark-one-two-ye
 - An **alternative name and identity profile** to pair with the alias
 - The ability to **disable or delete** the alias at any time
 
-The identity layer is what separates Alt-ID from simple forwarding tools. When you sign up on a rental portal, you can use the alias email plus the alternative name. The landlord or platform sees a complete contact profile, but nothing links back to your real credentials.
+The identity layer is what separates Alt-ID from simple forwarding tools. When you sign up on a rental portal, you can use the [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) plus the alternative name. The landlord or platform sees a complete contact profile, but nothing links back to your real credentials.
 
 ### Setting Up Alt-ID for Apartment Hunting
 

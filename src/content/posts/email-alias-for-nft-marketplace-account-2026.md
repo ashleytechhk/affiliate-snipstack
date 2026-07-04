@@ -146,7 +146,7 @@ Not all alias services behave the same way under pressure. Before committing, ch
 **[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) calls or texts using an [email alias](https://snipstack.io/email-alias-for-figma-account-registration-2026/)?**
 No. An [email alias](https://snipstack.io/email-alias-for-hotel-chain-points-account-2026/) only forwards email. It does not cover phone verification steps. If an NFT marketplace requires SMS verification, use a separate [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) service for that step.
 
-**Will NFT marketplaces reject alias email addresses?**
+**Will NFT marketplaces reject [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 Some platforms do scan for known alias domain patterns and block registration. Using a custom domain alias (available on SimpleLogin and AnonAddy paid tiers) typically bypasses this. Alt ID's alias domains are less widely blacklisted than older shared alias services. [Surfshark Alt ID handles this more smoothly than most →](/blog/altid?sub=email-alias-for-nft-marketplace-account-2026__faq)
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if the alias service shuts down?**

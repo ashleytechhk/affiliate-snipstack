@@ -169,7 +169,7 @@ This depends on the alias tool and your email client configuration. Some service
 
 An alias is almost always better than a second account. With a second account you have to log in and out constantly, you'll miss emails, and the inbox becomes orphaned. An alias forwards to your existing personal inbox, so you see everything in one place but shopping mail is clearly separated from your work traffic. No inbox management overhead.
 
-**Will retailers reject alias email addresses?**
+**Will retailers reject [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 Most major retailers accept aliases without issue. Occasionally a service will block known alias domains — this is more common with temporary disposable address providers than with persistent alias services like Alt ID or SimpleLogin. If a signup is rejected, try an alias on a different domain if your service offers multiple, or use a browser extension that can generate a new address format.
 

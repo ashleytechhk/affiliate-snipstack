@@ -59,7 +59,7 @@ Alt-ID is part of [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefen
 
 ### What You Get
 
-- A randomized alias email that forwards to your real inbox
+- A randomized [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) that forwards to your real inbox
 - The ability to reply from the alias so senders never see your real address
 - One-click alias deletion when an address gets compromised
 - New alias generation at any time without changing your actual email

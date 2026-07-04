@@ -110,7 +110,7 @@ Here's how to make the call quickly:
 
 - **Already have [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)?** Use Alt Number. It's already included.
 - **US-based, need free, comfortable with occasional failures?** Google Voice.
-- **Want a disposable number and willing to pay for reliability?** Hushed.
+- **Want a [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/) and willing to pay for reliability?** Hushed.
 - **Need something free immediately, can tolerate recycled numbers?** TextNow.
 
 The online dating use case has a specific requirement that general "[burner number](https://snipstack.io/burner-number-for-verification-2026/)" advice often misses: you don't just need to pass verification once, you need a number you can reliably share and receive calls/texts on for the early stages of getting to know someone. That rules out truly disposable services that expire in 24 hours, and it puts a premium on SMS reliability.

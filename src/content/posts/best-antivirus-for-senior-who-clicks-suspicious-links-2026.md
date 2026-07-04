@@ -8,7 +8,7 @@ tags: ["antivirus", "privacy", "review"]
 
 ![Best antivirus for seniors who click suspicious links](/og/best-antivirus-for-senior-who-clicks-suspicious-links-2026.png)
 
-Here is a number that should stop you cold: according to the FBI's Internet Crime Complaint Center, adults over 60 lost more than **$3.4 billion** to online fraud in a single year — more than any other age group, and the gap keeps widening every year.
+Here is a number that should stop you cold: according to the FBI's Internet Crime Complaint Center, adults over 60 lost more than **$3.4 billion** to [online fraud](https://snipstack.io/online-fraud-protection-for-shoppers-2026/) in a single year — more than any other age group, and the gap keeps widening every year.
 
 If you — or someone you love — has ever clicked a link in an email that looked like it came from the bank, a delivery company, or even a grandchild in trouble, this article is for you. One wrong click is all it takes. By the time you realize something is wrong, your passwords, your bank account details, and your personal information may already be in the wrong hands.
 
@@ -30,10 +30,10 @@ The tactics have grown far more sophisticated than they used to be. Phishing ema
 
 Common tricks used against older adults include:
 
-- **Fake package delivery notices** — "Your Amazon order is on hold. Click here to confirm your address."
+- **Fake [package delivery](https://snipstack.io/package-delivery-scam-text-checker-2026/) notices** — "Your Amazon order is on hold. Click here to confirm your address."
 - **Government impersonation** — "Your benefits have been suspended. Act immediately to restore access."
 - **Grandparent scams** — An urgent message pretending to be a grandchild who needs bail money or emergency funds.
-- **Fake tech support pop-ups** — A scary warning on screen telling you to call a number or click a link to fix your "infected" computer.
+- **Fake [tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) pop-ups** — A scary warning on screen telling you to call a number or click a link to fix your "infected" computer.
 
 Each one works the same way: panic you into clicking before you have time to think. And once you click, the damage can begin within seconds.
 

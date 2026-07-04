@@ -143,7 +143,7 @@ Alt-ID allows multiple aliases per account. The exact limit depends on your plan
 
 ## The Bottom Line
 
-A temporary email and password is the fastest, lowest-effort way to stop spam at the source rather than fighting it after it arrives. Alt-ID handles both sides of the equation — alias email and strong password generation — without requiring you to visit a separate site or remember anything new.
+A temporary email and password is the fastest, lowest-effort way to stop spam at the source rather than fighting it after it arrives. Alt-ID handles both sides of the equation — [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) and strong password generation — without requiring you to visit a separate site or remember anything new.
 
 Stop handing your real address to every free trial and signup form on the internet. Set up Alt-ID once, and you will spend less time deleting spam and more time on everything else.
 

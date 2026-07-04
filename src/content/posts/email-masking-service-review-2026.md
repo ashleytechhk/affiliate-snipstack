@@ -178,7 +178,7 @@ A spam filter sits between your inbox and the junk that's already addressed to y
 
 **Is email masking legal?**
 
-Yes. Using a masked or alias email address is not illegal in any jurisdiction that regulates normal email use. You're not misrepresenting yourself in any legally significant way — you're simply receiving mail at a forwarding address. The same concept applies to PO boxes for physical mail.
+Yes. Using a masked or [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) address is not illegal in any jurisdiction that regulates normal email use. You're not misrepresenting yourself in any legally significant way — you're simply receiving mail at a forwarding address. The same concept applies to PO boxes for physical mail.
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I delete a masked address — do I lose emails I've already received?**
 

@@ -129,7 +129,7 @@ Yes — in the right way. When you invite collaborators to a folder, the invitat
 
 Delete the alias in Alt-ID's dashboard — one click. Before deleting, update your Dropbox account email to a new alias so you don't lose access to the account. The whole process takes about three minutes: create a new alias in Alt-ID, update your Dropbox account email, confirm via the verification email on the new alias, then delete the old one. From that point, all mail sent to the old address goes nowhere.
 
-**Do Dropbox and its integrations block alias email addresses?**
+**Do Dropbox and its integrations block [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 Dropbox does not currently block established alias providers like Alt-ID. Some platforms check submitted addresses against lists of known throwaway domains — free services like Guerrilla Mail or Temp Mail often appear on these blocklists. Alt-ID operates its own domain that doesn't appear on standard public blocklists, so it clears Dropbox's registration process. Third-party integrations (Zapier, Adobe, etc.) may have their own checks, but the same principle applies: a dedicated alias service from an established privacy company is not treated as a throwaway.
 

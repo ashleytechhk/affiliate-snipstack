@@ -71,22 +71,22 @@ For a Norton alternative to actually solve the support problem, it has to change
 
 To be fair to Norton: it still does a few things [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) doesn't attempt.
 
-Norton 360 includes a built-in password manager across its plans — [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) doesn't offer one as part of the One bundle, so you'd need a separate app for that. Norton also includes cloud backup on many tiers, which [Surfshark One](https://snipstack.io/surfshark-one-for-parents-monitoring-teen-phone-2026/) skips entirely. If you're relying on Norton for either of those today, moving to Surfshark One means picking up a standalone tool to cover the gap.
+Norton 360 includes a built-in password manager across its plans — [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) doesn't offer one as part of the One bundle, so you'd need a separate app for that. Norton also includes cloud backup on many tiers, which [Surfshark One](https://snipstack.io/surfshark-one-for-parents-monitoring-teen-phone-2026/) skips entirely. If you're relying on Norton for either of those today, moving to [Surfshark One](https://snipstack.io/surfshark-one-pricing-per-month-breakdown-2026/) means picking up a standalone tool to cover the gap.
 
 Long-time Norton users who specifically value its identity-restoration services or its established antivirus track record may also find less reason to switch. This comparison is aimed at upgraders whose real friction points are price, bloat, and support — not at everyone with a Norton subscription.
 
 ---
 
-## How to Switch From Norton to Surfshark One
+## How to Switch From Norton to [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-feature-comparison-2026/)
 
 If the trade-offs above work for you, the switch itself is straightforward:
 
 1. **Check your Norton renewal date.** Cancel or turn off auto-renew before the next billing cycle to avoid getting charged for both products at once.
-2. **Export anything you need from Norton's password manager or cloud backup**, since Surfshark One won't import or replace either.
-3. **Sign up for Surfshark One** and install it across your devices — there's no device limit to plan around.
+2. **Export anything you need from Norton's password manager or cloud backup**, since [Surfshark One](https://snipstack.io/surfshark-one-honest-review-for-everyday-user-2026/) won't import or replace either.
+3. **Sign up for [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/)** and install it across your devices — there's no device limit to plan around.
 4. **Run the antivirus scan** once to confirm the new install is active and up to date.
 5. **Set up Alert** with the email addresses and cards you want monitored for leaks, and turn on the VPN's auto-connect for public networks.
-6. **Uninstall Norton or McAfee** once you've confirmed everything on Surfshark One is running.
+6. **Uninstall Norton or McAfee** once you've confirmed everything on [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) is running.
 
 ![Steps to switch from Norton to Surfshark One](/og/norton-alternative-with-better-customer-support-rating-2026-inline-1.png)
 

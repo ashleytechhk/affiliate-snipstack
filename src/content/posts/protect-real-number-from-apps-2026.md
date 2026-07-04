@@ -116,7 +116,7 @@ For daters who need international numbers — matching with someone from another
 
 ### 4. Burner App
 
-**The original disposable number. Better for short cycles than long ones.**
+**The original [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/). Better for short cycles than long ones.**
 
 Burner invented the consumer second-number category, and its core model maps well to dating psychology: get a number, use it for a specific situation, burn it when it is done. The credit-based system means number disposal is built into the product rather than being an afterthought.
 

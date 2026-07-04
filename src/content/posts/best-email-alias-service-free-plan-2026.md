@@ -161,7 +161,7 @@ An alias service stops spam that arrives via addresses you've shared going forwa
 **Do [email alias](https://snipstack.io/email-alias-for-steam-account-privacy-2026/) services work with Gmail and Outlook?**
 Yes. All the services in this comparison forward to any inbox — Gmail, Outlook, iCloud, ProtonMail, or anything else. Your email provider doesn't need to know you're using an alias service. The alias is just a forwarding layer.
 
-**Will websites accept alias email addresses?**
+**Will websites accept [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 Most will. Some aggressive anti-spam systems blocklist known alias domains (particularly obvious ones like temp-mail domains). Alt-ID and SimpleLogin use professional-looking domains that pass most filters. If a site rejects your alias, that site itself may be worth avoiding.
 
 **How do I choose between SimpleLogin and Alt-ID?**

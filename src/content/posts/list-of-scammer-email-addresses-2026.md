@@ -142,7 +142,7 @@ Scammers build their lists by harvesting addresses from data breaches, social me
 
 ![Feature highlight showing email privacy protection tools on multiple devices](/og/list-of-scammer-email-addresses-2026-inline-2.png)
 
-**Step 6a — Use a masked or alias email for signups**
+**Step 6a — Use a masked or [alias email for](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) signups**
 
 Instead of giving your real address to every website, use an alias. If that alias starts receiving scam mail, you delete it without affecting your real inbox.
 

@@ -88,7 +88,7 @@ Not all of that harassment involves a shared phone number — but the cases that
 
 That is a significant disruption: porting your contacts, notifying your bank, updating two-factor authentication on every account, and hoping you have not missed anyone important. People put up with a lot of unwanted contact just to avoid that hassle.
 
-A [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) eliminates the entire dilemma. There is nothing to change on your end. The disposable number just stops working for them.
+A [burner number](https://snipstack.io/burner-number-for-bumble-bff-meetups-2026/) eliminates the entire dilemma. There is nothing to change on your end. The [disposable number](https://snipstack.io/disposable-number-for-car-selling-to-strangers-safely-2026/) just stops working for them.
 
 ---
 

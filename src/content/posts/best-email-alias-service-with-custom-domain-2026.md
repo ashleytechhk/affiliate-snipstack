@@ -149,7 +149,7 @@ Receiving email from an alias feels identical to receiving it from your real add
 **Can I reply to emails using an alias address?**
 It depends on the service. Surfshark Alt-ID, SimpleLogin, and AnonAddy all support reply-from-alias, meaning your reply appears to come from the alias address. This is essential for maintaining privacy in two-way email conversations. [See how Alt-ID handles reply routing here.](/blog/altid?sub=best-email-alias-service-with-custom-domain-2026__faq)
 
-**Will websites block alias email addresses?**
+**Will websites block [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 Some websites attempt to block known alias domains. Using a custom domain alias sidesteps this almost entirely, because the domain is yours and not associated with any alias provider in public blocklists. This is one of the strongest reasons to invest in custom domain aliases over shared-provider ones.
 
 **Is it legal to use a fake name or alternate identity when signing up for services?**

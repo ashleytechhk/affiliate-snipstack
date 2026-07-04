@@ -123,7 +123,7 @@ If you're only protecting a single food app account and have no interest in VPN 
 
 An [email alias](https://snipstack.io/how-email-alias-2026/) is a forwarding address that routes incoming emails to your real inbox without revealing your actual email address. You give the alias to DoorDash or Uber Eats during signup; you still receive order confirmations and tracking updates, but the platform never learns your real address. When the marketing emails get out of hand, you delete the alias and the traffic stops immediately.
 
-**Will food delivery apps accept alias email addresses?**
+**Will food delivery apps accept [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) addresses?**
 
 Yes. DoorDash, Uber Eats, Grubhub, and Instacart all accept alias addresses from established providers like Alt ID, DuckDuckGo, Apple, and SimpleLogin. These services use domains that don't appear on standard blocklists. Known temp-mail domains (Guerrilla Mail, Mailinator) are sometimes rejected — another reason to use a persistent alias service instead.
 

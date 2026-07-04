@@ -122,7 +122,7 @@ From that point, confirmations and updates forward to your real inbox. You manag
 
 ### Alt-ID Also Generates Alternative Identity Details
 
-Beyond the [email alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/), Alt-ID generates an alternative name, date of birth, and profile details. When a website asks for personal information you'd rather not share — a sweepstakes entry, a content site that asks for your name — you can use the generated profile instead of your real details. The alias email and the alternative identity work together to reduce the amount of personal data you hand over in routine sign-ups.
+Beyond the [email alias](https://snipstack.io/email-alias-for-privacy-without-creating-new-account-2026/), Alt-ID generates an alternative name, date of birth, and profile details. When a website asks for personal information you'd rather not share — a sweepstakes entry, a content site that asks for your name — you can use the generated profile instead of your real details. The [alias email](https://snipstack.io/alias-email-for-linkedin-signup-without-inbox-spam-2026/) and the alternative identity work together to reduce the amount of personal data you hand over in routine sign-ups.
 
 ### The One Limitation Worth Knowing
 
