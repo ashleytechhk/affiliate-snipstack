@@ -76,13 +76,13 @@ When you connect to hotel WiFi, your threat model is primarily network-based, no
 The "One" bundle [is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/)'s full security stack. It is not just a VPN with an antivirus bolted on as a checkbox feature.
 
 ### VPN
-Full WireGuard/OpenVPN/IKEv2 support. Kill switch (cuts internet if VPN drops, preventing accidental exposure). Split tunneling for routing only sensitive apps through the VPN. MultiHop for double-encrypting through two servers. Works across Windows, macOS, iOS, Android, Linux, and browser extensions.
+Full WireGuard/OpenVPN/IKEv2 support. Kill switch (cuts internet if VPN drops, preventing accidental exposure). Split tunneling for routing only sensitive apps through the VPN. MultiHop for double-encrypting through two servers. Works across Windows, macOS, iOS, Android, Linux, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s.
 
 ### Antivirus
 Real-time scanning with scheduled full-device scans. Detects malware, ransomware, and trojans. Webcam protection to block unauthorized access. No performance drag that tanks your CPU the way legacy Norton suites historically have on older hardware.
 
 ### Alert (Data Breach Monitoring)
-Monitors your email addresses, credit card numbers, ID documents, and phone numbers against known breach databases. Sends alerts when your data surfaces in a new leak. Useful for travelers who sign up for hotel loyalty programs, rental services, and event ticketing constantly — all fertile ground for data breaches.
+Monitors your email addresses, credit card numbers, ID documents, and [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/)s against known breach databases. Sends alerts when your data surfaces in a new leak. Useful for travelers who sign up for hotel loyalty programs, rental services, and event ticketing constantly — all fertile ground for data breaches.
 
 ### Search
 Surfshark's private search engine delivers results without tracking your queries or building an ad profile. Minor feature, but consistent with the bundle's privacy-first positioning.
@@ -144,7 +144,7 @@ For most users and threat profiles, yes. Surfshark's antivirus uses real-time sc
 **Can I use [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-feature-comparison-2026/) on my work laptop?**
 Check your company's IT policy first — some organizations prohibit third-party VPNs on corporate devices. On personal devices used for work, [Surfshark One](https://snipstack.io/surfshark-one-honest-review-for-everyday-user-2026/)'s split tunneling feature lets you route only personal traffic through the VPN while leaving work traffic on the hotel network or your corporate VPN.
 
-**What happens if the VPN drops mid-session?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if the VPN drops mid-session?**
 If you have the kill switch enabled (recommended), your internet connection cuts immediately when the VPN drops, preventing any data from transmitting over the unencrypted hotel network. The VPN reconnects automatically in the background, and your connection resumes.
 
 **Is there a free trial?**

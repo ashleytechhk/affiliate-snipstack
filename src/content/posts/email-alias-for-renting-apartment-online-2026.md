@@ -166,7 +166,7 @@ Using a privacy alias for contact purposes is not a legal issue in most jurisdic
 
 ### How is Alt-ID different from a temporary [disposable email](https://snipstack.io/disposable-email-address-for-trials-2026/)?
 
-Disposable email services typically delete the inbox after minutes or hours and do not allow replies. Alt-ID is a persistent forwarding alias that you control — you decide when it is active and when it is deleted. You can also reply from the alias address so landlords see a consistent contact throughout your search. Disposable addresses break the conversation thread entirely.
+[Disposable email](https://snipstack.io/disposable-email-for-online-shopping-avoid-retargeting-2026/) services typically delete the inbox after minutes or hours and do not allow replies. Alt-ID is a persistent forwarding alias that you control — you decide when it is active and when it is deleted. You can also reply from the alias address so landlords see a consistent contact throughout your search. Disposable addresses break the conversation thread entirely.
 
 ### Do I need a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/) to use Alt-ID?
 

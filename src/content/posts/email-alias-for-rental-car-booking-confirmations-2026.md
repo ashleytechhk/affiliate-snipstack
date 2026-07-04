@@ -58,7 +58,7 @@ Alt-ID is Surfshark's dedicated [email alias](https://snipstack.io/email-alias-f
 
 What makes it strong for rental car use cases specifically: you can create and manage aliases from any device through the Surfshark app or browser extension. There is no platform lock-in. The alias count is effectively unlimited, which matters if you book frequently across multiple rental brands, airlines, and hotel platforms.
 
-The one limitation worth noting is that Alt-ID aliases cannot be used to send replies from the alias address. For booking confirmations — where you typically need to receive, not reply — this is almost never a problem. Any follow-up with the rental company's customer service goes through their contact page or phone number, not a reply-to-confirmation.
+The one limitation worth noting is that Alt-ID aliases cannot be used to send replies from the alias address. For booking confirmations — where you typically need to receive, not reply — this is almost never a problem. Any follow-up with the rental company's customer service goes through their contact page or [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/), not a reply-to-confirmation.
 
 Alt-ID becomes especially compelling if you already use Surfshark VPN. The combination of VPN (for public Wi-Fi at airports and rental counters) and [email alias](https://snipstack.io/email-alias-for-app-store-refund-request-correspondence-2026/) (for inbox protection) gives you layered travel privacy from a single subscription.
 
@@ -76,7 +76,7 @@ SimpleLogin supports replying from the alias address, which some users appreciat
 
 ### Firefox Relay
 
-Firefox Relay offers five free aliases and an upgraded plan at $3.99/month for unlimited aliases plus phone number masking. It is tightly integrated with Firefox browser, making alias creation convenient during checkout if Firefox is your browser of choice.
+Firefox Relay offers five free aliases and an upgraded plan at $3.99/month for unlimited aliases plus [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking. It is tightly integrated with Firefox browser, making alias creation convenient during checkout if Firefox is your browser of choice.
 
 Like Alt-ID, Relay aliases cannot be used to send replies. The free tier is limited enough that travelers who book more than five times per year will exhaust it quickly without upgrading to the paid plan.
 
@@ -123,11 +123,11 @@ Most cannot. The alias appears as a standard email address with no technical fla
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I need to contact the rental company after booking?**
 
-You reach the rental company through their customer service page or phone number — not by replying to the confirmation email. This is standard practice regardless of whether you used an alias, since confirmation emails from most large rental companies are sent from no-reply addresses anyway.
+You reach the rental company through their customer service page or [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) — not by replying to the confirmation email. This is standard practice regardless of whether you used an alias, since confirmation emails from most large rental companies are sent from no-reply addresses anyway.
 
 **Is Surfshark Alt-ID a standalone product or does it require the full VPN package?**
 
-Alt-ID is available as a standalone product and also as part of Surfshark One and Surfshark One+ bundles that include VPN and antivirus. For current pricing and plan options, check the details at the link below. [See current Alt-ID pricing here.](/blog/altid?sub=email-alias-for-rental-car-booking-confirmations-2026__faq)
+Alt-ID is available as a standalone product and also as part of [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)+ bundles that include VPN and antivirus. For current pricing and plan options, check the details at the link below. [See current Alt-ID pricing here.](/blog/altid?sub=email-alias-for-rental-car-booking-confirmations-2026__faq)
 
 **Should I create one alias per rental brand or one alias per booking?**
 

@@ -44,7 +44,7 @@ For Canadian shoppers specifically, there is an additional wall: many US platfor
 
 You have found the deal. You have filled the cart. Then the checkout screen asks for a US phone number to send a verification code — and your Canadian number comes back invalid.
 
-This is not a glitch. Several major US platforms actively screen out non-domestic numbers to enforce regional promotions, restrict cross-border purchasing, or comply with promotional terms limited to US customers. The workarounds most people try — borrowing a US friend's number, using a free public SMS service — are unreliable, frequently blocklisted, and offer zero privacy protection.
+This is not a glitch. Several major US platforms actively screen out non-domestic numbers to enforce regional promotions, restrict cross-border purchasing, or comply with promotional terms limited to US customers. The workarounds most people try — borrowing a US friend's number, using a free public SMS service — are unreliable, frequently blocklisted, and offer zero [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/).
 
 A virtual US number solves this permanently. You get a real, functional American phone number that receives SMS codes like any other. To the platform, you are simply another US customer completing standard verification. Your actual Canadian carrier details remain completely separate.
 
@@ -133,7 +133,7 @@ No — they are completely separate. Your Canadian carrier number is unchanged a
 
 You let the subscription lapse or remove the number from your account. Anyone who had that number can no longer reach you through it. This is the structural advantage over your real number — you can effectively turn it off. Try doing that with your actual mobile number.
 
-**Does Surfshark log SMS messages received through Alt-Number?**
+**[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) log SMS messages received through Alt-Number?**
 
 Surfshark's data practices are governed by their published privacy policy, which follows a no-logs approach across their product suite. SMS messages forwarded through Alt-Number are not retained or monetized. For users choosing Alt-Number specifically to avoid data exposure — on dating apps especially — this is a meaningful difference from the free alternatives.
 

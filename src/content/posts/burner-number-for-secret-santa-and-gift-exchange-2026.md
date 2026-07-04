@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 ![Burner number for Secret Santa and gift exchange coordination 2026](/og/burner-number-for-secret-santa-and-gift-exchange-2026.png)
 
-Romance scams cost Americans well over a billion dollars a year, according to the FTC's own tracking — and reports have been climbing, not falling. Here's the part that gets missed in most warnings about this: a large share of that money never started on a dating app at all. It started somewhere far more mundane — a group chat, a shared spreadsheet, a "friend of a friend" exchange where somebody asked for a phone number and nobody thought twice about handing it over.
+Romance scams cost Americans well over a billion dollars a year, according to the FTC's own tracking — and reports have been climbing, not falling. Here's the part that gets missed in most warnings about this: a large share of that money never started on a dating app at all. It started somewhere far more mundane — a group chat, a shared spreadsheet, a "friend of a friend" exchange where somebody asked for a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) and nobody thought twice about handing it over.
 
 A Secret Santa sign-up sheet is exactly that kind of exchange. So is a match on Hinge. The instinct that should kick in is the same one in both cases — and most people only develop it after the first time it goes wrong.
 
@@ -96,19 +96,19 @@ No — it's increasingly common. Gift exchange apps only need a working number t
 
 Yes, provided it's carrier-backed rather than a free VoIP number. Carrier-backed numbers pass verification checks on stricter platforms — including most major dating apps — and don't carry the "VoIP" flag that gets some free numbers rejected during signup. [Alt-Number is built for exactly this dual use](/blog/altnumber?sub=burner-number-for-secret-santa-and-gift-exchange-2026__faq).
 
-### What happens to my burner number after the gift exchange ends?
+### What happens to my [burner number](https://snipstack.io/burner-number-for-anonymous-rsvp-to-events-2026/) after the gift exchange ends?
 
 Nothing, unless you decide otherwise. Unlike free numbers that expire after weeks of inactivity, a paid number tied to an active subscription stays yours — so it's ready again next December, or you can hand the same number to your next dating match without setting anything up twice.
 
-### Is a burner number legal to use for signups and dating apps?
+### Is a [burner number](https://snipstack.io/burner-number-for-bumble-and-hinge-matches-2026/) legal to use for signups and dating apps?
 
-Yes. Secondary phone numbers are a mainstream privacy tool used for business lines, marketplace listings, dating, and exactly this kind of low-trust group coordination. Platforms only care that the number can receive a code — not that it's your primary line.
+Yes. Secondary [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s are a mainstream privacy tool used for business lines, marketplace listings, dating, and exactly this kind of low-trust group coordination. Platforms only care that the number can receive a code — not that it's your primary line.
 
 ### Can I use the same [burner number for](https://snipstack.io/burner-number-for-car-selling-on-autotrader-2026/) multiple gift exchanges and dating apps at once?
 
 You can, though most people prefer to keep dating separate from gift exchange logistics once conversations get personal. Alt-Number makes it easy to run one number for casual signups and add a second if you want a cleaner split — both live in the same app.
 
-### Does a burner number stop someone from finding my real identity?
+### Does a [burner number](https://snipstack.io/burner-number-for-craigslist-roommate-ads-2026/) stop someone from finding my real identity?
 
 It reduces the exposure significantly by keeping your real number out of the exchange entirely, but no tool can promise total anonymity — a determined person with enough other information could still connect the dots. The goal is removing the easiest, most careless path to your real number, not eliminating every possible one.
 

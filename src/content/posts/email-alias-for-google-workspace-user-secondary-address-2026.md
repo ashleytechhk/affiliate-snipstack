@@ -78,7 +78,7 @@ Alt-ID [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-singl
 
 ### No Admin Access Required
 
-You don't need to touch your Google Workspace admin console. Alt-ID operates entirely at the application level. You create aliases through the Alt-ID dashboard or browser extension, and forwarding is handled by Surfshark's servers. Your Workspace admin doesn't need to know it exists.
+You don't need to touch your Google Workspace admin console. Alt-ID operates entirely at the application level. You create aliases through the Alt-ID dashboard or [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/), and forwarding is handled by Surfshark's servers. Your Workspace admin doesn't need to know it exists.
 
 ### Unlimited Aliases, Generated on Demand
 
@@ -103,7 +103,7 @@ SimpleLogin is the other serious contender. It is open-source, has a free tier, 
 Where Alt-ID pulls ahead:
 
 - **Tracking pixel blocking** is a paid-only feature in SimpleLogin. It's included in Alt-ID by default.
-- **Bundled value**: Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)+ plans, which also include a VPN, antivirus, and data breach alerts. If you're comparing total cost, you're likely already paying for or considering a VPN — Alt-ID comes along for the ride.
+- **Bundled value**: Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)+ plans, which also include a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/), and data breach alerts. If you're comparing total cost, you're likely already paying for or considering a VPN — Alt-ID comes along for the ride.
 - **Simpler UX**: SimpleLogin is built for a technical audience. Alt-ID is built for people who want to solve the spam problem without becoming email infrastructure experts.
 
 If you're already a Surfshark subscriber or plan to become one, Alt-ID costs you nothing extra. That changes the math considerably.
@@ -127,7 +127,7 @@ Unless your entire workflow runs through Apple devices and iCloud, skip this opt
 
 ## Frequently Asked Questions
 
-### Does Surfshark Alt-ID work with Google Workspace inboxes?
+### [Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-ID work with Google Workspace inboxes?
 
 Yes. Alt-ID forwards alias mail to any email address you specify, including `@company.com` Google Workspace inboxes. Setup takes under two minutes and requires no changes to your Workspace admin settings.
 
@@ -151,7 +151,7 @@ With Surfshark Alt-ID, you can create unlimited aliases. There is no cap, which 
 
 ### Can I use Alt-ID if I'm not a Surfshark VPN subscriber?
 
-Alt-ID is included in Surfshark One and Surfshark One+ plans. You don't need to use the VPN to benefit from Alt-ID — but the bundle pricing makes subscribing to one plan the more practical choice versus buying a standalone alias tool.
+Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/)+ plans. You don't need to use the VPN to benefit from Alt-ID — but the bundle pricing makes subscribing to one plan the more practical choice versus buying a standalone alias tool.
 
 ---
 

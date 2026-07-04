@@ -8,7 +8,7 @@ tags: ["altnumber", "privacy", "review"]
 
 You matched with someone on Hinge. Three good conversations in, they ask for your number so you can move off the app. Maybe you relocated from Manchester to Dublin for work, or from Belfast to Cork for love, or you simply never got around to dropping your UK SIM — and the number sitting in your contacts app is the same one your bank texts your one-time codes to, the same one your mum has saved, the same one you've had since secondary school.
 
-UK fraud reporting body Action Fraud has logged more than £90 million a year in romance fraud losses in recent years, and a phone number is almost always the first real piece of identifying information a stranger asks for — long before any money changes hands. Once someone has your actual number, blocking them on the dating app does nothing. They still have it, forever, on their phone.
+UK fraud reporting body Action Fraud has logged more than £90 million a year in romance fraud losses in recent years, and a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) is almost always the first real piece of identifying information a stranger asks for — long before any money changes hands. Once someone has your actual number, blocking them on the dating app does nothing. They still have it, forever, on their phone.
 
 If you've moved across the Irish Sea and kept your UK number for banking, family, or work, you're carrying a specific version of this risk — and there's a specific fix for it.
 
@@ -34,7 +34,7 @@ There's a second, quieter cost too. Since Brexit ended reciprocal free-roaming a
 
 ## The Risk Explained: What a Stranger Can Actually Do With Your Real Number
 
-A phone number looks like a small thing to hand over. In practice it's a search key.
+A [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) looks like a small thing to hand over. In practice it's a search key.
 
 **Reverse lookup is instant.** Caller-ID apps like Truecaller can attach a name to an unknown number in seconds, often pulled from data that was never meant to be public.
 
@@ -109,13 +109,13 @@ Nothing. Alt-Number is a completely separate line that runs alongside your real 
 
 Yes. You can use [Alt-Number](/blog/altnumber?sub=virtual-number-for-uk-number-when-living-in-ireland-2026__faq) for any signup where you'd rather not hand out your real UK number — marketplace listings, short-term rentals, forums — not only matches. Many people run one dedicated number just for dating and keep it separate from everything else, similar to the approach in our [second number for texting guide](https://snipstack.io/get-a-second-number-for-texting-2026/).
 
-**Is it legal to give a match a virtual number instead of my real one?**
+**Is it legal to give a match a [virtual number](https://snipstack.io/virtual-number-to-stop-spam-calls-after-free-trial-2026/) instead of my real one?**
 
 Yes. Using a secondary number for privacy is a normal, legal practice — the same principle as an unlisted landline or a separate work mobile. The only legal issue would be using any number, real or virtual, for deception or fraud, which is illegal regardless of which number is involved.
 
-**If I move back to the UK, do I lose the virtual number?**
+**If I move back to the UK, do I lose the [virtual number](https://snipstack.io/virtual-number-for-receiving-uber-driver-messages-2026/)?**
 
-No. The virtual number is tied to your Surfshark account, not a physical location or SIM slot. Move back to the UK, to Belfast, or anywhere else and it keeps working exactly the same way — it was never tied to a location in the first place, which is the whole point.
+No. The [virtual number](https://snipstack.io/virtual-number-for-rover-pet-sitting-app-bookings-2026/) is tied to your Surfshark account, not a physical location or SIM slot. Move back to the UK, to Belfast, or anywhere else and it keeps working exactly the same way — it was never tied to a location in the first place, which is the whole point.
 
 ---
 

@@ -149,7 +149,7 @@ Any X email sent to that alias after deletion will bounce. X won't be able to re
 
 **Is this approach legal?**
 
-Using an [email alias for](https://snipstack.io/email-alias-for-discord-account-2026/) service signup is not illegal. You're choosing which forwarding address to give a service — the same way you might use a P.O. box instead of your home address. Some services' terms of service discourage disposable emails, but this applies mainly to known throwaway domains, not persistent forwarding aliases from legitimate providers.
+Using an [email alias for](https://snipstack.io/email-alias-for-discord-account-2026/) service signup is not illegal. You're choosing which forwarding address to give a service — the same way you might use a P.O. box instead of your home address. Some services' terms of service discourage [disposable email](https://snipstack.io/disposable-email-for-online-shopping-avoid-retargeting-2026/)s, but this applies mainly to known throwaway domains, not persistent forwarding aliases from legitimate providers.
 
 ---
 

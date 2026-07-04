@@ -97,7 +97,7 @@ Setup takes a few minutes. You pick a number with an Australian area code and it
 
 **Eliminating the dual-SIM hassle**: Some expats carry two physical SIM cards — one local, one Australian. A [virtual number](https://snipstack.io/virtual-number-to-protect-identity-after-data-breach-2026/) removes the hardware friction entirely. One phone, one SIM, and a virtual Australian number in an app.
 
-**Privacy from the very first message**: When you use a virtual number from the start, you never have to make the judgment call of "is this person trustworthy enough for my real number?" The virtual number is always what you share first, by default.
+**Privacy from the very first message**: When you use a [virtual number](https://snipstack.io/virtual-number-for-uk-number-when-living-in-ireland-2026/) from the start, you never have to make the judgment call of "is this person trustworthy enough for my real number?" The [virtual number](https://snipstack.io/virtual-number-for-church-group-leader-event-calls-2026/) is always what you share first, by default.
 
 ![Comparison of sharing a real number vs. a virtual number on dating apps — privacy, control, and peace of mind side by side](/og/virtual-number-for-australian-expat-receiving-local-sms-2026-inline-3.png)
 
@@ -109,15 +109,15 @@ Setup takes a few minutes. You pick a number with an Australian area code and it
 
 Yes. Alt-Number gives you a real Australian number that can receive SMS, including verification codes from Tinder, Hinge, Bumble, and similar platforms. It works regardless of which country you are currently in. [Get your virtual Australian number here.](/blog/altnumber?sub=virtual-number-for-australian-expat-receiving-local-sms-2026__faq)
 
-### If I deactivate my virtual number, can a match still contact me through it?
+### If I deactivate my [virtual number](https://snipstack.io/virtual-number-to-stop-spam-calls-after-free-trial-2026/), can a match still contact me through it?
 
 No. Once the number is deactivated or changed, any call or text to it simply fails. Your real number was never involved, so there is no fallback connection to you.
 
-### Will people know they are calling or texting a virtual number?
+### Will people know they are calling or texting a [virtual number](https://snipstack.io/virtual-number-for-receiving-uber-driver-messages-2026/)?
 
 No. From the recipient's perspective, your Alt-Number looks and behaves exactly like a standard Australian mobile number. There is no indicator that it is virtual.
 
-### Can I receive voice calls on the virtual number, not just SMS?
+### Can I receive voice calls on the [virtual number](https://snipstack.io/virtual-number-for-rover-pet-sitting-app-bookings-2026/), not just SMS?
 
 Yes. Surfshark Alt-Number supports both calls and SMS. You can speak with someone through the virtual number via the app without your actual SIM being involved at any point.
 

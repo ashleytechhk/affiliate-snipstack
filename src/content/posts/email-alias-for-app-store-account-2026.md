@@ -128,7 +128,7 @@ Services like Temp-Mail, Guerrilla Mail, and 10 Minute Mail give you a temporary
 
 An App Store account isn't a throwaway. You need the email for years — to recover your account, to receive 2FA codes, to track subscription renewals, to handle app purchase disputes. A disposable address that expires after an hour is a liability, not a feature.
 
-If you lose access to the forwarding address used to create your Apple ID, account recovery becomes significantly harder. Apple's account recovery process requires access to the email or [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) on record. Using a disposable email for an Apple ID is a reliable way to permanently lose access to your account, your app purchases, and your subscription history.
+If you lose access to the forwarding address used to create your Apple ID, account recovery becomes significantly harder. Apple's account recovery process requires access to the email or [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) on record. Using a [disposable email for](https://snipstack.io/disposable-email-for-online-shopping-avoid-retargeting-2026/) an Apple ID is a reliable way to permanently lose access to your account, your app purchases, and your subscription history.
 
 Disposable email services are covered in more detail in our [guide to using temporary email to stop spam](/temporary-email-stop-spam-2026/) — they work for burner signups, but not for accounts you actually need to maintain.
 

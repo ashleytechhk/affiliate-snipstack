@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-Tech support fraud was the single most-reported scam against Americans over 60 in 2023 — for the second year in a row. According to the FBI's Internet Crime Complaint Center (IC3), nearly 17,700 people over 60 reported a fake tech support scam that year, losing almost **$590 million** combined. Some victims lost their entire retirement savings. Some remortgaged their homes. A few lost everything they had.
+Tech support fraud was the single most-reported scam against Americans over 60 in 2023 — for the second year in a row. According to the FBI's Internet Crime Complaint Center (IC3), nearly 17,700 people over 60 reported a fake [tech support scam](https://snipstack.io/tech-support-scam-phone-call-identify-2026/) that year, losing almost **$590 million** combined. Some victims lost their entire retirement savings. Some remortgaged their homes. A few lost everything they had.
 
 It usually starts the same way: a loud alarm sound, a red warning screen, and a message claiming your computer is "infected" — with a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to call right now.
 
@@ -55,11 +55,11 @@ The entire scheme depends on one thing: getting you to act fast, before you have
 
 ## Warning Signs You're Looking at a Fake Alert
 
-Real security software never asks you to call a phone number. Use this table to check what is on your screen right now:
+Real security software never asks you to call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/). Use this table to check what is on your screen right now:
 
 | What You See | Real Alert or Fake Scam? |
 |---|---|
-| A phone number to call for "support" | Fake — real [antivirus](https://snipstack.io/vs-antivirus-2026/) never displays a phone number |
+| A [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) to call for "support" | Fake — real [antivirus](https://snipstack.io/vs-antivirus-2026/) never displays a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) |
 | A loud siren or voice recording plays automatically | Fake — designed to cause panic |
 | The browser or screen will not close normally | Fake — a scripted trick, not an actual system lock |
 | The message mentions your name, city, or ISP | Fake — scare tactics using public information |
