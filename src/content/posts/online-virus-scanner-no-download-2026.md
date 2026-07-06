@@ -190,7 +190,7 @@ If you are reading this because you are worried your computer might be infected,
 
 **Step 4 — Check one suspicious item with VirusTotal.** If you received a suspicious email attachment or are not sure about a link someone sent you, paste it at VirusTotal.com before you open or click it.
 
-**Step 5 — Add real-time protection.** A one-time scan leaves your computer unguarded the moment it finishes. After cleaning up any infections, install an antivirus tool that runs continuously so you do not have to repeat this process.
+**Step 5 — Add real-time protection.** A one-time scan leaves your computer unguarded the moment it finishes. After cleaning up any infections, install an [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ol that runs continuously so you do not have to repeat this process.
 
 **[Start with Surfshark Antivirus — 30-day money-back option](/blog/antivirus?sub=online-virus-scanner-no-download-2026__cta)**
 

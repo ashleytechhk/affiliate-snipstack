@@ -73,7 +73,7 @@ The limitations: real-time antivirus depth is reduced compared to the Windows cl
 
 ### McAfee Total Protection on Android
 
-McAfee's Android coverage is respectable. Its antivirus engine on Android has improved and independent lab results are broadly competitive. The VPN is basic — fine for occasional use but not recommended as a primary privacy tool. The main issue remains the interface: the Android app is visually cluttered, and important features (like Safe Browsing) are buried behind several taps. Users switching from a clean iOS or modern Android experience tend to find it dated.
+McAfee's Android coverage is respectable. Its antivirus engine on Android has improved and independent lab results are broadly competitive. The VPN is basic — fine for occasional use but not recommended as a primary privacy tool. The main issue remains the interface: the Android app is visually cluttered, and important features (like Safe Browsing) are buried behind several taps. Users [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) a clean iOS or modern Android experience tend to find it dated.
 
 ### Bitdefender Total Security on Android
 

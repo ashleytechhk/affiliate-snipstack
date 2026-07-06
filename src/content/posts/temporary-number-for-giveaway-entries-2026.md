@@ -142,7 +142,7 @@ Surfshark Alt Number draws from real carrier pools, not VOIP blocks. Giveaway en
 Yes, and this is actually the recommended approach. Using a single Alt Number across all non-trusted contexts keeps your exposure consolidated. If you ever want to retire the number, one action cuts off all contacts who have it — giveaway platforms, marketing lists, and any matches who were given that number. You then activate a new Alt Number and continue normally.
 
 **What happens if I win a giveaway — will I still receive the prize?**
-Yes. Alt Number receives calls and texts like a standard number. If a prize organizer calls or texts your Alt Number to notify you of a win, you receive it in the Surfshark app. You can call back or respond normally. There is no functional difference from the organizer's side.
+Yes. Alt Number receives calls and texts like a standard number. If a prize organizer calls or texts your [Alt Number to](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) notify you of a win, you receive it in the Surfshark app. You can call back or respond normally. There is no functional difference from the organizer's side.
 
 **Does Alt Number work outside the United States?**
 Yes. This is one of the meaningful advantages over Google Voice, which is US-only. Alt Number is available globally and lets you select numbers from multiple countries. If you are based outside the US, dating internationally, or traveling, you can still use a [temporary number for giveaway entries](https://snipstack.io/temporary-phone-number-for-verification-2026/) and for dating contacts without any geographic restriction.

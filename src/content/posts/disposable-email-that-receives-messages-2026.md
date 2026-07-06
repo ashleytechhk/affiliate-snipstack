@@ -58,7 +58,7 @@ For the alias setup below, you'll need:
 
 ---
 
-## Step-by-Step: Setting Up a Disposable Email That Actually Receives Messages
+## Step-by-Step: Setting Up a [Disposable Email](https://snipstack.io/disposable-email-for-vacation-rental-inquiry-form-2026/) That Actually Receives Messages
 
 ### Step 1 — Log In and Open Alt ID
 

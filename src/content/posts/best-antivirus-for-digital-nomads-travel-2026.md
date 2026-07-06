@@ -149,7 +149,7 @@ Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/
 
 ### Will running antivirus drain my laptop battery faster?
 
-Modern antivirus tools, including Surfshark, are designed to be lightweight. The background scanning process uses very little CPU or RAM during normal operation. Scans that run on file access are brief — a fraction of a second per file. Most users report no noticeable battery impact during typical workdays. Heavy full-system scans do use more resources, but these are scheduled and can be set to run overnight or when the laptop is plugged in.
+Modern [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols, including Surfshark, are designed to be lightweight. The background scanning process uses very little CPU or RAM during normal operation. Scans that run on file access are brief — a fraction of a second per file. Most users report no noticeable battery impact during typical workdays. Heavy full-system scans do use more resources, but these are scheduled and can be set to run overnight or when the laptop is plugged in.
 
 ### What if I connect to dozens of different networks in a week?
 

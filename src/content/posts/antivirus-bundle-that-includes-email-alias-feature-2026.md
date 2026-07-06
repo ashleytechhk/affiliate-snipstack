@@ -89,7 +89,7 @@ If your priority is specifically an antivirus bundle that includes an [email ali
 
 They're similar but not identical. A disposable address is often meant to be used once and discarded. An alias, like the one built into [Surfshark One's Alternative ID feature](/blog/one?sub=antivirus-bundle-that-includes-email-alias-feature-2026__faq), can be reused across multiple signups and turned off individually whenever you want, giving you more control over which alias is tied to which service.
 
-### Will switching from Norton or McAfee lose any protection?
+### Will [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton or McAfee lose any protection?
 
 No, provided the new bundle includes real-time malware scanning, which all three options in this comparison do. What changes is which extra tools come bundled in and how they're priced — the core antivirus engine coverage should not be a downgrade.
 

@@ -169,7 +169,7 @@ You do not need to wait until something goes wrong. Here is what you can do toda
 
 ### Does [Windows Defender](https://snipstack.io/windows-defender-download-2026/) protect against phishing?
 
-Windows Defender — the built-in antivirus on [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and 11 — does include some phishing protection through Microsoft SmartScreen, which checks websites and downloads against a list of known threats. It catches many phishing attempts, especially ones involving malware. But it has the same limitation as other antivirus tools: brand-new phishing sites that have not yet been identified can slip through. SmartScreen also works mainly in Microsoft Edge — if you use Chrome or Firefox, the protection level may differ.
+Windows Defender — the built-in antivirus on [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) and 11 — does include some phishing protection through Microsoft SmartScreen, which checks websites and downloads against a list of known threats. It catches many phishing attempts, especially ones involving malware. But it has the same limitation as other [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols: brand-new phishing sites that have not yet been identified can slip through. SmartScreen also works mainly in Microsoft Edge — if you use Chrome or Firefox, the protection level may differ.
 
 ### Can phishing attacks steal money directly from my bank account?
 

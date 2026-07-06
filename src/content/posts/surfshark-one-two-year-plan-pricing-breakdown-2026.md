@@ -116,7 +116,7 @@ To be fair about the trade-offs:
 
 **Long track record.** Norton and McAfee have been in the antivirus space for decades. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) is newer — it consistently tests well in third-party lab results (AV-TEST, AV-Comparatives), but it doesn't carry the same legacy reputation.
 
-For most users switching from Norton or McAfee purely because of cost and bloat frustration, none of these gaps are dealbreakers. If you specifically need LifeLock-style identity restoration or parental controls, factor that into your decision.
+For most users [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton or McAfee purely because of cost and bloat frustration, none of these gaps are dealbreakers. If you specifically need LifeLock-style identity restoration or parental controls, factor that into your decision.
 
 ---
 

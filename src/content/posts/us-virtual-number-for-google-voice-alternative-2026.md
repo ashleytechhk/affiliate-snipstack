@@ -135,7 +135,7 @@ The process is roughly the same across providers:
 5. Send a test message to confirm the number is active
 
 **For Alt-Number specifically:**
-- Open the Surfshark app and tap "Alt Number" in the navigation
+- Open the Surfshark app and tap "[Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/)" in the navigation
 - If you're on [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/), it's already included — tap to activate
 - Select a US area code from the available pool
 - The number is live immediately

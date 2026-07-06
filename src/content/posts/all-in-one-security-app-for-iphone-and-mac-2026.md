@@ -153,7 +153,7 @@ Yes. One [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparis
 
 Both services alert you when your credentials appear in known breach databases. Norton's LifeLock alerts (at higher tiers) include more identity restoration services. Surfshark Alert covers email, phone, credit cards, and ID documents with real-time notifications. For most users who want early warning without paying for full identity restoration insurance, Surfshark Alert is sufficient. **[See what Surfshark One includes](/blog/one?sub=all-in-one-security-app-for-iphone-and-mac-2026__faq)**
 
-### Will switching from Norton to Surfshark leave any gaps?
+### Will [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton to Surfshark leave any gaps?
 
 The main gap is if you currently use Norton's full LifeLock identity restoration service (available on their highest tier). [Surfshark One](https://snipstack.io/surfshark-one-bundle-christmas-deal-2026/)'s Alert feature monitors and notifies but does not include insurance or restoration support. If you are on Norton's base or mid-tier, you are not using LifeLock anyway — and [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) covers everything else you are actually using, at lower cost.
 

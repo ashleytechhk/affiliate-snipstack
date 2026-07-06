@@ -143,7 +143,7 @@ You would recover access through your registered email address using a verificat
 
 ### Will antivirus slow my computer down?
 
-Modern antivirus tools, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), are built to run with minimal impact on your device's performance. Scans happen in the background while you use your computer normally. You are unlikely to notice any slowdown.
+Modern [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols, including [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/), are built to run with minimal impact on your device's performance. Scans happen in the background while you use your computer normally. You are unlikely to notice any slowdown.
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) it cost, and is it worth it?
 

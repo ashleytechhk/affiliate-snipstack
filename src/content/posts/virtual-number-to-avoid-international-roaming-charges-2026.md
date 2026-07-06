@@ -61,7 +61,7 @@ Surfshark Alt-Number is a standalone product that gives you a [second phone numb
 Key features that matter for the online dating use case:
 
 - **Works over Wi-Fi and data** — no SIM interaction, no roaming charges triggered
-- **Separate from your Surfshark VPN subscription** — you can buy Alt-Number on its own
+- **Separate from your Surfshark [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/)** — you can buy Alt-Number on its own
 - **Usable for dating app verification** — most major dating platforms accept [virtual number](https://snipstack.io/virtual-number-for-church-group-leader-event-calls-2026/)s for SMS verification
 - **Call screening** — calls to your [virtual number](https://snipstack.io/virtual-number-to-stop-spam-calls-after-free-trial-2026/) show up in the Alt-Number app, not mixed into your regular phone calls
 
@@ -108,7 +108,7 @@ Yes — provided the texts are routed over data rather than through your carrier
 **Can I use the same [virtual number](https://snipstack.io/virtual-number-for-hinge-account-registration-2026/) across multiple countries?**
 Yes. Because the number works over data, it functions the same whether you are connected to Wi-Fi in one country or mobile data in another. Your number stays consistent regardless of where you physically are.
 
-**What happens to my matches if I cancel or change my [virtual number](https://snipstack.io/virtual-number-for-insurance-comparison-quote-2026/)?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my matches if I cancel or change my [virtual number](https://snipstack.io/virtual-number-for-insurance-comparison-quote-2026/)?**
 Any matches who have the old number lose the ability to reach you through it once the number is no longer active. Your real number is never exposed in this process — you simply stop being reachable at the [virtual number](https://snipstack.io/virtual-number-for-rideshare-driver-passenger-contact-2026/).
 
 **Is a [virtual number](https://snipstack.io/virtual-number-for-bank-account-verification-2026/) the same as a VPN?**

@@ -49,7 +49,7 @@ Every time you open a file, download a photo, or click a link, [antivirus softwa
 
 ### It Catches Phishing Attempts
 
-Phishing is when a criminal sends you a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) or website designed to look real — your bank, the IRS, Amazon, Medicare — to trick you into entering your password or credit card number. Good antivirus tools include web protection that flags these fake sites and warns you before you type anything.
+Phishing is when a criminal sends you a [fake email](https://snipstack.io/fake-email-sender-with-attachment-2026/) or website designed to look real — your bank, the IRS, Amazon, Medicare — to trick you into entering your password or credit card number. Good [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols include web protection that flags these fake sites and warns you before you type anything.
 
 ### It Alerts You to Suspicious Activity
 

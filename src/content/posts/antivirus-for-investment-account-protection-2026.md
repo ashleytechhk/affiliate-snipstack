@@ -140,7 +140,7 @@ A virus itself does not move money — but it can give criminals the tools to do
 
 ### Is free antivirus enough to protect my investment accounts?
 
-For basic everyday use it provides a baseline. But free tools generally lack the web protection layer that catches phishing pages — and phishing is the most common way seniors lose investment account credentials. If you are accessing brokerage, 401(k), or IRA accounts online, an antivirus tool that includes real-time web protection is worth the modest cost.
+For basic everyday use it provides a baseline. But free tools generally lack the web protection layer that catches phishing pages — and phishing is the most common way seniors lose investment account credentials. If you are accessing brokerage, 401(k), or IRA accounts online, an [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ol that includes real-time web protection is worth the modest cost.
 
 ### How do I know if my computer already has a keylogger on it?
 

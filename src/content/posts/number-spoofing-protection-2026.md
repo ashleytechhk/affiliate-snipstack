@@ -89,7 +89,7 @@ For dating app users, this means using a [second number for texting](https://sni
 
 **[Surfshark Alt Number](https://snipstack.io/blog/altnumber?sub=number-spoofing-protection-2026__mid)** provides a genuine US [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) that lives inside the Surfshark app. You use it exactly like a real number — give it to dates, use it for Marketplace listings, hand it to anyone you are not yet sure about. If that number gets spoofed, leaked, or becomes a problem, you replace it. Your personal line is never in the equation.
 
-This is different from a VOIP number or a cheap burner app. Alt Number issues real mobile number ranges that pass SMS verification on dating apps (Tinder, Hinge, Bumble) and do not show up as "VOIP" on reverse lookups — a detail that matters when a cautious match decides to check.
+This is different from a VOIP number or a cheap burner app. [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) issues real mobile number ranges that pass SMS verification on dating apps (Tinder, Hinge, Bumble) and do not show up as "VOIP" on reverse lookups — a detail that matters when a cautious match decides to check.
 
 ### Carrier-Level STIR/SHAKEN Registration
 

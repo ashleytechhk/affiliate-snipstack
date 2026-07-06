@@ -122,7 +122,7 @@ Lock in your choice before moving on — each setup flow below is specific to th
 **Alt Number**
 1. Open Surfshark app → tap "Alt Number" in the bottom menu
 2. If you're not subscribed, you'll see a plan comparison screen
-3. Activate through your [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plan or add Alt Number to your existing subscription
+3. Activate through your [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) plan or add [Alt Number to](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) your existing subscription
 4. Verify your real number when prompted
 
 ---

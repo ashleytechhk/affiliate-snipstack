@@ -164,7 +164,7 @@ The main reason older antivirus programs slow machines down is high memory and C
 
 **Q: My laptop runs Windows 7. Is it still protected?**
 
-Microsoft stopped releasing security updates for Windows 7 in January 2020. That means Windows 7 computers have years of known, unpatched security holes. A dedicated antivirus like Surfshark provides a critical layer of protection that fills those gaps, scanning files and blocking dangerous websites in real time. It is not a perfect substitute for upgrading to a newer operating system eventually, but it provides meaningful protection in the meantime. If you are on Windows 7, installing antivirus today is more urgent, not less.
+Microsoft stopped releasing security updates for Windows 7 in January 2020. That means Windows 7 computers have years of known, unpatched security holes. A dedicated antivirus like Surfshark provides a critical layer of protection that fills those gaps, scanning files and blocking dangerous websites in real time. It is not a perfect substitute for upgrading to a newer operating system eventually, but it provides meaningful protection in the meantime. If you are on Windows 7, installing [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)day is more urgent, not less.
 
 **Q: What if I get a pop-up saying my computer has a virus and I should call a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/)?**
 

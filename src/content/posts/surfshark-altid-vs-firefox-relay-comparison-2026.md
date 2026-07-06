@@ -38,7 +38,7 @@ The question is which tool does this better.
 | Identity masking (fake name, profile) | Yes | No |
 | Email forwarding | Yes | Yes |
 | Reply from alias | Yes | Paid plan only |
-| [Phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking | Via Surfshark Alt Number | No |
+| [Phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) masking | Via Surfshark [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) | No |
 | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) | Yes | Yes (Firefox only) |
 | Works on all browsers | Yes | Firefox-centric |
 | Standalone product | Yes | Mozilla account required |

@@ -86,7 +86,7 @@ Here is a clear breakdown of how protection works in a smart home context:
 
 The phone and tablet are the most critical layer. They are the devices seniors use most, they control the smart home apps, and they are the most common target for phishing and malware attacks.
 
-An antivirus tool like [Surfshark Antivirus](https://snipstack.io/vs-antivirus-2026/) sits on your phone and works silently: scanning for threats, blocking dangerous websites before you load them, and alerting you in plain language if something suspicious is detected.
+An [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ol like [Surfshark Antivirus](https://snipstack.io/vs-antivirus-2026/) sits on your phone and works silently: scanning for threats, blocking dangerous websites before you load them, and alerting you in plain language if something suspicious is detected.
 
 ---
 

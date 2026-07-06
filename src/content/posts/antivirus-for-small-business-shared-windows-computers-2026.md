@@ -78,7 +78,7 @@ The good news is that protecting your shared Windows computers does not require 
 
 ### Scheduled Full System Scans
 
-You can configure the antivirus to run a complete scan of each computer automatically — once a week, once a day, or on whatever schedule suits your business. You do not have to remember to start it manually or stop what you are doing.
+You can configure the [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/) run a complete scan of each computer automatically — once a week, once a day, or on whatever schedule suits your business. You do not have to remember to start it manually or stop what you are doing.
 
 ### [Protection Against](https://snipstack.io/protection-against-fileless-malware-attacks-2026/) Dangerous Websites and [Phishing Link](https://snipstack.io/phishing-link-checker-free-2026/)s
 

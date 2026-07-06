@@ -127,7 +127,7 @@ For a WFH user whose primary daily exposure comes from phishing, public Wi-Fi, a
 
 ---
 
-## Switching From Norton or McAfee: The Clean Way
+## [Switching From](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton or McAfee: The Clean Way
 
 If you are ready to stop paying the renewal tax, the transition is straightforward. Do it in this order:
 

@@ -88,7 +88,7 @@ The dashboard uses plain English. There are no graphs with numbers you do not un
 
 ### Real-Time Protection — Not Just Weekly Scans
 
-Some cheaper antivirus tools only scan your computer when you tell them to. That means a dangerous file could sit on your computer for days before being caught. Surfshark scans in real time — the moment a file arrives or a website loads, it is checked.
+Some cheaper [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols only scan your computer when you tell them to. That means a dangerous file could sit on your computer for days before being caught. Surfshark scans in real time — the moment a file arrives or a website loads, it is checked.
 
 ### Web Protection for Email Links
 

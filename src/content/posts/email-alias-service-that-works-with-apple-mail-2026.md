@@ -149,7 +149,7 @@ Hide My Email is included with any iCloud+ plan, which starts at around $1 per m
 
 **[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) to my Alt-ID aliases if I cancel my Surfshark subscription?**
 
-Alt-ID aliases are tied to an active Surfshark subscription. If you cancel, forwarding on your aliases stops. Before cancelling, update any accounts using Alt-ID aliases to a different address, or note which services need updating. This is a meaningful lock-in consideration to weigh before switching from Hide My Email.
+Alt-ID aliases are tied to an active Surfshark subscription. If you cancel, forwarding on your aliases stops. Before cancelling, update any accounts using Alt-ID aliases to a different address, or note which services need updating. This is a meaningful lock-in consideration to weigh before [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Hide My Email.
 
 **Can I use both Hide My Email and Alt-ID at the same time?**
 

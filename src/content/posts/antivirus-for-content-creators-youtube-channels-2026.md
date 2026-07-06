@@ -172,7 +172,7 @@ Not noticeably with modern tools like Surfshark. The real-time scanner runs in t
 
 **Q: Is there anything I should do immediately if I think my channel has already been compromised?**
 
-If you suspect your channel has been taken over: change your Google account password immediately from a device you trust, check your Google account's "Security" section for any devices or sessions you do not recognize and remove them, and contact YouTube support through the official Help Center. Then install antivirus to close the gap that allowed the attack. Speed matters — the faster you act, the better the chance of recovery.
+If you suspect your channel has been taken over: change your Google account password immediately from a device you trust, check your Google account's "Security" section for any devices or sessions you do not recognize and remove them, and contact YouTube support through the official Help Center. Then install [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/) close the gap that allowed the attack. Speed matters — the faster you act, the better the chance of recovery.
 
 **Q: [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) Surfshark Antivirus cost?**
 

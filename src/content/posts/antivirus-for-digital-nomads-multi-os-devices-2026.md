@@ -138,7 +138,7 @@ That is it. You do not need to be technically skilled. If you can download an ap
 
 This is one of the most common misconceptions in digital security. Macs are less frequently targeted than Windows computers, but they are not immune. Mac-specific malware has increased substantially in recent years, particularly adware and software that steals browser passwords. If you use your Mac for banking or email while traveling, antivirus is worth having.
 
-### My phone is just for calls and photos. Does it need antivirus too?
+### My phone is just for calls and photos. Does it need [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)o?
 
 Modern smartphones are full computers. They hold your banking apps, your email, your photos, and often saved passwords. Android phones in particular are vulnerable to malware delivered through fake apps and malicious links in text messages. Antivirus on your phone is not overkill — it is standard practice. [Learn more about mobile protection here.](/blog/antivirus?sub=antivirus-for-digital-nomads-multi-os-devices-2026__faq)
 

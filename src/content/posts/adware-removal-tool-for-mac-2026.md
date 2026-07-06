@@ -166,7 +166,7 @@ Adware is built to look legitimate. It typically arrives bundled inside a free p
 
 ### How do I know if a security warning on my Mac is real?
 
-Real security warnings come from apps already installed on your Mac — such as Apple's own notifications or your antivirus app. They never appear as browser pop-ups asking you to call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/). If a warning tells you to "Call Apple Support" or "Call Microsoft" with a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) on screen, it is a scam. Close the browser immediately (press **Command + Q** to force-quit) and run a scan with your antivirus tool to make sure nothing was installed.
+Real security warnings come from apps already installed on your Mac — such as Apple's own notifications or your antivirus app. They never appear as browser pop-ups asking you to call a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/). If a warning tells you to "Call Apple Support" or "Call Microsoft" with a [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) on screen, it is a scam. Close the browser immediately (press **Command + Q** to force-quit) and run a scan with your [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ol to make sure nothing was installed.
 
 ### Does [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) slow down a Mac?
 

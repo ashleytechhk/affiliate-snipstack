@@ -51,7 +51,7 @@ Here is what that looks like in practice:
 
 This is not a problem with your computer. It is a problem with the antivirus program taking too much.
 
-Modern antivirus tools — the ones built in the last few years — are designed differently. They use something called **low-priority scanning**, which tells the computer: "Run this scan in the background, but if the person needs to do something else, stop and let them go first." The result is a scan that runs quietly while you use the computer normally, or a scan that pauses when you start typing and resumes when you stop.
+Modern [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols — the ones built in the last few years — are designed differently. They use something called **low-priority scanning**, which tells the computer: "Run this scan in the background, but if the person needs to do something else, stop and let them go first." The result is a scan that runs quietly while you use the computer normally, or a scan that pauses when you start typing and resumes when you stop.
 
 When you are looking for an [antivirus with](https://snipstack.io/antivirus-with-breach-alert-notifications-2026/) scheduled scans, this is the feature to look for. It is sometimes called:
 

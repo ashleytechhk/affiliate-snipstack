@@ -103,7 +103,7 @@ Here is what it does in practical terms:
 
 **Malware removal** — If your Mac already has adware or unwanted software on it, a scan will find and remove it.
 
-**Breach alerts** — Some antivirus tools (including Surfshark) will notify you if your email address or password appears in a known data leak — meaning a company you have an account with was hacked and your details may be exposed.
+**Breach alerts** — Some [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols (including Surfshark) will notify you if your email address or password appears in a known data leak — meaning a company you have an account with was hacked and your details may be exposed.
 
 You do not need to understand how any of this works behind the scenes. Once it is installed, it runs automatically. You just use your Mac as normal.
 

@@ -90,7 +90,7 @@ Incoming calls ring through the Surfshark app. Text messages arrive in a separat
 
 ### Works for Garage Sale Listings and Dating Simultaneously
 
-This is worth stating plainly. You can give your Alt Number to a Marketplace buyer in the morning and to a new match in the evening. Same number, same protection, same clean break available if needed. You are not managing two separate services. One private number covers every context where you give a stranger a way to reach you.
+This is worth stating plainly. You can give your [Alt Number to](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) a Marketplace buyer in the morning and to a new match in the evening. Same number, same protection, same clean break available if needed. You are not managing two separate services. One private number covers every context where you give a stranger a way to reach you.
 
 ![Surfshark Alt Number app showing separate inbox and call routing](/og/private-number-for-garage-sale-listings-2026-inline-2.png)
 

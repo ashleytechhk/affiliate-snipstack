@@ -38,7 +38,7 @@ The fix is clean separation: one number for listings, a different number for you
 
 | Provider | Cost | Number Type | Verification Reliability | Easy to Disable | Best For |
 |---|---|---|---|---|---|
-| Alt Number | Bundled with Surfshark | Real mobile | High | Yes | Daters, ongoing privacy |
+| [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) | Bundled with Surfshark | Real mobile | High | Yes | Daters, ongoing privacy |
 | Google Voice | Free | VoIP | Medium | Medium | One-off listings, US only |
 | Hushed | From $2.99/mo | Real (mostly) | Medium-High | Yes | Short-term listing burners |
 | TextNow | Free (ads) | VoIP | Low-Medium | Medium | Budget, casual use |

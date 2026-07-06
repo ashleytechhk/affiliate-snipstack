@@ -44,7 +44,7 @@ This is not hypothetical. Cyberstalking complaints related to online dating have
 
 A virtual [second number](https://snipstack.io/second-number-for-whatsapp-business-account-2026/) puts a clean firewall between your dating life and your real identity. Here is what changes when you start using one:
 
-**Your real number stays invisible.** Matches, group chats, and app verifications all go to the alt number. Your actual SIM never enters the picture.
+**Your real number stays invisible.** Matches, group chats, and app verifications all go to the [alt number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/). Your actual SIM never enters the picture.
 
 **You control access.** If a situation becomes uncomfortable, you deactivate or replace the [second number](https://snipstack.io/second-number-for-test-driving-car-privacy-2026/). No phone carrier involvement, no drama. The unwanted contact simply hits a dead end.
 

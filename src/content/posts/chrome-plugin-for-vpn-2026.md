@@ -150,7 +150,7 @@ You should install it if:
 - You use public Wi-Fi regularly
 - You want ad and tracker blocking at the network request level, not just content filtering
 - You want to confirm your VPN-masked IP is showing correctly in the browser
-- You're an ExpressVPN subscriber who wants quick server switching from the toolbar
+- You're an ExpressVPN subscriber who wants quick server [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) the toolbar
 
 The extension is included in your existing subscription. There's no cost reason not to add it once you understand what it does.
 

@@ -128,7 +128,7 @@ If you or someone else enabled "remote access" or "cloud access" on your NAS at 
 
 ### Will antivirus slow down my home office computer?
 
-A well-built antivirus tool runs quietly in the background with minimal impact on everyday use. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is designed to scan continuously without slowing down normal tasks like browsing, email, or working in office documents. [Check current pricing and plans →](/blog/antivirus?sub=antivirus-for-home-office-with-nas-drive-protection-2026__faq)
+A well-built [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ol runs quietly in the background with minimal impact on everyday use. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) is designed to scan continuously without slowing down normal tasks like browsing, email, or working in office documents. [Check current pricing and plans →](/blog/antivirus?sub=antivirus-for-home-office-with-nas-drive-protection-2026__faq)
 
 ### What should I do if I think my NAS has already been hit by ransomware?
 

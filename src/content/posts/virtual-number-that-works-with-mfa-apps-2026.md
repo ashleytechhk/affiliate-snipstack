@@ -12,7 +12,7 @@ Your [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) 
 
 ![Virtual number for dating app privacy](/og/virtual-number-that-works-with-mfa-apps-2026.png)
 
-There is a direct fix. A [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) that works with MFA apps lets you use a real, functional [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) authentication without exposing your actual number. Surfshark Alt Number does exactly this — and it is the tool online daters should be using right now.
+There is a direct fix. A [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/) that works with MFA apps lets you use a real, functional [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) authentication without exposing your actual number. Surfshark [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) does exactly this — and it is the tool online daters should be using right now.
 
 [**Protect your real number on dating apps today**](/blog/altnumber?sub=virtual-number-that-works-with-mfa-apps-2026__above-fold)
 

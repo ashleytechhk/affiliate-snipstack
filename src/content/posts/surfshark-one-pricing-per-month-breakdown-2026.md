@@ -44,7 +44,7 @@ Surfshark offers three subscription tiers. Here is a direct look at their pricin
 
 *Prices shown are approximate and may vary by region and active promotions. Check the link below for the exact rate at checkout.*
 
-The tier most relevant to anyone switching from Norton or McAfee is **[Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)** — the mid-tier bundle. It includes the full VPN, Antivirus, Alert (data breach monitoring), and Search (private, ad-free search). That is four products for roughly what you might pay for a single legacy [antivirus renewal](https://snipstack.io/antivirus-renewal-discount-how-to-get-best-price-2026/).
+The tier most relevant to anyone [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton or McAfee is **[Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/)** — the mid-tier bundle. It includes the full VPN, Antivirus, Alert (data breach monitoring), and Search (private, ad-free search). That is four products for roughly what you might pay for a single legacy [antivirus renewal](https://snipstack.io/antivirus-renewal-discount-how-to-get-best-price-2026/).
 
 **One+ adds Incogni**, Surfshark's data removal service that sends opt-out requests to data broker databases on your behalf — useful if you want to scrub your personal information from the web proactively.
 

@@ -86,7 +86,7 @@ Not every [antivirus that](https://snipstack.io/antivirus-that-detects-zero-day-
 
 **Phishing link detection** — This is different from general web protection. It specifically checks links inside emails against up-to-date databases of known phishing sites.
 
-**Inbox alias or [email masking](https://snipstack.io/email-masking-service-review-2026/)** — This feature shields your real address from being harvested and sold. It is not included in most basic antivirus tools.
+**Inbox alias or [email masking](https://snipstack.io/email-masking-service-review-2026/)** — This feature shields your real address from being harvested and sold. It is not included in most basic [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols.
 
 **Breach monitoring for your email** — If your email address shows up in a known data breach, you should receive an immediate alert. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) includes this as standard.
 

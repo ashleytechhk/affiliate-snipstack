@@ -115,7 +115,7 @@ If antivirus detection accuracy is your single top priority and you do not need 
 
 ## Making the Switch: Practical Notes
 
-Switching from Norton or McAfee takes about 20 minutes:
+[Switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton or McAfee takes about 20 minutes:
 
 1. **Cancel the renewal first** — find the renewal date in your account settings and either cancel auto-renew or contact support. Both Norton and McAfee offer prorated refunds in some regions if you cancel mid-term; check their terms.
 2. **Uninstall the old app** — use the vendor's own uninstall tool rather than dragging to Trash. Norton ships a "Norton Remove and Reinstall" utility for macOS. McAfee has a similar tool. These remove kernel extensions and background daemons that a standard uninstall misses.

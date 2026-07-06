@@ -139,7 +139,7 @@ Yes. Casual games are actually more frequently targeted because they attract a l
 
 ### Will [antivirus software](https://snipstack.io/antivirus-software-with-parental-controls-2026/) slow down my games?
 
-Modern antivirus tools are designed to use very little of your computer's resources. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) in particular is optimized to run without affecting the performance of other apps. You should not notice any difference in how your games play. If your device is already running slowly before you install antivirus, the software itself is rarely the cause — more often, old age of the device or a hidden malware infection is responsible.
+Modern [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols are designed to use very little of your computer's resources. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) in particular is optimized to run without affecting the performance of other apps. You should not notice any difference in how your games play. If your device is already running slowly before you install antivirus, the software itself is rarely the cause — more often, old age of the device or a hidden malware infection is responsible.
 
 ### My grandchild says my computer's built-in protection is enough. Is that true?
 

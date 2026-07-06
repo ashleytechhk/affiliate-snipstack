@@ -57,7 +57,7 @@ Browser extensions — small add-ons that promise to "save coupons" or "block ad
 
 ### Webcam Hijacking
 
-Homeschooling often involves video calls with tutors or online classrooms. Malware can silently activate a webcam without any visible indicator. Antivirus tools with webcam protection block unauthorized access entirely.
+Homeschooling often involves video calls with tutors or online classrooms. Malware can silently activate a webcam without any visible indicator. [Antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols with webcam protection block unauthorized access entirely.
 
 ![Diagram showing the most common threats to a homeschool shared computer](/og/antivirus-for-homeschool-family-shared-computer-2026-inline-1.png)
 

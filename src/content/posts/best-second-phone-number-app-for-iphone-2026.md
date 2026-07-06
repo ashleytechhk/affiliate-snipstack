@@ -122,7 +122,7 @@ The online dating use case is the most urgent, but it is far from the only one:
 
 - **Marketplace selling** — listing items on [Facebook Marketplace](https://snipstack.io/facebook-marketplace-scam-how-to-avoid-2026/) or Craigslist exposes your number to strangers. A [second number](https://snipstack.io/second-number-for-etsy-seller-inquiries-2026/) keeps transactions at arm's length
 - **Gig work** — drivers, freelancers, and couriers who need to communicate with clients without giving out a personal number
-- **Social media sign-ups** — platforms that require phone verification can be given an alt number to reduce spam callbacks and account-linking
+- **Social media sign-ups** — platforms that require phone verification can be given an [alt number to](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) reduce spam callbacks and account-linking
 - **Business contacts** — if you [work from home](https://snipstack.io/work-from-home-job-scam-how-to-spot-2026/) and want to keep work calls separate from personal time without carrying two phones
 
 ---

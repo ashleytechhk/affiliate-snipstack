@@ -160,7 +160,7 @@ Yes. Surfshark Alert allows you to monitor multiple email addresses under a sing
 
 ### Is it worth switching if we are mid-Norton subscription?
 
-That depends on when you renew. If your Norton renewal is approaching and the year-two price has jumped significantly, that is the natural window to switch. Surfshark does not offer partial-year credits for switching from a competitor, but if you time the move around your existing renewal date, the transition is low-friction. The setup takes under ten minutes per device.
+That depends on when you renew. If your Norton renewal is approaching and the year-two price has jumped significantly, that is the natural window to switch. Surfshark does not offer partial-year credits for [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) a competitor, but if you time the move around your existing renewal date, the transition is low-friction. The setup takes under ten minutes per device.
 
 ---
 

@@ -184,7 +184,7 @@ For pure throwaway use — one-time signups, gated downloads — yes. The risk i
 **Can websites detect Email on Deck addresses?**
 Many can, yes. Sites that care about spam signups maintain domain blocklists. Email on Deck rotates domains, but you will encounter rejections on major platforms. If a site blocks it, a persistent alias from a service like [Surfshark Alt ID](/blog/surfshark?sub=how-email-on-deck-2026__faq) is less likely to be flagged because aliases use custom domains that do not appear on public blocklists.
 
-**What is the difference between a disposable email and an [email alias](https://snipstack.io/email-alias-sign-2026/)?**
+**What is the difference between a [disposable email](https://snipstack.io/disposable-email-for-vacation-rental-inquiry-form-2026/) and an [email alias](https://snipstack.io/email-alias-sign-2026/)?**
 A disposable email is temporary — it expires and disappears. An [email alias](https://snipstack.io/email-alias-generator-2026/) is a persistent forwarding address: emails sent to it land in your real inbox, but the sender never sees your real address. Aliases work for long-term accounts; disposable addresses do not.
 
 **[Does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt ID work with any email provider?**

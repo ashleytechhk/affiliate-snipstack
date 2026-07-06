@@ -62,7 +62,7 @@ A dedicated [second phone number](https://snipstack.io/get-a-second-number-for-t
 
 Not every [second number app](https://snipstack.io/second-phone-number-app-free-2026/) is built for long-term professional use. Here's how the main options stack up for Airbnb hosting specifically.
 
-### Surfshark Alt Number
+### Surfshark [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/)
 
 **[Alt Number](https://snipstack.io/blog/altnumber?sub=second-phone-number-for-airbnb-host-2026__mid)** is the option built for exactly this use case. It issues a real US or UK number — not a recycled VOIP line — that you keep as a permanent hosting contact. Guests can call and text it. You receive everything through the Surfshark app. When you're done with a guest or need a fresh start, you manage it from the app.
 

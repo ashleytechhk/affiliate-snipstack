@@ -33,7 +33,7 @@ The consequences:
 - **Identity linkage.** Marketing profiles built on your email can follow you across platforms.
 - **Phishing surface.** More companies holding your real address means more breach exposure.
 
-A disposable email address breaks this chain entirely. You hand over something that looks legitimate enough to pass validation, but routes nowhere near your real life.
+A [disposable email](https://snipstack.io/disposable-email-for-vacation-rental-inquiry-form-2026/) address breaks this chain entirely. You hand over something that looks legitimate enough to pass validation, but routes nowhere near your real life.
 
 ---
 

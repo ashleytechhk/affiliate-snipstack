@@ -135,7 +135,7 @@ If you're comparing Norton's $30 intro offer to Surfshark's $55 two-year plan, t
 
 Whichever suite you choose, a clean install matters. Running two antivirus engines simultaneously causes conflicts, false positives, and performance issues.
 
-**If switching from Norton or McAfee:**
+**If [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton or McAfee:**
 
 1. Export any saved passwords from Norton/McAfee's password manager first — don't lose credentials in the transition
 2. Download the official removal tool (Norton has `NRnR.exe`; McAfee has the MCPR tool) — these remove AV drivers that standard uninstalls leave behind

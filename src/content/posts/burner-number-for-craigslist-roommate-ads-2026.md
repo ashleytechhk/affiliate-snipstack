@@ -16,7 +16,7 @@ If you are hunting for a roommate, or using a platform like Craigslist for any r
 
 ## Quick Verdict
 
-A dedicated [second number](https://snipstack.io/second-number-for-senior-parents-calling-from-abroad-2026/) — a [burner number](https://snipstack.io/burner-number-for-car-selling-on-autotrader-2026/) — is the fastest, cheapest way to shield your real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) when posting on Craigslist. Surfshark's **Alt Number** gives you a real, working [second number](https://snipstack.io/second-number-to-avoid-spam-after-renovation-quote-2026/) that rings your existing phone, lets you text back, and can be dropped the moment things get weird. Setup takes under three minutes. If you skip this step, your number is public the moment you hit "post."
+A dedicated [second number](https://snipstack.io/second-number-for-senior-parents-calling-from-abroad-2026/) — a [burner number](https://snipstack.io/burner-number-for-car-selling-on-autotrader-2026/) — is the fastest, cheapest way to shield your real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) when posting on Craigslist. Surfshark's **[Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/)** gives you a real, working [second number](https://snipstack.io/second-number-to-avoid-spam-after-renovation-quote-2026/) that rings your existing phone, lets you text back, and can be dropped the moment things get weird. Setup takes under three minutes. If you skip this step, your number is public the moment you hit "post."
 
 [Get a burner number with Surfshark Alt Number](/blog/altnumber?sub=burner-number-for-craigslist-roommate-ads-2026__above-fold)
 

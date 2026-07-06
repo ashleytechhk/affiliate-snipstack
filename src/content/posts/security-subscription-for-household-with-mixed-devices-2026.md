@@ -156,7 +156,7 @@ Surfshark Alert scans for breached email addresses, passwords, credit card numbe
 
 **[Learn more about Surfshark One's features →](/blog/one?sub=security-subscription-for-household-with-mixed-devices-2026__faq)**
 
-### Is switching from Norton or McAfee complicated?
+### Is [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton or McAfee complicated?
 
 Not significantly. You install Surfshark's apps, activate your account, and then uninstall the old software using your operating system's standard uninstall process. Norton and McAfee both have dedicated removal tools (Norton Remove and Reinstall, McAfee Consumer Product Removal) that clean up leftover files — use those after uninstalling through the standard method. The Surfshark app will detect any remaining conflicts on first launch.
 

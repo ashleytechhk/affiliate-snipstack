@@ -98,7 +98,7 @@ Setup takes under five minutes:
 3. Download the app and activate your number.
 4. Start using it immediately — for new client bookings and for dating app conversations that move to text.
 
-Alt-Number is available as a standalone product or bundled within [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/), which also includes a VPN, antivirus protection, and data breach monitoring. The bundle price makes it a practical choice if you want broader privacy coverage alongside the number protection.
+Alt-Number is available as a standalone product or bundled within [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/), which also includes a VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/) protection, and data breach monitoring. The bundle price makes it a practical choice if you want broader privacy coverage alongside the number protection.
 
 [Start protecting your real number today &rarr;](/blog/altnumber?sub=virtual-number-for-house-cleaner-client-communication-2026__cta)
 

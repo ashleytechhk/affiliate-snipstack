@@ -124,7 +124,7 @@ It depends on the TV. Surfshark's VPN app installs natively on Amazon Fire TV an
 
 Yes. Because [Surfshark One](https://snipstack.io/surfshark-one-for-parents-monitoring-teen-phone-2026/) doesn't cap device count, and its VPN can be configured at the router level, one subscription can realistically cover every device connected to your apartment's Wi-Fi — phone, laptop, TV, streaming stick, and smart speaker included.
 
-### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s antivirus good enough after switching from Norton?
+### [Is Surfshark One](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s antivirus good enough after [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton?
 
 For everyday threats — phishing links, malware downloads, malicious attachments — yes. It's built on a real-time scanning engine tested by independent labs. It's lighter on system resources than Norton and runs with far fewer interruptions. **[Check current plans and coverage →](/blog/one?sub=security-bundle-for-apartment-with-smart-tv-setup-2026__faq)**
 

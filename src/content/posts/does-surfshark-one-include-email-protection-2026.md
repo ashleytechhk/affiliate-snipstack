@@ -25,7 +25,7 @@ Yes, [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) i
 - **Alert** monitors your email addresses against known data breach databases and alerts you the moment your address appears in a new leak.
 - **Alt-ID** generates disposable [email aliases](https://snipstack.io/email-alias-generator-2026/) that forward to your real inbox, so you can sign up for services without exposing your actual address.
 
-What it does not include: an encrypted email client, server-side attachment scanning, or spam filtering at the inbox level. If you are switching from Norton because of bloatware and price creep — not because you needed a mailbox product — [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) gives you meaningfully stronger email protection than you had before.
+What it does not include: an encrypted email client, server-side attachment scanning, or spam filtering at the inbox level. If you are [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton because of bloatware and price creep — not because you needed a mailbox product — [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) gives you meaningfully stronger email protection than you had before.
 
 ---
 

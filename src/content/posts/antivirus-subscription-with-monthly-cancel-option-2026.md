@@ -43,7 +43,7 @@ Think of [antivirus software](https://snipstack.io/antivirus-software-with-paren
 
 When it spots something dangerous — a virus hiding inside a downloaded file, a website designed to steal your passwords, or software trying to spy on what you type — it stops it before it can do any harm and alerts you immediately.
 
-Modern antivirus tools handle threats you have probably heard of:
+Modern [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols handle threats you have probably heard of:
 
 - **Viruses** — programs that damage your files or slow your computer to a crawl
 - **Malware** — broad term for any malicious software, including spyware that watches your screen

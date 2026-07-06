@@ -10,7 +10,7 @@ In 2023, the FTC received over 89,000 reports of stalking and harassment that or
 
 You hand over ten digits. A motivated person runs a reverse lookup. In under a minute they have your full name, your home address, your linked social profiles — and sometimes a photo of your front door pulled from a real-estate listing. Your number is not just a way to reach you. It is a thread that, if pulled, unravels your identity.
 
-Two tools promise to solve this: Google Voice and Surfshark Alt Number. They both give you a [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) to hand out on dates. But in 2026, one of them keeps you genuinely private. The other keeps you private from everyone except the largest data company on the planet.
+Two tools promise to solve this: Google Voice and Surfshark [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/). They both give you a [second number](https://snipstack.io/second-number-with-wifi-calling-support-2026/) to hand out on dates. But in 2026, one of them keeps you genuinely private. The other keeps you private from everyone except the largest data company on the planet.
 
 ![Surfshark Alt Number vs Google Voice — which protects your dating privacy?](/og/surfshark-altnumber-vs-google-voice-2026.png)
 

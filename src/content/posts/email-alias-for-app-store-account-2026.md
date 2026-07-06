@@ -130,7 +130,7 @@ An App Store account isn't a throwaway. You need the email for years — to reco
 
 If you lose access to the forwarding address used to create your Apple ID, account recovery becomes significantly harder. Apple's account recovery process requires access to the email or [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) on record. Using a [disposable email for](https://snipstack.io/disposable-email-for-online-shopping-avoid-retargeting-2026/) an Apple ID is a reliable way to permanently lose access to your account, your app purchases, and your subscription history.
 
-Disposable email services are covered in more detail in our [guide to using temporary email to stop spam](/temporary-email-stop-spam-2026/) — they work for burner signups, but not for accounts you actually need to maintain.
+[Disposable email](https://snipstack.io/disposable-email-for-vacation-rental-inquiry-form-2026/) services are covered in more detail in our [guide to using temporary email to stop spam](/temporary-email-stop-spam-2026/) — they work for burner signups, but not for accounts you actually need to maintain.
 
 ![Side-by-side comparison panel: Hide My Email on Apple device vs Alt-ID dashboard on browser](/og/email-alias-for-app-store-account-2026-inline-2.png)
 

@@ -124,7 +124,7 @@ You do not need to be technical to stay safe. Follow these steps in order:
 
 **Step 4:** Use a unique, strong password for your tax software account. A password manager can help you keep track without memorizing everything.
 
-**Step 5:** If you work from anywhere outside your home — a library, a family member's house, a coffee shop — use a VPN in addition to antivirus to protect your connection.
+**Step 5:** If you work from anywhere outside your home — a library, a family member's house, a coffee shop — use a VPN in addition to [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/) protect your connection.
 
 ---
 

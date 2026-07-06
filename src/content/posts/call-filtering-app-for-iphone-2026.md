@@ -167,7 +167,7 @@ You block their number in the Surfshark app. If the situation is more serious, y
 No. Alt Number operates independently from the VPN. You do not need to be connected to a VPN server to make calls or receive texts through your Alt Number. If broader privacy — including your network traffic — is a concern, running the VPN alongside Alt Number provides additional coverage, but the number feature works on its own.
 
 **Is my real iPhone number ever visible to matches when I use Alt Number?**
-No. Calls and texts made from your Alt Number show the Alt Number to the other person, not your real iPhone number. Your real number is not involved in the communication at any point.
+No. Calls and texts made from your Alt Number show the [Alt Number to](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) the other person, not your real iPhone number. Your real number is not involved in the communication at any point.
 
 ---
 

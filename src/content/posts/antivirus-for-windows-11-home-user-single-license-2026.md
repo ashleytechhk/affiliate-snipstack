@@ -91,7 +91,7 @@ Before you even land on a fake bank page, good [antivirus software](https://snip
 
 ### Webcam and Microphone Protection
 
-Modern malware can secretly activate your webcam or microphone. Antivirus tools that block unauthorized access give you an extra layer of peace of mind.
+Modern malware can secretly activate your webcam or microphone. [Antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/)ols that block unauthorized access give you an extra layer of peace of mind.
 
 ### Automatic Updates
 

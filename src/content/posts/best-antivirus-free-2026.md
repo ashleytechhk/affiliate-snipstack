@@ -56,7 +56,7 @@ If you want extra features beyond what Windows Defender provides — like a Wi-F
 6. When asked about optional extras, feel free to uncheck anything you do not want.
 7. Once installed, Avast will run a first scan automatically.
 
-**A note of caution:** Avast Free shows advertisements for its paid version. This is normal — simply dismiss them. You do not need to buy anything for the antivirus to work.
+**A note of caution:** Avast Free shows advertisements for its paid version. This is normal — simply dismiss them. You do not need to buy anything for the [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/) work.
 
 **Who this is best for:** Windows users who want an extra layer of checking, particularly around their home network.
 

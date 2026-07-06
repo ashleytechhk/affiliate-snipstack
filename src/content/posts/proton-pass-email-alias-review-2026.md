@@ -141,7 +141,7 @@ Some services block known disposable-address domains (common with streaming plat
 **How many [email alias](https://snipstack.io/email-alias-with-custom-domain-free-2026/)es do I actually need?**
 Most people need five to ten. A practical starting set: one for shopping/e-commerce, one for newsletters, one for free trials, one for forums and social platforms, one for work-related signups. If you want forensic-level tracking (knowing the exact service that leaked your data), create one alias per service — Alt ID's unlimited approach makes that practical.
 
-**Is it worth switching from Proton Pass just for Alt ID?**
+**Is it worth [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Proton Pass just for Alt ID?**
 If you're already a satisfied Proton Pass user and your spam problem is mild, no — the alias feature in Proton Pass is good enough for preventative use. If your inbox is already a war zone and you want the full defensive stack (alias + VPN + data removal), Alt ID's bundle provides more coverage in a single subscription. [See current Alt ID pricing →](/blog/altid?sub=proton-pass-email-alias-review-2026__faq)
 
 ---

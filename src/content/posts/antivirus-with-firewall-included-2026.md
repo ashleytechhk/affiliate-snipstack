@@ -68,7 +68,7 @@ This matters especially if you have a laptop you ever take outside your home. Th
 
 ### A firewall without antivirus
 
-A firewall blocks things from getting in, but viruses do not only arrive through internet connections. They also arrive through email attachments, USB drives, downloaded files, and links you click. Once a virus is inside — past the firewall — you need the antivirus to find and remove it. A firewall alone cannot do that.
+A firewall blocks things from getting in, but viruses do not only arrive through internet connections. They also arrive through email attachments, USB drives, downloaded files, and links you click. Once a virus is inside — past the firewall — you need the [antivirus to](https://snipstack.io/antivirus-to-block-malicious-ads-on-kids-browser-2026/) find and remove it. A firewall alone cannot do that.
 
 ### The gap that scammers exploit
 

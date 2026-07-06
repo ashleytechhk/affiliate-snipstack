@@ -53,7 +53,7 @@ For Windows users in particular, Bitdefender Total Security delivers a complete 
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) added its antivirus component in 2022 and has steadily improved it. The engine scans for malware, spyware, and adware in real time, and independent evaluations have placed it in a competitive — if not class-leading — position relative to the established names. Where Surfshark's antivirus matters most is what it does not do: it does not slow your system down.
 
-If you are switching from Norton, which is notorious for background processes that inflate startup times and constantly interrupt with upsell pop-ups, Surfshark's lighter footprint is a welcome reset. The antivirus covers Windows and macOS for real-time protection, with on-demand scanning available on Android. It is not the most battle-hardened engine on the market, but it is genuinely capable — and it is paired with tools that Bitdefender simply does not include at the same price.
+If you are [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) Norton, which is notorious for background processes that inflate startup times and constantly interrupt with upsell pop-ups, Surfshark's lighter footprint is a welcome reset. The antivirus covers Windows and macOS for real-time protection, with on-demand scanning available on Android. It is not the most battle-hardened engine on the market, but it is genuinely capable — and it is paired with tools that Bitdefender simply does not include at the same price.
 
 ![Surfshark One feature breakdown and interface walkthrough](/og/surfshark-one-vs-bitdefender-total-security-2026-inline-1.png)
 

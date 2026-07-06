@@ -150,7 +150,7 @@ Yes. A VPN works correctly on Starlink as long as it uses a protocol designed fo
 
 ### Does Starlink's CGNAT break VPN connections?
 
-CGNAT does not break WireGuard or UDP-based VPNs. It blocks incoming connections and breaks any feature that requires a dedicated public IP — but outbound VPN tunnels initiated by your device work correctly through CGNAT. If your VPN fails to connect on Starlink, switching from OpenVPN TCP to WireGuard or OpenVPN UDP usually resolves it.
+CGNAT does not break WireGuard or UDP-based VPNs. It blocks incoming connections and breaks any feature that requires a dedicated public IP — but outbound VPN tunnels initiated by your device work correctly through CGNAT. If your VPN fails to connect on Starlink, [switching from](https://snipstack.io/switching-from-mcafee-to-all-in-one-privacy-suite-2026/) OpenVPN TCP to WireGuard or OpenVPN UDP usually resolves it.
 
 ### Will a VPN slow down my Starlink speeds noticeably?
 
