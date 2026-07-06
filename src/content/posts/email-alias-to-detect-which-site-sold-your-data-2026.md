@@ -8,7 +8,7 @@ tags: ["altid", "privacy", "review"]
 
 Fifty-plus spam emails a day isn't random bad luck — it's a paper trail. Somewhere in the last few months you filled out a form, signed up for a free trial, or handed your email to a company that later sold it, leased it, or leaked it in a breach. The problem is you don't know which one. Your inbox gets louder every week, and unsubscribing does nothing because the sender keeps changing.
 
-The fix isn't a better spam filter — it's an email alias system built to answer one specific question: which site handed your address to a data broker? Not every alias method actually answers that question. Some just hide your address; only one type reliably tells you who sold it.
+The fix isn't a better spam filter — it's an [email alias](https://snipstack.io/email-alias-for-avoiding-re-marketing-after-cart-abandonment-2026/) system built to answer one specific question: which site handed your address to a data broker? Not every alias method actually answers that question. Some just hide your address; only one type reliably tells you who sold it.
 
 ![Hero: comparing email alias methods for detecting which site sold your data](/og/email-alias-to-detect-which-site-sold-your-data-2026.png)
 

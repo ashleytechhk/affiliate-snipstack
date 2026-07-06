@@ -24,7 +24,7 @@ Multi-hop VPN (double encryption) routes your traffic through two separate VPN s
 
 ## What Does "Multi-Hop" Actually Mean?
 
-A standard VPN works like this: your device connects to a single VPN server, which then forwards your traffic to the website or streaming service. The server masks your real IP address and encrypts the data in transit.
+A standard VPN works like this: your device connects to a [single VPN](https://snipstack.io/single-vpn-plan-covering-every-device-in-home-2026/) server, which then forwards your traffic to the website or streaming service. The server masks your real IP address and encrypts the data in transit.
 
 Multi-hop — also called double VPN — adds a second server into that chain:
 

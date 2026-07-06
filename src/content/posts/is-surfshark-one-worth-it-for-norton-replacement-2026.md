@@ -162,7 +162,7 @@ Independent performance tests show [Surfshark Antivirus](https://snipstack.io/su
 
 ### [Does Surfshark One](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) protect against phishing and ransomware?
 
-Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) includes real-time protection that flags malicious URLs, phishing attempts, and ransomware behavior. The VPN also adds a layer of network-level protection when you are on public Wi-Fi, reducing exposure to man-in-the-middle attacks.
+Yes. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) includes real-time protection that flags [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s, phishing attempts, and ransomware behavior. The VPN also adds a layer of network-level protection when you are on public Wi-Fi, reducing exposure to man-in-the-middle attacks.
 
 ---
 

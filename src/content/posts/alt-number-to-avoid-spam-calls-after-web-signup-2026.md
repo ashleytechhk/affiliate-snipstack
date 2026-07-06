@@ -24,15 +24,15 @@ That's not bad luck. That's a signup form doing exactly what it was built to do 
 
 ## How Your Number Gets Harvested at Signup
 
-Most dating platforms require a phone number before you can even see your first match. Officially, it's framed as an anti-bot measure — proving you're a real person, not a script running a thousand fake accounts. In practice, that number rarely stays confined to verification.
+Most dating platforms require a [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) before you can even see your first match. Officially, it's framed as an anti-bot measure — proving you're a real person, not a script running a thousand fake accounts. In practice, that number rarely stays confined to verification.
 
 Here's the path it usually takes:
 
 **It gets stored as a permanent account field**, not deleted once the SMS code is confirmed — it persists for as long as your account exists, often longer than you think.
 
-**It gets shared with "trusted partners."** Most dating app privacy policies broadly permit data sharing with advertising networks, analytics vendors, and marketing affiliates — and a phone number is one of the most valuable fields in that record, since unlike an email address, it can't be changed with one click.
+**It gets shared with "trusted partners."** Most dating app privacy policies broadly permit data sharing with advertising networks, analytics vendors, and marketing affiliates — and a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is one of the most valuable fields in that record, since unlike an email address, it can't be changed with one click.
 
-**It gets swept up in breaches.** Dating platforms are frequent breach targets because the data is so rich — names, locations, preferences, and phone numbers bundled together. Once that record leaks, your number circulates on lists that robocall operations buy in bulk.
+**It gets swept up in breaches.** Dating platforms are frequent breach targets because the data is so rich — names, locations, preferences, and [phone number](https://snipstack.io/phone-number-alias-for-work-2026/)s bundled together. Once that record leaks, your number circulates on lists that robocall operations buy in bulk.
 
 **It gets sold to lead-gen operations.** Spam calls weeks after a signup often trace back not to the platform itself but to a marketing partner several steps removed, who bought a "verified mobile leads" list that included your record.
 
@@ -93,7 +93,7 @@ Spam-blocking apps and Alt-Number solve different problems, and the difference m
 
 - **Call blockers act after exposure.** They filter numbers already flagged as spam — your real number has already leaked before the blocker does anything.
 - **Alt-Number prevents the exposure.** The number a data broker ends up holding was never your real one, so there's nothing for the spam pipeline to attach to your identity.
-- **Bundled value.** Alt-Number comes as part of Surfshark's privacy suite alongside a VPN, so if you already use Surfshark, adding this layer costs little extra.
+- **Bundled value.** Alt-Number comes as part of Surfshark's [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) alongside a VPN, so if you already use Surfshark, adding this layer costs little extra.
 
 If you're only trying to silence calls you're already getting, a blocker helps. If you want to stop the next signup from creating a new spam source, Alt-Number is the tool for that job.
 
@@ -117,7 +117,7 @@ Yes. Calls and texts sent to the Alt-Number route through the Surfshark app to y
 
 You can still change the number tied to your account in most apps' settings. Replace it with an [Alt-Number](/blog/altnumber?sub=alt-number-to-avoid-spam-calls-after-web-signup-2026__faq) going forward, and going forward the platform (and anything it shares data with) only has the new number. It doesn't erase a number that's already circulating on lists, but it stops adding to the problem.
 
-### Is using an Alt-Number for dating app signup against any platform's terms?
+### [Is using an](https://snipstack.io/is-using-an-ad-blocker-legal-2026/) Alt-Number for dating app signup against any platform's terms?
 
 No. Secondary phone numbers are a routine privacy tool used for business lines, marketplace listings, and two-factor authentication backups, among other things. Dating platforms only need the number to receive an SMS code — they have no requirement that it be your only or primary line.
 

@@ -86,7 +86,7 @@ Once it's on, CleanWeb filters Reddit's ad-serving requests at the network level
 3. Toggle **CleanWeb** on
 4. Connect to a server, or use CleanWeb on its own for DNS-only filtering
 
-On Android, Surfshark uses the device's single VPN slot to filter traffic system-wide, meaning the Reddit app, your browser, and every other installed app all get the same ad filtering simultaneously — with no root access required.
+On Android, Surfshark uses the device's [single VPN](https://snipstack.io/single-vpn-plan-covering-every-device-in-home-2026/) slot to filter traffic system-wide, meaning the Reddit app, your browser, and every other installed app all get the same ad filtering simultaneously — with no root access required.
 
 ### A Note on Third-Party Reddit Apps
 

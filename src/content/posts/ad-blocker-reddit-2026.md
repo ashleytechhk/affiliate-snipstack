@@ -50,7 +50,7 @@ Same ceiling as uBlock Origin: browser only. r/privacy discussions frequently no
 
 The filter list customization is exceptional. You can target social trackers, [YouTube ad](https://snipstack.io/ad-blocker-for-android-2026/) domains, regional ad networks, and NSFW content separately. The real-time filtering log shows every blocked request, which power users in r/Android appreciate for diagnosing false positives.
 
-The Play Store free version is browser-only and much less capable than the sideloaded paid version — a distinction worth knowing before you download it. The key trade-off: since it occupies Android's single VPN slot, you can't run a separate VPN at the same time.
+The Play Store free version is browser-only and much less capable than the sideloaded paid version — a distinction worth knowing before you download it. The key trade-off: since it occupies Android's [single VPN](https://snipstack.io/single-vpn-plan-covering-every-device-in-home-2026/) slot, you can't run a separate VPN at the same time.
 
 ---
 

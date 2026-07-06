@@ -119,7 +119,7 @@ Alt ID gives you a **persistent masked email address** that forwards to your rea
 
 ## Step 4 — Cancel Before the Trial Ends (The Actually Important Step)
 
-A disposable email address protects your inbox. It does not protect your credit card.
+A [disposable email](https://snipstack.io/disposable-email-for-hotel-rewards-program-signup-2026/) address protects your inbox. It does not protect your credit card.
 
 For any trial that requires payment details:
 

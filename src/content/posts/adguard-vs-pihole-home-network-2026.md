@@ -36,7 +36,7 @@ AdGuard is a privacy software company that makes several distinct products under
 
 Both approaches work away from your home network. Your phone is on 4G in a coffee shop — AdGuard still works. You are connected to hotel Wi-Fi — AdGuard still works. That portability is the defining characteristic that matters most for a mobile-first user.
 
-The one real constraint on mobile: the native AdGuard app uses iOS's single VPN slot to perform its local filtering. That means you cannot run AdGuard's system-wide blocking and a privacy VPN at the same time on iPhone. You pick one or the other, or you use a solution that bundles both — which we come to later.
+The one real constraint on mobile: the native AdGuard app uses iOS's [single VPN](https://snipstack.io/single-vpn-plan-covering-every-device-in-home-2026/) slot to perform its local filtering. That means you cannot run AdGuard's system-wide blocking and a privacy VPN at the same time on iPhone. You pick one or the other, or you use a solution that bundles both — which we come to later.
 
 ---
 

@@ -103,7 +103,7 @@ When an alias starts receiving spam (which will eventually happen with any addre
 | Need inbox to survive more than 10 minutes | Alt ID alias |
 | Completely anonymous, no forwarding | 10-Minute Mail |
 
-The key insight: if you've ever been frustrated that your disposable email "didn't receive the message," you were using a self-destructing inbox for a job that needs a persistent alias.
+The key insight: if you've ever been frustrated that your [disposable email](https://snipstack.io/disposable-email-for-hotel-rewards-program-signup-2026/) "didn't receive the message," you were using a self-destructing inbox for a job that needs a persistent alias.
 
 ---
 

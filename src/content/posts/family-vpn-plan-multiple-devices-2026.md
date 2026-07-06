@@ -26,7 +26,7 @@ This guide is for families who want private, protected internet connections acro
 
 ## What Is a Family VPN Plan?
 
-A family VPN plan is a single VPN subscription that covers multiple people and multiple devices under one account. Unlike consumer plans capped at one or two devices, a family-oriented plan should comfortably handle:
+A family VPN plan is a [single VPN](https://snipstack.io/single-vpn-plan-covering-every-device-in-home-2026/) subscription that covers multiple people and multiple devices under one account. Unlike consumer plans capped at one or two devices, a family-oriented plan should comfortably handle:
 
 - Everyone's smartphones
 - Shared laptops and tablets

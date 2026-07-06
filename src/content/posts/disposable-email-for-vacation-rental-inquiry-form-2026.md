@@ -39,7 +39,7 @@ For vacation rental inquiries, you need an alias that forwards reliably for week
 | Price | Included with Surfshark | Free (10 alias limit) | Free | Free |
 | Best for vacation rental inquiries | Yes | Partial | No | No |
 
-**Alt ID wins** on forwarding reliability, an instant kill-switch, and fake identity generation — useful since plenty of inquiry forms ask for a full name and phone number before the host will even reply.
+**Alt ID wins** on forwarding reliability, an instant kill-switch, and fake identity generation — useful since plenty of inquiry forms ask for a full name and [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) before the host will even reply.
 
 ---
 
@@ -69,7 +69,7 @@ Put those together and the pattern is predictable: give a rental inquiry form yo
 
 What makes it the right fit here:
 
-- **Fake identity generation.** Rental forms often ask for name and phone number too. Alt ID can pair a plausible alternative identity with the alias.
+- **Fake identity generation.** Rental forms often ask for name and [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) too. Alt ID can pair a plausible alternative identity with the alias.
 - **Forwards for as long as the trip needs.** Booking confirmations and check-in codes forward cleanly for as long as you keep the alias active.
 - **Rarely blocked.** Free throwaway domains are widely flagged by rental sign-up forms; Alt ID's own domain passes most validation.
 - **One-click disable, not just delete.** Pause forwarding rather than permanently burning the alias while you're still deciding between properties.
@@ -82,7 +82,7 @@ What makes it the right fit here:
 
 SimpleLogin is an open-source alias service with a free tier capped at ten active aliases. It forwards reliably and lets you delete aliases on demand — fine for a single rental inquiry.
 
-The ceiling shows up fast once you're comparing multiple listings for the same trip, since each ideally gets its own alias. It also doesn't generate fake identity details, so you'd still hand over your real name and phone number on the form.
+The ceiling shows up fast once you're comparing multiple listings for the same trip, since each ideally gets its own alias. It also doesn't generate fake identity details, so you'd still hand over your real name and [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) on the form.
 
 **Best for:** Travellers already on SimpleLogin with alias slots to spare.
 
@@ -120,7 +120,7 @@ The catch: it doesn't hide your real address at all, since anyone can strip the 
 
 **Step 4.** Label it, like "Rental — [property or trip name]," so it's obvious later which listing it belongs to.
 
-**Step 5.** Paste the alias into the rental site's inquiry form, using the generated identity details if a name or phone number is required.
+**Step 5.** Paste the alias into the rental site's inquiry form, using the generated identity details if a name or [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) is required.
 
 **Step 6.** The host's replies, booking confirmation, and check-in details all forward straight to your real inbox.
 
@@ -156,7 +156,7 @@ The host can no longer contact you at that address. If there's any chance you'll
 
 ## The Bottom Line
 
-Vacation rental inquiries are a predictable inbox hazard. The marketing blasts, aggregator sprawl, and thin unsubscribe compliance that follow a single inquiry form are foreseeable — and avoidable. A disposable email puts a revocable layer between the rental site and your real address.
+Vacation rental inquiries are a predictable inbox hazard. The marketing blasts, aggregator sprawl, and thin unsubscribe compliance that follow a single inquiry form are foreseeable — and avoidable. A [disposable email](https://snipstack.io/disposable-email-for-hotel-rewards-program-signup-2026/) puts a revocable layer between the rental site and your real address.
 
 Of the options compared here, **Alt ID** is the right tool for the job: it forwards cleanly for as long as your trip planning takes, adds alternative identity details, and gives you a one-click kill-switch once the spam starts. SimpleLogin works if you're already using it. Guerrilla Mail and Gmail's `+` trick don't solve the underlying problem.
 
