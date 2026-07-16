@@ -24,7 +24,7 @@ You are not alone. A growing number of users are searching for a vpn [antivirus 
 
 ## The Numbers: Norton vs. [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) at a Glance
 
-| Feature | Norton 360 Deluxe | [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) |
+| Feature | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) |
 |---|---|---|
 | Antivirus | Yes | Yes |
 | VPN included | Yes (limited at base tier) | Yes — unlimited data, all servers |

@@ -39,7 +39,7 @@ This is the exact friction a combined VPN and [antivirus subscription](https://s
 
 ## Feature-by-Feature Comparison
 
-The table below compares three common setups people are actually running in 2026: a standalone antivirus paired with a budget VPN, Norton 360 Deluxe (which includes a limited VPN), and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/).
+The table below compares three common setups people are actually running in 2026: a standalone antivirus paired with a budget VPN, [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe (which includes a limited VPN), and [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/).
 
 | Feature | Antivirus + Budget VPN | Norton 360 Deluxe | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) |
 |---|---|---|---|

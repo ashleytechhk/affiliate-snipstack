@@ -56,7 +56,7 @@ None of these features scan for viruses inside your phone. But they do protect a
 
 ## Detailed Comparison
 
-### Norton 360 Mobile — Familiar Name, Solid Basics
+### [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Mobile — Familiar Name, Solid Basics
 
 Norton is a name many people recognise from their old Windows computers, and the iPhone app carries over the core ideas: safe web browsing, Wi-Fi monitoring, and breach alerts through a feature called Dark Web Monitoring. The interface is reasonably clear, and the all-in-one dashboard is helpful for people who do not want to juggle multiple apps.
 

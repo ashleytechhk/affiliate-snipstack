@@ -26,7 +26,7 @@ If your household has more devices than your current antivirus plan allows, **[S
 
 ## How the Household [Security Suite](https://snipstack.io/security-suite-vs-paying-for-each-tool-separately-2026/)s Compare
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | Norton 360 Deluxe | McAfee+ Advanced |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Advanced |
 |---|---|---|---|
 | Antivirus | Yes | Yes | Yes |
 | VPN included | Yes (unlimited data) | Yes (capped on entry tiers) | Yes |

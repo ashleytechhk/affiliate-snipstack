@@ -28,7 +28,7 @@ This comparison breaks down exactly what you get from each major [family securit
 
 ## Feature-by-Feature Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | **Devices covered** | Unlimited | Up to 5 | Up to 5 (Premium: 10) |
 | **VPN included** | Yes — full VPN, no speed caps | Yes — capped, limited features | Yes — limited |

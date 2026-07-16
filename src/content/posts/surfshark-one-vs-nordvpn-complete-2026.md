@@ -84,7 +84,7 @@ For what you get — a world-class VPN, solid antivirus through its Threat Prote
 
 Running the numbers over 24 months at publicly listed rates:
 
-- **Norton 360 Deluxe:** Year 1 promo ~$50 + Year 2 renewal ~$130 = approximately $180
+- **[Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe:** Year 1 promo ~$50 + Year 2 renewal ~$130 = approximately $180
 - **McAfee Total Protection:** Year 1 promo ~$40 + Year 2 renewal ~$120 = approximately $160
 - **[Surfshark One](https://snipstack.io/surfshark-one-coupon-code-reddit-2026/) (2-year plan):** Approximately $65–70 flat upfront
 - **NordVPN Complete (2-year plan):** Approximately $145 flat upfront

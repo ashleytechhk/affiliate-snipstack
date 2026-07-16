@@ -39,7 +39,7 @@ The users who suffer most are not IT professionals — they can reconfigure anyt
 
 ## Comparison Table: [Security Bundle](https://snipstack.io/security-bundle-vpn-antivirus-id-protection-2026/)s at a Glance
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Norton 360 | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes | Yes (limited) | Yes (limited) |
 | Antivirus | Yes | Yes | Yes |

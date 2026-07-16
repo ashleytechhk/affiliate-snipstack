@@ -130,7 +130,7 @@ Beyond the VPN-level domain blocking, Clean Web also runs as a [browser extensio
 
 ---
 
-## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/). Norton 360 vs. McAfee Total Protection
+## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/). [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) vs. McAfee Total Protection
 
 Here is how the feature sets stack up on the most common competing plans:
 

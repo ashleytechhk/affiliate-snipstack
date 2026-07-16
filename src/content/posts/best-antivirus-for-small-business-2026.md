@@ -72,7 +72,7 @@ Surfshark is known primarily as a VPN, but the [Surfshark One](https://snipstack
 
 ---
 
-### 2. Norton 360 for Small Business / Deluxe
+### 2. [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) for Small Business / Deluxe
 
 Norton is one of the longest-standing names in security software. The Norton 360 Deluxe plan covers up to five devices and includes real-time protection, a password manager, dark web monitoring, and a VPN.
 

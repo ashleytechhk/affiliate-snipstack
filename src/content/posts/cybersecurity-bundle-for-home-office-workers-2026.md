@@ -42,7 +42,7 @@ A good cyber[security bundle](https://snipstack.io/security-bundle-vpn-antivirus
 
 ## Feature-by-Feature Comparison: [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) vs Legacy Suites
 
-The table below compares [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) against Norton 360 Deluxe and McAfee+ Individual — the two most common "I inherited this from my old job" subscriptions.
+The table below compares [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) against [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe and McAfee+ Individual — the two most common "I inherited this from my old job" subscriptions.
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Norton 360 Deluxe | McAfee+ Individual |
 |---|---|---|---|

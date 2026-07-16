@@ -26,7 +26,7 @@ There is a better way to run a [security suite](https://snipstack.io/security-su
 
 ---
 
-## Head-to-Head: [Surfshark One vs](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Norton 360 vs McAfee Total Protection
+## Head-to-Head: [Surfshark One vs](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) vs McAfee Total Protection
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Norton 360 Deluxe | McAfee Total Protection |
 |---|---|---|---|

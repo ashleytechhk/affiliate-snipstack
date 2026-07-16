@@ -59,7 +59,7 @@ Before the comparison table, here are the five criteria that actually matter:
 
 ## Head-to-Head Comparison Table
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes (unlimited) | Yes (limited on lower tiers) | Yes |
 | Antivirus | Yes, real-time | Yes | Yes |

@@ -24,7 +24,7 @@ You renewed [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) last s
 
 ## Head-to-Head: [Surfshark One vs](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) The Competition
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) | Norton 360 Standard | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Standard | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) |
 |---|---|---|---|
 | **Annual Price (approx.)** | ~$3.49/mo | ~$4.99/mo (renews higher) | ~$4.00/mo |
 | **VPN Included** | Yes — unlimited, full-speed | Yes — 200MB/day cap (Standard) | No (add-on) |

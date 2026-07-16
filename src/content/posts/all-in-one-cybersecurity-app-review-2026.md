@@ -26,7 +26,7 @@ The market has moved. A new category of all-in-one [cybersecurity app](https://s
 
 ## How the Three Suites Compare at a Glance
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Norton 360 | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) | McAfee Total Protection |
 |---|---|---|---|
 | **Antivirus (real-time)** | Yes | Yes | Yes |
 | **VPN included** | Yes — unlimited data | Yes — unlimited data | 5 GB/day cap (standard plans) |

@@ -37,7 +37,7 @@ The bundle is available as a monthly plan or at a significant discount on 1-year
 
 ---
 
-## How Norton 360 and McAfee Compare
+## How [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) and McAfee Compare
 
 Before going further, here's where the major competitors stand on the same feature set:
 

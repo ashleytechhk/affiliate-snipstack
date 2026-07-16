@@ -28,7 +28,7 @@ This comparison is for households like yours: two people, multiple devices, fed 
 
 ## Comparison Table: Norton vs. McAfee vs. [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle
 
-| Feature | Norton 360 Deluxe | McAfee Total Protection | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle |
+| Feature | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle |
 |---|---|---|---|
 | Devices covered | 5 | Up to 5 | Unlimited |
 | VPN included | Yes (limited data) | Yes (unlimited, higher tier) | Yes (unlimited) |

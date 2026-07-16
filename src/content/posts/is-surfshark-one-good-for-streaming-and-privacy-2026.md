@@ -22,7 +22,7 @@ Below is a straight feature-by-feature comparison covering the things that matte
 
 ---
 
-## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) Norton 360 vs McAfee — Feature Comparison
+## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) vs McAfee — Feature Comparison
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) | Norton 360 | McAfee Total Protection |
 |---|---|---|---|

@@ -38,7 +38,7 @@ The standard pitch for [Norton 360](https://snipstack.io/norton-360-antivirus-20
 
 The table below uses a representative three-employee setup: three laptops, three smartphones, occasional use of shared tablets.
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Norton 360 Business | McAfee Business Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Business | McAfee Business Protection |
 |---|---|---|---|
 | Devices covered | Unlimited | 10–25 (by plan tier) | Per-seat, varies |
 | VPN included | Yes (full VPN) | Yes (limited bandwidth on lower tiers) | Add-on, extra cost |

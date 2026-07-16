@@ -24,7 +24,7 @@ If you are already paying for a bloated [security suite](https://snipstack.io/se
 
 ## The Comparison Table
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Norton 360 Standard | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Standard | McAfee Total Protection |
 |---|---|---|---|
 | Monthly price (2-yr plan) | ~$3.19/month | ~$3.33/month intro | ~$3.33/month intro |
 | Renewal price (yr 2+) | Modest increase | Often doubles ($8–10/mo) | Often doubles ($7–9/mo) |

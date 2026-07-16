@@ -39,7 +39,7 @@ McAfee Total Protection includes WebAdvisor, which flags [phishing link](https:/
 
 Both are catching threats after your real address is already in the wild. Neither gives you a way to prevent it from getting there.
 
-| Email protection feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) | Norton 360 | McAfee Total Protection |
+| Email protection feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) | McAfee Total Protection |
 |---|---|---|---|
 | Breach monitoring for email addresses | Yes (Alert) | Yes (LifeLock, higher tiers) | Yes (identity monitoring) |
 | [Email alias](https://snipstack.io/email-alias-for-ecommerce-returns-tracking-2026/) / alt identity generation | Yes (Alt-ID) | No | No |

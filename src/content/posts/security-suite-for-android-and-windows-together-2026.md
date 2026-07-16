@@ -30,7 +30,7 @@ Most legacy [security suite](https://snipstack.io/security-suite-with-identity-a
 
 Norton's Android app offers web protection, a Wi-Fi scanner, and a capped VPN — but real-time antivirus scanning is limited compared to the Windows client. The full-featured SafeCam and performance tools are Windows-only. McAfee's Android app has improved but still lags behind its Windows counterpart on threat detection depth and UI polish.
 
-The device count issue compounds this. On Norton 360 Standard, you get one device. Deluxe bumps it to five — which sounds generous until your household has two phones, a laptop, a tablet, and a work PC. McAfee is slightly more flexible, but the per-device math still matters.
+The device count issue compounds this. On [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Standard, you get one device. Deluxe bumps it to five — which sounds generous until your household has two phones, a laptop, a tablet, and a work PC. McAfee is slightly more flexible, but the per-device math still matters.
 
 What you actually need is a suite where Android and Windows are treated as equals: same protection depth, same feature set, no awkward device caps that force you into an upgrade tier just to cover what you already own.
 

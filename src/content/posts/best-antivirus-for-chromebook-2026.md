@@ -73,7 +73,7 @@ For seniors who want an extra layer of real-time phishing detection, something t
 
 ---
 
-### Norton 360 for Chromebook — Familiar Name, Solid Coverage
+### [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) for Chromebook — Familiar Name, Solid Coverage
 
 Norton is a name many people recognise from older Windows computers, and the Chromebook version carries over the core ideas: [phishing link](https://snipstack.io/phishing-link-checker-free-2026/) blocking, Wi-Fi monitoring, breach alerts through Dark Web Monitoring, and an antivirus scanner for any Android apps you install from the Play Store.
 

@@ -26,7 +26,7 @@ This comparison cuts through the bloatware era and looks at what you're actually
 
 ## Side-by-Side Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | **Annual price (renewal)** | ~$69/yr | ~$105/yr (yr 2) | ~$99/yr (yr 2) |
 | **VPN included** | Yes, unlimited | Yes (300 MB/day on base) | Yes, unlimited |

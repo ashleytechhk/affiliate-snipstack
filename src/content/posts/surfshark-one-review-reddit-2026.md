@@ -30,7 +30,7 @@ That product is **[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefen
 
 Before getting into the comparison table, it is worth naming the specific frustrations that send people to Reddit looking for alternatives.
 
-**With Norton 360:**
+**With [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/):**
 
 - Introductory pricing is attractive. Renewal pricing is not. Many users report their bill doubling after year one without a clear notification.
 - The dashboard is full of "upgrade to get this feature" prompts. You feel like you are constantly being sold to.

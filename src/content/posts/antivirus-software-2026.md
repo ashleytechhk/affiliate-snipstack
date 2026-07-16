@@ -26,7 +26,7 @@ The antivirus market has matured to the point where no-name solutions can beat l
 
 The antivirus component delivers real-time protection, scheduled scanning, and automatic malware definition updates. Independent lab tests from AV-TEST and AV-Comparatives consistently rank [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) in the "good" tier for detection rates — not the absolute highest score in the field, but comfortably above the pass threshold and with zero false-positive events that tank legitimate software. Critically, system performance impact is minimal. There are no pop-up upsell prompts. There is no separate "optimizer" tool trying to sell you a registry cleaner. It installs, it runs, you forget it is there.
 
-Pricing lands well below the Norton 360 or McAfee Total Protection equivalent when you take the VPN into account. A single [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan covers unlimited devices — a detail that Norton 360 Deluxe caps at five. If your household has more than a laptop and a phone, that unlimited-device policy alone justifies the switch.
+Pricing lands well below the [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) or McAfee Total Protection equivalent when you take the VPN into account. A single [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan covers unlimited devices — a detail that Norton 360 Deluxe caps at five. If your household has more than a laptop and a phone, that unlimited-device policy alone justifies the switch.
 
 **[See current Surfshark One pricing](/blog/surfshark?sub=antivirus-software-2026__mid)**
 

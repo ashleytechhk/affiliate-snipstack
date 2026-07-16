@@ -109,7 +109,7 @@ All of this runs on unlimited devices under a [single subscription](https://snip
 
 ## The Real Cost of Staying on Norton
 
-The price gap matters, but it is not only about the subscription rate. Norton trained users to expect a bait-and-switch: a low promotional first year, then a steep jump at renewal. The standard renewal rate for Norton 360 plans can be significantly higher than what you paid initially.
+The price gap matters, but it is not only about the subscription rate. Norton trained users to expect a bait-and-switch: a low promotional first year, then a steep jump at renewal. The standard renewal rate for [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) plans can be significantly higher than what you paid initially.
 
 Surfshark's pricing does not follow the same pattern when you select a longer plan term. What you see on the pricing page is close to what you pay going forward.
 

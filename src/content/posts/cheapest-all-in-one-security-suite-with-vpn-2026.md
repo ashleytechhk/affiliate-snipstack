@@ -24,7 +24,7 @@ There is a better way. [Security suite](https://snipstack.io/security-suite-for-
 
 ## Feature-by-Feature Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | **Annual cost (approx.)** | ~$3.49/mo (2-yr plan) | ~$6.67/mo | ~$5.00/mo (first year) |
 | **VPN included** | Yes — full VPN, unlimited data | Yes — limited to 50GB/day on base plans | Yes — unlimited |

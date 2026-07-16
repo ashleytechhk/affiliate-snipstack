@@ -73,7 +73,7 @@ The all-in cost for One on a two-year plan is typically around $3–4/month. Tha
 
 ## Why Legacy Suites Keep Losing the Comparison
 
-The issue with Norton 360 and McAfee Total Protection is not that they fail at their core job. Detection rates from independent labs like AV-TEST and AV-Comparatives have been consistently solid for both. The problem is everything surrounding that core job.
+The issue with [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) and McAfee Total Protection is not that they fail at their core job. Detection rates from independent labs like AV-TEST and AV-Comparatives have been consistently solid for both. The problem is everything surrounding that core job.
 
 **The VPN gap is real.** Norton 360 Standard caps its VPN to a single device. McAfee's included VPN has a 5 GB daily data limit on some plans. Neither supports WireGuard — the modern, faster protocol that Surfshark uses by default. If you have tried to stream over a Norton VPN and watched it buffer, this is why.
 

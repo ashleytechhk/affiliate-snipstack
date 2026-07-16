@@ -35,7 +35,7 @@ For anyone currently juggling Norton for antivirus, a separate VPN app, and a br
 
 There's also a support angle worth mentioning. When your antivirus, VPN, and alias tool all come from different companies, a billing question or a technical issue means contacting three separate support teams, each with its own login and its own ticket system. A single bundle means one support channel handles all of it, which matters more than it sounds like the first time something breaks at an inconvenient moment.
 
-## Antivirus Bundle Comparison: [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) vs. Norton 360 vs. McAfee Total Protection
+## Antivirus Bundle Comparison: [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) vs. [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) vs. McAfee Total Protection
 
 Here's how the three most commonly compared options stack up on the features that matter most for this specific need — a real [email alias](https://snipstack.io/email-alias-for-booking-cheap-flights-and-travel-deals-2026/) feature bundled with antivirus.
 

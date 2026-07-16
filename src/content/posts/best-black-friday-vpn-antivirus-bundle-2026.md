@@ -43,7 +43,7 @@ Before comparing products, here's the baseline checklist:
 
 ## Bundle Comparison Table
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) | Norton 360 Deluxe | McAfee Total Protection | Bitdefender Premium |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection | Bitdefender Premium |
 |---|---|---|---|---|
 | VPN included | Yes (unlimited) | Yes (unlimited) | Yes (unlimited) | Yes (unlimited) |
 | Antivirus | Yes | Yes | Yes | Yes |

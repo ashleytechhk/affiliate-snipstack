@@ -28,7 +28,7 @@ If you want one bundle that actually accounts for a smart TV, a streaming stick,
 
 Here's how the three options stack up on what actually matters when your household includes a smart TV and a shared router:
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | Norton 360 Deluxe | McAfee+ Premium |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Premium |
 |---|---|---|---|
 | [Antivirus](https://snipstack.io/vs-antivirus-2026/) | Yes | Yes | Yes |
 | VPN included | Yes (unlimited data) | Yes (capped at 50GB/mo on lower tiers) | Yes |

@@ -80,7 +80,7 @@ Setup takes about five minutes. One subscription covers all your devices — pho
 
 ---
 
-## Norton 360 with LifeLock — Best for Financial Peace of Mind
+## [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) with LifeLock — Best for Financial Peace of Mind
 
 **The right choice if you want insurance coverage alongside protection.**
 

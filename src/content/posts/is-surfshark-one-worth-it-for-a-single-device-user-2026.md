@@ -43,7 +43,7 @@ Specific pain points reported repeatedly in user forums:
 
 The table below compares the three products on the features that matter most to a single-device user who wants real-world value, not a feature checklist used to inflate the box.
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) | Norton 360 (Standard) | McAfee Total Protection (Single) |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) (Standard) | McAfee Total Protection (Single) |
 |---|---|---|---|
 | VPN included | Yes — unlimited data | Yes — limited to 200MB/day unless you upgrade | No (separate purchase) |
 | Antivirus engine | Yes | Yes — strong lab scores | Yes — strong lab scores |

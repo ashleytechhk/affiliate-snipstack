@@ -100,7 +100,7 @@ Surfshark's antivirus module is architecturally lean — it was built for users 
 - System performance has degraded since installing your current suite and you'd rather have security software you forget is running
 - You want breach monitoring included, not gated behind another upgrade prompt
 
-**Consider sticking with Norton 360 if:**
+**Consider sticking with [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) if:**
 
 - You specifically rely on LifeLock identity theft insurance, which has no direct equivalent in Surfshark's current lineup — LifeLock provides financial recovery guarantees that go beyond breach monitoring
 

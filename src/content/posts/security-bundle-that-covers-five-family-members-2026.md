@@ -30,7 +30,7 @@ If you are already annoyed with Norton, the switch is worth making. If you have 
 
 Before diving into detail, here is a side-by-side snapshot of the three most common choices a family of five will consider in 2026.
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | Devices covered | Unlimited | 5 | 5 |
 | VPN included | Yes (unlimited data) | Yes (unlimited data) | Yes (unlimited data) |

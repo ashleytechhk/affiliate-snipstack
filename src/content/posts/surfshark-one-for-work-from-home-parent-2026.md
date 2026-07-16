@@ -26,7 +26,7 @@ This guide breaks down exactly what [Surfshark One](https://snipstack.io/surfsha
 
 ## Feature-by-Feature Comparison Table
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes (unlimited) | Yes (limited bandwidth) | Yes (limited) |
 | Antivirus | Real-time | Real-time | Real-time |

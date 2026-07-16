@@ -53,7 +53,7 @@ Here is the honest answer to "which [VPN antivirus](https://snipstack.io/vpn-ant
 
 What actually gets students the best price is long-term plan pricing — and this is where the comparison gets interesting.
 
-Legacy suites like Norton and McAfee are built around a promotional pricing model: a deeply discounted first year followed by a full-price renewal that can double or triple your bill. A student who signs up for Norton 360 at a $35 introductory rate and forgets to cancel before renewal can find themselves charged $90 or more in year two. That is the opposite of a student discount.
+Legacy suites like Norton and McAfee are built around a promotional pricing model: a deeply discounted first year followed by a full-price renewal that can double or triple your bill. A student who signs up for [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) at a $35 introductory rate and forgets to cancel before renewal can find themselves charged $90 or more in year two. That is the opposite of a student discount.
 
 Surfshark's long-term plan structure is different. The two-year plan pricing is the lowest available rate, and the renewal is at a comparable rate — not a penalty price designed to catch subscribers who are not paying attention. For a student who wants to set it up once and not revisit the billing question every twelve months, this predictability matters.
 

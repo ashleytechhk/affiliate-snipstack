@@ -80,7 +80,7 @@ Surfshark offers a 30-day refund window on its plans. This is the most underused
 
 This is where the case gets concrete for anyone currently paying for Norton, McAfee, or a similar [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/).
 
-A typical Norton 360 Deluxe or McAfee Total Protection renewal — year two, standard rate, five devices — runs in the range of $80–120 per year. That typically includes a VPN that is either data-capped or limited to a small server network. Many users paying for Norton also pay separately for a real VPN like ExpressVPN or NordVPN, because the bundled option is not adequate for international streaming or remote work use.
+A typical [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe or McAfee Total Protection renewal — year two, standard rate, five devices — runs in the range of $80–120 per year. That typically includes a VPN that is either data-capped or limited to a small server network. Many users paying for Norton also pay separately for a real VPN like ExpressVPN or NordVPN, because the bundled option is not adequate for international streaming or remote work use.
 
 Add those two bills together. Then add the fact that neither product includes robust breach monitoring as a core (non-upsell) feature.
 

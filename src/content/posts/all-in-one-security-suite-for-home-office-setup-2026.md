@@ -22,7 +22,7 @@ If you are shopping for the best all-in-one [security suite](https://snipstack.i
 
 ## How These Suites Compare at a Glance
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) | Norton 360 | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes (unlimited devices) | Yes (limited data on lower tiers) | Yes (limited to 5 devices) |
 | Antivirus | Yes | Yes | Yes |

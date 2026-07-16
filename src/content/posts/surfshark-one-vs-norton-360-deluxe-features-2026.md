@@ -26,7 +26,7 @@ For most people who are annoyed by Norton, those features are not the issue — 
 
 ## Feature-by-Feature Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) | Norton 360 Deluxe |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-annual-plan-worth-it-reddit-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe |
 |---|---|---|
 | **2-Year Price (monthly equiv.)** | ~$2.49/mo | Not available |
 | **Annual Price (monthly equiv.)** | ~$3.39/mo | ~$10.00/mo (varies) |

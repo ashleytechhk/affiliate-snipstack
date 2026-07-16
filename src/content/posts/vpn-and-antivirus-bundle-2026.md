@@ -35,7 +35,7 @@ Before you start, have these ready:
 
 Open your bank or card statement and search for any of these charges:
 
-- Norton 360 / LifeLock
+- [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) / LifeLock
 - McAfee Total Protection
 - NordVPN / ExpressVPN / Bitdefender
 - Any ISP-[bundled security](https://snipstack.io/bundled-security-suite-no-separate-app-installs-2026/) add-on

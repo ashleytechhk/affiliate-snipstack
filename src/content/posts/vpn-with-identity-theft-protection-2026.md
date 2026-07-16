@@ -56,7 +56,7 @@ If theft has already happened, recovery assistance gives you access to specialis
 
 Nord's ID protection add-on exists but requires a separate subscription on top of your VPN plan — it's not bundled at the entry level. The combined cost pushes well above what you'd pay for an all-in-one plan. The monitoring itself is competent: dark web scanning, breach alerts, and US-based credit monitoring. Recovery support is included at higher tiers. The downside is the fragmented subscription structure and the fact that it's currently US-only for the ID protection component.
 
-### Norton 360 with LifeLock
+### [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) with LifeLock
 
 Norton's positioning in this space is strong on paper. LifeLock integration gives you multi-bureau credit monitoring, $1M identity theft insurance (terms apply), and live restoration specialists. In practice, it's the most complete ID protection in this category. It's also the most expensive — standard plans run $100–200/year — and the software itself is routinely criticized for being resource-heavy and difficult to fully uninstall. If you have a recent Mac and a fast machine, you might not notice. On older hardware, you will.
 

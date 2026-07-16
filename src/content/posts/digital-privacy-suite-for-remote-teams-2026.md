@@ -40,7 +40,7 @@ A privacy suite built for this environment needs to do more than scan for viruse
 
 ## Feature-by-Feature Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | Norton 360 Deluxe | McAfee+ Premium |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Premium |
 |---|---|---|---|
 | **VPN Included** | Yes — unlimited devices | Yes — 5 devices | Yes — unlimited devices |
 | **Antivirus** | Real-time, lightweight | Real-time, heavy | Real-time, moderate |

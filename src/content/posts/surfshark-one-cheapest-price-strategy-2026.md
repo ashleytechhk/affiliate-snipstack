@@ -86,7 +86,7 @@ Surfshark periodically offers bonus months or extra features through specific af
 
 ### Strategy 4: Family or Shared Coverage = Pure Win
 
-Norton and McAfee both cap device counts on their base plans (Norton 360 Deluxe is 5 devices; McAfee Total Protection varies by tier). [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) covers unlimited devices on one subscription. If you're covering a household — partner's laptop, your phone, a tablet, maybe a parent's PC — Surfshark's per-device cost effectively rounds to zero.
+Norton and McAfee both cap device counts on their base plans ([Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe is 5 devices; McAfee Total Protection varies by tier). [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) covers unlimited devices on one subscription. If you're covering a household — partner's laptop, your phone, a tablet, maybe a parent's PC — Surfshark's per-device cost effectively rounds to zero.
 
 ---
 

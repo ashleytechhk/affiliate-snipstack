@@ -48,7 +48,7 @@ Before getting into what One Plus adds, it's worth being clear about what One al
 
 Surfshark's VPN covers every device you own on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). No counting seats, no paying extra for your tablet or your partner's laptop. The server network spans 100+ countries, uses WireGuard and IKEv2 protocols, and includes a kill switch and CleanWeb (tracker and ad blocking built into the VPN layer).
 
-For anyone coming from Norton 360, which bolts a VPN onto antivirus as a limited-device add-on, this unlimited-device policy alone is worth the switch.
+For anyone coming from [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/), which bolts a VPN onto antivirus as a limited-device add-on, this unlimited-device policy alone is worth the switch.
 
 ### [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/): Real-Time, Always On
 

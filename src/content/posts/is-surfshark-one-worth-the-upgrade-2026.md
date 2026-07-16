@@ -39,7 +39,7 @@ The VPN is the part that differentiates this from a pure-antivirus product. [Nor
 
 ## Head-to-Head Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) | Norton 360 Deluxe | McAfee+ Individual |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Individual |
 |---|---|---|---|
 | **Annual price (approx.)** | ~$55–$70/yr | ~$100–$140/yr (renews higher) | ~$80–$110/yr |
 | **Devices covered** | Unlimited | 5 | Unlimited |

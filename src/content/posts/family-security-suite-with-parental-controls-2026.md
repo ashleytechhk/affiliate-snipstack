@@ -30,7 +30,7 @@ For families who want strong protection without the bloat, [Surfshark One](https
 
 ## Feature Comparison Table
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Norton 360 Deluxe | McAfee+ Family |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Family |
 |---|---|---|---|
 | **Annual price (after renewal)** | ~$56/yr (2-yr plan) | ~$130/yr | ~$150/yr |
 | **Devices covered** | Unlimited | 5 | Unlimited |

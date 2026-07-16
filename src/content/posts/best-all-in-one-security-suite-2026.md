@@ -53,7 +53,7 @@ Once you know what you need, you can evaluate each suite accurately rather than 
 
 Here's how the main contenders stack up across the five pillars above.
 
-| Feature | Norton 360 Deluxe | McAfee Total Protection | Bitdefender Total Security | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) Bundle |
+| Feature | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection | Bitdefender Total Security | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) Bundle |
 |---|---|---|---|---|
 | Antivirus | Yes | Yes | Yes (top-tier engine) | Yes |
 | VPN included | Yes (limited) | Yes (limited) | Paid add-on | Yes (full, 100+ countries) |

@@ -30,7 +30,7 @@ The [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-se
 
 Most people do not realize what they are actually paying for until they check their bank statement.
 
-A single Norton 360 Deluxe subscription, at full renewal price, runs above $100 per year for five devices. That covers antivirus, a VPN limited to 200MB per day in some tiers, and a password manager that most users ignore. McAfee Total Protection works similarly — the headline price looks reasonable until the first auto-renewal, at which point you are paying premium rates for a product that has been around since the 1990s and runs like it.
+A single [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe subscription, at full renewal price, runs above $100 per year for five devices. That covers antivirus, a VPN limited to 200MB per day in some tiers, and a password manager that most users ignore. McAfee Total Protection works similarly — the headline price looks reasonable until the first auto-renewal, at which point you are paying premium rates for a product that has been around since the 1990s and runs like it.
 
 The problems with legacy suites are well-documented by the people who use them every day:
 

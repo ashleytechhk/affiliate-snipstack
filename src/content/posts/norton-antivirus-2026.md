@@ -79,7 +79,7 @@ For users who stream from abroad, work remotely across networks, or just want re
 
 ## Privacy Tools: Beyond Antivirus
 
-Modern security is not just about blocking malware. Data brokers harvest your name, address, and email from public records. Your email address appears in breach databases. Your searches are profiled by ad networks. Norton 360 does address some of this via its LifeLock identity features — but LifeLock is a paid add-on in most tiers, not included in the base plan.
+Modern security is not just about blocking malware. Data brokers harvest your name, address, and email from public records. Your email address appears in breach databases. Your searches are profiled by ad networks. [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) does address some of this via its LifeLock identity features — but LifeLock is a paid add-on in most tiers, not included in the base plan.
 
 [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) bundles:
 

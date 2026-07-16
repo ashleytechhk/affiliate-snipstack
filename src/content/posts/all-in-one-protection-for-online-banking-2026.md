@@ -40,7 +40,7 @@ One tool rarely addresses all four. That's the actual problem with the "I alread
 
 ## The Comparison Table: What Each Suite Actually Covers
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) Bundle | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) Bundle | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | Full VPN (no cap) | Yes — unlimited, 100+ countries | Limited — VPN capped on lower tiers | Capped at 500 MB/day on base plan |
 | Real-time antivirus | Yes | Yes | Yes |

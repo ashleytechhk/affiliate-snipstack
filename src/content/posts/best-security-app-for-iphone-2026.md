@@ -123,7 +123,7 @@ The $29.99 price you see in Norton's App Store listing or on their homepage is t
 
 McAfee follows the same model. The intro rate is designed to get you in the door. The actual ongoing cost is what the business model depends on.
 
-Surfshark also runs introductory promotions — that is standard practice across the industry. The difference is that Surfshark's renewal rate is meaningfully lower, and the gap between intro price and renewal price is narrower. When you run the math over a 3-year window, the total cost of [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) Bundle is typically less than two years of Norton 360 standard.
+Surfshark also runs introductory promotions — that is standard practice across the industry. The difference is that Surfshark's renewal rate is meaningfully lower, and the gap between intro price and renewal price is narrower. When you run the math over a 3-year window, the total cost of [Surfshark One](https://snipstack.io/surfshark-one-plan-comparison-2026/) Bundle is typically less than two years of [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) standard.
 
 ---
 

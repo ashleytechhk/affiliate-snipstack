@@ -22,7 +22,7 @@ This guide walks you through exactly how to switch your family to a single priva
 
 ## Who This Guide Is For
 
-If you are paying for Norton 360, Norton Family, McAfee Total Protection, or any combination of antivirus + VPN + [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) from separate vendors, this guide is written for you. By the end of it, you will have:
+If you are paying for [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/), Norton Family, McAfee Total Protection, or any combination of antivirus + VPN + [identity protection](https://snipstack.io/identity-protection-vpn-bundle-affordable-2026/) from separate vendors, this guide is written for you. By the end of it, you will have:
 
 - Cancelled your existing subscription(s) at the right time to avoid double-billing
 - Installed [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) on every device in your household

@@ -33,7 +33,7 @@ Before comparing features side by side, it helps to know what you are actually g
 - Search — a private, ad-free search engine
 - CleanWeb — ad, tracker, and malware URL blocker built into the VPN
 
-**Norton 360 (Deluxe tier)** includes:
+**[Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) (Deluxe tier)** includes:
 - Antivirus and malware protection
 - VPN (limited to 5 devices on most plans)
 - Password Manager

@@ -39,7 +39,7 @@ If you run a small business from home or manage a network of devices for a famil
 
 ## Feature-by-Feature Comparison
 
-Here is how [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) stacks up against Norton 360 (Standard tier) and McAfee Total Protection (Single device) on the features retirees actually use.
+Here is how [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) stacks up against [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) (Standard tier) and McAfee Total Protection (Single device) on the features retirees actually use.
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Norton 360 Standard | McAfee Total Protection |
 |---|---|---|---|

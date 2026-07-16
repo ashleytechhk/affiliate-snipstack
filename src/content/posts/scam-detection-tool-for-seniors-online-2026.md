@@ -100,7 +100,7 @@ It also does not analyze the text content of an email itself, only the links you
 
 ---
 
-### Norton 360 and Full Antivirus Suites
+### [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) and Full Antivirus Suites
 
 Norton, McAfee, and similar products offer broader device security: real-time malware detection, firewall protection, password managers, and email scanning. For seniors who want one comprehensive solution covering everything, a [reputable antivirus](https://snipstack.io/reputable-antivirus-software-2026/) suite is worth considering.
 

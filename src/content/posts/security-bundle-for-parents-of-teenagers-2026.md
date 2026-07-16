@@ -28,7 +28,7 @@ If your primary concern is deep identity monitoring with insurance-backed covera
 
 ## Feature Comparison: [Security Bundle](https://snipstack.io/security-bundle-black-friday-deals-2026/)s for Parents of Teenagers
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Norton 360 Deluxe | Bitdefender Total Security | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | Bitdefender Total Security | McAfee Total Protection |
 |---|---|---|---|---|
 | **Annual price (approx.)** | ~$3.19/mo (2-yr plan) | ~$6.67/mo (renewal) | ~$4.17/mo (renewal) | ~$5.00/mo (first year) |
 | **Simultaneous devices** | Unlimited | 5 | 5 | Unlimited |

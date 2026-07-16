@@ -47,7 +47,7 @@ Hotel loyalty signups aren't like a random newsletter opt-in. A few things make 
 
 **1. Multi-brand partner networks.** Most major hotel groups run dozens of sub-brands plus airline, car rental, and credit card partnerships. Joining one loyalty program often enrolls you into cross-promotion with every partner in that network — each one a new sender.
 
-**2. Deeper signup data.** Loyalty forms typically collect name, date of birth, home address, and phone number alongside email — far more than a typical newsletter signup. That profile is more valuable to data brokers, and more of it leaks the moment your inbox address does.
+**2. Deeper signup data.** Loyalty forms typically collect name, date of birth, home address, and [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) alongside email — far more than a typical newsletter signup. That profile is more valuable to data brokers, and more of it leaks the moment your inbox address does.
 
 **3. Co-branded credit card marketing.** Nearly every large hotel loyalty program has a co-branded credit card, and the marketing engine behind it runs constantly. Card offers, points-multiplier pitches, and "you're pre-approved" emails often follow within days of signup.
 
@@ -63,7 +63,7 @@ Handing over a real address at loyalty signup ties it to a marketing machine tha
 
 ### Alt ID — Best Overall for Hotel Rewards Signups
 
-[Alt ID](/blog/altid?sub=disposable-email-for-hotel-rewards-program-signup-2026__mid) is Surfshark's masked email tool, bundled into every Surfshark subscription. It creates a randomised forwarding alias that routes incoming mail straight to your normal inbox — no separate app, no second login to remember.
+[Alt ID](/blog/altid?sub=disposable-email-for-hotel-rewards-program-signup-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s masked email tool, bundled into every Surfshark subscription. It creates a randomised forwarding alias that routes incoming mail straight to your normal inbox — no separate app, no second login to remember.
 
 For hotel rewards accounts specifically:
 
@@ -136,7 +136,7 @@ Update your email address on file with the loyalty program before deleting the a
 
 **Is it dishonest to sign up with an alias instead of my real email?**
 
-No. The alias is a genuine, working address — mail sent to it reaches you, and replies work normally. You're choosing which address is exposed to a marketing partner network, the same way you'd use a separate number for business contacts. It's a privacy choice.
+No. The alias is a genuine, working address — mail sent to it reaches you, and replies work normally. You're choosing which address is exposed to a marketing partner network, the same way you'd use a [separate number for](https://snipstack.io/separate-number-for-dating-apps-2026/) business contacts. It's a privacy choice.
 
 ---
 

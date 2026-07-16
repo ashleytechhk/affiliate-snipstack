@@ -30,7 +30,7 @@ If you are already paying for Norton, the math on switching gets compelling fast
 
 The table below covers what actually matters for traveler use cases — VPN quality, device limits, and background performance. Price estimates reflect publicly listed year-two renewal rates where known, since that is the number travelers actually pay long-term.
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle | Norton 360 Deluxe | McAfee+ Premium |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Premium |
 |---|---|---|---|
 | VPN included | Yes — unlimited data | Yes — capped at 50GB/mo on standard tiers | Yes — unlimited but slower |
 | Antivirus | Yes | Yes (top-tier lab scores) | Yes |

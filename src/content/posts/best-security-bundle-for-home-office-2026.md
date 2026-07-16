@@ -26,7 +26,7 @@ If you want a single, well-priced [security bundle](https://snipstack.io/securit
 
 ## The Real Problem With Norton and McAfee in 2026
 
-Both Norton 360 and McAfee+ have expanded their feature sets over the years, which sounds good until you realize those features often mean more background processes, more pop-ups nudging you to upgrade, and a renewal price that quietly jumps 40–80% after the first year.
+Both [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) and McAfee+ have expanded their feature sets over the years, which sounds good until you realize those features often mean more background processes, more pop-ups nudging you to upgrade, and a renewal price that quietly jumps 40–80% after the first year.
 
 For a home-office worker — someone who needs their machine fast and their connection private — this bloat is a tax. You pay for the software, then you pay again in lost productivity.
 

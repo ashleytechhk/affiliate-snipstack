@@ -119,7 +119,7 @@ Here is a realistic annual cost comparison for a household with six devices:
 
 | Product | Devices Covered | Approx. Annual Cost | Renewal Price Shock |
 |---|---|---|---|
-| Norton 360 Deluxe (year 2+) | 5 | $110+ | High (often 2x year 1) |
+| [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe (year 2+) | 5 | $110+ | High (often 2x year 1) |
 | [Surfshark One](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) (1-year plan) | Unlimited | ~$48–60 | Low (modest increase) |
 | [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) (2-year plan) | Unlimited | ~$28–40/yr equiv. | Low |
 

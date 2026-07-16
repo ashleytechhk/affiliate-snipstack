@@ -119,7 +119,7 @@ Cost is similar — roughly $40 per year — but Bitdefender does not include a 
 
 ---
 
-## Norton 360 — Familiar Brand, Solid Protection
+## [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) — Familiar Brand, Solid Protection
 
 Norton has been around for decades and many seniors already recognize the name. Norton 360 includes phishing protection, real-time malware scanning, a limited VPN, and a password manager, [all in one](https://snipstack.io/all-in-one-security-app-that-covers-mac-and-iphone-2026/) package.
 

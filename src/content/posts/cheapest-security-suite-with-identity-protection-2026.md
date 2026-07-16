@@ -26,7 +26,7 @@ This comparison focuses on [security suite](https://snipstack.io/security-suite-
 
 ## Side-by-Side Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Norton 360 Deluxe | McAfee Total Protection | Bitdefender Total Security |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection | Bitdefender Total Security |
 |---|---|---|---|---|
 | **Long-term plan (approx./mo)** | ~$3.99 | ~$5.00+ | ~$4.17+ | ~$2.50 |
 | **Renewal pricing** | Same rate | Typically doubles | Typically doubles | Moderate increase |

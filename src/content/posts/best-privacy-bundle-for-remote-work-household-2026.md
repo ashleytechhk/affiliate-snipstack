@@ -34,7 +34,7 @@ That means the privacy bundle you pick needs to handle simultaneous connections 
 
 Here's how the main options compare on what actually matters when you're securing a full household, not just a single desk:
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) | Norton 360 Deluxe | McAfee+ Family |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Family |
 |---|---|---|---|
 | Device limit | Unlimited | Up to 5 | Up to 10 |
 | VPN included | Yes (unlimited data) | Yes (capped at 50GB/mo on lower tiers) | Yes |

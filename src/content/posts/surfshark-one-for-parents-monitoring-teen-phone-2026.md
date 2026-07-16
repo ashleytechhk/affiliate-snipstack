@@ -32,7 +32,7 @@ What you get for that $89.99 is a heavy desktop client that runs background scan
 
 For parents, the specific pain points are:
 
-- **Per-device licensing**: Norton 360 Standard covers 1 device. Deluxe covers 5. Add a teenager's iPhone, their laptop, and your work phone — you're on Premium before you know it.
+- **Per-device licensing**: [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Standard covers 1 device. Deluxe covers 5. Add a teenager's iPhone, their laptop, and your work phone — you're on Premium before you know it.
 - **No mobile-first thinking**: The Android and iOS apps feel bolted on. They exist to justify the feature list, not because they were built for how people actually use phones.
 - **Bloatware on teen devices**: Installing Norton on your 15-year-old's Android means a performance hit, pop-up alerts they'll ignore, and a battery drain they'll blame you for.
 - **VPN limitations**: McAfee's bundled VPN connects automatically but lacks server choice. Your teen can't use it to access school resources that geo-restrict outside a certain region.

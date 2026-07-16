@@ -34,7 +34,7 @@ The smarter move is to compare what each bundle actually includes — not just t
 
 ## Comparison Table: Top [Security Bundle](https://snipstack.io/security-bundle-for-parents-of-teenagers-2026/) Deals 2026
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | VPN included | Yes — unlimited devices | Yes — up to 5 devices | Yes — unlimited devices |
 | Antivirus | Real-time, lightweight | Yes — resource-heavy | Yes — moderate footprint |

@@ -79,7 +79,7 @@ Smart TV coverage is also explicit: Surfshark has native apps for Amazon Fire TV
 
 ---
 
-### Norton 360 Deluxe — Strong Endpoint Protection, No Router Path
+### [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe — Strong Endpoint Protection, No Router Path
 
 Norton 360 Deluxe is well-regarded for protecting the devices it can install on: Windows PCs, Macs, Android phones, and iPhones. The [Dark Web Monitoring](https://snipstack.io/dark-web-monitoring-explained-2026/) feature is thorough, and the interface is familiar to millions of existing Norton users.
 

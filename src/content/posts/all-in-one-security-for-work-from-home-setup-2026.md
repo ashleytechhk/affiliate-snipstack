@@ -44,7 +44,7 @@ Any suite calling itself all-in-one security for a work from home setup needs to
 
 ## Head-to-Head Comparison Table
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | **VPN included** | Yes — full, 100+ countries | Yes — limited, 5 devices | Yes — unlimited devices |
 | **Antivirus** | Real-time, lightweight | Real-time, heavy footprint | Real-time, moderate footprint |

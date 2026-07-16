@@ -26,7 +26,7 @@ This article compares the top value-for-money [cybersecurity bundle](https://sni
 
 ## The Problem with Legacy Antivirus Suites
 
-Norton 360, McAfee Total Protection, and similar platforms have been around long enough that many users just... keep renewing them. The auto-renewal email shows up, you squint at the $89.99 charge, and you click "OK" because switching feels complicated.
+[Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/), McAfee Total Protection, and similar platforms have been around long enough that many users just... keep renewing them. The auto-renewal email shows up, you squint at the $89.99 charge, and you click "OK" because switching feels complicated.
 
 But here's what that $89.99 often gets you in 2026:
 

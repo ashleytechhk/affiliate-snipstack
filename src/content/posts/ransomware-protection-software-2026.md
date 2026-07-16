@@ -89,7 +89,7 @@ The subscription also includes an unlimited VPN (useful when you are using publi
 
 ---
 
-### Norton 360: Strong Protection, Heavy Software
+### [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/): Strong Protection, Heavy Software
 
 Norton has been around for decades and has genuine name recognition. Its malware detection rates are among the highest in independent lab tests, and its ransomware protection is real.
 

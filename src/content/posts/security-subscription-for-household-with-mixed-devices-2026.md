@@ -37,7 +37,7 @@ We evaluated each subscription on six criteria that matter most to a busy househ
 
 ## Comparison Table
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | Simultaneous devices | Unlimited | 5 | 5 (premium: unlimited) |
 | Platforms | Win / Mac / iOS / Android / Linux / TV | Win / Mac / iOS / Android | Win / Mac / iOS / Android |

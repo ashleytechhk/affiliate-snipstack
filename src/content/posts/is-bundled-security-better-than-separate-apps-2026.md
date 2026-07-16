@@ -28,7 +28,7 @@ There is a hidden cost to running separate tools that rarely shows up in the hea
 
 Your VPN and your antivirus were written by different engineering teams with different threat models. When your VPN kills its connection unexpectedly (a kill-switch trigger), your antivirus does not know to pause and wait — it just keeps scanning while unprotected traffic leaks. When your password manager detects a breached login, it cannot tell your VPN to route your next session through a different server as a precaution.
 
-The other hidden cost is **performance**. Legacy suites like Norton and McAfee grew by acquisition over 20 years. Features were bolted on rather than engineered together. The result is multiple kernel-level drivers, redundant scanning engines, and system tray processes that each want a slice of your RAM before you have opened a single browser tab. Users on mid-range Windows laptops routinely report 20–30% longer boot times after installing Norton 360.
+The other hidden cost is **performance**. Legacy suites like Norton and McAfee grew by acquisition over 20 years. Features were bolted on rather than engineered together. The result is multiple kernel-level drivers, redundant scanning engines, and system tray processes that each want a slice of your RAM before you have opened a single browser tab. Users on mid-range Windows laptops routinely report 20–30% longer boot times after installing [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/).
 
 ---
 

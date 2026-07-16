@@ -40,7 +40,7 @@ The other problem is pricing. Norton and McAfee both use introductory discounts 
 
 Here's how the three major options compare on what matters most for a less tech-savvy user:
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) | Norton 360 Deluxe | McAfee+ Premium |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-review-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Premium |
 |---|---|---|---|
 | [Antivirus](https://snipstack.io/vs-antivirus-2026/) protection | Yes | Yes | Yes |
 | VPN included | Yes (unlimited data) | Yes (50GB cap on lower tiers) | Yes |

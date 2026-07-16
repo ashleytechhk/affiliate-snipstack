@@ -35,7 +35,7 @@ The key differentiator from traditional [security suite](https://snipstack.io/se
 
 ---
 
-## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Norton 360 vs McAfee Total Protection: Feature Comparison
+## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) vs McAfee Total Protection: Feature Comparison
 
 The table below uses the standard multi-device plans that most households actually purchase.
 

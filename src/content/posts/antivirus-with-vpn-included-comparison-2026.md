@@ -79,7 +79,7 @@ Surfshark started as a VPN company and added a strong antivirus layer to create 
 
 ---
 
-### Norton 360 (with VPN)
+### [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) (with VPN)
 
 Norton has been a trusted name in security for decades. Norton 360 includes antivirus, a VPN, a password manager, parental controls, and dark web monitoring.
 

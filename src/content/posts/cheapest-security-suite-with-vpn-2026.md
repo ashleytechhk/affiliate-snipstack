@@ -41,7 +41,7 @@ If you are currently paying Norton or McAfee renewal rates, you are almost certa
 | Renewal price (approx.) | Same — no bait pricing | ~$9/mo | ~$10/mo |
 | Bloatware / upsell prompts | Minimal | Heavy | Heavy |
 
-The renewal column is where the comparison ends the debate. Norton 360 Deluxe renews at around $109.99/year. McAfee Total Protection renews at around $119.99/year. [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) does not inflate its price at renewal — you pay the same rate you signed up for.
+The renewal column is where the comparison ends the debate. [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe renews at around $109.99/year. McAfee Total Protection renews at around $119.99/year. [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) does not inflate its price at renewal — you pay the same rate you signed up for.
 
 ---
 

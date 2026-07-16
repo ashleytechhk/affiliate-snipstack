@@ -110,7 +110,7 @@ A private search tool with no ad tracking, no profiling, and no behavioral targe
 
 ## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) Competitors: Is the Price Competitive Without a Coupon?
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) | Norton 360 Deluxe | McAfee Total Protection |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-pricing-changes-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | Monthly price (2-yr plan) | ~$2.49–$3.99/mo | ~$2.08–$4.17/mo (yr 1 only) | ~$2.50–$4.17/mo (yr 1 only) |
 | Renewal price | Stable | Often 2–3x year-one price | Often 2–3x year-one price |

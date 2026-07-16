@@ -6,7 +6,7 @@ heroImage: "/og/disposable-email-for-vacation-rental-inquiry-form-2026.png"
 tags: ["altid", "privacy", "review"]
 ---
 
-You fill out a vacation rental inquiry form to ask one host a simple question — is the place available in October — and within a day your inbox fills up with booking confirmations for properties you never inquired about, plus "top rated stays near you" digests and an endless drip of "similar listings" emails. Multiply that across every rental site you've checked, and it's easy to end up buried under 50+ spam emails a day just from researching where to stay next summer.
+You fill out a [vacation rental](https://snipstack.io/vacation-rental-scam-how-to-spot-2026/) inquiry form to ask one host a simple question — is the place available in October — and within a day your inbox fills up with booking confirmations for properties you never inquired about, plus "top rated stays near you" digests and an endless drip of "similar listings" emails. Multiply that across every rental site you've checked, and it's easy to end up buried under 50+ spam emails a day just from researching where to stay next summer.
 
 Vacation rental inquiry forms are some of the leakiest sign-up points on the internet. Independent listings, rental marketplaces, and property managers all treat every inquiry as a marketing lead the moment your address lands in their system — whether or not the host ever replies.
 
@@ -65,7 +65,7 @@ Put those together and the pattern is predictable: give a rental inquiry form yo
 
 ### Alt ID — Best Overall for Vacation Rental Inquiries
 
-[Alt ID](/blog/altid?sub=disposable-email-for-vacation-rental-inquiry-form-2026__mid) is Surfshark's masked [email alias](https://snipstack.io/email-alias-for-avoiding-re-marketing-after-cart-abandonment-2026/) tool, included with all Surfshark subscription plans. It generates a randomised alias that forwards all incoming mail directly to your Gmail, Outlook, or Apple Mail inbox — no separate account to check.
+[Alt ID](/blog/altid?sub=disposable-email-for-vacation-rental-inquiry-form-2026__mid) [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-single-device-user-2026/)'s masked [email alias](https://snipstack.io/email-alias-for-avoiding-re-marketing-after-cart-abandonment-2026/) tool, included with all Surfshark subscription plans. It generates a randomised alias that forwards all incoming mail directly to your Gmail, Outlook, or Apple Mail inbox — no separate account to check.
 
 What makes it the right fit here:
 

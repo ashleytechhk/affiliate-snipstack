@@ -47,7 +47,7 @@ For the vast majority of users currently running Norton or McAfee plus a separat
 
 The sticker price of Norton or McAfee looks reasonable until you actually add everything up. Here is what a typical setup costs people who arrive at this question:
 
-- **[Antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) (Norton 360 Standard):** ~$39.99/yr intro, then $99.99+ at renewal
+- **[Antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/) ([Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Standard):** ~$39.99/yr intro, then $99.99+ at renewal
 - **Standalone VPN (any reputable provider):** $40–80/yr
 - **Breach monitoring (if separate):** $0–120/yr depending on service
 

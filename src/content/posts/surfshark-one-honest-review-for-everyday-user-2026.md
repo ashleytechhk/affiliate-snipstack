@@ -37,7 +37,7 @@ If that's you, the comparison below is built around what actually affects your d
 
 ## Feature-by-Feature Comparison
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | Norton 360 Deluxe | McAfee+ Premium |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Premium |
 |---|---|---|---|
 | Antivirus | Yes | Yes | Yes |
 | VPN included | Yes, unlimited | Yes, capped on lower tiers | Yes |

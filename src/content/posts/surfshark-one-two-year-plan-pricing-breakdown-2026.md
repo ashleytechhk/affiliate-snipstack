@@ -63,7 +63,7 @@ If you're already planning to keep a VPN or [antivirus subscription](https://sni
 
 ---
 
-## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/). Norton 360 vs. McAfee Total Protection
+## [Surfshark One vs](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/). [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) vs. McAfee Total Protection
 
 This is the comparison most Annoyed-by-Norton upgraders actually want to see. Let's put the main competing bundles side by side.
 

@@ -44,7 +44,7 @@ The bundled [security plan](https://snipstack.io/security-plan-covering-iphone-a
 
 Here is how the key components stack up when you build the equivalent stack piece by piece versus buying the bundle outright.
 
-| Feature | Norton 360 Standard + NordVPN | McAfee Total Protection + ExpressVPN | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle |
+| Feature | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Standard + NordVPN | McAfee Total Protection + ExpressVPN | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle |
 |---|---|---|---|
 | VPN (unlimited devices) | Partial (Norton VPN limited) | No (separate subscription) | Yes |
 | Antivirus / malware | Yes | Yes | Yes |

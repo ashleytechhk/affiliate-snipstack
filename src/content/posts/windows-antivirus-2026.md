@@ -33,7 +33,7 @@ We evaluated five products across six dimensions: malware detection rate (based 
 | Product | Detection Rate | Performance Impact | VPN Included | Devices | Annual Renew Price (1 device) |
 |---|---|---|---|---|---|
 | **[Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Bundle** | 99.6% | Low | Yes (unlimited) | Up to 5 | ~$48 |
-| Norton 360 Standard | 99.8% | Medium-High | Yes (limited GB) | 1 | ~$90 |
+| [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Standard | 99.8% | Medium-High | Yes (limited GB) | 1 | ~$90 |
 | McAfee Total Protection | 99.5% | Medium-High | Yes (unlimited) | 1 | ~$80 |
 | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) | 99.9% | Low | No (add-on) | 5 | ~$90 |
 | [Windows Defender](https://snipstack.io/windows-defender-download-2026/) (built-in) | 98.8% | Very Low | No | Unlimited | Free |

@@ -42,7 +42,7 @@ Most bundles check some of these boxes. The question is how many, at what price,
 
 Here is how the main contenders stack up across criteria families actually care about.
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | Norton 360 Deluxe | McAfee Total Protection | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) |
 |---|---|---|---|---|
 | Simultaneous devices | **Unlimited** | 5 | 5 | 5 |
 | VPN included | Yes | Yes | Yes | No (paid add-on) |

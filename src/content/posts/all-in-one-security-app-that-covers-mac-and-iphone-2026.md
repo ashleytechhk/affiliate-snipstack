@@ -48,7 +48,7 @@ Before the comparison table, here are the features that actually matter for dual
 
 ![All-in-one security app comparison table — Mac and iPhone 2026](/og/all-in-one-security-app-that-covers-mac-and-iphone-2026-inline-1.png)
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Norton 360 | McAfee Total Protection | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) | McAfee Total Protection | Bitdefender [Total Security](https://snipstack.io/total-security-suite-under-100-dollars-2026/) |
 |---|---|---|---|---|
 | macOS antivirus (real-time) | Yes | Yes | Yes | Yes |
 | iPhone app | Yes | Yes | Yes | Yes |
