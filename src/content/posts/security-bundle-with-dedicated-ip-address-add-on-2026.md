@@ -6,7 +6,7 @@ heroImage: "/og/security-bundle-with-dedicated-ip-address-add-on-2026.png"
 tags: ["one", "privacy", "review"]
 ---
 
-If you're renewing Norton or McAfee this year out of habit rather than enthusiasm, you've probably also run into the dedicated IP problem: neither one sells you a stable, personal IP address as part of the package. You get antivirus, you get a capped VPN, and if you want a dedicated IP for whitelisting a remote tool or keeping a subscription account clean, you're told to look elsewhere.
+If you're renewing Norton or McAfee this year out of habit rather than enthusiasm, you've probably also run into the dedicated IP problem: neither one sells you a stable, personal IP address as part of the package. You get [antivirus](https://snipstack.io/vs-antivirus-2026/), you get a capped VPN, and if you want a dedicated IP for whitelisting a remote tool or keeping a subscription account clean, you're told to look elsewhere.
 
 ![Best security bundle with dedicated IP address add on compared 2026](/og/security-bundle-with-dedicated-ip-address-add-on-2026.png)
 
@@ -26,7 +26,7 @@ That's the gap this comparison covers: which [security bundle](https://snipstack
 
 Here's how the three bundles line up on the features that matter for this use case:
 
-| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) | Norton 360 Deluxe | McAfee+ Premium |
+| Feature | [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe | McAfee+ Premium |
 |---|---|---|---|
 | Antivirus | Yes | Yes | Yes |
 | VPN included | Yes (unlimited) | Yes (capped on lower tiers) | Yes |
@@ -90,7 +90,7 @@ This is where the Norton/McAfee fatigue usually comes from. Year-one pricing on 
 
 Bloatware isn't the only friction point for a Norton or McAfee upgrader — device limits are the other one. Norton 360 plans typically cap you at five devices unless you move to a higher tier, and McAfee's device allowance varies by plan too. For a household running a laptop, a desktop, a phone, and a tablet, that ceiling gets hit fast — and adding the dedicated IP feature on top, if it were even available, would likely mean yet another per-device or per-seat cost.
 
-Surfshark One doesn't work that way. The subscription covers unlimited devices, and the dedicated IP add-on applies at the account level rather than per device. Once it's configured, every device signed into that account uses the same personal IP automatically. For anyone consolidating multiple devices — and multiple subscriptions — into one plan, that's one fewer limit to track.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) doesn't work that way. The subscription covers unlimited devices, and the dedicated IP add-on applies at the account level rather than per device. Once it's configured, every device signed into that account uses the same personal IP automatically. For anyone consolidating multiple devices — and multiple subscriptions — into one plan, that's one fewer limit to track.
 
 ---
 
@@ -106,7 +106,7 @@ For everyone else stuck paying Norton or McAfee renewal prices while still needi
 
 ### Do Norton or McAfee offer a dedicated IP address add-on?
 
-Not as a self-serve consumer option. Both companies focus their dedicated or static IP offerings on business and enterprise tiers, which typically require a sales conversation and a higher contract. Surfshark One offers it as an in-app add-on available to any subscriber.
+Not as a self-serve consumer option. Both companies focus their dedicated or static IP offerings on business and enterprise tiers, which typically require a sales conversation and a higher contract. [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) offers it as an in-app add-on available to any subscriber.
 
 ### Is a dedicated IP the same as a static IP?
 
@@ -136,6 +136,6 @@ Not really — since the antivirus, VPN, and breach monitoring come in the same 
 
 ## The Bottom Line
 
-If the specific thing pushing you off Norton or McAfee is the lack of a dedicated IP option — not just the renewal price or the background noise — Surfshark One is the more complete answer. You get the antivirus, VPN, and breach monitoring you already expect from a [security bundle](https://snipstack.io/security-bundle-that-doesnt-require-tech-knowledge-2026/), plus a dedicated IP you can add and configure in minutes, without a business contract or a second subscription.
+If the specific thing pushing you off Norton or McAfee is the lack of a dedicated IP option — not just the renewal price or the background noise — [Surfshark One](https://snipstack.io/surfshark-one-for-parents-monitoring-teen-phone-2026/) is the more complete answer. You get the antivirus, VPN, and breach monitoring you already expect from a [security bundle](https://snipstack.io/security-bundle-that-doesnt-require-tech-knowledge-2026/), plus a dedicated IP you can add and configure in minutes, without a business contract or a second subscription.
 
 **[Get Surfshark One with the dedicated IP add-on →](/blog/one?sub=security-bundle-with-dedicated-ip-address-add-on-2026__cta)**

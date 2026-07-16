@@ -118,7 +118,7 @@ For everyone else, the case for consolidating into one uncapped suite is straigh
 
 ### What counts as a "household device" under a single [security suite](https://snipstack.io/security-suite-for-android-and-windows-together-2026/)?
 
-Generally, anything that connects to the internet and can run a security app — laptops, desktops, phones, and tablets, with router-level setup available for smart TVs. [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)'s unlimited device policy means you don't need to categorize or ration anything.
+Generally, anything that connects to the internet and can run a [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/) — laptops, desktops, phones, and tablets, with router-level setup available for smart TVs. [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)'s unlimited device policy means you don't need to categorize or ration anything.
 
 ### Is one [security suite](https://snipstack.io/security-suite-for-unlimited-devices-2026/) really enough to replace Norton and McAfee?
 

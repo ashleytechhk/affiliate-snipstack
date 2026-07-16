@@ -70,7 +70,7 @@ An [email alias for](https://snipstack.io/email-alias-for-receiving-government-b
 - **Instant shutoff.** If a marketplace starts forwarding your address to promotional partners, delete that alias and generate a fresh one. Buyer messages resume immediately; the spam pathway doesn't.
 - **Unlimited aliases.** Sellers running shops across multiple platforms don't hit a cap the way they would on most free tools.
 
-**Limitations:** requires a Surfshark subscription (Alt-ID is bundled with all plans, not sold separately), and you'll need to update your registered email on each marketplace individually when switching over.
+**Limitations:** requires a Surfshark subscription (Alt-ID [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with all plans, not sold separately), and you'll need to update your registered email on each marketplace individually when switching over.
 
 ---
 
@@ -114,7 +114,7 @@ Proton Pass lets you create forwarding aliases tied to a Proton Mail inbox, with
 
 **Best for:** sellers already running their business email through Proton who want alias creation in the same ecosystem.
 
-**Limitations:** if your primary inbox lives outside Proton, forwarding mail in and back out adds configuration steps most sellers won't want on top of running a shop. Like SimpleLogin, it's alias-only — no bundled VPN or broader privacy suite.
+**Limitations:** if your primary inbox lives outside Proton, forwarding mail in and back out adds configuration steps most sellers won't want on top of running a shop. Like SimpleLogin, it's alias-only — no bundled VPN or broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/).
 
 [Compare all of this against Alt-ID's unlimited, bundled approach.](/blog/altid?sub=email-alias-for-marketplace-seller-account-messages-2026__mid)
 

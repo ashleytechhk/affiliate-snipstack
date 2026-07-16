@@ -86,7 +86,7 @@ This is not a claim about legal conclusions — the applicable standard varies b
 
 ### AES-256-GCM Encryption on Every Connection
 
-Surfshark encrypts all traffic using AES-256-GCM, the authenticated encryption mode recommended for network security applications. This is not a tier or setting you have to enable — it is active on every connection by default. On a shared network, your traffic is opaque to everyone sharing the connection.
+Surfshark encrypts all traffic using AES-256-GCM, the authenticated encryption mode recommended for network [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)lications. This is not a tier or setting you have to enable — it is active on every connection by default. On a shared network, your traffic is opaque to everyone sharing the connection.
 
 ### Audited No-Logs Policy
 

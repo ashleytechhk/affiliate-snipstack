@@ -175,7 +175,7 @@ Most [security suite](https://snipstack.io/security-suite-for-android-and-window
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-2026/) work on all platforms?
 
-Yes. Surfshark supports Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. The antivirus component is currently Windows and macOS only — mobile devices use VPN and Alert features without a dedicated antivirus scan engine, which is consistent with how iOS and Android handle third-party security apps system-wide.
+Yes. Surfshark supports Windows, macOS, iOS, Android, Linux, and browser extensions for Chrome and Firefox. The antivirus component is currently Windows and macOS only — mobile devices use VPN and Alert features without a dedicated antivirus scan engine, which is consistent with how iOS and Android handle third-party [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s system-wide.
 
 ### Is the Surfshark VPN good enough for streaming?
 

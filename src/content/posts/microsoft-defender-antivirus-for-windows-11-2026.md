@@ -38,7 +38,7 @@ First, let us make sure Defender is active on your computer.
 
 1. Click the **Start** button (the Windows logo at the bottom-left of your screen).
 2. Type **"[Windows Security](https://snipstack.io/windows-security-2026/)"** and press **Enter**.
-3. The Windows Security app opens. Look for **Virus & threat protection** — it should show a green checkmark.
+3. The Windows [Security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/) opens. Look for **Virus & threat protection** — it should show a green checkmark.
 
 ![Windows Security dashboard showing green checkmarks](/og/microsoft-defender-antivirus-for-windows-11-2026-inline-1.png)
 

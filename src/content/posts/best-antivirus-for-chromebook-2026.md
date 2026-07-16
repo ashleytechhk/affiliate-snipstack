@@ -99,7 +99,7 @@ The included VPN has data limits on standard plans, similar to Norton.
 
 ### Bitdefender Mobile Security — Lightweight, Good Value
 
-Bitdefender's mobile security app works on Chromebooks and covers phishing protection, a VPN (with a 200 MB daily cap on the standard plan), breach alerts, and Android app scanning. The interface is clean and relatively simple, and Bitdefender consistently scores well in independent security lab tests.
+Bitdefender's mobile [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/) works on Chromebooks and covers phishing protection, a VPN (with a 200 MB daily cap on the standard plan), breach alerts, and Android app scanning. The interface is clean and relatively simple, and Bitdefender consistently scores well in independent security lab tests.
 
 The annual price is lower than most competitors, which makes it a strong value option. The VPN data cap is the same trade-off as Norton and McAfee — fine for occasional use, limiting if you rely on public Wi-Fi regularly.
 

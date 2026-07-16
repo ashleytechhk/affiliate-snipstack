@@ -65,7 +65,7 @@ Not every bad actor wants to stalk you. Some want your money. Fraudsters who obt
 
 ### Risk 3: Data Broker Exposure
 
-Even if your match is harmless, any number you share can end up in data broker databases through app analytics, CRM tools, or third-party integrations. Temporary numbers that have been deleted return nothing useful when searched.
+Even if your match is harmless, any number you share can end up in data broker databases through app analytics, CRM tools, or third-party integrations. [Temporary number](https://snipstack.io/temporary-number-for-bumble-without-real-phone-2026/)s that have been deleted return nothing useful when searched.
 
 ### Risk 4: SIM-Swap Attacks
 

@@ -103,7 +103,7 @@ You do not need to do anything special day to day. Windows Defender runs quietly
 
 ## Troubleshooting: Common Problems and Simple Fixes
 
-### "I cannot find the Windows Security app"
+### "I cannot find the Windows [Security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)"
 
 Try a different search. Click Start, then type **"Defender"** in the search bar. If nothing appears, check that your Windows is up to date: go to Start → Settings → Windows Update → Check for updates.
 

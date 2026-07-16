@@ -118,7 +118,7 @@ No. [Surfshark One](https://snipstack.io/surfshark-one-plus-vs-one-comparison-20
 
 ### Can I use [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/) on an iPhone or iPad?
 
-Yes, but with reduced antivirus functionality. Apple's iOS platform restricts what third-party security apps can scan, so [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) has limited capabilities on iOS. The VPN, Alert breach monitoring, and Alternative ID features work fully on iPhones and iPads.
+Yes, but with reduced antivirus functionality. Apple's iOS platform restricts what third-party [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s can scan, so [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-windows-defender-2026/) has limited capabilities on iOS. The VPN, Alert breach monitoring, and Alternative ID features work fully on iPhones and iPads.
 
 ### What is the difference between Surfshark Starter and [Surfshark One](https://snipstack.io/surfshark-one-review-2026/)?
 

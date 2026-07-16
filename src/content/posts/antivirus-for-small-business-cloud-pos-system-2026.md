@@ -141,7 +141,7 @@ Your POS provider secures the data stored on their servers. They do not protect 
 
 ### I use an iPad for my POS. Do I still need antivirus?
 
-Yes. While iPads are harder to infect than Windows computers, they are not immune. Phishing attacks, malicious profiles, and unsafe Wi-Fi networks all pose risks to iPads used in business settings. A dedicated security app adds a layer of protection that the built-in iOS security alone does not provide.
+Yes. While iPads are harder to infect than Windows computers, they are not immune. Phishing attacks, malicious profiles, and unsafe Wi-Fi networks all pose risks to iPads used in business settings. A dedicated [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/) adds a layer of protection that the built-in iOS security alone does not provide.
 
 ### My business is tiny — just me and one part-time helper. Am I really a target?
 

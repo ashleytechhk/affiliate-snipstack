@@ -137,7 +137,7 @@ For online daters, [Surfshark Alt-Number](/blog/altnumber?sub=best-app-for-tempo
 **Can a temporary SMS number really protect me from harassment?**
 It significantly limits the avenues available to someone who turns hostile. If they only have your Alt-Number, blocking or replacing that number cuts off phone-based contact entirely. They do not have your real number to call from other devices, pass to third parties, or run through lookup services. It does not address every risk, but it removes the most direct one.
 
-**Will matches know I am using a temporary number?**
+**Will matches know I am using a [temporary number](https://snipstack.io/temporary-number-for-bumble-without-real-phone-2026/)?**
 In the vast majority of cases, no. An Alt-Number behaves exactly like a regular mobile number from the recipient's perspective — it appears as a local number in their contacts, calls and texts work normally, and there is no indicator that it is routed through a privacy service. Standard consumer reverse-lookup tools typically cannot distinguish it from a standard mobile line.
 
 **Do I need a [second phone](https://snipstack.io/second-phone-number-for-verification-2026/) or SIM to use Alt-Number?**

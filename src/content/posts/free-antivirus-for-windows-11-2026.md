@@ -53,7 +53,7 @@ The Windows Security window will open. It has a simple dashboard with colored ic
 
 ## Step 2 — Check That Virus Protection Is Turned On
 
-1. Inside the Windows Security app, click **Virus & threat protection**. It is usually the first item on the left side.
+1. Inside the Windows [Security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/), click **Virus & threat protection**. It is usually the first item on the left side.
 2. Look for the words **"No current threats"** or a green checkmark near the top of the page.
 3. Scroll down slightly and look for **"Virus & threat protection settings."** Click **Manage settings** underneath it.
 4. Make sure **Real-time protection** shows as **On** — the slider should be blue or green, pointing to the right.

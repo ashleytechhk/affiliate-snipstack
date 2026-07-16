@@ -107,7 +107,7 @@ There are many antivirus options on the market. For seniors using a tablet, [Sur
 
 **It covers Android tablets and iPads under one account.** Many seniors own both an Android tablet and an iPhone or iPad. Surfshark's subscription protects multiple devices simultaneously, so you are not paying separately for each screen you own.
 
-**It runs quietly without draining your battery.** Heavy security apps can make a tablet sluggish and eat through the battery. Surfshark is designed to be lightweight — it works in the background without you noticing it, and it does not push constant notifications asking you to upgrade or take action.
+**It runs quietly without draining your battery.** Heavy [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s can make a tablet sluggish and eat through the battery. Surfshark is designed to be lightweight — it works in the background without you noticing it, and it does not push constant notifications asking you to upgrade or take action.
 
 ---
 

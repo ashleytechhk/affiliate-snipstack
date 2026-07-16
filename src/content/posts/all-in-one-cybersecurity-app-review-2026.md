@@ -139,7 +139,7 @@ If your current [security suite](https://snipstack.io/security-suite-for-unlimit
 
 ### What is an all-in-one cybersecurity app and do I actually need one?
 
-An all-in-one cybersecurity app bundles the tools that were previously sold separately — antivirus, VPN, breach alerts, ad blocking — into a single subscription. Whether you need one depends on what you do online. If you use public Wi-Fi, bank or shop online, or have had a data breach notification in the past two years, a bundled suite closes more gaps with less management overhead than separate tools. **[See what Surfshark One includes](/blog/one?sub=all-in-one-cybersecurity-app-review-2026__faq)** for a current feature list and pricing.
+An all-in-one cyber[security app bundle](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s the tools that were previously sold separately — antivirus, VPN, breach alerts, ad blocking — into a single subscription. Whether you need one depends on what you do online. If you use public Wi-Fi, bank or shop online, or have had a data breach notification in the past two years, a bundled suite closes more gaps with less management overhead than separate tools. **[See what Surfshark One includes](/blog/one?sub=all-in-one-cybersecurity-app-review-2026__faq)** for a current feature list and pricing.
 
 ### Is [Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/)'s antivirus detection as reliable as Norton's?
 

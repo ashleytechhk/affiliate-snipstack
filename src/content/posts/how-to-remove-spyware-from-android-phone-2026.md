@@ -69,7 +69,7 @@ If you recognize two or more of these signs, take the situation seriously. It do
 
 ## [How to Remove](https://snipstack.io/how-to-remove-trojan-from-windows-11-2026/) Spyware From Your Android Phone: Step-by-Step
 
-There are two approaches: manual removal and using a security app. We recommend doing both, starting with the manual steps to remove obvious threats, then running a scanner to catch anything hidden.
+There are two approaches: manual removal and using a [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/). We recommend doing both, starting with the manual steps to remove obvious threats, then running a scanner to catch anything hidden.
 
 ### Step 1: Put Your Phone in Safe Mode
 

@@ -148,7 +148,7 @@ If the problem continues, a factory reset wipes the phone back to how it was whe
 
 Most threats arrive through two doors: malicious apps and unsafe connections (public Wi-Fi, phishing links). An antivirus handles the app side. A VPN encrypts your connection and blocks known dangerous websites before you can accidentally visit them.
 
-Surfshark bundles both into one subscription, which makes it practical for seniors who do not want to manage multiple security apps. The interface is simple: tap to connect, and it runs quietly in the background.
+Surfshark bundles both into one subscription, which makes it practical for seniors who do not want to manage multiple [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s. The interface is simple: tap to connect, and it runs quietly in the background.
 
 Key features relevant to the warning signs above:
 

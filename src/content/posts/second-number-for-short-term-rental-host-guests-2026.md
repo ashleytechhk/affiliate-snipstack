@@ -10,7 +10,7 @@ tags: ["altnumber", "privacy", "review"]
 
 A guest checks out of your rental. Three weeks later, a text arrives from a number you've never saved — someone who somehow knows your name, your other listings, and the neighborhood you live in. The only thing they ever had was the [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) you texted them the lockbox code from.
 
-This is the quiet risk almost every short-term rental host and guest accepts without thinking twice. Booking apps route messages through their own system at first, but the moment a check-in question comes up — the code isn't working, I'll be 20 minutes late, can you turn the heat on before I arrive — the conversation drops into regular text messages. Real phone numbers get typed into a chat with someone who, an hour ago, was a stranger on a listing page.
+This is the quiet risk almost every short-term rental host and guest accepts without thinking twice. Booking apps route messages through their own system at first, but the moment a check-in question comes up — the code isn't working, I'll be 20 minutes late, can you turn the heat on before I arrive — the conversation drops into regular text messages. Real [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/)s get typed into a chat with someone who, an hour ago, was a stranger on a listing page.
 
 Anyone who's ever protected their number on a dating app already knows why this matters. You wouldn't hand your personal number to a match on the first message — so why is it normal to hand it to a guest you're letting into your home, or a host whose address you're about to stay at?
 
@@ -24,7 +24,7 @@ Anyone who's ever protected their number on a dating app already knows why this 
 
 ## Why This Matters
 
-A phone number is a far more permanent identifier than most people treat it as. Once someone has it, they can run it through any of dozens of free or low-cost people-search sites and come back with a full name, past addresses, relatives, and sometimes employer information — all from a string of ten digits typed into a lockbox instruction text.
+A [phone number](https://snipstack.io/phone-number-privacy-for-social-media-2026/) is a far more permanent identifier than most people treat it as. Once someone has it, they can run it through any of dozens of free or low-cost people-search sites and come back with a full name, past addresses, relatives, and sometimes employer information — all from a string of ten digits typed into a lockbox instruction text.
 
 Hosts type their number into hundreds of guest conversations a year. Guests do the same in reverse every time they book. Most of those interactions are completely fine — a polite stranger who needed the WiFi password. But it only takes one person treating a rental exchange as an opening to keep contacting you, showing up at a review with an unsettling comment, or worse, and the fact that they have your real number stops being a minor inconvenience.
 
@@ -56,7 +56,7 @@ Alt-Number gives you a real, working [second phone number](https://snipstack.io/
 
 For rental hosts and guests, the workflow is simple:
 
-**Use the Alt-Number for every booking conversation.** Put it in your host profile, your guest messages, your check-in instructions — anywhere a phone number needs to change hands with someone you don't know yet.
+**Use the Alt-Number for every booking conversation.** Put it in your host profile, your guest messages, your check-in instructions — anywhere a [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) needs to change hands with someone you don't know yet.
 
 **Keep your real number reserved for people you actually trust.** Family, close contacts, and long-term relationships stay on your primary line. Strangers from a booking platform never touch it.
 
@@ -94,7 +94,7 @@ In most cases, no. The number behaves like a standard local number on their end 
 You swap it inside the Surfshark app. The old number stops reaching you, and whoever had it — a past guest, a past host — can't reconnect through it. There's no notification sent to them and no trace back to your new number or your real one.
 
 **Is it against Airbnb or Vrbo's rules to use a [second number](https://snipstack.io/second-number-for-wedding-photographer-client-intake-2026/)?**
-No platform rule requires you to share your carrier-issued personal number specifically. Using a separate number for messaging outside the app is a privacy choice, not a policy violation. If you're ever unsure, check the specific platform's current terms.
+No platform rule requires you to share your carrier-issued personal number specifically. Using a [separate number for](https://snipstack.io/separate-number-for-dating-apps-2026/) messaging outside the app is a privacy choice, not a policy violation. If you're ever unsure, check the specific platform's current terms.
 
 **Does this help with anything besides rentals?**
 Yes — it's the same privacy logic people use for dating apps, marketplace sales, and any situation where a stranger needs a working number but doesn't need your real one. Many hosts and guests already use a [second number for](https://snipstack.io/second-number-for-bodybuilder-personal-trainer-clients-2026/) dating for exactly this reason, and apply it to bookings once they realize the exposure is nearly identical.
@@ -106,7 +106,7 @@ It functions as a real, separate number — your real number and personal accoun
 
 ## The Bottom Line
 
-Short-term rental hosts and guests hand out their real phone number to strangers constantly, and almost nobody treats it with the same caution they'd apply on a dating app — even though the exposure is the same kind of risk. A booking conversation about a door code shouldn't be the reason a stranger ends up with your name, your address history, and a direct line to you indefinitely.
+Short-term rental hosts and guests hand out their real [phone number](https://snipstack.io/phone-number-alias-for-work-2026/) to strangers constantly, and almost nobody treats it with the same caution they'd apply on a dating app — even though the exposure is the same kind of risk. A booking conversation about a door code shouldn't be the reason a stranger ends up with your name, your address history, and a direct line to you indefinitely.
 
 [Surfshark Alt-Number](/blog/altnumber?sub=second-number-for-short-term-rental-host-guests-2026__cta) fixes this in the time it takes to set up. A real working number for every guest and host conversation, your actual number reserved for people you trust, and a clean way to walk away if a stay goes wrong.
 

@@ -14,7 +14,7 @@ More than one million children in the United States were victims of identity fra
 
 Now add this: adults over 60 lost $3.4 billion to cybercrime in 2023 alone, according to the FBI's Internet Crime Complaint Center — more than any other age group. Put the two numbers together and you get a frightening picture. Scammers are working both ends of the family at once. They target grandparents directly, and they use children's devices as an easy back door into the very same home, the very same Wi-Fi, and sometimes the very same accounts.
 
-Maybe you are here because your grandchild's tablet started showing strange pop-ups. Maybe an odd charge showed up on your card after you handed your phone over for a game. Or maybe you are simply tired of juggling different security apps for different devices and wondering if there is an easier way. There is — and it starts with understanding why one [antivirus](https://snipstack.io/vs-antivirus-2026/) plan covering kids' phone and tablet alongside your own devices matters more in 2026 than ever before.
+Maybe you are here because your grandchild's tablet started showing strange pop-ups. Maybe an odd charge showed up on your card after you handed your phone over for a game. Or maybe you are simply tired of juggling different [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s for different devices and wondering if there is an easier way. There is — and it starts with understanding why one [antivirus](https://snipstack.io/vs-antivirus-2026/) plan covering kids' phone and tablet alongside your own devices matters more in 2026 than ever before.
 
 ---
 

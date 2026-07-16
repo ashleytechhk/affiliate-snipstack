@@ -143,7 +143,7 @@ No. Browser extensions like [uBlock Origin](https://snipstack.io/ublock-origin-v
 
 ### Is it safe to run a VPN-based [ad blocker](https://snipstack.io/ad-blocker-that-blocks-sponsored-pins-on-pinterest-2026/) on my phone all day?
 
-Yes. A local VPN tunnel for ad blocking is a well-established approach used by multiple reputable security apps. Surfshark operates servers in dozens of countries with a no-logs policy, meaning your browsing data is not stored or sold. [Learn more about CleanWeb's privacy approach here.](/blog/adblock?sub=ad-blocker-for-dating-app-browser-version-2026__faq)
+Yes. A local VPN tunnel for ad blocking is a well-established approach used by multiple reputable [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s. Surfshark operates servers in dozens of countries with a no-logs policy, meaning your browsing data is not stored or sold. [Learn more about CleanWeb's privacy approach here.](/blog/adblock?sub=ad-blocker-for-dating-app-browser-version-2026__faq)
 
 ### Does CleanWeb work on iOS and Android?
 

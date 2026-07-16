@@ -79,7 +79,7 @@ Android is the one mobile platform where a full antivirus scan is possible, and 
 
 ## iPhone: Why There's No Antivirus (And What Replaces It)
 
-This is the part every cross-platform comparison glosses over. Apple's iOS sandboxing model doesn't let any security app — not Surfshark's, not Norton's, not McAfee's — scan other apps or the file system the way a Windows or Android antivirus engine can. Any app claiming full "antivirus" on iPhone is describing something narrower than what runs on desktop.
+This is the part every cross-platform comparison glosses over. Apple's iOS sandboxing model doesn't let any [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/) — not Surfshark's, not Norton's, not McAfee's — scan other apps or the file system the way a Windows or Android antivirus engine can. Any app claiming full "antivirus" on iPhone is describing something narrower than what runs on desktop.
 
 What [Surfshark One](https://snipstack.io/surfshark-one-for-small-business-three-employees-2026/) gives you on iPhone instead is the VPN, Alert breach monitoring, and Search. That's a closer match to the iPhone's actual risk profile: unsecured Wi-Fi networks, [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s in messages and email, and data exposed through breaches at other companies — rather than a rogue app quietly installing malware, which iOS's app-review process makes far less common in the first place.
 

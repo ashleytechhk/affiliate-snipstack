@@ -198,7 +198,7 @@ The scan itself takes 15 to 60 minutes for a full computer check. The removal, o
 
 ### Can keyloggers steal information from my phone as well?
 
-Yes, though the focus of this guide is desktop and laptop computers. Phones can be affected by similar threats — mainly through apps installed from unofficial sources. If you are concerned about your phone, look for a mobile security app from a reputable company. For computers specifically, a dedicated **keylogger detection and removal tool** like Surfshark Antivirus is your clearest line of defence.
+Yes, though the focus of this guide is desktop and laptop computers. Phones can be affected by similar threats — mainly through apps installed from unofficial sources. If you are concerned about your phone, look for a mobile [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/) from a reputable company. For computers specifically, a dedicated **keylogger detection and removal tool** like Surfshark Antivirus is your clearest line of defence.
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) Antivirus difficult to set up?
 

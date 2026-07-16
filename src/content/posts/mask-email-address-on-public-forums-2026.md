@@ -39,7 +39,7 @@ The harvested address is then sold to spam operations, phishing kits, and data b
 
 ---
 
-## Comparison Table: 6 Ways to Mask Email on Public Forums
+## Comparison Table: 6 Ways to [Mask Email](https://snipstack.io/mask-email-for-job-board-applications-privacy-2026/) on Public Forums
 
 | Tool | Persistent alias | Forwards to real inbox | Two-way reply | Instant revoke | Forum-safe domain | Free tier |
 |---|---|---|---|---|---|---|

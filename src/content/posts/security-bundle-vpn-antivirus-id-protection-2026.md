@@ -193,7 +193,7 @@ Related, but different. A [temporary email](https://snipstack.io/temporary-email
 
 ### Does [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) work on all platforms?
 
-[Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) supports Windows, macOS, iOS, Android, and Linux, plus browser extensions for Chrome and Firefox. The antivirus component covers Windows, macOS, and Android. iOS devices get VPN and Alert features — Apple restricts third-party antivirus engine access on iPhones at the system level, which is consistent across all iOS security apps. Alternative ID is accessible from any device via the Surfshark app or browser extension.
+[Surfshark One](https://snipstack.io/surfshark-one-for-family-of-four-review-2026/) supports Windows, macOS, iOS, Android, and Linux, plus browser extensions for Chrome and Firefox. The antivirus component covers Windows, macOS, and Android. iOS devices get VPN and Alert features — Apple restricts third-party antivirus engine access on iPhones at the system level, which is consistent across all iOS [security app](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)s. Alternative ID is accessible from any device via the Surfshark app or browser extension.
 
 ---
 

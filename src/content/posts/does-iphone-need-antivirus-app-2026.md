@@ -93,7 +93,7 @@ The tools that cover those threats are sometimes sold as "[antivirus for](https:
 
 ---
 
-## What to Look for in an iPhone Security App
+## What to Look for in an iPhone [Security App](https://snipstack.io/security-app-bundle-with-webcam-protection-feature-2026/)
 
 When comparing options, ignore promises about virus scanning — that feature does not exist on iPhone in any meaningful form. Focus on these instead:
 
