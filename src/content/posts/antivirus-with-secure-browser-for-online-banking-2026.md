@@ -55,7 +55,7 @@ Some malware works by silently recording every key you press or taking screensho
 
 ### It Isolates Your Session
 
-The secure browser runs your banking session in its own protected space, separate from other tabs, extensions, and programs running on your device. This means a bad browser extension or another compromised tab cannot reach into your banking session and grab your information.
+The secure browser runs your banking session in its own protected space, separate from other tabs, extensions, and programs running on your device. This means a bad [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) or another compromised tab cannot reach into your banking session and grab your information.
 
 ![How a secure browser protects an online banking session step by step](/og/antivirus-with-secure-browser-for-online-banking-2026-inline-1.png)
 

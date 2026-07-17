@@ -120,7 +120,7 @@ Surfshark confirms your identity with your real number during setup. This is a o
 
 **Step 5 — Use this number on dating apps**
 
-Update your dating app profiles to use your Alt Number for verification and contact. When you give your number to a match, give them this one. Your real SIM stays private.
+Update your dating app profiles to use your [Alt Number for](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) verification and contact. When you give your number to a match, give them this one. Your real SIM stays private.
 
 **Step 6 — Block or discard cleanly**
 

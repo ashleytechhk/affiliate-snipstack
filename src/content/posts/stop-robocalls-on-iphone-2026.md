@@ -219,7 +219,7 @@ A VPN encrypts your internet traffic and masks your IP address — it has no eff
 | iOS built-in | Silence Unknown Callers | Reactive |
 | Carrier | AT&T ActiveArmor / Verizon Call Filter / T-Mobile Scam Shield | Reactive |
 | Third-party app | Hiya / RoboKiller / Truecaller | Reactive |
-| Alias number | Surfshark Alt Number | Proactive |
+| Alias number | Surfshark [Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) | Proactive |
 
 The reactive layers catch most robocalls. The alias number is the only layer that keeps your real number clean from the start.
 

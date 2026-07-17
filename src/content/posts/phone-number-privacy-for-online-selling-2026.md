@@ -128,7 +128,7 @@ Here is how it works: an attacker calls your mobile carrier, claims to be you, a
 
 Losses from SIM swap attacks have reached into the hundreds of thousands of dollars for individual victims. The FBI flagged a sharp rise in cases in both 2022 and 2023.
 
-Using an alt number for public-facing activity means your real number is less visible online. Fewer strangers have it. Fewer data broker records list it. That reduces the surface area for a SIM swap attempt.
+Using an [alt number for](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) public-facing activity means your real number is less visible online. Fewer strangers have it. Fewer data broker records list it. That reduces the surface area for a SIM swap attempt.
 
 ---
 

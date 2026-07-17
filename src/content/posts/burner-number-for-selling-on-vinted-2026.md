@@ -82,7 +82,7 @@ Not all secondary number services are equal. Here is what actually matters for a
 
 **[Alt Number](https://snipstack.io/blog/altnumber?sub=burner-number-for-selling-on-vinted-2026__mid)** ticks every item on that list. Here is how you would use it specifically as a Vinted seller:
 
-**Step 1 — Get a UK number in the app.** Open the Surfshark app, tap Alt Number, and select a UK number from the available pool. Takes about three minutes. No carrier store, no SIM swap.
+**Step 1 — Get a UK number in the app.** Open the Surfshark app, tap [Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/), and select a UK number from the available pool. Takes about three minutes. No carrier store, no SIM swap.
 
 **Step 2 — Put that number in your Vinted profile bio (optional).** Some sellers do this so buyers know upfront they can reach you this way. Others keep it for situations where a buyer specifically asks for it.
 

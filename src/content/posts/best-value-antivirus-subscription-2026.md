@@ -155,7 +155,7 @@ Windows computers include [Microsoft Defender](https://snipstack.io/microsoft-de
 
 **How do I know if a pop-up claiming my computer is infected is real or a scam?**
 
-If a pop-up appears in your web browser saying your computer is infected and asking you to call a number or download something, it is almost certainly a scam. Legitimate antivirus alerts appear as a small notification from an app already installed on your device — not from a website. Close the browser tab (press the X on the tab) and run a scan using your actual antivirus app.
+If a pop-up appears in your web browser saying your computer is infected and asking you to call a number or download something, it is almost certainly a scam. Legitimate [antivirus alert](https://snipstack.io/antivirus-alert-when-child-visits-unsafe-website-2026/)s appear as a small notification from an app already installed on your device — not from a website. Close the browser tab (press the X on the tab) and run a scan using your actual antivirus app.
 
 **Will antivirus software slow down my computer?**
 

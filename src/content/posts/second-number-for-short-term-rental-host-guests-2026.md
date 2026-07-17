@@ -90,7 +90,7 @@ No. [Alt-Number](/blog/altnumber?sub=second-number-for-short-term-rental-host-gu
 **Will guests or hosts notice I'm using a [second number](https://snipstack.io/second-number-for-senior-parents-calling-from-abroad-2026/)?**
 In most cases, no. The number behaves like a standard local number on their end — it shows up in their phone as a normal contact, and calls or texts go through without any indication it's routed through a privacy app.
 
-**What happens if I need to replace the number later?**
+**[What happens](https://snipstack.io/what-happens-when-email-is-in-data-breach-2026/) if I need to replace the number later?**
 You swap it inside the Surfshark app. The old number stops reaching you, and whoever had it — a past guest, a past host — can't reconnect through it. There's no notification sent to them and no trace back to your new number or your real one.
 
 **Is it against Airbnb or Vrbo's rules to use a [second number](https://snipstack.io/second-number-for-wedding-photographer-client-intake-2026/)?**

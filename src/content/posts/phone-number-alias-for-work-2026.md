@@ -61,7 +61,7 @@ Before the comparison, here's the honest map of who this actually helps:
 
 **Global reach:** Available in the US and UK, with Surfshark's infrastructure handling calls and texts through the app. If you travel or work across borders, this is the only option here that doesn't strand you.
 
-**Cost:** Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/). If you're already paying for Surfshark for a VPN (or [Antivirus](https://snipstack.io/vs-antivirus-2026/), or Alternative ID), Alt Number is included — no incremental cost. Standalone pricing is available for non-Surfshark users.
+**Cost:** Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/). If you're already paying for Surfshark for a VPN (or [Antivirus](https://snipstack.io/vs-antivirus-2026/), or Alternative ID), [Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) is included — no incremental cost. Standalone pricing is available for non-Surfshark users.
 
 **Privacy design:** Surfshark operates under a no-logs policy and is incorporated in the Netherlands, a jurisdiction with strong [privacy protection](https://snipstack.io/privacy-protection-software-review-2026/)s. The alias number is not publicly linked to your real identity.
 

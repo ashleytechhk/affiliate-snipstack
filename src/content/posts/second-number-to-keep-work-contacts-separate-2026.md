@@ -51,7 +51,7 @@ Imagine this scenario: you match with someone on a dating app, exchange numbers,
 
 This is not rare. In industries where people move in tight circles — finance, tech, healthcare, legal, media — the chances of a match having a second-degree professional connection to you are meaningful. You may not recognize the risk when you swipe right, but the risk is there.
 
-A **[second number to](https://snipstack.io/second-number-to-avoid-spam-after-renovation-quote-2026/) keep work contacts separate** creates a clean wall between these two parts of your life. Work people have your real number. Dating contacts get the Alt Number. The two never cross.
+A **[second number to](https://snipstack.io/second-number-to-avoid-spam-after-renovation-quote-2026/) keep work contacts separate** creates a clean wall between these two parts of your life. Work people have your real number. Dating contacts get the [Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/). The two never cross.
 
 ![Flowchart showing how Alt Number routes dating app calls away from your real number and work identity](/og/second-number-to-keep-work-contacts-separate-2026-inline-1.png)
 

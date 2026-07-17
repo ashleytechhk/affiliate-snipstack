@@ -78,7 +78,7 @@ This is the combination that matters for seniors: automatic activation plus upst
 
 When [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) detects full-screen activity — a game running, a video in full screen, a tablet app taking up the whole display — several things happen automatically:
 
-**Notifications are muted.** Routine antivirus alerts, update reminders, and scan completion messages are queued up for later. They do not appear while you are in your game or video.
+**Notifications are muted.** Routine [antivirus alert](https://snipstack.io/antivirus-alert-when-child-visits-unsafe-website-2026/)s, update reminders, and scan completion messages are queued up for later. They do not appear while you are in your game or video.
 
 **Scheduled scans are deferred.** If a deep virus scan was scheduled to run at a particular time and you happen to be playing at that moment, the scan pauses until the game closes. This prevents the slowdown that can happen when a scan runs during demanding activity.
 

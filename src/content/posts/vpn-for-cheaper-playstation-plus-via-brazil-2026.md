@@ -139,7 +139,7 @@ With a fast protocol like WireGuard, the slowdown is typically minimal for brows
 
 ### How many devices can I check pricing from with one Surfshark plan?
 
-Surfshark allows unlimited simultaneous connections on a single subscription, so you can check pricing from your phone, laptop, and any other device without extra cost.
+Surfshark allows unlimited simultaneous connections on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), so you can check pricing from your phone, laptop, and any other device without extra cost.
 
 ---
 

@@ -36,7 +36,7 @@ An alternate number solves this cleanly: use it for DoorDash (and dating apps, a
 
 | Provider | Cost | Passes DoorDash SMS | Real number (not recycled VOIP) | Ads | Best for |
 |---|---|---|---|---|---|
-| Alt Number | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Yes | Yes | None | Daters, privacy-first users |
+| [Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) | Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) | Yes | Yes | None | Daters, privacy-first users |
 | Google Voice | Free | Inconsistent | Partial | None | Light use, Google users |
 | TextNow | Free / $7/mo | Sometimes | No (VOIP) | Yes (free tier) | Casual texting only |
 | Hushed | From $2/week | Usually | Yes | None | Short-term burner needs |

@@ -78,7 +78,7 @@ Do not start the Instagram signup flow without your number ready. Instagram's ve
 
 To get started:
 1. Download the Surfshark app (iOS or Android)
-2. Navigate to the Alt Number section
+2. Navigate to the [Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) section
 3. Select your country and choose an available number
 4. Your number is active within seconds
 

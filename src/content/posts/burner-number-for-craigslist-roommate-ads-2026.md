@@ -114,7 +114,7 @@ A lot of people default to Google Voice as a free alternative. It is worth under
 
 If you are on dating apps, the same logic applies. Your Hinge or Bumble match eventually asks for your number so you can text outside the app. That is a perfectly reasonable step — but it is also the moment you expose your real digits to someone you have met once or not at all.
 
-Using Alt Number for that first number exchange means:
+Using [Alt Number for](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) that first number exchange means:
 
 - You can text freely without worrying about what a reverse lookup reveals
 - If the date goes badly and the person becomes persistent, you retire the number

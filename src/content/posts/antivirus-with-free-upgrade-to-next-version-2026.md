@@ -33,7 +33,7 @@ Scammers are not random. They are strategic, and they specifically target older 
 - Is more likely to trust messages that appear to come from banks, Medicare, or the government
 - May live alone and not have a tech-savvy person nearby to double-[check suspicious](https://snipstack.io/check-suspicious-link-before-clicking-2026/) messages
 
-The attacks have also gotten more sophisticated. It is no longer just a poorly worded email asking for your bank details. Today's scams include fake antivirus alerts that pop up on your screen, voice calls from people pretending to be Microsoft support, ransomware that locks your photos until you pay, and fake grandchild distress calls that use AI-cloned voices.
+The attacks have also gotten more sophisticated. It is no longer just a poorly worded email asking for your bank details. Today's scams include fake [antivirus alert](https://snipstack.io/antivirus-alert-when-child-visits-unsafe-website-2026/)s that pop up on your screen, voice calls from people pretending to be Microsoft support, ransomware that locks your photos until you pay, and fake grandchild distress calls that use AI-cloned voices.
 
 A good antivirus catches many of these threats automatically — blocking malicious websites, quarantining dangerous downloads, and alerting you before you accidentally hand over your personal information.
 

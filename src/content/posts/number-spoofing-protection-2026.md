@@ -135,7 +135,7 @@ A [second phone number](https://snipstack.io/second-phone-number-app-free-2026/)
 
 | Method | Prevents spoofing | Stops incoming spam | Protects identity | Effort |
 |---|---|---|---|---|
-| [Second number](https://snipstack.io/second-number-for-crypto-exchange-registration-2026/) (Alt Number) | Yes — real number not exposed | No | Yes — real number hidden | Low |
+| [Second number](https://snipstack.io/second-number-for-crypto-exchange-registration-2026/) ([Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/)) | Yes — real number not exposed | No | Yes — real number hidden | Low |
 | STIR/SHAKEN carrier enrollment | Partial | Partial | No | Low (automatic for most) |
 | Call blocking apps (Hiya, Nomorobo) | No | Yes | No | Low |
 | FTC/FCC complaint | No (remediation only) | No | No | Medium |

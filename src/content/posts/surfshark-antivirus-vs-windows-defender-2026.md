@@ -92,7 +92,7 @@ On Windows 11, enabling [Surfshark Antivirus](https://snipstack.io/surfshark-ant
 
 ### Webcam Protection
 
-One feature Defender does not offer: Surfshark Antivirus alerts you when an application attempts to access your webcam. If an app you did not intentionally open tries to activate the camera, you get a notification before it succeeds. This is a meaningful addition for anyone who regularly uses a laptop in video calls and does not want unknown software silently recording.
+One feature Defender does not offer: Surfshark [Antivirus alert](https://snipstack.io/antivirus-alert-when-child-visits-unsafe-website-2026/)s you when an application attempts to access your webcam. If an app you did not intentionally open tries to activate the camera, you get a notification before it succeeds. This is a meaningful addition for anyone who regularly uses a laptop in video calls and does not want unknown software silently recording.
 
 ### Cross-Platform Coverage
 

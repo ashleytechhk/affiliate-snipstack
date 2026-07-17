@@ -77,7 +77,7 @@ Surfshark Alt Number is a [virtual phone number](https://snipstack.io/virtual-ph
 
 For dating use cases, the workflow is simple:
 
-1. Use your alt number for any dating-app account that requires phone verification.
+1. Use your [alt number for](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) any dating-app account that requires phone verification.
 2. Share your alt number with matches instead of your real number when asked.
 3. Receive calls and texts through the app — it behaves like a normal number on the other end.
 4. If a situation becomes uncomfortable, disable or delete the number. The person cannot reach you again, and your real number was never in play.

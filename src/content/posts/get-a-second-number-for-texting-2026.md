@@ -10,7 +10,7 @@ You matched with someone on Hinge. They seem great — but you've been burned be
 
 Good news: getting one takes about five minutes. The tricky part is picking the right service so you don't end up with a flaky VOIP number that gets flagged the moment your match tries to iMessage you.
 
-This guide walks you through four options — Google Voice, TextNow, Hushed, and Alt Number — then shows you exactly [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) up whichever one fits your situation.
+This guide walks you through four options — Google Voice, TextNow, Hushed, and [Alt Number](https://snipstack.io/alt-number-for-food-delivery-courier-to-avoid-spam-2026/) — then shows you exactly [how to set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) up whichever one fits your situation.
 
 ![How to get a second number for texting — overview](/og/get-a-second-number-for-texting-2026.png)
 
