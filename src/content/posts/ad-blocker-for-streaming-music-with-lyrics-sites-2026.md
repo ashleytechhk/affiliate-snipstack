@@ -163,6 +163,6 @@ Yes. Using ad-blocking software is legal in most countries. A site may request t
 
 If you stream music and look up lyrics on your phone regularly, a network-level [ad blocker](https://snipstack.io/ad-blocker-that-blocks-chatgpt-usage-limit-popups-2026/) is one of the highest-return changes you can make to your mobile experience. CleanWeb delivers it inside a single app, covers every browser and app on your device simultaneously, and requires nothing beyond flipping one toggle.
 
-One subscription. Unlimited devices. Cleaner browsing from the moment you connect.
+One subscription. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. Cleaner browsing from the moment you connect.
 
 [**Try Surfshark CleanWeb — Block Ads on Every Lyrics Site**](/blog/adblock?sub=ad-blocker-for-streaming-music-with-lyrics-sites-2026__cta)

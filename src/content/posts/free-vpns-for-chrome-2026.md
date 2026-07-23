@@ -126,7 +126,7 @@ The device coverage difference is significant. A free Chrome extension protects 
 
 **NoBorders mode:** Automatically enables obfuscated traffic on networks that detect and throttle VPNs. Useful on corporate networks and public Wi-Fi.
 
-**Unlimited devices:** No per-device fee, no connection limit. One account covers everything you own.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s:** No per-device fee, no connection limit. One account covers everything you own.
 
 **30-day money-back guarantee:** If Surfshark doesn't work for your use case within 30 days, you get a full refund. That makes the first month effectively free — with full feature access.
 

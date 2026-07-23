@@ -122,7 +122,7 @@ Before you decide between McAfee and Norton, it is worth knowing that a newer op
 Here is what makes it worth a look:
 
 - **Straightforward pricing** with no dramatic renewal jump
-- **Covers unlimited devices** on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — including your phone and tablet
+- **Covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/) — including your phone and tablet
 - **Real-time malware scanning** powered by regularly updated threat databases
 - **Antivirus + VPN bundle** available, so your connection is protected on public Wi-Fi (at the library, at the doctor's office, at your grandchild's house)
 - **Web protection** that warns you before you land on a [fake website](https://snipstack.io/fake-website-detector-tool-2026/)

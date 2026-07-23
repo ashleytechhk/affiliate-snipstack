@@ -72,7 +72,7 @@ Some VPNs label specific servers as optimised for streaming. These servers are m
 
 ### Simultaneous Device Support
 
-Disney Plus allows streaming on multiple devices. A VPN that limits you to one or two simultaneous connections forces you to disconnect and reconnect constantly. Services that offer unlimited device connections — like Surfshark — remove this friction entirely.
+Disney Plus allows streaming on multiple devices. A VPN that limits you to one or two simultaneous connections forces you to disconnect and reconnect constantly. Services that offer [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections — like Surfshark — remove this friction entirely.
 
 ### No-Logs Policy
 

@@ -128,7 +128,7 @@ For most mobile power-users — the person whose phone is their primary screen f
 
 Several VPNs have added ad blocking features in recent years. Surfshark earns the recommendation for mobile users for a few specific reasons:
 
-**Unlimited devices.** Most VPN plans cap you at 5–10 simultaneous connections. Surfshark has no device limit on any plan. One subscription covers your iPhone, Android tablet, and any other device without juggling slots.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** Most VPN plans cap you at 5–10 simultaneous connections. Surfshark has no device limit on any plan. One subscription covers your iPhone, Android tablet, and any other device without juggling slots.
 
 **CleanWeb is included, not an add-on.** Some [VPN providers](https://snipstack.io/vpn-providers-best-2026/) charge extra for ad blocking or include it only in premium tiers. CleanWeb comes with the base Surfshark Starter plan.
 

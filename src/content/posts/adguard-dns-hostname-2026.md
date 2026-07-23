@@ -163,7 +163,7 @@ Both tools block ads and trackers, but they operate at different layers and suit
 
 AdGuard DNS is the better pick if you want free, always-on DNS-level blocking with no subscription. CleanWeb is the better pick if you also want a VPN, URL-level blocking, and a single app that handles both. For maximum coverage, use both together: set `dns.adguard-dns.com` as your Private DNS, then layer CleanWeb on top when you want full-tunnel protection.
 
-[Get Surfshark with CleanWeb included](/blog/adblock?sub=adguard-dns-hostname-2026__cta) — one subscription, unlimited devices, both ad blocking and VPN in one app.
+[Get Surfshark with CleanWeb included](/blog/adblock?sub=adguard-dns-hostname-2026__cta) — one subscription, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, both ad blocking and VPN in one app.
 
 ---
 

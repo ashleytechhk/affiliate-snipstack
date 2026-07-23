@@ -109,7 +109,7 @@ Let's put real numbers to the subscription arbitrage opportunity:
 
 That is a potential saving of $50–70 per year on the subscription alone. A Surfshark annual plan costs considerably less than that gap — meaning the VPN can pay for itself just on PS5 Plus savings, before you count individual game purchases.
 
-For a household with two or three gamers, the math gets even more compelling. One Surfshark subscription covers unlimited devices, so you are not paying per person.
+For a household with two or three gamers, the math gets even more compelling. One Surfshark subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, so you are not paying per person.
 
 **A few important caveats:**
 - Regional pricing changes, so current savings may differ

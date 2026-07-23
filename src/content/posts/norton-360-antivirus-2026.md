@@ -38,7 +38,7 @@ Norton 360 is a capable [security suite](https://snipstack.io/security-suite-for
 | Money-back guarantee | 60 days | 30 days |
 | Platform support | Win, Mac, iOS, Android | Win, Mac, iOS, Android, Linux |
 
-The table makes one thing obvious: Norton's breadth comes at a cost — both financial and in complexity. [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle trades a few niche features (webcam protection, built-in password manager) for unlimited devices and a price that doesn't balloon after year one.
+The table makes one thing obvious: Norton's breadth comes at a cost — both financial and in complexity. [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle trades a few niche features (webcam protection, built-in password manager) for [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and a price that doesn't balloon after year one.
 
 ---
 

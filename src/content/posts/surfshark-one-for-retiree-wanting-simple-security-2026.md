@@ -43,7 +43,7 @@ Here is how [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ul
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Norton 360 Standard | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes (unlimited devices) | Yes (limited data on lower tiers) | Yes (5 devices) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (limited data on lower tiers) | Yes (5 devices) |
 | Antivirus | Yes | Yes (mature engine, AV-Test certified) | Yes (AV-Test certified) |
 | Real-time malware protection | Yes | Yes | Yes |
 | Dark web / breach alerts | Yes (Alert feature) | Yes (LifeLock add-on, costs more) | Yes (Personal Data Cleanup) |

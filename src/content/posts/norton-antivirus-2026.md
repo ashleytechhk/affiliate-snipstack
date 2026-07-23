@@ -100,7 +100,7 @@ Pricing in the antivirus market is notoriously dynamic — first-year deals foll
 - Year 2 renewal: $60–$100 depending on region and plan
 - Add LifeLock: additional $100–$150/year
 
-**[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Bundle (unlimited devices)**
+**[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) Bundle ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s)**
 - 2-year plan: typically $3–$4/month (~$52–$70 total for 2 years)
 - Year 2 renewal: lower than most Norton renewals
 - No device cap means one subscription covers your family

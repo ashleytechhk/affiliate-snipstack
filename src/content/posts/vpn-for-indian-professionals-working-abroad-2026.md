@@ -88,7 +88,7 @@ Video streaming is bandwidth-intensive. A VPN that encrypts and re-routes your t
 
 ### Simultaneous Connections
 
-You likely have multiple devices — a work laptop, a personal phone, maybe a tablet or a TV stick. Some VPNs limit you to 5 or 6 simultaneous connections. Surfshark offers unlimited devices on one account, which is unusually generous and practically useful for households or families.
+You likely have multiple devices — a work laptop, a personal phone, maybe a tablet or a TV stick. Some VPNs limit you to 5 or 6 simultaneous connections. Surfshark offers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s on one account, which is unusually generous and practically useful for households or families.
 
 ### Price vs. Value
 

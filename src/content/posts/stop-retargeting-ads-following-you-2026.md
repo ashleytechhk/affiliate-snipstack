@@ -183,7 +183,7 @@ No single step eliminates retargeting. The DNS-level block is the highest-levera
 
 > **Block retargeting pixels before they can tag you**
 > Surfshark CleanWeb works across all apps and browsers — no separate configuration for each one.
-> 30-day money-back guarantee. Unlimited devices.
+> 30-day money-back guarantee. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 > [Get Surfshark CleanWeb](/blog/adblock?sub=stop-retargeting-ads-following-you-2026__cta)
 
 ---

@@ -77,7 +77,7 @@ The math is straightforward. The setup takes about ten minutes.
 
 ### Step 1: Get a VPN
 
-Sign up for Surfshark via the link below. The two-year plan typically works out to well under $3 per month and covers unlimited devices — your phone, tablet, laptop, and smart TV stick in the cab, all on one account.
+Sign up for Surfshark via the link below. The two-year plan typically works out to well under $3 per month and covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — your phone, tablet, laptop, and smart TV stick in the cab, all on one account.
 
 [See Surfshark's current pricing — limited-time offer](/blog/vpn?sub=vpn-for-truck-drivers-using-cab-wifi-2026__mid)
 

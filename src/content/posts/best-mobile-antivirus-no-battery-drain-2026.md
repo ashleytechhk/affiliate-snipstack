@@ -83,7 +83,7 @@ Before getting into the technical details, here is what matters most in plain la
 
 **It works on both iPhone and Android.** Many seniors have an iPhone; many others have an Android phone from Samsung, LG, or Motorola. Surfshark covers both platforms with one subscription.
 
-**It covers unlimited devices.** One subscription protects your phone, your tablet, and your computer. No extra cost for each device.
+**It covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One subscription protects your phone, your tablet, and your computer. No extra cost for each device.
 
 **It does not require technical knowledge to use.** Once it is set up, it runs in the background without asking you to do anything. No daily scans to manually start. No complicated settings menus. No alerts asking you to make decisions you do not understand.
 

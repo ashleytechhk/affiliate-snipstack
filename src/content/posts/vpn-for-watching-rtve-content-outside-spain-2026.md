@@ -18,7 +18,7 @@ A [VPN for watching](https://snipstack.io/vpn-for-watching-amazon-prime-differen
 
 ## Quick Verdict
 
-RTVE Play is Spain's free public broadcaster — no subscription fee, and the only barrier from abroad is an IP-based geo-check. A VPN with active Spanish servers removes that barrier. Among providers that hold up against RTVE's detection, **Surfshark** is the strongest fit for cost-conscious viewers: lowest long-term price, unlimited device connections, consistent Madrid server access. ExpressVPN wins on raw speed; NordVPN sits in between. For most expats and travelers, Surfshark covers the job without overpaying.
+RTVE Play is Spain's free public broadcaster — no subscription fee, and the only barrier from abroad is an IP-based geo-check. A VPN with active Spanish servers removes that barrier. Among providers that hold up against RTVE's detection, **Surfshark** is the strongest fit for cost-conscious viewers: lowest long-term price, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections, consistent Madrid server access. ExpressVPN wins on raw speed; NordVPN sits in between. For most expats and travelers, Surfshark covers the job without overpaying.
 
 ---
 

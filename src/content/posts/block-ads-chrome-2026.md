@@ -133,7 +133,7 @@ When you connect to Surfshark with CleanWeb enabled, your DNS queries pass throu
 - Cosmetic ad-slot hiding (empty boxes where ads would have appeared may remain visible)
 - Ads in apps that use certificate pinning to bypass DNS filtering
 
-**Is it worth paying for?** If you are evaluating CleanWeb as a standalone [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) only, a free extension is probably sufficient for desktop Chrome. CleanWeb makes most sense as a bundled value: if you already want or use a VPN for privacy, public Wi-Fi security, or streaming access, getting robust ad blocking across all devices at no additional cost is a strong argument. Surfshark's subscription covers unlimited devices — phone, tablet, laptop, desktop — all blocked simultaneously.
+**Is it worth paying for?** If you are evaluating CleanWeb as a standalone [ad blocker](https://snipstack.io/ad-blocker-firefox-2026/) only, a free extension is probably sufficient for desktop Chrome. CleanWeb makes most sense as a bundled value: if you already want or use a VPN for privacy, public Wi-Fi security, or streaming access, getting robust ad blocking across all devices at no additional cost is a strong argument. Surfshark's subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — phone, tablet, laptop, desktop — all blocked simultaneously.
 
 [**See what Surfshark CleanWeb covers — try it free**](/blog/adblock?sub=block-ads-chrome-2026__mid)
 

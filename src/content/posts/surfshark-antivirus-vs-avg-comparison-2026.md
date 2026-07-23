@@ -108,7 +108,7 @@ Both products perform well on independent lab tests for detecting known viruses.
 
 AVG Free is free — but as shown above, the protection it provides at no cost is limited. AVG Internet Security (which adds the features that actually matter for seniors) runs around $50–$70 per year for one device.
 
-[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) is available for around $2–$3 per month on a multi-year plan, covers unlimited devices, and includes all the features listed above without upselling.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) is available for around $2–$3 per month on a multi-year plan, covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and includes all the features listed above without upselling.
 
 **Winner: Surfshark** (for the value provided at each price tier)
 

@@ -46,7 +46,7 @@ Any suite calling itself all-in-one security for a work from home setup needs to
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) Bundle | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
-| **VPN included** | Yes — full, 100+ countries | Yes — limited, 5 devices | Yes — unlimited devices |
+| **VPN included** | Yes — full, 100+ countries | Yes — limited, 5 devices | Yes — [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s |
 | **Antivirus** | Real-time, lightweight | Real-time, heavy footprint | Real-time, moderate footprint |
 | **Ad / tracker blocking** | CleanWeb — VPN-level | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) only | Browser extension only |
 | **Data breach monitoring** | Surfshark Alert — email, ID, card | LifeLock add-on (extra cost) | Identity monitoring included |

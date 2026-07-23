@@ -69,7 +69,7 @@ Beyond free versus paid, the other risk is simply doing nothing. [Windows Defend
 - Data breach alerts (notifications if your email or password leaks online)
 - Protection on other devices like tablets and phones
 
-[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) covers all of these, across unlimited devices, under one account.
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) covers all of these, across [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, under one account.
 
 ---
 

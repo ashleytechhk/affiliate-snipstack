@@ -296,7 +296,7 @@ The limitations are real: no cosmetic filtering, limited granular control, parti
 For most users — particularly those who watch YouTube on their phone, use ad-supported streaming apps, or have smart TVs — CleanWeb adds coverage that no extension can provide. And since it is included in a Surfshark subscription that already provides streaming VPN access, the marginal cost is zero.
 
 > **Get Surfshark CleanWeb — DNS-level ad blocking, every device**
-> 30-day money-back guarantee. Unlimited devices.
+> 30-day money-back guarantee. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 > [Get Surfshark](/blog/adblock?sub=surfshark-cleanweb-review-2026__adblock__bottom-cta)
 
 ---

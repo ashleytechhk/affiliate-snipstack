@@ -99,7 +99,7 @@ Surfshark has built a reputation specifically around streaming unblocking. A few
 
 **Server coverage.** Surfshark operates servers in over 100 countries, including multiple Latin American locations. That geographic breadth is rare among mid-price providers.
 
-**Unlimited devices.** One subscription covers every device in your household with no cap. For a family that relocated together, this eliminates the need to juggle multiple accounts.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One subscription covers every device in your household with no cap. For a family that relocated together, this eliminates the need to juggle multiple accounts.
 
 **NoBorders mode.** This feature is designed for users in regions with restricted internet access. While Venezuela's situation varies, expats who still have family back home using the account will find this useful.
 

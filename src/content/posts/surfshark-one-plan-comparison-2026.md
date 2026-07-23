@@ -98,7 +98,7 @@ The issue with [Norton 360](https://snipstack.io/norton-360-price-increase-alter
 - You are leaving Norton or McAfee and want one product that replaces the whole suite without inheriting its problems
 - You want antivirus, VPN, breach monitoring, and private search under one login with one renewal date
 - You care about running light — no performance drag, no browser toolbar, no startup slowdown
-- You want unlimited devices for a household — phones, laptops, tablets, and smart TV on one plan
+- You want [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s for a household — phones, laptops, tablets, and smart TV on one plan
 - You have been frustrated watching your renewal price climb while the product experience stays the same
 
 ### The device math matters

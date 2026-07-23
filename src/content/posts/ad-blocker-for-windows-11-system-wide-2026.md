@@ -152,7 +152,7 @@ VPN connections add a small routing overhead. In practice, Surfshark's servers a
 
 ### Can I use Surfshark CleanWeb on my phone too?
 
-Yes. A single Surfshark subscription covers unlimited devices simultaneously, including iOS and Android. CleanWeb works the same way on mobile — all DNS queries from every app on your phone are filtered when CleanWeb is enabled. This makes it particularly useful for mobile power users dealing with in-app ads across social media, games, and streaming apps on their phone in addition to their Windows 11 PC. [Set it up on all your devices here.](/blog/adblock?sub=ad-blocker-for-windows-11-system-wide-2026__faq)
+Yes. A single Surfshark subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s simultaneously, including iOS and Android. CleanWeb works the same way on mobile — all DNS queries from every app on your phone are filtered when CleanWeb is enabled. This makes it particularly useful for mobile power users dealing with in-app ads across social media, games, and streaming apps on their phone in addition to their Windows 11 PC. [Set it up on all your devices here.](/blog/adblock?sub=ad-blocker-for-windows-11-system-wide-2026__faq)
 
 ### Is it legal to use an [ad blocker](https://snipstack.io/ad-blocker-for-parental-control-devices-2026/) on Windows 11?
 

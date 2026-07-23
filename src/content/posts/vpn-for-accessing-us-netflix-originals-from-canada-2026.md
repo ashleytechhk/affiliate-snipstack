@@ -90,7 +90,7 @@ Not every VPN works with Netflix. These are the criteria that separate a useful 
 
 Surfshark meets every criterion above. It maintains consistent US Netflix access, offers the largest server selection among major providers in the US, streams without meaningful quality degradation, and places no cap on simultaneous connections.
 
-The unlimited devices policy is a meaningful differentiator. If you and a partner both stream Netflix on different devices, a VPN with a five-device limit creates management overhead. Surfshark eliminates that friction entirely.
+The [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s policy is a meaningful differentiator. If you and a partner both stream Netflix on different devices, a VPN with a five-device limit creates management overhead. Surfshark eliminates that friction entirely.
 
 ![Surfshark app showing US server selection and active Netflix streaming on multiple devices](/og/vpn-for-accessing-us-netflix-originals-from-canada-2026-inline-2.png)
 

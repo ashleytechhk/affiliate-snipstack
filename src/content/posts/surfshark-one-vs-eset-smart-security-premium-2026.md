@@ -28,7 +28,7 @@ This comparison breaks down every meaningful difference so you can switch with c
 |---|---|---|
 | VPN included | Yes — full-featured | Yes — limited (powered by third party) |
 | Antivirus / malware | Yes | Yes (ESET's core strength) |
-| Unlimited devices | Yes | No — tiered by device count |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes | No — tiered by device count |
 | Ad & [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/) | CleanWeb (built-in) | [Ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/) in [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) only |
 | Password manager | Yes (Surfshark Alert integration) | Yes (ESET Password Manager) |
 | Dark Web monitoring | Yes (Surfshark Alert) | No |

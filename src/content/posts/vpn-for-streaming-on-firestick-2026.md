@@ -12,7 +12,7 @@ A VPN on your Firestick changes that. It replaces your visible IP address with o
 
 This guide covers exactly how VPNs work on Firestick, how to install one natively (no sideloading required), and why Surfshark is the practical pick for streaming in 2026.
 
-> **Get Surfshark for Firestick — native app, WireGuard protocol, unlimited devices**
+> **Get Surfshark for Firestick — native app, WireGuard protocol, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s**
 > [Get Surfshark VPN](/blog/vpn?sub=vpn-for-streaming-on-firestick-2026__above-fold)
 
 ---

@@ -43,7 +43,7 @@ Before going further, here's where the major competitors stand on the same featu
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) | Norton 360 Deluxe | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes (unlimited devices) | Yes (limited data on lower tiers) | Yes (limited data) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (limited data on lower tiers) | Yes (limited data) |
 | Antivirus | Yes | Yes | Yes |
 | Data breach alerts | Yes (Alert tool) | Yes (LifeLock add-on, paid extra) | Yes (Identity monitoring) |
 | Private search | Yes (built-in) | No | No |

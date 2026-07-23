@@ -12,7 +12,7 @@ A **VPN for Portugal content access abroad** is the fix. It puts a Portuguese IP
 
 ![A laptop connecting to Portuguese streaming services from abroad via VPN](/og/vpn-for-portugal-content-access-abroad-2026.png)
 
-**Want to skip the explainer?** [Get Surfshark and connect to Portugal now](/blog/vpn?sub=vpn-for-portugal-content-access-abroad-2026__above-fold) — one plan, unlimited devices, works in minutes.
+**Want to skip the explainer?** [Get Surfshark and connect to Portugal now](/blog/vpn?sub=vpn-for-portugal-content-access-abroad-2026__above-fold) — one plan, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, works in minutes.
 
 ---
 

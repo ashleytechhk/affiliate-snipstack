@@ -34,7 +34,7 @@ In 2026, several major VPNs offer this. Not all of them are equal on mobile. Thi
 | **Tracker blocking** | Yes | Yes | Yes | Limited |
 | **Malware domain blocking** | Yes | Yes | Yes | No |
 | **Setup complexity (mobile)** | One toggle | Two steps | One toggle | Two steps |
-| **Unlimited devices** | Yes | No (10 devices) | No (10 devices) | No (8 devices) |
+| **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** | Yes | No (10 devices) | No (10 devices) | No (8 devices) |
 | **Starting price (2-yr plan)** | ~$2.19/mo | ~$3.39/mo | ~$4.99/mo | ~$6.67/mo |
 
 *Prices reflect publicly listed rates as of May 2026. Always verify at checkout.*

@@ -130,7 +130,7 @@ WireGuard is generally the best starting point — it reconnects quickly after n
 
 A VPN to access your work server while traveling abroad solves a real, recurring problem: unreliable hotel and airport networks that block or throttle the path your corporate VPN needs. Layering a fast consumer VPN in front of that connection, with split tunneling to avoid stacking two encrypted layers, makes remote access from the road far more predictable.
 
-Surfshark fits well here because it combines WireGuard speed, split tunneling, an audited no-logs policy, and unlimited device connections in one plan priced at a few dollars a month — and the same subscription covers the streaming savings above on your downtime.
+Surfshark fits well here because it combines WireGuard speed, split tunneling, an audited no-logs policy, and [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections in one plan priced at a few dollars a month — and the same subscription covers the streaming savings above on your downtime.
 
 **[Get Surfshark — the VPN for reliable work access and travel savings →](/blog/vpn?sub=vpn-to-access-work-server-while-traveling-abroad-2026__cta)**
 

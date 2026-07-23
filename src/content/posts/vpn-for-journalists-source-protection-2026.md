@@ -96,7 +96,7 @@ Surfshark routes all DNS queries through its own encrypted servers by default, p
 
 ### Unlimited Simultaneous Devices
 
-Journalists rarely work from one device. A phone used to communicate with sources, a laptop used for document work, a tablet used in the field — keeping all of them behind the same encrypted network layer requires either separate subscriptions or a VPN with no connection limit. Surfshark's unlimited device policy means one subscription covers the entire working stack.
+Journalists rarely work from one device. A phone used to communicate with sources, a laptop used for document work, a tablet used in the field — keeping all of them behind the same encrypted network layer requires either separate subscriptions or a VPN with no connection limit. Surfshark's [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy means one subscription covers the entire working stack.
 
 [**Start Using Surfshark Across All Your Devices**](/blog/vpn?sub=vpn-for-journalists-source-protection-2026__mid)
 

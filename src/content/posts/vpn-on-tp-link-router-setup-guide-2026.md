@@ -231,7 +231,7 @@ Select Deco Pro models support VPN client on the primary node, which then covers
 
 A VPN on your TP-Link router is one of the most efficient setups for households where streaming savings matter across multiple devices. Configure it once, and every smart TV, console, phone, and laptop that connects to your home Wi-Fi benefits automatically — no app management, no per-device subscriptions.
 
-Surfshark earns its recommendation here because it provides the OpenVPN configuration files and service credentials TP-Link needs, supports WireGuard on newer models for faster throughput, and covers unlimited devices under one subscription. The two-year plan pricing makes the math straightforward: most households recover the cost within the first two to three months of switched subscription pricing.
+Surfshark earns its recommendation here because it provides the OpenVPN configuration files and service credentials TP-Link needs, supports WireGuard on newer models for faster throughput, and covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s under one subscription. The two-year plan pricing makes the math straightforward: most households recover the cost within the first two to three months of switched subscription pricing.
 
 If you have a compatible TP-Link router and spend $30 or more per month on streaming services, this guide is the fastest path to cutting that number significantly.
 

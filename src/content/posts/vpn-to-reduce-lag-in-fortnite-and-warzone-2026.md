@@ -118,7 +118,7 @@ Not all VPNs are built the same. For gaming specifically, you need low latency, 
 
 **Server coverage:** Surfshark operates servers in 100+ countries. That includes all major game-server regions (North America, Europe, Asia-Pacific) as well as lower-cost subscription regions like Turkey, Argentina, Brazil, Japan, and Canada.
 
-**Unlimited devices:** Unlike many [VPN providers](https://snipstack.io/vpn-providers-best-2026/) that cap you at 5–8 simultaneous connections, Surfshark allows unlimited devices on one subscription. Cover your gaming PC, console, phone, and tablet with a single plan.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s:** Unlike many [VPN providers](https://snipstack.io/vpn-providers-best-2026/) that cap you at 5–8 simultaneous connections, Surfshark allows unlimited devices on one subscription. Cover your gaming PC, console, phone, and tablet with a single plan.
 
 **No-logs policy:** Your gaming activity and browsing history are not stored or sold.
 

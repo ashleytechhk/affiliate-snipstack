@@ -100,7 +100,7 @@ A private search tool that doesn't build a profile on your queries is a small bu
 
 Norton and McAfee both follow the same pattern: an attractive year-one price, then a renewal that jumps sharply once the discount period ends. For a household paying the higher device tier just to cover everyone, that jump multiplies.
 
-[Surfshark One](https://snipstack.io/surfshark-one-for-small-business-three-employees-2026/)'s pricing on multi-year plans is more predictable, and the unlimited device policy means the renewal price doesn't creep upward as your household adds devices. Pay Norton's top tier just to squeeze in a sixth device, and that premium disappears entirely — the price stays the price no matter how many phones, laptops, or tablets are in the house.
+[Surfshark One](https://snipstack.io/surfshark-one-for-small-business-three-employees-2026/)'s pricing on multi-year plans is more predictable, and the [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy means the renewal price doesn't creep upward as your household adds devices. Pay Norton's top tier just to squeeze in a sixth device, and that premium disappears entirely — the price stays the price no matter how many phones, laptops, or tablets are in the house.
 
 ![Surfshark One pricing versus Norton and McAfee for family device coverage](/og/single-security-suite-covering-all-household-devices-2026-inline-2.png)
 

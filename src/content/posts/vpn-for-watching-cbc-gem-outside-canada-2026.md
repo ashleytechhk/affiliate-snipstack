@@ -20,7 +20,7 @@ This guide covers what CBC Gem's geo-restriction is, how a VPN gets around it, w
 
 ## Quick Verdict
 
-CBC Gem is free inside Canada, but the platform blocks streaming from any IP address outside the country, regardless of whether you already have an account. Travelers, snowbirds, and Canadians living abroad lose access entirely, along with CBC's news, drama, and sports coverage that other services rarely replace. A VPN connected to a Canadian server restores that access for roughly $2–3 per month — far cheaper than subscribing to an unrelated bundle just to replace content you already had for free. Surfshark maintains reliable Canadian servers, unlimited device connections, and a 30-day refund window, making it a practical pick for 2026.
+CBC Gem is free inside Canada, but the platform blocks streaming from any IP address outside the country, regardless of whether you already have an account. Travelers, snowbirds, and Canadians living abroad lose access entirely, along with CBC's news, drama, and sports coverage that other services rarely replace. A VPN connected to a Canadian server restores that access for roughly $2–3 per month — far cheaper than subscribing to an unrelated bundle just to replace content you already had for free. Surfshark maintains reliable Canadian servers, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections, and a 30-day refund window, making it a practical pick for 2026.
 
 ---
 

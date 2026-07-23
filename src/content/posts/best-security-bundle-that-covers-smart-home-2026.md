@@ -42,7 +42,7 @@ A router-level VPN with a built-in malware-domain blocker closes all three angle
 
 ## Comparison Table: [Security Bundle](https://snipstack.io/security-bundle-for-parents-of-teenagers-2026/)s for Smart Home Coverage 2026
 
-| Bundle | Router VPN Support | Smart TV App | Unlimited Devices | Breach Monitoring | Malware DNS Blocking | Approx. Annual Price |
+| Bundle | Router VPN Support | Smart TV App | [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Breach Monitoring | Malware DNS Blocking | Approx. Annual Price |
 |---|---|---|---|---|---|---|
 | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) | Yes (manual setup) | Yes (Fire TV, Apple TV) | Yes | Yes (Alert) | Yes (Clean Web) | ~$56–$72 |
 | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe | No router support | No | 5 devices | Yes | Partial | ~$50–$100 |

@@ -33,7 +33,7 @@ Avast [Free Antivirus](https://snipstack.io/free-antivirus-for-windows-11-2026/)
 | **Price** | Free | From ~$3.49/mo |
 | **Malware detection** | Good (AV-TEST certified) | Good (independent lab tested) |
 | **Real-time protection** | Yes | Yes |
-| **VPN included** | No (paid add-on) | Yes — unlimited devices |
+| **VPN included** | No (paid add-on) | Yes — [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s |
 | **Data breach alerts** | No | Yes (email + ID monitoring) |
 | **Private search** | No | Yes |
 | **Webcam / mic protection** | Paid tier only | Included |

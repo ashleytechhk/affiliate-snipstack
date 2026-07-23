@@ -20,7 +20,7 @@ This guide focuses specifically on the free desktop tier: what's actually availa
 
 ## Quick Verdict
 
-Three free PC VPN apps are genuinely worth your time in 2026: [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) Free, Windscribe Free, and TunnelBear Free. They all work. They all have significant trade-offs. ProtonVPN Free is the only one with no data cap, but restricts you to five server countries and one device. Windscribe gives you 10 GB/month with email registration, 2 GB without. TunnelBear caps at 2 GB/month. If you're doing anything more than occasional café browsing, you'll hit those limits faster than you expect. Surfshark at roughly $2.19/month is the practical escape hatch — unlimited data, unlimited devices, and a 30-day money-back guarantee that makes it a risk-free upgrade.
+Three free PC VPN apps are genuinely worth your time in 2026: [ProtonVPN](https://snipstack.io/vs-protonvpn-2026/) Free, Windscribe Free, and TunnelBear Free. They all work. They all have significant trade-offs. ProtonVPN Free is the only one with no data cap, but restricts you to five server countries and one device. Windscribe gives you 10 GB/month with email registration, 2 GB without. TunnelBear caps at 2 GB/month. If you're doing anything more than occasional café browsing, you'll hit those limits faster than you expect. Surfshark at roughly $2.19/month is the practical escape hatch — unlimited data, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and a 30-day money-back guarantee that makes it a risk-free upgrade.
 
 ---
 

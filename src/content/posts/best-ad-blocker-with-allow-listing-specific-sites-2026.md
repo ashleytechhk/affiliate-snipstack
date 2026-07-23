@@ -112,7 +112,7 @@ CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-it-for-a-sin
 - **Allow list is easy to find and edit.** Surfshark's mobile apps surface the bypass/allowlist clearly in settings, not buried three menus deep.
 - **No extension required.** iOS and Android users do not need to find or maintain a separate browser add-on.
 - **Covers malware domains and trackers too.** CleanWeb blocks known [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s and data-harvesting trackers alongside traditional ad networks, giving you a broader privacy benefit.
-- **One subscription, unlimited devices.** Surfshark allows unlimited simultaneous connections, so your phone, tablet, laptop, and any other device are covered under one plan.
+- **One subscription, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** Surfshark allows unlimited simultaneous connections, so your phone, tablet, laptop, and any other device are covered under one plan.
 
 The trade-off worth mentioning: because CleanWeb runs as a VPN-based filter, it cannot block ads that are served from the same domain as the content itself (so-called "first-party ads"). That is a limitation shared by virtually every network-level blocker, not specific to Surfshark.
 

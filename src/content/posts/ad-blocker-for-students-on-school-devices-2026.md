@@ -77,7 +77,7 @@ Surfshark's CleanWeb feature is built into the main Surfshark VPN app. When you 
 
 **1. Download the Surfshark app** from the App Store (iOS) or Google Play (Android). Both are standard store listings — no sideloading required.
 
-**2. Create an account** and choose a plan. Surfshark allows unlimited devices under a single account, so your personal phone and your school device can both be protected.
+**2. Create an account** and choose a plan. Surfshark allows [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s under a single account, so your personal phone and your school device can both be protected.
 
 **3. Open the app → Settings → VPN Settings → CleanWeb.** Toggle it on.
 

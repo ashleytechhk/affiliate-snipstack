@@ -96,7 +96,7 @@ None of it requires you to interpret a warning or make a judgment call mid-conve
 | Data breach alerts | Yes | Rarely | No |
 | Works on iPhone and Android | Yes | Usually one only | Varies |
 | Simple for non-technical users | Yes | Varies | Yes |
-| Unlimited devices on one plan | Yes | Usually limited | Usually one device |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s on one plan | Yes | Usually limited | Usually one device |
 
 A call-blocker app alone only screens the phone call itself. It does nothing once a scammer sends a text with a phishing link instead, which is increasingly common. For meaningful protection, the call, the link, and the account all need to be covered together.
 

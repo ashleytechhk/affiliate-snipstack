@@ -126,7 +126,7 @@ It does not include full credit-freeze services or [identity theft](https://snip
 
 Surfshark does not publish fixed pricing ahead of promotional windows, but the pattern is consistent. On a two-year Christmas deal, expect the One Bundle to land in the range that makes the per-month cost competitive with a mid-tier antivirus alone — before you even account for the VPN component.
 
-Compare to Norton 360 Deluxe at renewal (not intro pricing): renewal rates for Norton regularly run $100–$120 per year for 5 devices. [Surfshark One](https://snipstack.io/surfshark-one-cheapest-price-strategy-2026/) on a two-year Christmas deal spreads out to well below that on an annualized basis, and covers unlimited devices.
+Compare to Norton 360 Deluxe at renewal (not intro pricing): renewal rates for Norton regularly run $100–$120 per year for 5 devices. [Surfshark One](https://snipstack.io/surfshark-one-cheapest-price-strategy-2026/) on a two-year Christmas deal spreads out to well below that on an annualized basis, and covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 
 McAfee Total Protection follows a similar renewal pattern. The first year is discounted; year two hits full price, which ranges from $80–$110 depending on device tier.
 

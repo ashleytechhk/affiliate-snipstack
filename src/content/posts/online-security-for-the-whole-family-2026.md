@@ -112,7 +112,7 @@ For teenagers, this is particularly useful: a [private number for](https://snips
 
 ## How [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) Covers All Four Layers
 
-**[Surfshark One](/blog/one?sub=online-security-for-the-whole-family-2026__mid)** packages VPN, Antivirus, Alt-ID, and Alt-Number under a single login with unlimited device connections.
+**[Surfshark One](/blog/one?sub=online-security-for-the-whole-family-2026__mid)** packages VPN, Antivirus, Alt-ID, and Alt-Number under a single login with [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections.
 
 ![Surfshark One bundle — all four security layers for families explained](/og/online-security-for-the-whole-family-2026-inline-2.png)
 

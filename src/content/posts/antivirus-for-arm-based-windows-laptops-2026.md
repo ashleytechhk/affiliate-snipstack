@@ -136,7 +136,7 @@ Beyond the ARM support, [Surfshark Antivirus](https://snipstack.io/surfshark-ant
 | Webcam protection | Alerts you if any app tries to access your camera without permission |
 | Data breach monitoring | Tells you if your email or password was found in a leaked database |
 | Bundled VPN | Encrypts your connection on public Wi-Fi |
-| Unlimited devices | One plan covers your laptop, tablet, and family members' devices |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | One plan covers your laptop, tablet, and family members' devices |
 
 The setup takes about five minutes. Surfshark walks you through every step on screen, in plain language. You do not need to know anything about ARM processors or security software to use it.
 

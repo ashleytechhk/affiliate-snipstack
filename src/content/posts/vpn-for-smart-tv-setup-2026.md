@@ -202,6 +202,6 @@ Getting a VPN onto your smart TV is not as complicated as it sounds — it's a m
 
 The reason it's worth the one-time setup effort is straightforward: streaming subscription prices vary significantly by region, and a VPN lets you appear to be in a region where the same service costs less. For viewers who pay for two or more streaming subscriptions, the annual savings typically far outweigh the cost of a [VPN subscription](https://snipstack.io/vpn-subscription-cheaper-with-two-year-plan-2026/).
 
-Surfshark supports all three setup methods under one account, with unlimited devices and no-logs privacy protection built in.
+Surfshark supports all three setup methods under one account, with [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and no-logs privacy protection built in.
 
 [Check current Surfshark pricing and get started](/blog/vpn?sub=vpn-for-smart-tv-setup-2026__cta)

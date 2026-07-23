@@ -138,7 +138,7 @@ At approximately $2.19/month on the two-year plan, Surfshark costs less than a s
 
 *Prices are approximate and subject to change.*
 
-For ecommerce sellers specifically, the unlimited devices and CleanWeb features push Surfshark ahead at a price that undercuts the alternatives by a significant margin.
+For ecommerce sellers specifically, the [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and CleanWeb features push Surfshark ahead at a price that undercuts the alternatives by a significant margin.
 
 ---
 

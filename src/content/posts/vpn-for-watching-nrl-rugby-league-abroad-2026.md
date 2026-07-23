@@ -104,7 +104,7 @@ Live sport is unforgiving. A dropped connection or buffering at 80th minute kill
 
 ### Device Compatibility
 
-You might watch on a smart TV, laptop, tablet, phone, or streaming stick. A good VPN has native apps for all major platforms and allows enough simultaneous connections to cover your household. Surfshark stands out here with unlimited device connections on one account — genuinely useful if you have a household of NRL fans or run multiple devices.
+You might watch on a smart TV, laptop, tablet, phone, or streaming stick. A good VPN has native apps for all major platforms and allows enough simultaneous connections to cover your household. Surfshark stands out here with [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections on one account — genuinely useful if you have a household of NRL fans or run multiple devices.
 
 ### No-Logs Approach
 

@@ -132,7 +132,7 @@ The full process takes under 30 minutes across both devices. The app experience 
 ## Frequently Asked Questions
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-review-2026/) work on both Android and Windows with the same account?**
-Yes. A single [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) subscription covers unlimited devices across Android, Windows, Mac, iOS, and Linux. You log in with the same account on every device — no separate licenses, no device-count management. Every device gets the full feature set: VPN, antivirus, breach monitoring, and CleanWeb ad blocking.
+Yes. A single [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s across Android, Windows, Mac, iOS, and Linux. You log in with the same account on every device — no separate licenses, no device-count management. Every device gets the full feature set: VPN, antivirus, breach monitoring, and CleanWeb ad blocking.
 
 **Is the Surfshark VPN the same on Android as on Windows?**
 Functionally yes. Both platforms support WireGuard and OpenVPN protocols, the kill switch, MultiHop routing, and auto-connect on untrusted Wi-Fi. The Android app has a clean native interface rather than a scaled-down version of the desktop client. There is no data cap on either platform.

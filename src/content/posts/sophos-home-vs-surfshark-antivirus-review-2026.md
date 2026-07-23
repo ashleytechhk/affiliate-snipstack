@@ -77,7 +77,7 @@ Surfshark started as a VPN company — one of the few in the industry that expli
 - Real-time antivirus scanning that stops viruses, ransomware, and malware before they take hold
 - **Built-in VPN** — one tap to secure your connection on any network, including public Wi-Fi
 - **Breach alerts** — instant notification if your email, passwords, or personal ID appear in a known data leak
-- **Unlimited devices** — one subscription covers every phone, tablet, laptop, and computer in your home
+- **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — one subscription covers every phone, tablet, laptop, and computer in your home
 - Clean, straightforward app interface designed for everyday use, not IT professionals
 - 24/7 live chat support included in all plans
 

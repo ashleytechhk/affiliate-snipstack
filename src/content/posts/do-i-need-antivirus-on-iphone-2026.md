@@ -133,7 +133,7 @@ Here is what you get:
 
 **Simple app.** The Surfshark app for iPhone is clean and easy to understand. A large shield icon tells you if you are protected. That is really all you need to look at.
 
-**One subscription, all your devices.** Surfshark covers unlimited devices. Your iPhone, your iPad, and a family member's device can all be protected under a single plan.
+**One subscription, all your devices.** Surfshark covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. Your iPhone, your iPad, and a family member's device can all be protected under a single plan.
 
 **Affordable.** Plans cost well under $5 a month on longer-term plans. For the peace of mind it provides, that is exceptional value.
 

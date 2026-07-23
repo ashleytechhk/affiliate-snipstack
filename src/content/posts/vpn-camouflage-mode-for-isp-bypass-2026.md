@@ -152,7 +152,7 @@ A standard VPN hides what you are doing on the internet. Camouflage Mode hides t
 
 For anyone relying on a VPN to maintain consistent streaming performance or regional pricing access, Camouflage Mode is not an optional extra. It is the feature that keeps the connection stable when ISPs push back against detected VPN traffic.
 
-Surfshark includes Camouflage Mode on all plans at no additional cost, it activates automatically on OpenVPN, and the full 3,200+ server network is available with obfuscation active. One subscription covers unlimited devices simultaneously.
+Surfshark includes Camouflage Mode on all plans at no additional cost, it activates automatically on OpenVPN, and the full 3,200+ server network is available with obfuscation active. One subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s simultaneously.
 
 **[Get Surfshark with Camouflage Mode](/blog/vpn?sub=vpn-camouflage-mode-for-isp-bypass-2026__cta)**
 

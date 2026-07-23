@@ -18,7 +18,7 @@ Two names come up when you search for a clean replacement: [Surfshark One](https
 
 ## Quick Verdict
 
-[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) is the stronger choice for users who want a genuinely capable VPN bundled with solid antivirus coverage. It includes a no-logs VPN with unlimited devices — something Avast One's base tier deliberately holds back. Avast One has roots in the consumer antivirus market and its detection engine is mature, but its 2020 data-sharing controversy with its former Jumpshot subsidiary is a hard fact worth knowing before you hand over a privacy-focused subscription. If you left Norton because you felt like the product, Avast's history here deserves a look before you sign up.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) is the stronger choice for users who want a genuinely capable VPN bundled with solid antivirus coverage. It includes a no-logs VPN with [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — something Avast One's base tier deliberately holds back. Avast One has roots in the consumer antivirus market and its detection engine is mature, but its 2020 data-sharing controversy with its former Jumpshot subsidiary is a hard fact worth knowing before you hand over a privacy-focused subscription. If you left Norton because you felt like the product, Avast's history here deserves a look before you sign up.
 
 For most users switching away from Norton or McAfee: [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) delivers better overall value, cleaner UX, and a VPN that doesn't feel like an afterthought.
 

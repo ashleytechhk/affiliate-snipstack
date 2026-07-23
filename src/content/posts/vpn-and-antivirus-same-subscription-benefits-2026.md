@@ -53,7 +53,7 @@ The table below compares three common setups people are actually running in 2026
 | Single app / dashboard | No | Partial | Yes |
 | Typical annual price (2 devices) | $80–$120 combined | $100–$110 | ~$50–$70 |
 
-The [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) advantage concentrates in three areas: unlimited devices, a genuinely uncapped VPN, and a lower combined price.
+The [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) advantage concentrates in three areas: [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, a genuinely uncapped VPN, and a lower combined price.
 
 ![Surfshark One feature breakdown vs. legacy suites](/og/vpn-and-antivirus-same-subscription-benefits-2026-inline-1.png)
 

@@ -91,7 +91,7 @@ For architecture use, prioritise:
 
 - **No-logs policy** — the VPN provider should not store records of your activity.
 - **WireGuard or equivalent modern protocol** — for large file transfer efficiency.
-- **Unlimited devices** — architects often work across a desktop workstation, a laptop for site visits, and a tablet for client meetings.
+- **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — architects often work across a desktop workstation, a laptop for site visits, and a tablet for client meetings.
 - **Large server network** — more server locations give you more subscription arbitrage options.
 
 Surfshark ticks all of these. It has a verified no-logs policy, supports WireGuard, allows unlimited simultaneous connections, and operates servers across 100+ countries.

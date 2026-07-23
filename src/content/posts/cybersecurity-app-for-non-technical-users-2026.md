@@ -37,7 +37,7 @@ The detailed comparison is below. If you want to skip straight to the pick, it i
 | **Upsell pop-ups** | None | Frequent | Frequent |
 | **Forced [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s** | None | Yes | Yes |
 | **VPN included** | Full — no data cap | Yes — no data cap | Yes — no data cap |
-| **VPN connection limit** | Unlimited devices | 5 (device-linked) | 5–unlimited (tier dependent) |
+| **VPN connection limit** | [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | 5 (device-linked) | 5–unlimited (tier dependent) |
 | **Antivirus (real-time)** | Yes | Yes | Yes |
 | **Dark web / breach alerts** | Yes — Surfshark Alert | Yes (LifeLock, US-only on higher tiers) | Yes — limited |
 | **Private search** | Yes — Surfshark Search | No | No |

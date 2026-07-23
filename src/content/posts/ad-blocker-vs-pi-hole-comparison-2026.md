@@ -171,7 +171,7 @@ Marginally. Surfshark uses WireGuard as its default mobile protocol, which has m
 
 **Is Pi-hole free?**
 
-The software is free and open source. You need compatible hardware — a Raspberry Pi Zero 2 W runs around $15, plus a microSD card (~$8) and power adapter (~$8), bringing the total to roughly $30–50. Add ongoing electricity costs (about $1–3 per year at 1–2 watts continuous) and periodic maintenance time. CleanWeb is included with a Surfshark subscription, which covers unlimited devices and multiple privacy features beyond ad blocking.
+The software is free and open source. You need compatible hardware — a Raspberry Pi Zero 2 W runs around $15, plus a microSD card (~$8) and power adapter (~$8), bringing the total to roughly $30–50. Add ongoing electricity costs (about $1–3 per year at 1–2 watts continuous) and periodic maintenance time. CleanWeb is included with a Surfshark subscription, which covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and multiple privacy features beyond ad blocking.
 
 **Can I run Pi-hole and CleanWeb together?**
 

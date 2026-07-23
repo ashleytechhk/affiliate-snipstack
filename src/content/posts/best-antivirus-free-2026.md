@@ -110,7 +110,7 @@ Most free antivirus tools only cover the device you install them on. If you shar
 - **VPN** — one click to protect your connection on any network
 - **Breach alerts** — instant notification if your email, password, or ID appears in a data leak
 - **24/7 customer support** — live chat anytime, no wait, no phone tree
-- **Unlimited devices** — covers your computer, phone, tablet, and your family's too, all under one plan
+- **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — covers your computer, phone, tablet, and your family's too, all under one plan
 
 **How to set up [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) (Step by step):**
 

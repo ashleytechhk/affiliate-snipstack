@@ -127,7 +127,7 @@ Both tiers require a UK IP address, so the VPN requirement applies regardless.
 
 For the subscription arbitrageur, the maths is clear: ITVX's free tier costs nothing, and a VPN that reliably unlocks it runs between £2 and £5/month on a long-term plan. That's less than any major streaming service, and the same VPN adds value across every other geo-restricted service you use.
 
-**Surfshark** is the pick if you're optimising for the lowest combined cost: lowest per-month pricing on long-term plans, unlimited devices, and UK server reliability that holds up against ITVX's detection. **ExpressVPN** is the pick if you want the highest-confidence option regardless of price. **NordVPN** is a solid middle path.
+**Surfshark** is the pick if you're optimising for the lowest combined cost: lowest per-month pricing on long-term plans, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and UK server reliability that holds up against ITVX's detection. **ExpressVPN** is the pick if you want the highest-confidence option regardless of price. **NordVPN** is a solid middle path.
 
 Avoid [free VPNs for](https://snipstack.io/free-vpns-for-chrome-2026/) ITVX. They lack the infrastructure to maintain unblocked UK IPs, frequently impose data caps that make streaming impractical, and turn what should be a reliable free streaming source into an intermittent one.
 

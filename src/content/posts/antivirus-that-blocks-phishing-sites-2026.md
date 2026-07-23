@@ -125,7 +125,7 @@ Norton has been around for decades and many seniors already recognize the name. 
 
 The protection quality is good. The main concerns for seniors are interface complexity and renewal pricing. Norton's first-year prices are often discounted heavily, but renewal rates in subsequent years can be significantly higher. Read the terms before subscribing so you know what you are committing to in year two and beyond.
 
-Norton covers up to five devices, which is useful for families. If you are looking for unlimited device coverage, Surfshark is the only mainstream option that offers it.
+Norton covers up to five devices, which is useful for families. If you are looking for [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage, Surfshark is the only mainstream option that offers it.
 
 ---
 

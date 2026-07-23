@@ -107,7 +107,7 @@ Studying for any of these certifications means you are spending more time online
 - **Alert** — a breach monitoring tool that watches your email addresses, credit cards, and ID numbers against known data leaks
 - **Search** — a private, ad-free search engine that does not profile your queries
 
-One subscription. Unlimited devices. No upsell carousel every time you open the app. For security professionals who know what data hygiene actually means, it is a straightforward upgrade from the legacy suites that have been coasting on brand recognition for a decade.
+One subscription. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. No upsell carousel every time you open the app. For security professionals who know what data hygiene actually means, it is a straightforward upgrade from the legacy suites that have been coasting on brand recognition for a decade.
 
 ---
 

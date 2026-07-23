@@ -62,7 +62,7 @@ Not every antivirus product is designed with simplicity in mind. Before choosing
 
 **Data breach monitoring.** If a company you use (a retailer, a streaming service, a social network) gets hacked, your email and password may be leaked online. Breach monitoring watches for your details and tells you immediately so you can change your password before criminals use it.
 
-**Unlimited device coverage.** Many households have more than one computer, plus tablets and phones. One subscription that covers everything is far better value than paying separately for each device.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage.** Many households have more than one computer, plus tablets and phones. One subscription that covers everything is far better value than paying separately for each device.
 
 ![Surfshark Antivirus key features for Windows 11 home users 2026](/og/best-antivirus-for-windows-11-home-users-2026-inline-1.png)
 

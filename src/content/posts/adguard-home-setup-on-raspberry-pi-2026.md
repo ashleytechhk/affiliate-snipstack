@@ -96,7 +96,7 @@ Surfshark includes a feature called **CleanWeb** that performs ad and tracker bl
 | Works on any Wi-Fi | No | Yes |
 | Covers all home devices | Yes | Yes (via router or app) |
 | Blocks trackers | Yes | Yes |
-| Cost | ~USD 50 one-time + electricity | Subscription (covers unlimited devices) |
+| Cost | ~USD 50 one-time + electricity | Subscription (covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) |
 | Ongoing maintenance | Manual updates / SSH | Automatic |
 
 ![Surfshark CleanWeb vs AdGuard Home feature comparison on mobile](/og/adguard-home-setup-on-raspberry-pi-2026-inline-2.png)

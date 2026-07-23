@@ -58,7 +58,7 @@ Then there is the interface itself. Norton's app surfaces upsell prompts regular
 
 ### VPN — Full-Featured, No Artificial Limits
 
-The Surfshark VPN is the flagship product. It supports WireGuard and IKEv2/IPSec protocols, includes a kill switch on all major platforms, and lets you connect unlimited devices simultaneously on one account. That last point alone makes it worth comparing for households or anyone running protection on a phone, laptop, tablet, and work machine at once. Norton 360 Deluxe caps device count at five.
+The Surfshark VPN is the flagship product. It supports WireGuard and IKEv2/IPSec protocols, includes a kill switch on all major platforms, and lets you connect [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s simultaneously on one account. That last point alone makes it worth comparing for households or anyone running protection on a phone, laptop, tablet, and work machine at once. Norton 360 Deluxe caps device count at five.
 
 Server coverage spans 100+ countries with multi-hop and obfuscated server options for users who need an extra layer of routing flexibility.
 

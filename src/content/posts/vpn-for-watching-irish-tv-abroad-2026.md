@@ -69,7 +69,7 @@ There are dozens of VPN services on the market. Most work, to varying degrees, f
 
 **Speed.** A VPN adds a layer of routing that can introduce latency. For HD and 4K streaming, you need a VPN that minimises this overhead. Surfshark uses the WireGuard protocol by default — currently the [fastest VPN](https://snipstack.io/fastest-vpn-for-streaming-2026/) tunnelling protocol available — which means video buffering is rarely attributable to the VPN itself.
 
-**Cost.** This matters a lot if you are a subscription arbitrageur — someone who actively manages their streaming spend. Surfshark's annual and two-year plans are priced well below most competitors, and because one subscription covers unlimited devices, you are not paying per-device fees.
+**Cost.** This matters a lot if you are a subscription arbitrageur — someone who actively manages their streaming spend. Surfshark's annual and two-year plans are priced well below most competitors, and because one subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, you are not paying per-device fees.
 
 **[Check Surfshark's current pricing and Irish server coverage](/blog/vpn?sub=vpn-for-watching-irish-tv-abroad-2026__mid)**
 

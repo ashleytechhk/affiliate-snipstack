@@ -109,7 +109,7 @@ Getting started takes under five minutes on both iOS and Android.
 
 ![Surfshark CleanWeb enabled on Android and iOS settings screens](/og/ad-blocker-for-google-maps-ads-2026-inline-2.png)
 
-One CleanWeb subscription covers unlimited devices simultaneously, so you can run it on your phone, tablet, and laptop at the same time.
+One CleanWeb subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s simultaneously, so you can run it on your phone, tablet, and laptop at the same time.
 
 ---
 

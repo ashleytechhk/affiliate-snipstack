@@ -26,7 +26,7 @@ Free antivirus — including [Windows Defender](https://snipstack.io/windows-def
 
 But if you bank online, receive emails from strangers, shop on websites, or ever use WiFi at a coffee shop or doctor's waiting room, free antivirus has real blind spots. It will not warn you if your password was stolen in a data breach. It will not protect your connection on public WiFi. And if something goes wrong, there is no one to call for help.
 
-**[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-vs-paid-antivirus-2026__above-fold)** fills exactly those gaps — real-time virus scanning, a built-in VPN for safe browsing on any network, breach alerts when your personal information surfaces somewhere it should not, and unlimited device coverage. Setup takes under five minutes.
+**[Surfshark Antivirus](/blog/antivirus?sub=free-antivirus-vs-paid-antivirus-2026__above-fold)** fills exactly those gaps — real-time virus scanning, a built-in VPN for safe browsing on any network, breach alerts when your personal information surfaces somewhere it should not, and [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage. Setup takes under five minutes.
 
 ---
 

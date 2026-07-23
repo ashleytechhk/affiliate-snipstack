@@ -85,7 +85,7 @@ CleanWeb stays active across connections — you do not need to re-enable it eac
 
 ![Surfshark CleanWeb toggle location in the iOS and Android app — Features settings screen](/og/surfshark-cleanweb-ad-blocker-review-2026-inline-2.png)
 
-One subscription covers unlimited devices. If you run CleanWeb on your phone, your tablet, your laptop, and a partner's phone, all of them draw from the same plan simultaneously — a practical advantage over per-device [ad blocker](https://snipstack.io/ad-blocker-for-chromecast-streaming-device-2026/) licenses.
+One subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. If you run CleanWeb on your phone, your tablet, your laptop, and a partner's phone, all of them draw from the same plan simultaneously — a practical advantage over per-device [ad blocker](https://snipstack.io/ad-blocker-for-chromecast-streaming-device-2026/) licenses.
 
 ---
 

@@ -158,7 +158,7 @@ This works across every app on your phone because all network traffic goes throu
 | iOS support | None | Safari only | N/A (iOS app separate) | Excellent |
 | In-app ad blocking | None | None | Good | Good |
 | YouTube app ads | None | None | Good | Good |
-| Cross-device | No | No | Android only | Unlimited devices |
+| Cross-device | No | No | Android only | [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s |
 | Cosmetic filtering | Yes | Yes | Yes | No |
 | Includes VPN | No | No | No | Yes |
 | Cost | Free | Free | Paid | From ~$2.50/mo (bundled) |

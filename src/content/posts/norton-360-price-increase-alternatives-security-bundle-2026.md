@@ -18,7 +18,7 @@ This guide walks through the real [alternatives](https://snipstack.io/vs-antivir
 
 ## Quick Verdict
 
-If your Norton 360 renewal jumped and you're comparing alternatives, One Bundle is a strong replacement worth serious consideration. It covers antivirus, an unlimited VPN, data breach alerts, and ad/tracker blocking under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), on unlimited devices, with pricing that doesn't cliff-jump the way Norton's does after year one. You give up Norton's built-in password manager and its deeper LifeLock identity coverage — for most households, that trade is worth the savings and the lighter footprint on your machine.
+If your Norton 360 renewal jumped and you're comparing alternatives, One Bundle is a strong replacement worth serious consideration. It covers antivirus, an unlimited VPN, data breach alerts, and ad/tracker blocking under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), on [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, with pricing that doesn't cliff-jump the way Norton's does after year one. You give up Norton's built-in password manager and its deeper LifeLock identity coverage — for most households, that trade is worth the savings and the lighter footprint on your machine.
 
 ---
 

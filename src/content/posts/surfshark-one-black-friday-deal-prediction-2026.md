@@ -41,7 +41,7 @@ The table below uses the standard multi-device plans that most households actual
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) (2-yr) | Norton 360 Deluxe | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes (unlimited devices) | Yes (limited) | Yes (5 devices) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (limited) | Yes (5 devices) |
 | Antivirus | Yes | Yes | Yes |
 | Dark web monitoring | Yes (Alert) | Yes | Yes |
 | Private search | Yes | No | No |

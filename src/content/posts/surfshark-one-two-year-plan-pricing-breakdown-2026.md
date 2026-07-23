@@ -70,7 +70,7 @@ This is the comparison most Annoyed-by-Norton upgraders actually want to see. Le
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) (2yr) | Norton 360 Deluxe | McAfee Total Protection |
 |---------|--------------------|--------------------|-------------------------|
 | Effective monthly (approx.) | ~$2.69–$3.19 | ~$4.99–$6.67 (renewal) | ~$4.99–$8.33 (renewal) |
-| VPN included | Yes (unlimited devices) | Yes (100GB/mo capped) | Yes (unlimited, but separate app) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (100GB/mo capped) | Yes (unlimited, but separate app) |
 | Antivirus | Yes | Yes | Yes |
 | Device limit | Unlimited | 5 devices | Up to 10 devices |
 | Dark web monitoring | Yes (Surfshark Alert) | Yes (LifeLock basic) | Yes (basic) |

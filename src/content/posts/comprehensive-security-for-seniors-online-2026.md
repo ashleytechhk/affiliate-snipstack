@@ -87,7 +87,7 @@ Real-time malware protection with cloud-based threat database updates. Runs quie
 
 ### Surfshark VPN
 
-Encrypts the internet connection, which is directly relevant for seniors using public Wi-Fi at libraries, coffee shops, or medical facilities. Covers unlimited devices on one account — useful when setting this up for a parent's laptop, tablet, and phone in one subscription.
+Encrypts the internet connection, which is directly relevant for seniors using public Wi-Fi at libraries, coffee shops, or medical facilities. Covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s on one account — useful when setting this up for a parent's laptop, tablet, and phone in one subscription.
 
 ### Surfshark Alert (Breach Monitoring)
 

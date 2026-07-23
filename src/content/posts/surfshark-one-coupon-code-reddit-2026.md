@@ -90,7 +90,7 @@ Understanding whether the [Surfshark One](https://snipstack.io/surfshark-one-plu
 
 ### Surfshark VPN
 
-The core product — full VPN with WireGuard and OpenVPN protocol support, servers in 100+ countries, unlimited simultaneous device connections, and a no-logs policy independently audited by Cure53. Unlimited devices is not a marketing qualifier; one subscription covers every device in your household without per-connection throttling.
+The core product — full VPN with WireGuard and OpenVPN protocol support, servers in 100+ countries, unlimited simultaneous device connections, and a no-logs policy independently audited by Cure53. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s is not a marketing qualifier; one subscription covers every device in your household without per-connection throttling.
 
 ### [Surfshark Antivirus](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/)
 

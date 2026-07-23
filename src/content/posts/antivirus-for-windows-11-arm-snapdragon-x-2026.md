@@ -153,7 +153,7 @@ But that protection only works if the antivirus is running properly — natively
 | Webcam protection | Alerts you if any app tries to access your camera without permission |
 | Data breach monitoring | Notifies you if your email or passwords appear in a data leak |
 | Bundled VPN | Encrypts your connection on public Wi-Fi |
-| Unlimited devices | One plan covers your laptop, tablet, and family members' devices |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | One plan covers your laptop, tablet, and family members' devices |
 | 24/7 live chat support | A real person can walk you through setup or any problem |
 
 Setup takes about five minutes. The interface uses plain language throughout — no technical knowledge required. If anything is unclear, Surfshark's support team is available around the clock via live chat.

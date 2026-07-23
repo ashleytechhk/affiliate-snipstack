@@ -31,7 +31,7 @@ If you are coming from Norton or McAfee and you are fed up with slow scans, annu
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) Bundle | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) (with LifeLock) | McAfee+ Premium |
 |---|---|---|---|
 | Real-time antivirus | Yes | Yes | Yes |
-| VPN included | Yes (unlimited devices) | Yes (limited on base tier) | Yes |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (limited on base tier) | Yes |
 | Identity/breach alerts | Yes — Surfshark Alert | Yes — dark web monitoring (LifeLock on higher tiers) | Yes — identity monitoring |
 | Credit monitoring | No | Yes (LifeLock tiers) | Yes (some plans) |
 | Identity theft insurance | No | Yes (LifeLock tiers, US only) | Yes (some US plans) |

@@ -29,7 +29,7 @@ In 2026, a handful of suites actually deliver on that promise — and one stands
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-plus-ultra-comparison-2026/) | Norton 360 Deluxe | McAfee+ Premium |
 |---|---|---|---|
 | Single unified client | Yes | No (multiple installs) | No (portal-driven) |
-| VPN included | Yes — unlimited devices | Yes — 5 devices | Yes — unlimited devices |
+| VPN included | Yes — [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes — 5 devices | Yes — unlimited devices |
 | Antivirus included | Yes | Yes | Yes |
 | Password manager | No (separate app) | Yes (separate install) | Yes (separate install) |
 | Data breach alerts | Yes — real-time | Yes | Yes |

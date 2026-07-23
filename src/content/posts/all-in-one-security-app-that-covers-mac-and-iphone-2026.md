@@ -139,7 +139,7 @@ Yes. Apple's XProtect and Gatekeeper are baked into macOS and designed to co-exi
 
 **How many devices does one [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) subscription cover?**
 
-The [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) plan covers up to 5 devices simultaneously, and [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)+ covers unlimited devices. That means one subscription can cover your Mac, iPhone, and any other household devices — iPad, Windows laptop, Android phone — without paying per-device fees.
+The [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) plan covers up to 5 devices simultaneously, and [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/)+ covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. That means one subscription can cover your Mac, iPhone, and any other household devices — iPad, Windows laptop, Android phone — without paying per-device fees.
 
 **Will canceling Norton mid-subscription get me a refund?**
 

@@ -98,7 +98,7 @@ Surfshark checks every box above. Here is what makes it stand out specifically f
 
 **Colombian server coverage.** Surfshark maintains servers in Colombia, so you get a genuine Colombian IP address — not a proxy workaround that gets flagged.
 
-**Unlimited devices.** One subscription covers every device you own with no limit on simultaneous connections. Share it with family members back home or use it on your phone, laptop, and tablet all at once.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One subscription covers every device you own with no limit on simultaneous connections. Share it with family members back home or use it on your phone, laptop, and tablet all at once.
 
 **Consistent streaming performance.** Surfshark actively maintains its streaming capabilities. Its NoBorders mode is designed to work in environments where VPN traffic is restricted.
 

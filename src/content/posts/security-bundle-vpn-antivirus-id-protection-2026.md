@@ -87,7 +87,7 @@ When breach alerts live in the same app as your [VPN and antivirus](https://snip
 
 **[Surfshark One](/blog/one?sub=security-bundle-vpn-antivirus-id-protection-2026__mid)** is a [security bundle](https://snipstack.io/is-surfshark-one-worth-the-upgrade-2026/) built around all three layers described above. Here is what each component delivers.
 
-### VPN: Full-featured, unlimited devices
+### VPN: Full-featured, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 
 Surfshark's VPN is the same engine as the standalone product — not a capped bundle version:
 

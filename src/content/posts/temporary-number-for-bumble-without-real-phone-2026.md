@@ -60,9 +60,9 @@ Most free "[second number](https://snipstack.io/second-number-for-bodybuilder-pe
 
 **Surfshark Alt-Number** provisions a real, carrier-backed number — the same type of number a physical SIM would give you, not a VoIP alias. Because it isn't in the ranges dating apps flag, it passes Bumble's SMS verification in most cases, and it keeps working normally afterward for calls and texts from matches.
 
-Setup is straightforward: subscribe to Surfshark One, open Alt-Number inside the app, pick a country and number, and it's active within minutes on the phone you already carry. No second SIM, no separate device. When a match ends badly or you simply want a clean start, you replace the number from the same screen — no explanation owed to anyone, no trace back to your real line.
+Setup is straightforward: subscribe to [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/), open Alt-Number inside the app, pick a country and number, and it's active within minutes on the phone you already carry. No second SIM, no separate device. When a match ends badly or you simply want a clean start, you replace the number from the same screen — no explanation owed to anyone, no trace back to your real line.
 
-Alt-Number also sits alongside a VPN and email-masking tool inside the same Surfshark One subscription, so if you're already thinking about privacy on other fronts, the marginal cost of covering your phone number too is small.
+Alt-Number also sits alongside a VPN and email-masking tool inside the same [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) subscription, so if you're already thinking about privacy on other fronts, the marginal cost of covering your phone number too is small.
 
 **[Try Surfshark Alt-Number for Bumble →](/blog/altnumber?sub=temporary-number-for-bumble-without-real-phone-2026__mid)**
 
@@ -70,7 +70,7 @@ Alt-Number also sits alongside a VPN and email-masking tool inside the same Surf
 
 ![Alt-Number setup for dating app privacy — replace your number anytime](/og/temporary-number-for-bumble-without-real-phone-2026-inline-2.png)
 
-## Already Gave Out Your Real Number? Here's What to Do
+## Already Gave Out Your Real Number? Here's [What to Do](https://snipstack.io/what-to-do-after-malware-infection-2026/)
 
 If you've already shared your real number with matches, the damage isn't undone, but you can stop it from getting worse. Block the contact on your phone, not just on Bumble — a Bumble block doesn't stop calls or texts arriving directly to your device. Avoid replying to unknown numbers that seem to know details about you; confirming the number is "live" often invites more contact, not less.
 

@@ -19,7 +19,7 @@ This guide explains what a VPN on a mesh router actually is, how it works, wheth
 A VPN on a mesh WiFi router routes your entire home network through a VPN — one setup covers every connected device. For streaming subscribers trying to access different regional libraries or take advantage of lower-cost subscription regions, router-level VPN is the most practical solution for devices like smart TVs and game consoles that do not have native VPN app support. **Surfshark** supports router-level installation and is the best match for this use case: unlimited simultaneous connections, no extra device fee, and dedicated streaming servers.
 
 > **Set up Surfshark on your router — one connection, whole-home coverage**
-> Unlimited devices. Works on smart TVs, consoles, and streaming sticks.
+> [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. Works on smart TVs, consoles, and streaming sticks.
 > [Get Surfshark VPN](/blog/vpn?sub=vpn-on-mesh-wifi-router-2026__above-fold)
 
 ---

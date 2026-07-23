@@ -40,7 +40,7 @@ The table below covers the components most relevant to a nomad travel setup.
 |---|---|---|---|
 | VPN included | Yes — full Surfshark VPN | Yes — Norton Secure VPN | Yes — Safe Connect |
 | VPN server count | 3,200+ in 100 countries | ~2,000 in 30 countries | ~400 in 50 countries |
-| Unlimited devices | Yes | Yes (5 on base plan) | Yes |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes | Yes (5 on base plan) | Yes |
 | Antivirus engine | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) | Norton (top-tier) | McAfee (top-tier) |
 | Real-time scan overhead | Low | Medium–High | Medium |
 | Data breach alerts | Surfshark Alert (email, card, ID) | Dark Web Monitoring | Identity Monitoring |

@@ -139,7 +139,7 @@ Once active, CleanWeb blocks tracker domain requests from every app, including s
 
 > **Start blocking shopping surveillance ads on your phone**
 > CleanWeb runs across every app simultaneously — not just your browser.
-> Included in Surfshark. 30-day money-back guarantee, unlimited devices.
+> Included in Surfshark. 30-day money-back guarantee, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 > [Get Surfshark CleanWeb](/blog/adblock?sub=block-surveillance-ads-on-shopping-sites-2026__mid)
 
 ---

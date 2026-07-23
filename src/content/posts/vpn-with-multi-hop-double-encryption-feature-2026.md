@@ -123,7 +123,7 @@ Other things Surfshark includes that matter for subscription arbitrage:
 - **IP Rotator** — periodically changes your IP for added privacy during long sessions
 - **No-logs policy** independently audited** — your browsing history isn't stored
 
-The combination of multi-hop availability, unlimited devices, and a large server network makes it a strong pick for anyone running multiple streaming services across several household members.
+The combination of multi-hop availability, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and a large server network makes it a strong pick for anyone running multiple streaming services across several household members.
 
 ---
 

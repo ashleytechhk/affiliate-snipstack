@@ -160,7 +160,7 @@ No noticeably. [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender
 
 **Q: Can I use one Surfshark subscription for my phone too?**
 
-Yes. Surfshark allows unlimited device connections under one account — meaning you can install it on your Windows computer, your iPhone or Android phone, and a tablet, all under the same subscription. Just download the Surfshark app from the App Store or Google Play, log in with the same account, and tap Connect.
+Yes. Surfshark allows [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections under one account — meaning you can install it on your Windows computer, your iPhone or Android phone, and a tablet, all under the same subscription. Just download the Surfshark app from the App Store or Google Play, log in with the same account, and tap Connect.
 
 **Q: I already pay for McAfee or Norton. Should I switch?**
 

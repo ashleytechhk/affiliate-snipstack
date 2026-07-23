@@ -68,7 +68,7 @@ Best for seniors               ★★★★★                 ★★★★     
 
 *Prices based on publicly listed plans as of June 2026. Verify at checkout — promotional rates change.*
 
-**Why Surfshark comes out ahead for this audience:** The unlimited device policy means one purchase covers your phone, tablet, and computer without counting slots. The interface is the simplest of the three. And the price on a multi-year plan is the lowest of the group.
+**Why Surfshark comes out ahead for this audience:** The [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy means one purchase covers your phone, tablet, and computer without counting slots. The interface is the simplest of the three. And the price on a multi-year plan is the lowest of the group.
 
 ---
 

@@ -114,7 +114,7 @@ Watch for products that offer a low introductory price and then sharply increase
 
 **Clean, straightforward dashboard** — the interface is not cluttered with upsell prompts or confusing options. The main screen tells you plainly whether your PC is protected, and alerts are written in everyday language.
 
-**Unlimited devices** — if you also want to protect a tablet or a second computer that a family member uses to help manage your affairs, you can add devices without paying extra.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — if you also want to protect a tablet or a second computer that a family member uses to help manage your affairs, you can add devices without paying extra.
 
 [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) is part of the broader Surfshark security ecosystem, meaning you can optionally add VPN protection (useful if you ever use public Wi-Fi at a library or coffee shop) without switching to a different company or learning a new app.
 

@@ -70,11 +70,11 @@ This is where free tiers hit their ceiling fastest. Count the platforms that rea
 
 ### Cost and Bundling
 
-SimpleLogin and AnonAddy are genuinely free for light use — fine if you only need aliases for two or three platforms. Alt ID isn't a standalone free product; it comes bundled with Surfshark's broader privacy suite, which also includes VPN and antivirus coverage. If you're already considering that stack, the alias feature is effectively included rather than an added cost. For alias-only coverage at zero spend, a free-tier service is the better starting point.
+SimpleLogin and AnonAddy are genuinely free for light use — fine if you only need aliases for two or three platforms. Alt ID isn't a standalone free product; it comes bundled with Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/), which also includes [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-cost-saving-2026/) coverage. If you're already considering that stack, the alias feature is effectively included rather than an added cost. For alias-only coverage at zero spend, a free-tier service is the better starting point.
 
 ---
 
-## How to Set Up a Separate Alt Email for Each Social Account
+## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Separate Alt Email for Each Social Account
 
 1. **Create one alias per platform** — labeled clearly, like `instagram-yourname@` or `tiktok-yourname@`, so you know at a glance which account it belongs to.
 2. **Update the email on each platform's account settings**, one at a time. Most platforms send a confirmation email to the new address before the change takes effect.
@@ -95,7 +95,7 @@ Alt ID makes the most sense if you:
 - Manage accounts on four or more social platforms and want each one isolated
 - Expect to keep creating new aliases over time without hitting a free-tier cap
 - Want two-way reply support so customer support threads never expose your real address
-- Are already considering a broader privacy stack (VPN, antivirus) where the alias feature comes bundled rather than as a separate line item
+- Are already considering a broader privacy stack (VPN, [antivirus](https://snipstack.io/vs-antivirus-2026/)) where the alias feature comes bundled rather than as a separate line item
 
 If you're only separating one or two platforms, SimpleLogin's free tier covers it comfortably. But once you're past three or four accounts — most people's actual social footprint — an unlimited model stops being a nice-to-have and becomes the only practical option.
 

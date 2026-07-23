@@ -38,7 +38,7 @@ Here is a feature-by-feature breakdown for the frequent traveler use case specif
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) | Norton 360 | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes (unlimited devices) | Yes (limited data on some plans) | Yes (limited plans) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (limited data on some plans) | Yes (limited plans) |
 | VPN protocol options | WireGuard, OpenVPN, IKEv2 | OpenVPN, IKEv2 | OpenVPN |
 | No-logs VPN policy | Yes (audited) | No (logs connection data) | No (logs connection data) |
 | Hotel WiFi auto-protect | Yes | On premium tiers only | No |

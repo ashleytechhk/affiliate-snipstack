@@ -105,7 +105,7 @@ AES-256 encryption is the current benchmark. Paired with modern protocols like W
 
 A kill switch cuts your internet connection if the VPN drops unexpectedly. Without it, your real IP could be exposed for a few seconds during a reconnect — enough to leak your location to a service you're trying to access privately.
 
-### Unlimited Devices
+### [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 
 If you're managing multiple streaming accounts or devices (TV, phone, laptop, tablet), an unlimited simultaneous connections policy means one subscription covers everything.
 

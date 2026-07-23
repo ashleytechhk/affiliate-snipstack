@@ -28,7 +28,7 @@ For the vast majority of users currently running Norton or McAfee plus a separat
 |---|---|---|---|
 | **Antivirus / malware protection** | Yes | Yes | Yes |
 | **VPN included** | Yes — unlimited, 100+ countries | VPN capped (Norton) + paid VPN | VPN basic + paid VPN |
-| **Simultaneous devices** | Unlimited | 1–5 (Norton) + VPN limit | Unlimited devices (McAfee) + VPN limit |
+| **Simultaneous devices** | Unlimited | 1–5 (Norton) + VPN limit | [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s (McAfee) + VPN limit |
 | **Data breach / alert monitoring** | Yes (Surfshark Alert) | Yes (dark web monitoring) | Yes (identity monitoring) |
 | **Ad + [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)** | Yes (CleanWeb 2.0) | No | No |
 | **Private search engine** | Yes (Surfshark Search) | No | No |

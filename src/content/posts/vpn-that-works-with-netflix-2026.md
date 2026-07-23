@@ -66,7 +66,7 @@ A VPN that can't keep your DNS traffic inside its own tunnel will get caught reg
 
 ### ExpressVPN
 
-Consistently one of the most reliable for Netflix across the widest range of regions. ExpressVPN's Lightway protocol delivers fast enough speeds for 4K streaming without buffering, and their server network spans 105 countries. The drawback is price — it's the most expensive of the four, and there's no unlimited device plan. If you have more than five devices in a household, costs add up.
+Consistently one of the most reliable for Netflix across the widest range of regions. ExpressVPN's Lightway protocol delivers fast enough speeds for 4K streaming without buffering, and their server network spans 105 countries. The drawback is price — it's the most expensive of the four, and there's no [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) plan. If you have more than five devices in a household, costs add up.
 
 ### NordVPN
 

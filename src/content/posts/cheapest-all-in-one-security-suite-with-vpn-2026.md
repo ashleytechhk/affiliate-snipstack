@@ -129,7 +129,7 @@ Surfshark's VPN is the core product — it predates the [antivirus bundle](https
 
 ### How many devices can I use with [Surfshark One](https://snipstack.io/surfshark-one-trial-available-2026/)?
 
-[Surfshark One](https://snipstack.io/surfshark-one-review-2026/) covers unlimited devices simultaneously on a single subscription. You can run the VPN on your laptop, your phone, your partner's tablet, and your smart TV at the same time. Norton 360 Deluxe covers 5 devices. McAfee Total Protection covers unlimited devices but its VPN performance lags Surfshark's.
+[Surfshark One](https://snipstack.io/surfshark-one-review-2026/) covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s simultaneously on a single subscription. You can run the VPN on your laptop, your phone, your partner's tablet, and your smart TV at the same time. Norton 360 Deluxe covers 5 devices. McAfee Total Protection covers unlimited devices but its VPN performance lags Surfshark's.
 
 ### Can I cancel [Surfshark One](https://snipstack.io/surfshark-one-features-full-list-2026/) easily, or is it designed to trap me?
 

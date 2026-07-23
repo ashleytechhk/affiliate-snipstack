@@ -76,7 +76,7 @@ Here is what makes Surfshark worth considering for this specific use case:
 
 **Japan server coverage.** Surfshark operates multiple servers in Japan. Multiple server options mean you can switch if one server is experiencing load, and the network is actively maintained to keep pace with streaming platforms.
 
-**Unlimited devices.** Most VPN services charge per device or cap connections at five or six. Surfshark does not. One subscription covers every device in your household. If you are already using a VPN on your phone and laptop, adding NHK access on your smart TV costs you nothing additional.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** Most VPN services charge per device or cap connections at five or six. Surfshark does not. One subscription covers every device in your household. If you are already using a VPN on your phone and laptop, adding NHK access on your smart TV costs you nothing additional.
 
 **Price-to-value ratio.** On a multi-year plan, Surfshark typically works out to well under $3 per month — making it cheaper than a single month of most streaming services. For someone who wants NHK Plus access alongside the other privacy and security benefits a VPN provides, the math is straightforward.
 

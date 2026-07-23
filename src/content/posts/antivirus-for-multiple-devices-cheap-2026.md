@@ -14,7 +14,7 @@ In 2024, the FBI's Internet Crime Complaint Center reported that adults over 60 
 
 Most people are paying to protect only one of those devices, or none at all. That is the gap scammers are counting on.
 
-The fix does not have to be expensive. A single affordable subscription to [Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-multiple-devices-cheap-2026__above-fold) covers **unlimited devices** — phone, tablet, laptop, and more — for less than the cost of a cup of coffee a month. This guide explains the real risk, why every device matters, and how to close all the doors at once without paying a separate bill for each.
+The fix does not have to be expensive. A single affordable subscription to [Surfshark Antivirus](/blog/antivirus?sub=antivirus-for-multiple-devices-cheap-2026__above-fold) covers **[unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — phone, tablet, laptop, and more — for less than the cost of a cup of coffee a month. This guide explains the real risk, why every device matters, and how to close all the doors at once without paying a separate bill for each.
 
 ---
 

@@ -120,7 +120,7 @@ Bitdefender has a good privacy record and no major data-sharing controversies, w
 
 The two features that matter most for Chromebook users are the unlimited VPN and the breach monitoring. Chromebook's built-in tools do not offer either. The VPN, in particular, is genuinely useful for anyone who connects to Wi-Fi outside the home — in a library, a cafe, at the doctor's surgery, or while travelling. Public Wi-Fi is the environment where your banking sessions and email are most exposed.
 
-The annual cost is higher than Bitdefender's basic plan but lower than full-featured Norton or McAfee plans, and you get unlimited VPN data included. For seniors who want protection that covers multiple devices — a Chromebook, a smartphone, a tablet — one [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) subscription covers unlimited devices simultaneously.
+The annual cost is higher than Bitdefender's basic plan but lower than full-featured Norton or McAfee plans, and you get unlimited VPN data included. For seniors who want protection that covers multiple devices — a Chromebook, a smartphone, a tablet — one [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s simultaneously.
 
 **Best for:** Seniors who use public Wi-Fi regularly, want breach monitoring, and prefer one simple subscription that covers everything.
 

@@ -47,7 +47,7 @@ The table below compares a typical "separate apps" stack against [Surfshark One]
 | **Single sign-on** | No — separate logins per app | Yes — one account |
 | **Shared threat intelligence** | No | Yes — components share signals |
 | **System performance drag** | High (legacy suites especially) | Low (lightweight agent architecture) |
-| **Platforms covered per licence** | Varies — often 1–5 devices | Unlimited devices |
+| **Platforms covered per licence** | Varies — often 1–5 devices | [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s |
 
 The gap in annual cost is significant, but the unlimited-device policy is arguably more valuable for households that have replaced their phones every two years and never got around to cancelling the old device's Norton licence.
 

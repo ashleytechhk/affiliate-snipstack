@@ -22,7 +22,7 @@ If you are trying to decide between Bitdefender and Kaspersky to protect your co
 
 Kaspersky has equally strong detection scores, but it has faced government bans and security concerns in multiple Western countries due to its country of origin — questions that are serious enough that we cannot recommend it with confidence for people who bank and shop online.
 
-If you want an even more budget-friendly option that is easy to set up and backed by a company with a strong privacy reputation, **[Surfshark Antivirus](/blog/antivirus?sub=bitdefender-vs-kaspersky-which-is-better-2026__above-fold)** is worth a close look — it covers unlimited devices and includes scam website blocking, which is one of the biggest threats seniors face.
+If you want an even more budget-friendly option that is easy to set up and backed by a company with a strong privacy reputation, **[Surfshark Antivirus](/blog/antivirus?sub=bitdefender-vs-kaspersky-which-is-better-2026__above-fold)** is worth a close look — it covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and includes scam website blocking, which is one of the biggest threats seniors face.
 
 ---
 

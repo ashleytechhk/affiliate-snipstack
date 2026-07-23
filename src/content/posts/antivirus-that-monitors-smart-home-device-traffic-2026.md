@@ -86,7 +86,7 @@ Key protections relevant to smart home security include:
 
 **Simple dashboard** — One clear screen shows you whether your protection is active. No confusing menus. No technical jargon.
 
-**Unlimited devices** — One subscription covers all the devices in your home. Your laptop, your tablet, your phone — all protected under the same plan.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — One subscription covers all the devices in your home. Your laptop, your tablet, your phone — all protected under the same plan.
 
 **[Start your Surfshark Antivirus protection today](/blog/antivirus?sub=antivirus-that-monitors-smart-home-device-traffic-2026__mid)**
 

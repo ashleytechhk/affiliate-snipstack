@@ -27,7 +27,7 @@ This guide breaks down the cheapest way to get [Surfshark One](https://snipstack
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) (2-yr plan) | [Norton 360](https://snipstack.io/norton-360-antivirus-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
 | Starting price (annual) | ~$35–$45/yr | ~$100–$130/yr | ~$100–$140/yr |
-| VPN included | Yes (unlimited devices) | Yes (limited data on base plan) | Yes (limited data on base plan) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (limited data on base plan) | Yes (limited data on base plan) |
 | Antivirus | Yes | Yes | Yes |
 | Dark web / breach alerts | Yes (Surfshark Alert) | Yes | Yes |
 | Private search engine | Yes (Surfshark Search) | No | No |

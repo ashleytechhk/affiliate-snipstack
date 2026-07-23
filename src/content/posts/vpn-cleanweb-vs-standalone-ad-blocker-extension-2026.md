@@ -59,7 +59,7 @@ CleanWeb also blocks known malware-serving domains and phishing URLs, which filt
 *Every app on your phone resolves domain names through DNS. CleanWeb sits at that layer, blocking ad and tracker domains before any connection is made.*
 
 > **Block ads across every app, not just your browser**
-> CleanWeb is included with Surfshark — one subscription, unlimited devices.
+> CleanWeb is included with Surfshark — one subscription, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 > [Get CleanWeb](/blog/adblock?sub=vpn-cleanweb-vs-standalone-ad-blocker-extension-2026__mid)
 
 ---

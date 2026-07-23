@@ -120,7 +120,7 @@ The challenge for most people — especially those who are not especially tech-f
 - **Data breach alerts** — notifies you immediately if your email address or password appears in a known data leak
 - **Webcam protection** — blocks unauthorized apps from secretly activating your camera
 - **24/7 customer support** — a real person available any time you are unsure about something
-- **Unlimited devices** — one subscription covers your computer, phone, tablet, and your family's devices
+- **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — one subscription covers your computer, phone, tablet, and your family's devices
 
 There is one dashboard, one login, and one monthly cost. You do not have to juggle separate apps or remember to update two different programs.
 

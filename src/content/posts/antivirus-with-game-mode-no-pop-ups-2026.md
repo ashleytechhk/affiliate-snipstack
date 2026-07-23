@@ -86,7 +86,7 @@ This one is specifically relevant for seniors who use video calls to keep in tou
 
 There is no wall of confusing options. The main screen shows you whether protection is on or off and when your last scan ran. That is it. If something needs your attention, you will see one clear message — not five overlapping alerts.
 
-### Unlimited Devices
+### [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 
 One Surfshark [Antivirus subscription](https://snipstack.io/antivirus-subscription-with-monthly-cancel-option-2026/) covers unlimited devices. If your grandchildren set this up for you, they can protect their own laptops too — at no extra cost.
 

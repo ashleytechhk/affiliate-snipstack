@@ -60,7 +60,7 @@ Surfshark CleanWeb takes a fundamentally different approach: it blocks ads at th
 - Not a browser extension — cannot be affected by Chrome policy changes
 - Blocks ads in all apps, not just browser tabs (YouTube app ads, streaming app ads)
 - Covers trackers, malware domains, and phishing sites in one layer
-- One subscription covers unlimited devices
+- One subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 - Bundles with Surfshark VPN — same app, same subscription
 
 **Limitations:** Requires installing the Surfshark app. Cannot perform element-level cosmetic blocking (hiding empty ad slots) the way browser extensions can. Some users want extension-style controls; CleanWeb is set-it-and-forget-it.

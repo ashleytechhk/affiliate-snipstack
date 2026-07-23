@@ -113,7 +113,7 @@ For iPhone specifically, the case for Norton weakens because the iOS security sa
 
 ![Surfshark One Bundle on iPhone — VPN connected, CleanWeb active, breach alert notification](/og/best-security-app-for-iphone-2026-inline-2.png)
 
-What you are paying for with Norton Mobile Security on iPhone is essentially: web protection, Wi-Fi monitoring, and dark web alerts. [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) Bundle covers all three — plus a full VPN, ad blocking, private search, and unlimited device coverage — for a price that is competitive or lower once you account for Norton's renewal rate.
+What you are paying for with Norton Mobile Security on iPhone is essentially: web protection, Wi-Fi monitoring, and dark web alerts. [Surfshark One](https://snipstack.io/surfshark-one-monthly-plan-breakdown-2026/) Bundle covers all three — plus a full VPN, ad blocking, private search, and [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage — for a price that is competitive or lower once you account for Norton's renewal rate.
 
 ---
 

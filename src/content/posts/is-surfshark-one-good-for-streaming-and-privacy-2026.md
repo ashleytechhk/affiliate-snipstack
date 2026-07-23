@@ -26,7 +26,7 @@ Below is a straight feature-by-feature comparison covering the things that matte
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) | Norton 360 | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes (unlimited devices) | Yes (limited devices on lower tiers) | Yes (limited) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (limited devices on lower tiers) | Yes (limited) |
 | Antivirus | Yes | Yes | Yes |
 | Dark web / breach monitoring | Yes (Surfshark Alert) | Yes | Yes |
 | [Ad blocker](https://snipstack.io/ad-blocker-that-removes-sponsored-search-results-2026/) | Yes (CleanWeb) | No native [ad blocker](https://snipstack.io/ad-blocker-impact-on-website-revenue-explained-2026/) | No native [ad blocker](https://snipstack.io/ad-blocker-that-filters-social-media-tracking-2026/) |

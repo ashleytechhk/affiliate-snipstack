@@ -219,7 +219,7 @@ To be direct about what "free" means in the AdGuard ecosystem:
 
 If you want comprehensive cross-device ad blocking from AdGuard, you are buying multiple products. The total cost adds up to roughly $50-100+ per year depending on how many devices you cover.
 
-Surfshark CleanWeb is worth pricing directly against this when you reach that level of coverage — because one subscription covers unlimited devices and includes a VPN.
+Surfshark CleanWeb is worth pricing directly against this when you reach that level of coverage — because one subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and includes a VPN.
 
 > **Compare: Surfshark CleanWeb vs. AdGuard Premium**
 > CleanWeb is DNS-level blocking + VPN, all devices, one price.

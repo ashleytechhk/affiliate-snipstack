@@ -97,7 +97,7 @@ Not every VPN is worth the subscription if your primary goal is streaming saving
 
 ### Unlimited Simultaneous Devices
 
-One Surfshark account connects every device in your household with no cap. Compare this to NordVPN's 10-device limit or ExpressVPN's 8-device limit. For a family running multiple streaming services across phones, laptops, tablets, and a smart TV, the unlimited device policy removes a friction point that competitor plans create. You are paying once and covering everything.
+One Surfshark account connects every device in your household with no cap. Compare this to NordVPN's 10-device limit or ExpressVPN's 8-device limit. For a family running multiple streaming services across phones, laptops, tablets, and a smart TV, the [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy removes a friction point that competitor plans create. You are paying once and covering everything.
 
 ### Reliable Streaming Unblocking
 

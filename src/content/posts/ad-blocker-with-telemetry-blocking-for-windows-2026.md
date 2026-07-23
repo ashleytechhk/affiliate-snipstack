@@ -80,7 +80,7 @@ Surfshark's **CleanWeb** feature is built into the Surfshark app and works acros
 
 **No-log policy.** Surfshark does not log your browsing activity or connection metadata, which means there is no data trail to hand over even if asked. Independent audits have verified this claim.
 
-**Unlimited devices.** One subscription covers every device you own, which is genuinely useful if you want consistent telemetry blocking on a Windows desktop at home, an Android phone, and a work laptop simultaneously.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One subscription covers every device you own, which is genuinely useful if you want consistent telemetry blocking on a Windows desktop at home, an Android phone, and a work laptop simultaneously.
 
 ### What CleanWeb Does Not Do
 

@@ -126,7 +126,7 @@ Not all VPNs handle streaming well. Many are blocked by major platforms. Here is
 
 **Speed.** A slow VPN means buffering during a critical tackle. Surfshark uses WireGuard, currently the [fastest VPN](https://snipstack.io/fastest-vpn-for-streaming-2026/) protocol available. On a standard broadband connection you will not notice any speed difference.
 
-**Unlimited devices.** Rugby fans watch on laptops, phones, tablets, and smart TVs. A VPN that limits you to five devices is a constant headache. Surfshark places no limit on simultaneous connections.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** Rugby fans watch on laptops, phones, tablets, and smart TVs. A VPN that limits you to five devices is a constant headache. Surfshark places no limit on simultaneous connections.
 
 **No activity logs.** You want a provider that does not store records of what you accessed. Surfshark has a no-logs policy independently audited by third parties.
 

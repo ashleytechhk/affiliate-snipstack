@@ -175,7 +175,7 @@ The kill switch is not a flashy feature. It runs in the background and most user
 
 Enable it once and forget it exists. That's the point.
 
-Among the major VPNs in 2026, Surfshark's implementation is fast, platform-wide, and included in their standard subscription with no upgrade required. For a household using a VPN primarily to save on streaming costs, that combination — kill switch reliability, unlimited devices, and a low monthly price — is the most practical package available.
+Among the major VPNs in 2026, Surfshark's implementation is fast, platform-wide, and included in their standard subscription with no upgrade required. For a household using a VPN primarily to save on streaming costs, that combination — kill switch reliability, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and a low monthly price — is the most practical package available.
 
 **[See if Surfshark is currently running a deal →](/blog/vpn?sub=vpn-kill-switch-feature-explained-2026__cta)**
 

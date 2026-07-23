@@ -101,7 +101,7 @@ Once you are clear of Norton, [Surfshark One](https://snipstack.io/surfshark-one
 
 **Alert (Breach Monitoring).** Continuously scans data breach databases for your email address and personal details. If your credentials surface in a new leak, you get an alert. This is the feature Norton gates behind LifeLock, included here from day one.
 
-All of this runs on unlimited devices under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). One account, one app, everything covered.
+All of this runs on [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s under a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). One account, one app, everything covered.
 
 [**Get Surfshark One — full security bundle, unlimited devices →**](/blog/one?sub=how-to-cancel-norton-and-get-better-security-2026__mid)
 

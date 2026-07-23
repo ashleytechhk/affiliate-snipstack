@@ -96,7 +96,7 @@ The App Store VPN section is a reasonable starting point, but volume makes it ha
 
 **[Compare current VPN pricing for iPhone users](/blog/vpn?sub=what-vpn-iphone-2026__mid)**
 
-| VPN | iOS App Rating | Protocol | Price (2-yr) | Unlimited Devices | Audited No-Logs | Split Tunneling iOS |
+| VPN | iOS App Rating | Protocol | Price (2-yr) | [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Audited No-Logs | Split Tunneling iOS |
 |---|---|---|---|---|---|---|
 | **Surfshark** | 4.8 | WireGuard | ~$2.19/mo | Yes | Yes | Yes |
 | NordVPN | 4.6 | NordLynx (WireGuard) | ~$3.39/mo | No (10 max) | Yes | No |

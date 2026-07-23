@@ -111,7 +111,7 @@ Exact pricing changes with promotions, but the structural math works like this:
 
 F-Secure Total Security is priced per device tier. The more devices you add, the faster the cost climbs. VPN is extra on top.
 
-[Surfshark One](https://snipstack.io/surfshark-one-vs-intego-mac-security-bundle-2026/) bundles antivirus + VPN + Alert + Search into one plan with unlimited devices. The longer the subscription term, the lower the monthly cost — introductory annual or multi-year deals regularly bring the per-month figure well below what Norton charges for a comparable suite.
+[Surfshark One](https://snipstack.io/surfshark-one-vs-intego-mac-security-bundle-2026/) bundles antivirus + VPN + Alert + Search into one plan with [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. The longer the subscription term, the lower the monthly cost — introductory annual or multi-year deals regularly bring the per-month figure well below what Norton charges for a comparable suite.
 
 For a household of four people across eight devices, [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/)'s flat pricing structure is almost always cheaper than assembling the equivalent F-Secure stack.
 

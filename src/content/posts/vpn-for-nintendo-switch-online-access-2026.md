@@ -101,7 +101,7 @@ Not every VPN is suited for Nintendo Switch regional access. You need:
 - **Unlimited simultaneous connections** (so you can use the VPN on your router without burning device slots)
 - **Stable, low-latency connections** for online gaming sessions
 
-Surfshark checks all of these boxes. It has servers in 100+ countries, supports OpenVPN and WireGuard for router setups, and allows unlimited devices on one subscription. Its NoBorders mode helps maintain connectivity in restrictive network environments, though that is largely irrelevant for gaming use.
+Surfshark checks all of these boxes. It has servers in 100+ countries, supports OpenVPN and WireGuard for router setups, and allows [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s on one subscription. Its NoBorders mode helps maintain connectivity in restrictive network environments, though that is largely irrelevant for gaming use.
 
 Pricing as of 2026 is competitive — especially on longer-plan commitments — and the money saved on just one or two regional eShop purchases will offset the subscription cost.
 

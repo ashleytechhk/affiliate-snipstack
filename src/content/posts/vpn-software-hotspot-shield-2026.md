@@ -134,7 +134,7 @@ Pricing runs approximately **$7.99/month on a monthly plan** and drops to roughl
 
 *Prices based on publicly listed long-term plans as of May 2026. Verify at checkout — promotional rates change.*
 
-The comparison is close on price. On every other dimension that matters for privacy and flexibility, Surfshark pulls ahead. The unlimited device policy alone is decisive for most households. The audited no-logs policy closes the gap on trustworthiness.
+The comparison is close on price. On every other dimension that matters for privacy and flexibility, Surfshark pulls ahead. The [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy alone is decisive for most households. The audited no-logs policy closes the gap on trustworthiness.
 
 **[Get Surfshark — better price, unlimited devices, audited privacy](/blog/vpn?sub=vpn-software-hotspot-shield-2026__mid)**
 

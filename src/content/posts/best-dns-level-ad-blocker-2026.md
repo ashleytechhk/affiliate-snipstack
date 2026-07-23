@@ -246,7 +246,7 @@ DNS-level ad blocking is the right approach for mobile in 2026 because it works 
 For most mobile power users, CleanWeb is the faster and more complete answer. One toggle, two minutes, and your phone's ad exposure drops across every app at once.
 
 > **Get Surfshark CleanWeb — DNS-level ad blocking across all your devices**
-> 30-day money-back guarantee. Unlimited devices. iOS and Android included.
+> 30-day money-back guarantee. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. iOS and Android included.
 > [Get Surfshark CleanWeb](/blog/adblock?sub=best-dns-level-ad-blocker-2026__cta)
 
 ---

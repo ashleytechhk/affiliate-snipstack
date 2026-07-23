@@ -153,7 +153,7 @@ If you are managing one streaming subscription in your home country, manual serv
 
 If you are a subscription arbitrageur — actively switching regions to access different pricing tiers or content libraries — automatic server selection is not optional. It is infrastructure. The difference between a stable, fast connection that holds during sign-up and a sluggish, flagged connection often comes down to whether you landed on the right server. Automatic selection handles that reliably; manual guesswork does not.
 
-Surfshark's implementation is solid for this use case in 2026. The large server pool, country-level accuracy, and unlimited device support make it a practical choice for users managing multiple regional accounts.
+Surfshark's implementation is solid for this use case in 2026. The large server pool, country-level accuracy, and [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) support make it a practical choice for users managing multiple regional accounts.
 
 **[Start your 30-day risk-free trial of Surfshark >](/blog/vpn?sub=vpn-with-automatic-server-selection-feature-2026__cta)**
 

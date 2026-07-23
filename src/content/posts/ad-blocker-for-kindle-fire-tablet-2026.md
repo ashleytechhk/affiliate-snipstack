@@ -119,7 +119,7 @@ CleanWeb operates as a DNS and network-layer filter inside the Surfshark VPN app
 - Tracker domains are blocked, stopping background data collection from analytics SDKs and retargeting scripts
 - Malware-serving domains are also filtered, adding a layer of protection beyond ad removal
 - The same filtering applies whether you are on Wi-Fi or mobile data
-- One Surfshark account covers unlimited devices — phone, Kindle Fire, laptop, tablet
+- One Surfshark account covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — phone, Kindle Fire, laptop, tablet
 
 **Setting it up on a Kindle Fire:**
 

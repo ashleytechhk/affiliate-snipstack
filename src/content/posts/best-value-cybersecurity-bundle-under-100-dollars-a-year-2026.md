@@ -66,7 +66,7 @@ Prices are approximate and change with promotions. Always verify before purchasi
 
 ### VPN
 
-Surfshark's VPN covers unlimited devices — no per-device caps. It uses WireGuard and OpenVPN protocols, and operates under a verified no-logs policy (independently audited). You get access to servers in 100+ countries, useful for streaming geo-restricted content or securing public Wi-Fi.
+Surfshark's VPN covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — no per-device caps. It uses WireGuard and OpenVPN protocols, and operates under a verified no-logs policy (independently audited). You get access to servers in 100+ countries, useful for streaming geo-restricted content or securing public Wi-Fi.
 
 Speed is consistently fast on modern connections. Unlike Norton's VPN (which throttled speeds on lower tiers for years), Surfshark gives you full bandwidth without artificial limits.
 

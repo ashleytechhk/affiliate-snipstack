@@ -111,7 +111,7 @@ You do not want a security dashboard that demands constant attention, fires conf
 
 **Webcam protection.** A lesser-discussed risk for people who spend the day on video calls: malware that silently activates your webcam. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-comparison-2026/) includes a webcam protection feature that alerts you if any application attempts to access your camera without your knowledge.
 
-**One plan, unlimited devices.** All your devices — laptop, phone, tablet — under one subscription. When you switch to a new laptop mid-trip, you just install and log in.
+**One plan, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** All your devices — laptop, phone, tablet — under one subscription. When you switch to a new laptop mid-trip, you just install and log in.
 
 **Clean, distraction-free interface.** The main screen tells you one thing: whether you are protected. Alerts appear only when action is required. You can check your security status in two seconds and get back to work.
 

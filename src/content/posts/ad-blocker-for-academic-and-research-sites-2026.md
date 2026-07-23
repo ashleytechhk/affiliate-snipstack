@@ -96,7 +96,7 @@ There are several ad-blocking options available in 2026. Here is why [Surfshark 
 
 **Malicious redirect protection.** Predatory academic journals and preprint sites sometimes host ads that redirect to phishing pages or push browser notifications. CleanWeb blocks malicious domains before they load, reducing this risk.
 
-**[Single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), all devices.** A Surfshark subscription covers unlimited devices. You can run CleanWeb on your phone, your tablet, and your laptop simultaneously without paying extra.
+**[Single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/), all devices.** A Surfshark subscription covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. You can run CleanWeb on your phone, your tablet, and your laptop simultaneously without paying extra.
 
 **No slowdown on research traffic.** Ad blocking at the DNS level is fast because blocked requests are dropped immediately rather than downloaded and discarded. Pages with heavy ad loads can feel noticeably faster, which is a real improvement for long reading sessions on mobile.
 

@@ -79,7 +79,7 @@ We scored each option against these five criteria below.
 - Real-time safe browsing — warns you before you land on a fake or dangerous website
 - Data breach alerts — tells you if your email or passwords appear in a hacker leak
 - VPN included — keeps your internet connection private at home and on public Wi-Fi
-- Covers unlimited devices — one subscription protects your PC, phone, and tablet
+- Covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — one subscription protects your PC, phone, and tablet
 
 **Ease of use:** Very easy. Clean screens, plain language, no confusing menus. Setup takes about 5 minutes.
 

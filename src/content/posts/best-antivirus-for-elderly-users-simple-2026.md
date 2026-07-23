@@ -164,7 +164,7 @@ This is a smart question. There are fake "antivirus" programs that are actually 
 
 ### [How much does](https://snipstack.io/how-much-does-surfshark-one-cost-2026/) a good antivirus cost for seniors?
 
-Reliable protection does not need to be expensive. Surfshark Antivirus starts at a few dollars per month on a multi-year plan, and it covers unlimited devices. That means one subscription protects your PC, your tablet, and your phone — and can even cover an adult child's device. Compared to the cost of recovering from a scam or a ransomware attack, the monthly fee is minimal.
+Reliable protection does not need to be expensive. Surfshark Antivirus starts at a few dollars per month on a multi-year plan, and it covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. That means one subscription protects your PC, your tablet, and your phone — and can even cover an adult child's device. Compared to the cost of recovering from a scam or a ransomware attack, the monthly fee is minimal.
 
 ### What should I do if I see a pop-up saying my computer has a virus?
 

@@ -135,7 +135,7 @@ Fair review means naming the limits:
 - You are paying Norton or McAfee renewal pricing and annoyed by the performance drag and upsell prompts
 - You have had credentials appear in a breach and want active monitoring, not just antivirus
 - You travel or use public Wi-Fi regularly
-- You want unlimited device coverage without paying per device
+- You want [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage without paying per device
 
 **Keep what you have if:**
 

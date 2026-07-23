@@ -245,7 +245,7 @@ Device-level changes (Steps 1 and 2) take effect immediately. App permission cha
 
 ### Can I do all of this for free?
 
-Steps 1, 2, 3, 4, and 6 are free — they use built-in phone settings and free browsers. Step 7 is also free. Step 5 (CleanWeb) requires a Surfshark subscription, which covers unlimited devices and includes the full VPN. If budget is the constraint, completing Steps 1–4 and 6–7 still meaningfully reduces ad tracking — you just lose the most effective layer (DNS-level cross-app blocking).
+Steps 1, 2, 3, 4, and 6 are free — they use built-in phone settings and free browsers. Step 7 is also free. Step 5 (CleanWeb) requires a Surfshark subscription, which covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and includes the full VPN. If budget is the constraint, completing Steps 1–4 and 6–7 still meaningfully reduces ad tracking — you just lose the most effective layer (DNS-level cross-app blocking).
 
 ---
 

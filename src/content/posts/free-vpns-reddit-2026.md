@@ -86,7 +86,7 @@ The community isn't just anti-free; it's specific about the alternative. A patte
 
 Surfshark sits in that range at around $2.19/month on a two-year plan. The specific features that come up in community discussions as differentiators from free tiers:
 
-**Unlimited devices and bandwidth.** One subscription, no caps, every device in your household covered simultaneously.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s and bandwidth.** One subscription, no caps, every device in your household covered simultaneously.
 
 **Audited no-logs policy.** Deloitte-audited. Not self-reported. The same credibility standard the community applies to ProtonVPN paid applies here.
 

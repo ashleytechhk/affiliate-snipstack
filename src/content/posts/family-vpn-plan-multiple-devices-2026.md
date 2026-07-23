@@ -193,7 +193,7 @@ NordVPN is a solid alternative for smaller households comfortable with a 10-devi
 The math is simple: one Surfshark account, every device, one monthly cost that is lower than most single-service subscriptions. For families, that is the calculation that matters.
 
 > **One subscription for your whole household**
-> Unlimited devices. 30-day money-back guarantee. Set it up once across everything.
+> [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. 30-day money-back guarantee. Set it up once across everything.
 > [Get Surfshark VPN](/blog/vpn?sub=family-vpn-plan-multiple-devices-2026__cta)
 
 ---

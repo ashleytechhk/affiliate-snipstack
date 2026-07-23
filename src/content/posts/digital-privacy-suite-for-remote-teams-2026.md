@@ -42,7 +42,7 @@ A [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-d
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee+ Premium |
 |---|---|---|---|
-| **VPN Included** | Yes — unlimited devices | Yes — 5 devices | Yes — unlimited devices |
+| **VPN Included** | Yes — [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes — 5 devices | Yes — unlimited devices |
 | **Antivirus** | Real-time, lightweight | Real-time, heavy | Real-time, moderate |
 | **Ad / Tracker Blocker** | CleanWeb — VPN-level | [Browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) only | Browser extension only |
 | **Data Breach Monitoring** | Surfshark Alert — email, ID, card | LifeLock add-on (extra cost) | Identity monitoring included |

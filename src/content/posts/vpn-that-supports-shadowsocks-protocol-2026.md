@@ -170,7 +170,7 @@ In testing, Surfshark's NoBorders mode performs reliably for Netflix, YouTube Pr
 
 ### Can I use Shadowsocks-supporting VPNs on mobile for subscription arbitrage?
 
-Yes. Surfshark has full-featured iOS and Android apps with NoBorders mode included. For mobile-specific arbitrage (App Store regional pricing, Google Play subscription management), the mobile app works the same as the desktop version — connect to your target region before navigating to the platform or app store. Surfshark's unlimited device policy means one subscription covers every device you use.
+Yes. Surfshark has full-featured iOS and Android apps with NoBorders mode included. For mobile-specific arbitrage (App Store regional pricing, Google Play subscription management), the mobile app works the same as the desktop version — connect to your target region before navigating to the platform or app store. Surfshark's [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy means one subscription covers every device you use.
 
 ---
 

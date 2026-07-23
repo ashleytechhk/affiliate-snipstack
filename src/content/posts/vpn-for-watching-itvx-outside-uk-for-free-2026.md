@@ -129,7 +129,7 @@ Check your own jurisdiction's rules on VPN use first — this article is informa
 
 ITVX's main catalogue is free, and a VPN that reliably unlocks it costs somewhere between £2 and £5 a month — less than nearly any streaming subscription you'd buy to fill the gap otherwise.
 
-**Surfshark** is the right call for most people: reliable UK access, unlimited devices, lowest long-term price. **ExpressVPN** earns its higher price for speed-sensitive setups or MediaStreamer DNS on smart TVs. **NordVPN** is a dependable middle option.
+**Surfshark** is the right call for most people: reliable UK access, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, lowest long-term price. **ExpressVPN** earns its higher price for speed-sensitive setups or MediaStreamer DNS on smart TVs. **NordVPN** is a dependable middle option.
 
 Skip [free VPNs](https://snipstack.io/free-vpns-for-chrome-2026/) here — their small, overused UK IP pools get flagged fast, and many impose data caps that make streaming impractical.
 

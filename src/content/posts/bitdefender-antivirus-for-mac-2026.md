@@ -129,7 +129,7 @@ Surfshark's **Alert** feature monitors whether your email address, passwords, or
 
 ### Device Coverage
 
-Both apps let you protect multiple devices on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Surfshark's plans cover unlimited devices — useful if you have a Mac, an iPhone, and a tablet you all want protected under one account.
+Both apps let you protect multiple devices on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). Surfshark's plans cover [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — useful if you have a Mac, an iPhone, and a tablet you all want protected under one account.
 
 ---
 

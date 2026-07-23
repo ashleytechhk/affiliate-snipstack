@@ -135,7 +135,7 @@ The two-year plan reduces the monthly cost significantly — comparable to the p
 
 Whether you are a Swede based in Amsterdam, a student on exchange in Barcelona, or a consultant who has spent the last four months traveling across Southeast Asia, you do not have to miss Swedish television while you are away. A VPN is the only method that works consistently across phone, tablet, Fire Stick, and Apple TV at the same time — without separate subscriptions or workarounds for each device.
 
-Setup is quick. The Swedish server selection is reliable. And the unlimited device policy means the first time you set it up on your phone, you can immediately add your Fire Stick and laptop without any additional cost.
+Setup is quick. The Swedish server selection is reliable. And the [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy means the first time you set it up on your phone, you can immediately add your Fire Stick and laptop without any additional cost.
 
 [**Get Surfshark and unlock SVT Play from outside Sweden**](/blog/vpn?sub=vpn-for-watching-svt-play-from-outside-sweden-2026__cta)
 

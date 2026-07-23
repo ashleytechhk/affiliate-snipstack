@@ -31,7 +31,7 @@ This review looks at [Surfshark Antivirus](https://snipstack.io/surfshark-antivi
 | Scam website blocking | Limited | Yes | Yes (CleanWeb) |
 | Ad and tracker blocking | No | No | Yes (CleanWeb) |
 | Data breach alerts | No | Yes (limited) | Yes (Surfshark Alert) |
-| VPN included | No | Yes (limited) | Yes (unlimited devices) |
+| VPN included | No | Yes (limited) | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) |
 | Number of devices | 1 (via Microsoft account) | 1–5 (plan-dependent) | Unlimited |
 | System slowdown | Low | Moderate–High | Low |
 | Ease of use for beginners | Moderate | Moderate | High |

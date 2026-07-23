@@ -144,7 +144,7 @@ Here is why:
 
 - **Simple setup.** Download, sign in, tap Connect. That is it. The app chooses the best server automatically.
 - **Affordable.** At approximately $2.19/month on a 2-year plan, it is one of the lowest-priced reputable VPNs available.
-- **Unlimited devices.** One subscription covers every phone, tablet, laptop, or TV you own — no extra cost.
+- **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One subscription covers every phone, tablet, laptop, or TV you own — no extra cost.
 - **CleanWeb.** A built-in feature that blocks ads and known malicious websites across all your apps, not just your browser.
 - **Independently audited.** Surfshark's no-logs policy has been verified by Cure53 and Deloitte.
 - **30-day money-back guarantee.** Try it risk-free.

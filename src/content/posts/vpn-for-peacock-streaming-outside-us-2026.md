@@ -187,7 +187,7 @@ If local law in your jurisdiction restricts VPN use, consult that before proceed
 
 ## Verdict
 
-For most Peacock subscribers who need access outside the US, Surfshark is the clear call. Reliable Peacock unblocking, unlimited device coverage, and a two-year cost that is less than two months of the streaming subscription it protects. ExpressVPN earns its spot for speed-critical users who are not price-sensitive. NordVPN is a dependable alternative with an extensive US server network.
+For most Peacock subscribers who need access outside the US, Surfshark is the clear call. Reliable Peacock unblocking, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage, and a two-year cost that is less than two months of the streaming subscription it protects. ExpressVPN earns its spot for speed-critical users who are not price-sensitive. NordVPN is a dependable alternative with an extensive US server network.
 
 The bottom line on cost: two years of Surfshark runs about $52. If Peacock keeps charging you while you are abroad and you cannot watch it, that is pure waste. A VPN converts that waste into access.
 

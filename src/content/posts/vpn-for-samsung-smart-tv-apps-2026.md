@@ -92,7 +92,7 @@ Surfshark has a native Tizen app available for Samsung Smart TVs running Tizen 5
 
 There are dozens of VPN services out there, but not all of them are practical for Smart TV use. Here's why Surfshark stands out for subscription-focused streamers:
 
-**Unlimited devices.** One Surfshark account covers every device in your home with no device cap — phones, tablets, laptops, and your Samsung TV all included.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One Surfshark account covers every device in your home with no device cap — phones, tablets, laptops, and your Samsung TV all included.
 
 **Fast, streaming-optimized servers.** Buffering on a 4K TV is painful. Surfshark maintains high-throughput servers in key streaming regions so you don't sacrifice picture quality for price savings.
 

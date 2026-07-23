@@ -24,7 +24,7 @@ Intego is a solid [antivirus](https://snipstack.io/vs-antivirus-2026/) built fro
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) | Intego Mac Premium Bundle X9 |
 |---|---|---|
-| VPN | Yes (unlimited devices) | No |
+| VPN | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | No |
 | Antivirus (Mac) | Yes | Yes (Mac-native) |
 | Real-time protection | Yes | Yes |
 | Firewall | Yes (via Alert) | Yes (NetBarrier) |

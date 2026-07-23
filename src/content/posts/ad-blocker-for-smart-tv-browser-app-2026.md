@@ -50,7 +50,7 @@ There are three main technical approaches to ad blocking, and understanding whic
 
 **VPN-integrated blockers** combine a VPN connection with DNS filtering in a single app. Your device's traffic routes through the VPN tunnel, which strips ad and tracker requests before they leave. This is the easiest approach to deploy on mobile: install one app, enable one toggle, and every browser and app on your phone is covered. When your Smart TV connects through a VPN-protected router or network, the same filtering applies automatically.
 
-[Start blocking ads across every device with CleanWeb](/blog/adblock?sub=ad-blocker-for-smart-tv-browser-app-2026__mid) — one subscription, unlimited devices.
+[Start blocking ads across every device with CleanWeb](/blog/adblock?sub=ad-blocker-for-smart-tv-browser-app-2026__mid) — one subscription, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 
 ---
 

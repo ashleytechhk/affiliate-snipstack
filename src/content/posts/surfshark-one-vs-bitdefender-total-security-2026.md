@@ -27,7 +27,7 @@ Bitdefender Total Security is the better pure antivirus if your only goal is cat
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) | Bitdefender Total Security |
 |---|---|---|
 | Antivirus (real-time) | Yes | Yes |
-| VPN included | Yes (unlimited devices) | No (sold separately) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | No (sold separately) |
 | Data breach alerts | Yes (Surfshark Alert) | Higher tier only |
 | Private search engine | Yes (Surfshark Search) | No |
 | Webcam protection | No | Yes (Windows) |

@@ -92,7 +92,7 @@ On a 2-year plan, Surfshark currently runs around **$2.19/month** — or roughly
 
 Monthly pricing (around $15.45/month) makes the arbitrage math work against you. The 2-year plan is the only sensible option for someone using a VPN specifically to reduce subscription costs.
 
-### Unlimited Devices
+### [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 
 One Surfshark subscription covers unlimited simultaneous connections. A household running arbitrage across a laptop, phone, smart TV, and tablet is fully covered. NordVPN caps at 10 devices. ExpressVPN caps at 8.
 

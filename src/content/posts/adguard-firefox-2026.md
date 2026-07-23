@@ -18,7 +18,7 @@ This guide covers the 7 most practical ways to run AdGuard-style blocking in or 
 
 Firefox on Android is one of the only mobile browsers that lets you install real extensions, which makes the classic **AdGuard for Firefox add-on** a legitimate option on Android phones. For iPhone users, that path is closed — Safari is the only supported browser for extensions on iOS, and the workarounds are messier. If you want ad and tracker blocking that works across every app on your phone — not just inside Firefox — **[Surfshark CleanWeb](/blog/adblock?sub=adguard-firefox-2026__above-fold)** is the strongest all-in-one pick: it blocks at the network level before traffic even reaches your browser, regardless of which browser you're in.
 
-> **Top pick for mobile users wanting whole-device coverage:** [Get Surfshark CleanWeb](/blog/adblock?sub=adguard-firefox-2026__above-fold) — ads and trackers blocked across every app, not just Firefox. One subscription, unlimited devices.
+> **Top pick for mobile users wanting whole-device coverage:** [Get Surfshark CleanWeb](/blog/adblock?sub=adguard-firefox-2026__above-fold) — ads and trackers blocked across every app, not just Firefox. One subscription, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 
 ---
 

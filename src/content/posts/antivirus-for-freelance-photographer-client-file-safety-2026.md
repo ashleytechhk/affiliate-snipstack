@@ -99,7 +99,7 @@ Here is how the protection maps to the risks described above:
 | Infected memory card or USB drive | Scans connected devices automatically |
 | Ransomware locking client folders | Ransomware detection and blocking |
 | Business email in a data breach | Real-time breach alerts |
-| Multiple devices (laptop, phone, tablet) | Unlimited device coverage, one plan |
+| Multiple devices (laptop, phone, tablet) | [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage, one plan |
 
 Setup takes about five minutes: subscribe, download the app on your laptop and phone, and let it run in the background. Plans start under $3 a month billed annually — a small price next to the cost of a single lost wedding gallery.
 

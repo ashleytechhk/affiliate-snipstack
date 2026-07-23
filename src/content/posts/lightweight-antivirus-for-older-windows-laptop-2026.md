@@ -97,7 +97,7 @@ Here is a plain-English summary of what [Surfshark Antivirus](https://snipstack.
 | Webcam protection | Prevents strangers from secretly turning on your laptop camera |
 | Data breach alerts | Notifies you if your email address appears in a stolen database |
 | Bundled VPN | Encrypts your connection at home and on public Wi-Fi |
-| Unlimited devices | One subscription covers your laptop, tablet, and other family devices |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | One subscription covers your laptop, tablet, and other family devices |
 | Lightweight background operation | Runs without slowing older hardware |
 
 The [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/) plan bundles antivirus, VPN, data breach alerts, and ad blocking into a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/). For seniors who want one product that handles everything without managing four separate apps, it is the most practical option on the market in 2026.

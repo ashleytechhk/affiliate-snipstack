@@ -179,7 +179,7 @@ In testing, Surfshark reliably unblocks Netflix across multiple regional librari
 
 ### How does Surfshark compare to [NordVPN for](https://snipstack.io/guide-nordvpn-for-pc-2026/) unlimited connections?
 
-NordVPN caps at 10 simultaneous connections and costs more (around $3.39/month on a 2-year plan). For households that stay under 10 devices, NordVPN is a strong alternative with slightly faster peak speeds in some tests. For unlimited device coverage at the lowest price, Surfshark wins outright.
+NordVPN caps at 10 simultaneous connections and costs more (around $3.39/month on a 2-year plan). For households that stay under 10 devices, NordVPN is a strong alternative with slightly faster peak speeds in some tests. For [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) coverage at the lowest price, Surfshark wins outright.
 
 ---
 

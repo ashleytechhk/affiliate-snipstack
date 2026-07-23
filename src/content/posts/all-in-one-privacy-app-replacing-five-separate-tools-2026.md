@@ -62,7 +62,7 @@ Surfshark's antivirus runs real-time scanning against malware, ransomware, and p
 
 ### Tool 2 of 5 — VPN
 
-This is where the stack sprawl argument gets easiest to make. Norton's bundled VPN throttles at 50GB/month unless you upgrade tiers. [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/)'s VPN has no data cap, runs on the WireGuard protocol, and covers unlimited devices simultaneously. If you're the person who added a second VPN app because Norton's ran out mid-month, this alone replaces that entire second subscription.
+This is where the stack sprawl argument gets easiest to make. Norton's bundled VPN throttles at 50GB/month unless you upgrade tiers. [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/)'s VPN has no data cap, runs on the WireGuard protocol, and covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s simultaneously. If you're the person who added a second VPN app because Norton's ran out mid-month, this alone replaces that entire second subscription.
 
 **[Compare the VPN specs side by side →](/blog/one?sub=all-in-one-privacy-app-replacing-five-separate-tools-2026__mid)**
 

@@ -73,7 +73,7 @@ Trend Micro Maximum Security starts at around **$89.95 per year** for up to five
 - **VPN (Virtual Private Network)** — encrypts your internet connection so no one on the same WiFi network can read your data, whether you are at home, at a hotel, or at a coffee shop
 - **Breach alerts** — scans the internet for your email address, passwords, and personal details, and tells you immediately if they appear somewhere they should not
 - **Ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/)** — reduces the number of intrusive ads and prevents websites from tracking where you go online
-- **Unlimited devices** — one subscription covers your desktop, laptop, phone, tablet, and your spouse's devices too
+- **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — one subscription covers your desktop, laptop, phone, tablet, and your spouse's devices too
 - **24/7 live chat support** — a real person available any hour of the day, any day of the year
 
 **What [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) costs:**

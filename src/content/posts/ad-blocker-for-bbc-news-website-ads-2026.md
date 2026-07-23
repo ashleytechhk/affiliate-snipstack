@@ -96,7 +96,7 @@ Beyond ads, CleanWeb blocks the tracking scripts that follow you around the web 
 
 Unlike a browser extension, CleanWeb requires zero per-app configuration. Install Surfshark, enable CleanWeb in settings, connect — done. Every subsequent request your phone makes is filtered.
 
-### One Subscription, Unlimited Devices
+### One Subscription, [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 
 A single Surfshark subscription covers unlimited simultaneous devices. You can run CleanWeb on your iPhone, your partner's Android phone, and your tablet at the same time, all under one plan.
 

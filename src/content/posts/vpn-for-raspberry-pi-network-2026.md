@@ -18,7 +18,7 @@ This guide explains what a VPN for Raspberry Pi network means, why it beats runn
 
 ## Quick Verdict
 
-Running Surfshark on a Raspberry Pi turns a $35 single-board computer into a network-wide VPN gateway. Every device in your home — smart TV, phone, game console, laptop — routes through the VPN automatically without needing its own app installed. For subscription arbitrageurs, this is the cleanest setup available: one Surfshark plan, one Pi running 24/7, and every streaming device on your network appearing to be wherever you point it. Surfshark's unlimited device policy means no seat limits, and its WireGuard protocol keeps speeds high enough for 4K streaming. The Pi setup takes about an hour and requires no ongoing maintenance.
+Running Surfshark on a Raspberry Pi turns a $35 single-board computer into a network-wide VPN gateway. Every device in your home — smart TV, phone, game console, laptop — routes through the VPN automatically without needing its own app installed. For subscription arbitrageurs, this is the cleanest setup available: one Surfshark plan, one Pi running 24/7, and every streaming device on your network appearing to be wherever you point it. Surfshark's [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy means no seat limits, and its WireGuard protocol keeps speeds high enough for 4K streaming. The Pi setup takes about an hour and requires no ongoing maintenance.
 
 ---
 

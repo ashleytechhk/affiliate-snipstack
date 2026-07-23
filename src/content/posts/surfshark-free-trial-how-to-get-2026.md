@@ -18,7 +18,7 @@ Here is what Surfshark's trial actually involves, who it suits, and whether it i
 
 ## Quick Verdict
 
-Surfshark offers a **7-day free trial** that requires a payment method on file but charges nothing if you cancel before day 7. After the trial, a **30-day money-back window** applies — giving you a combined 37 days of risk-free access if you test both. For streaming arbitrage, the smarter play is skipping the 7-day trial and going straight to the full plan with the 30-day refund window: you get more time, all features, and unlimited devices rather than the trial's 3-device cap.
+Surfshark offers a **7-day free trial** that requires a payment method on file but charges nothing if you cancel before day 7. After the trial, a **30-day money-back window** applies — giving you a combined 37 days of risk-free access if you test both. For streaming arbitrage, the smarter play is skipping the 7-day trial and going straight to the full plan with the 30-day refund window: you get more time, all features, and [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s rather than the trial's 3-device cap.
 
 ---
 

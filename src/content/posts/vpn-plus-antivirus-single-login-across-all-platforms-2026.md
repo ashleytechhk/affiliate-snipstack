@@ -113,7 +113,7 @@ It depends on the plan and region. Many current Norton and McAfee plans use one 
 
 ### Can I use the same [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) login on more than one device at the same time?
 
-Yes. [Surfshark One](https://snipstack.io/surfshark-one-for-parents-monitoring-teen-phone-2026/) supports unlimited devices under a single account, so the same login can be active on a laptop, a phone, and a tablet at the same time.
+Yes. [Surfshark One](https://snipstack.io/surfshark-one-for-parents-monitoring-teen-phone-2026/) supports [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s under a single account, so the same login can be active on a laptop, a phone, and a tablet at the same time.
 
 ### Does a single login across platforms make the antivirus weaker?
 

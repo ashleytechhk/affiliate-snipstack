@@ -57,7 +57,7 @@ Here is the full process from download to playing your first episode:
 Surfshark has apps for iOS, Android, Windows, macOS, Android TV, and [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/)s. Install the one that matches your device.
 
 **Step 2 — Open the app and sign in.**
-You only need one account. Surfshark allows unlimited devices on one subscription, so you can cover every screen in your household.
+You only need one account. Surfshark allows [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s on one subscription, so you can cover every screen in your household.
 
 **Step 3 — Connect to a Turkish server.**
 In the Surfshark app, search for "Turkey" in the server list and tap Connect. Within a few seconds you have a Turkish IP address.

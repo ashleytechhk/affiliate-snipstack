@@ -127,7 +127,7 @@ Beyond Sky Go, the same subscription covers other UK services — [BBC iPlayer](
 
 For most Sky subscribers wanting to use Sky Go outside the UK, any of the three providers above will work reliably. The choice comes down to priorities:
 
-- If budget is the main concern, **Surfshark** is the clear winner — lower monthly cost, unlimited devices, and consistent UK access.
+- If budget is the main concern, **Surfshark** is the clear winner — lower monthly cost, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and consistent UK access.
 - If you want the safest, most tested option and price is secondary, **ExpressVPN** is the premium pick.
 - If you want a balance of both, **NordVPN** sits comfortably in the middle.
 

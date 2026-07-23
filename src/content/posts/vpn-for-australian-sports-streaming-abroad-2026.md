@@ -104,7 +104,7 @@ The server needs to be fast, not just available. Look for a provider with multip
 
 Kayo streams at up to 1080p on supported devices. You need consistent throughput with no data caps. A VPN that throttles after a few hours of streaming is useless for a day-night Test or a full AFL finals weekend.
 
-### Unlimited Device Connections
+### [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) Connections
 
 You might watch on a phone when travelling, a laptop at a serviced apartment, and a TV at home. A VPN with unlimited simultaneous connections — Surfshark's defining feature among mainstream providers — means all your devices are covered on a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 

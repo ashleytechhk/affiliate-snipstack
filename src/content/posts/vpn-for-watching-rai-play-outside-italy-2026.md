@@ -123,7 +123,7 @@ Using a VPN is legal in the vast majority of countries. Whether accessing RaiPla
 
 The math is simple: RaiPlay is free, and a VPN reliable enough to unlock it consistently costs between €2 and €5 a month on a long-term plan — less than nearly any streaming subscription you'd otherwise pay for.
 
-**Surfshark** is the pick for the lowest combined cost: cheapest long-term pricing, unlimited devices, and Italian server access that holds up over time. **ExpressVPN** is the pick for the most dependable option regardless of price. **NordVPN** is a sensible middle ground.
+**Surfshark** is the pick for the lowest combined cost: cheapest long-term pricing, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and Italian server access that holds up over time. **ExpressVPN** is the pick for the most dependable option regardless of price. **NordVPN** is a sensible middle ground.
 
 Skip [free VPNs for](https://snipstack.io/free-vpns-for-chrome-2026/) this use case. They typically lack the Italian server infrastructure to stay ahead of RaiPlay's blocklists, and they turn what should be a reliable free content source into an inconsistent one.
 

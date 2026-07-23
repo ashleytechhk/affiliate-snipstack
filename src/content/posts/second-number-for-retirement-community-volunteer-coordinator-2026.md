@@ -68,7 +68,7 @@ Not all second-number apps are equal. For safety-focused online daters, the key 
 - **Call and SMS support** — some apps only handle texts; you want both
 - **Easy blocking and number disposal** — one tap should end all contact from a number you no longer want
 - **No link to your real identity** — the service should not require you to expose your legal name or real number to the recipient
-- **Unlimited devices** — so you can manage everything from your phone without a second SIM
+- **[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s** — so you can manage everything from your phone without a second SIM
 
 Surfshark Alt-Number ticks all of these boxes and integrates with Surfshark's broader [privacy suite](https://snipstack.io/privacy-suite-for-couples-shared-household-2026/) if you want to level up later.
 

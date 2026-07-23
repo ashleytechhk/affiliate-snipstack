@@ -39,7 +39,7 @@ We evaluated [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pr
 | Data breach alerts | Yes (real-time) | Yes | Yes | Yes |
 | Private search engine | Yes (included) | No | No | No |
 | Data broker removal | Add-on | Add-on (expensive) | Add-on | No |
-| Unlimited devices | Yes | No (5 devices) | Yes | Yes (10 devices) |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes | No (5 devices) | Yes | Yes (10 devices) |
 | Annual price (2026) | ~$69–$99 | ~$109–$160 | ~$90–$130 | ~$80–$110 |
 | Mac background CPU† | Low | Medium–High | Medium | Low–Medium |
 

@@ -82,7 +82,7 @@ Surfshark built its reputation on VPN — one of the most reviewed and audited i
 
 The antivirus component, powered by its own engine with third-party lab validation, posts detection rates competitive with the incumbents. On a Windows 11 test machine (Ryzen 5, 16 GB RAM), total memory overhead from all Surfshark background services stayed under 180 MB — roughly half of Norton's idle footprint.
 
-The VPN is the main product, and it shows. Unlimited devices, no bandwidth cap, WireGuard protocol by default, and a verified no-logs policy. That is a meaningful distinction from the bolt-on VPNs Norton and McAfee include.
+The VPN is the main product, and it shows. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, no bandwidth cap, WireGuard protocol by default, and a verified no-logs policy. That is a meaningful distinction from the bolt-on VPNs Norton and McAfee include.
 
 For a household covering multiple Windows devices — plus phones and tablets — [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) Bundle's per-device economics become compelling quickly. You are protecting up to five devices with a full [security suite for](https://snipstack.io/security-suite-for-unlimited-devices-2026/) less than the cost of Norton 360 on a single device at renewal pricing.
 

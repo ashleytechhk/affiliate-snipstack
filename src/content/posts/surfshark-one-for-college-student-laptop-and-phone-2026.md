@@ -41,7 +41,7 @@ Norton 360 and McAfee+ also bundle these features, which is why the comparison b
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-black-friday-deal-prediction-2026/) | Norton 360 Standard | McAfee+ Individual |
 |---|---|---|---|
-| VPN included | Yes — unlimited devices | Yes — 1 device (Standard) | Yes — unlimited |
+| VPN included | Yes — [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes — 1 device (Standard) | Yes — unlimited |
 | Simultaneous connections | Unlimited | 1 (Standard tier) | Unlimited |
 | Antivirus (laptop) | Yes | Yes | Yes |
 | Antivirus (phone) | Yes (iOS + Android) | Yes | Yes |

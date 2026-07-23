@@ -123,7 +123,7 @@ The arbitrage case is strongest if you mostly want the film and series catalogue
 
 For anyone already paying for Canal+ and trying to keep it usable from abroad without doubling up on subscriptions, the maths favours a long-term VPN plan over cancelling and resubscribing locally. A reliable VPN runs €2–4/month against a Canal+ bill of €25–€45/month you're already committed to — a small addition that restores full value to money you're already spending.
 
-**Surfshark** is the pick if you're optimising for the lowest combined cost: cheapest long-term pricing, unlimited devices, and French server coverage that holds up against myCANAL's checks. **ExpressVPN** is the pick if live Ligue 1 and Champions League matches are the priority and speed matters more than price. **NordVPN** is the sensible middle path.
+**Surfshark** is the pick if you're optimising for the lowest combined cost: cheapest long-term pricing, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and French server coverage that holds up against myCANAL's checks. **ExpressVPN** is the pick if live Ligue 1 and Champions League matches are the priority and speed matters more than price. **NordVPN** is the sensible middle path.
 
 Avoid [free VPNs](https://snipstack.io/free-vpns-for-chrome-2026/) for Canal+. They rarely maintain unblocked French IPs for long, often cap data in ways that make streaming (especially live sport) impractical, and turn a subscription you're already paying for into an unreliable one.
 

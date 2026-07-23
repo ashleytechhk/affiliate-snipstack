@@ -163,7 +163,7 @@ Not every VPN provider makes router setup practical. Here is what Surfshark does
 
 **Servers in arbitrage regions** — Turkey, Argentina, India, Brazil, and other countries with significant streaming price gaps are all available. The server list is regularly updated.
 
-**Unlimited device connections** — a single Surfshark account covers the entire household through the router, with no device limit. Add phones, tablets, and laptops individually under the same account without extra cost.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections** — a single Surfshark account covers the entire household through the router, with no device limit. Add phones, tablets, and laptops individually under the same account without extra cost.
 
 **No-logs policy** — Surfshark does not store records of your browsing activity. Independent audits have verified this claim.
 

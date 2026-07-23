@@ -28,7 +28,7 @@ This guide compares the three main contenders for the **annual [security bundle]
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-individual-apps-cost-2026/) | Norton 360 | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes — unlimited devices | Yes — up to 5 devices | Yes — unlimited devices |
+| VPN included | Yes — [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes — up to 5 devices | Yes — unlimited devices |
 | Antivirus | Yes | Yes (industry-leading scores) | Yes |
 | Data breach monitor | Yes (Alert) | Yes (LifeLock, upsell tier) | Yes (limited) |
 | Private search | Yes (Search) | No | No |

@@ -99,7 +99,7 @@ CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-
 
 **Encrypted connection.** Unlike DNS-only solutions, your traffic travels through an encrypted VPN tunnel, adding privacy on top of ad blocking.
 
-**Unlimited devices.** One Surfshark subscription covers every phone, tablet, laptop, and smart TV in your household. No extra fee for additional devices.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One Surfshark subscription covers every phone, tablet, laptop, and smart TV in your household. No extra fee for additional devices.
 
 **Fast servers.** Many VPNs slow down your connection noticeably. Surfshark's WireGuard-based infrastructure keeps speed degradation minimal — typically under 10-15% on most connections.
 

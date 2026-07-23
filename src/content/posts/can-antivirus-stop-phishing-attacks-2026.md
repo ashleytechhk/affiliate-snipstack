@@ -143,7 +143,7 @@ Here is what it covers, specifically for phishing protection:
 
 **Simple setup.** The entire installation takes about five minutes. Once it is running, it works quietly in the background. You do not need to do anything day to day — you will only hear from it when something actually needs your attention.
 
-**Unlimited devices.** One subscription covers your Windows computer, your phone, your tablet — and your family's devices too. Phishing does not only target computers.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One subscription covers your Windows computer, your phone, your tablet — and your family's devices too. Phishing does not only target computers.
 
 **24/7 support.** If you receive a suspicious email and are not sure [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/), you can open live chat support directly from the app. A real person responds — not an automated menu.
 

@@ -172,7 +172,7 @@ If you have just run an online scan, cleaned up any infections found, and want t
 | Phishing protection | Blocks [fake website](https://snipstack.io/fake-website-detector-tool-2026/)s before they load, including fake bank pages |
 | Data breach alerts | Tells you if your email or passwords were stolen in a leak, so you can act before criminals do |
 | Simple interface | One screen, one button to scan, clear plain-English status |
-| Unlimited devices | Covers your laptop, tablet, and phone under one subscription |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Covers your laptop, tablet, and phone under one subscription |
 
 Plans start at under $3 per month billed annually. Setup takes about five minutes — download the app, sign in, and it runs quietly in the background from then on. You do not need to adjust settings or understand how it works. It simply runs.
 

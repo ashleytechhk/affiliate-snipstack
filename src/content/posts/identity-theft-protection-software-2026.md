@@ -156,7 +156,7 @@ Most modern services are designed to be straightforward. [Surfshark One](https:/
 
 ### Can one subscription cover my phone, tablet, and computer?
 
-Yes — most paid services cover multiple devices under one subscription. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) covers unlimited devices on one plan. Norton and McAfee vary by tier — check the device limit before purchasing if you have more than two or three devices. Microsoft Defender covers only Windows computers and does not protect phones or tablets.
+Yes — most paid services cover multiple devices under one subscription. [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s on one plan. Norton and McAfee vary by tier — check the device limit before purchasing if you have more than two or three devices. Microsoft Defender covers only Windows computers and does not protect phones or tablets.
 
 ### What should I do right now if I am worried about identity theft?
 

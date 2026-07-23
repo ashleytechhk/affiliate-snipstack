@@ -36,7 +36,7 @@ The smarter move is to compare what each bundle actually includes — not just t
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) | [Norton 360](https://snipstack.io/norton-360-price-increase-alternatives-security-bundle-2026/) Deluxe | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes — unlimited devices | Yes — up to 5 devices | Yes — unlimited devices |
+| VPN included | Yes — [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Yes — up to 5 devices | Yes — unlimited devices |
 | Antivirus | Real-time, lightweight | Yes — resource-heavy | Yes — moderate footprint |
 | Identity alerts | Yes — breach monitoring | Yes — dark web scan | Yes — identity monitoring |
 | Private search | Yes — Surfshark Search | No | No |

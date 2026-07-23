@@ -54,7 +54,7 @@ The [Surfshark One bundle](https://snipstack.io/surfshark-one-review-2026/) is b
 
 Here is what is included in a single One plan:
 
-**Surfshark VPN** — Unlimited devices, no data cap, available in over 100 countries. This is not the hobbled 200MB/day VPN included as an add-on in some Norton tiers. It is a full VPN with no traffic restrictions and WireGuard protocol support.
+**Surfshark VPN** — [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, no data cap, available in over 100 countries. This is not the hobbled 200MB/day VPN included as an add-on in some Norton tiers. It is a full VPN with no traffic restrictions and WireGuard protocol support.
 
 **[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/)** — Real-time malware scanning for Windows, Mac, and Android. Cloud-assisted detection with a noticeably smaller performance footprint than legacy suites during scans. Scheduled scans run in the background without the CPU spike that makes Norton scans so disruptive.
 

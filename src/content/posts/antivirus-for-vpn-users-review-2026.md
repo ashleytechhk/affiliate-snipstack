@@ -156,7 +156,7 @@ Run a full scan immediately using your [antivirus software](https://snipstack.io
 
 Using a VPN is a smart habit. But if it is your only protection, you have a meaningful gap in your security. Viruses, ransomware, phishing pages, and tech support scams are all threats a VPN does not address — and all threats that disproportionately harm seniors.
 
-The simplest solution in 2026 is a single subscription that handles both: VPN protection for your connection and antivirus protection for your device. Surfshark's combined plan costs less than most standalone antivirus tools, covers unlimited devices, and is built with the kind of straightforward interface that does not require technical confidence to use.
+The simplest solution in 2026 is a single subscription that handles both: VPN protection for your connection and antivirus protection for your device. Surfshark's combined plan costs less than most standalone antivirus tools, covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, and is built with the kind of straightforward interface that does not require technical confidence to use.
 
 If you have been relying on a VPN alone, adding antivirus protection today is the most practical step you can take to close that gap.
 

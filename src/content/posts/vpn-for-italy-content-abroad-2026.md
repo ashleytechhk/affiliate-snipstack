@@ -12,7 +12,7 @@ A **VPN for Italy content abroad** solves exactly that problem. And for the cost
 
 ![A VPN connecting a laptop to Italian streaming services from abroad](/og/vpn-for-italy-content-abroad-2026.png)
 
-**Ready to skip ahead?** [Get Surfshark and connect to Italy now](/blog/vpn?sub=vpn-for-italy-content-abroad-2026__above-fold) — plans start cheap and cover unlimited devices.
+**Ready to skip ahead?** [Get Surfshark and connect to Italy now](/blog/vpn?sub=vpn-for-italy-content-abroad-2026__above-fold) — plans start cheap and cover [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 
 ---
 

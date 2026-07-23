@@ -92,7 +92,7 @@ The monthly cost on a two-year plan is the number that matters for arbitrage mat
 
 ### Simultaneous connections
 
-If you're running arbitrage on multiple streaming services across multiple devices, unlimited simultaneous connections matters. Surfshark is unusual among major VPN providers in offering unlimited device connections on a single account — a meaningful advantage for households.
+If you're running arbitrage on multiple streaming services across multiple devices, unlimited simultaneous connections matters. Surfshark is unusual among major VPN providers in offering [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections on a single account — a meaningful advantage for households.
 
 ### Streaming reliability
 

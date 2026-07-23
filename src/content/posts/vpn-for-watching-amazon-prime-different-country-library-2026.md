@@ -96,7 +96,7 @@ Not every VPN will work reliably for this use case. Amazon Prime Video's detecti
 
 Surfshark has built a strong track record specifically for unblocking streaming services, and Amazon Prime Video is one of the platforms it actively supports. Several features make it the right fit for subscription-value-focused users:
 
-**Unlimited devices.** One Surfshark account covers every device in your home with no cap. Most competitors cut you off at five or six devices.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** One Surfshark account covers every device in your home with no cap. Most competitors cut you off at five or six devices.
 
 **NoBorders mode.** This feature is designed for environments where VPN traffic is actively restricted or detected. It makes Surfshark more resilient when Amazon tightens its detection.
 

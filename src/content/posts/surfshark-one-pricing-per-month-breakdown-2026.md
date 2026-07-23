@@ -58,7 +58,7 @@ This is where legacy suites start to look expensive fast.
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-eset-smart-security-premium-2026/) | Norton 360 Standard | McAfee Total Protection |
 |---|---|---|---|
-| VPN included | Yes (unlimited devices) | Yes (1 device, limited) | Yes (unlimited, mobile-only focus) |
+| VPN included | Yes ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s) | Yes (1 device, limited) | Yes (unlimited, mobile-only focus) |
 | Antivirus / malware protection | Yes (real-time) | Yes (real-time) | Yes (real-time) |
 | Data breach / dark web monitoring | Yes (Alert) | Yes (Dark Web Monitoring) | Yes (Identity Monitoring) |
 | Private search engine | Yes (Search) | No | No |

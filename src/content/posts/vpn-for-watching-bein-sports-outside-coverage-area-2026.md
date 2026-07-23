@@ -81,7 +81,7 @@ This is the area where cheaply run VPNs fall flat. The provider needs to activel
 
 ### Simultaneous Connections
 
-If you want to cover your phone, tablet, smart TV, and laptop — ideally without paying per device — look for a [VPN that supports](https://snipstack.io/vpn-that-supports-shadowsocks-protocol-2026/) multiple simultaneous connections or even unlimited device use under one account.
+If you want to cover your phone, tablet, smart TV, and laptop — ideally without paying per device — look for a [VPN that supports](https://snipstack.io/vpn-that-supports-shadowsocks-protocol-2026/) multiple simultaneous connections or even [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) use under one account.
 
 ### No Bandwidth Caps
 

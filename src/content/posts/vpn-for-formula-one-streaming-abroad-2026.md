@@ -106,7 +106,7 @@ If the VPN connection drops mid-race, a kill switch cuts your internet rather th
 
 After testing multiple providers across key F1 streaming markets, Surfshark stands out for a few specific reasons:
 
-**Unlimited devices.** Most [VPN providers](https://snipstack.io/vpn-providers-best-2026/) limit you to five or six simultaneous connections. Surfshark has no cap. One subscription covers your phone, tablet, laptop, and your partner's devices — all at once.
+**[Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.** Most [VPN providers](https://snipstack.io/vpn-providers-best-2026/) limit you to five or six simultaneous connections. Surfshark has no cap. One subscription covers your phone, tablet, laptop, and your partner's devices — all at once.
 
 **Fast server network.** Surfshark operates 3,200+ servers across 100 countries, including all major F1 streaming markets. Speed tests across European and Americas servers consistently hold above the threshold needed for HD streaming without buffering.
 

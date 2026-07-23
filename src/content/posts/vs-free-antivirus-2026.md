@@ -127,7 +127,7 @@ In common usage, the performance impact is minimal. Surfshark's antivirus module
 Yes. Most [antivirus subscription](https://snipstack.io/antivirus-subscription-family-plan-five-devices-2026/)s can be cancelled at any time, though refund eligibility depends on how recently you renewed. Check your current billing date before switching — if renewal is imminent, it may be worth waiting until just after the charge clears (then cancelling before the next cycle) to get full value from the paid period before moving to [Surfshark One](/blog/surfshark?sub=vs-free-antivirus-2026__faq).
 
 **Does [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) cover mobile devices?**
-Yes. A single [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/) covers unlimited devices across Windows, macOS, Android, and iOS — so your phone and tablet are protected alongside your laptop.
+Yes. A single [Surfshark One plan](https://snipstack.io/surfshark-one-plan-comparison-2026/) covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s across Windows, macOS, Android, and iOS — so your phone and tablet are protected alongside your laptop.
 
 ---
 

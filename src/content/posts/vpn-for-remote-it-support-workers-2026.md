@@ -107,7 +107,7 @@ If the VPN connection drops, a kill switch cuts your internet access entirely ra
 
 Your browsing activity and connection targets should stay private. Surfshark's no-logs policy has been independently audited by Deloitte, confirming that connection data is not stored. For IT workers who handle sensitive client data and access restricted systems, the audit matters more than a self-reported claim.
 
-### Unlimited Devices
+### [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 
 IT support workers run multiple devices — a work laptop, a personal laptop, a phone, sometimes a tablet for documentation. Surfshark's unlimited simultaneous connections mean one subscription covers all of them.
 

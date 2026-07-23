@@ -53,7 +53,7 @@ A dedicated IP address flips that. You're assigned one address that only you use
 
 Before the dedicated IP question even comes up, the base bundle needs to hold its own against what you're already paying for.
 
-[Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/)'s antivirus engine runs real-time scanning for malware, ransomware, and phishing attempts, and it does this without the constant scan scheduling and upsell banners that make Norton and McAfee feel heavier than they need to. Its VPN uses the WireGuard protocol, has no data cap, and covers unlimited devices — a meaningful upgrade over Norton's 50GB-per-month cap on lower tiers.
+[Surfshark One](https://snipstack.io/surfshark-one-for-college-student-laptop-and-phone-2026/)'s antivirus engine runs real-time scanning for malware, ransomware, and phishing attempts, and it does this without the constant scan scheduling and upsell banners that make Norton and McAfee feel heavier than they need to. Its VPN uses the WireGuard protocol, has no data cap, and covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — a meaningful upgrade over Norton's 50GB-per-month cap on lower tiers.
 
 ![How the dedicated IP add-on fits into a security bundle](/og/security-bundle-with-dedicated-ip-address-add-on-2026-inline-1.png)
 

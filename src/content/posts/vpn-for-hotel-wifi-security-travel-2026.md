@@ -137,7 +137,7 @@ For hotel-WiFi security and streaming subscription continuity in 2026:
 - **Balance of performance, features, and price** → NordVPN
 - **Most devices, lowest monthly rate, subscription arbitrage use case** → Surfshark
 
-For most travelers — particularly those motivated by getting full value from the subscriptions they are already paying for — Surfshark's combination of unlimited devices, reliable streaming performance, and accessible monthly pricing makes it the strongest recommendation. The cost of a single month's subscription is low enough that restoring access to one streaming library's full catalogue makes it pay for itself.
+For most travelers — particularly those motivated by getting full value from the subscriptions they are already paying for — Surfshark's combination of [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, reliable streaming performance, and accessible monthly pricing makes it the strongest recommendation. The cost of a single month's subscription is low enough that restoring access to one streaming library's full catalogue makes it pay for itself.
 
 **[Explore Surfshark's current deals for travelers →](/blog/vpn?sub=vpn-for-hotel-wifi-security-travel-2026__cta)**
 

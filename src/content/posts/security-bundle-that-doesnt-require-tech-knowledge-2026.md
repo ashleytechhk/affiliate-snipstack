@@ -108,7 +108,7 @@ McAfee's engine is also strong but has historically triggered more false positiv
 
 [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-deluxe-features-2026/) bundles four tools — VPN, antivirus, breach alerts, and private search — at a price that undercuts Norton and McAfee when you compare equivalent feature sets. Norton 360 and McAfee Total Protection both start at lower price points but add up quickly when you account for the full VPN, identity monitoring, and device limits.
 
-For a household covering multiple devices (phones, tablets, laptops), [Surfshark One](https://snipstack.io/surfshark-one-cheapest-price-strategy-2026/)'s unlimited device policy is a significant advantage. Norton and McAfee both tier their pricing by device count.
+For a household covering multiple devices (phones, tablets, laptops), [Surfshark One](https://snipstack.io/surfshark-one-cheapest-price-strategy-2026/)'s [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy is a significant advantage. Norton and McAfee both tier their pricing by device count.
 
 **Winner: [Surfshark One](https://snipstack.io/surfshark-one-vs-avast-one-comparison-2026/)** — better value once you factor in unlimited devices and a full VPN.
 

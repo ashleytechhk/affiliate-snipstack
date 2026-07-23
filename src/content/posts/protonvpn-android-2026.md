@@ -185,7 +185,7 @@ ProtonVPN uses AES-256 encryption, WireGuard/IKEv2/OpenVPN protocols, a verified
 
 **Can I use ProtonVPN Android for streaming?**
 
-The free tier is not designed for streaming — server selection is limited and speeds can vary. ProtonVPN Plus includes streaming-optimized servers that work with several major platforms. For a streaming-first use case where you want the most consistent regional unblocking across the most devices, [Surfshark's Android app](/blog/vpn?sub=protonvpn-android-2026__faq) offers unlimited device connections and dedicated streaming servers at a lower paid price point.
+The free tier is not designed for streaming — server selection is limited and speeds can vary. ProtonVPN Plus includes streaming-optimized servers that work with several major platforms. For a streaming-first use case where you want the most consistent regional unblocking across the most devices, [Surfshark's Android app](/blog/vpn?sub=protonvpn-android-2026__faq) offers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) connections and dedicated streaming servers at a lower paid price point.
 
 **Does ProtonVPN Android have a kill switch?**
 

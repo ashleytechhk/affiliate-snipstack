@@ -135,7 +135,7 @@ At approximately $2.19/month on the two-year plan, Surfshark is less expensive t
 
 *Prices are approximate and subject to change.*
 
-All three perform the core auto-connect function. Surfshark's advantage is the combination of unlimited devices, the lowest price tier, and consistent streaming unblocking in the countries where subscription arbitrage produces the largest savings.
+All three perform the core auto-connect function. Surfshark's advantage is the combination of [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, the lowest price tier, and consistent streaming unblocking in the countries where subscription arbitrage produces the largest savings.
 
 ---
 

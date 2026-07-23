@@ -75,7 +75,7 @@ Keep your VPN connected when accessing the subscription going forward to avoid g
 
 Beyond pricing, a VPN also helps researchers who are traveling internationally. Academic databases sometimes restrict access by country even for valid subscribers. A VPN lets you maintain consistent access regardless of where your work takes you.
 
-> [Try Surfshark VPN for your research workflow](/blog/vpn?sub=vpn-for-researchers-academic-journals-access-2026__mid) — servers in 100+ countries, one subscription, unlimited devices.
+> [Try Surfshark VPN for your research workflow](/blog/vpn?sub=vpn-for-researchers-academic-journals-access-2026__mid) — servers in 100+ countries, one subscription, [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s.
 
 ---
 

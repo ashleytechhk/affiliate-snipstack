@@ -114,7 +114,7 @@ Let's put actual numbers on this.
 - 1 month: ~$15.45
 - 24 months: from ~$2.19/mo (total ~$52.56 for 2 years + bonus months)
 
-Over 24 months, that is a saving of roughly $140–150 on the subscription cost alone. For a household with multiple users, the unlimited device policy makes the effective per-device savings even larger.
+Over 24 months, that is a saving of roughly $140–150 on the subscription cost alone. For a household with multiple users, the [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/) policy makes the effective per-device savings even larger.
 
 If you are here because you want to save money on subscriptions, this is the decision tree: the ExpressVPN download gets you a premium experience at a premium price. Surfshark gets you a comparable experience at a budget price.
 

@@ -109,7 +109,7 @@ The practical difference between DNS-only and DNS plus CleanWeb is significant: 
 
 CleanWeb activates immediately and runs alongside your existing Private DNS setting. You get dual-layer protection: the Private DNS filters at the resolution stage, CleanWeb catches anything that slips through at the connection stage.
 
-One plan covers unlimited devices — so your tablet, a family member's phone, and your laptop all get the same protection from a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
+One plan covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s — so your tablet, a family member's phone, and your laptop all get the same protection from a [single subscription](https://snipstack.io/single-subscription-for-full-online-privacy-2026/).
 
 ---
 

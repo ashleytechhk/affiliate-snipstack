@@ -117,7 +117,7 @@ Here is a quick look at why th[is antivirus](https://snipstack.io/is-antivirus-n
 |---|---|
 | Clean, simple interface | No confusing settings or menus to navigate |
 | Runs quietly in background | Does not pop up with constant alerts |
-| Covers unlimited devices | Protects your laptop, desktop, or a family member's computer — all on one plan |
+| Covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | Protects your laptop, desktop, or a family member's computer — all on one plan |
 | Automatic updates | Always up to date without you doing anything |
 | 24/7 customer support | Live chat available if you get stuck |
 | 30-day money-back guarantee | Try it risk-free |

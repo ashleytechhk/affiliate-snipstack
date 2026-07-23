@@ -75,7 +75,7 @@ Surfshark operates multiple servers physically located in the Netherlands. More 
 ### NoBorders and Camouflage Mode
 In countries with restrictive internet filtering, standard VPN traffic can be blocked. Surfshark's NoBorders mode automatically detects this and switches to obfuscated traffic that looks like regular HTTPS browsing. This is useful if you are streaming from a hotel network or a corporate Wi-Fi that blocks VPN ports.
 
-### Unlimited Devices
+### [Unlimited Device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s
 Most VPNs cap simultaneous connections at 5 or 6. Surfshark has no cap. Your whole household — or your full stack of travel devices — is covered on one account.
 
 ### CleanWeb [Ad Blocker](https://snipstack.io/ad-blocker-that-removes-sponsored-search-results-2026/)

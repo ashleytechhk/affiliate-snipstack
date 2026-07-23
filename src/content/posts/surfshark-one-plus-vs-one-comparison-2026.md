@@ -30,7 +30,7 @@ If you're coming from [Norton 360](https://snipstack.io/norton-360-antivirus-202
 
 | Feature | [Surfshark One](https://snipstack.io/surfshark-one-vs-total-av-comparison-2026/) | [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/) Plus |
 |---|---|---|
-| VPN (unlimited devices, 100+ countries) | Yes | Yes |
+| VPN ([unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, 100+ countries) | Yes | Yes |
 | [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-bitdefender-speed-test-2026/) (real-time, multi-platform) | Yes | Yes |
 | Alert — breach monitoring | Yes | Yes |
 | Search — private, ad-free search | Yes | Yes |

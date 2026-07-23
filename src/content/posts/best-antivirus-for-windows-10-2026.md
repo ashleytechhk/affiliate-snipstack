@@ -146,7 +146,7 @@ Most antivirus products are built for IT professionals. Surfshark is different. 
 | Safe browsing alerts | Warns you before you visit a dangerous website |
 | Data breach alerts | Tells you if your email or password was stolen online |
 | Bundled VPN | Keeps your connection private on home Wi-Fi and in public places |
-| Unlimited devices | One subscription covers your laptop, tablet, and family members' devices |
+| [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s | One subscription covers your laptop, tablet, and family members' devices |
 
 **[Get Surfshark Antivirus for Windows 10 — start protecting yourself today](/blog/surfshark?sub=best-antivirus-for-windows-10-2026__cta)**
 

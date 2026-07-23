@@ -19,7 +19,7 @@ This guide explains what Nexus IP rotation actually is, how it works technically
 **Surfshark** is the only major consumer VPN with a built-in, timer-based IP rotation system (IP Rotator) powered by its proprietary Nexus SDN technology. Your IP changes automatically every five minutes within your chosen server location — without disconnecting your session. For cost-motivated subscribers using a VPN for regional streaming access, this means less exposure to the static-IP detection that gets long-term VPN sessions flagged. Pricing starts around $2.49/month on a two-year plan, with unlimited simultaneous devices and a 30-day money-back guarantee.
 
 > **Get Surfshark — the VPN with Nexus IP rotation built in**
-> Automatic IP rotation. Unlimited devices. 30-day money-back guarantee.
+> Automatic IP rotation. [Unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s. 30-day money-back guarantee.
 > [Get Surfshark VPN](/blog/vpn?sub=vpn-with-nexus-ip-rotation-feature-2026__above-fold)
 
 ---

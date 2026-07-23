@@ -32,7 +32,7 @@ CleanWeb [is Surfshark](https://snipstack.io/is-surfshark-one-worth-the-upgrade-
 
 Setup takes under two minutes. Download the Surfshark app, enable CleanWeb in Settings, and connect. On Android, it works through WireGuard; on iOS, it uses the IKEv2/WireGuard protocol with a local VPN profile. Independent leak tests confirm DNS requests route through Surfshark's own resolvers, so your ISP cannot see which sites you visit.
 
-The trade-off is that CleanWeb is a VPN feature, not a standalone free tool. If you are already paying for a VPN — or have been thinking about getting one — the bundled ad blocking makes Surfshark an easy yes. The plan covers unlimited devices, so one subscription handles your phone, tablet, and laptop.
+The trade-off is that CleanWeb is a VPN feature, not a standalone free tool. If you are already paying for a VPN — or have been thinking about getting one — the bundled ad blocking makes Surfshark an easy yes. The plan covers [unlimited device](https://snipstack.io/unlimited-device-vpn-antivirus-plan-large-household-2026/)s, so one subscription handles your phone, tablet, and laptop.
 
 **[Try Surfshark CleanWeb on mobile](/blog/surfshark?sub=ad-blocker-extensions-2026__above-fold)**
 
