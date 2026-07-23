@@ -10,7 +10,7 @@ If your house runs Windows PCs, a couple of iPhones, an Android tablet, and mayb
 
 ![Household mixed-device security comparison overview](/og/security-subscription-for-household-with-mixed-devices-2026.png)
 
-Finding a single **security subscription for household with mixed devices** that covers everyone without a PhD in IT management is harder than it should be. This comparison cuts through the noise.
+Finding a single **[security subscription](https://snipstack.io/security-subscription-cheaper-than-renewing-norton-yearly-2026/) for household with mixed devices** that covers everyone without a PhD in IT management is harder than it should be. This comparison cuts through the noise.
 
 **[See current pricing for Surfshark One Bundle →](/blog/one?sub=security-subscription-for-household-with-mixed-devices-2026__above-fold)**
 

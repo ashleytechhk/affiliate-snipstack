@@ -104,7 +104,7 @@ US numbers are available with area code selection. The app is functional without
 
 The main limitation: Telos has a smaller international footprint than Hushed or Alt-Number, and its support infrastructure is thinner. For a US-focused user who wants carrier-backed numbers at a lower price than [Surfshark One](https://snipstack.io/surfshark-one-vs-mcafee-total-protection-2026/), it is a legitimate option. For international use or users who want a responsive support experience, Alt-Number is the safer bet.
 
-**Best for:** US-focused users who want carrier-backed verification pass rates without committing to a full privacy suite.
+**Best for:** US-focused users who want carrier-backed verification pass rates without committing to a full [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/).
 
 ---
 

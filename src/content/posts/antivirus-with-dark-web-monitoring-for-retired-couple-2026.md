@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-A Social Security number sells for as little as a cup of coffee on the dark web. A full identity — name, birth date, address, bank details — often goes for under $50. In its most recent report, the FBI's Internet Crime Complaint Center said adults over 60 reported nearly $5 billion in fraud losses in a single year, more than any other age group. If you and your spouse are retired, your combined savings, your shared accounts, and decades of paperwork make you a bigger target than you probably realize.
+A [Social Security](https://snipstack.io/social-security-scam-call-verify-2026/) number sells for as little as a cup of coffee on the dark web. A full identity — name, birth date, address, bank details — often goes for under $50. In its most recent report, the FBI's Internet Crime Complaint Center said adults over 60 reported nearly $5 billion in fraud losses in a single year, more than any other age group. If you and your spouse are retired, your combined savings, your shared accounts, and decades of paperwork make you a bigger target than you probably realize.
 
 The good news: you can find out if your information is already circulating among criminals, and get warned the moment new leaks appear. That is what [antivirus with](https://snipstack.io/antivirus-with-automatic-update-during-off-peak-hours-2026/) dark web monitoring does.
 

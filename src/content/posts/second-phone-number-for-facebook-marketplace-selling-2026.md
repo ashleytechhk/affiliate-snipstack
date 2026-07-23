@@ -110,7 +110,7 @@ No. Alt-Number runs through the Surfshark app on your existing phone. There's no
 
 You already know why you don't hand your real number to a dating match before trust is established. Facebook Marketplace deserves the identical caution — the buyer picking up your dining table knows just as little about you as a first dating match, except this stranger also knows exactly where to find you in person. A phone number tied to your bank, your family, and your dating life should not be the same one posted in a Marketplace chat with someone you'll never see again after the sale.
 
-Surfshark Alt-Number solves this with a real second line you control — hand it out freely, use it for every stranger transaction, and retire it the moment the conversation is over. Your real number stays exactly where it belongs: with the people you actually trust.
+Surfshark Alt-Number solves this with a real [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/) you control — hand it out freely, use it for every stranger transaction, and retire it the moment the conversation is over. Your real number stays exactly where it belongs: with the people you actually trust.
 
 **[Get Surfshark Alt-Number and stop handing your real number to strangers](/blog/altnumber?sub=second-phone-number-for-facebook-marketplace-selling-2026__cta)**
 

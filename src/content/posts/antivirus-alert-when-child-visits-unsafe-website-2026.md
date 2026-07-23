@@ -63,9 +63,9 @@ It is worth being clear about what this feature is and is not. [Surfshark Antivi
 
 ## Setting Up Antivirus Alerts on a Family Computer or Tablet
 
-You do not need any technical background to get this running. Here is exactly what to do:
+You do not need any technical background to get this running. Here is exactly [what to do](https://snipstack.io/what-to-do-after-malware-infection-2026/):
 
-**Step 1.** Click a link on this page and choose the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) or Surfshark One plan (Surfshark One also adds a VPN and breach alerts, covered below).
+**Step 1.** Click a link on this page and choose the [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avg-comparison-2026/) or [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) plan ([Surfshark One](https://snipstack.io/surfshark-one-for-frequent-traveler-hotel-wifi-security-2026/) also adds a VPN and breach alerts, covered below).
 
 **Step 2.** Create an account using your own email address and a password you will remember.
 
@@ -99,7 +99,7 @@ There are many antivirus products on the market. Here is why Surfshark tends to 
 
 A shared family device is only as safe as the weakest click on it, and children click fast, often before anyone can say "wait." An antivirus alert does not replace a conversation about staying safe online, but it does something a conversation cannot: it keeps working even when you are not in the room.
 
-Installing Surfshark Antivirus on the device your grandchild uses takes about five minutes and covers every other device in the house at the same time.
+Installing [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-avast-free-2026/) on the device your grandchild uses takes about five minutes and covers every other device in the house at the same time.
 
 [Protect Your Family's Devices — Get Surfshark Antivirus Today](/blog/antivirus?sub=antivirus-alert-when-child-visits-unsafe-website-2026__cta)
 
@@ -109,7 +109,7 @@ Installing Surfshark Antivirus on the device your grandchild uses takes about fi
 
 ### Will I get a notification on my own phone if my grandchild's tablet visits an unsafe site?
 
-Surfshark Antivirus shows the alert directly on the device where it happened, rather than sending a separate push notification to a different device. If you check in on the device later, the app's activity view shows what was blocked and when. [See current plans here.](/blog/antivirus?sub=antivirus-alert-when-child-visits-unsafe-website-2026__faq)
+[Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-review-2026/) shows the alert directly on the device where it happened, rather than sending a separate push notification to a different device. If you check in on the device later, the app's activity view shows what was blocked and when. [See current plans here.](/blog/antivirus?sub=antivirus-alert-when-child-visits-unsafe-website-2026__faq)
 
 ### Does this replace parental controls or website filtering?
 

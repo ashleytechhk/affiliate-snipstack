@@ -142,7 +142,7 @@ Deleted aliases cannot be restored. Any email sent to that address after deletio
 
 ## FAQ
 
-**What is a disposable email that receives messages?**
+**What is a [disposable email](https://snipstack.io/disposable-email-for-game-key-giveaway-entries-2026/) that receives messages?**
 It's an alias address that forwards incoming email to your real inbox, giving you a throwaway-style address that actually works for ongoing correspondence. Unlike self-destructing inboxes, it persists until you delete it. [Alt ID](/blog/altid?sub=disposable-email-that-receives-messages-2026__faq) is a service that offers this.
 
 **Can I reply from a disposable [email alias](https://snipstack.io/email-alias-to-avoid-spam-2026/)?**

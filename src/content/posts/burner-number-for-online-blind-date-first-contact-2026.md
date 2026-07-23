@@ -58,7 +58,7 @@ The fix is not to avoid moving conversations off the app entirely — sometimes 
 
 **Surfshark Alt-Number** provisions a second, working phone number inside the Surfshark app. It handles real calls and real texts — not just app-to-app messages — so it functions exactly like the number you would otherwise give a match. The difference is that it is not tied to your identity in any of the ways your primary number is. If a conversation turns uncomfortable, you can drop the number without touching your actual phone line, your contacts, or any account tied to your real identity.
 
-Setup takes a few minutes: subscribe to [Surfshark One](/blog/altnumber?sub=burner-number-for-online-blind-date-first-contact-2026__mid), open Alt-Number, choose a number, and start using it immediately for calls and texts. There is no second SIM card and no second device to carry. Because Alt-Number is bundled with a VPN, ad and tracker blocking, and breach monitoring, the marginal cost of adding a dedicated dating number is close to nothing if you already want a VPN for other reasons.
+Setup takes a few minutes: subscribe to [Surfshark One](/blog/altnumber?sub=burner-number-for-online-blind-date-first-contact-2026__mid), open Alt-Number, choose a number, and start using it immediately for calls and texts. There is no second SIM card and no second device to carry. Because Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) with a VPN, ad and tracker blocking, and breach monitoring, the marginal cost of adding a dedicated dating number is close to nothing if you already want a VPN for other reasons.
 
 **[Get Surfshark Alt-Number for your next match](/blog/altnumber?sub=burner-number-for-online-blind-date-first-contact-2026__mid)**
 
@@ -104,7 +104,7 @@ Stop responding through that number for anything you would not want tied to your
 
 No. Dating apps do not require you to use your primary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) texts or calls made outside the app — they only care that the number you register with the app itself is valid. Using a [separate number for](https://snipstack.io/separate-number-for-dating-apps-2026/) personal contact with matches is a privacy choice, not a violation.
 
-### How much does Surfshark Alt-Number cost?
+### How much [does Surfshark](https://snipstack.io/does-surfshark-one-include-email-protection-2026/) Alt-Number cost?
 
 Alt-Number comes bundled inside [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) alongside a VPN, ad and tracker blocking, and breach alerts, so the added cost of the number itself is minimal if you are already considering a privacy subscription for other reasons.
 

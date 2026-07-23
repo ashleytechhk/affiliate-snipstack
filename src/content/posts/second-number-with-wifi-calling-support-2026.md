@@ -158,7 +158,7 @@ Yes. Using a secondary phone number to protect your privacy is legal everywhere 
 
 **Does the WiFi calling feature work internationally?**
 
-Yes. Because calls route over data rather than cellular infrastructure, your alias number works for voice calls wherever you have a WiFi or mobile data connection — at home, traveling, or anywhere with internet access. This is one of the practical advantages over a SIM-based second line, which requires cellular coverage and potentially roaming fees.
+Yes. Because calls route over data rather than cellular infrastructure, your alias number works for voice calls wherever you have a WiFi or mobile data connection — at home, traveling, or anywhere with internet access. This is one of the practical advantages over a SIM-based [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/), which requires cellular coverage and potentially roaming fees.
 
 ---
 

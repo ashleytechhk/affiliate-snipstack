@@ -78,7 +78,7 @@ Surfshark Alt-Number provides carrier-backed [virtual number](https://snipstack.
 
 **No activity-based expiry.** Alt-Number persists for the life of your subscription. There is no "text within 30 days or lose the number" clock running in the background. Your dating profile stays verified even during a two-month hiatus from the app.
 
-**Full calls and SMS.** Authentication codes arrive by SMS. Voice verification fallbacks work too. If a match eventually calls the number, it rings through to the Alt-Number app on your device. You maintain a functional second line without carrying a [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).
+**Full calls and SMS.** Authentication codes arrive by SMS. Voice verification fallbacks work too. If a match eventually calls the number, it rings through to the Alt-Number app on your device. You maintain a functional [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/) without carrying a [second phone](https://snipstack.io/second-phone-number-for-verification-2026/).
 
 **Bundled with the Surfshark [privacy suite](https://snipstack.io/privacy-suite-for-healthcare-professionals-2026/).** Alt-Number ships inside [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) alongside a VPN, an ad and [tracker blocker](https://snipstack.io/tracker-blocker-browser-extension-2026/), and a data breach monitoring service. If you are already using a VPN for general privacy, adding a carrier-backed [virtual number for](https://snipstack.io/virtual-number-for-real-estate-agents-2026/) your dating accounts costs a fraction of a standalone second-number subscription.
 

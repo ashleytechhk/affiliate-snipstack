@@ -132,7 +132,7 @@ If you are going the Alt-Number route, here is how fast it actually is:
 4. Your new number is active immediately — share it, receive calls and texts through the app
 5. If you need to drop the number, cancel it from the same screen
 
-No second SIM. No waiting for a physical card. No explaining to a carrier why you want a second line.
+No second SIM. No waiting for a physical card. No explaining to a carrier why you want a [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/).
 
 ---
 

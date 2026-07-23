@@ -150,7 +150,7 @@ Occasionally. Some senders' spam filters flag forwarded email because the origin
 
 ### [Is Surfshark](https://snipstack.io/is-surfshark-one-good-for-streaming-and-privacy-2026/) Alt-ID available as a standalone product?
 
-Alt-ID is currently bundled with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/)+ subscription tiers. It is not sold as a standalone product. If you only need an alias tool, SimpleLogin or DuckDuckGo may be more cost-efficient. If you want a broader privacy suite, the bundle often works out cheaper than subscribing to each tool separately. [See current Alt-ID plans here](/blog/altid?sub=email-alias-for-conference-badge-and-name-tag-2026__faq).
+Alt-ID is currently bundled with [Surfshark One](https://snipstack.io/surfshark-one-for-senior-tech-novice-easy-to-use-2026/) and [Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/)+ subscription tiers. It is not sold as a standalone product. If you only need an alias tool, SimpleLogin or DuckDuckGo may be more cost-efficient. If you want a broader [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/), the bundle often works out cheaper than subscribing to each tool separately. [See current Alt-ID plans here](/blog/altid?sub=email-alias-for-conference-badge-and-name-tag-2026__faq).
 
 ### How quickly can I disable an alias after a conference?
 

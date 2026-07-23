@@ -175,7 +175,7 @@ Log into the Alt ID dashboard. Each identity shows its forwarding address and cr
 **Alt ID forwarding isn't arriving in my real inbox.**
 Check your spam folder first — some mail clients auto-filter forwarded mail. If it's not there, confirm that forwarding is enabled (not paused) in the Alt ID dashboard.
 
-**I want to use a disposable email but also keep my loyalty/rewards points from a trial.**
+**I want to use a [disposable email](https://snipstack.io/disposable-email-for-game-key-giveaway-entries-2026/) but also keep my loyalty/rewards points from a trial.**
 Loyalty accounts typically require a persistent email. Use Alt ID rather than a temporary burner. You can keep the identity active indefinitely and only disable it when you want to stop all mail from that service.
 
 ---

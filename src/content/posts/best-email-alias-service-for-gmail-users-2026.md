@@ -192,7 +192,7 @@ The initial setup takes under five minutes. After that, creating a new alias for
 
 **Choose AnonAddy** if budget is the main constraint and you are comfortable with a more technical setup.
 
-**Choose Surfshark Alt-ID** if you want unlimited aliases, fake identity generation, reply masking, one-click disable, and no friction — and you are open to or already using a privacy suite that covers [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-cost-saving-2026/) alongside the aliasing feature.
+**Choose Surfshark Alt-ID** if you want unlimited aliases, fake identity generation, reply masking, one-click disable, and no friction — and you are open to or already using a [privacy suite that](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/) covers [VPN and antivirus](https://snipstack.io/vpn-and-antivirus-same-subscription-cost-saving-2026/) alongside the aliasing feature.
 
 ---
 

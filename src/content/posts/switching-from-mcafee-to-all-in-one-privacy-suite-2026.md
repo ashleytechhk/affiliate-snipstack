@@ -49,7 +49,7 @@ Here's how [Surfshark One](https://snipstack.io/surfshark-one-for-frequent-trave
 | Year-2 renewal | Stable, multi-year options | Often 2x+ the intro price |
 | Background resource use | Lightweight | Moderate, frequent upsell prompts |
 
-The line worth lingering on is ad blocking. McAfee's base bundle has no dedicated, system-wide ad and tracker blocker — you'd need a separate [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/)'s CleanWeb blocks trackers and malicious URLs at the DNS level, across every app, not just your browser — one less extension to juggle.
+The line worth lingering on is ad blocking. McAfee's base bundle has no dedicated, system-wide ad and tracker blocker — you'd need a separate [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/). [Surfshark One](https://snipstack.io/surfshark-one-for-retiree-wanting-simple-security-2026/)'s CleanWeb blocks trackers and [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s at the DNS level, across every app, not just your browser — one less extension to juggle.
 
 ---
 
@@ -57,7 +57,7 @@ The line worth lingering on is ad blocking. McAfee's base bundle has no dedicate
 
 Every long-time McAfee user asks this first: if I switch, am I still protected?
 
-Surfshark's antivirus handles real-time malware scanning, ransomware detection, and webcam protection, tested by independent labs rather than being a marketing checkbox. For the threats a typical household runs into — phishing links, malicious attachments, drive-by downloads — it covers the same ground McAfee does.
+Surfshark's antivirus handles real-time malware scanning, ransomware detection, and webcam protection, tested by independent labs rather than being a marketing checkbox. For the threats a typical household runs into — [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, malicious attachments, drive-by downloads — it covers the same ground McAfee does.
 
 ![Surfshark One antivirus and VPN comparison for former McAfee users](/og/switching-from-mcafee-to-all-in-one-privacy-suite-2026-inline-1.png)
 
@@ -153,7 +153,7 @@ Surfshark Alert takes over — it monitors the same categories of personal data 
 
 McAfee's antivirus still does its job, but the renewal pricing, the upsell culture, and the missing pieces — a real VPN, system-wide ad blocking, unlimited devices — are why so many long-time customers are looking elsewhere in 2026.
 
-[Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) bundles antivirus, an unlimited VPN, real-time breach alerts, a system-wide [ad blocker](https://snipstack.io/ad-blocker-that-works-with-vpn-running-simultaneously-2026/), and private search into one subscription, on unlimited devices, without the renewal shock McAfee is known for. It's not the only option on the market, but for a McAfee user ready to consolidate tools and stop overpaying at renewal, it's the strongest all-in-one privacy suite to switch to right now.
+[Surfshark One](https://snipstack.io/surfshark-one-two-year-plan-pricing-breakdown-2026/) bundles antivirus, an unlimited VPN, real-time breach alerts, a system-wide [ad blocker](https://snipstack.io/ad-blocker-that-works-with-vpn-running-simultaneously-2026/), and private search into one subscription, on unlimited devices, without the renewal shock McAfee is known for. It's not the only option on the market, but for a McAfee user ready to consolidate tools and stop overpaying at renewal, it's the strongest all-in-one [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/) to switch to right now.
 
 **[Get Surfshark One — see current pricing and plans →](/blog/one?sub=switching-from-mcafee-to-all-in-one-privacy-suite-2026__cta)**
 

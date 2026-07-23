@@ -88,7 +88,7 @@ Surfshark's [Alt Number](https://snipstack.io/alt-number-for-food-delivery-couri
 - **You control it** — if the number gets compromised or starts attracting spam, you can replace it without affecting your primary line
 - **Works across devices** — useful if you manage a number on behalf of a parent and want to monitor or redirect calls
 
-The setup process takes minutes. You download the Surfshark app, add Alt Number, and you have a working second line almost immediately.
+The setup process takes minutes. You download the Surfshark app, add Alt Number, and you have a working [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/) almost immediately.
 
 One thing worth being clear about: Alt Number does not make you untraceable or invisible. It is a privacy tool, not a cloak. The value is in keeping your real number out of contexts where it does not need to be — dating apps, online marketplaces, family group chats with 40 members. For those everyday situations, it does exactly what it needs to do.
 

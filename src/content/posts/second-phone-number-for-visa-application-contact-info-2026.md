@@ -103,7 +103,7 @@ The mechanism is the same one described throughout this article: you're handing 
 
 ### Can Alt-Number make and receive real calls, not just texts?
 
-Yes. Alt-Number provisions a carrier-backed number capable of both calls and SMS through the Surfshark app — a genuine second line, not a text-only placeholder. That's the difference between a number you can actually list as a contact point on a form and one that only receives a one-time verification code.
+Yes. Alt-Number provisions a carrier-backed number capable of both calls and SMS through the Surfshark app — a genuine [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/), not a text-only placeholder. That's the difference between a number you can actually list as a contact point on a form and one that only receives a one-time verification code.
 
 ### What should I do if I already gave out my real number on a visa form or a dating app?
 

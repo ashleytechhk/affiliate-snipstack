@@ -24,7 +24,7 @@ The best tool for online daters who want to keep their real number off dating ap
 
 ## The Small Business Tool Online Daters Are Missing
 
-Here is a concept that has been standard in small business circles for over a decade: you do not give clients your personal mobile number. You set up a second line — a masked number — that rings through to your phone when business hours are active, and goes silent when they are not. When a client relationship ends badly, you retire the number. Your personal life is never touched.
+Here is a concept that has been standard in small business circles for over a decade: you do not give clients your personal mobile number. You set up a [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/) — a masked number — that rings through to your phone when business hours are active, and goes silent when they are not. When a client relationship ends badly, you retire the number. Your personal life is never touched.
 
 This is exactly what online daters need. And almost none of them are using it.
 

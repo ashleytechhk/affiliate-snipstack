@@ -114,7 +114,7 @@ It's the same underlying idea: separate the number strangers get from the number
 
 **Does this cost extra if I already use Surfshark?**
 
-Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) into Surfshark's privacy suite, so if you're already subscribed for the VPN or other tools, there's no separate charge to add it to your dating routine.
+Alt-Number [is bundled](https://snipstack.io/is-bundled-security-better-than-separate-apps-2026/) into Surfshark's [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/), so if you're already subscribed for the VPN or other tools, there's no separate charge to add it to your dating routine.
 
 **Can I use Alt-Number for more than just dating apps?**
 

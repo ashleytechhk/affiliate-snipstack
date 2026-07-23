@@ -184,7 +184,7 @@ For a dating profile you are actively using, the answer should push you toward a
 
 **Surfshark Alt-Number** is the pick for dating profile use: carrier-backed numbers, subscription persistence, full privacy separation from your real number, and bundled value that makes the economics work if you have any use for a VPN alongside it.
 
-**Hushed** is the best standalone alternative for users who want a secondary number app without a full privacy suite.
+**Hushed** is the best standalone alternative for users who want a secondary number app without a full [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/).
 
 The right secondary number for your Facebook account is one that works the first time and keeps working. Pick accordingly.
 

@@ -94,7 +94,7 @@ From that point forward, your real number is locked down. Clients get the Alt-Nu
 Yes. Because Surfshark Alt-Number provides a real phone number, you can use it to register with WhatsApp, Signal, Telegram, or any app requiring SMS verification. This is useful for personal trainers who manage client groups in WhatsApp — your clients never need to know it is not your primary line. [See Alt-Number plans here.](/blog/altnumber?sub=second-number-for-bodybuilder-personal-trainer-clients-2026__faq)
 
 **Will clients or dating matches know it is not my main number?**
-No. The number appears to them as a standard US phone number — there is no VOIP prefix or unusual indicator. To everyone receiving your calls and texts, it is simply your contact number. The only person who knows it is a second line is you.
+No. The number appears to them as a standard US phone number — there is no VOIP prefix or unusual indicator. To everyone receiving your calls and texts, it is simply your contact number. The only person who knows it is a [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/) is you.
 
 **What happens to calls and texts if I cancel the Alt-Number?**
 If you deactivate the number, anyone calling or texting it will reach a disconnected signal. Clients and matches who had that number lose contact, but your real line is completely unaffected. For many personal trainers, this is actually the desired outcome when ending a problematic client relationship.

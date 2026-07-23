@@ -95,7 +95,7 @@ Pricing starts at around $15/month per user — more expensive than Alt-Number's
 
 ### 4. Sideline
 
-**Best for a clean permanent US second line with a local feel.**
+**Best for a clean permanent US [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/) with a local feel.**
 
 Sideline is positioned as a personal-professional separator — a second line that feels like a real number to people who call it, handled through an app on your existing phone. Numbers are US-based with local area codes, and Sideline allows you to keep a number indefinitely on a monthly subscription.
 

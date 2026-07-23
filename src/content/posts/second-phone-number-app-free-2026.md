@@ -80,7 +80,7 @@ The catch: Burner is not free. Plans start around $4.99/month for a single line.
 
 ## 6. 2ndLine — Free on Android, Good for Google Ecosystem Users
 
-**2ndLine** gives Android users a free second US number that operates through a data connection. It's closer to a VOIP app than a true second line, but the interface is polished and it integrates smoothly with Android's notification system.
+**2ndLine** gives Android users a free second US number that operates through a data connection. It's closer to a VOIP app than a true [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/), but the interface is polished and it integrates smoothly with Android's notification system.
 
 The free tier includes texting. Calls require a paid upgrade or are available for free with ad viewing. It's US only, and the number type (VoIP) means the same verification caveats apply as with TextNow and TextFree.
 

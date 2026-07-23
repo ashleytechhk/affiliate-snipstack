@@ -12,7 +12,7 @@ If you coordinate school pickups and swipe on dating apps in the same week, you 
 
 ## Quick Verdict
 
-A [second phone number](https://snipstack.io/second-phone-number-for-homeschool-parent-coordinator-2026/) is not a luxury for parents who date — it is a basic safety layer. It lets you share freely with matches without exposing the number tied to your child's school, carpool group, and emergency contacts. Surfshark [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) gives you a real, functional second line on your existing phone with no SIM swap or second device needed. [Get a separate number for dating before your next match asks for it.](/blog/altnumber?sub=second-phone-number-for-parents-coordinating-school-pickups-2026__above-fold)
+A [second phone number](https://snipstack.io/second-phone-number-for-homeschool-parent-coordinator-2026/) is not a luxury for parents who date — it is a basic safety layer. It lets you share freely with matches without exposing the number tied to your child's school, carpool group, and emergency contacts. Surfshark [Alt Number](https://snipstack.io/alt-number-to-avoid-spam-calls-after-web-signup-2026/) gives you a real, functional [second line](https://snipstack.io/second-line-app-for-real-estate-agent-leads-2026/) on your existing phone with no SIM swap or second device needed. [Get a separate number for dating before your next match asks for it.](/blog/altnumber?sub=second-phone-number-for-parents-coordinating-school-pickups-2026__above-fold)
 
 ---
 

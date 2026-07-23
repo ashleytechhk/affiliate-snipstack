@@ -151,6 +151,6 @@ X requires a phone number. That requirement is not going away. The question is w
 
 The 2023 breach showed that X's data can leave the platform. The reverse lookup risk shows it can be weaponized without a breach at all. Handing over your real number is a decision you cannot undo retroactively.
 
-A [virtual number for](https://snipstack.io/virtual-number-for-snapchat-account-verify-2026/) Twitter X account signup takes five minutes to set up and costs nothing extra if you already use a privacy suite. The asymmetry between the cost of doing it and the cost of not doing it should make the decision straightforward.
+A [virtual number for](https://snipstack.io/virtual-number-for-snapchat-account-verify-2026/) Twitter X account signup takes five minutes to set up and costs nothing extra if you already use a [privacy suite](https://snipstack.io/privacy-suite-that-alerts-when-personal-data-breached-2026/). The asymmetry between the cost of doing it and the cost of not doing it should make the decision straightforward.
 
 **[Get Surfshark Alt-Number — keep your real number off X](/blog/altnumber?sub=virtual-number-for-twitter-x-account-signup-2026__cta)**
