@@ -182,7 +182,7 @@ Loyalty accounts typically require a persistent email. Use Alt ID rather than a 
 
 ## FAQ
 
-**What is a disposable email address for trials?**
+**What is a [disposable email](https://snipstack.io/disposable-email-for-gym-membership-free-trial-2026/) address for trials?**
 A disposable email address is a temporary or masked address you use instead of your real one when signing up for services. It protects your real inbox from spam and prevents companies from building a persistent profile linked to your actual email. For trials specifically, it lets you test a product without committing your real identity to their marketing database.
 
 **Is it legal to use a [disposable email for](https://snipstack.io/disposable-email-for-online-shopping-avoid-retargeting-2026/) free trials?**

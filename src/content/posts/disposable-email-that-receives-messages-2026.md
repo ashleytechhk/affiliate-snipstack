@@ -164,7 +164,7 @@ No. Alt ID is a separate product within the [Surfshark One](https://snipstack.io
 
 ## Get Started With a Persistent Alias
 
-If your inbox is drowning in newsletters, promotions, and account notifications from sites you barely remember signing up for, the fix is not another filter — it's using a disposable email that actually receives messages going forward, and cutting the old ones off.
+If your inbox is drowning in newsletters, promotions, and account notifications from sites you barely remember signing up for, the fix is not another filter — it's using a [disposable email](https://snipstack.io/disposable-email-for-gym-membership-free-trial-2026/) that actually receives messages going forward, and cutting the old ones off.
 
 Generate a fresh alias for every new signup from here on. When an alias goes noisy, delete it. Your real inbox stays for people and services that actually matter.
 

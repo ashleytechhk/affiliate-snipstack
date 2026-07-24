@@ -10,7 +10,7 @@ tags: ["antivirus", "privacy", "review"]
 
 > **Disclosure:** This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
 
-Every year, the FBI's Internet Crime Complaint Center reports that adults over 60 lose more money to online scams than any other age group — and computer-related fraud, including fake "tech support" calls, is one of the most common complaints on that list. Now add this: Microsoft stopped providing security updates for [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) in late 2025, which means millions of older adults are moving to Windows 11 right now, many for the first time in years. Scammers know exactly when people are most confused about a new operating system — and that confusion is exactly what they exploit.
+Every year, the FBI's Internet Crime Complaint Center reports that adults over 60 lose more money to [online scam](https://snipstack.io/online-scam-checker-extension-for-chrome-2026/)s than any other age group — and computer-related fraud, including fake "[tech support](https://snipstack.io/tech-support-scam-phone-call-identify-2026/)" calls, is one of the most common complaints on that list. Now add this: Microsoft stopped providing security updates for [Windows 10](https://snipstack.io/windows-10-antivirus-free-download-2026/) in late 2025, which means millions of older adults are moving to Windows 11 right now, many for the first time in years. Scammers know exactly when people are most confused about a new operating system — and that confusion is exactly what they exploit.
 
 If your son, daughter, or grandchild helped you set up your new Windows 11 computer and said "don't worry, it already has protection built in," that is only half the story. Here is what you actually need to know before — or right after — your Windows 11 upgrade, and how to close the gaps that put seniors at the most risk.
 
@@ -34,7 +34,7 @@ Search for "Windows 11 upgrade" online and you may see download links that look 
 
 ### "Your Computer Needs Immediate Attention" Pop-Ups
 
-After an upgrade, it is common to see unfamiliar system messages — and scammers copy that look almost exactly. A pop-up claiming to be from Microsoft, warning that your computer is "at risk" and providing a phone number to call, is one of the most reported tech scams affecting older adults today. The number connects to a criminal, not Microsoft.
+After an upgrade, it is common to see unfamiliar system messages — and scammers copy that look almost exactly. A pop-up claiming to be from Microsoft, warning that your computer is "at risk" and providing a [phone number](https://snipstack.io/phone-number-privacy-for-online-selling-2026/) to call, is one of the most reported tech scams affecting older adults today. The number connects to a criminal, not Microsoft.
 
 ### The End of Windows 10 Support Creates Real Urgency
 
@@ -73,7 +73,7 @@ The right [antivirus for](https://snipstack.io/antivirus-for-drone-hobbyist-lapt
 
 **Step 1.** Click the link above and go to the Surfshark page.
 
-**Step 2.** Choose the Antivirus plan (or the [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) bundle if you also want a [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) Wi-Fi).
+**Step 2.** Choose the [Antivirus](https://snipstack.io/vs-antivirus-2026/) plan (or the [Surfshark One](https://snipstack.io/surfshark-one-for-gig-worker-with-multiple-client-devices-2026/) bundle if you also want a [VPN for public](https://snipstack.io/vpn-for-public-wifi-security-2026/) Wi-Fi).
 
 **Step 3.** Enter your email address and set a simple password.
 
@@ -123,7 +123,7 @@ No. [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-eset-compa
 
 **Q: How do I know if a Windows 11 upgrade pop-up is fake?**
 
-A genuine Windows message never asks you to call a phone number or grants remote access to a stranger. If a pop-up urges you to call for "urgent help," close the browser window entirely rather than clicking anything inside it.
+A genuine Windows message never asks you to call a [phone number](https://snipstack.io/phone-number-for-facebook-verification-2026/) or grants remote access to a stranger. If a pop-up urges you to call for "urgent help," close the browser window entirely rather than clicking anything inside it.
 
 **Q: Is [Surfshark Antivirus](https://snipstack.io/surfshark-antivirus-vs-kaspersky-comparison-2026/) difficult to set up for someone who isn't tech savvy?**
 
