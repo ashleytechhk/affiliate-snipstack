@@ -86,7 +86,7 @@ The business line should be what customers call and text. Your real mobile numbe
 
 Here's what the setup looks like in practice:
 
-You open the Surfshark app, activate Alt Number, and pick a number. You put that number on your business cards, your website, your Google Business listing. Clients call and text that number. It rings through the Surfshark app on your existing phone. Your personal cell number is never exposed.
+You open the Surfshark app, activate [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/), and pick a number. You put that number on your business cards, your website, your Google Business listing. Clients call and text that number. It rings through the Surfshark app on your existing phone. Your personal cell number is never exposed.
 
 When a job is done at 6pm and you want to switch off, you manage availability on the Alt Number without touching your personal line. Your kid's school can still reach you. Your 9pm client cannot.
 

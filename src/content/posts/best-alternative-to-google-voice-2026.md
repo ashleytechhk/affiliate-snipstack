@@ -70,7 +70,7 @@ The core difference from Google Voice: [Alt Number](https://snipstack.io/alt-num
 
 Setup takes a few minutes inside the Surfshark app. You pick your country and area code, the number activates, and you start using it immediately. Calls and texts come through the app on your existing phone — no second SIM, no second device.
 
-For dating specifically, the number behaves like a normal mobile line to anyone on the other end. You keep full control: if a match becomes a problem, you stop using that number. If you're already on [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) for a VPN, Alt Number is included, which means you're not paying twice.
+For dating specifically, the number behaves like a normal mobile line to anyone on the other end. You keep full control: if a match becomes a problem, you stop using that number. If you're already on [Surfshark One](https://snipstack.io/surfshark-one-vs-kaspersky-plus-comparison-2026/) for a VPN, [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) is included, which means you're not paying twice.
 
 **Best for:** Daters who need reliable SMS verification, want a real mobile number, and prefer bundling tools into one subscription.
 

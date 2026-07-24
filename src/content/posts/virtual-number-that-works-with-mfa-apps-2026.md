@@ -82,7 +82,7 @@ Getting this working takes about ten minutes the first time.
 
 **Step 2: Choose your number.** Pick a country and area code. For dating apps, choose a number in the same country as your dating profile to avoid triggering location-mismatch checks on some apps.
 
-**Step 3: Use the Alt Number for app signup.** When a dating app asks for your phone number during registration or MFA setup, enter your Alt Number instead. The verification SMS will arrive in your Surfshark app.
+**Step 3: Use the [Alt Number for](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) app signup.** When a dating app asks for your phone number during registration or MFA setup, enter your Alt Number instead. The verification SMS will arrive in your Surfshark app.
 
 **Step 4: Continue using the Alt Number for that relationship.** If a match asks for your number to move off the app, give them the Alt Number. They can text and call it just like a normal number. You maintain full control.
 

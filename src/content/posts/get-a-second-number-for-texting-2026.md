@@ -41,7 +41,7 @@ You need:
 
 - A smartphone (iOS or Android) or a web browser
 - A working primary [phone number for](https://snipstack.io/phone-number-for-facebook-verification-2026/) verification during signup
-- A payment method if you go with a paid tier (Hushed or Alt Number)
+- A payment method if you go with a paid tier (Hushed or [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/))
 - Five minutes
 
 That's it. You don't need to swap SIMs or talk to a carrier.

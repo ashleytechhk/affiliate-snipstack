@@ -86,7 +86,7 @@ Not all secondary number services are equal. Here is what actually matters for a
 
 **Step 2 — Put that number in your Vinted profile bio (optional).** Some sellers do this so buyers know upfront they can reach you this way. Others keep it for situations where a buyer specifically asks for it.
 
-**Step 3 — Use it whenever a buyer asks for your contact number.** Give them the Alt Number. All their texts and calls come through the app. Your real SIM never sees any of it.
+**Step 3 — Use it whenever a buyer asks for your contact number.** Give them the [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/). All their texts and calls come through the app. Your real SIM never sees any of it.
 
 **Step 4 — If the buyer becomes a problem, turn the number off.** You can disable forwarding or release the number entirely. That buyer now has a dead number and no route back to you.
 

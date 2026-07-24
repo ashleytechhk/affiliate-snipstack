@@ -141,7 +141,7 @@ No. A [burner number](https://snipstack.io/burner-number-for-nextdoor-listings-2
 [Learn more about Surfshark Alt Number and how it protects your number](/blog/altnumber?sub=burner-number-for-craigslist-roommate-ads-2026__faq)
 
 **[Can I receive](https://snipstack.io/can-i-receive-calls-on-virtual-number-2026/) calls — not just texts — on an Alt Number?**
-Yes. Alt Number forwards incoming calls to your real phone through the app. You can answer, and the caller never sees your real number. Outgoing calls placed through the app also show your Alt Number as the caller ID.
+Yes. [Alt Number for](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/)wards incoming calls to your real phone through the app. You can answer, and the caller never sees your real number. Outgoing calls placed through the app also show your Alt Number as the caller ID.
 
 **Is it worth paying for Alt Number if I only post one Craigslist ad?**
 Even for a single listing, the protection is worth it. Scrapers act within hours of a post going live, so by the time you decide the listing is no longer needed, your number may already be in several databases. Starting with a burner prevents that outcome entirely. Many people find they keep using it for dating app transitions as well, which makes the ongoing cost straightforward to justify.

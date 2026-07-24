@@ -104,7 +104,7 @@ The trade-off worth knowing: Truecaller uploads your contact list to its servers
 
 | Tool | Free? | Blocks Spam | Hides Your Real Number | Works Globally |
 |---|---|---|---|---|
-| **Surfshark Alt Number** | Trial available | Yes | Yes — fully | Yes |
+| **Surfshark [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/)** | Trial available | Yes | Yes — fully | Yes |
 | iOS Silence Unknown | Yes | Partial | No | Yes |
 | Android Call Screen | Yes (Pixel) | Yes | No | Yes |
 | Hiya | Free tier | Yes | No | Yes |

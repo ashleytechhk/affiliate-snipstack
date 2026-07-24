@@ -146,7 +146,7 @@ No. Deleting the number ends all forwarding. Any further calls or texts to that 
 **Is this legal?**
 Yes. Using a [virtual phone number](https://snipstack.io/virtual-phone-number-for-customer-service-line-2026/) is legal in most jurisdictions. It is the same technology businesses have used for call routing and customer service lines for decades. You are not hiding anything illegal — you are protecting your personal contact details from strangers.
 
-**Can I use Alt Number for business selling alongside dating?**
+**Can I use [Alt Number for](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) business selling alongside dating?**
 Absolutely. You can run multiple numbers simultaneously — one for your eBay store, one for dating apps, one for a side hustle. They each forward to the same device. Surfshark Alt Number is designed for exactly this kind of contextual separation.
 
 ---

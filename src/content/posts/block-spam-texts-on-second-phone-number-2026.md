@@ -61,7 +61,7 @@ When something goes wrong — a match turns hostile, spam texts start rolling in
 
 **[See how Alt Number works and get yours in minutes.](/blog/altnumber?sub=block-spam-texts-on-second-phone-number-2026__mid)**
 
-Surfshark's Alt Number takes this a step further by being integrated directly into the Surfshark privacy app. You don't need to carry two SIM cards or manage a separate app. The number lives inside your existing Surfshark subscription (or can be added as a standalone product), and you can use it across iOS and Android without any hardware changes.
+Surfshark's [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) takes this a step further by being integrated directly into the Surfshark privacy app. You don't need to carry two SIM cards or manage a separate app. The number lives inside your existing Surfshark subscription (or can be added as a standalone product), and you can use it across iOS and Android without any hardware changes.
 
 Here's what you get with Alt Number:
 

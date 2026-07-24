@@ -82,7 +82,7 @@ Here is why that distinction matters:
 
 **No second device required.** Everything runs through the Surfshark app on your existing phone. You do not need a second handset or a second SIM slot.
 
-**Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/).** If you already use Surfshark for a VPN, Alt Number slots into the same subscription. You are likely already paying for it without knowing it.
+**Bundled with [Surfshark One](https://snipstack.io/surfshark-one-vs-trend-micro-maximum-security-2026/).** If you already use Surfshark for a VPN, [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) slots into the same subscription. You are likely already paying for it without knowing it.
 
 ---
 

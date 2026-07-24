@@ -26,7 +26,7 @@ If you're already paying for a Surfshark subscription, **[Alt Number](https://sn
 
 ## Comparison Table
 
-| | Google Voice | TextNow | Hushed | Surfshark Alt Number |
+| | Google Voice | TextNow | Hushed | Surfshark [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) |
 |---|---|---|---|---|
 | **Price** | Free | Free (ads) / ~$3/mo | ~$4–8/mo | Included in [Surfshark One](https://snipstack.io/surfshark-one-vs-norton-360-comparison-2026/) |
 | **Number type** | VoIP (real-ish) | VoIP (recycled pool) | VoIP | Real [phone number](https://snipstack.io/phone-number-for-tinder-privacy-2026/) |

@@ -91,7 +91,7 @@ Apple's built-in alias feature is genuinely excellent — unlimited aliases, sea
 
 ### Firefox Relay
 
-Mozilla's alias service is simple and trustworthy. The free tier gives you five email masks, which forward to your real inbox. The Premium tier adds phone masking and unlimited aliases.
+Mozilla's alias service is simple and trustworthy. The free tier gives you five [email mask](https://snipstack.io/email-mask-to-reduce-phishing-on-main-account-2026/)s, which forward to your real inbox. The Premium tier adds phone masking and unlimited aliases.
 
 **Free plan specifics:** 5 masks, forwarding only (no replies from the mask on the free tier), Mozilla branding on the forwarding domain. Five is enough for basic use but tight for anyone serious about compartmentalising their inbox.
 

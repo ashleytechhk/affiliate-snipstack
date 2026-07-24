@@ -82,7 +82,7 @@ To get started:
 3. Select your country and choose an available number
 4. Your number is active within seconds
 
-If you are already on a [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan, Alt Number is included — no additional cost.
+If you are already on a [Surfshark One](https://snipstack.io/surfshark-one-vs-bitdefender-total-security-2026/) plan, [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) is included — no additional cost.
 
 ### Step 2 — Complete Instagram Signup with Your [Virtual Number](https://snipstack.io/virtual-number-for-twitter-x-account-signup-2026/)
 

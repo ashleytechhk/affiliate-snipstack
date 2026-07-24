@@ -148,7 +148,7 @@ The table makes the tradeoff clear. The only method that actually prevents your 
 ## [How to Set](https://snipstack.io/how-to-set-up-vpn-on-iphone-2026/) Up a Protected Number in Under 5 Minutes
 
 1. **Download the Surfshark app** (iOS or Android) or go to your Surfshark account dashboard
-2. **Navigate to Alt Number** in the app menu — it is a tab in the main navigation
+2. **Navigate to [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/)** in the app menu — it is a tab in the main navigation
 3. **Select a US number** from the available pool — choose your preferred area code
 4. **Verify your real number once** during setup (this is for account security, not exposed to anyone you contact)
 5. **Start using the Alt Number** as your dating app contact number — share it instead of your real SIM number

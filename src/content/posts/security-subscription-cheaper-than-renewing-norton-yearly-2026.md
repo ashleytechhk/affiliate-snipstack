@@ -56,7 +56,7 @@ The device limit line matters most for multi-device households. Norton tiers you
 
 ## Antivirus: What You Actually Keep
 
-The first question anyone switching asks: am I still protected? Surfshark's antivirus handles real-time malware scanning, ransomware detection, and webcam protection, verified by independent testing labs rather than a marketing badge. For the everyday threats a household actually runs into — phishing links, malicious attachments, drive-by downloads — it covers the same ground Norton does.
+The first question anyone switching asks: am I still protected? Surfshark's antivirus handles real-time malware scanning, ransomware detection, and webcam protection, verified by independent testing labs rather than a marketing badge. For the everyday threats a household actually runs into — [phishing link](https://snipstack.io/phishing-link-checker-free-2026/)s, malicious attachments, drive-by downloads — it covers the same ground Norton does.
 
 ![Surfshark One antivirus and VPN comparison for former Norton subscribers](/og/security-subscription-cheaper-than-renewing-norton-yearly-2026-inline-1.png)
 
@@ -80,7 +80,7 @@ Surfshark Alert checks your email addresses, credit cards, and ID numbers agains
 
 ### Ad and Tracker Blocking
 
-CleanWeb blocks ads, trackers, and known malicious URLs at the network level, system-wide rather than in one browser. Norton's base bundle has no dedicated equivalent — you're typically adding a separate [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for similar coverage.
+CleanWeb blocks ads, trackers, and known [malicious URL](https://snipstack.io/malicious-url-scanner-free-2026/)s at the network level, system-wide rather than in one browser. Norton's base bundle has no dedicated equivalent — you're typically adding a separate [browser extension](https://snipstack.io/browser-extension-to-check-scam-sites-2026/) for similar coverage.
 
 ### Private Search
 

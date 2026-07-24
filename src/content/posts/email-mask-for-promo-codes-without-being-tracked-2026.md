@@ -105,7 +105,7 @@ For most people, Surfshark Alt-ID offers the best balance of ease-of-use and [id
 
 Frequently, yes. Retail marketing platforms commonly embed open-tracking pixels in promotional emails to measure engagement. This is standard email marketing practice, not something unique to any one brand — and masking your address alone doesn't stop a pixel from loading once the message is forwarded to your inbox.
 
-### Will an email mask stop the promo code from arriving?
+### Will an [email mask](https://snipstack.io/email-mask-to-reduce-phishing-on-main-account-2026/) stop the promo code from arriving?
 
 No — a masked address still forwards mail to your real inbox exactly like your normal address would. The retailer just never learns what that real inbox is. Codes, receipts, and confirmations all arrive as expected.
 

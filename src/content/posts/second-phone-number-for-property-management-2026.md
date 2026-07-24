@@ -108,7 +108,7 @@ Here is a practical checklist for setting up a [second phone number](https://sni
 
 **Step 1: Get your alt number before you start swiping.** Set it up before creating or updating any dating profiles, so the number is embedded in the account from day one.
 
-**Step 2: Use the alt number for app verification.** When a dating platform asks for your phone number during signup or identity verification, use the [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/). This decouples your real identity from the account.
+**Step 2: Use the [alt number for](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) app verification.** When a dating platform asks for your phone number during signup or identity verification, use the [virtual number](https://snipstack.io/virtual-number-for-international-business-calls-2026/). This decouples your real identity from the account.
 
 **Step 3: Give matches the alt number, not your real one.** When conversations progress to exchanging numbers, share the [virtual number](https://snipstack.io/virtual-number-for-google-account-verification-2026/). It functions identically from their side.
 

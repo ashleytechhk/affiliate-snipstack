@@ -78,7 +78,7 @@ Free-tier services like TextNow hand out numbers that have been through dozens o
 
 Don't start the DoorDash application until you have the number ready and verified. The application flow asks for a phone number early, and you want to be ready to receive the verification SMS immediately.
 
-**Using Alt Number:**
+**Using [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/):**
 1. Open the Surfshark app on iOS or Android
 2. Tap "Alt Number" in the bottom navigation
 3. Select your country (US) and pick an area code — choose one that matches where you drive, or a neutral metro code

@@ -113,7 +113,7 @@ The setup takes under five minutes:
 5. **Set expectations with buyers** — "Text this number for questions" keeps the conversation channel clean
 6. **Retire the number** after deals close if you want a clean slate
 
-If you are also using dating apps, create a second Alt Number for that context. The marginal cost is minimal; the privacy gain is substantial.
+If you are also using dating apps, create a second [Alt Number for](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/) that context. The marginal cost is minimal; the privacy gain is substantial.
 
 ---
 

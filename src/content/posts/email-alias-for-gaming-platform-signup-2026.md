@@ -113,7 +113,7 @@ SimpleLogin is an open-source alias service that Mozilla (Firefox) acquired in 2
 - Interface is more technical than Surfshark's consumer-friendly approach
 - No bundled VPN or other privacy tools
 
-SimpleLogin is a solid pick if your only goal is email masking and you are comfortable managing aliases in a slightly more technical dashboard.
+SimpleLogin is a solid pick if your only goal is [email mask](https://snipstack.io/email-mask-to-reduce-phishing-on-main-account-2026/)ing and you are comfortable managing aliases in a slightly more technical dashboard.
 
 ---
 

@@ -159,7 +159,7 @@ Alt-ID is included in [Surfshark One](https://snipstack.io/surfshark-one-for-col
 
 ## The Bottom Line
 
-If you're a Google Workspace user getting hammered by spam, the built-in secondary address feature is the wrong tool for the job. It's designed for internal routing and branding, not inbox protection. You need genuine email masking — aliases that are completely disconnected from your real address and deletable on demand.
+If you're a Google Workspace user getting hammered by spam, the built-in secondary address feature is the wrong tool for the job. It's designed for internal routing and branding, not inbox protection. You need genuine [email mask](https://snipstack.io/email-mask-to-reduce-phishing-on-main-account-2026/)ing — aliases that are completely disconnected from your real address and deletable on demand.
 
 Surfshark Alt-ID delivers exactly that. It generates unlimited masked aliases that work with your existing Workspace inbox, strips tracking pixels from forwarded messages, and requires zero admin configuration. SimpleLogin is a reasonable alternative for the technically inclined, but Alt-ID's bundled value and tracking protection make it the smarter pick for most Workspace users.
 

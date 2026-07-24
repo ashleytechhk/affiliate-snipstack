@@ -119,7 +119,7 @@ Firefox Relay caps the free tier at 5 [email mask](https://snipstack.io/email-ma
 **Free-tier reality:** 5 masks is a hard ceiling. If you're generating spam from 10+ services, you'll exhaust the free tier fast. The browser integration is the main differentiator.
 
 **Key features:**
-- Free: 5 email masks, tracker removal in forwarded emails
+- Free: 5 [email mask](https://snipstack.io/email-mask-to-reduce-phishing-on-main-account-2026/)s, tracker removal in forwarded emails
 - Paid: unlimited masks, 1 custom domain, phone masking, reply support
 - Built into Firefox browser
 

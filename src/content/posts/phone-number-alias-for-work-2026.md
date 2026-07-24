@@ -97,7 +97,7 @@ Before the comparison, here's the honest map of who this actually helps:
 
 **Number quality:** Real mobile numbers for most plans. Hushed has a good reputation for number quality that passes SMS verification on most platforms, including dating apps.
 
-**Global reach:** US, Canada, and UK. Better than Google Voice but narrower than Alt Number's framework. No good option if your work alias needs to function outside North America and the UK.
+**Global reach:** US, Canada, and UK. Better than Google Voice but narrower than [Alt Number](https://snipstack.io/alt-number-for-pet-sitting-dog-walking-bookings-2026/)'s framework. No good option if your work alias needs to function outside North America and the UK.
 
 **Cost:** Starts around $2/week or $5/month. No bundling — you pay for Hushed separately from any other service. This makes it cost-competitive with Alt Number only if you don't already have a Surfshark subscription.
 
